@@ -1,0 +1,630 @@
+,Number,Name,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Stephane  Porato,G,"6'00""",11  11,19-09-73,Colombes,Monaco,Ajaccio,2005,French
+4,4,Antonio  Carlos,D,"6'00""",12  01,22-06-83,Rio de  Janeiro,Fluminense,Ajaccio,2005,French
+5,5,Martial Robin,D,"5'08""",11 11,27-08-77,Marseille,Marseille,Ajaccio,2005,French
+6,6,Rodrigo  Lacerda Ramos,M,"6'00""",12  08,06-10-80,São  Bernardo da Campo,Atlético  Mineiro,Ajaccio,2005,French
+7,7,Romain Rocchi,M,"6'00""",11 11,02-10-81,Cavaillon,Paris  St-Germain,Ajaccio,2005,French
+8,8,Rafik  Saïfi,M,5'10'',11 05,07-02-75,Alger,Istres,Ajaccio,2005,French
+9,9,Lucas Pereira,F,"6'00""",12  10,02-05-82,Campinas,Portuguesa,Ajaccio,2005,French
+10,10,Edson  Marcelo de Faria,M,"5'11""",12  01,02-08-79,Curitiba,San  Luis,Ajaccio,2005,French
+11,11,Mathieu  Scarpelli,M,"6'00""",11  11,23-07-81,Grenoble,Cassis,Ajaccio,2005,French
+12,12,Christophe  Mandrichi,F,"6'00""",12  11,03-06-84,Bastia,Corte,Ajaccio,2005,French
+13,13,Frédéric Danjou,D,"6'00""",12 01,28-09-74,Clamart,Caen,Ajaccio,2005,French
+14,14,Moussa  N'Diaye,M,"5'10""",12  08,20-02-79,Pire,Istres,Ajaccio,2005,French
+15,15,Fabien Laurenti,D,"5'11""",11 11,06-01-83,Marseille,Marseille,Ajaccio,2005,French
+16,16,Stéphane Trévisan,G,"5'11""",11 13,01-05-73,Toulouse,Marseille,Ajaccio,2005,French
+18,18,Nenad  Dzodic,D,"6'02""",11  11,04-01-77,Belgrade,Vitória Guimarães,Ajaccio,2005,French
+19,19,Kaba Diawara,F,"5'10""",11  06,16-12-75,Toulon,Al-Ittihad,Ajaccio,2005,French
+21,21,Kamel Chafni,M,"5'11""",11 00,11-06-82,Bordeaux,Châteauroux,Ajaccio,2005,French
+22,22,Djamel  Abnoun,M,"5'09""",10  03,14-02-86,Montreuil-sous-Bois,Paris FC,Ajaccio,2005,French
+23,23,Franklin  Anzite,M,"6'05""",12  08,11-02-85,Bangui,Paris  FC,Ajaccio,2005,French
+24,24,Giany  Joinville,D,"6'03""",14  00,01-07-84,Saint  Claude,Gueugnon,Ajaccio,2005,French
+25,25,Xavier Collin,D,"5'08""",10 09,17-08-74,Charmes,Gueugnon,Ajaccio,2005,French
+27,27,Daouda Jabi,D,"5'10""",12 06,10-04-81,Pelundo,Lens,Ajaccio,2005,French
+28,28,André  Luiz Moriera,M,"6'00""",12  06,11-01-74,São  Paulo,Fluminense,Ajaccio,2005,French
+29,29,Xavier Becas,F,"5'07""",09 06,30-05-79,Tarbes,Sedan,Ajaccio,2005,French
+30,30,Florian Lucchini,G,"6'00""",12 08,13-02-81,Perpignan,GFCO Ajaccio,Ajaccio,2005,French
+33,33,Jean-Toussaint Moretti,M,"5'08""",10 01,12-03-80,Ajaccio,None,Ajaccio,2005,French
+34,34,Anthony Baron,D,"6'02""",11 07,09-04-86,Ajaccio,None,Ajaccio,2005,French
+41,99,Mickaël  Marquet,F,"6'01""",12  04,10-12-81,Alfortville,Dijon,Ajaccio,2005,French
+42,,Dimitri Lesueur,F,"5'11""",11  07,25-01-87,Blanc-Mesnil,None,Ajaccio,2005,French
+1,1,Fabien Cool,G,"6'01""",11 13,29-08-72,L'Isle-Adam,None,Auxerre,2005,French
+2,2,Johan Radet,D,"5'08""",11 11,24-11-76,La Fere,None,Auxerre,2005,French
+3,3,Jean-Sébastien Jaures,D,"5'09""",11 13,30-09-77,Tours,None,Auxerre,2005,French
+4,4,Stéphane Grichting,D,"6'01""",12 08,30-03-79,Sierre,Sion,Auxerre,2005,French
+5,5,René  Bolf,D,"6'02""",12  03,25-02-74,Ostrava,Baník  Ostrava,Auxerre,2005,French
+6,6,Philippe Violeau,M,"5'10""",11 04,19-08-70,Challans,Lyon,Auxerre,2005,French
+7,7,Benoit  Cheyrou,M,"5'11""",12  03,03-05-81,Suresnes,Lille,Auxerre,2005,French
+8,8,Yann Lachuer,M,"5'08""",11 00,05-08-72,Champigny-sur-Marne,Bastia,Auxerre,2005,French
+9,9,Luigi Pieroni,F,"6'02""",12  06,08-09-80,Liege,Excelsior  Mouscron,Auxerre,2005,French
+10,10,Thomas  Kahlenberg,M,"6'00""",11  05,20-03-83,Hvidovre,Brøndby,Auxerre,2005,French
+11,11,Kanga Gauthier Akale,F,"5'10""",10 12,07-03-81,Costa Marfil,FC Zürich,Auxerre,2005,French
+12,12,Jean-Pascal Mignot,M,"6'00""",11 11,26-02-81,Rouen,None,Auxerre,2005,French
+13,13,Mathieu Berson,M,"5'10""",11 09,23-02-80,Vannes,Aston Villa,Auxerre,2005,French
+16,16,Sébastien Hamel,G,"5'11""",11 04,20-11-75,Arpajon,Lorient,Auxerre,2005,French
+18,18,Lionel Mathis,M,"5'08""",10 12,04-10-81,Montreuil-sous-Bois,None,Auxerre,2005,French
+19,19,Pierre  Vignaud,D,"5'09""",10  01,10-03-83,Semur,None,Auxerre,2005,French
+20,20,Peguy  Luyindula,F,"5'10""",11  04,25-05-79,Kinshasa,Marseille,Auxerre,2005,French
+22,22,Richard  Suriano,D,"5'11""",10  03,28-01-82,Grenoble,None,Auxerre,2005,French
+23,23,Krisztián  Vadócz,M,"6'02""",11  11,30-05-85,Budapest,Honved,Auxerre,2005,French
+25,25,Oumar  Kalabane,D,"6'01""",12  06,08-04-81,Conakry,Etoile  du Sahel,Auxerre,2005,French
+26,26,Younes  Kaboul,D,"6'03""",13  10,04-01-86,St-Julien-en-Genevois,None,Auxerre,2005,French
+27,27,Mamoutou Coulibaly,D,"6'00""",12  08,23-02-84,Bamako,None,Auxerre,2005,French
+28,28,Romain  Poyet,F,"6'00""",11  13,25-11-80,Le  Coteau,Saint-Priest,Auxerre,2005,French
+29,29,Bakari  Sagna,D,"5'09""",11  05,14-02-83,Sens,None,Auxerre,2005,French
+30,30,Baptiste  Chabert,G,"6'00""",12  03,07-04-83,Beziers,None,Auxerre,2005,French
+31,31,Kevin  Lejeune,F,"6'01""",12  00,22-01-85,Cambrai,None,Auxerre,2005,French
+32,32,Garra  Dembele,F,"6'00""",11  03,21-02-86,Gennevilliers,None,Auxerre,2005,French
+33,33,Damien  Dufour,M,"6'02""",12  11,30-02-81,Migennes,None,Auxerre,2005,French
+34,34,Baptiste  Martin,D,"6'00""",10  12,14-05-85,Troyes,None,Auxerre,2005,French
+40,40,Ludovic  Genest,F,"5'08""",10  01,18-09-87,Thiers,None,Auxerre,2005,French
+41,41,David  Dareglosse,M,,,20-04-86,,None,Auxerre,2005,French
+42,42,Abdoul  Diakite,D,,,,,None,Auxerre,2005,French
+43,43,Karim  Hraiba,D,,,15-07-86,,None,Auxerre,2005,French
+44,44,Jesse  Londas,D,"5'11""",11 09,12-01-85,Créteil,None,Auxerre,2005,French
+45,45,Alexis Lafon,M,"6'00""",11 11,28-01-86,Versailles,None,Auxerre,2005,French
+46,46,Tomas  Mourlon,F,"5'10""",11 03,28-02-85,Auxerre,None,Auxerre,2005,French
+47,47,David  Pierre,D,"6'00""",12 08,27-02-86,Oullins,None,Auxerre,2005,French
+48,48,Stéphane  Veron,G,,,01-02-86,,None,Auxerre,2005,French
+49,49,Karim  Ziouane,D,,,11-06-86,,None,Auxerre,2005,French
+50,50,Mame  Ousmane Cissoko,F,"5'09""",10  10,14-01-87,Saint-Louis,None,Auxerre,2005,French
+51,51,Benoît  Tardieu,G,"6'02""",13 03,21-01-86,,None,Auxerre,2005,French
+52,52,Arnaud  Sauvage,G,"6'01""",11 11,01-02-84,Chaumont,None,Auxerre,2005,French
+53,53,Serge  Akakpo,D,"5'10""",11  03,15-10-87,Lomé,None,Auxerre,2005,French
+54,54,Irélé  Apo,D,"5'06""",09 11,16-01-87,Paris,None,Auxerre,2005,French
+55,,Alain Traoré,M,,,31-12-88,Ouagadougou,None,Auxerre,2005,French
+1,1,Frédéric Roux,G,"6'02""",12 06,27-06-73,Nancy,Nancy,Bordeaux,2005,French
+3,3,Henrique,D,"6'02""",12 04,02-05-83,São Gonçalo,Flamengo,Bordeaux,2005,French
+4,4,Beto,D,"6'01""",12  13,03-05-76,Lisbon,Sporting  CP,Bordeaux,2005,French
+5,5,Fernando Menegazzo,M,"6'01""",12  11,03-05-81,Anita Garibaldi,Siena,Bordeaux,2005,French
+6,6,Franck Jurietti,D,"5'08""",11 02,30-03-75,Valence,Monaco,Bordeaux,2005,French
+7,7,Lilian  Laslandes,F,"6'01""",12  12,04-09-71,Bordeaux,Nice,Bordeaux,2005,French
+8,8,Alejandro  Alonso,M,"5'07""",10  10,03-03-82,Buenos  Aires,Huracán,Bordeaux,2005,French
+9,9,Jean-Claude Darcheville,F,"5'07""",12 03,25-07-75,Sinnamary,Lorient,Bordeaux,2005,French
+10,10,Juan Pablo Francia,M,"5'08""",10 12,03-12-84,Cordoba,None,Bordeaux,2005,French
+11,11,Vladimir Smicer,M,"5'10""",11 10,24-05-73,Degin,Liverpool,Bordeaux,2005,French
+12,12,Edixon  Perea,F,"5'10""",11  07,20-04-84,Cali,Atlético  Nacional,Bordeaux,2005,French
+13,13,David Jemmali,D,"6'01""",12 06,13-12-74,Toulouse,Cannes,Bordeaux,2005,French
+14,14,Bruno  Cheyrou,M,"6'01""",12  08,10-05-78,Suresnes,Liverpool,Bordeaux,2005,French
+15,15,Ted Lavie,M,"5'10""",11  09,19-03-86,Montpellier,None,Bordeaux,2005,French
+16,16,Ulrich Ramé,G,"6'01""",13 00,19-09-72,Nantes,Angers,Bordeaux,2005,French
+18,18,Julien  Faubert,D,"5'10""",11  11,01-08-83,Le  Havre,Cannes,Bordeaux,2005,French
+19,19,Pierre Ducasse,M,"5'10""",11  07,07-05-87,Bordeaux,None,Bordeaux,2005,French
+22,22,Denilson,M,"5'09""",10  06,24-08-77,São Bernardo,Betis,Bordeaux,2005,French
+23,23,Florian Marange,D,"5'11""",12  00,03-03-86,Talence,None,Bordeaux,2005,French
+24,24,Rio Antonio Zoba Mavuba,M,"5'07""",10  01,08-03-84,Born At Sea,None,Bordeaux,2005,French
+27,27,Marc Planus,D,"5'10""",11 11,07-03-82,Bordeaux,None,Bordeaux,2005,French
+29,29,Marouane Chamakh,F,"6'00""",11 00,10-01-84,Tonnens,None,Bordeaux,2005,French
+30,30,Matthieu Valverde,G,"6'00""",12 03,14-05-83,Montreuil,None,Bordeaux,2005,French
+33,33,Paul Baysse,D,"6'00""",12 13,18-05-88,Talence,None,Bordeaux,2005,French
+34,34,Madimoussa Traoré,F,"6'00""",12  04,11-06-86,Choisy-le-Roi,None,Bordeaux,2005,French
+1,1,Thibault  Ferrand,G,"6'00""",11  07,26-03-86,Chambray-les-Tours,None,Le Mans,2005,French
+2,2,Luigi  Lavecchia,D,"5'10""",11  11,25-08-81,Turin,Juventus,Le Mans,2005,French
+3,3,Arnaud  Lisembart,D,"5'09""",10  08,29-12-84,Le  Mans,None,Le Mans,2005,French
+4,4,Bertrand  N'Dzomo,F,"5'10""",11  11,18-06-85,Domont,None,Le Mans,2005,French
+5,5,Frédéric Thomas,M,"5'08""",11 11,10-08-80,Sarcelles,Puiseaux,Le Mans,2005,French
+6,6,Olivier Thomas,D,"6'00""",12 06,06-10-74,Saint-Denis,Troyes,Le Mans,2005,French
+7,7,Yohan  Hautcoeur,M,"5'10""",10 07,30-10-81,Nantes,None,Le Mans,2005,French
+8,8,Jacques-Désiré  Périatambée,M,"5'11""",12 03,15-10-75,Curepipe,Grenoble,Le Mans,2005,French
+9,9,Ismael  Bangoura,F,"5'09""",11  11,02-01-85,Conakry,GFCO  Ajaccio,Le Mans,2005,French
+10,10,Sekou Baradji,M,"6'00""",12 01,24-04-84,Paris,None,Le Mans,2005,French
+11,11,N'Dri Romaric,M,"6'02""",13 12,04-06-83,Abidjan,Beveren,Le Mans,2005,French
+12,12,Grafite,F,"6'02""",12  06,02-04-79,Jundiaí,São Paulo,Le Mans,2005,French
+13,13,Sébastien Gormond,F,"5'09""",11 07,29-01-82,Paris,Moulins,Le Mans,2005,French
+14,14,Chiguy Lucau,F,"5'10""",13  09,04-08-84,Kinshasa,Paris  St-Germain,Le Mans,2005,French
+15,15,Grégory  Cerdan,D,"6'03""",12  13,28-07-82,Saint-Denis,None,Le Mans,2005,French
+16,16,Rodolphe Roche,G,"6'00""",12 08,14-06-79,Montluçon,Châteauroux,Le Mans,2005,French
+17,17,James Fanchone,F,5'10,10 07,21-02-80,Le Mans,None,Le Mans,2005,French
+18,18,Túlio  De Melo,F,"6'03""",13  01,31-01-85,Montes  Claros,Atlético  Mineiro,Le Mans,2005,French
+19,19,Yoann  Poulard,D,"6'02""",12  08,01-07-76,Saint-Nazaire,Angers,Le Mans,2005,French
+20,20,Laurent Bonnart,M,"5'06""",09 10,25-12-79,Chambray-lès-Tours,Tours,Le Mans,2005,French
+22,22,Daisuke  Matsui,M,"5'09""",10  01,11-05-81,Kyoto,Kyoto  Purple Sanga,Le Mans,2005,French
+23,23,Clément  Pinault,D,"6'01""",12  00,04-02-85,Grasse,Cannes,Le Mans,2005,French
+24,24,Yannick Fischer,D,"5'11""",11 09,17-12-74,Sainte-Foy-la-Grande,Strasbourg,Le Mans,2005,French
+25,25,Marko  Basa,D,"6'02""",11  11,29-12-82,Trstenik,OFK  Belgrade,Le Mans,2005,French
+26,26,Martin  Douillard,M,"5'08""",10  01,20-03-85,Les Sables  d'Olonne,None,Le Mans,2005,French
+27,27,Cédric Fauré,F,"6'01""",13 00,14-02-79,Toulouse,Le  Mans,Le Mans,2005,French
+28,28,David Chiumiento,F,"5'08""",10  08,22-11-84,Heiden,Juventus,Le Mans,2005,French
+29,29,Edorisi Ekhosuehi,F,"5'11""",12  08,20-05-84,Lagos,Espérance,Le Mans,2005,French
+30,30,Yohann Pele,G,"6'03""",12 06,04-11-82,Brou-sur-Chantereine,None,Le Mans,2005,French
+33,33,Guillaume  Loriot,M,"6'01""",10  10,21-05-86,Le  Mans,None,Le Mans,2005,French
+1,1,Sébastien  Chabbert,G,"6'00""",12 08,15-05-78,Pau,Metz,Lens,2005,French
+3,3,Hilton  Vitorino da Silva,D,"5'11""",11  06,13-09-77,Brasilia,Servette,Lens,2005,French
+4,4,Adama Coulibaly,D,"6'01""",13 00,09-10-80,Bamako,Djoliba,Lens,2005,French
+5,5,Nicolas  Gillet,D,"6'02""",12  12,08-11-76,Bretigny-sur-Orge,Nantes,Lens,2005,French
+7,7,Guillermo  Rodríguez,M,"6'00""",12  01,21-03-84,Montevideo,Atlas,Lens,2005,French
+8,8,Seydou Keita,M,"6'00""",11 11,16-01-80,Bamako,Lorient,Lens,2005,French
+9,9,Daniel Cousin,F,"6'01""",12 12,07-02-77,Libreville,Le  Mans,Lens,2005,French
+10,10,Eric Carrière,M,"5'08""",10 01,24-05-73,Foix,Lyon,Lens,2005,French
+11,11,Juisse,F,"5'11""",11  00,19-10-83,Nova  Venécia,Cruzeiro,Lens,2005,French
+13,13,Jonathan  Lacourt,M,"5'11""",11  03,17-08-86,Avignon,None,Lens,2005,French
+14,14,Pierre-Alain Frau,F,"5'08""",11 02,15-04-80,Montbéliard,Lyon,Lens,2005,French
+15,15,Yoann Lachor,D,"6'01""",12 08,17-01-76,Aire-sur-la-Lys,Servette,Lens,2005,French
+16,16,Arnaud Brocard,G,"6'01""",12 02,19-08-86,Dijon,Louhans-Cuiseaux,Lens,2005,French
+18,18,Olivier Thomert,F,"5'10""",11 11,28-05-80,Versailles,Le Mans,Lens,2005,French
+19,19,Kamil  Zayatte,D,"6'02""",13  10,07-03-85,Conakry,None,Lens,2005,French
+20,20,Mohammed Diamé,M,"5'11""",11 03,14-06-87,Créteil,None,Lens,2005,French
+21,21,Jonathan  Martins Pereira,D,"6'00""",11  03,30-01-86,Bayonne,None,Lens,2005,French
+22,22,Issam  Jemaa,F,"6'01""",12  08,28-01-84,Gabes,Espérance,Lens,2005,French
+23,23,Alou Diarra,D,6'03'',12  06,15-07-81,Villepinte,Liverpool,Lens,2005,French
+24,24,Kouamé  Kouadio,M,"5'08""",09 13,31-12-85,Abodo Doume,None,Lens,2005,French
+25,25,Simon  Feindouno,F,"5'09""",10  01,15-08-85,Conakry,None,Lens,2005,French
+26,26,Yohan Demont,D,"5'09""",10 09,15-05-78,Valenciennes,Ajaccio,Lens,2005,French
+27,27,Aruna  Dindane,F,"5'08""",10 10,26-11-80,Costa Marfil,Anderlecht,Lens,2005,French
+29,29,Seïd  Khiter,M,"5'07""",10  05,19-01-85,Roubaix,None,Lens,2005,French
+30,30,Charles Itandje,G,"6'03""",13 00,02-11-82,Bobigny,Red Star,Lens,2005,French
+31,31,Jimmy Kebe,M,"5'09""",13  10,19-01-84,Vitry-sur-Seine,None,Lens,2005,French
+32,32,Benoit Assou-Ekotto,D,"5'10""",10  12,24-03-84,Arras,None,Lens,2005,French
+34,34,Patrick Barul,D,"5'07""",10 12,02-10-77,Orleans,Cannes,Lens,2005,French
+40,40,Niki  Maenpäa,G,"6'02""",13  07,23-01-85,Espoo,HJK  Helsinki,Lens,2005,French
+41,,Adil Hermach,M,"5'10""",10  10,27-06-86,Nîmes,Nîmes,Lens,2005,French
+42,,Emelson Brito do  Rosario,F,"5'08""",11  09,11-02-86,,None,Lens,2005,French
+1,1,Tony  Mario Sylva,G,"6'00""",12  01,17-05-75,Guediawaye,Monaco,Lille,2005,French
+2,2,Mathieu Debuchy,M,"6'01""",11  04,28-07-85,Fretin,None,Lille,2005,French
+3,3,Alexis Zywiecki,D,"6'00""",11  09,10-04-84,Lesquin,None,Lille,2005,French
+4,4,Efstathios Tavlaridis,D,"6'00""",12 10,25-01-80,Serres,Arsenal,Lille,2005,French
+5,5,Rafael Schmitz,D,"5'11""",11 09,17-12-80,Blunemau,Malutrom,Lille,2005,French
+7,7,Yohan Cabaye,M,"5'09""",10  12,14-01-86,Tourcoing,None,Lille,2005,French
+8,8,Geoffrey Dernis,F,"5'07""",10 05,24-12-80,Grande-Synthe,None,Lille,2005,French
+9,9,Matt Moussilou,F,"5'11""",11 13,01-02-82,Paris,None,Lille,2005,French
+10,10,Daniel  Gygax,M,"5'09""",11  07,28-08-81,Baden,FC Zürich,Lille,2005,French
+11,11,Hicham  Aboucherouane,M,"6'00""",12  01,02-04-81,El Aounat,Raja Casablanca,Lille,2005,French
+12,12,Mathieu Bodmer,D,"6'02""",11 13,22-11-82,Evreux,Caen,Lille,2005,French
+13,13,Nicolas Fauvergue,F,"6'03""",12 10,13-10-84,Bethune,None,Lille,2005,French
+14,14,Peter  Odemwingie,F,"5'11""",11  11,15-07-81,Moscow,La Louvière,Lille,2005,French
+15,15,Milenko  Acimovic,M,"6'01""",12  08,15-02-77,Ljubljana,Tottenham  H,Lille,2005,French
+16,16,Grégory Malicki,G,"6'01""",13 05,20-11-73,Thiais,Rennes,Lille,2005,French
+17,17,Jean  II Makoun,F,"5'07""",10 03,29-05-83,Yaoundé,Tonnerre  Yaoundé,Lille,2005,French
+18,18,Kevin Ballaron,F,"5'09""",11  03,24-06-82,Oullins,Nîmes,Lille,2005,French
+19,19,Peter  Franquart,D,"5'11""",12  01,04-01-85,Lille,None,Lille,2005,French
+20,20,Grégory Tafforeau,D,"5'08""",10 09,29-09-76,Bois-Guillaume,Caen,Lille,2005,French
+21,21,Mathieu Chalme,D,"5'08""",11 00,07-10-80,Bruges,Libourne,Lille,2005,French
+22,22,Milivoje  Vitakic,D,"6'01""",12  11,16-05-77,Cacak,Crvena Zvezda,Lille,2005,French
+23,23,Abdul  Kader Keïta,F,"6'00""",12  04,06-08-81,Abidjan,Al-Sadd,Lille,2005,French
+24,24,Samuel  Robail,M,"5'08""",10  10,02-06-85,Cambrai,None,Lille,2005,French
+25,25,Nicolas Plestan,D,"6'00""",11 04,02-06-81,Nice,Monaco,Lille,2005,French
+26,26,Stephan Lichtsteiner,D,"5'11""",11  05,16-01-84,Adligenswil,Grasshoppers,Lille,2005,French
+27,27,Kevin Mirallas,F,"5'11""",11  11,05-10-87,Liège,None,Lille,2005,French
+28,28,Dieudonné Owona,D,"5'08""",12 00,28-02-86,Yaoundé,None,Lille,2005,French
+29,29,Stéphane Dumont,D,"5'11""",11 13,06-09-82,Seclin,None,Lille,2005,French
+30,30,Laurent Pichon,G,"6'01""",11 11,08-03-81,Calais,None,Lille,2005,French
+31,31,Mathieu Robail,M,"5'08""",10  10,02-06-85,Cambrai,None,Lille,2005,French
+32,32,Yohan  Lacroix,G,"6'04""",13  01,01-02-85,Thonon-les-bains,None,Lille,2005,French
+33,33,Flavien Le Postollec,M,"6'00""",11  07,19-02-84,Abidjan,Vitrolles,Lille,2005,French
+34,34,Larsen Touré,F,"6'01""",11 11,20-07-84,Brest,Tourcoing,Lille,2005,French
+41,,Serge  Djamba,M,"5'11""",10  12,20-02-82,Kinshasa,La  Louvière,Lille,2005,French
+1,1,Grégory Coupet,G,"5'10""",12 08,31-12-72,Le Puy-en-Velay,St-Etienne,Lyon,2005,French
+3,3,Cris,D,"6'00""",12  01,06-03-77,Guarulhos,Cruzeiro,Lyon,2005,French
+4,4,Patrick  Müller,D,"6'00""",10  12,17-12-76,Geneva,Basel,Lyon,2005,French
+5,5,Claudio Caçapa,D,"6'00""",12 01,29-05-76,Lavras,Atlético Mineiro,Lyon,2005,French
+6,6,Jérémy  Clément,M,"5'08""",09  08,26-08-84,Béziers,None,Lyon,2005,French
+7,7,Mahamadou Diarra,M,"6'00""",11 13,18-05-81,Bamako,Vitesse Arnhem,Lyon,2005,French
+8,8,Juninho  Pernambucano,M,"5'10""",11 09,30-01-75,Recife,Vasco da Gama,Lyon,2005,French
+9,9,John Carew,F,"6'05""",14 00,05-09-79,Lorenskog,Beşiktaş,Lyon,2005,French
+10,10,Florent Malouda,M,"5'11""",11 06,13-06-80,Cayenne,Guingamp,Lyon,2005,French
+11,11,Fred,F,"6'01""",11  11,03-10-83,Teyfilo Otoni,Cruzeiro,Lyon,2005,French
+12,12,Anthony Réveillère,D,"5'10""",12 01,10-11-79,Doué-La-Fontaine,Rennes,Lyon,2005,French
+14,14,Sidney Govou,F,"5'08""",11 04,24-07-79,Le Puy-en-Valay,None,Lyon,2005,French
+15,15,Lamine  Diatta,D,"6'00""",11  13,02-07-75,Dakar,Rennes,Lyon,2005,French
+18,18,Hatem  Ben Arfa,F,"5'10""",10  12,07-03-87,Clamart,None,Lyon,2005,French
+19,19,Karim  Benzema,F,"5'11""",11  00,17-02-87,Lyon,None,Lyon,2005,French
+20,20,Eric Abidal,D,"5'10""",11 11,11-07-79,Lyon,Lille,Lyon,2005,French
+21,21,Tiago,M,"5'10""",11 00,02-05-81,Viana do Castelo,Chelsea,Lyon,2005,French
+22,22,Sylvain  Wiltord,F,"5'08""",11  13,10-05-74,Neuilly-sur-Mame,Arsenal,Lyon,2005,French
+23,23,Jérémy Berthod,D,"5'10""",11 09,24-04-84,Tassin-la-Demi-Lune,None,Lyon,2005,French
+24,24,Sylvain Monsoreau,D,"6'01""",12 08,20-03-81,Saint-Cyr-L'Ecole,Sochaux,Lyon,2005,French
+25,25,Johan  Hartock,G,"6'02""",13  01,12-02-87,La  Trinité,AS Robert,Lyon,2005,French
+26,26,Benoît Pedretti,M,"5'09""",10  12,12-11-80,Audincourt,Marseille,Lyon,2005,French
+29,29,Grégory Bettiol,F,"5'11""",12 06,30-03-86,Villefranche-sur-Saône,None,Lyon,2005,French
+30,30,Rémy Vercoutre,G,"6'00""",11 04,26-06-80,Grande-Synthe,Montpellier,Lyon,2005,French
+31,31,François Clerc,D,"6'01""",12 01,18-04-83,Bourg en Bresse,None,Lyon,2005,French
+32,32,Romain  Beynie,M,"5'09""",10  12,06-05-87,Lyon,None,Lyon,2005,French
+35,35,Rémy  Riou,G,"6'02""",12  11,06-08-87,Lyon,None,Lyon,2005,French
+37,37,Sandy  Paillot,D,"6'03""",12  06,27-02-87,Lyon,None,Lyon,2005,French
+38,38,Mourad  Benhamida,D,"5'09""",10 03,18-01-86,Villeurbanne,None,Lyon,2005,French
+39,39,Aurelien  Brugniaud,M,"6'00""",12  04,07-01-87,Le Creusot,None,Lyon,2005,French
+40,40,Anthony  Mounier,M,,,27-09-87,,None,Lyon,2005,French
+1,1,Cédric Carasso,G,"6'03""",13 12,30-12-81,Avignon,Avignon,Marseille,2005,French
+2,2,André  Luis,D,"6'04""",13  08,31-07-79,Bagé,Benfica,Marseille,2005,French
+3,3,Taye  Ismaila Taiwo,D,"6'00""",12  02,16-04-85,Lagos,Lobi  Star,Marseille,2005,French
+4,4,Demetrius  Ferreira,D,"5'07""",11  00,19-01-74,Sao  Paulo,Bastia,Marseille,2005,French
+5,5,Frédéric  Déhu,D,"6'01""",12  03,24-10-72,Villeparisis,Paris  St-Germain,Marseille,2005,French
+6,6,José Delfim,M,"5'08""",12 12,05-02-77,Amarante,Sporting  CP,Marseille,2005,French
+7,7,Franck Ribéry,M,"5'06""",09 10,01-04-83,Boulogne-sur-Mer,Galatasaray,Marseille,2005,French
+8,8,Wilson Oruma,M,"5'08""",11 00,30-12-76,Warri,Sochaux,Marseille,2005,French
+9,9,Toifilou  Maoulida,F,"6'00""",12  01,08-06-79,Dzaoudzi,Monaco,Marseille,2005,French
+11,11,Mamadou Niang,F,"5'10""",12 08,13-10-79,Matam,Strasbourg,Marseille,2005,French
+12,12,Abdoulaye Méité,D,"6'00""",12 12,10-06-80,Paris,Red Star,Marseille,2005,French
+13,13,Christian  Gimenez,F,"6'00""",12 00,13-11-74,Buenos Aires,Basel,Marseille,2005,French
+14,14,Sabri Lamouchi,M,"5'09""",11  05,09-11-71,Lyon,Internazionale,Marseille,2005,French
+16,16,Fabien Barthez,G,"6'00""",11 13,28-06-71,Lavelanet,Manchester U,Marseille,2005,French
+18,18,Jérôme  Bonnissel,D,"5'10""",10  10,11-04-73,Montpellier,Fulham,Marseille,2005,French
+19,19,Lorik Cana,M,"6'00""",12 01,27-07-83,Pristina,Paris  St-Germain,Marseille,2005,French
+21,21,Alain  Cantareil,D,"5'10""",11  00,15-08-83,Marseille,None,Marseille,2005,French
+22,22,Samir  Nasri,M,"5'09""",11  11,20-06-87,Marseille,None,Marseille,2005,French
+23,23,Habib Beye,D,"5'11""",12 06,19-10-77,Suresnes,Strasbourg,Marseille,2005,French
+25,25,Mickaël Pagis,F,"5'10""",12 03,17-08-73,Angers,Strasbourg,Marseille,2005,French
+26,26,Bostjan Cesar,D,"6'03""",13 10,09-07-82,Ljubljana,Dinamo Zagreb,Marseille,2005,French
+28,28,Renato  Civelli,D,"6'03""",13  10,14-10-83,Pehuajó,Banfield,Marseille,2005,French
+30,30,Yannick  Quesnel,G,5'11'',11  11,24-10-73,Libourne,Benfica,Marseille,2005,French
+31,31,Fabrice  Begeorgi,F,"5'10""",11 00,20-04-87,Martigues,None,Marseille,2005,French
+32,32,Thomas  Deruda,M,"6'01""",12 04,13-07-86,Marseille,None,Marseille,2005,French
+33,33,Medhi  Benatia,D,"6'02""",13 12,17-04-87,Concouronnes,None,Marseille,2005,French
+34,34,Khalifa  Elhadj Ba,D,"6'02""",11  05,12-10-85,Dakar,Martigues,Marseille,2005,French
+35,35,Anthony  Flachi,M,"5'07""",09 11,06-02-86,Marseille,None,Marseille,2005,French
+36,36,Mame N'Diaye,M,"5'10""",11 00,11-01-86,Thiès,None,Marseille,2005,French
+37,37,Alexis  Pradie,D,"5'11""",11 09,21-01-87,Lyon,None,Marseille,2005,French
+39,39,Alexandre  Salvat,G,,,,,None,Marseille,2005,French
+41,41,Bruce  Uras,F,,,25-03-87,,None,Marseille,2005,French
+1,1,Grégory  Wimbee,G,"6'03""",13  00,19-08-71,Essay-les-Nancy,Lille,Metz,2005,French
+2,2,Franck  Béria,D,"5'10""",11 04,23-05-83,Argenteuil,None,Metz,2005,French
+4,4,Mehdi Méniri,D,"6'02""",13 00,29-06-77,Metz,Troyes,Metz,2005,French
+5,5,Stéphane Borbiconi,D,"6'00""",12 08,22-03-79,Villerupt,None,Metz,2005,French
+6,6,Bruno  Pompière,D,"6'00""",11  11,10-06-80,Saint-Maurice,Beauvais,Metz,2005,French
+8,8,Souleymane Youla,F,"5'11""",12 00,29-11-81,Gine,Beşiktaş,Metz,2005,French
+9,9,Hervé  Tum,F,"6'00""",12  08,15-02-79,Yaoundé,FC  Basel,Metz,2005,French
+10,10,Abdelnasser Ouadah,M,"5'08""",11 02,13-09-75,Forbach,Ajaccio,Metz,2005,French
+11,11,Babacar Gueye,F,"6'00""",11 04,02-03-86,Dakar,None,Metz,2005,French
+12,12,Grégory Proment,D,"5'09""",10 12,10-12-78,Paris,None,Metz,2005,French
+13,13,Ludovic  Obraniak,M,"5'07""",10 09,10-11-84,Longueville-lès-Metz,None,Metz,2005,French
+14,14,Mamam  Cherif Touré,M,"6'00""",12  11,13-01-81,Mango,Livingston,Metz,2005,French
+16,16,Kossi Agassa,G,"6'02""",13 00,07-07-78,Lomé,Africa Sports,Metz,2005,French
+17,17,Sébastien  Bassong,D,"6'00""",10  12,09-07-86,Paris,None,Metz,2005,French
+20,20,Szabolcs  Huszti,D,"5'08""",11  00,18-04-83,Miskolc,Ferencváros,Metz,2005,French
+21,21,Laurent  Agouazi,M,"6'00""",12  06,16-03-84,Langres,None,Metz,2005,French
+22,22,Jamel Alioui,D,"5'10""",11  11,02-06-82,Saint-Etienne,Crotone,Metz,2005,French
+23,23,Dino Djiba,M,"6'02""",12 01,20-12-85,Dakar,None,Metz,2005,French
+24,24,Ruslan  Pimenov,F,"5'09""",12  04,25-11-81,Moscow,Lokomotiv  Moscow,Metz,2005,French
+25,25,Momar  N'Diaye,F,"5'11""",11  09,13-07-87,Yeumbeul,None,Metz,2005,French
+26,26,Sébastien Renouard,F,"5'10""",10 05,11-06-84,Nancy,None,Metz,2005,French
+27,27,Roy  Contout,F,"5'08""",11  07,11-02-85,Cayenne,None,Metz,2005,French
+28,28,Carl Medjani,D,"5'11""",11  05,15-05-85,Lyon,Liverpool,Metz,2005,French
+29,29,Stéphane Morisot,D,"5'10""",11 11,11-01-78,Langres,None,Metz,2005,French
+30,30,Christophe Marichez,G,6'00'',11 11,12-12-74,Hazebrouck,Niort,Metz,2005,French
+32,32,Hemza Mihoubi,D,"5'10""",11  09,13-01-86,Oran,None,Metz,2005,French
+33,33,Flavien  Belson,M,"6'02""",12  06,22-02-87,Sainte  Adresse,None,Metz,2005,French
+34,34,Jin Ouk Kang,M,"5'11""",11  07,13-02-86,Seoul,None,Metz,2005,French
+40,40,Jocelyn  Mayebi,G,"6'02""",14  02,14-10-86,Douala,None,Metz,2005,French
+41,45,Baptiste  Schmisser,D,"6'04""",13  03,26-02-86,Metz,None,Metz,2005,French
+42,,Oumar Sissoko,G,"6'01""",13  01,13-09-87,Montreuil-sous-Bois,None,Metz,2005,French
+43,,Gaëtan Bong,D,"6'00""",11  09,25-04-88,,None,Metz,2005,French
+44,,Mamadou  Diakité,M,"6'01""",12  00,22-05-85,Rosny-sur-Bois,Vitória  Setúbal,Metz,2005,French
+45,,Christophe  Walter,M,"5'10""",11  09,26-01-83,Saint  Avold,None,Metz,2005,French
+46,,Nicolas  Farina,F,"5'05""",09  06,09-08-86,Metz,None,Metz,2005,French
+1,1,Guillaume  Warmuz,G,6'01'',13  01,22-05-70,Saint-Vallier,Borussia  Dortmund,Monaco,2005,French
+3,3,Manuel  Dos Santos,D,"5'10""",11  13,28-03-75,Praïa,Benfica,Monaco,2005,French
+4,4,François  Modestó,D,"6'00""",11  11,19-08-78,Bastia,Cagliari,Monaco,2005,French
+5,5,Diego Pérez,M,"5'10""",12  08,18-05-80,Montevideo,Peñarol,Monaco,2005,French
+6,6,Jaroslav Plasil,M,"5'11""",11 04,05-01-82,Opocno,None,Monaco,2005,French
+7,7,Lucas Ademar Bernardi,M,"5'07""",10 12,27-09-77,Rosario,Marseille,Monaco,2005,French
+8,8,Gerard,M,"5'11""",11  00,12-03-77,Barcelona,Barcelona,Monaco,2005,French
+9,9,Ernesto Javier  Chevanton,F,"5'08""",10  06,12-08-80,Juan Lacaze,Lecce,Monaco,2005,French
+10,10,Alexandre Licata,F,"5'10""",12  00,01-02-84,Grenoble,Louhans-Cuiseaux,Monaco,2005,French
+13,13,Douglas  Maicon,D,"6'00""",12  01,06-07-81,Criciùma,Cruzeiro,Monaco,2005,French
+15,15,Vasilis Andreas Zikos,M,"5'10""",12 03,01-06-74,Athens,AEK Athens,Monaco,2005,French
+16,16,André Biancarelli,G,"5'10""",11  11,11-03-70,Avignon,Metz,Monaco,2005,French
+17,17,Olivier Kapo,F,"6'00""",12 03,27-09-80,Abidjan,Juventus,Monaco,2005,French
+18,18,Eric Cubillier,D,"5'11""",11 11,09-08-79,Nice,Nice,Monaco,2005,French
+19,19,Sébastien Squillaci,D,"6'00""",11 13,08-11-80,Toulon,Toulon,Monaco,2005,French
+20,20,Arnauld  Lescure,D,"5'11""",12  06,13-02-86,Auch,None,Monaco,2005,French
+21,21,Camel  Meriem,M,"5'08""",11  00,18-10-79,Montbéliard,Bordeaux,Monaco,2005,French
+22,22,David  Gigliotti,F,"5'09""",11  09,30-05-85,Martigues,None,Monaco,2005,French
+23,23,Marco Di Vaio,F,"5'10""",12  00,15-07-76,Rome,Valencia,Monaco,2005,French
+27,27,Frédéric  Nimani N'Galou,F,"6'03""",13 05,08-10-88,Marseille,None,Monaco,2005,French
+28,28,Nicolas  Maurice-Belay,F,"5'11""",11  07,19-04-85,Sucy-en-Brie,None,Monaco,2005,French
+29,29,Maullaury  Martin,M,,,25-08-88,,None,Monaco,2005,French
+30,30,Flavio Roma,G,"6'03""",13 07,21-06-74,Rome,Piacenza,Monaco,2005,French
+31,31,Olivier  Veigneau,D,"5'08""",10  03,16-07-85,Suresnes,None,Monaco,2005,French
+32,32,Gaël Givet,D,"5'11""",11 11,09-10-81,Arles,None,Monaco,2005,French
+33,33,Alexis  Allart,F,"5'11""",11  00,07-08-86,Charleville-Mézières,None,Monaco,2005,French
+34,34,Serge  Gakpe,F,"5'09""",10  10,07-05-87,Bondy,None,Monaco,2005,French
+35,35,Thomas  Mangani,D,"6'00""",12 06,29-04-87,Carpentras,None,Monaco,2005,French
+36,36,Christian Vieri,F,"6'01""",12 13,12-07-73,Bologna,Milan,Monaco,2005,French
+41,,Massamba Lô Sambou,D,"6'02""",11  11,17-09-86,Kolda,Centre Aldo Gentina,Monaco,2005,French
+1,1,Gennaro Bracigliano,G,"5'11""",12 03,01-03-80,Forbach,None,Nancy,2005,French
+3,3,Pape Diakhaté,D,"5'11""",11 11,21-06-84,Dakar,None,Nancy,2005,French
+4,4,Cédric Lecluse,D,"6'00""",13 00,29-03-72,Epinay-sur-Seine,Shanghai Cosco Huili,Nancy,2005,French
+5,5,Andre  Luiz,D,"6'01""",12  13,27-01-80,São  João del Rei,Atlético  Mineiro,Nancy,2005,French
+6,6,Pascal Berenguer,M,"5'10""",11 11,20-05-81,Marseille,Istres,Nancy,2005,French
+7,7,Emmanuel Duchemin,M,"5'08""",10 09,14-03-79,Amiens,Ameins,Nancy,2005,French
+8,8,Frédéric Biancalani,D,"5'11""",11 13,21-07-74,Villerupt,Walsall,Nancy,2005,French
+9,9,Kim,F,"5'10""",12  04,22-06-80,Juiz  de Fora,Al  Ahli,Nancy,2005,French
+11,11,Moncef Zerka,M,"5'10""",11 00,31-08-81,Orléans,None,Nancy,2005,French
+12,12,Dagui  Bakari,F,"6'03""",14  02,06-09-74,Paris,Lens,Nancy,2005,French
+15,15,Abdoulaye  Khouma Keita,M,"6'02""",12  11,23-10-78,Rufisque,Iraklis,Nancy,2005,French
+16,16,Olivier Sorin,G,"6'02""",11 13,16-04-81,Gien,None,Nancy,2005,French
+17,17,Gaston Curbelo,F,"5'09""",11 13,08-04-76,Nancy,Hurucan Buceo,Nancy,2005,French
+18,18,Adrian  Sarkisian,M,"5'10""",12  00,13-02-79,Montevideo,River  Plate [URU],Nancy,2005,French
+19,19,Jérémy  Sapina,M,"6'01""",12  11,01-02-85,Rillieux-la-Pape,None,Nancy,2005,French
+20,20,Michaël  Chrétien,M,"5'10""",10 01,10-07-84,Nancy,None,Nancy,2005,French
+21,21,Gergely  Rudolf,F,"5'10""",12  00,09-03-85,Nyiregyhaza,None,Nancy,2005,French
+22,22,Zahi-Verges  'Eli' Kroupi,F,"5'08""",11  06,18-10-79,Sassandra,Lorient,Nancy,2005,French
+23,23,Jonathan Brison,M,"5'10""",11 04,07-02-82,Soissons,None,Nancy,2005,French
+24,24,Benjamin Gavanon,M,"5'10""",11 04,20-09-83,Marseille,Marseille,Nancy,2005,French
+25,25,Adailton,D,"5'07""",10  12,26-12-79,Salvadoi,Criciúma,Nancy,2005,French
+26,26,Landry  N'Guemo,M,"5'08""",11  00,28-11-85,Yaoundé,None,Nancy,2005,French
+28,28,Sébastien Puygrenier,D,"6'01""",10 01,28-01-82,Limoges,Rennes,Nancy,2005,French
+30,30,Johan  Lapeyre,G,"5'11""",12  06,03-08-85,Le  Plessis-Bouchard,None,Nancy,2005,French
+31,31,Manuel  Da Costa,D,"6'02""",12  04,06-05-86,Saint-Max,None,Nancy,2005,French
+32,32,Patrick  N'Tolla,D,"5'09""",11  09,30-07-87,Douala,Boulogne-Billancourt,Nancy,2005,French
+33,33,Romain  Chouleur,M,"5'10""",10  06,10-01-86,Nancy,None,Nancy,2005,French
+34,34,Basile Camerling,F,"6'00""",12  02,19-04-87,Laxou,None,Nancy,2005,French
+41,,Benjamin Brat,D,"6'01""",12 13,10-01-86,Roanne,None,Nancy,2005,French
+42,,Romain Wingerter,D,"5'11""",11  00,28-02-86,Nancy,None,Nancy,2005,French
+1,1,Mickaël Landreau,G,"6'00""",12 08,14-05-79,Machecoul,None,Nantes,2005,French
+3,3,Franck Signorino,D,"5'08""",09 06,19-09-81,Nogent-sur-Marne,Metz,Nantes,2005,French
+4,4,Mauro  Cetto,D,"5'11""",12  03,14-04-82,Rosario,Rosario  Central,Nantes,2005,French
+5,5,Jean-Jacques Pierre,D,"5'11""",12  06,23-01-81,Leogane,Peñarol,Nantes,2005,French
+6,6,Emerse  Fae,M,"5'08""",11 00,24-01-84,Nantes,None,Nantes,2005,French
+7,7,Guillaume  Norbert,D,"5'10""",11  13,14-10-80,Châtenay-Malabry,Angers,Nantes,2005,French
+8,8,Frédéric da Rocha,M,"5'09""",11 02,16-09-74,Cénon,None,Nantes,2005,French
+9,9,Dennis Oliech,F,"5'11""",12  08,02-02-85,Nairobi,Al Arabi,Nantes,2005,French
+11,11,Aurèlien  Capoue,M,"6'00""",11  09,28-02-82,Niort,Romorantin,Nantes,2005,French
+12,12,Pascal Delhommeau,D,"6'02""",13 05,14-08-78,Nantes,None,Nantes,2005,French
+13,13,Mamadou  Diallo,F,"5'10""",12  00,17-04-82,Bamako,USM  Alger,Nantes,2005,French
+14,14,Olivier Quint,M,"5'11""",11 11,29-11-71,Saint-Quentin,Sedan,Nantes,2005,French
+15,15,Nicolas Savinaud,M,"6'00""",10 12,20-11-75,Fontenay-le-Comte,None,Nantes,2005,French
+16,16,Tony Heurtebis,G,6'00'',11 11,15-01-75,Saint-Nazaire,Brest,Nantes,2005,French
+17,17,Jérémy Toulalan,M,"6'00""",12 01,10-09-83,Nantes,None,Nantes,2005,French
+18,18,Imed  Mhedhebi,M,"5'09""",10  12,22-03-76,Tunis,Etoile  du Sahel,Nantes,2005,French
+20,20,Karim  El Mourabet,D,"6'00""",12  08,30-04-87,Orléans,None,Nantes,2005,French
+21,21,Luigi Glombard,F,"5'10""",11 11,21-08-84,Montreuil,None,Nantes,2005,French
+22,22,Steven  Thicot,D,"6'01""",12  11,14-02-87,Montrieul-sous-Bois,None,Nantes,2005,French
+23,23,Bocundji  Ca,M,"5'07""",10  12,28-12-86,Biombo,None,Nantes,2005,French
+24,24,Loïc Guillon,D,"6'01""",12 03,11-01-82,Limoges,None,Nantes,2005,French
+25,25,Julio Hernán Rossi,F,"5'09""",11 07,22-02-77,Mar del Plata,Basel,Nantes,2005,French
+26,26,Habib  Bamogo,F,"5'09""",11  04,08-05-82,Paris,Marseille,Nantes,2005,French
+27,27,Fouad  Bouguerra,F,"6'00""",11  00,07-05-81,Montélimar,Montélimar,Nantes,2005,French
+28,28,Claudiu  Keserü,F,"5'10""",12  11,02-12-86,Oradea,Oredea,Nantes,2005,French
+29,29,Milos  Dimitrijevic,M,"5'11""",11  05,16-02-84,Belgrade,None,Nantes,2005,French
+30,30,Perica Radic,G,"5'11""",12 10,13-03-84,Smederevo,None,Nantes,2005,French
+33,33,Dimitri  Payet,M,"5'09""",11 00,29-03-87,St-Pierre de la Réunion,St-Joesph  (Réunion),Nantes,2005,French
+34,34,Kévin  Das Neves,D,"6'00""",11 11,08-05-86,Clermont-Ferrand,None,Nantes,2005,French
+35,35,David  Leray,D,"5'11""",11  07,02-03-84,Sinat-Père-en-Retz,None,Nantes,2005,French
+1,1,Hugo  Lloris,G,"6'01""",11  06,26-12-86,Nice,None,Nice,2005,French
+2,2,Cédric Varrault,D,"5'11""",11 00,30-01-80,Blois,None,Nice,2005,French
+3,3,Bill Tchato,D,5'09'',11  11,14-05-74,M'Biam,Kaiserslautern,Nice,2005,French
+5,5,François Grenet,M,"5'10""",11 11,08-03-75,Bordeaux,Rennes,Nice,2005,French
+6,6,Olivier Echouafni,M,"6'00""",11 02,13-09-72,Menton,Rennes,Nice,2005,French
+7,7,Roberto Bisconti,M,"6'00""",12  06,21-07-73,Montegnee,Standard  Liège,Nice,2005,French
+8,8,Sébastien  Roudet,M,"5'10""",10  07,16-06-81,Montluçon,Châteauroux,Nice,2005,French
+9,9,Souleymane Camara,F,"5'08""",11 04,22-12-82,Dakar,Monaco,Nice,2005,French
+10,10,Ederson,M,"5'11""",11  09,13-01-86,Parapua,Juventude,Nice,2005,French
+11,11,Mamadou  Bagayako,F,"6'02""",12  06,21-05-79,Paris,Nantes,Nice,2005,French
+12,12,Bakary Koné,F,"5'04""",09 08,17-09-81,Abidjan,Lorient,Nice,2005,French
+13,13,Jacques Abardonado,D,"6'00""",12 06,27-05-78,Marseille,Marseille,Nice,2005,French
+14,14,Florent Balmont,M,"5'09""",10 09,02-02-80,Sainte-Foy-les-Lyon,Lyon,Nice,2005,French
+15,15,Florian  Jarjat,D,"5'11""",11  05,18-02-80,Valence,Valence,Nice,2005,French
+16,16,Damien Gregorini,G,"6'04""",14 02,02-03-79,Nice,Marseille,Nice,2005,French
+17,17,Sammy Traore,D,"6'03""",12 12,25-02-76,Créteil,Créteil,Nice,2005,French
+18,18,David Bellion,F,6'00'',11 09,27-11-82,Paris,Manchester U,Nice,2005,French
+19,19,Marama  Vahirua,F,"5'08""",09  13,12-05-80,Tahiti,Nantes,Nice,2005,French
+20,20,Franco  Dolci,M,"5'09""",11  00,01-01-84,Cordoba,Matienzo,Nice,2005,French
+21,21,Anther Yahia,D,"6'00""",11 11,21-03-82,Mulhouse,Bastia,Nice,2005,French
+22,22,Kamel  Larbi,F,"5'10""",10  01,20-02-85,Antibes,None,Nice,2005,French
+23,23,Drissa  Diakité,M,"5'09""",10  12,18-02-85,Bamako,MC  Alger,Nice,2005,French
+24,24,Rod Fanni,D,"6'01""",12 03,06-12-81,Martigues,Lens,Nice,2005,French
+26,26,Cyril Rool,M,"5'09""",11  04,15-04-75,Perthuis,Bordeaux,Nice,2005,French
+27,27,Yoann Bigne,M,"5'06""",10 03,23-08-77,Rennes,Rennes,Nice,2005,French
+28,28,Fabien  Lamatina,M,"5'10""",10  12,03-07-85,Seyne  sur Mer,None,Nice,2005,French
+30,30,Jérémie Moreau,G,"6'01""",12 01,22-07-80,Bourges,Rouen,Nice,2005,French
+41,,Onyekachi  Apam,D,"5'03""",11  11,30-12-86,,Enugu  Rangers,Nice,2005,French
+42,,Rainford Kalaba,M,,,14-08-86,,None,Nice,2005,French
+43,,Mickaël Buscher,F,"6'01""",11  05,11-01-87,Landerneau,None,Nice,2005,French
+44,,Olivier  Fauconnier,F,"6'02""",12  06,22-06-76,Les  Abymes,Ajaccio,Nice,2005,French
+1,1,Lionel Letizi,G,"6'01""",12 08,28-05-73,Nice,Metz,Paris Saint-Germain,2005,French
+2,2,Stéphane Pichot,D,"5'10""",11 11,02-09-76,Ernée,Lille,Paris Saint-Germain,2005,French
+3,3,Jean-Michel Badiane,D,"5'11""",11 04,09-05-83,Paris,None,Paris Saint-Germain,2005,French
+4,4,David Rozenahl,D,"6'03""",12 06,05-07-80,Sternberk,Club Brugge,Paris Saint-Germain,2005,French
+5,5,Bernard Mendy,D,"5'10""",12 01,20-08-81,Evreux,Caen,Paris Saint-Germain,2005,French
+6,6,Mario Yepes,D,"6'01""",13 00,13-01-76,Cali,Nantes,Paris Saint-Germain,2005,French
+7,7,Fabrice  Pancrate,F,"6'01""",11  09,02-05-80,Paris,Le  Mans,Paris Saint-Germain,2005,French
+8,8,Edouard  Cisse,M,"6'01""",11  13,30-03-78,Pau,Pau,Paris Saint-Germain,2005,French
+9,9,Pauleta,F,"5'10""",12 03,28-04-73,Ponta Delgada,Bordeaux,Paris Saint-Germain,2005,French
+10,10,Vikash Dhorasoo,M,"5'06""",09 12,10-10-73,Harfleur,Milan,Paris Saint-Germain,2005,French
+12,12,Cristian  Rodríguez,M,"5'09""",11  05,30-09-85,Montevideo,Peñarol,Paris Saint-Germain,2005,French
+13,13,Hocine  Ragued,M,"5'09""",09  13,11-02-83,Saint-Germain,None,Paris Saint-Germain,2005,French
+14,14,Rudy  Haddad,M,"5'11""",12  04,05-02-85,Paris,None,Paris Saint-Germain,2005,French
+15,15,Bonaventure Kalou,M,"5'11""",12 01,12-01-78,Oumé,Auxerre,Paris Saint-Germain,2005,French
+16,16,Jérôme Alonzo,G,"6'00""",13 00,20-11-72,Menton,St-Etienne,Paris Saint-Germain,2005,French
+17,17,Jean-Hugues Bilayi Ateba,D,"5'07""",10 03,01-09-81,Yaoundé,Nantes,Paris Saint-Germain,2005,French
+18,18,Carlos  Bueno,F,"5'10""",11  05,10-05-80,Artigas,Peñarol,Paris Saint-Germain,2005,French
+22,22,Sylvain Armand,D,"5'11""",12 12,01-08-80,Saint-Etienne,Nantes,Paris Saint-Germain,2005,French
+23,23,Modeste M'Bami,M,"5'07""",10 07,09-10-82,Yaoundé,Sedan,Paris Saint-Germain,2005,French
+24,24,Christophe Landrin,M,"5'10""",10 09,30-06-77,Roubaix,Lille,Paris Saint-Germain,2005,French
+25,25,Jérôme Rothen,M,"5'09""",10 12,31-03-78,Chatenay-Malabry,Monaco,Paris Saint-Germain,2005,French
+26,26,Boukary  Dramé,D,"5'11""",11  11,22-07-85,Villepinte,None,Paris Saint-Germain,2005,French
+28,28,Paulo  César,D,"5'09""",11  11,26-08-76,Osasco,Fluminense,Paris Saint-Germain,2005,French
+30,30,Mohmaed Benhamou,G,"5'08""",11 04,17-12-79,Paris,Red Star 93,Paris Saint-Germain,2005,French
+31,31,Samuel Pietre,M,"5'10""",11  00,10-02-84,Villeneuve-St-Georges,None,Paris Saint-Germain,2005,French
+32,32,Ahmed  Kantari,D,"6'01""",12  04,28-06-85,Blois,None,Paris Saint-Germain,2005,French
+33,33,Nicolas  Cousin,G,"6'00""",13  03,11-07-85,Nemours,None,Paris Saint-Germain,2005,French
+34,34,Franck  Dja Djedje,F,"5'09""",11  00,02-06-86,Abidjan,None,Paris Saint-Germain,2005,French
+41,,Souleymane  Bamba,D,"6'03""",14  02,13-01-85,Ivry-sur-Seine,None,Paris Saint-Germain,2005,French
+42,,David  N'Gog,F,"6'02""",11 09,01-04-89,Gennevilliers,None,Paris Saint-Germain,2005,French
+1,1,Andreas  Isaksson,G,"6'06""",13  12,03-10-81,Trelleborg,Djurgårdens  IF,Rennes,2005,French
+2,2,Jean-Noël  Perrier Doumbe,D,"5'10""",11  09,27-09-78,Paris,Auxerre,Rennes,2005,French
+3,3,Abdeslam  Ouaddou,D,"6'02""",12 03,01-11-78,Ksar-Askour,Fulham,Rennes,2005,French
+4,4,Adailton,D,"6'02""",13  00,16-04-84,Salvador  de Bahia,Vitoria  Bahia,Rennes,2005,French
+5,5,Jacques Faty,D,"6'00""",11 11,25-02-84,Villeneuve-st-Georges,Clairefontaine,Rennes,2005,French
+6,6,Grégory Bourillon,D,"6'01""",11 13,01-07-84,Laval,None,Rennes,2005,French
+7,7,John Utaka,F,"5'10""",12 12,08-01-82,Legugnu,Lens,Rennes,2005,French
+8,8,Kim  Källström,M,"6'00""",13 03,24-08-82,Sandviken,Djurgårdens  IF,Rennes,2005,French
+9,9,Erik Edman,D,"5'10""",12  06,11-11-78,Helsingborg,Tottenham H,Rennes,2005,French
+10,10,Yoann  Gourcuff,M,"6'00""",12  06,11-07-86,Lorient,None,Rennes,2005,French
+11,11,Youssouf  Hadji,M,"6'00""",11  00,25-02-80,Ifrane,Bastia,Rennes,2005,French
+12,12,Laszlo  Sepsi,D,"5'11""",12  02,07-06-86,,Gaz  Metan Medias,Rennes,2005,French
+14,14,Cédric Barbosa,M,"5'10""",10 07,06-03-76,Aubenas,Montpellier,Rennes,2005,French
+16,16,Cheikh  N'Diaye,G,"6'03""",12  08,15-02-85,Dakar,Noisy-le-Sec,Rennes,2005,French
+17,17,Stéphane  Mbia,M,"6'02""",13  10,20-05-86,Yaoundé,None,Rennes,2005,French
+18,18,Olivier Monterrubio,F,"5'06""",10 01,08-08-76,Gaillac,Nantes,Rennes,2005,French
+19,19,Jimmy Briand,M,"5'10""",11  09,02-05-85,Vitry-sur-Seine,None,Rennes,2005,French
+20,20,Jonathan  Bru,M,"5'10""",10  09,02-05-85,Neuilly  sur Seine,None,Rennes,2005,French
+21,21,Alain  Rochat,D,"5'10""",11  05,01-02-83,St  Jean sur Richelieu,Young  Boys,Rennes,2005,French
+22,22,Etienne Didot,M,"5'08""",10 03,24-07-83,Paimpol,None,Rennes,2005,French
+23,23,Alexander Frei,F,"5'10""",11 09,15-07-79,Basel,Servette,Rennes,2005,French
+24,24,Olivier  Sorlin,M,"6'00""",11 11,09-04-79,Saint-Etienne,Monaco,Rennes,2005,French
+25,25,John  Mensah,D,"5'11""",12  08,29-11-82,Obusai,Chievo  Verona,Rennes,2005,French
+27,27,Cyril Jeunechamp,M,"5'09""",10 09,18-12-75,Nîmes,Bastia,Rennes,2005,French
+28,28,Arnold  Mvuemba,M,"5'07""",10  07,28-01-85,Alencon,None,Rennes,2005,French
+29,29,Moussa  Sow,F,"5'11""",10  12,19-01-86,Mantes-la-Jolie,None,Rennes,2005,French
+30,30,Simon Pouplin,G,"6'00""",12  03,28-05-85,Cholet,None,Rennes,2005,French
+33,33,Grégory  Douard,G,"5'11""",11  09,01-08-85,Châteaubriand,None,Rennes,2005,French
+41,,Oliver  N'Siabamfumu,D,"6'00""",12  02,17-03-86,Meaux,None,Rennes,2005,French
+42,,Papakouli  Diop,M,"5'10""",11  00,19-03-86,Kaolack,Mbour,Rennes,2005,French
+43,,Johann  Ramaré,M,"5'10""",10  01,05-06-84,Rennes,None,Rennes,2005,French
+1,1,Jody Viviani,G,"6'02""",12 01,25-01-82,La  Ciotat,Montpellier,Saint-Etienne,2005,French
+3,3,Bruno  Basto,D,"5'08""",11  06,21-05-78,Lisbon,Feyenoord,Saint-Etienne,2005,French
+4,4,Vincent Hognon,D,6'00'',11 11,16-08-74,Nancy,Nancy,Saint-Etienne,2005,French
+5,5,Didier  Zokora,M,"5'10""",11  00,14-12-80,Abidjan,RC Genk,Saint-Etienne,2005,French
+6,6,Zoumana Camara,D,"6'00""",12  02,03-04-79,Colombes,Lens,Saint-Etienne,2005,French
+7,7,Siake Tiéné,M,"5'09""",11  05,22-02-82,Abdijan,Mamelodi Sundowns,Saint-Etienne,2005,French
+8,8,David Hellebuyck,M,5'10'',11 07,12-05-79,Nantua,Lausanne,Saint-Etienne,2005,French
+9,9,Frédéric Piquionne,F,"6'02""",12 01,08-12-78,Nouméa,Rennes,Saint-Etienne,2005,French
+10,10,Sébastien Mazure,F,"5'11""",11 04,20-03-79,Paris,Caen,Saint-Etienne,2005,French
+11,11,Frédéric Mendy,F,5'05'',09 11,06-11-81,Dakar,None,Saint-Etienne,2005,French
+12,12,Samy  Houri,M,"5'05""",09  02,09-08-85,Asnières,None,Saint-Etienne,2005,French
+13,13,Ousmane  Sarr,M,"6'01""",11  11,02-08-86,Dakar,CFSFA  Dakar,Saint-Etienne,2005,French
+14,14,Pascal Feindouno,F,"5'09""",10 12,27-02-81,Conakry,Bordeaux,Saint-Etienne,2005,French
+15,15,Lamine  Sakho,F,"5'10""",11  01,28-09-77,Dakar,Marseille,Saint-Etienne,2005,French
+16,16,Jérémie Janot,G,5'09'',11 11,11-10-77,Valenciennes,None,Saint-Etienne,2005,French
+17,17,Abdelaziz  Kamara,D,"6'01""",12  04,10-04-84,Saint-Denis,None,Saint-Etienne,2005,French
+18,18,Bafetibis  Gomis,F,"6'00""",12  01,06-08-85,Seyne-sur-Mer,None,Saint-Etienne,2005,French
+19,19,Damien  Perquis,D,6'00'',12  04,10-04-84,Troyes,Troyes,Saint-Etienne,2005,French
+20,20,Helder Postiga,F,6'00'',12  06,02-08-82,Vila do Conde,FC Porto,Saint-Etienne,2005,French
+21,21,Mouhamadou  Dabo,M,"5'09""",10  03,28-11-86,Dakar,None,Saint-Etienne,2005,French
+22,22,Fousseni Diawara,D,"6'00""",11  03,28-08-80,Paris,Red Star  93,Saint-Etienne,2005,French
+23,23,Hérita Nkolongo Ilunga,D,5'11'',11 09,25-02-82,Kinshasa,Espanyol B,Saint-Etienne,2005,French
+24,24,Loïc Perrin,M,"5'11""",12  00,07-08-85,Saint-Etienne,None,Saint-Etienne,2005,French
+25,25,Ignacio  Piatti,M,"5'11""",12  06,04-02-85,General  Baldisera,Chacarita  Juniors,Saint-Etienne,2005,French
+27,27,Julien Sablé,M,5'11'',11 07,11-09-80,Marseille,None,Saint-Etienne,2005,French
+29,29,Ala  Eddine Yahia,D,"6'01""",12  10,26-08-81,Courbevoie,Southampton,Saint-Etienne,2005,French
+30,30,Jessy  Moulin,G,"6'00""",12  01,13-01-86,Valence,None,Saint-Etienne,2005,French
+31,31,Alan Mermillod,G,"5'09""",11 04,05-10-87,Annecy,None,Saint-Etienne,2005,French
+1,1,Alexandre Martinovic,G,"6'03""",13 05,31-05-85,Montbéliard,None,Sochaux,2005,French
+2,2,Rabiu  Afolabi,D,"6'01""",11  11,18-04-80,Osobo,Austria  Vienna,Sochaux,2005,French
+3,3,Cédric  Rey,D,"5'10""",11  00,25-08-84,Cluses,None,Sochaux,2005,French
+4,4,João  Miranda,D,"6'00""",12  06,07-09-84,Paranavaí,Coritiba,Sochaux,2005,French
+5,5,Philippe Brunel,M,"5'09""",11 04,28-02-75,Boulogne,Lille,Sochaux,2005,French
+6,6,Lionel  Potillon,D,5'10'',12  00,10-02-74,Cluny,Paris St-Germain,Sochaux,2005,French
+7,7,Romain  Pitau,M,"5'10""",11  00,08-08-77,Douai,Nice,Sochaux,2005,French
+8,8,Fabien Boudarène,M,"5'10""",11 06,05-10-78,Saint-Etienne,Saint-Etienne,Sochaux,2005,French
+9,9,Ilan,F,"5'11""",11  00,18-09-80,Curitiba,Atlético  Paranaense,Sochaux,2005,French
+10,10,Valéry Mezague,M,"6'00""",11 13,12-08-83,Marseille,Montpellier,Sochaux,2005,French
+11,11,Jérémy  Menez,F,"6'00""",11  07,07-05-87,Longjumeau,None,Sochaux,2005,French
+12,12,Mickaël Isabey,M,"5'06""",09 10,20-02-75,Pontarlier,Besançon,Sochaux,2005,French
+13,13,Badara Sené,M,"6'03""",12  01,19-11-84,Dakar,None,Sochaux,2005,French
+14,14,Johann Lonfat,M,"5'10""",10 12,11-09-73,Martigny,Servette,Sochaux,2005,French
+15,15,Cho Won-Kwang,F,"5'11""",11 00,23-08-85,Seoul,Anyang  LG Cheetahs,Sochaux,2005,French
+16,16,Teddy Richert,G,"5'11""",12 06,21-09-74,Avigon,Bordeaux,Sochaux,2005,French
+18,18,Guirane  N'Daw,M,"6'02""",12 03,24-04-84,Rufisque,None,Sochaux,2005,French
+19,19,Moumouni  Dagano,F,"6'01""",12  12,01-01-81,Ouagadougou,Guingamp,Sochaux,2005,French
+20,20,Jean  Calvé,D,"6'00""",11  07,30-04-84,Cormeilles,None,Sochaux,2005,French
+21,21,Souleymane Diawara,D,"6'00""",11 09,24-12-78,Gabou,Le Havre,Sochaux,2005,French
+22,22,Duko  Toić,D,"6'00""",12 04,19-01-85,Belgrade,OFK  Belgrade,Sochaux,2005,French
+23,23,Benjamin Genghini,M,"5'09""",09  08,16-12-85,Menton,None,Sochaux,2005,French
+24,24,Pape  Habib Sow,D,"5'10""",11  12,02-12-85,Dakar,Strasbourg,Sochaux,2005,French
+25,25,Arnaud  Bülher,D,"6'02""",11  05,17-01-85,Baulmes,Aarau,Sochaux,2005,French
+26,26,Mevlüt Erdinç,F,"5'11""",12  11,25-02-87,Saint-Claude,None,Sochaux,2005,French
+27,27,Omar Daf,D,"5'09""",11 00,12-02-77,Dakar,Thonon,Sochaux,2005,French
+29,29,Weldon,F,"6'02""",12  00,06-08-80,Santo  André,Cruzeiro,Sochaux,2005,French
+30,30,Jérémy Deichelbohrer,G,"6'02""",11  07,25-04-86,Belfort,None,Sochaux,2005,French
+31,31,Mourad Meghni,M,"5'11""",11  05,16-04-84,Paris,Bologna,Sochaux,2005,French
+33,33,Julien Quercia,F,"5'07""",10  10,17-08-86,Thionville,None,Sochaux,2005,French
+34,34,Maxime Josse,D,"6'00""",12  13,21-03-87,Saint-Quentin,None,Sochaux,2005,French
+41,,Thomas  Regnier,F,"5'11""",11  05,11-03-84,Belfort,None,Sochaux,2005,French
+1,1,Nicolas Puydebois,G,"5'11""",12 08,28-02-81,Bron,Lyon,Strasbourg,2005,French
+2,2,Yves Deroff,D,"5'08""",11 04,29-08-78,Maisons-Lafitte,Nantes,Strasbourg,2005,French
+3,3,Jean-Christophe Devaux,D,"5'11""",12 03,16-05-75,Lyon,Servette,Strasbourg,2005,French
+5,5,Cédric  Kanté,D,"5'11""",12 01,06-07-79,Strasbourg,None,Strasbourg,2005,French
+6,6,Ahmed Abou  Mosalem Farag,D,"5'07""",11  00,25-07-81,Cairo,Al Ahly,Strasbourg,2005,French
+7,7,Alexander Farnerud,M,"5'11""",11 02,10-05-84,Helsingborg,Landskrona BoIS,Strasbourg,2005,French
+8,8,Abd Rabo  Hosni,M,"5'09""",11  05,01-11-84,Ismailya,Ismaily,Strasbourg,2005,French
+10,10,Pontus Farnerud,M,"5'10""",11 09,04-06-80,Helsingborg,Monaco,Strasbourg,2005,French
+11,11,Yacine Abdessadki,M,"5'08""",10 01,01-01-81,Nice,Toulouse,Strasbourg,2005,French
+12,12,Gaëtan  Krebs,M,"5'05""",09  11,18-11-85,Mulhouse,None,Strasbourg,2005,French
+13,13,Salim Arrache,F,"6'01""",12 01,14-07-82,Marseille,None,Strasbourg,2005,French
+14,14,Ulrich le Pen,M,"5'08""",09 12,21-01-74,Auray,Ipswich T,Strasbourg,2005,French
+15,15,Arthur Boka,D,"5'05""",10 08,02-04-83,Abidjan,Beveren,Strasbourg,2005,French
+16,16,Stéphane Cassard,G,6'01'',11 11,11-11-72,Montbeliard,Troyes,Strasbourg,2005,French
+17,17,Szilárd  Németh,F,"5'10""",11 04,08-08-77,Komárno,Middlesbrough,Strasbourg,2005,French
+18,18,Pascal Johansen,M,"5'09""",10 12,28-04-79,Colmar,Marseille,Strasbourg,2005,French
+19,19,Guillaume Lacour,M,"5'08""",10 05,02-08-80,Courbevoie,Lyon,Strasbourg,2005,French
+20,20,Amara  Diané,F,"5'11""",11  03,19-08-82,Abidjan,Reims,Strasbourg,2005,French
+21,21,Karim  Haggui,D,"6'03""",13  01,20-01-84,Kasserine,Etoile  du Sahel,Strasbourg,2005,French
+22,22,Haykel  Gmamdia,F,"5'10""",11  03,22-12-81,Gafsa,CS Sfax,Strasbourg,2005,French
+23,23,Kevin  Gameiro,F,"5'07""",10  01,09-04-87,Senlis,None,Strasbourg,2005,French
+24,24,Sidi  Yaya Keita,M,"5'09""",11  07,20-03-85,Bamako,None,Strasbourg,2005,French
+25,25,Ricardo  Faty,M,"6'04""",12  01,04-08-86,Villeneuve-St-Georges,None,Strasbourg,2005,French
+26,26,Yann  Schneider,D,"5'10""",11  05,19-01-86,Phalsbourg,None,Strasbourg,2005,French
+27,27,Edgar  Loué Gnoleba,D,"6'01""",12  04,27-12-82,Abidjan,Raja  Casablanca,Strasbourg,2005,French
+28,28,Habib  Bellaid,D,"6'02""",12  08,28-03-86,Bobigny,None,Strasbourg,2005,French
+29,29,Rudy  Carlier,F,"5'11""",11  11,19-01-86,Saint-Quentin,None,Strasbourg,2005,French
+30,30,Mehdi  Sennaoui,G,"6'03""",13  08,05-05-86,Pertuis,None,Strasbourg,2005,French
+31,31,Steve  Celestini,D,"6'02""",13  01,13-07-86,St-Julien-en-Genevois,Sochaux,Strasbourg,2005,French
+33,33,Jean-Christophe Vergerolle,D,"6'01""",13 01,12-07-85,Paris,None,Strasbourg,2005,French
+34,34,Regis  Gurtner,G,"5'11""",11  11,08-12-86,Saverne,None,Strasbourg,2005,French
+35,35,Yann  Schneider,D,"5'10""",11  05,19-01-86,Phalsbourg,None,Strasbourg,2005,French
+41,,Nordine Assami,D,"5'11""",11 11,24-07-87,Marseille,Cannes,Strasbourg,2005,French
+42,,Romain  Gasmi,M,"5'09""",11  09,15-02-87,Lyon,None,Strasbourg,2005,French
+1,1,Christophe Revault,G,"6'02""",13 07,22-03-72,Paris,Rennes,Toulouse,2005,French
+3,3,Daniel  Congre,D,"6'00""",12  06,05-04-85,Toulouse,None,Toulouse,2005,French
+4,4,Dominique Arribage,D,"6'01""",13 00,11-05-71,Suresnes,Rennes,Toulouse,2005,French
+5,5,Jérémy Mathieu,M,"6'02""",13 00,29-10-83,Luxeuil-les-Bains,Sochaux,Toulouse,2005,French
+6,6,Julien Cardy,M,"5'09""",11 02,29-09-81,Pau,None,Toulouse,2005,French
+7,7,Stéphane Lièvre,D,"5'11""",10 09,03-10-72,Paris,Nantes,Toulouse,2005,French
+8,8,Thibault Giresse,M,"5'07""",10 03,25-05-81,Talence,None,Toulouse,2005,French
+9,9,Issoumaila  Dao,M,"5'11""",12  06,27-10-83,Abidjan,None,Toulouse,2005,French
+10,10,Daniel Moreira,F,"5'09""",11 11,08-08-77,Maubeuge,Lens,Toulouse,2005,French
+11,11,Francileudo dos Santos,F,"5'07""",10 09,20-03-79,Vedoca,Sochaux,Toulouse,2005,French
+12,12,Lucien Aubey,D,"5'10""",11 06,24-05-84,Brazzaville,None,Toulouse,2005,French
+13,13,Albin Ebondo,D,"6'00""",12  08,23-02-84,Marseille,Marseille,Toulouse,2005,French
+14,14,François Sirieix,M,"5'10""",10 09,07-10-80,Bordeaux,Auxerre,Toulouse,2005,French
+15,15,Bryan Bergougnaux,M,"5'10""",11 11,12-01-83,Lyon,Lyon,Toulouse,2005,French
+16,16,Nicolas Douchez,G,"6'00""",12 01,22-04-80,Rasny-sous-Bois,Châteauroux,Toulouse,2005,French
+17,17,Fodé  Mansaré,F,"5'10""",11 00,03-09-81,Conakry,Montpellier,Toulouse,2005,French
+19,19,Nabil  Taïder,M,"5'09""",09 08,26-05-83,Lavaur,None,Toulouse,2005,French
+20,20,Achille Emana,M,"5'10""",12 01,22-07-82,Yaoundé,None,Toulouse,2005,French
+21,21,Henri Bedimo  Nsame,M,"5'10""",12 01,04-06-84,Douala,Grenoble,Toulouse,2005,French
+23,23,Alexandre  Bonnet,M,"5'08""",10  03,17-10-86,La  Roche sur Yon,None,Toulouse,2005,French
+25,25,Nicolas Dieuze,F,"6'01""",12 12,10-11-78,Albi,Bastia,Toulouse,2005,French
+26,26,Jean-Louis  Akpa Akpro,M,"5'11""",10  12,04-01-85,Toulouse,None,Toulouse,2005,French
+27,27,Mohamed  Fofana,D,"5'11""",11  07,07-03-85,Gonesse,None,Toulouse,2005,French
+29,29,Laurent  Batlles,M,"5'08""",10  09,23-09-75,Nantes,Marseille,Toulouse,2005,French
+30,30,Benoît  Benvegnu,G,"6'00""",14  02,18-01-85,Montauban,None,Toulouse,2005,French
+33,33,Xavier  Pentecôte,M,"5'11""",11  11,16-08-86,St  Dié,None,Toulouse,2005,French
+41,,Kévin  Constant,M,"6'00""",12  04,15-05-87,Fréjus,None,Toulouse,2005,French
+42,,Anthony  Robic,M,"6'00""",11  05,05-03-86,Marseille,None,Toulouse,2005,French
+43,,Evgeniy  Gavriuk,F,"6'01""",11  11,23-01-87,Ordjonikidze,Sport  Academ,Toulouse,2005,French
+1,1,Ronan Le  Crom,G,"6'01""",12  01,13-07-74,Lorient,Guingamp,Troyes,2005,French
+2,2,Branko Boković,M,"6'01""",12 06,21-06-80,Bačka  Topola,Paris  St-Germain,Troyes,2005,French
+3,3,Florian Boucansaud,D,"6'01""",11 04,15-02-81,Noisy le Sec,Nice,Troyes,2005,French
+4,4,Sébastien Dallet,F,5'06'',09 11,30-09-73,Bourges,Créteil,Troyes,2005,French
+5,5,Gaël Sanz,D,6'00'',12 00,01-05-77,Charlevilles-Mezieres,Beauvais,Troyes,2005,French
+6,6,Carl Tourenne,M,5'11'',12 00,10-06-72,Ruffec,Lille,Troyes,2005,French
+7,7,Ibrahima Bangoura,F,5'08'',11 05,08-12-82,Conakry,Istres,Troyes,2005,French
+9,9,Sébastien Grax,F,"5'10""",11  09,23-06-84,Le  Creusot,Monaco,Troyes,2005,French
+10,10,Benjamin Nivet,M,5'10'',11 11,02-01-77,Chartres,Châteauroux,Troyes,2005,French
+11,11,Grégory Paisley,D,"6'00""",12 12,07-05-77,Paris,Metz,Troyes,2005,French
+12,12,Eloge Enza  Yamissi,M,"5'09""",11  00,23-01-83,Bangui,Nîmes,Troyes,2005,French
+13,13,Christian  Nadé,F,6'00'',12 08,18-09-84,Montmorency,None,Troyes,2005,French
+14,14,Frédéric Adam,M,5'11'',11 00,11-08-73,Lorient,Châteauroux,Troyes,2005,French
+15,15,Sylvain Meslien,D,5'10'',11 05,07-08-81,Bondy,St-Etienne,Troyes,2005,French
+16,16,Romuald  Peiser,G,"6'02""",12  06,03-08-79,Phalsbourg,Poissy,Troyes,2005,French
+17,17,Gharib Amzine,M,5'10'',11 00,03-05-73,Montbeliard,Strasbourg,Troyes,2005,French
+18,18,Alexandre  Dujeux,D,"5'11""",12  01,08-01-76,Villers  Semeuse,Le Havre,Troyes,2005,French
+19,19,Zied Jaziri,F,"5'09""",10 08,12-07-78,Sousse,Gaziantepspor,Troyes,2005,French
+20,20,Blaise  Matuidi,M,"5'09""",11  00,09-04-87,Toulouse,None,Troyes,2005,French
+21,21,Auriol Guillaume,D,"5'11""",11 09,14-10-79,Montreuil-sous-Bois,Guingamp,Troyes,2005,French
+22,22,Frank  Boudard,M,"5'11""",10  12,28-01-82,Vitry le  François,Romilly,Troyes,2005,French
+23,23,Ibrahima  Faye,D,"6'00""",11  13,22-10-79,Pout,Caen,Troyes,2005,French
+25,25,Alassane  Ndour,M,"6'02""",11  07,12-12-81,Dakar,St-Etienne,Troyes,2005,French
+26,26,Blaise Kouassi,D,"6'01""",11 11,02-02-74,Abidjan,Guingamp,Troyes,2005,French
+27,27,Cédric  Faivre,M,"5'11""",11  00,08-04-81,Montbéliard,Belfort,Troyes,2005,French
+28,28,Jean-Louis Montero,D,"5'09""",11 04,28-04-71,Bar-sur-Seine,Clermont,Troyes,2005,French
+29,29,Georges Ba,F,"6'01""",13 05,21-01-79,Abdijan,Nice,Troyes,2005,French
+30,30,Quentin  Westberg,G,"6'00""",12  00,25-04-86,Suresnes,Clairefontaine,Troyes,2005,French
+31,31,Stéphen Drouin,D,"6'01""",12 08,27-01-84,Paris,Nantes,Troyes,2005,French
+33,33,Ali  Zitouni,F,"5'10""",11  03,11-01-81,Tunis,Espérance,Troyes,2005,French
+41,,Andy  Edine Dahmani,M,"6'01""",11  11,12-02-83,Saint-Chamond,None,Troyes,2005,French
+42,,Rémy  Souyeux,F,"6'01""",12 00,19-07-84,,None,Troyes,2005,French

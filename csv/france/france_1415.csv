@@ -1,0 +1,571 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Alphonse Aréola,FRA,G,1.90,85,27-02-93,Paris,Paris St-Germain,Bastia,2014,French
+2,2,Romain Achilli,FRA,D,1.75,70,15-02-93,Bastia,None,Bastia,2014,French
+3,3,Hervin Ongenda,FRA,F,1.70,64,24-06-95,Paris,Paris St-Germain,Bastia,2014,French
+4,4,Florian Marange,FRA,D,1.76,70,03-03-86,Talence,Sochaux,Bastia,2014,French
+5,5,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon,Arsenal,Bastia,2014,French
+6,6,N'Dri Romaric,CIV,M,1.87,88,04-06-83,Abidjan,Zaragoza,Bastia,2014,French
+7,7,Floyd Ayité,TOG,M,1.74,68,15-12-88,Bordeaux,Reims,Bastia,2014,French
+8,8,El-Hajdi Ba,FRA,M,1.83,74,05-03-93,Paris,Sunderland,Bastia,2014,French
+9,9,Djibril Cissé,FRA,F,1.82,78,12-08-81,Arles,Kuban Krasnodar,Bastia,2014,French
+10,10,Ryad Boudebouz,ALG,M,1.72,59,19-02-90,Colmar,Sochaux,Bastia,2014,French
+11,11,Gadji Celi Junior Tallo,CIV,F,1.87,77,21-12-92,Ouragahio,Roma,Bastia,2014,French
+12,12,Christophe Vincent,FRA,M,1.78,72,08-11-92,Bastia,None,Bastia,2014,French
+13,13,Abdoulaye Keita,MLI,M,1.75,75,05-01-94,Bamako,Centre Salif Keita,Bastia,2014,French
+14,14,Famoussa Koné,MLI,F,1.75,74,03-05-94,Bamako,CO Bamako,Bastia,2014,French
+15,15,Julian Palmieri,FRA,D,1.70,66,17-12-86,Lyon,Istres,Bastia,2014,French
+16,16,Jean-Louis Leca,FRA,G,1.77,65,21-09-85,Bastia,Valenciennes,Bastia,2014,French
+17,17,Mathieu Peybernes,FRA,D,1.84,80,21-10-90,Toulouse,Sochaux,Bastia,2014,French
+18,18,Yannick Cahuzac,FRA,M,1.78,66,18-01-85,Ajaccio,None,Bastia,2014,French
+19,19,Giovanni Sio,CIV,F,1.80,72,31-03-89,Nantes,Basel,Bastia,2014,French
+20,20,François Modestó,FRA,D,1.83,80,19-08-78,Bastia,Olympiakos,Bastia,2014,French
+21,21,Luka Kikabidze,GEO,M,1.80,70,21-01-95,Tbilisi,Lokomotivi Tbilisi,Bastia,2014,French
+22,22,Christopher Maboulou,FRA,M,1.85,79,19-03-90,Montfermeil,Châteauroux,Bastia,2014,French
+23,23,Drissa Diakité,MLI,D,1.75,69,18-02-85,Bamako,Olympiakos,Bastia,2014,French
+24,24,Lyes Houri,FRA,M,1.75,75,19-01-96,Lomme,Valenciennes,Bastia,2014,French
+25,25,François Kamano,GUI,F,1.82,75,01-05-96,Conakry,Satellite FC,Bastia,2014,French
+26,26,Brandão,BRA,F,1.89,78,16-06-80,São Paulo,St-Etienne,Bastia,2014,French
+27,27,Guillaume  Gillet,BEL,M,1.86,77,09-03-85,Liège,Anderlecht,Bastia,2014,French
+28,28,Gaël Danic,FRA,M,1.76,65,19-11-81,Vannes,Lyon,Bastia,2014,French
+29,29,Gilles Cioni,FRA,D,1.65,65,14-06-84,Bastia,Paris FC,Bastia,2014,French
+30,30,Thomas Vincensini,FRA,G,1.90,73,12-09-93,Bastia,None,Bastia,2014,French
+33,33,Alexander Djiku,FRA,D,1.82,74,09-08-94,Montpellier,None,Bastia,2014,French
+34,34,Julien Romain,FRA,M,1.81,70,23-02-96,Saint-Pol-sur-Ternoise,None,Bastia,2014,French
+1,1,Abe Jug,SVN,G,1.92,91,03-03-92,Maribor,Interblock,Bordeaux,2014,French
+2,2,Mariano,BRA,D,1.77,70,23-06-86,São João,Fluminense,Bordeaux,2014,French
+3,3,Diego Contento,ITA,D,1.76,70,01-05-90,Munich,Bayern Munich,Bordeaux,2014,French
+4,4,Tiago Ilori,POR,D,1.90,80,26-02-93,Hampstead,Liverpool,Bordeaux,2014,French
+5,5,Nicolas Pallois,FRA,D,1.90,85,19-09-87,Elbeuf,Niort,Bordeaux,2014,French
+6,6,Lamine Sané,SEN,D,1.92,77,22-03-87,Villeneuve-sur-Lot,None,Bordeaux,2014,French
+7,7,Abdou Traoré,MLI,M,1.79,73,17-01-88,Bamako,None,Bordeaux,2014,French
+8,8,Grégory Sertic,FRA,M,1.81,69,05-08-89,Brétigny-sur-Orge,None,Bordeaux,2014,French
+9,9,Diego Rolán,URU,F,1.78,74,24-03-93,Montevideo,Defensor Sporting,Bordeaux,2014,French
+10,10,Henri Saivet,SEN,F,1.73,70,26-10-90,Dakar,None,Bordeaux,2014,French
+11,11,Clément Chantôme,FRA,M,1.80,71,11-09-87,Sens,Paris St-Germain,Bordeaux,2014,French
+12,12,Isaac Kiese Thelin,SWE,F,1.89,83,24-06-92,Örebro,Malmö FF,Bordeaux,2014,French
+13,13,Thomas Touré,FRA,F,1.75,75,27-12-93,Grasse,None,Bordeaux,2014,French
+14,14,Cheikh Diabaté,MLI,F,1.94,84,25-04-88,Bamako,None,Bordeaux,2014,French
+15,15,Younès Kaabouni,FRA,M,1.79,67,23-05-95,Bordeaux,None,Bordeaux,2014,French
+16,16,Cédric Carrasso,FRA,G,1.87,87,30-12-81,Avignon,Toulouse,Bordeaux,2014,French
+17,17,André Biyogo Poko,GAB,M,1.73,72,01-01-93,Bitam,US Bitam,Bordeaux,2014,French
+18,18,Jaroslav Plail,CZE,M,1.83,72,05-01-82,Opočno,Osasuna,Bordeaux,2014,French
+19,19,Nicolas Maurice-Belay,FRA,M,1.82,76,19-04-85,Sucy-en-Brie,Sochaux,Bordeaux,2014,French
+20,20,Jussiê,BRA,F,1.80,76,19-09-83,Nova Venécia,Lens,Bordeaux,2014,French
+21,21,Cédric Yambéré,FRA,D,1.91,81,06-11-90,Bordeaux,Lormont,Bordeaux,2014,French
+22,22,Julien Faubert,FRA,D,1.80,75,01-08-83,Le Havre,Elazığspor,Bordeaux,2014,French
+23,23,Valentin Vada,ARG,M,1.75,69,06-03-96,Guadalupe,None,Bordeaux,2014,French
+24,24,Wahbi Khazri,TUN,M,1.82,78,08-02-91,Ajaccio,Bastia,Bordeaux,2014,French
+25,25,Théo Pellenard,FRA,D,1.82,71,04-03-94,Lille,None,Bordeaux,2014,French
+27,27,Marc Planus,FRA,D,1.83,76,07-03-82,Bordeaux,None,Bordeaux,2014,French
+28,28,David Djigla,BEN,F,1.80,78,23-08-95,Avakpa,Onze Créateurs de Niaréla,Bordeaux,2014,French
+29,29,Maxime Poundjé,FRA,D,1.79,71,16-08-92,Bordeaux,None,Bordeaux,2014,French
+30,30,Jérôme Prior,FRA,G,1.84,88,08-08-95,Toulon,None,Bordeaux,2014,French
+33,33,Enzo Crivelli,FRA,F,1.84,79,06-02-95,Rouen,None,Bordeaux,2014,French
+34,34,Frédéric Guilbert,FRA,D,1.78,70,24-12-94,Valognes,None,Bordeaux,2014,French
+35,35,Sessi D'Almeida,FRA,M,1.78,71,20-11-95,Bordeaux,None,Bordeaux,2014,French
+1,1,Rémy Vercoutre,FRA,G,1.85,78,26-06-80,Grande-Synthe,Lyon,Caen,2014,French
+2,2,Nicolas Seube,FRA,M,1.80,72,11-08-79,Toulouse,Toulouse,Caen,2014,French
+5,5,Alaeddine Yahia,TUN,D,1.86,81,26-08-81,Courbevoie,Lens,Caen,2014,French
+7,7,Nicolas Benezet,FRA,M,1.72,61,24-02-91,Montpellier,Évian TG,Caen,2014,French
+9,9,Sloan Privat,FRA,F,1.86,83,24-07-89,Cayenne,KAA Gent,Caen,2014,French
+10,10,Lenny Nangis,FRA,F,1.73,65,24-03-94,Caen,None,Caen,2014,French
+11,11,Bengadli-Fodé Koita,FRA,F,1.86,86,21-10-90,Paris,Montpellier,Caen,2014,French
+12,12,Dennis Appiah,FRA,D,1.79,68,09-06-92,Toulouse,Monaco,Caen,2014,French
+14,14,Emiliano Sala,ARG,F,1.87,75,31-10-90,Cululú,Bordeaux,Caen,2014,French
+15,15,Emmanuel Imorou,BEN,D,1.81,69,16-09-88,Bourges,Clermont,Caen,2014,French
+16,16,Damien Perquis,FRA,G,1.84,82,08-03-86,Saint-Brieuc,Beauvais,Caen,2014,French
+17,17,Ngolo Kanté,FRA,M,1.70,70,29-03-91,Paris,Boulogne,Caen,2014,French
+18,18,Jordan Adéoti,BEN,M,1.83,77,12-03-89,L'Union,Laval,Caen,2014,French
+19,19,Felipe Saad,BRA,D,1.87,83,11-09-83,Santos,Ajaccio,Caen,2014,French
+20,20,Hervé Bazile,FRA,F,1.80,73,18-03-90,Créteil,Le Poiré-sur-Vie,Caen,2014,French
+21,21,José Saez,FRA,M,1.70,63,07-05-82,Memin,Valenciennes,Caen,2014,French
+22,22,Alexandre Raineau,FRA,D,1.78,71,21-06-86,Paris,None,Caen,2014,French
+23,23,Jean Calvé,FRA,D,1.83,78,30-04-84,Cormeilles-en-Parisis,Nancy,Caen,2014,French
+25,25,Julien Féret,FRA,M,1.87,74,05-07-82,Saint Brieuc,Rennes,Caen,2014,French
+26,26,Jonathan Beaulieu,FRA,M,1.80,65,11-03-93,Meudon,None,Caen,2014,French
+27,27,Thomas Lemar,FRA,M,1.63,46,12-11-95,Baie-Mahault,None,Caen,2014,French
+28,28,Damien Da Silva,FRA,D,1.84,77,17-05-88,Talence,Clermont,Caen,2014,French
+29,29,Yrondu Musavu-King,GAB,D,1.86,83,08-01-92,Libreville,None,Caen,2014,French
+30,30,Paul Reulet,FRA,G,1.81,64,14-01-94,Caen,None,Caen,2014,French
+1,1,Johann Durand,FRA,G,1.82,71,17-06-81,Evian,Gaillard,Évian Thonon Gaillard,2014,French
+2,2,Kassim Abdallah,FRA,D,1.89,76,09-04-87,Marseille,Marseille,Évian Thonon Gaillard,2014,French
+5,5,Milo Ninković,SRB,M,1.80,76,25-12-84,Belgrade,Crvena Zvezda,Évian Thonon Gaillard,2014,French
+6,6,Djakaridja Koné,BFA,M,1.83,75,22-07-86,Abidjan,Dinamo Bucureşti,Évian Thonon Gaillard,2014,French
+7,7,Adrien Thomasson,FRA,F,1.82,75,10-12-93,Bourg-Saint-Maurice,Annecy,Évian Thonon Gaillard,2014,French
+8,8,Yeltsin Tejeda,CRC,M,1.77,66,17-03-92,Puerto Limón,Deportivo Saprissa,Évian Thonon Gaillard,2014,French
+9,9,Nicolás Blandi,ARG,F,1.81,79,13-01-90,Capital Federal,San Lorenzo,Évian Thonon Gaillard,2014,French
+10,10,Mathieu Duhamel,FRA,F,1.83,76,12-07-84,Mont-Saint-Aignan,Caen,Évian Thonon Gaillard,2014,French
+11,11,Fabien Camus,FRA,M,1.79,67,28-02-85,Arles,KRC Genk,Évian Thonon Gaillard,2014,French
+12,12,David Ramírez,CRC,F,1.73,74,28-05-93,San José [CRC],Deportivo Saprissa,Évian Thonon Gaillard,2014,French
+13,13,Dany Nounkeu,CMR,D,1.84,85,11-04-86,Yaoundé,Galatasaray,Évian Thonon Gaillard,2014,French
+14,14,Cédric Barbosa,FRA,M,1.79,67,06-03-76,Aubenas,Metz,Évian Thonon Gaillard,2014,French
+15,15,Gilles Sunu,FRA,M,1.80,70,30-03-91,Châteauroux,Lorient,Évian Thonon Gaillard,2014,French
+17,17,Aldo Angoula,FRA,D,1.84,82,04-05-81,Le Havre,Boulogne,Évian Thonon Gaillard,2014,French
+18,18,Daniel Wass,DEN,D,1.81,74,31-05-89,Gladsaxe,Benfica,Évian Thonon Gaillard,2014,French
+19,19,Youssouf Sabaly,FRA,D,1.74,71,05-03-93,Chesnay,Paris St-Germain,Évian Thonon Gaillard,2014,French
+20,20,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,Marseille,Évian Thonon Gaillard,2014,French
+21,21,Cédric Mongongu,COD,D,1.89,76,22-06-89,Kinshasa,Monaco,Évian Thonon Gaillard,2014,French
+22,22,Cédric Cambon,FRA,D,1.84,76,20-09-86,Montpellier,Litex Lovech,Évian Thonon Gaillard,2014,French
+23,23,Nicki Bille Nielsen,DEN,F,1.84,76,07-02-88,Vigerslev,Rosenborg,Évian Thonon Gaillard,2014,French
+24,24,Olivier Sorlin,FRA,M,1.82,77,09-04-79,Saint-Etienne,PAOK,Évian Thonon Gaillard,2014,French
+25,25,Jonathan Mensah,GHA,D,1.88,75,13-07-90,Accra,Udinese,Évian Thonon Gaillard,2014,French
+26,26,Jesper Juelsgaard,DEN,D,1.82,78,26-01-89,Spjald,FC Midtjylland,Évian Thonon Gaillard,2014,French
+27,27,Clarck N'Sikulu,FRA,F,1.80,78,10-07-92,Lille,Lille,Évian Thonon Gaillard,2014,French
+28,28,Najib Baouia,ALG,F,1.65,65,25-02-92,El Meghaier,None,Évian Thonon Gaillard,2014,French
+29,29,Zakariya Abarouai,FRA,F,1.82,74,30-03-94,Lyon,Vaulx-en-Velin,Évian Thonon Gaillard,2014,French
+30,30,Jesper Hansen,DEN,G,1.88,78,31-03-85,Frederikssund,FC Nordsjælland,Évian Thonon Gaillard,2014,French
+32,32,Alioun Fall,FRA,M,1.70,69,20-12-90,Ollioules,Dijon,Évian Thonon Gaillard,2014,French
+33,33,Jordan Boy,FRA,M,1.85,75,20-03-94,Cluses,None,Évian Thonon Gaillard,2014,French
+40,40,Benjamin Leroy,FRA,G,1.83,68,07-04-89,Cucq,Tours,Évian Thonon Gaillard,2014,French
+1,1,Jonas Lössl,DEN,G,1.95,89,01-02-89,Kolding,FC Midtjylland,Guingamp,2014,French
+2,2,Lars Jacobsen,DEN,D,1.81,75,20-09-79,Odense,FC København,Guingamp,2014,French
+3,3,Angoua Brou Benjamin,CIV,D,1.78,69,28-11-86,Anyama,Valenciennes,Guingamp,2014,French
+4,4,Baïssama Sankoh,GUI,D,1.80,73,20-03-92,Nogent-sur-Marne,Sarcelles,Guingamp,2014,French
+5,5,Moustapha Diallo,SEN,M,1.88,78,14-05-86,Dakar,ASC Diaraf,Guingamp,2014,French
+6,6,Maxime Baca,FRA,D,1.71,68,02-06-83,Corbeil Essonnes,Lorient,Guingamp,2014,French
+7,7,Dorian Levêque,FRA,D,1.82,72,22-11-89,Annecy,Boulogne,Guingamp,2014,French
+8,8,Ronnie Schwartz,DEN,F,1.83,74,29-08-89,Ulsted,Randers,Guingamp,2014,French
+9,9,Yannis Salibur,FRA,M,1.76,74,24-01-91,St-Denis,Clermont,Guingamp,2014,French
+10,10,Younousse Sankharé,FRA,M,1.84,76,10-09-89,Sarcelles,Dijon,Guingamp,2014,French
+12,12,Claudio Beauvue,FRA,F,1.74,66,16-04-88,Saint-Claude,Châteauroux,Guingamp,2014,French
+13,13,Christophe Mandanne,FRA,F,1.71,62,07-02-85,Toulouse,Dijon,Guingamp,2014,French
+14,14,Ladislas Douniama,CGO,F,1.63,62,24-05-86,Brazzaville,Lorient,Guingamp,2014,French
+15,15,Jérémy Sorbon,FRA,D,1.83,79,05-08-83,Caen,Caen,Guingamp,2014,French
+16,16,Hugo Guichard,FRA,G,1.89,77,16-05-92,Saint-Étienne,Bordeaux,Guingamp,2014,French
+17,17,Rachid Alioui,MAR,F,1.86,81,18-06-92,La Rochelle,None,Guingamp,2014,French
+18,18,Lionel Mathis,FRA,M,1.74,71,04-10-81,Montreuil-sous-Bois,Sochaux,Guingamp,2014,French
+20,20,Laurent Dos Santos,FRA,M,1.77,70,21-09-93,Montmorency,None,Guingamp,2014,French
+21,21,Sylvain Marveaux,FRA,M,1.72,66,15-04-86,Vannes,Newcastle U,Guingamp,2014,French
+22,22,Julien Cardy,FRA,M,1.76,71,29-09-81,Pau,Arles-Avignon,Guingamp,2014,French
+23,23,Jérémy Pied,FRA,M,1.73,69,23-02-89,Grenoble,Nice,Guingamp,2014,French
+24,24,Sambou Yatabaré,MLI,M,1.90,82,02-03-89,Beauvais,Olympiakos,Guingamp,2014,French
+25,25,Reynald Lemaître,FRA,D,1.75,66,28-06-83,Chambray-lès-Tours,Nancy,Guingamp,2014,French
+26,26,Thibault Giresse,FRA,M,1.72,68,25-05-81,Talence,Amiens,Guingamp,2014,French
+29,29,Christophe Kerbrat,FRA,D,1.83,74,02-08-86,Brest,Plabennec,Guingamp,2014,French
+30,30,Mamadou Samassa,MLI,G,1.91,81,16-02-90,Montreuil,None,Guingamp,2014,French
+32,32,Karim Achahbar,MAR,F,1.83,67,03-01-96,Guingamp,None,Guingamp,2014,French
+34,34,Marcus Coco,FRA,M,1.84,76,24-06-96,Les Abymes,None,Guingamp,2014,French
+40,40,Aly Yirango,MLI,G,1.81,78,04-01-94,Bamako,Marseille,Guingamp,2014,French
+1,1,Rudy Riou,FRA,G,1.85,78,22-01-80,Grande-Synthe,Nantes,Lens,2014,French
+3,3,Dimitri Cavaré,FRA,D,1.85,84,05-02-95,Pointe-à-Pitre,Rennes,Lens,2014,French
+4,4,Ahmed Kantari,MAR,D,1.85,80,28-06-85,Blois,Brest,Lens,2014,French
+5,5,Abdoul Ba,MTN,D,2.00,96,08-02-94,Dakar,None,Lens,2014,French
+6,6,Jérôme Lemoigne,FRA,M,1.88,77,15-02-83,Toulon,Sedan,Lens,2014,French
+7,7,Yoann Touzghar,FRA,F,1.79,75,28-11-86,Avignon,Amiens,Lens,2014,French
+8,8,Aristote Madiani,FRA,F,1.84,73,22-08-95,La-Ferté-sous-Jouarre,None,Lens,2014,French
+9,9,Adamo Coulibaly,FRA,F,1.87,81,14-08-81,Paris,Debrecen,Lens,2014,French
+11,11,Pablo Chavarría,ARG,F,1.82,74,02-01-88,Las Perdices,Anderlecht,Lens,2014,French
+14,14,Deme N'Diaye,SEN,M,1.83,72,06-02-85,Dakar,Arles-Avignon,Lens,2014,French
+15,15,Patrick Fradj,FRA,D,1.76,70,11-03-92,Saint-Saulve,None,Lens,2014,French
+16,16,Samuel Atrous,FRA,G,1.90,85,15-02-90,Roncq,Bayonne,Lens,2014,French
+18,18,Pierrick Valdivia,FRA,M,1.85,67,18-04-88,Bron,Sedan,Lens,2014,French
+19,19,Baptiste Guillaume,FRA,F,1.89,77,16-06-95,Brussels,None,Lens,2014,French
+20,20,Lalaina Nomenjanahary,MDA,M,1.88,74,16-01-86,Antananarivo,Avion,Lens,2014,French
+21,21,Alharbi El Jadeyaoui,FRA,M,1.75,68,08-08-86,Strasbourg,Angers,Lens,2014,French
+22,22,Loïck Landré,FRA,D,1.82,75,05-05-92,Aubervilliers,Paris St-Germain,Lens,2014,French
+23,23,Wylan Cyprien,FRA,M,1.80,75,28-01-95,Pointe-à-Pitre,None,Lens,2014,French
+24,24,Ludovic Baal,FRA,D,1.76,72,24-05-86,Paris,Le Mans,Lens,2014,French
+25,25,Jean-Philippe Gbamin,FRA,D,1.86,83,25-05-95,San-Pédro,None,Lens,2014,French
+27,27,Benjamin Boulenger,FRA,D,1.88,80,01-03-90,Maubeuge,Boulogne,Lens,2014,French
+29,29,Benjamin Bourigeaud,FRA,M,1.78,71,14-01-94,Calais,None,Lens,2014,French
+33,33,Boubacar Sylla,MLI,D,1.77,76,17-04-91,Bamako,Châteauroux,Lens,2014,French
+34,34,Quentin Lecoeuche,FRA,D,1.72,65,04-02-94,Beuvry,None,Lens,2014,French
+35,35,Taylor Moore,ENG,D,1.84,80,12-05-97,Walthamstow,None,Lens,2014,French
+36,36,Malick Seck,SEN,F,1.84,82,09-02-90,Dakar,Lormont,Lens,2014,French
+40,40,Valentin Belon,FRA,G,1.80,77,13-06-95,Béthune,None,Lens,2014,French
+1,1,Vincent Enyeama,NGA,G,1.80,80,29-08-82,Aba,Maccabi Tel Aviv,Lille,2014,French
+2,2,Sébastien Corchia,FRA,D,1.74,65,01-11-90,Noisy-le-Sec,Sochaux,Lille,2014,French
+4,4,Florent Balmont,FRA,M,1.68,71,02-02-80,Sainte-Foy-les-Lyon,Nice,Lille,2014,French
+5,5,Idrissa Gueye,SEN,M,1.74,64,26-09-89,Dakar,None,Lille,2014,French
+6,6,Jonathan Delaplace,FRA,M,1.67,60,20-03-86,La Seyne-sur-Mer,Zulte-Waregem,Lille,2014,French
+7,7,Sofiane Boufal,MAR,M,1.70,60,17-09-93,Paris,Angers,Lille,2014,French
+8,8,Adama Traoré,MLI,M,1.78,72,28-06-95,Bamako,AS Bakaridjan,Lille,2014,French
+10,10,Marvin Martin,FRA,M,1.71,63,10-06-88,Paris,Sochaux,Lille,2014,French
+11,11,Michael Frey,SUI,F,1.88,86,19-07-94,Münsingen,Young Boys,Lille,2014,French
+12,12,Soualiho Meïté,FRA,M,1.87,80,17-03-94,Paris,Auxerre,Lille,2014,French
+13,13,Adama Soumaoro,CIV,D,1.87,75,18-06-92,Fontenay-aux-Roses,None,Lille,2014,French
+14,14,Simon Kjær,DEN,D,1.89,82,26-03-89,Horsens,Wolfsburg,Lille,2014,French
+15,15,Djibril Sidibé,FRA,D,1.82,73,29-07-92,Troyes,Troyes,Lille,2014,French
+16,16,Steeve Elana,FRA,G,1.87,85,11-07-80,Marseille,Brest,Lille,2014,French
+17,17,Marcos Lopes,POR,M,1.74,68,28-12-95,Belém,Manchester C,Lille,2014,French
+18,18,Franck Béria,FRA,D,1.77,75,23-05-83,Argenteuil,Metz,Lille,2014,French
+19,19,Kévin Koubemba,CGO,F,1.92,90,23-03-93,Coulommiers,Amiens,Lille,2014,French
+20,20,Ryan Mendes,CPV,F,1.75,77,08-01-90,Mindelo,Le Havre,Lille,2014,French
+21,21,Abdoulay Diaby,MLI,F,1.72,70,21-05-91,Nanterre,Sedan,Lille,2014,French
+22,22,David Rozehnal,CZE,D,1.93,77,05-07-80,ternberk,Hamburg,Lille,2014,French
+24,24,Rio Antonio Mavuba,FRA,M,1.72,70,08-03-84,Born At Sea,Villarreal,Lille,2014,French
+25,25,Marko Baa,SRB,D,1.90,79,29-12-82,Trstenik,Lokomotiv Moscow,Lille,2014,French
+26,26,Nolan Roux,FRA,F,1.82,75,01-03-88,Compiègne,Brest,Lille,2014,French
+27,27,Divock Origi,BEL,F,1.85,75,18-04-95,Ostend,Liverpool,Lille,2014,French
+30,30,Jean Butez,FRA,G,1.88,75,08-06-95,Lille,None,Lille,2014,French
+33,33,Benjamin Pavard,FRA,D,1.82,67,28-03-96,Maubeuge,None,Lille,2014,French
+2,2,Lamine Koné,FRA,D,1.86,83,01-02-89,Paris,Châteauroux,Lorient,2014,French
+3,3,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Académica,Lorient,2014,French
+4,4,Vincent Le Goff,FRA,D,1.75,64,15-10-89,Quimper,Istres,Lorient,2014,French
+5,5,Mehdi Mostefa Sbaa,ALG,M,1.81,82,30-08-83,Dijon,Ajaccio,Lorient,2014,French
+6,6,François Bellugou,FRA,D,1.86,70,25-04-87,Prades,Nancy,Lorient,2014,French
+7,7,Sadio Diallo,GUI,F,1.82,75,28-12-90,Conakry,Rennes,Lorient,2014,French
+8,8,Yann Jouffre,FRA,M,1.75,65,23-07-84,Montélimar,Guingamp,Lorient,2014,French
+9,9,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,Marseille,Lorient,2014,French
+10,10,Mathieu Coutadeur,FRA,M,1.70,69,20-06-86,Le Mans,Monaco,Lorient,2014,French
+11,11,Didier Ndong,GAB,M,1.79,75,17-06-94,Lambaréné,CS Sfaxien,Lorient,2014,French
+12,12,Pierre Lavenant,FRA,M,1.80,74,03-08-95,Saint-Malo,None,Lorient,2014,French
+13,13,Rafidine Abdullah,FRA,M,1.79,75,15-01-94,Marseille,Marseille,Lorient,2014,French
+14,14,Raphaël Guerreiro,POR,D,1.70,67,22-12-93,Le Blanc-Mesnil,Caen,Lorient,2014,French
+15,15,Fabien Robert,FRA,F,1.74,67,06-01-89,Hennebont,None,Lorient,2014,French
+16,16,Fabien Audard,FRA,G,1.88,89,28-03-78,Toulouse,Bastia,Lorient,2014,French
+17,17,Walid Mesloub,ALG,M,1.80,69,04-09-85,Trappes,Le Havre,Lorient,2014,French
+19,19,Romain Philippoteaux,FRA,M,1.70,67,02-03-88,Apt,Dijon,Lorient,2014,French
+22,22,Benjamin Jeannot,FRA,F,1.81,73,22-01-92,Laxou,Nancy,Lorient,2014,French
+23,23,Mathias Autret,FRA,M,1.79,64,01-03-91,Morlaix,Brest,Lorient,2014,French
+24,24,Wesley Lautoa,FRA,D,1.72,65,25-08-87,Épernay,Sedan,Lorient,2014,French
+25,25,Lamine Gassama,SEN,D,1.81,74,20-10-89,Marseille,Lyon,Lorient,2014,French
+26,26,Yoann Wachter,GAB,D,1.77,65,07-04-92,Courbevoie,None,Lorient,2014,French
+28,28,Maxime Barthelme,FRA,M,1.77,65,08-09-88,Sartrouville,Racing Club de France,Lorient,2014,French
+29,29,Cheick Touré,CIV,D,1.85,86,16-12-92,Koukourandoumi,None,Lorient,2014,French
+30,30,Florent Chaigneau,FRA,G,1.97,94,21-03-84,La Roche-sur-Yon,Le Poiré-sur-Vie,Lorient,2014,French
+31,31,Valentin Lavigne,FRA,F,1.71,72,04-06-94,Lorient,None,Lorient,2014,French
+32,32,Didier Bouanga,FRA,F,1.93,78,14-12-95,Le Mans,None,Lorient,2014,French
+34,34,Marvin Gakpa,ALG,F,1.82,66,01-11-93,Dunkerque,None,Lorient,2014,French
+35,35,Hamadou Karamoko,FRA,D,1.94,80,31-10-95,,None,Lorient,2014,French
+39,39,Gianni Bruno,BEL,F,1.78,64,19-08-91,Rocourt,Évian TG,Lorient,2014,French
+40,40,Benjamin Lecomte,FRA,G,1.86,78,26-04-91,Paris,Niort,Lorient,2014,French
+1,1,Anthony Lopes,POR,G,1.84,81,01-10-90,Givors,None,Lyon,2014,French
+2,2,Mehdi Zeffane,ALG,D,1.74,63,19-05-92,Sainte-Foy-lès-Lyon,None,Lyon,2014,French
+3,3,Henri Bedimo Nsame,CMR,D,1.80,80,04-06-84,Douala,Montpellier,Lyon,2014,French
+4,4,Bakari Koné,BFA,D,1.88,80,27-04-88,Ouagadougou,Guingamp,Lyon,2014,French
+5,5,Milan Bievac,SRB,D,1.85,83,31-08-83,Mitrovica,Paris St-Germain,Lyon,2014,French
+6,6,Gueïda Fofana,FRA,M,1.82,74,16-05-91,Le Havre,Le Havre,Lyon,2014,French
+7,7,Clément Grenier,FRA,M,1.86,72,07-01-91,Annonay,None,Lyon,2014,French
+8,8,Yoann Gourcuff,FRA,M,1.85,79,11-07-86,Lorient,Bordeaux,Lyon,2014,French
+10,10,Alexandre Lacazette,FRA,F,1.74,69,28-05-91,Lyon,None,Lyon,2014,French
+11,11,Rachid Ghezzal,FRA,M,1.82,65,09-05-92,Décines-Charpieu,None,Lyon,2014,French
+12,12,Jordan Ferri,FRA,M,1.72,70,12-03-92,Cavaillon,None,Lyon,2014,French
+13,13,Christophe Jallet,FRA,D,1.78,65,31-10-83,Cognac,Paris St-Germain,Lyon,2014,French
+14,14,Mouhamadou Dabo,SEN,D,1.76,67,28-11-86,Dakar,Sevilla,Lyon,2014,French
+17,17,Steed Malbranque,FRA,M,1.72,73,06-01-80,Mouscron,St-Etienne,Lyon,2014,French
+18,18,Nabil Fekir,FRA,M,1.73,72,18-07-93,Lyon,None,Lyon,2014,French
+19,19,Mohamed Yattara,GUI,F,1.85,76,28-07-93,Conakry,None,Lyon,2014,French
+20,20,Clinton N'Jie,CMR,F,1.75,68,15-08-93,Douala,None,Lyon,2014,French
+21,21,Maxime Gonalons,FRA,M,1.87,76,10-03-89,Vénissieux,None,Lyon,2014,French
+22,22,Lindsay Rose,FRA,D,1.84,79,08-02-92,Rennes,Valenciennes,Lyon,2014,French
+23,23,Samuel Umtiti,FRA,D,1.81,75,14-11-93,Yaoundé,None,Lyon,2014,French
+24,24,Corentin Tolisso,FRA,M,1.65,54,03-08-94,Tarare,None,Lyon,2014,French
+25,25,Yassine Benzia,FRA,F,1.79,71,08-09-94,Saint-Aubin Lès-Elbeuf,None,Lyon,2014,French
+27,27,Maxwel Cornet,FRA,F,1.79,69,27-09-96,Bregbo,Metz,Lyon,2014,French
+28,28,Arnold Mvuemba,FRA,M,1.72,67,28-01-85,Alencon,Lorient,Lyon,2014,French
+29,29,Fares Bahlouli,FRA,M,1.81,78,08-04-95,Lyon,None,Lyon,2014,French
+30,30,Mathieu Gorgelin,FRA,G,1.87,83,05-08-90,Ambérieu-en-Bugey,None,Lyon,2014,French
+32,32,Zakarie Labidi,FRA,M,1.78,71,08-02-95,Villeneuve-la-Garenne,None,Lyon,2014,French
+2,2,Baptiste Aloé,FRA,D,1.84,77,29-06-94,La Ciotat,None,Marseille,2014,French
+3,3,Nicolas Nkoulou,CMR,D,1.80,77,27-03-90,Yaoundé,Monaco,Marseille,2014,French
+5,5,Stéphane Sparagna,FRA,D,1.86,82,17-02-95,Marseille,None,Marseille,2014,French
+6,6,Momar Bangoura,FRA,M,1.76,65,24-02-94,Dakar,None,Marseille,2014,French
+7,7,Lucas Ocampos,ARG,M,1.87,82,11-07-94,Quilmes,Monaco,Marseille,2014,French
+8,8,Mario Lemina,FRA,M,1.84,76,01-09-93,Libreville,Lorient,Marseille,2014,French
+9,9,André-Pierre Gignac,FRA,F,1.87,84,12-05-85,Martigues,Toulouse,Marseille,2014,French
+10,10,André Ayew,GHA,F,1.76,72,17-12-89,Seclin,None,Marseille,2014,French
+11,11,Romain Alessandrini,FRA,M,1.66,60,03-04-89,Marseille,Rennes,Marseille,2014,French
+12,12,Gaël Andonian,ARM,D,1.85,74,07-02-95,Marseille,None,Marseille,2014,French
+14,14,Florian Thauvin,FRA,M,1.79,70,26-01-93,Orléans,Lille,Marseille,2014,French
+15,15,Jérémy Morel,FRA,D,1.72,71,02-04-84,Lorient,Lorient,Marseille,2014,French
+16,16,Brice Samba,CGO,G,1.86,79,25-04-94,Linzolo,Le Havre,Marseille,2014,French
+17,17,Dimitri Payet,FRA,F,1.74,70,29-03-87,St-Pierre de la Réunion,Lille,Marseille,2014,French
+18,18,Bill Tuiloma,NZL,D,1.82,78,27-02-95,Otahuhu,Birkenhead U,Marseille,2014,French
+19,19,Billel Omrani,FRA,F,1.81,73,02-06-93,Forbach,None,Marseille,2014,French
+20,20,Alaixys Romao,TOG,M,1.80,74,18-01-84,L'Hay-les-Roses,Lorient,Marseille,2014,French
+22,22,Michy Batshuayi,BEL,F,1.80,78,02-10-93,Brussels,Standard Liège,Marseille,2014,French
+23,23,Benjamin Mendy,FRA,D,1.80,72,17-07-94,Longjumeau,Le Havre,Marseille,2014,French
+24,24,Rod Fanni,FRA,D,1.86,78,06-12-81,Martigues,Rennes,Marseille,2014,French
+25,25,Giannelli Imbula,CGO,M,1.86,77,12-09-92,Vilvoorde,Guingamp,Marseille,2014,French
+26,26,Brice Dja Djedje,CIV,D,1.76,70,23-12-90,Abidjan,Évian TG,Marseille,2014,French
+27,27,Abdelaziz Barrada,MAR,M,1.79,73,19-06-89,Provins,Al-Jazira,Marseille,2014,French
+29,29,Jérémie Porsan-Clemente,FRA,F,1.78,73,16-12-97,Schlcher,None,Marseille,2014,French
+30,30,Steve Mandanda,FRA,G,1.85,82,28-03-85,Kinshasa,Le Havre,Marseille,2014,French
+31,31,Bilal Boutobba,FRA,M,1.75,70,29-08-98,Marseille,None,Marseille,2014,French
+33,33,Maxime López,FRA,M,1.67,58,04-12-97,Marseille,None,Marseille,2014,French
+40,40,Julien Fabri,FRA,G,1.83,75,05-02-94,Marseille,None,Marseille,2014,French
+1,1,Johann Carrasso,FRA,G,1.85,79,07-05-88,Avignon,Rennes,Metz,2014,French
+3,3,Jonathan Rivierez,FRA,D,1.81,79,18-05-89,Le Blanc-Mesnil,Le Havre,Metz,2014,French
+4,4,Sylvain Marchal,FRA,D,1.84,80,10-02-80,Langres,Bastia,Metz,2014,French
+5,5,Guido Milan,ARG,D,1.94,93,03-07-87,Haedo,Atlanta,Metz,2014,French
+6,6,Ferjani Sassi,TUN,M,1.77,75,18-03-92,Ariana,CS Sfaxien,Metz,2014,French
+7,7,Romain Rocchi,FRA,M,1.83,75,02-10-81,Cavaillon,Arles-Avignon,Metz,2014,French
+8,8,Cheick Doukouré,CIV,M,1.80,72,11-09-92,Abidjan,Lorient,Metz,2014,French
+9,9,Juan Manuel Falcón,VEN,F,1.79,81,24-02-89,Acarigua,Zamora,Metz,2014,French
+10,10,Bouna Sarr,FRA,M,1.77,65,31-01-92,Lyon,None,Metz,2014,French
+11,11,Federico Andrada,ARG,F,1.79,74,03-03-94,Carapachay,River Plate,Metz,2014,French
+12,12,Kwamé Nsor,GHA,F,1.88,76,01-08-92,Accra,Kaiserslautern,Metz,2014,French
+13,13,Florent Malouda,FRA,M,1.81,73,13-06-80,Cayenne,Trabzonspor,Metz,2014,French
+14,14,Fadil Sido,BFA,M,1.70,65,13-04-93,Ouagadougou,Le Mans,Metz,2014,French
+15,15,Romain Métanire,FRA,D,1.78,72,28-03-90,Metz,None,Metz,2014,French
+16,16,Anthony Mfa Mezui,GAB,G,1.82,91,07-03-91,Beauvais,None,Metz,2014,French
+17,17,Fakhreddine Ben Youssef,TUN,F,1.92,82,21-06-91,Tunis,CS Sfaxien,Metz,2014,French
+18,18,Jérémy Choplin,FRA,D,1.83,70,09-02-85,Le Mans,Bastia,Metz,2014,French
+19,19,Thibaut Vion,FRA,F,1.85,68,11-12-93,Mont-Saint-Martin,FC Porto,Metz,2014,French
+20,20,Modibo Maïga,MLI,F,1.85,76,03-09-86,Bamako,West Ham U,Metz,2014,French
+21,21,Ahmed Kashi,ALG,M,1.78,76,18-11-88,Aubervilliers,Châteauroux,Metz,2014,French
+22,22,Kévin Lejeune,FRA,M,1.81,76,22-01-85,Cambrai,Tours,Metz,2014,French
+23,23,Yeni Atito Ngbakoto,FRA,M,1.72,71,23-01-92,Croix,None,Metz,2014,French
+24,24,Gaétan Bussmann,FRA,D,1.84,75,02-02-91,Épinal,None,Metz,2014,French
+25,25,Guirane N'Daw,SEN,M,1.89,79,24-04-84,Rufisque,Asteras Tripolis,Metz,2014,French
+26,26,Chris Philipps,LUX,D,1.82,72,08-03-94,Wiltz,None,Metz,2014,French
+27,27,José Luis Palomino,ARG,D,1.86,87,05-01-90,San Miguel de Tucumán,Argentinos Juniors,Metz,2014,French
+28,28,Jānis Ikaunieks,LVA,M,1.83,72,16-02-95,Kuldīga,Liepāja,Metz,2014,French
+29,29,Sergey Krivets,BLR,M,1.77,77,08-06-86,Grodno,BATE,Metz,2014,French
+30,30,David Oberhauser,FRA,G,1.83,75,29-11-89,Bitche,UTA Arad,Metz,2014,French
+1,1,Danijel Subaić,CRO,G,1.92,84,27-10-84,Zadar,Hajduk Split,Monaco,2014,French
+2,2,Fabinho,BRA,D,1.87,78,23-10-93,Campinas,Rio Ave,Monaco,2014,French
+3,3,Layvin Kurzawa,FRA,D,1.81,73,04-09-92,Fréjuis,None,Monaco,2014,French
+5,5,Aymen Abdennour,TUN,D,1.87,84,06-08-89,Sousse,Toulouse,Monaco,2014,French
+6,6,Ricardo Carvalho,POR,D,1.83,76,18-05-78,Amarante,Real Madrid,Monaco,2014,French
+7,7,Nabil Dirar,MAR,M,1.82,79,25-02-86,Casablanca,Club Brugge,Monaco,2014,French
+8,8,João Moutinho,POR,M,1.70,61,08-09-86,Portimão,FC Porto,Monaco,2014,French
+10,10,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad,Fulham,Monaco,2014,French
+12,12,Matheus Carvalho,BRA,F,1.77,70,11-03-92,Niterói,Fluminense,Monaco,2014,French
+13,13,Wallace,BRA,D,1.91,78,14-10-94,Rio de Janeiro,Sporting Braga,Monaco,2014,French
+14,14,Tiemoué Bakayoko,FRA,M,1.85,77,17-08-94,Paris,Rennes,Monaco,2014,French
+15,15,Bernardo Silva,POR,M,1.73,62,10-08-94,Lisbon,Benfica,Monaco,2014,French
+16,16,Maarten Stekelenburg,NED,G,1.97,92,22-09-82,Haarlem,Fulham,Monaco,2014,French
+17,17,Yannick Ferreira Carrasco,BEL,M,1.80,67,04-09-93,Elsene,None,Monaco,2014,French
+18,18,Valère Germain,FRA,F,1.81,75,17-04-90,Marseille,None,Monaco,2014,French
+19,19,Lacina Traoré,CIV,F,1.86,75,20-08-90,Abidjan,Anzhi Makhachkala,Monaco,2014,French
+21,21,Elderson Uwa Echiejile,NGA,D,1.84,76,20-01-88,Cotonou,Sporting Braga,Monaco,2014,French
+22,22,Geoffrey Kondogbia,FRA,M,1.83,71,25-04-93,Saint-Denis,Sevilla,Monaco,2014,French
+23,23,Anthony Martial,FRA,F,1.81,76,05-12-95,Massy,Lyon,Monaco,2014,French
+24,24,Andrea Raggi,ITA,D,1.87,82,24-06-84,Carrara,Bologna,Monaco,2014,French
+25,25,Alain Traoré,BFA,M,1.76,66,31-12-88,Bobo-Dioulasso,Lorient,Monaco,2014,French
+27,27,Aboubakar Kamara,FRA,F,1.78,80,07-03-95,Gonesse,None,Monaco,2014,French
+28,28,Jérémy Toulalan,FRA,M,1.83,77,10-09-83,Nantes,Málaga,Monaco,2014,French
+29,29,Dylan Bahamboula,FRA,M,1.85,65,22-05-95,Grigny,None,Monaco,2014,French
+30,30,Seydou Sy,SEN,G,1.92,80,12-12-95,Dakar,None,Monaco,2014,French
+34,34,Abdou Diallo,FRA,D,1.83,72,04-05-96,Tours,None,Monaco,2014,French
+37,37,Aboud Aziz Thiam,FRA,M,1.80,62,15-01-97,Le Val Fourré,None,Monaco,2014,French
+38,38,Almamy Touré,MLI,D,1.82,72,28-04-96,Bamako,None,Monaco,2014,French
+40,40,Marc-Aurèle Caillard,FRA,G,1.91,79,12-05-94,Melun,None,Monaco,2014,French
+1,1,Laurent Pionnier,FRA,G,1.84,76,24-05-82,Bagnois sur Cèze,None,Montpellier,2014,French
+3,3,Daniel Congré,FRA,D,1.84,79,05-04-85,Toulouse,Toulouse,Montpellier,2014,French
+4,4,Hilton,BRA,D,1.82,73,13-09-77,Brasilia,Marseille,Montpellier,2014,French
+5,5,Siaka Tiéné,CIV,D,1.76,72,22-02-82,Abidjan,Paris St-Germain,Montpellier,2014,French
+6,6,Joris Marveaux,FRA,M,1.78,69,15-08-82,Vannes,Clermont,Montpellier,2014,French
+7,7,Anthony Mounier,FRA,F,1.74,65,27-09-87,Aubenas,Nice,Montpellier,2014,French
+8,8,Jonas Martin,FRA,M,1.82,70,09-04-90,Besançon,None,Montpellier,2014,French
+9,9,Kévin Bérigaud,FRA,F,1.78,69,03-03-84,Thonon-les-Bains,Évian TG,Montpellier,2014,French
+10,10,Lucas Barrios,PAR,F,1.87,87,13-11-84,San Fernando,Spartak Moscow,Montpellier,2014,French
+12,12,Florian Sotoca,FRA,M,1.87,79,25-10-90,Narbonne,Béziers,Montpellier,2014,French
+13,13,Dylan Gissi,SUI,D,1.92,79,27-04-91,Geneva,Olimpo (BB),Montpellier,2014,French
+14,14,Bryan Dabo,FRA,M,1.85,75,18-02-92,Marseille,None,Montpellier,2014,French
+16,16,Geoffrey Jourdren,FRA,G,1.81,73,04-02-86,Paris,None,Montpellier,2014,French
+17,17,Paul Lasne,FRA,M,1.83,72,16-01-89,Saint-Cloud,Ajaccio,Montpellier,2014,French
+18,18,Karim Aït-Fana,MAR,F,1.75,65,25-02-89,Limoges,None,Montpellier,2014,French
+19,19,Souleymane Camara,SEN,F,1.74,72,22-12-82,Dakar,Nice,Montpellier,2014,French
+20,20,Morgan Sanson,FRA,M,1.82,70,18-08-94,Saint-Doulchard,Le Mans,Montpellier,2014,French
+21,21,Abdelhamid El Kaoutari,MAR,D,1.80,73,17-03-90,Montpellier,None,Montpellier,2014,French
+22,22,Sébastien Wüthrich,SUI,M,1.80,73,29-05-90,Neuchâtel,Sion,Montpellier,2014,French
+23,23,Jamel Saihi,TUN,M,1.81,73,27-01-87,Montpellier,None,Montpellier,2014,French
+25,25,Mathieu Deplagne,FRA,D,1.80,66,01-10-91,Montpellier,None,Montpellier,2014,French
+27,27,Steve Mounié,BEN,F,1.90,80,29-09-94,Parakou,None,Montpellier,2014,French
+28,28,Djamel Bakar,FRA,F,1.71,67,06-04-89,Marseille,Nancy,Montpellier,2014,French
+29,29,Gianni Seraf,FRA,M,1.69,65,05-07-94,Thiais,None,Montpellier,2014,French
+30,30,Jonathan Ligali,FRA,G,1.83,82,28-05-91,Montpellier,None,Montpellier,2014,French
+31,31,Quentin Cornette,FRA,F,1.72,75,17-01-94,La Ciotat,None,Montpellier,2014,French
+32,32,Nicolas Saint-Ruf,FRA,D,1.87,81,24-10-92,Rouen,Lens,Montpellier,2014,French
+33,33,Anthony Ribelin,FRA,F,1.77,73,08-04-96,Nîmes,None,Montpellier,2014,French
+34,34,Ellyes Skhiri,FRA,M,1.85,69,10-05-95,Lunel,None,Montpellier,2014,French
+40,40,Dimitry Bertaud,FRA,G,1.80,85,06-06-98,Montpellier,None,Montpellier,2014,French
+1,1,Rémy Riou,FRA,G,1.91,81,06-08-87,Lyon,Toulouse,Nantes,2014,French
+2,2,Kian Hansen,DEN,D,1.84,74,03-03-89,Grindsted,Esbjerg,Nantes,2014,French
+3,3,Papy Mison Djilobodji,SEN,D,1.93,82,01-12-88,Kaolack,Sénart-Moissy,Nantes,2014,French
+4,4,Oswaldo Vizcarrondo,VEN,D,1.91,86,31-05-84,Caracas,América,Nantes,2014,French
+5,5,Olivier Veigneau,FRA,D,1.74,69,16-07-85,Suresnes,Duisburg,Nantes,2014,French
+6,6,Rémi Gomis,SEN,M,1.80,64,14-02-84,Versailles,Levante,Nantes,2014,French
+7,7,Alejandro Bedoya,USA,M,1.78,73,29-04-87,Weston,Helsingborgs IF,Nantes,2014,French
+8,8,Vincent Bessat,FRA,M,1.78,73,08-11-85,Lyon,Boulogne,Nantes,2014,French
+11,11,Ismaël Bangoura,GUI,F,1.74,72,02-01-85,Conakry,Al-Nasr [UAE],Nantes,2014,French
+13,13,Serge Gakpé,TOG,M,1.77,79,07-05-87,Bondy,Monaco,Nantes,2014,French
+14,14,Georges-Kevin Nkoudou,FRA,M,1.73,68,13-02-95,Versailles,None,Nantes,2014,French
+15,15,Léo Dubois,FRA,D,1.78,65,14-09-94,Segré,None,Nantes,2014,French
+16,16,Erwin Zelazny,FRA,G,1.86,80,22-09-91,Grande-Synthe,None,Nantes,2014,French
+18,18,Lucas Deaux,FRA,M,1.86,77,26-12-88,Reims,Reims,Nantes,2014,French
+20,20,Jules Iloki,FRA,M,1.73,70,14-01-92,Paris,None,Nantes,2014,French
+21,21,Johan Audel,FRA,F,1.80,73,12-12-83,Nice,Stuttgart,Nantes,2014,French
+22,22,Issa Cissokho,FRA,D,1.73,73,23-02-85,Paris,Carquefou,Nantes,2014,French
+23,23,Yacine Bammou,FRA,F,1.88,78,11-09-91,Paris,Évry,Nantes,2014,French
+24,24,Chaker Alhadhur,COM,D,1.71,56,04-12-91,Nantes,None,Nantes,2014,French
+25,25,Jordan Veretout,FRA,M,1.76,66,01-03-93,Ancenis,None,Nantes,2014,French
+26,26,Koffi Djidji,FRA,D,1.84,71,30-11-92,Bagnolet,None,Nantes,2014,French
+27,27,Adama Niane,MLI,F,1.82,70,16-06-93,Bamako,None,Nantes,2014,French
+28,28,Valentin Rongier,FRA,M,1.72,66,07-12-94,Mâcon,None,Nantes,2014,French
+30,30,Maxime Dupé,FRA,G,1.86,85,04-03-93,Malestroit,None,Nantes,2014,French
+33,33,Anthony Walongwa,COD,D,1.82,81,15-10-93,Nantes,None,Nantes,2014,French
+38,38,Aristote Ndongala,COD,D,1.74,68,19-01-94,Kinshasa,None,Nantes,2014,French
+40,40,Nassim Badri,FRA,G,1.80,72,08-12-93,Nantes,None,Nantes,2014,French
+1,1,Mouez Hassen,FRA,G,1.84,70,05-03-95,Fréjus,None,Nice,2014,French
+3,3,Carlos Eduardo,BRA,M,1.83,72,17-10-89,Sorocaba,FC Porto,Nice,2014,French
+5,5,Kevin Gomis,FRA,D,1.86,85,20-01-89,Paris,Naval,Nice,2014,French
+6,6,Didier Digard,FRA,M,1.83,76,12-07-86,Gisors,Middlesbrough,Nice,2014,French
+7,7,Julien Vercauteren,BEL,M,1.70,66,12-01-93,Sint-Agatha-Berchem,Lierse,Nice,2014,French
+8,8,Mahamane Traoré,MLI,M,1.76,66,31-08-88,Bamako,CO Bamako,Nice,2014,French
+9,9,Xavier Pentecôte,FRA,F,1.80,77,13-08-86,St Dié,Toulouse,Nice,2014,French
+10,10,Valentin Eysseric,FRA,M,1.81,73,25-03-92,Aix-en-Provence,Monaco,Nice,2014,French
+11,11,Eric Bauthéac,FRA,M,1.65,65,24-08-87,Bagnols-sur-Cèze,Dijon,Nice,2014,French
+13,13,Niklas Hult,SWE,M,1.73,65,13-02-90,Värnamo,IF Elfsborg,Nice,2014,French
+14,14,Alassane Pléa,FRA,M,1.80,72,10-03-93,Lille,Lyon,Nice,2014,French
+15,15,Grégoire Puel,FRA,D,1.80,67,20-02-92,Nice,Lyon,Nice,2014,French
+16,16,Simon Pouplin,FRA,G,1.87,79,28-05-85,Cholet,Sochaux,Nice,2014,French
+18,18,Neal Maupay,FRA,F,1.71,69,14-08-96,Versailles,None,Nice,2014,French
+19,19,Jordan Amavi,FRA,D,1.76,70,09-03-94,Toulon,None,Nice,2014,French
+20,20,Souleymane Diawara,SEN,D,1.87,88,24-12-78,Gabou,Marseille,Nice,2014,French
+21,21,Lloyd Palun,GAB,D,1.84,73,28-11-88,Arles,Trinité FC,Nice,2014,French
+22,22,Nampalys Mendy,FRA,M,1.68,68,23-06-92,La Seyne-sur-Mer,Monaco,Nice,2014,French
+23,23,Alexy Bosetti,FRA,F,1.72,66,23-04-93,Nice,None,Nice,2014,French
+24,24,Mathieu Bodmer,FRA,M,1.90,91,22-11-82,Evreux,Paris St-Germain,Nice,2014,French
+25,25,Romain Genevois,HAI,D,1.80,66,28-10-87,L'Estère,Tours,Nice,2014,French
+27,27,Bryan Constant,FRA,F,1.72,65,27-03-94,Fréjus,None,Nice,2014,French
+28,28,Fabien Dao Castellana,FRA,M,1.69,61,28-07-93,Saint-Raphaël,None,Nice,2014,French
+30,30,Joris Delle,FRA,G,1.90,84,29-03-90,Briey,Metz,Nice,2014,French
+31,31,Moussa M'Bow,SEN,D,1.92,80,07-02-92,Gwediawayé,None,Nice,2014,French
+33,33,Albert Rafetraniaina,MAD,M,1.76,66,09-09-96,Ambohitrony,None,Nice,2014,French
+34,34,Olivier Boscagli,FRA,D,1.81,68,18-11-97,Monaco,None,Nice,2014,French
+35,35,Vincent Koziello,FRA,M,1.68,58,28-10-95,Grasse,None,Nice,2014,French
+36,36,Franck Honorat,FRA,F,1.80,70,11-08-96,Toulon,None,Nice,2014,French
+37,37,Paulin Puel,FRA,F,1.79,73,09-05-97,Nice,None,Nice,2014,French
+40,40,Yoan Cardinale,FRA,G,1.81,84,27-03-94,La Ciotat,None,Nice,2014,French
+1,1,Nicolas Douchez,FRA,G,1.85,77,22-04-80,Rasny-sous-Bois,Rennes,Paris Saint-Germain,2014,French
+2,2,Thiago Silva,BRA,D,1.83,79,22-09-84,Rio de Janeiro,Milan,Paris Saint-Germain,2014,French
+4,4,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Newcastle U,Paris Saint-Germain,2014,French
+5,5,Marquinhos,BRA,D,1.81,67,14-05-94,São Paulo,Roma,Paris Saint-Germain,2014,French
+6,6,Zoumana Camara,FRA,D,1.82,76,03-04-79,Colombes,St-Etienne,Paris Saint-Germain,2014,French
+7,7,Lucas,BRA,M,1.72,66,13-08-92,São Paulo,São Paulo,Paris Saint-Germain,2014,French
+8,8,Thiago Motta,ITA,M,1.88,77,28-08-82,São Bernardo do Campo,Internazionale,Paris Saint-Germain,2014,French
+9,9,Edinson Cavani,URU,F,1.84,71,14-02-87,Montevideo,Napoli,Paris Saint-Germain,2014,French
+10,10,Zlatan Ibrahimović,SWE,F,1.92,84,03-10-81,Malmö,Milan,Paris Saint-Germain,2014,French
+14,14,Blaise Matuidi,FRA,M,1.75,70,09-04-87,Toulouse,St-Etienne,Paris Saint-Germain,2014,French
+15,15,Jean-Christophe Bahebeck,FRA,F,1.82,70,01-05-93,Saint-Denis,None,Paris Saint-Germain,2014,French
+16,16,Mike Maignan,FRA,G,1.87,80,03-07-95,Cayenne,None,Paris Saint-Germain,2014,French
+17,17,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha,Barcelona,Paris Saint-Germain,2014,French
+19,19,Serge Aurier,CIV,D,1.75,75,24-12-92,Abidjan,Toulouse,Paris Saint-Germain,2014,French
+21,21,Lucas Digne,FRA,D,1.84,75,20-07-93,Meaux,Lille,Paris Saint-Germain,2014,French
+22,22,Ezequiel Lavezzi,ARG,F,1.73,75,03-05-85,Villa Gobernador Gálvez,Napoli,Paris Saint-Germain,2014,French
+23,23,Gregory van der Wiel,NED,D,1.81,68,03-02-88,Amsterdam,Ajax,Paris Saint-Germain,2014,French
+24,24,Marco Verratti,ITA,M,1.65,60,05-11-92,Pescara,Pescara,Paris Saint-Germain,2014,French
+25,25,Adrien Rabiot,FRA,M,1.88,71,03-04-95,Saint-Maurice,None,Paris Saint-Germain,2014,French
+27,27,Javier Pastore,ARG,M,1.87,75,20-06-89,Córdoba,Palermo,Paris Saint-Germain,2014,French
+30,30,Salvatore Sirigu,ITA,G,1.90,80,12-01-87,Nuoro,Palermo,Paris Saint-Germain,2014,French
+32,32,David Luiz,BRA,D,1.89,84,22-04-87,São Paulo,Chelsea,Paris Saint-Germain,2014,French
+33,33,Jean-Kévin Augustin,FRA,F,1.77,69,16-06-97,Paris,None,Paris Saint-Germain,2014,French
+34,34,Presnel Kimpembe,FRA,D,1.83,67,13-08-95,Beaumont-sur-Oise,None,Paris Saint-Germain,2014,French
+40,40,Mory Diaw,FRA,G,1.95,95,22-06-93,Poissy,None,Paris Saint-Germain,2014,French
+2,2,Mohamed Fofana,MLI,D,1.81,75,07-03-85,Gonesse,Toulouse,Reims,2014,French
+3,3,Franck Signorino,ITA,D,1.73,60,19-09-81,Nogent-sur-Marne,Laval,Reims,2014,French
+4,4,Valentin Roberge,FRA,D,1.85,73,09-06-87,Montreuil,Sunderland,Reims,2014,French
+5,5,Grégory Bourillon,FRA,M,1.87,74,01-07-84,Laval,Lorient,Reims,2014,French
+6,6,Antoine Devaux,FRA,M,1.85,70,21-02-85,Dieppe,Toulouse,Reims,2014,French
+7,7,Odaïr Fortes,CPV,F,1.82,70,31-03-87,Alfortville,Alfortville,Reims,2014,French
+8,8,Prince Oniangue,CGO,M,1.90,78,04-11-88,Paris,Tours,Reims,2014,French
+10,10,Gaëtan Charbonnier,FRA,F,1.88,80,27-12-88,Saint-Mandé,Montpellier,Reims,2014,French
+11,11,Diego,BRA,F,1.75,72,09-03-88,Americana,Tours,Reims,2014,French
+12,12,Nicolas De Préville,FRA,F,1.82,77,08-01-91,Istres,Istres,Reims,2014,French
+14,14,Benjamin Moukandjo,CMR,F,1.79,76,12-11-88,Douala,Nancy,Reims,2014,French
+15,15,Chris Mavinga,FRA,D,1.83,78,26-05-91,Meaux,Rubin Kazan,Reims,2014,French
+16,16,Kossi Agassa,TOG,G,1.90,86,07-07-78,Lomé,Hércules,Reims,2014,French
+17,17,Mads Albæk,DEN,M,1.82,76,14-01-90,Roskilde,FC Midtjylland,Reims,2014,French
+19,19,Alexi Peuget,FRA,M,1.86,75,18-12-90,Mulhouse,Strasbourg,Reims,2014,French
+20,20,Yann Benedick,FRA,F,1.76,73,01-02-92,Strasbourg,Strasbourg,Reims,2014,French
+22,22,Mickaël Tacalfred,FRA,D,1.75,69,23-04-81,Colombes,Dijon,Reims,2014,French
+23,23,Aïssa Mandi,ALG,D,1.86,78,22-10-91,Châlons-en-Champagne,None,Reims,2014,French
+24,24,David N'Gog,FRA,F,1.90,79,01-04-89,Gennevilliers,Swansea C,Reims,2014,French
+25,25,Anthony Weber,FRA,D,1.90,82,11-06-87,Strasbourg,Paris FC,Reims,2014,French
+26,26,Omenuke Mfulu,COD,M,1.82,69,20-03-94,Poissy,Lille,Reims,2014,French
+27,27,Christopher Glombard,FRA,D,1.78,74,05-06-89,Montreuil,Bordeaux,Reims,2014,French
+28,28,Antoine Conte,FRA,D,1.79,73,29-01-94,Paris,Paris St-Germain,Reims,2014,French
+29,29,Grejohn Kyei,FRA,F,1.87,84,12-08-95,,None,Reims,2014,French
+30,30,Johnny Placide,HAI,G,1.81,84,29-01-88,Montfermeil,Le Havre,Reims,2014,French
+33,33,Jordan Siebatcheu,FRA,F,1.90,82,26-04-96,,None,Reims,2014,French
+40,40,Sacha Bastien,FRA,G,1.93,85,22-01-95,Metz,Sedan,Reims,2014,French
+41,50,Cyriack Garel,FRA,G,1.83,78,13-07-96,Rennes,Rennes,Reims,2014,French
+1,1,Benoît Costil,FRA,G,1.87,83,03-07-87,Caen,Sedan,Rennes,2014,French
+3,3,Cheikh M'Bengué,SEN,D,1.83,75,23-07-88,Toulouse,Toulouse,Rennes,2014,French
+4,4,Mexer,MOZ,D,1.81,75,08-09-85,Maputo,Nacional [POR],Rennes,2014,French
+6,6,Gelson Fernandes,SUI,M,1.83,70,02-09-86,Praia,Freiburg,Rennes,2014,French
+7,7,Paul-Georges Ntep,FRA,F,1.80,75,29-07-92,Douala,Auxerre,Rennes,2014,French
+8,8,Abdoulaye Doucouré,FRA,M,1.82,69,01-01-93,Meulan-en-Yvelines,None,Rennes,2014,French
+9,9,Ola Toivonen,SWE,F,1.90,74,03-07-86,Degerfors,PSV Eindhoven,Rennes,2014,French
+10,10,Kamil Grosicki,POL,M,1.80,78,08-06-88,Szczecin,Sivasspor,Rennes,2014,French
+11,11,Philipp Hosiner,AUT,F,1.79,75,15-05-89,Eisenstadt,Austria Vienna,Rennes,2014,French
+12,12,Steven Moreira,FRA,D,1.76,67,13-08-94,Noisy-le-Grand,None,Rennes,2014,French
+13,13,Christian Brüls,BEL,M,1.84,70,30-09-88,Malmedy,KAA Gent,Rennes,2014,French
+14,14,Fallou Diagné,SEN,D,1.85,75,14-08-89,Pikine,Freiburg,Rennes,2014,French
+15,15,Jean II Makoun,CMR,M,1.73,69,29-05-83,Yaoundé,Aston Villa,Rennes,2014,French
+16,16,Olivier Sorin,FRA,G,1.88,76,16-04-81,Gien,Auxerre,Rennes,2014,French
+17,17,Vincent Pajot,FRA,M,1.76,64,19-08-90,Domont,None,Rennes,2014,French
+18,18,Pedro Henrique,BRA,M,1.79,72,16-06-90,Novo Hamburgo,Zürich,Rennes,2014,French
+19,19,Ermir Lenjani,ALB,M,1.75,65,05-08-89,Pristina,St. Gallen,Rennes,2014,French
+21,21,Benjamin André,FRA,D,1.77,68,03-08-90,Nice,Ajaccio,Rennes,2014,French
+22,22,Sylvain Armand,FRA,D,1.82,82,01-08-80,Saint-Etienne,Paris St-Germain,Rennes,2014,French
+23,23,Anders Konradsen,NOR,M,1.85,79,18-07-90,Bodø,Strømsgodset,Rennes,2014,French
+24,24,Sanjin Prcić,BIH,M,1.81,73,20-11-93,Belfort,Sochaux,Rennes,2014,French
+25,25,Zana Allée,FRA,M,1.72,66,29-04-96,Baghdad,None,Rennes,2014,French
+27,27,Mahamadou Habib Habibou,CTA,F,1.92,80,16-04-87,Bria,KAA Gent,Rennes,2014,French
+28,28,Gjoko Zajkov,MKD,D,1.86,78,10-02-95,Skopje,Rabotnički Skopje,Rennes,2014,French
+29,29,Romain Danzé,FRA,D,1.84,72,03-07-86,Douarnenez,None,Rennes,2014,French
+30,30,Christopher Dilo,FRA,G,1.89,84,05-01-94,Argenteuil,St Mirren,Rennes,2014,French
+1,1,Baptiste Valette,FRA,G,1.85,80,01-09-92,Sète,Montpellier,Saint-Etienne,2014,French
+2,2,Kévin Theophile Catherine,FRA,D,1.80,77,28-10-89,Saint Brieuc,Cardiff C,Saint-Etienne,2014,French
+6,6,Jérémy Clément,FRA,M,1.74,61,26-08-84,Béziers,Paris St-Germain,Saint-Etienne,2014,French
+7,7,Max Gradel,CIV,F,1.80,70,30-11-87,Abidjan,Leeds U,Saint-Etienne,2014,French
+8,8,Benjamin Corgnet,FRA,M,1.80,75,06-04-87,Thionville,Lorient,Saint-Etienne,2014,French
+9,9,Mevlüt Erdinç,TUR,F,1.81,85,25-02-87,Saint-Claude,Rennes,Saint-Etienne,2014,French
+10,10,Renaud Cohade,FRA,M,1.80,74,29-09-84,Aubenas,Valenciennes,Saint-Etienne,2014,French
+11,11,Yohan Mollo,FRA,F,1.75,74,18-07-89,Martigues,Nancy,Saint-Etienne,2014,French
+12,12,Allan Saint-Maximin,FRA,F,1.73,67,12-03-97,Châtenay-Malabry,None,Saint-Etienne,2014,French
+13,13,Ricky van Wolfswinkel,NED,F,1.85,69,27-01-89,Amersfoort,Norwich C,Saint-Etienne,2014,French
+14,14,Landry N'Guemo,CMR,M,1.73,70,28-11-85,Yaoundé,Bordeaux,Saint-Etienne,2014,French
+16,16,Stéphane Ruffier,FRA,G,1.87,89,27-09-86,Bayonne,Monaco,Saint-Etienne,2014,French
+18,18,Fabien Lemoine,FRA,M,1.75,67,16-03-87,Fougères,Rennes,Saint-Etienne,2014,French
+19,19,Florentin Pogba,GUI,D,1.88,87,19-08-90,Conakry,Sedan,Saint-Etienne,2014,French
+20,20,Jonathan Brison,FRA,D,1.79,73,07-02-83,Soissons,Nancy,Saint-Etienne,2014,French
+21,21,Romain Hamouma,FRA,M,1.77,67,29-03-87,Lure,Caen,Saint-Etienne,2014,French
+22,22,Kévin Monnet-Paquet,FRA,F,1.83,73,19-08-88,Bourgoin-Jallieu,Lorient,Saint-Etienne,2014,French
+23,23,Paul Baysse,FRA,D,1.84,82,15-05-88,Bordeaux,Brest,Saint-Etienne,2014,French
+24,24,Loïc Perrin,FRA,D,1.80,76,07-08-85,Saint-Etienne,None,Saint-Etienne,2014,French
+26,26,Moustapha Bayal Sall,SEN,D,1.90,90,30-11-85,Dakar,US Gorée,Saint-Etienne,2014,French
+27,27,Franck Tabanou,FRA,M,1.78,70,30-01-89,Thiais,Toulouse,Saint-Etienne,2014,French
+28,28,Ismaël Diomande,CIV,M,1.80,75,28-08-92,Abidjan,None,Saint-Etienne,2014,French
+29,29,François Clerc,FRA,D,1.86,77,18-04-83,Bourg en Bresse,Nice,Saint-Etienne,2014,French
+30,30,Jessy Moulin,FRA,G,1.84,80,13-01-86,Valence,None,Saint-Etienne,2014,French
+31,31,Ben Karamoko,FRA,D,1.87,77,17-05-95,Paris,None,Saint-Etienne,2014,French
+33,33,Jonathan Bamba,FRA,M,1.73,67,26-03-96,Alfortville,None,Saint-Etienne,2014,French
+1,1,Zacharie Boucher,FRA,G,1.80,74,07-03-92,St Pierre,Le Havre,Toulouse,2014,French
+2,2,Maxime Spano,FRA,D,1.84,79,31-10-94,Aubagne,ES Pennoise,Toulouse,2014,French
+3,3,Jean-Armel Kana-Biyik,CMR,D,1.83,86,03-07-89,Metz,Rennes,Toulouse,2014,French
+4,4,Tongo Doumbia,MLI,M,1.90,79,06-08-89,Vernon,Wolverhampton W,Toulouse,2014,French
+5,5,Issiaga Sylla,GUI,D,1.80,70,01-01-94,Conakry,Horoya AC,Toulouse,2014,French
+6,6,William Matheus,BRA,D,1.87,85,02-04-90,Rio de Janeiro,Palmeiras,Toulouse,2014,French
+7,7,Jean-Daniel Akpa Akpro,CIV,D,1.80,66,11-10-92,Toulouse,None,Toulouse,2014,French
+8,8,Etienne Didot,FRA,M,1.75,65,24-07-83,Paimpol,Rennes,Toulouse,2014,French
+9,9,Martin Braithwaite,DEN,F,1.79,77,05-06-91,Esbjerg,Esbjerg,Toulouse,2014,French
+10,10,Wissam Ben Yedder,FRA,F,1.70,68,12-08-90,Sarcelles,Alfortville,Toulouse,2014,French
+11,11,Aleksandar Peić,SRB,F,1.90,83,21-05-92,Ni,Jagodina,Toulouse,2014,French
+12,12,Florian David,FRA,F,1.80,71,16-11-92,Champigny-sur-Marne,None,Toulouse,2014,French
+14,14,François Sirieix,FRA,M,1.80,72,07-10-80,Bordeaux,Auxerre,Toulouse,2014,French
+15,15,Uro Spajić,SRB,D,1.86,76,13-02-93,Belgrade,Crvena Zvezda,Toulouse,2014,French
+16,16,Marc Vidal,FRA,G,1.87,80,03-06-91,Saint-Affrique,None,Toulouse,2014,French
+17,17,Adrien Regattin,MAR,M,1.66,67,22-08-91,Sète,Sète,Toulouse,2014,French
+18,18,Óscar Trejo,ARG,M,1.80,79,26-04-88,Santiago del Estero,Sporting Gijón,Toulouse,2014,French
+20,20,Steeve Yago,BFA,D,1.78,75,16-12-92,Sarcelles,None,Toulouse,2014,French
+21,21,Abel Aguilar,COL,M,1.85,82,06-01-85,Santa Fe de Bogota,Hércules,Toulouse,2014,French
+22,22,Duan Vekovac,SRB,D,1.87,78,16-03-86,Kruevac,Young Boys,Toulouse,2014,French
+23,23,Marcel Tisserand,COD,D,1.84,70,10-01-93,Meaux,Monaco,Toulouse,2014,French
+24,24,Pavle Ninkov,SRB,D,1.83,81,20-04-85,Belgrade,Crvena Zvezda,Toulouse,2014,French
+25,25,Dragoş Grigore,ROU,D,1.85,76,07-09-86,Vaslui,Dinamo Bucureşti,Toulouse,2014,French
+26,26,Sana Zaniou,BFA,F,1.70,65,31-12-94,Cinsense,AS Sonabel,Toulouse,2014,French
+27,27,Amadou Soukouna,FRA,F,1.82,76,21-06-92,Paris,None,Toulouse,2014,French
+28,28,Mihai Roman,ROU,M,1.73,70,16-11-84,Suceava,Rapid Bucureşti,Toulouse,2014,French
+29,29,François Moubandje,SUI,D,1.82,76,21-06-90,Geneva,Servette,Toulouse,2014,French
+30,30,Ali Ahamada,FRA,G,1.89,83,19-08-91,Martigues,None,Toulouse,2014,French
+33,33,Youssef Ben Ali,FRA,F,1.68,63,04-02-95,Albi,None,Toulouse,2014,French
+34,34,Alexis Blin,FRA,M,1.84,78,16-09-96,Le Mans,None,Toulouse,2014,French
+35,35,Sami Larabi,FRA,D,1.84,73,13-04-96,Toulouse,None,Toulouse,2014,French
+36,36,Yann Bodiger,FRA,M,1.88,78,09-02-95,Sète,None,Toulouse,2014,French
+40,40,Lionel Mpasi,FRA,G,1.82,81,01-08-94,Meaux,Paris St-Germain,Toulouse,2014,French

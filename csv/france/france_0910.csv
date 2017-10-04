@@ -1,0 +1,579 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Olivier Sorin,FRA,G,1.88,76,16-04-81,Gien,Nancy,Auxerre,2009,French
+2,2,Cédric Hengbart,FRA,D,1.83,73,13-07-80,Falaise,Caen,Auxerre,2009,French
+4,4,Stéphane Grichting,SUI,D,1.86,80,30-03-79,Sierre,Sion,Auxerre,2009,French
+5,5,Dariusz Dudka,POL,D,1.82,71,09-12-83,Kostrzyn nad Odrą,Wisła  Kraków,Auxerre,2009,French
+6,6,Adama Coulibaly,MLI,D,1.86,83,09-10-80,Bamako,Lens,Auxerre,2009,French
+7,7,Kamel Chafni,MAR,M,1.81,70,11-06-82,Bordeaux,Ajaccio,Auxerre,2009,French
+8,8,Aurèlien  Capoue,FRA,M,1.85,74,28-02-82,Niort,Nantes,Auxerre,2009,French
+9,9,Valter  Birsa,SVN,F,1.84,79,07-08-86,Sempeter  pri Gorici,Sochaux,Auxerre,2009,French
+10,10,Alexandre Licata,FRA,M,1.78,76,02-01-84,Grenoble,Monaco,Auxerre,2009,French
+11,11,Julien  Quercia,FRA,F,1.68,65,17-08-86,Thionville,Sochaux,Auxerre,2009,French
+12,12,Jean-Pascal Mignot,FRA,D,1.83,75,26-02-81,Rouen,None,Auxerre,2009,French
+13,13,Kévin Malaga,FRA,D,1.89,81,24-06-87,Toulon,None,Auxerre,2009,French
+14,14,Dennis Oliech,KEN,F,1.81,80,02-02-85,Nairobi,Nantes,Auxerre,2009,French
+15,15,Baptiste  Martin,FRA,D,1.86,81,14-05-85,Troyes,None,Auxerre,2009,French
+16,16,Rémy  Riou,FRA,G,1.91,81,06-08-87,Lyon,Lyon,Auxerre,2009,French
+17,17,Benoît Pedretti,FRA,M,1.77,69,12-11-80,Audincourt,Lyon,Auxerre,2009,French
+18,18,Roy  Contout,FRA,M,1.75,75,11-02-85,Cayenne,Amiens,Auxerre,2009,French
+19,19,Yaya Sanogo,FRA,F,1.91,74,27-01-93,Massy,None,Auxerre,2009,French
+20,20,Amadou Sidibé,MLI,D,1.73,72,19-02-86,Bamako,Djoliba,Auxerre,2009,French
+21,21,Daniel Niculae,ROU,F,1.85,76,06-10-82,Bucharest,Rapid  Bucureşti,Auxerre,2009,French
+22,22,Ireneusz  Jeleń,POL,F,1.84,74,09-04-81,Cieszyn,Wisła  Płock,Auxerre,2009,French
+23,23,Jérémy Berthod,FRA,D,1.80,74,24-04-84,Tassin-la-Demi-Lune,Monaco,Auxerre,2009,French
+24,24,Amara Kallé,MLI,D,1.84,78,19-09-90,Bamako,AS Real Bamako,Auxerre,2009,French
+25,25,Maxime Bourgeois,FRA,F,1.83,77,03-02-91,Brunoy,None,Auxerre,2009,French
+26,26,Anicet Andrianantenaina,MAD,F,1.82,71,16-03-90,Antananarivo,None,Auxerre,2009,French
+27,27,Alain Traoré,BFA,M,1.76,66,31-12-88,Bobo-Dioulasso,None,Auxerre,2009,French
+28,28,Robert Popov,BUL,D,1.85,80,16-04-82,Strumica,Litex Lovech,Auxerre,2009,French
+29,29,Delvin Ndinga,CGO,M,1.82,73,03-04-88,Pointe Noire,None,Auxerre,2009,French
+30,30,Willy Maeyens,FRA,G,1.98,93,05-06-89,Péronne,None,Auxerre,2009,French
+34,34,Vincent Acapandié,FRA,M,1.80,79,09-02-90,Saint-Pierre,None,Auxerre,2009,French
+1,1,Cédric Carrasso,FRA,G,1.87,87,30-12-81,Avignon,Toulouse,Bordeaux,2009,French
+2,2,Michaël Ciani,FRA,D,1.89,88,06-04-84,Paris,Lorient,Bordeaux,2009,French
+3,3,Henrique,BRA,D,1.88,78,02-05-83,São Gonçalo,Flamengo,Bordeaux,2009,French
+4,4,Alou  Diarra,FRA,M,1.90,79,15-07-81,Villepinte,Lyon,Bordeaux,2009,French
+5,5,Fernando Menegazzo,BRA,M,1.86,79,03-05-81,Anita Garibaldi,Siena,Bordeaux,2009,French
+6,6,Franck Jurietti,FRA,D,1.77,71,30-03-75,Valence,Monaco,Bordeaux,2009,French
+7,7,Yoan  Gouffran,FRA,F,1.75,70,25-05-86,Villeneuve-st-Georges,Caen,Bordeaux,2009,French
+8,8,Yoann  Gourcuff,FRA,M,1.85,79,11-07-86,Lorient,Milan,Bordeaux,2009,French
+9,9,Fernando Cavenaghi,ARG,F,1.81,78,21-09-83,O'Brien,Spartak Moscow,Bordeaux,2009,French
+10,10,Jussiê,BRA,F,1.80,76,19-09-83,Nova  Venécia,Lens,Bordeaux,2009,French
+11,11,David Bellion,FRA,F,1.81,72,27-11-82,Paris,Nice,Bordeaux,2009,French
+13,13,Diego  Placente,ARG,D,1.76,72,24-04-77,Buenos Aires,San Lorenzo,Bordeaux,2009,French
+16,16,Ulrich Ramé,FRA,G,1.87,85,19-09-72,Nantes,Angers,Bordeaux,2009,French
+17,17,Wendel,BRA,M,1.84,71,08-04-82,Mariana,Cruzeiro,Bordeaux,2009,French
+18,18,Jaroslav  Plail,CZE,M,1.83,72,05-01-82,Opočno,Osasuna,Bordeaux,2009,French
+20,20,Henri Saivet,FRA,F,1.73,70,26-10-90,Dakar,None,Bordeaux,2009,French
+21,21,Mathieu Chalmé,FRA,D,1.75,72,07-10-80,Bruges,Lille,Bordeaux,2009,French
+22,22,Grégory Sertic,FRA,M,1.81,69,05-08-89,Brétigny-sur-Orge,None,Bordeaux,2009,French
+24,24,Abdou Traoré,MLI,M,1.79,73,17-01-88,Bamako,None,Bordeaux,2009,French
+25,25,Lamine Sané,SEN,D,1.92,77,22-03-87,Villeneuve-sur-Lot,None,Bordeaux,2009,French
+27,27,Marc Planus,FRA,D,1.83,76,07-03-82,Bordeaux,None,Bordeaux,2009,French
+28,28,Benoît  Trémoulinas,FRA,D,1.73,64,28-12-85,Bordeaux,None,Bordeaux,2009,French
+29,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens,None,Bordeaux,2009,French
+30,30,Abdoulaye Keita,FRA,G,1.84,75,16-08-90,Paris,None,Bordeaux,2009,French
+31,31,Johan Blonbou,FRA,M,,,16-06-91,,None,Bordeaux,2009,French
+32,32,Guillaume Insou,FRA,M,1.69,61,15-05-90,,None,Bordeaux,2009,French
+33,33,Fabien Farnolle,FRA,G,1.96,90,02-02-85,Bordeaux,Libourne,Bordeaux,2009,French
+34,34,Christopher Glombard,FRA,D,1.78,74,05-06-89,Montreuil,None,Bordeaux,2009,French
+1,1,Florian Bague,FRA,G,1.80,75,27-07-84,Besançon,Châlons-en-Champagne,Boulogne,2009,French
+2,2,Nicolas Rabuel,FRA,D,1.78,78,15-01-78,Bourg-en-Bresse,Nîmes,Boulogne,2009,French
+3,3,Yoann Lachor,FRA,D,1.87,81,17-01-76,Aire-sur-la-Lys,Sedan,Boulogne,2009,French
+4,4,Laurent Agouazi,ALG,M,1.84,79,16-03-84,Langres,Metz,Boulogne,2009,French
+5,5,Damien Perrinelle,FRA,D,1.87,78,12-09-83,Suresnes,Clermont,Boulogne,2009,French
+6,6,Kévin  Das Neves,FRA,D,1.83,75,08-05-86,Clermont-Ferrand,Nantes,Boulogne,2009,French
+7,7,Daniel Moreira,FRA,F,1.77,75,08-08-77,Maubeuge,Rennes,Boulogne,2009,French
+8,8,Johann  Ramaré,FRA,M,1.81,74,05-06-84,Rennes,Rennes,Boulogne,2009,French
+9,9,Frédéric da Rocha,FRA,M,1.77,72,16-09-74,Cénon,Nantes,Boulogne,2009,French
+10,10,Grégory Thil,FRA,F,1.83,77,15-03-80,Creil,Beauvais,Boulogne,2009,French
+11,11,Guillaume Ducatel,FRA,M,1.75,72,21-01-79,Bully-lès-Mines,Wasquehal,Boulogne,2009,French
+12,12,Guillaume Borne,FRA,D,1.83,78,12-02-88,Castres,Rennes,Boulogne,2009,French
+13,13,Olubayo Adefemi,NGA,D,1.86,85,13-08-85,Lagos,SCR Altach,Boulogne,2009,French
+14,14,Jérémy Blayac,FRA,F,1.85,75,13-06-83,Saint-Afrique,Cannes,Boulogne,2009,French
+15,15,Ovidy Karuru,ZIM,M,1.78,68,23-01-89,Masvingo,Masvingo U,Boulogne,2009,French
+16,16,Ibrahim Koné,CIV,G,1.90,83,05-12-89,Abidjan,AS Denguélé,Boulogne,2009,French
+17,17,Fabien Robert,FRA,F,1.74,67,06-01-89,Hennebont,Lorient,Boulogne,2009,French
+18,18,Bakary Soumare,MLI,D,1.93,86,09-11-85,Bamako,Chicago Fire,Boulogne,2009,French
+19,19,Alexandre Cuvillier,FRA,M,1.82,69,17-06-86,Cucq,Reims,Boulogne,2009,French
+20,20,Olivier Kapo,FRA,F,1.83,72,27-09-80,Abidjan,Wigan Ath,Boulogne,2009,French
+21,21,Dorian Levêque,FRA,M,1.82,72,22-11-89,Annecy,None,Boulogne,2009,French
+22,22,Antony Lecointe,FRA,D,1.70,60,05-10-80,Boulogne,Le Touquet,Boulogne,2009,French
+23,23,Bira Dembélé,FRA,D,1.89,75,22-03-88,Villepinte,Rennes,Boulogne,2009,French
+24,24,Matt Moussilou,CGO,F,1.82,76,01-02-82,Paris,Nice,Boulogne,2009,French
+25,25,Damien Marcq,FRA,D,1.83,72,08-12-88,Boulogne,None,Boulogne,2009,French
+26,26,Juan Gonzalo Lorca,CHI,F,1.83,74,15-01-85,Santiago,Colo-Colo,Boulogne,2009,French
+27,27,Lakdar Boussaha,FRA,F,1.75,72,18-07-87,Bourg-St-Maurice,None,Boulogne,2009,French
+28,28,Mame N'Diaye,SEN,M,1.77,70,11-01-86,Thiès,Marseille,Boulogne,2009,French
+29,29,Zargo Touré,SEN,M,1.83,73,11-11-89,Pikine,None,Boulogne,2009,French
+30,30,Jean-François Bédénik,FRA,G,1.80,75,20-11-78,Séclin,Ionikos,Boulogne,2009,French
+31,31,Habib Bellaid,ALG,D,1.89,83,28-03-86,Bobigny,Eintracht Frankfurt,Boulogne,2009,French
+32,32,Mustapha Yatabaré,MLI,F,1.82,70,26-01-86,Beauvais,Clermont,Boulogne,2009,French
+1,1,Jody Viviani,FRA,G,1.90,81,25-01-82,La  Ciotat,St-Etienne,Grenoble,2009,French
+2,2,Laurent Courtois,FRA,M,1.75,70,11-09-78,Lyon,Levante,Grenoble,2009,French
+3,3,Sandy Paillot,FRA,D,1.90,79,27-02-87,Lyon,Lyon,Grenoble,2009,French
+4,4,François  Marque,FRA,D,1.87,83,31-07-83,Troyes,Basel,Grenoble,2009,French
+5,5,Martial Robin,FRA,D,1.75,75,27-08-77,Marseille,Ajaccio,Grenoble,2009,French
+6,6,Alaixys Romao,TOG,M,1.80,74,18-01-84,L'Hay-les-Roses,Louhans-Cuiseaux,Grenoble,2009,French
+7,7,Nicolas Dieuze,FRA,M,1.86,82,07-02-79,Albi,Le Havre,Grenoble,2009,French
+8,8,Sofiane Feghouli,FRA,M,1.78,71,26-12-89,Levallois-Perret,None,Grenoble,2009,French
+9,9,Josip  Tadić,CRO,F,1.87,76,22-08-87,Osijek,Dinamo Zagreb,Grenoble,2009,French
+10,10,Laurent  Batlles,FRA,M,1.74,68,23-09-75,Nantes,Toulouse,Grenoble,2009,French
+11,11,Jean  Calvé,FRA,D,1.83,78,30-04-84,Cormeilles-en-Parisis,Nancy,Grenoble,2009,French
+12,12,Botjan Cesar,SVN,D,1.91,87,09-07-82,Ljubljana,Marseille,Grenoble,2009,French
+14,14,David Jemmali,TUN,D,1.86,79,13-12-74,Toulouse,Bordeaux,Grenoble,2009,French
+15,15,Zoran Rendulić,SRB,D,1.90,81,22-05-84,Sarajevo,Borac Čačak,Grenoble,2009,French
+16,16,Brice Maubleu,FRA,G,1.91,82,01-12-89,Saint-Martin-d'Hères,None,Grenoble,2009,French
+17,17,Nassim  Akrour,ALG,F,1.81,73,10-07-74,Courbevoie,Le  Havre,Grenoble,2009,French
+19,19,Pierre Boya,CMR,F,1.84,83,15-01-84,Yaoundé,Rapid Bucureşti,Grenoble,2009,French
+20,20,Sho Ito,JPN,F,1.84,74,24-07-88,Kasugai,Chukyo University,Grenoble,2009,French
+21,21,Jimmy  Juan,FRA,M,1.89,83,10-06-83,Valence,Monaco,Grenoble,2009,French
+22,22,Daisuke  Matsui,JPN,M,1.75,67,11-05-81,Kyoto,St-Etienne,Grenoble,2009,French
+23,23,David Sauget,FRA,D,1.75,69,23-11-79,Champagnole,St-Etienne,Grenoble,2009,French
+24,24,Jonathan Tinhan,FRA,M,1.78,69,01-06-89,Echirolles,None,Grenoble,2009,French
+25,25,Hugo Cianci,FRA,D,1.78,66,09-06-89,Grenoble,None,Grenoble,2009,French
+26,26,Yoric Ravet,FRA,F,1.77,72,09-12-89,Echirolles,None,Grenoble,2009,French
+27,27,Milivoje  Vitakić,SRB,D,1.85,80,16-05-77,Čačak,Lille,Grenoble,2009,French
+28,28,Danijel Ljuboja,SRB,F,1.87,80,04-09-78,Vinkovci,Stuttgart,Grenoble,2009,French
+29,29,Jimmy  Mainfroi,FRA,D,1.72,73,28-03-83,Mâcon,Montpellier,Grenoble,2009,French
+30,30,Ronan Le Crom,FRA,G,1.86,77,13-07-74,Lorient,Lens,Grenoble,2009,French
+33,33,Atila Turan,FRA,D,1.76,79,10-04-92,Cheny,None,Grenoble,2009,French
+34,34,Abdel Lamanje,FRA,D,1.81,75,27-01-91,Douala,None,Grenoble,2009,French
+35,35,Mehdi Bourabia,FRA,M,1.83,73,07-08-91,Dijon,Dijon,Grenoble,2009,French
+36,36,Saphir Sliti Taïder,FRA,M,1.80,73,29-02-92,Castres,None,Grenoble,2009,French
+40,40,Loïc Marcone,FRA,G,1.89,89,07-10-89,,None,Grenoble,2009,French
+1,1,Didier Ovono,GAB,G,1.86,82,23-01-83,Port-Gentil,Dinamo Tbilisi,Le Mans,2009,French
+2,2,Géder,BRA,D,1.83,86,23-04-78,Minas Gerais,Spartak Moscow,Le Mans,2009,French
+4,4,Moussa Narry,GHA,M,1.80,71,19-04-86,Maradi,Auxerre,Le Mans,2009,French
+5,5,Grégory  Cerdan,FRA,D,1.91,86,28-07-82,Saint-Denis,None,Le Mans,2009,French
+6,6,Idir Ouali,FRA,M,1.76,76,21-05-88,Roubaix,Excelsior Mouscron,Le Mans,2009,French
+7,7,Fredrik Strømstad,NOR,M,1.67,65,20-01-82,Kristiansand,Start,Le Mans,2009,French
+8,8,Frédéric Thomas,FRA,M,1.75,75,10-08-80,Sarcelles,Auxerre,Le Mans,2009,French
+9,9,Modibo Maïga,MLI,F,1.85,76,03-09-86,Bamako,Raja Casablanca,Le Mans,2009,French
+10,10,Anthony  Le Tallec,FRA,F,1.84,73,03-10-84,Hennebont,Liverpool,Le Mans,2009,French
+13,13,Cyriaque Louvion,FRA,D,1.85,80,24-07-87,Port-Sauveur,Cannes,Le Mans,2009,French
+14,14,Mathieu Dossevi,FRA,M,1.72,65,12-02-88,Chambray-les-Tours,None,Le Mans,2009,French
+16,16,Rodolphe Roche,FRA,G,1.84,84,14-06-79,Montluçon,Châteauroux,Le Mans,2009,French
+17,17,Badara Sène,SEN,M,1.90,77,19-11-84,Dakar,Sochaux,Le Mans,2009,French
+18,18,Samuel Bouhours,FRA,D,1.82,75,26-06-87,Le Mans,None,Le Mans,2009,French
+19,19,Mamadou Wague,FRA,M,1.91,82,19-08-90,St Brieuc,None,Le Mans,2009,French
+21,21,Guillaume Loriot,FRA,M,1.88,79,21-05-86,Le Mans,None,Le Mans,2009,French
+22,22,Thorstein Helstad,NOR,F,1.87,87,28-04-77,Hamar,Brann,Le Mans,2009,French
+23,23,João Paulo,POR,D,1.82,83,06-06-81,Leiria,FC Porto,Le Mans,2009,French
+24,24,Ludovic Baal,FRA,D,1.76,72,24-05-86,Paris,None,Le Mans,2009,French
+25,25,Roland Lamah,BEL,F,1.80,71,31-12-87,Liège,Anderlecht,Le Mans,2009,French
+26,26,Herold Goulon,FRA,M,1.90,85,12-06-88,Paris,Middlesbrough,Le Mans,2009,French
+27,27,Almen Abdi,SUI,M,1.80,77,21-10-86,Prizren,Zürich,Le Mans,2009,French
+28,28,Sébastien Corchia,FRA,D,1.74,65,01-11-90,Noisy le Sec,None,Le Mans,2009,French
+30,30,Georgi Makaridze,GEO,G,1.90,85,31-03-90,Tbilisi,Dinamo Tbilisi,Le Mans,2009,French
+31,31,Olivier Thomert,FRA,F,1.88,84,28-05-80,Versailles,Rennes,Le Mans,2009,French
+33,33,Fousseyni Cissé,FRA,F,1.95,80,17-07-89,Paris,None,Le Mans,2009,French
+34,34,Patrick Ekeng Ekeng,CMR,F,1.80,67,26-03-90,Yaoundé,Canon Yaoundé,Le Mans,2009,French
+35,35,Idrissa Sylla,GUI,F,1.87,75,03-12-90,Conakry,None,Le Mans,2009,French
+36,36,Valentin Nkwelle,CMR,M,1.76,69,16-06-86,Douala,Union Douala,Le Mans,2009,French
+37,37,Dominique Essome Bayi,CMR,D,1.81,80,05-05-89,Edea,Union Douala,Le Mans,2009,French
+38,38,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,Caldense,Le Mans,2009,French
+39,39,Guy Michel Landel,GUI,M,1.72,70,03-07-90,Conakry,None,Le Mans,2009,French
+40,40,Pierre Gibaud,FRA,D,1.84,77,22-04-88,Laval,Laval,Le Mans,2009,French
+1,1,Vedran Runje,CRO,G,1.84,85,10-02-76,Split,Beşiktaş,Lens,2009,French
+2,2,Marco Ramos,POR,D,1.72,72,26-04-83,Levallios-Perret,Châteauroux,Lens,2009,French
+5,5,Alaeddine  Yahia,TUN,D,1.86,81,26-08-81,Courbevoie,Nice,Lens,2009,French
+6,6,Henri Bedimo  Nsame,CMR,D,1.80,80,04-06-84,Douala,Châteauroux,Lens,2009,French
+7,7,Abdoulrazak  Boukari,TOG,M,1.82,70,25-04-87,Lomé,Châteauroux,Lens,2009,French
+9,9,Toifilou Maoulida,FRA,F,1.84,77,08-06-79,Dzaoudzi,Auxerre,Lens,2009,French
+10,10,Dejan Milovanović,SRB,M,1.80,75,21-01-84,Belgrade,Crvena Zvezda,Lens,2009,French
+11,11,Eduardo,BRA,F,1.78,67,05-08-80,São João do Piauí,Guingamp,Lens,2009,French
+14,14,Kévin Monnet-Paquet,FRA,F,1.83,73,19-08-88,Bourgoin-Jallieu,None,Lens,2009,French
+16,16,Hamdi Kasraoui,TUN,G,1.92,87,18-01-83,Sousse,Espérance,Lens,2009,French
+18,18,Sébastien  Roudet,FRA,M,1.80,67,16-06-81,Montluçon,Valenciennes,Lens,2009,French
+19,19,Romain Sartre,FRA,D,1.85,84,12-11-82,Lyon,Sedan,Lens,2009,French
+20,20,Adil Hermach,MAR,M,1.77,68,27-06-86,Nîmes,Nîmes,Lens,2009,French
+22,22,Issam Jemâa,TUN,F,1.85,80,28-01-84,Gabès,Espérance,Lens,2009,French
+23,23,Nenad Kovačević,SRB,M,1.76,79,11-11-80,Kraljevo,Crvena  Zvezda,Lens,2009,French
+24,24,Eric  Chelle,FRA,D,1.75,75,11-11-77,Abidjan,Valenciennes,Lens,2009,French
+26,26,Yohan Demont,FRA,D,1.81,73,15-05-78,Valenciennes,Ajaccio,Lens,2009,French
+27,27,Samba Sow,MLI,M,1.85,75,29-04-89,Bamako,None,Lens,2009,French
+28,28,Kanga Gauthier  Akalé,CIV,M,1.79,69,07-03-81,Oumé,Auxerre,Lens,2009,French
+29,29,William Remy,FRA,D,1.84,79,04-04-91,Courbevoie,None,Lens,2009,French
+30,30,Samuel Atrous,FRA,G,1.90,85,15-02-90,Roncq,None,Lens,2009,French
+33,33,Serge Aurier,CIV,D,1.75,75,24-12-92,Abidjan,None,Lens,2009,French
+34,34,Alassane Touré,FRA,D,1.83,73,09-02-89,Paris,Toulouse,Lens,2009,French
+35,35,Darnel Situ,FRA,D,1.87,77,18-03-92,Rouen,None,Lens,2009,French
+1,1,Ludovic Butelle,FRA,G,1.88,84,03-04-83,Reims,Valencia,Lille,2009,French
+2,2,Mathieu Debuchy,FRA,D,1.77,74,28-07-85,Fretin,None,Lille,2009,French
+3,3,Jerry Vandam,GHA,D,1.86,77,08-12-88,Lille,None,Lille,2009,French
+4,4,Florent Balmont,FRA,M,1.68,71,02-02-80,Sainte-Foy-les-Lyon,Nice,Lille,2009,French
+5,5,Yannis Salibur,FRA,M,1.76,74,24-01-91,St-Denis,None,Lille,2009,French
+6,6,Pape N'Diaye Souaré,SEN,D,1.78,68,06-06-90,Mbao,None,Lille,2009,French
+7,7,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,None,Lille,2009,French
+8,8,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia,Wolfsburg,Lille,2009,French
+9,9,Túlio  De Melo,BRA,F,1.93,83,31-01-85,Montes  Claros,Palermo,Lille,2009,French
+10,10,Ludovic  Obraniak,POL,M,1.74,72,10-11-84,Longueville-lès-Metz,Metz,Lille,2009,French
+11,11,Pierre-Emerick  Aubameyang,GAB,F,1.85,74,18-06-89,Laval,Milan,Lille,2009,French
+15,15,Emerson Da  Conceição,BRA,D,1.85,83,23-02-86,São Paulo,J. Malucelli,Lille,2009,French
+16,16,Mickaël Landreau,FRA,G,1.84,80,14-05-79,Machecoul,Paris St-Germain,Lille,2009,French
+17,17,Pierre-Alain Frau,FRA,F,1.75,73,15-04-80,Montbéliard,Paris St-Germain,Lille,2009,French
+18,18,Franck  Béria,FRA,D,1.77,75,23-05-83,Argenteuil,Metz,Lille,2009,French
+20,20,Larsen Touré,FRA,F,1.84,81,20-07-84,Brest,None,Lille,2009,French
+22,22,Aurélien Chedjou,CMR,M,1.84,84,20-06-85,Douala,Rouen,Lille,2009,French
+23,23,Adil Rami,FRA,D,1.90,90,27-12-85,Bastia,Fréjus,Lille,2009,French
+24,24,Rio Antonio Mavuba,FRA,M,1.72,70,08-03-84,Born At Sea,Villarreal,Lille,2009,French
+25,25,Nicolas Plestan,FRA,D,1.84,76,02-06-81,Nice,Monaco,Lille,2009,French
+26,26,Eden Hazard,BEL,M,1.70,69,07-01-91,La Louvière,Tubize,Lille,2009,French
+27,27,"Kouassi  Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama,Le Mans,Lille,2009,French
+29,29,Stéphane Dumont,FRA,M,1.83,80,06-09-82,Seclin,None,Lille,2009,French
+30,30,Alexandre Oukidja,FRA,G,1.85,78,19-07-88,Nevers,Gueugnon,Lille,2009,French
+35,35,Arnaud Souquet,FRA,M,1.79,70,12-02-92,Paris,None,Lille,2009,French
+40,40,Barel Mouko,CGO,G,1.77,72,05-04-79,Pointe-Noire,Gueugnon,Lille,2009,French
+1,1,Lionel Cappone,FRA,G,1.82,74,08-02-79,Marignane,Angers,Lorient,2009,French
+2,2,Franco  Sosa,ARG,D,1.79,73,04-04-81,Monteros,Racing Club,Lorient,2009,French
+4,4,Laurent  Koscielny,FRA,D,1.86,75,10-09-85,Tulle,Tours,Lorient,2009,French
+5,5,Benjamin Genton,FRA,D,1.88,72,20-05-80,Paris,Créteil,Lorient,2009,French
+6,6,Gabriel  Peñalba,ARG,M,1.80,75,23-09-84,Quilmes,Argentinos Juniors,Lorient,2009,French
+7,7,Arnold  Mvuemba,FRA,M,1.72,67,28-01-85,Alencon,Portsmouth,Lorient,2009,French
+8,8,Yann Jouffre,FRA,M,1.75,65,23-07-84,Montélimar,Guingamp,Lorient,2009,French
+9,9,Kevin Gameiro,FRA,F,1.72,69,09-04-87,Senlis,Strasbourg,Lorient,2009,French
+10,10,Olivier Monterrubio,FRA,M,1.71,68,08-08-76,Gaillac,Sion,Lorient,2009,French
+11,11,Sigamary Diarra,MLI,M,1.74,71,10-01-84,Villepinte,Tours,Lorient,2009,French
+12,12,James Fanchone,FRA,F,1.83,74,21-02-80,Le Mans,Strasbourg,Lorient,2009,French
+13,13,Sebastián  Dubarbier,ARG,F,1.79,74,19-02-86,La  Plata,CFR Cluj,Lorient,2009,French
+14,14,Arnaud  Le Lan,FRA,D,1.71,60,22-03-78,Pontivy,Guingamp,Lorient,2009,French
+15,15,Jérémy Morel,FRA,D,1.72,71,02-04-84,Lorient,None,Lorient,2009,French
+16,16,Fabien Audard,FRA,G,1.88,89,28-03-78,Toulouse,Bastia,Lorient,2009,French
+17,17,Maxime  Baca,FRA,D,1.71,68,02-06-83,Corbeil  Essonnes,Le Havre,Lorient,2009,French
+18,18,Morgan  Amalfitano,FRA,M,1.76,68,20-03-85,Nice,Sedan,Lorient,2009,French
+19,19,Marama  Vahirua,FRA,F,1.72,68,12-05-80,Papeete,Nice,Lorient,2009,French
+20,20,Rafik Bouderbal,FRA,M,1.76,70,19-09-87,Lyon,None,Lorient,2009,French
+21,21,Namaie Mendy,FRA,D,1.85,80,20-05-89,Saint-Nazaire,Saint-Nazaire,Lorient,2009,French
+22,22,Maxime Barthelme,FRA,M,1.77,65,08-09-88,Sartrouville,Racing Club de France,Lorient,2009,French
+23,23,Yazid Mansouri,ALG,M,1.75,69,25-02-78,Revin,Châteauroux,Lorient,2009,French
+24,24,Antoine Buron,FRA,M,1.70,62,12-10-83,Rouen,Amiens,Lorient,2009,French
+25,25,Jonas Sakuwaha,ZAM,M,1.82,75,22-07-83,,ZESCO U,Lorient,2009,French
+26,26,Grégory Bourillon,FRA,D,1.87,74,01-07-84,Laval,Paris St-Germain,Lorient,2009,French
+27,27,Yaye Diané,GUI,F,,,16-01-89,Conakry,None,Lorient,2009,French
+28,28,Pierre Ducasse,FRA,M,1.79,73,07-05-87,Bordeaux,Bordeaux,Lorient,2009,French
+29,29,Sylvain Marchal,FRA,D,1.84,80,10-02-80,Langres,Metz,Lorient,2009,French
+30,30,Alban Joinel,FRA,G,1.79,79,14-09-79,Sarlat-la-Caméda,Carquefou,Lorient,2009,French
+1,1,Hugo  Lloris,FRA,G,1.88,78,26-12-86,Nice,Nice,Lyon,2009,French
+2,2,François Clerc,FRA,D,1.86,77,18-04-83,Bourg en Bresse,None,Lyon,2009,French
+3,3,Cris,BRA,D,1.83,77,03-06-77,Guarulhos,Cruzeiro,Lyon,2009,French
+4,4,Jean-Alain  Boumsong,FRA,D,1.90,88,14-12-79,Douala,Juventus,Lyon,2009,French
+5,5,Mathieu Bodmer,FRA,M,1.90,91,22-11-82,Evreux,Lille,Lyon,2009,French
+6,6,Kim  Källström,SWE,M,1.81,79,24-08-82,Sandviken,Rennes,Lyon,2009,French
+7,7,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Lille,Lyon,2009,French
+8,8,Miralem Pjanić,BIH,M,1.80,68,02-04-90,Zvornik,Metz,Lyon,2009,French
+9,9,Lisandro López,ARG,F,1.75,74,02-03-83,Rafael Obligado,FC Porto,Lyon,2009,French
+10,10,Ederson,BRA,M,1.81,74,13-01-86,Parapua,Nice,Lyon,2009,French
+12,12,Timothée Kolodziejczak,FRA,D,1.81,74,01-10-91,Avion,Lens,Lyon,2009,French
+13,13,Anthony Réveillère,FRA,D,1.81,76,10-11-79,Doué-La-Fontaine,Rennes,Lyon,2009,French
+14,14,Sidney Govou,FRA,F,1.75,75,27-07-79,Le Puy-en-Valay,None,Lyon,2009,French
+17,17,Jean  II Makoun,CMR,M,1.73,69,29-05-83,Yaoundé,Lille,Lyon,2009,French
+18,18,Bafetibis  Gomis,FRA,F,1.84,77,06-08-85,Seyne-sur-Mer,St-Etienne,Lyon,2009,French
+19,19,César Delgado,ARG,M,1.74,69,18-08-81,Rosario,Cruz Azul,Lyon,2009,French
+20,20,Aly Cissokho,FRA,D,1.81,75,15-09-87,Blois,FC Porto,Lyon,2009,French
+22,22,Clément Grenier,FRA,M,1.86,72,07-01-91,Annonay,None,Lyon,2009,French
+23,23,Anderson Cléber,BRA,D,1.85,84,27-04-80,São Paulo,Benfica,Lyon,2009,French
+25,25,Joan  Hartock,FRA,G,1.89,83,17-02-87,La  Trinité,AS Robert,Lyon,2009,French
+26,26,Dejan Lovren,CRO,D,1.88,86,05-07-89,Karlovac,Dinamo Zagreb,Lyon,2009,French
+28,28,Jérémy Toulalan,FRA,M,1.83,77,10-09-83,Nantes,Nantes,Lyon,2009,French
+29,29,Yannis Tafer,FRA,F,1.80,67,11-02-91,Grenoble,None,Lyon,2009,French
+30,30,Rémy Vercoutre,FRA,G,1.85,78,26-06-80,Grande-Synthe,Montpellier,Lyon,2009,French
+31,31,Saïd Mehamha,FRA,M,1.70,65,04-09-90,Lyon,None,Lyon,2009,French
+32,32,Lamine Gassama,FRA,D,1.81,74,20-10-89,Marseille,None,Lyon,2009,French
+34,34,Enzo Reale,FRA,M,1.75,69,07-10-91,Vénissieux,None,Lyon,2009,French
+35,35,Nicolas Seguin,FRA,D,1.81,76,06-03-90,Lyon,None,Lyon,2009,French
+36,36,Sébastien Faure,FRA,M,1.85,72,03-01-91,Lyon,None,Lyon,2009,French
+37,37,Thomas Fontaine,FRA,D,1.82,73,08-05-91,Saint-Pierre,None,Lyon,2009,French
+38,38,Alexandre Lacazette,FRA,F,1.74,69,28-05-91,Lyon,None,Lyon,2009,French
+39,39,Ishak Belfodil,ALG,F,1.91,86,12-01-92,Algiers,Clermont,Lyon,2009,French
+40,40,Anthony Lopes,POR,G,1.84,81,01-10-90,Givors,None,Lyon,2009,French
+41,41,Maxime Gonalons,FRA,M,1.87,76,10-03-89,Vénissieux,None,Lyon,2009,French
+42,44,Ousmane N'Diaye,SEN,D,1.86,74,19-08-91,Dakar,None,Lyon,2009,French
+1,1,Rudy  Riou,FRA,G,1.85,78,22-01-80,Grande-Synthe,Toulouse,Marseille,2009,French
+3,3,Taye Taiwo,NGA,D,1.83,77,16-04-85,Lagos,Lobi  Star,Marseille,2009,French
+4,4,Julien Rodriguez,FRA,D,1.82,80,11-06-78,Béziers,Rangers,Marseille,2009,French
+5,5,Hilton,BRA,D,1.82,73,13-09-77,Brasilia,Lens,Marseille,2009,French
+6,6,Édouard  Cissé,FRA,M,1.86,76,30-03-78,Pau,Beşiktaş,Marseille,2009,French
+7,7,Benoît  Cheyrou,FRA,M,1.82,78,03-05-81,Suresnes,Auxerre,Marseille,2009,French
+8,8,Lucho González,ARG,M,1.85,75,19-01-81,Buenos Aires,FC Porto,Marseille,2009,French
+9,9,Brandão,BRA,F,1.89,78,16-06-80,São Paulo,Shakhtar Donetsk,Marseille,2009,French
+10,10,Hatem  Ben Arfa,FRA,F,1.78,65,07-03-87,Clamart,Lyon,Marseille,2009,French
+11,11,Mamadou Niang,SEN,F,1.78,80,13-10-79,Matam,Strasbourg,Marseille,2009,French
+12,12,Charles Kaboré,BFA,M,1.81,75,09-02-88,Bobo Dioulasso,Libourne,Marseille,2009,French
+14,14,Bakary Koné,CIV,F,1.63,61,17-09-81,Abidjan,Nice,Marseille,2009,French
+15,15,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,None,Marseille,2009,French
+17,17,Stéphane  Mbia,CMR,M,1.89,82,20-05-86,Yaoundé,Rennes,Marseille,2009,French
+18,18,Fabrice Abriel,FRA,M,1.76,69,06-07-79,Surennes,Lorient,Marseille,2009,French
+19,19,Gabriel Heinze,ARG,D,1.78,72,19-04-78,Crespo,Real Madrid,Marseille,2009,French
+20,20,Charley Roussel Fomen,CMR,D,1.72,70,09-07-89,Buea,Panthère du Ndé,Marseille,2009,French
+21,21,Souleymane Diawara,SEN,D,1.87,88,24-12-78,Gabou,Bordeaux,Marseille,2009,French
+22,22,Cyril Rool,FRA,M,1.76,72,15-04-75,Perthuis,Nice,Marseille,2009,French
+23,23,Fernando Morientes,ESP,F,1.86,79,05-04-76,Caceres,Valencia,Marseille,2009,French
+24,24,Laurent Bonnart,FRA,D,1.71,62,25-12-79,Chambray-lès-Tours,Le Mans,Marseille,2009,French
+27,27,Pape MBow,SEN,D,1.90,74,22-05-88,Guédiawaye,Dakar AC,Marseille,2009,French
+28,28,Mathieu Valbuena,FRA,M,1.67,58,28-09-84,Bordeaux,Libourne,Marseille,2009,French
+30,30,Steve  Mandanda,FRA,G,1.85,82,28-03-85,Kinshasa,Le Havre,Marseille,2009,French
+31,31,Guy Kassa Gnabouyou,FRA,F,1.83,82,01-12-89,Marseille,None,Marseille,2009,French
+32,32,Alexander N'Doumbou,GAB,M,1.77,66,04-01-92,Port-Gentil,None,Marseille,2009,French
+34,34,Kevin Osei,FRA,M,1.73,71,26-03-91,Marseille,None,Marseille,2009,French
+40,40,Elinton Andrade,BRA,G,1.90,85,30-03-79,Santa Maria,Rapid Bucureşti,Marseille,2009,French
+1,1,Yohann Thuram,FRA,G,1.87,85,31-10-88,Courcouronnes,None,Monaco,2009,French
+2,2,Cédric Mongongu,COD,D,1.89,76,22-06-89,Kinshasa,None,Monaco,2009,French
+3,3,Nicolas Nkoulou,CMR,D,1.80,77,27-03-90,Yaoundé,None,Monaco,2009,French
+4,4,François  Modestó,FRA,D,1.83,80,19-08-78,Bastia,Cagliari,Monaco,2009,French
+5,5,Diego Pérez,URU,M,1.77,81,18-05-80,Montevideo,Peñarol,Monaco,2009,French
+6,6,Eduardo Costa,BRA,M,1.84,78,23-09-82,Florianópolis,São Paulo,Monaco,2009,French
+7,7,Jean-Jacques Gosso,CIV,M,1.77,75,15-03-83,Abidjan,Ashdod,Monaco,2009,French
+8,8,Alejandro  Alonso,ARG,M,1.70,68,03-03-82,Buenos  Aires,Bordeaux,Monaco,2009,French
+10,10,Park Chu-Young,KOR,F,1.82,75,10-07-85,Daegu,FC Seoul,Monaco,2009,French
+11,11,Nené,BRA,M,1.81,72,19-07-81,Jundiaí,Celta Vigo,Monaco,2009,French
+12,12,Adriano Pereira,BRA,D,1.80,74,03-04-82,Salvador de  Bahia,Atalanta,Monaco,2009,French
+13,13,Vincent Muratori,FRA,D,1.78,68,03-08-87,Orange,None,Monaco,2009,French
+14,14,Dario imić,CRO,D,1.80,76,12-11-75,Zagreb,Milan,Monaco,2009,French
+15,15,Thomas  Mangani,FRA,D,1.82,79,29-04-87,Carpentras,None,Monaco,2009,French
+16,16,Stéphane Ruffier,FRA,G,1.87,89,27-09-86,Bayonne,None,Monaco,2009,French
+18,18,Djimi  Traoré,MLI,D,1.91,87,01-03-80,Saint-Ouen,Portsmouth,Monaco,2009,French
+19,19,Patrick Müller,SUI,D,1.82,69,17-12-76,Geneva,Lyon,Monaco,2009,French
+20,20,Juan Pablo Pino,COL,M,1.76,72,30-03-87,Cartagena,Independiente Medellín,Monaco,2009,French
+21,21,Malaury  Martin,FRA,M,1.78,75,25-08-88,Nice,None,Monaco,2009,French
+22,22,Mathieu Coutadeur,FRA,M,1.70,69,20-06-86,Le Mans,Le Mans,Monaco,2009,French
+23,23,Jerko Leko,CRO,M,1.87,85,09-04-80,Zagreb,Dynamo Kiev,Monaco,2009,French
+24,24,Yannick Sagbo,CIV,F,1.83,78,12-04-88,Marseille,None,Monaco,2009,French
+25,25,Lukman Haruna,NGA,M,1.85,77,04-12-90,Lagos,Global Crystal Academy,Monaco,2009,French
+26,26,Yohan Mollo,FRA,M,1.75,74,18-07-89,Martigues,None,Monaco,2009,French
+28,28,Sébastien Puygrenier,FRA,D,1.86,88,28-01-82,Limoges,Zenit St Petersburg,Monaco,2009,French
+29,29,Distel Zola,FRA,M,1.82,76,05-02-89,Paris,None,Monaco,2009,French
+31,31,Ouwo Moussa Maazou,NIG,F,1.86,78,25-08-88,Niamey,CSKA Moscow,Monaco,2009,French
+32,32,Igor Lolo,CIV,D,1.79,68,22-07-82,Abidjan,Dnipro Dnipropetrovsk,Monaco,2009,French
+33,33,Kévin Malcuit,FRA,F,1.82,74,31-07-91,Chatenay-Malabry,None,Monaco,2009,French
+34,34,Frédéric Bulot,FRA,F,1.77,68,27-09-90,Libreville,None,Monaco,2009,French
+40,40,Franck L'Hostis,FRA,G,1.86,77,03-04-90,Nîmes,None,Monaco,2009,French
+1,1,Laurent Pionnier,FRA,G,1.84,76,24-05-82,Bagnois  sur Cèze,None,Montpellier,2009,French
+2,2,Garry Bocaly,FRA,D,1.80,74,19-04-88,Schlcher,Marseille,Montpellier,2009,French
+3,3,Mapou Yanga-Mbiwa,FRA,D,1.84,77,15-05-89,Bangui,None,Montpellier,2009,French
+4,4,Nenad Dodić,SRB,D,1.88,75,04-01-77,Belgrade,Ajaccio,Montpellier,2009,French
+5,5,Emir Spahić,BIH,D,1.83,77,18-08-80,Dubrovnik,Lokomotiv Moscow,Montpellier,2009,French
+6,6,Joris Marveaux,FRA,M,1.78,69,15-08-82,Vannes,Clermont,Montpellier,2009,French
+7,7,Grégory Lacombe,FRA,M,1.64,58,11-01-82,Albi,Ajaccio,Montpellier,2009,French
+8,8,Philippe  Delaye,FRA,M,1.74,66,25-06-75,Montbrison,Istres,Montpellier,2009,French
+9,9,Rémy Cabella,FRA,M,1.71,62,08-03-90,Ajaccio,None,Montpellier,2009,French
+10,10,Lilian Compan,FRA,F,1.82,72,30-04-77,Hyères,Caen,Montpellier,2009,French
+11,11,Victor  Hugo Montaño,COL,F,1.77,76,01-05-84,Cali,Millonarios,Montpellier,2009,French
+12,12,Geoffrey Dernis,FRA,M,1.71,66,24-12-80,Grande-Synthe,St-Etienne,Montpellier,2009,French
+13,13,Mickaël Nelson,FRA,D,1.84,76,02-02-90,Marseille,None,Montpellier,2009,French
+14,14,Mourad  Benhamida,FRA,D,1.76,67,18-01-86,Villeurbanne,Lyon,Montpellier,2009,French
+16,16,Geoffrey  Jourdren,FRA,G,1.81,73,04-02-86,Paris,None,Montpellier,2009,French
+17,17,Romain  Pitau,FRA,M,1.78,73,08-08-77,Douai,Sochaux,Montpellier,2009,French
+18,18,Karim Aït-Fana,FRA,F,1.75,65,25-02-89,Limoges,None,Montpellier,2009,French
+19,19,Souleymane Camara,SEN,F,1.74,72,22-12-82,Dakar,Nice,Montpellier,2009,French
+20,20,Facundo Alberto Costa,ARG,M,1.76,70,09-01-85,Buenos Aires,Sète,Montpellier,2009,French
+21,21,Abdelhamid El Kaoutari,FRA,D,1.80,73,17-03-90,Montpellier,None,Montpellier,2009,French
+23,23,Jamel Saihi,TUN,M,1.81,73,27-01-87,Montpellier,None,Montpellier,2009,French
+24,24,Bengadli-Fodé Koita,FRA,F,1.86,86,21-10-90,Paris,None,Montpellier,2009,French
+25,25,Xavier Collin,FRA,D,1.74,68,17-08-74,Charmes,Ajaccio,Montpellier,2009,French
+27,27,Cyril Jeunechamp,FRA,D,1.77,68,18-12-75,Nîmes,Nice,Montpellier,2009,French
+28,28,Julio Colombo,FRA,D,1.78,73,22-02-84,Saint-Claude,None,Montpellier,2009,French
+29,29,Younès Belhanda,FRA,M,1.74,75,25-02-90,Avignon,None,Montpellier,2009,French
+30,30,Johann Carrasso,FRA,G,1.85,79,07-05-88,Avignon,None,Montpellier,2009,French
+33,33,Bryan Dabo,FRA,M,1.85,75,18-02-92,Marseile,None,Montpellier,2009,French
+34,34,Adrien Coulomb,FRA,M,1.77,63,04-10-90,Marseille,None,Montpellier,2009,French
+40,40,Anthony Scribe,FRA,G,1.92,92,01-01-88,Saint-Germain-en-Laye,None,Montpellier,2009,French
+1,1,Gennaro Bracigliano,FRA,G,1.83,82,01-03-80,Forbach,None,Nancy,2009,French
+3,3,Joël Sami,COD,D,1.90,85,13-11-84,Montfermeil,Amiens,Nancy,2009,French
+4,4,Cris Malonga,CGO,M,1.83,73,11-07-87,Sens,Louhans-Cuiseaux,Nancy,2009,French
+5,5,André  Luiz,BRA,D,1.85,84,27-01-80,São  João del Rei,Atlético  Mineiro,Nancy,2009,French
+6,6,Pascal Berenguer,FRA,M,1.75,78,20-05-81,Marseille,Istres,Nancy,2009,French
+7,7,Bocundji  Ca,GNB,M,1.72,69,28-12-86,Biombo,Tours,Nancy,2009,French
+8,8,Jordan  Lotiès,FRA,D,1.87,77,05-08-84,Clermont-Ferrand,Dijon,Nancy,2009,French
+10,10,Issiar  Dia,SEN,F,1.72,70,08-06-87,Sèvres,Amiens,Nancy,2009,French
+11,11,Djamel Bakar,FRA,M,1.71,67,06-04-89,Marseille,Monaco,Nancy,2009,French
+12,12,Bakaye  Traoré,MLI,M,1.85,74,06-03-85,Bondy,Amiens,Nancy,2009,French
+13,13,Damian  Macaluso,URU,D,1.81,80,09-03-80,Montevideo,River  Plate [URU],Nancy,2009,French
+14,14,Paul Alo'o Efoulou,CMR,F,1.76,73,12-11-83,Yaoundé,Angers,Nancy,2009,French
+15,15,Youssouf  Hadji,MAR,M,1.83,78,25-02-80,Ifrane,Rennes,Nancy,2009,French
+16,16,Damien Gregorini,FRA,G,1.94,90,02-03-79,Nice,Nice,Nancy,2009,French
+17,17,Gaston Curbelo,URU,F,1.76,76,08-04-76,Nancy,Hurucan Buceo,Nancy,2009,French
+18,18,Julien Féret,FRA,M,1.87,74,05-07-82,Saint  Brieuc,Reims,Nancy,2009,French
+19,19,Samba Diakité,MLI,M,1.86,76,24-01-89,Montfermeil,None,Nancy,2009,French
+20,20,Michaël Chrétien Basser,MAR,D,1.79,67,10-07-84,Nancy,None,Nancy,2009,French
+22,22,Florian Marange,FRA,D,1.76,70,03-03-86,Talence,Bordeaux,Nancy,2009,French
+23,23,Jonathan Brison,FRA,M,1.79,73,07-02-83,Soissons,None,Nancy,2009,French
+25,25,Reynald Lemaître,FRA,M,1.75,66,28-06-83,Chambray-lès-Tours,Caen,Nancy,2009,French
+26,26,Cheikh Diabaté,MLI,F,1.94,84,25-04-88,Bamako,Bordeaux,Nancy,2009,French
+27,27,Abdeslam Ouaddou,MAR,D,1.90,78,01-11-78,Ksar Azekour,Valenciennes,Nancy,2009,French
+28,28,Floyd Ayité,TOG,M,1.74,68,15-12-88,Bordeaux,Bordeaux,Nancy,2009,French
+29,29,Alfred N'Diaye,FRA,M,1.87,87,06-03-90,Paris,None,Nancy,2009,French
+30,30,Johan Lapeyre,FRA,G,1.78,76,03-08-85,Le  Plessis-Bouchard,None,Nancy,2009,French
+33,33,Aatif Chahechouhe,FRA,M,1.76,77,02-07-86,Fontenay-aux-Roses,Noisy-le-Sec,Nancy,2009,French
+40,40,Rémi Pillot,FRA,G,1.87,80,27-07-90,Besançon,None,Nancy,2009,French
+1,1,David Ospina,COL,G,1.81,76,31-08-88,Medellín,Atlético Nacional,Nice,2009,French
+2,2,Renato  Civelli,ARG,D,1.93,89,14-10-83,Pehuajó,San Lorenzo,Nice,2009,French
+3,3,Alain Cantareil,FRA,D,1.78,70,15-08-83,Marseille,Lorient,Nice,2009,French
+4,4,Onyekachi Apam,NGA,D,1.77,67,30-12-85,Aba,Enugu  Rangers,Nice,2009,French
+5,5,Larrys Mabiala,COD,D,1.89,84,08-09-87,Montfermeil,Paris St-Germain,Nice,2009,French
+6,6,Olivier Echouafni,FRA,M,1.84,71,13-09-72,Menton,Rennes,Nice,2009,French
+7,7,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon,Lyon,Nice,2009,French
+8,8,David Hellebuyck,FRA,M,1.78,73,12-05-79,Nantua,Paris St-Germain,Nice,2009,French
+9,9,Mickaël Poté,BEN,F,1.80,79,24-09-84,Lyon,Clermont,Nice,2009,French
+10,10,Mahamane Traoré,MLI,M,1.76,66,31-08-88,Bamako,CO Bamako,Nice,2009,French
+11,11,Eric Mouloungui,GAB,F,1.86,73,01-04-84,Port-Gentil,Strasbourg,Nice,2009,French
+12,12,Abeiku Quansah,GHA,F,1.75,68,02-11-90,Kumasi,Windy Professionals,Nice,2009,French
+14,14,Emerse  Faé,CIV,M,1.74,71,24-01-84,Nantes,Reading,Nice,2009,French
+15,15,Kafoumba Coulibaly,CIV,M,1.79,74,26-10-85,Abidjan,Bastia,Nice,2009,French
+16,16,Lionel Letizi,FRA,G,1.87,80,28-05-73,Nice,Rangers,Nice,2009,French
+17,17,Chaouki Ben Saada,TUN,F,1.70,65,01-07-84,Bastia,Bastia,Nice,2009,French
+18,18,Ismaël  Gace,FRA,D,1.80,77,19-09-86,St Germain en  Laye,None,Nice,2009,French
+19,19,Jonathan Quartey,GHA,D,1.86,82,15-04-88,Accra,Kaizer Chiefs,Nice,2009,French
+20,20,Mamadou Bagayoko,MLI,F,1.90,79,21-05-79,Paris,Nantes,Nice,2009,French
+21,21,Habib  Bamogo,BFA,F,1.76,72,08-05-82,Paris,Marseille,Nice,2009,French
+22,22,Didier  Digard,FRA,M,1.83,76,12-07-86,Gisors,Middlesbrough,Nice,2009,French
+23,23,Drissa  Diakité,MLI,M,1.75,69,18-02-85,Bamako,MC  Alger,Nice,2009,French
+24,24,Gerald Cid,FRA,D,1.88,78,17-02-83,Talence,Bolton W,Nice,2009,French
+26,26,Anthony Mounier,FRA,F,1.74,65,27-09-87,Aubenas,Lyon,Nice,2009,French
+27,27,Julien Sablé,FRA,M,1.81,73,11-09-80,Marseille,Lens,Nice,2009,French
+28,28,Grégory Paisley,FRA,D,1.85,85,07-05-77,Paris,Strasbourg,Nice,2009,French
+29,29,Enoch Kofi Adu,GHA,M,1.80,65,14-09-90,Kumasi,Liberty Professionals,Nice,2009,French
+30,30,Jérémie Moreau,FRA,G,1.87,78,22-07-80,Bourges,Rouen,Nice,2009,French
+33,33,Julien Berthomier,FRA,D,1.80,75,15-04-90,Grasse,Cannes,Nice,2009,French
+1,1,Grégory Coupet,FRA,G,1.81,80,31-12-72,Le Puy-en-Velay,Atlético Madrid,Paris Saint-Germain,2009,French
+2,2,Ceará,BRA,D,1.75,75,16-06-80,Crato,Internacional,Paris Saint-Germain,2009,French
+3,3,Mamadou Sakho,FRA,D,1.87,83,13-02-90,Paris,None,Paris Saint-Germain,2009,French
+4,4,Claude  Makélélé,FRA,M,1.74,70,18-02-73,Kinshasa,Chelsea,Paris Saint-Germain,2009,French
+7,7,Ludovic Giuly,FRA,M,1.64,62,10-07-76,Lyon,Roma,Paris Saint-Germain,2009,French
+8,8,Péguy  Luyindula,FRA,F,1.78,72,25-05-79,Kinshasa,Marseille,Paris Saint-Germain,2009,French
+9,9,Guillaume  Hoarau,FRA,F,1.92,80,05-03-84,Saint  Louis,Le Havre,Paris Saint-Germain,2009,French
+10,10,Stéphane  Sessegnon,BEN,M,1.72,72,01-06-84,Allahe,Le Mans,Paris Saint-Germain,2009,French
+11,11,Mevlüt Erdinç,TUR,F,1.81,85,25-02-87,Saint-Claude,Sochaux,Paris Saint-Germain,2009,French
+13,13,Sammy Traoré,MLI,D,1.92,82,25-02-76,Créteil,Nice,Paris Saint-Germain,2009,French
+14,14,Mateja  Keman,SRB,F,1.82,69,12-04-79,Zemun,Fenerbahçe,Paris Saint-Germain,2009,French
+15,15,Zoumana Camara,FRA,D,1.82,76,03-04-79,Colombes,St-Etienne,Paris Saint-Germain,2009,French
+16,16,Willy  Grondin,FRA,G,1.78,78,12-10-74,Sainte  Clothilde,Valenciennes,Paris Saint-Germain,2009,French
+17,17,Granddi Ngoyi,FRA,M,1.86,77,17-05-88,Melun,None,Paris Saint-Germain,2009,French
+20,20,Clément  Chantôme,FRA,M,1.80,71,11-09-87,Sens,None,Paris Saint-Germain,2009,French
+21,21,Jean-Eudes Maurice,HAI,F,1.80,73,21-06-86,Alfortville,None,Paris Saint-Germain,2009,French
+22,22,Sylvain Armand,FRA,D,1.82,82,01-08-80,Saint-Etienne,Nantes,Paris Saint-Germain,2009,French
+23,23,Jérémy  Clément,FRA,M,1.74,61,26-08-84,Béziers,Rangers,Paris Saint-Germain,2009,French
+24,24,Tripy Makonda,FRA,M,1.80,70,24-01-90,Ivry-sur-Seine,None,Paris Saint-Germain,2009,French
+26,26,Christophe Jallet,FRA,D,1.78,65,31-10-83,Cognac,Lorient,Paris Saint-Germain,2009,French
+27,27,Younousse Sankharé,FRA,M,1.84,76,10-09-89,Sarcelles,None,Paris Saint-Germain,2009,French
+28,28,Maxime Partouche,FRA,M,1.73,63,05-06-90,Vélizy,None,Paris Saint-Germain,2009,French
+30,30,Apoula Edel,CMR,G,1.84,80,17-06-86,Ekom I-Mfou,Rapid Bucureşti,Paris Saint-Germain,2009,French
+1,1,Nicolas Douchez,FRA,G,1.85,77,22-04-80,Rasny-sous-Bois,Toulouse,Rennes,2009,French
+2,2,Elderson Uwa Echiejile,NGA,D,1.84,76,20-01-88,Cotonou,None,Rennes,2009,French
+3,3,Carlos  Bocanegra,USA,D,1.83,78,25-05-79,Alta  Loma,Fulham,Rennes,2009,French
+4,4,Alexander Tettey,NOR,M,1.80,68,04-04-86,Accra,Rosenborg,Rennes,2009,French
+5,5,Kader Mangane,SEN,D,1.93,87,23-03-83,Thiès,Lens,Rennes,2009,French
+7,7,Jérôme  Leroy,FRA,M,1.85,75,04-11-74,Béthune,Sochaux,Rennes,2009,French
+8,8,Sylvain  Marveaux,FRA,M,1.72,66,15-04-86,Vannes,None,Rennes,2009,French
+9,9,Mickaël Pagis,FRA,F,1.80,83,17-08-73,Angers,Marseille,Rennes,2009,French
+10,10,Asamoah Gyan,GHA,F,1.80,80,22-11-85,Accra,Udinese,Rennes,2009,French
+12,12,Rod Fanni,FRA,D,1.86,78,06-12-81,Martigues,Nice,Rennes,2009,French
+13,13,Petter Hansson,SWE,D,1.86,86,14-12-76,Helsingborg,SC Heerenveen,Rennes,2009,French
+16,16,Patrice Luzi,FRA,G,1.91,89,08-07-80,Ajaccio,Charleroi,Rennes,2009,French
+17,17,Yann M'Vila,FRA,M,1.82,80,29-06-90,Amiens,None,Rennes,2009,French
+18,18,Fabien Lemoine,FRA,M,1.75,67,16-03-87,Fougères,None,Rennes,2009,French
+19,19,Jimmy Briand,FRA,F,1.81,84,02-05-85,Vitry-sur-Seine,None,Rennes,2009,French
+20,20,Jirès  Kembo Ekoko,COD,F,1.78,78,08-01-88,Kinshasa,None,Rennes,2009,French
+21,21,Ismaël Bangoura,GUI,F,1.74,72,02-01-85,Conakry,Dynamo Kiev,Rennes,2009,French
+23,23,Moussa  Sow,SEN,F,1.80,76,19-01-86,Mantes-la-Jolie,None,Rennes,2009,French
+24,24,Lhadji Badiane,FRA,F,1.80,71,16-04-87,Strasbourg,Gueugnon,Rennes,2009,French
+26,26,Kévin Theophile Catherine,FRA,M,1.80,77,28-10-89,Saint Brieuc,None,Rennes,2009,French
+28,28,Tongo Doumbia,MLI,M,1.90,79,06-08-89,Vernon,Châteauroux,Rennes,2009,French
+29,29,Romain  Danze,FRA,M,1.84,72,03-07-86,Douarnenez,None,Rennes,2009,French
+30,30,Cheikh  N'Diaye,SEN,G,1.91,82,15-02-85,Dakar,Noisy-le-Sec,Rennes,2009,French
+31,31,John Boye,GHA,D,1.84,69,23-04-87,Accra,Heart of Lions,Rennes,2009,French
+40,40,Florent Petit,FRA,G,1.90,86,30-01-89,Mont Saint Aignan,None,Rennes,2009,French
+41,50,Abdoulaye Diallo,FRA,G,1.89,80,30-03-92,Reims,None,Rennes,2009,French
+1,1,Vincent Planté,FRA,G,1.89,84,19-11-80,Lille,Caen,Saint-Etienne,2009,French
+2,2,Cédric Varrault,FRA,D,1.82,70,30-01-80,Blois,Nice,Saint-Etienne,2009,French
+3,3,Pape Diakhaté,SEN,D,1.85,79,21-06-84,Dakar,Dynamo Kiev,Saint-Etienne,2009,French
+4,4,Efstathios Tavlaridis,GRE,D,1.86,81,25-01-80,Serres,Lille,Saint-Etienne,2009,French
+5,5,Augusto  Fernández,ARG,M,1.77,71,10-04-86,Pergamino,River Plate,Saint-Etienne,2009,French
+6,6,Sylvain Monsoreau,FRA,D,1.86,80,20-03-81,Saint-Cyr-L'Ecole,Monaco,Saint-Etienne,2009,French
+7,7,Dimitri  Payet,FRA,M,1.74,70,29-03-87,St-Pierre  de la Réunion,Nantes,Saint-Etienne,2009,French
+9,9,Gonzalo Bergessio,ARG,F,1.78,72,20-07-84,Córdoba,San Lorenzo,Saint-Etienne,2009,French
+10,10,Kevin Mirallas,BEL,F,1.78,72,05-10-87,Liège,Lille,Saint-Etienne,2009,French
+11,11,Bakary Sako,FRA,M,1.80,76,24-04-88,Ivry-sur-Seine,Châteauroux,Saint-Etienne,2009,French
+12,12,Blaise Matuidi,FRA,M,1.75,70,09-04-87,Toulouse,Troyes,Saint-Etienne,2009,French
+14,14,Boubacar Sanogo,CIV,F,1.88,82,17-12-82,Dimbokro,Werder Bremen,Saint-Etienne,2009,French
+15,15,Yoann Andreu,FRA,D,1.75,64,03-05-89,Bourg en Bresse,None,Saint-Etienne,2009,French
+16,16,Jérémie Janot,FRA,G,1.76,75,11-10-77,Valenciennes,None,Saint-Etienne,2009,French
+17,17,Yohan  Hautcoeur,FRA,M,1.79,67,30-10-81,Nantes,Le Mans,Saint-Etienne,2009,French
+18,18,Guirane  N'Daw,SEN,M,1.89,79,24-04-84,Rufisque,Nantes,Saint-Etienne,2009,French
+19,19,Christophe Landrin,FRA,M,1.78,75,30-06-77,Roubaix,Paris  St-Germain,Saint-Etienne,2009,French
+20,20,Boubacar Mansaly,SEN,M,1.80,69,04-02-88,Dakar,None,Saint-Etienne,2009,French
+21,21,Mouhamadou  Dabo,SEN,D,1.76,67,28-11-86,Dakar,None,Saint-Etienne,2009,French
+22,22,Gelson Fernandes,SUI,M,1.83,70,02-09-86,Praia,Manchester C,Saint-Etienne,2009,French
+24,24,Loïc Perrin,FRA,M,1.80,76,07-08-85,Saint-Etienne,None,Saint-Etienne,2009,French
+26,26,Moustapha  Bayal Sall,SEN,D,1.90,90,30-11-85,Dakar,US  Gorée,Saint-Etienne,2009,French
+27,27,Helton Dos Reis,FRA,F,1.85,79,01-05-88,Lyon,Gueugnon,Saint-Etienne,2009,French
+28,28,Yohan Benalouane,FRA,D,1.85,79,28-03-87,Bagnols-sur-Cèze,None,Saint-Etienne,2009,French
+29,29,Emmanuel Riviere,FRA,F,1.82,76,03-03-90,Lamentin,None,Saint-Etienne,2009,French
+31,31,Maodomalick Faye,SEN,F,1.79,72,13-12-87,Kahone,None,Saint-Etienne,2009,French
+33,33,Josuha Guilavogui,FRA,M,1.87,78,19-09-90,Ollioules,None,Saint-Etienne,2009,French
+40,40,Pape Abdoulaye Coulibaly,SEN,G,1.90,90,02-03-88,Tassinere,None,Saint-Etienne,2009,French
+1,1,Pierrick Cros,FRA,G,1.85,75,23-06-91,Albi,None,Sochaux,2009,French
+2,2,Frédéric Duplus,FRA,D,1.75,66,07-04-90,Belfort,None,Sochaux,2009,French
+3,3,Ivan Stevanović,SRB,D,1.83,77,24-06-83,Čačak,Partizan Belgrade,Sochaux,2009,French
+4,4,Boukary Dramé,SEN,D,1.81,78,22-07-85,Villepinte,Paris St-Germain,Sochaux,2009,French
+5,5,Jacques Faty,SEN,D,1.83,75,25-02-84,Villeneuve-st-Georges,Marseille,Sochaux,2009,French
+7,7,Geoffrey Tulasne,FRA,M,1.75,69,24-02-88,Peronne,None,Sochaux,2009,French
+8,8,Carlão,BRA,M,1.82,73,19-01-86,São Paulo,Corinthians,Sochaux,2009,French
+9,9,Charlie Davies,USA,F,1.78,74,25-06-86,"Manchester, NH",Hammarby IF,Sochaux,2009,French
+10,10,Ryad Boudebouz,ALG,M,1.72,59,19-02-90,Colmar,None,Sochaux,2009,French
+11,11,Sloan Privat,FRA,F,1.86,83,24-07-89,Cayenne,None,Sochaux,2009,French
+12,12,Brown Ideye,NGA,F,1.80,70,10-10-88,Yenagoa,Neuchâtel Xamax,Sochaux,2009,French
+13,13,Jérémie Brechet,FRA,D,1.87,77,14-08-79,Lyon,PSV Eindhoven,Sochaux,2009,French
+15,15,Serdar  Gürler,TUR,F,1.73,72,14-09-91,Haguenau,None,Sochaux,2009,French
+16,16,Teddy Richert,FRA,G,1.82,78,21-09-74,Avignon,Bordeaux,Sochaux,2009,French
+17,17,Maxime Josse,FRA,D,1.84,82,21-03-87,Saint-Quentin,None,Sochaux,2009,French
+18,18,Stéphane  Dalmat,FRA,M,1.80,76,16-02-79,Tours,Bordeaux,Sochaux,2009,French
+19,19,Benjamin Gavanon,FRA,M,1.80,75,09-08-80,Marseille,Nancy,Sochaux,2009,French
+20,20,Edouard Butin,FRA,F,1.80,74,16-06-88,Dole,None,Sochaux,2009,French
+21,21,Vincent Nogueira,FRA,M,1.70,60,16-01-88,Besançon,None,Sochaux,2009,French
+22,22,Yassin Mikari,TUN,D,1.73,66,09-01-83,Zürich,Grasshoppers,Sochaux,2009,French
+24,24,Damien  Perquis,FRA,D,1.84,80,10-04-84,Troyes,St-Etienne,Sochaux,2009,French
+25,25,Václav Svěrko,CZE,F,1.83,78,01-11-83,Třinec,Baník Ostrava,Sochaux,2009,French
+26,26,Marvin Martin,FRA,M,1.71,63,10-06-88,Paris,None,Sochaux,2009,French
+27,27,Loïc Poujol,FRA,M,1.88,86,27-02-89,Rodez,None,Sochaux,2009,French
+28,28,Nicolas Maurice-Belay,FRA,M,1.82,76,19-04-85,Sucy-en-Brie,Monaco,Sochaux,2009,French
+29,29,Mathieu Peybernes,FRA,D,1.84,80,21-10-90,Toulouse,None,Sochaux,2009,French
+30,30,Mathieu Dreyer,FRA,G,1.88,81,20-03-89,Strasbourg,None,Sochaux,2009,French
+33,33,Rafael Dias,POR,M,1.80,71,29-01-91,Covilhã,None,Sochaux,2009,French
+40,40,Amine Lecomte,FRA,G,1.92,86,26-04-90,Reims,None,Sochaux,2009,French
+1,1,Matthieu Valverde,FRA,G,1.85,80,14-05-83,Montreuil,Boulogne,Toulouse,2009,French
+2,2,Mohamed Fofana,MLI,D,1.81,75,07-03-85,Gonesse,None,Toulouse,2009,French
+3,3,Daniel Congré,FRA,D,1.84,79,05-04-85,Toulouse,None,Toulouse,2009,French
+4,4,Mauro  Cetto,ARG,D,1.82,78,14-04-82,Rosario,Nantes,Toulouse,2009,French
+5,5,Paulo Machado,POR,M,1.74,74,31-03-86,Cerco,FC Porto,Toulouse,2009,French
+6,6,Antoine  Devaux,FRA,M,1.85,70,21-02-85,Dieppe,Boulogne,Toulouse,2009,French
+7,7,Fodé  Mansaré,GUI,F,1.75,71,03-09-81,Conakry,Montpellier,Toulouse,2009,French
+8,8,Etienne Didot,FRA,M,1.75,65,24-07-83,Paimpol,Rennes,Toulouse,2009,French
+9,9,Colin Kazim-Richards,TUR,F,1.85,68,26-08-86,Leyton,Fenerbahçe,Toulouse,2009,French
+10,10,André-Pierre  Gignac,FRA,F,1.87,84,12-05-85,Martigues,Lorient,Toulouse,2009,French
+11,11,Luan,BRA,M,1.84,75,21-09-88,Araras,São Caetano,Toulouse,2009,French
+12,12,Cheikh M'Bengué,FRA,D,1.83,75,23-07-88,Toulouse,None,Toulouse,2009,French
+13,13,Dany Nounkeu,CMR,D,1.84,85,11-04-86,Yaoundé,Pau,Toulouse,2009,French
+14,14,François Sirieix,FRA,M,1.80,72,07-10-80,Bordeaux,Auxerre,Toulouse,2009,French
+16,16,Olivier Blondel,FRA,G,1.87,78,09-07-79,Mont-Saint-Aignan,Le Havre,Toulouse,2009,French
+17,17,Jean-Joël  Perrier Doumbé,CMR,D,1.80,74,27-09-78,Paris,Celtic,Toulouse,2009,French
+18,18,Kévin Dupuis,FRA,F,1.88,83,14-01-87,Marseille,None,Toulouse,2009,French
+20,20,Mathieu Berson,FRA,M,1.80,73,23-02-80,Vannes,Levante,Toulouse,2009,French
+22,22,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil,None,Toulouse,2009,French
+23,23,Albin Ebondo,FRA,D,1.83,85,23-02-84,Marseille,Marseille,Toulouse,2009,French
+24,24,Oumar N'Diaye,FRA,M,1.83,67,09-12-88,Nouakckott,None,Toulouse,2009,French
+25,25,Daniel Braaten,NOR,M,1.84,85,25-05-82,Oslo,Bolton W,Toulouse,2009,French
+27,27,Franck Tabanou,FRA,M,1.78,70,30-01-89,Thiais,None,Toulouse,2009,French
+28,28,Ahmed Soukouna,FRA,F,1.82,76,13-01-90,Paris,None,Toulouse,2009,French
+29,29,Etienne Capoue,FRA,M,1.89,80,11-07-88,Niort,None,Toulouse,2009,French
+30,30,Yohann  Pelé,FRA,G,1.96,89,04-11-82,Brou-sur-Chantereine,Le Mans,Toulouse,2009,French
+33,33,Anthony Loustallot,FRA,G,1.83,77,30-03-92,Albi,Albi,Toulouse,2009,French
+34,34,Adrien Regattin,MAR,M,1.66,67,22-08-91,Sète,Sète,Toulouse,2009,French
+40,40,Marc Vidal,FRA,G,1.87,80,03-06-91,Saint-Affrique,None,Toulouse,2009,French
+1,1,Nicolas Penneteau,FRA,G,1.85,78,28-02-81,Marseille,Bastia,Valenciennes,2009,French
+2,2,David Ducourtioux,FRA,D,1.77,68,11-04-78,Limoges,Sedan,Valenciennes,2009,French
+3,3,Jacques Abardonado,FRA,D,1.82,80,27-05-78,Marseille,Nürnberg,Valenciennes,2009,French
+4,4,Bobo Baldé,GUI,D,1.90,85,13-10-75,Marseille,Celtic,Valenciennes,2009,French
+5,5,Rafael Schmitz,BRA,D,1.82,74,17-12-80,Blunemau,Lille,Valenciennes,2009,French
+6,6,Milan Bievac,SRB,D,1.85,83,31-08-83,Mitrovica,Lens,Valenciennes,2009,French
+7,7,Johan  Audel,FRA,F,1.80,73,12-12-83,Nice,Lille,Valenciennes,2009,French
+8,8,Gaël Danic,FRA,M,1.76,65,19-11-81,Vannes,Troyes,Valenciennes,2009,French
+9,9,Filip ebo,SVK,F,1.81,77,24-02-84,Bratislava,Rangers,Valenciennes,2009,French
+10,10,Fahid Ben Khalfallah,TUN,M,1.74,68,09-10-82,Péronne,Caen,Valenciennes,2009,French
+12,12,Rémi Gomis,SEN,M,1.80,64,14-02-84,Versailles,Caen,Valenciennes,2009,French
+14,14,Foued Kadir,ALG,M,1.79,68,05-12-83,Martigues,Amiens,Valenciennes,2009,French
+15,15,Siaka Tiéné,CIV,D,1.76,72,22-02-82,Abidjan,St-Etienne,Valenciennes,2009,French
+16,16,Jean-Louis  Leca,FRA,G,1.77,65,21-09-85,Bastia,Bastia,Valenciennes,2009,French
+17,17,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,River Plate [URU],Valenciennes,2009,French
+18,18,Amara Bangoura,GUI,M,1.69,59,10-03-86,Kamsar,Olympique Khouribga,Valenciennes,2009,French
+19,19,Nam Tae-Hee,KOR,M,1.74,72,03-07-91,Busan,Reading,Valenciennes,2009,French
+20,20,Angoua Brou  Benjamin,CIV,D,1.78,69,28-11-86,Anyama,Honvéd,Valenciennes,2009,French
+22,22,Jonathan  Lacourt,FRA,M,1.81,71,17-08-86,Avignon,Lens,Valenciennes,2009,French
+23,23,José Saez,FRA,M,1.70,63,07-05-82,Memin,Angers,Valenciennes,2009,French
+24,24,Gaëtan  Bong,CMR,D,1.83,74,25-04-88,Sakbayeme,Metz,Valenciennes,2009,French
+25,25,Rudy  Mater,FRA,D,1.78,70,13-10-80,Valenciennes,Cannes,Valenciennes,2009,French
+26,26,Renaud Cohade,FRA,M,1.80,74,29-09-84,Aubenas,Strasbourg,Valenciennes,2009,French
+27,27,Mamadou  Samassa,MLI,F,1.88,84,01-05-86,Montfermeil,Marseille,Valenciennes,2009,French
+28,28,Grégory Pujol,FRA,F,1.83,70,25-01-80,Paris,Sedan,Valenciennes,2009,French
+30,30,Guy  Rolland Ndy Assembé,CMR,G,1.84,79,28-02-86,Yaoundé,Nantes,Valenciennes,2009,French
+40,40,Grégory  Wimbee,FRA,G,1.93,88,19-08-71,Essay-les-Nancy,Grenoble,Valenciennes,2009,French

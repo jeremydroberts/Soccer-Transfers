@@ -1,0 +1,582 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Guillermo Ochoa,MEX,G,1.83,73,13-07-85,Guadalajara,América,Ajaccio,2011,French
+4,4,Leyti N'Diaye,SEN,D,1.88,84,19-08-85,Dakar,Marseille,Ajaccio,2011,French
+5,5,Mickaël Charvet,FRA,D,1.79,77,31-03-88,Bourg en Bresse,Lyon,Ajaccio,2011,French
+6,6,Carl Medjani,ALG,D,1.84,84,15-05-85,Lyon,Lorient,Ajaccio,2011,French
+7,7,Benjamin André,FRA,M,1.77,68,03-08-90,Nice,None,Ajaccio,2011,French
+8,8,Jean-Baptiste Pierazzi,FRA,M,1.85,74,17-06-85,Ajaccio,None,Ajaccio,2011,French
+10,10,Christian Kinkela,COD,M,1.75,67,25-05-82,Kinshasa,Boulogne,Ajaccio,2011,French
+11,11,Karim El Hany,FRA,M,1.70,60,12-01-88,Sartene,GFCO Ajaccio,Ajaccio,2011,French
+12,12,Frédéric Sammaritano,FRA,F,1.62,61,23-03-86,Vannes,Auxerre,Ajaccio,2011,French
+13,13,Fabrice Begeorgi,FRA,F,1.77,70,20-04-87,Martigues,Istres,Ajaccio,2011,French
+14,14,Mehdi Mostefa Sbaa,ALG,M,1.81,82,30-08-83,Dijon,Nîmes,Ajaccio,2011,French
+15,15,David Gigliotti,FRA,F,1.76,74,30-05-85,Martigues,Arles-Avignon,Ajaccio,2011,French
+16,16,Thierry Debès,FRA,G,1.85,70,13-01-74,Strasbourg,Guingamp,Ajaccio,2011,French
+17,17,Yoann Poulard,FRA,D,1.91,77,01-07-76,Saint-Nazaire,Nantes,Ajaccio,2011,French
+18,18,Johan Cavalli,FRA,M,1.70,65,12-09-81,Ajaccio,Nîmes,Ajaccio,2011,French
+19,19,Paul Lasne,FRA,M,1.83,72,16-01-89,Saint-Cloud,Bordeaux,Ajaccio,2011,French
+20,20,Anthony Lippini,FRA,D,1.75,68,07-11-88,Bastia,Troyes,Ajaccio,2011,French
+21,21,Richard Socrier,FRA,F,1.86,82,28-03-79,Paris,Brest,Ajaccio,2011,French
+22,22,Fousseni Diawara,MLI,D,1.83,71,28-08-80,Paris,Istres,Ajaccio,2011,French
+23,23,Arnaud Maire,FRA,D,1.81,74,06-03-79,Besançon,Strasbourg,Ajaccio,2011,French
+24,24,Damien Tibéri,FRA,M,1.81,70,23-08-85,Fréjus,Sedan,Ajaccio,2011,French
+25,25,Ilan,BRA,F,1.81,76,18-09-80,Curitiba,Internacional,Ajaccio,2011,French
+26,26,Samuel Bouhours,FRA,D,1.82,75,26-06-87,Le Mans,Le Mans,Ajaccio,2011,French
+27,27,Rémi Cilia,FRA,D,1.80,75,11-09-89,Ollioules,None,Ajaccio,2011,French
+28,28,Felipe Saad,BRA,D,1.87,83,11-09-83,Santos,Évian TG,Ajaccio,2011,French
+29,29,Eduardo,BRA,F,1.78,67,05-08-80,São João do Piauí,Lens,Ajaccio,2011,French
+30,30,David Oberhauser,FRA,G,1.83,75,29-11-89,Bitche,None,Ajaccio,2011,French
+33,33,Wilfried Zahibo,FRA,M,1.89,77,21-08-93,Marseille,None,Ajaccio,2011,French
+40,40,Yannick Gigliarelli,FRA,G,1.74,66,20-04-91,Ajaccio,None,Ajaccio,2011,French
+1,1,Olivier Sorin,FRA,G,1.88,76,16-04-81,Gien,Nancy,Auxerre,2011,French
+2,2,Cédric Hengbart,FRA,D,1.83,73,13-07-80,Falaise,Caen,Auxerre,2011,French
+3,3,Willy Boly,FRA,D,1.85,81,03-02-91,Melun,None,Auxerre,2011,French
+4,4,Stéphane Grichting,SUI,D,1.86,80,30-03-79,Sierre,Sion,Auxerre,2011,French
+5,5,Dariusz Dudka,POL,D,1.82,71,09-12-83,Kostrzyn nad Odrą,Wisła Kraków,Auxerre,2011,French
+6,6,Adama Coulibaly,MLI,D,1.86,83,09-10-80,Bamako,Lens,Auxerre,2011,French
+7,7,Kamel Chafni,MAR,M,1.81,70,11-06-82,Bordeaux,Ajaccio,Auxerre,2011,French
+8,8,Anthony Le Tallec,FRA,F,1.84,73,03-10-84,Hennebont,Le Mans,Auxerre,2011,French
+9,9,Rudy Haddad,FRA,M,1.80,78,05-02-85,Paris,Châteauroux,Auxerre,2011,French
+10,10,Olivier Kapo,FRA,F,1.83,72,27-09-80,Abidjan,Al-Ahli [QAT],Auxerre,2011,French
+11,11,Ben Sahar,ISR,F,1.78,79,10-08-89,Holon,Espanyol,Auxerre,2011,French
+13,13,Christopher Missilou,FRA,M,1.80,70,18-07-92,Auxerre,None,Auxerre,2011,French
+14,14,Dennis Oliech,KEN,F,1.81,80,02-02-85,Nairobi,Nantes,Auxerre,2011,French
+15,15,Yonathan Del Valle,VEN,F,1.71,72,28-05-90,Guacara,Deportivo Táchira,Auxerre,2011,French
+16,16,Simon Pontdemé,FRA,G,1.86,81,04-05-88,Niort,Brest,Auxerre,2011,French
+17,17,Georges Mandjeck,CMR,M,1.83,72,09-12-88,Douala,Rennes,Auxerre,2011,French
+18,18,Roy Contout,FRA,M,1.75,75,11-02-85,Cayenne,Amiens,Auxerre,2011,French
+19,19,Yaya Sanogo,FRA,F,1.91,74,27-01-93,Massy,None,Auxerre,2011,French
+20,20,Amadou Sidibé,MLI,D,1.73,72,19-02-86,Bamako,Djoliba,Auxerre,2011,French
+21,21,Édouard Cissé,FRA,M,1.86,76,30-03-78,Pau,Marseille,Auxerre,2011,French
+22,22,Prince Segbefia,TOG,M,1.79,75,11-03-91,Lomé,None,Auxerre,2011,French
+23,23,Jérémy Berthod,FRA,D,1.80,74,24-04-84,Tassin-la-Demi-Lune,Monaco,Auxerre,2011,French
+24,24,Christopher Jullien,FRA,D,1.95,82,22-03-93,Lagny-sur-Marne,None,Auxerre,2011,French
+25,25,Omar Kossoko,FRA,F,1.86,72,10-03-88,Mantes-la-Jolie,Amiens,Auxerre,2011,French
+27,27,Alain Traoré,BFA,M,1.76,66,31-12-88,Bobo-Dioulasso,None,Auxerre,2011,French
+28,28,Amara Kallé,MLI,D,1.84,78,19-09-90,Bamako,AS Real Bamako,Auxerre,2011,French
+29,29,Delvin Ndinga,CGO,M,1.82,73,03-04-88,Pointe Noire,None,Auxerre,2011,French
+30,30,Donovan Léon,FRA,G,1.86,88,03-11-92,Cayenne,None,Auxerre,2011,French
+31,31,Sébastien Haller,FRA,F,1.87,75,22-06-94,Ris-Orangis,None,Auxerre,2011,French
+32,32,Soualiho Meïté,FRA,M,1.87,80,17-03-94,Paris,None,Auxerre,2011,French
+33,33,Kévin Châtelain,FRA,M,1.81,73,16-02-94,Auxerre,None,Auxerre,2011,French
+34,34,Raphaël Calvet,FRA,D,1.82,70,07-02-94,Auxerre,None,Auxerre,2011,French
+35,35,Dieylani Fall,SEN,F,1.90,80,30-11-89,Thiès,ASC Diaraf,Auxerre,2011,French
+36,36,Paul-Georges Ntep,FRA,F,1.80,75,29-07-92,Douala,None,Auxerre,2011,French
+37,37,Thomas Monconduit,FRA,D,1.78,75,10-02-91,Drancy,None,Auxerre,2011,French
+38,38,David Camps,FRA,M,1.80,75,22-05-90,Martigues,None,Auxerre,2011,French
+39,39,Ogou Akichi,CIV,M,1.78,75,24-04-90,Abidjan,AFAD,Auxerre,2011,French
+40,40,Jeffrey Baltus,FRA,G,1.86,84,20-12-91,Melun,None,Auxerre,2011,French
+41,42,Cyriaque Rivieyran,FRA,D,1.72,69,17-04-91,Strasbourg,Strasbourg,Auxerre,2011,French
+1,1,Abdoulaye Keita,FRA,G,1.84,75,16-08-90,Paris,None,Bordeaux,2011,French
+2,2,Michaël Ciani,FRA,D,1.89,88,06-04-84,Paris,Lorient,Bordeaux,2011,French
+3,3,Henrique,BRA,D,1.88,78,02-05-83,São Gonçalo,Flamengo,Bordeaux,2011,French
+4,4,Ludovic Obraniak,POL,M,1.74,72,10-11-84,Longueville-lès-Metz,Lille,Bordeaux,2011,French
+6,6,Lamine Sané,SEN,D,1.92,77,22-03-87,Villeneuve-sur-Lot,None,Bordeaux,2011,French
+7,7,Landry N'Guemo,CMR,M,1.73,70,28-11-85,Yaoundé,Nancy,Bordeaux,2011,French
+8,8,Fahid Ben Khalfallah,TUN,M,1.74,68,09-10-82,Péronne,Valenciennes,Bordeaux,2011,French
+9,9,Yoan Gouffran,FRA,F,1.75,70,25-05-86,Villeneuve-st-Georges,Caen,Bordeaux,2011,French
+10,10,Jussiê,BRA,F,1.80,76,19-09-83,Nova Venécia,Lens,Bordeaux,2011,French
+11,11,David Bellion,FRA,F,1.81,72,27-11-82,Paris,Nice,Bordeaux,2011,French
+14,14,Cheikh Diabaté,MLI,F,1.94,84,25-04-88,Bamako,None,Bordeaux,2011,French
+16,16,Cédric Carrasso,FRA,G,1.87,87,30-12-81,Avignon,Toulouse,Bordeaux,2011,French
+17,17,André Biyogo Poko,GAB,M,1.73,72,01-01-93,Bitam,US Bitam,Bordeaux,2011,French
+18,18,Jaroslav Plail,CZE,M,1.83,72,05-01-82,Opočno,Osasuna,Bordeaux,2011,French
+19,19,Nicolas Maurice-Belay,FRA,M,1.82,76,19-04-85,Sucy-en-Brie,Sochaux,Bordeaux,2011,French
+20,20,Henri Saivet,FRA,F,1.73,70,26-10-90,Dakar,None,Bordeaux,2011,French
+21,21,Mathieu Chalmé,FRA,D,1.75,72,07-10-80,Bruges,Lille,Bordeaux,2011,French
+23,23,Florian Marange,FRA,D,1.76,70,03-03-86,Talence,None,Bordeaux,2011,French
+24,24,Abdou Traoré,MLI,M,1.79,73,17-01-88,Bamako,None,Bordeaux,2011,French
+25,25,Mariano,BRA,D,1.77,70,23-06-86,São João,Fluminense,Bordeaux,2011,French
+26,26,Grégory Sertic,FRA,M,1.81,69,05-08-89,Brétigny-sur-Orge,None,Bordeaux,2011,French
+27,27,Marc Planus,FRA,D,1.83,76,07-03-82,Bordeaux,None,Bordeaux,2011,French
+28,28,Benoît Trémoulinas,FRA,D,1.73,64,28-12-85,Bordeaux,None,Bordeaux,2011,French
+30,30,Kévin Olimpa,FRA,G,1.86,81,10-03-88,Paris,None,Bordeaux,2011,French
+32,32,Emiliano Sala,ARG,F,1.87,75,31-10-90,Cululú,None,Bordeaux,2011,French
+33,33,Evan Chevalier,FRA,M,1.75,60,13-05-92,Bruges,None,Bordeaux,2011,French
+40,40,Abe Jug,SVN,G,1.92,91,03-03-92,Maribor,Interblock,Bordeaux,2011,French
+1,1,Steeve Elana,FRA,G,1.87,85,11-07-80,Marseille,Caen,Brest,2011,French
+2,2,John Jairo Culma,COL,D,1.79,87,17-03-81,Cali,Maccabi Haifa,Brest,2011,French
+3,3,Tripy Makonda,FRA,M,1.80,70,24-01-90,Ivry-sur-Seine,Paris St-Germain,Brest,2011,French
+4,4,Johan Martial,FRA,D,1.84,80,30-05-91,Massy,Bastia,Brest,2011,French
+5,5,Oscar Ewolo,COD,M,1.71,63,09-10-78,Brazzaville,Lorient,Brest,2011,French
+6,6,Bruno Grougi,FRA,M,1.73,70,26-04-83,Caen,Clermont,Brest,2011,French
+7,7,Jonathan Ayité,TOG,F,1.84,75,22-07-85,Bordeaux,Nîmes,Brest,2011,French
+8,8,Jonathan Zebina,FRA,D,1.84,80,19-07-78,Paris,Brescia,Brest,2011,French
+9,9,Eden Ben Basat,ISR,F,1.85,69,08-09-86,Kiryat Haim,Hapoel Haifa,Brest,2011,French
+10,10,Larsen Touré,FRA,F,1.84,81,20-07-84,Brest,Lille,Brest,2011,French
+11,11,Issam Jemâa,TUN,F,1.85,80,28-01-84,Gabès,Auxerre,Brest,2011,French
+12,12,Paul Baysse,FRA,D,1.84,82,15-05-88,Bordeaux,Sedan,Brest,2011,French
+14,14,Alexandre Alphonse,FRA,F,1.74,70,17-06-82,Paris,Zürich,Brest,2011,French
+15,15,Tomá Mičola,CZE,F,1.78,75,26-09-88,Ostrava,Baník Ostrava,Brest,2011,French
+16,16,Lionel Cappone,FRA,G,1.82,74,08-02-79,Marignane,Lorient,Brest,2011,French
+17,17,Santiago Gentiletti,ARG,D,1.82,77,09-01-85,Gödeken,Argentinos Juniors,Brest,2011,French
+18,18,Moïse Brou Apanga,GAB,D,1.80,79,04-02-82,Abidjan,FC 105 Libreville,Brest,2011,French
+19,19,Benoît Lesoimier,FRA,M,1.71,60,21-02-83,Saint-Lô,Troyes,Brest,2011,French
+20,20,Romain Poyet,FRA,F,1.84,76,25-11-80,Le Coteau,Dijon,Brest,2011,French
+21,21,Brahim Ferradj,ALG,M,1.72,74,04-09-87,Saint-Etienne,Auxerre,Brest,2011,French
+22,22,Ousmane Coulibaly,MLI,D,1.83,75,09-07-89,Paris,Guingamp,Brest,2011,French
+23,23,Yoann Bigné,FRA,M,1.68,65,23-08-77,Rennes,Nice,Brest,2011,French
+24,24,Ahmed Kantari,MAR,D,1.85,80,28-06-85,Blois,Strasbourg,Brest,2011,French
+25,25,Omar Daf,SEN,D,1.77,71,12-02-77,Dakar,Sochaux,Brest,2011,French
+26,26,Abdou Sissoko,FRA,M,1.80,68,20-03-90,Troyes,Udinese,Brest,2011,French
+27,27,Mario Lička,CZE,M,1.82,82,30-04-82,Ostrava,Baník Ostrava,Brest,2011,French
+28,28,Diallo Guidileye,FRA,M,1.81,76,30-12-89,Djadijibiné,Troyes,Brest,2011,French
+29,29,Grégory Lorenzi,FRA,D,1.86,86,17-12-83,Bastia,Bastia,Brest,2011,French
+30,30,Joan Hartock,FRA,G,1.89,83,17-02-87,La Trinité,Lyon,Brest,2011,French
+33,33,Adama Ba,MTN,F,1.79,68,27-08-93,Sélibaby,None,Brest,2011,French
+34,34,Abel Khaled,FRA,M,1.80,67,09-11-92,Luxeuil-les-Bains,Epinal,Brest,2011,French
+35,35,Paul Baudin,FRA,D,,,07-05-91,Quimper,None,Brest,2011,French
+36,36,Yves-Marie Kerjean,FRA,D,1.84,79,15-04-94,Ploudalmézeau,None,Brest,2011,French
+1,1,Alexis Thébaux,FRA,G,1.85,81,17-03-85,Les Sables D'Olonne,Dijon,Caen,2011,French
+2,2,Nicolas Seube,FRA,D,1.80,72,11-08-79,Toulouse,Toulouse,Caen,2011,French
+3,3,Yannick M'bone,CMR,M,1.85,80,16-04-93,Yaoundé,Apéjes Yaoundé,Caen,2011,French
+4,4,Molla Wagué,FRA,D,1.91,87,21-02-91,Verdon,None,Caen,2011,French
+5,5,Thomas Heurtaux,FRA,D,1.83,78,03-07-88,Lisieux,None,Caen,2011,French
+6,6,Branko Lazarević,SRB,D,1.85,81,14-05-84,Novi Sad,OFK Belgrade,Caen,2011,French
+7,7,Anthony Deroin,FRA,M,1.63,66,15-03-79,Caen,None,Caen,2011,French
+8,8,Aurélien Montaroup,FRA,D,1.73,64,19-12-85,Rennes,Dinamo Minsk,Caen,2011,French
+9,9,Mbaye Niang,FRA,F,1.84,74,19-12-94,Meulan,None,Caen,2011,French
+10,10,Benjamin Nivet,FRA,M,1.78,75,02-01-77,Chartres,Troyes,Caen,2011,French
+11,11,Pierre-Alain Frau,FRA,F,1.75,73,15-04-80,Montbéliard,Lille,Caen,2011,French
+12,12,Grégory Proment,FRA,M,1.76,69,10-12-78,Paris,Antalyaspor,Caen,2011,French
+13,13,Emeric Dudouit,FRA,M,1.86,78,07-09-91,Coutances,Saint-Lô,Caen,2011,French
+14,14,Jerry Vandam,GHA,D,1.86,77,08-12-88,Lille,Lille,Caen,2011,French
+15,15,Lenny Nangis,FRA,F,1.73,65,24-03-94,Caen,None,Caen,2011,French
+16,16,Damien Perquis,FRA,G,1.84,82,08-03-86,Saint-Brieuc,Beauvais,Caen,2011,French
+17,17,Frédéric Bulot,FRA,F,1.77,68,27-09-90,Libreville,Monaco,Caen,2011,French
+18,18,Kandia Traoré,CIV,F,1.80,84,05-07-80,Adjame,Sochaux,Caen,2011,French
+19,19,Jérémy Sorbon,FRA,D,1.83,79,05-08-83,Caen,None,Caen,2011,French
+20,20,Romain Hamouma,FRA,M,1.77,67,29-03-87,Lure,Laval,Caen,2011,French
+21,21,Livio Nabab,FRA,F,1.85,72,14-06-88,Guadeloupe,None,Caen,2011,French
+22,22,Alexandre Raineau,FRA,M,1.78,71,21-06-86,Paris,None,Caen,2011,French
+23,23,Grégory Tafforeau,FRA,D,1.75,71,29-09-76,Bois-Guillaume,Lille,Caen,2011,French
+24,24,Grégory Leca,FRA,M,1.83,84,22-08-80,Metz,Metz,Caen,2011,French
+26,26,Ibrahima Tandia,FRA,M,1.78,70,12-07-93,Longjumeau,Sochaux,Caen,2011,French
+29,29,Fayçal Fajr,MAR,M,1.78,72,01-08-88,Rouen,Fréjus,Caen,2011,French
+30,30,Thomas Bosmel,FRA,G,1.84,75,18-04-88,Caen,None,Caen,2011,French
+1,1,Jean-Daniel Padovani,FRA,G,1.82,78,17-01-80,Perpignan,Angers,Dijon,2011,French
+2,2,Koro Koné,CIV,F,1.76,68,05-07-89,Abidjan,Spartak Trnava,Dijon,2011,French
+3,3,Zie Diabaté,CIV,D,1.77,65,02-03-89,M'Pody,Dinamo Bucureşti,Dijon,2011,French
+4,4,Abdoulaye Méité,CIV,D,1.85,82,06-10-80,Paris,WBA,Dijon,2011,French
+5,5,Damien Marcq,FRA,D,1.83,72,08-12-88,Boulogne,Caen,Dijon,2011,French
+6,6,Zakaria Diallo,FRA,D,1.95,88,13-08-86,Equemauville,Charleroi,Dijon,2011,French
+7,7,Bennard Yao Kumordzi,GHA,M,1.85,72,21-03-85,Accra,Panionios,Dijon,2011,French
+8,8,Younousse Sankharé,FRA,M,1.84,76,10-09-89,Sarcelles,Paris St-Germain,Dijon,2011,French
+9,9,Brice Jovial,FRA,F,1.74,67,25-01-84,Aubervilliers,Le Havre,Dijon,2011,French
+10,10,Grégory Thil,FRA,F,1.83,77,15-03-80,Creil,Boulogne,Dijon,2011,French
+11,11,Eric Bauthéac,FRA,M,1.65,65,24-08-87,Bagnols-sur-Cèze,Cannes,Dijon,2011,French
+12,12,Gaël Kakuta,FRA,F,1.73,65,21-06-91,Lille,Chelsea,Dijon,2011,French
+14,14,Chaher Zarour,FRA,D,1.88,83,14-03-83,Montreuil-sous-Bois,Cannes,Dijon,2011,French
+15,15,Abdoulaye Bamba,CIV,D,1.82,68,25-04-90,Abidjan,Juventus,Dijon,2011,French
+16,16,Baba Tchagouni,TOG,G,1.86,81,31-12-90,Lomé,Martigues,Dijon,2011,French
+17,17,Thomas Guerbert,FRA,M,1.80,75,06-04-89,Meaux,Luzenac,Dijon,2011,French
+18,18,Hakeem Achour,FRA,M,1.80,69,31-05-89,Le Blanc-Mesnil,Ivry,Dijon,2011,French
+19,19,Samuel Souprayen,FRA,M,1.87,70,18-02-89,Saint-Benoît,Rennes,Dijon,2011,French
+20,20,Benjamin Corgnet,FRA,M,1.80,75,06-04-87,Thionville,Chasselay,Dijon,2011,French
+23,23,Sékou Baradji,FRA,M,1.85,77,24-04-84,Paris,Hapoel Ra'anana,Dijon,2011,French
+24,24,Sanaa Altama,FRA,M,1.75,74,23-07-90,Lille,Lille,Dijon,2011,French
+25,25,Steven Paulle,FRA,D,1.87,82,10-02-86,Cannes,Cannes,Dijon,2011,French
+26,26,Lesly Malouda,FRA,M,1.72,68,16-11-83,Kourou,Toulouse Fontaines,Dijon,2011,French
+27,27,Cédric Varrault,FRA,D,1.82,70,30-01-80,Blois,Panionios,Dijon,2011,French
+28,28,Daisuke Matsui,JPN,M,1.75,67,11-05-81,Kyoto,Grenoble,Dijon,2011,French
+29,29,Florin Berenguer,FRA,M,1.80,70,01-04-89,Montbeliard,Sochaux B,Dijon,2011,French
+30,30,Baptiste Reynet,FRA,G,1.85,85,28-10-90,Romans,Martigues,Dijon,2011,French
+33,33,Florent Mollet,FRA,F,1.71,67,19-11-91,Fontaine-lès-Dijon,None,Dijon,2011,French
+34,34,Lucas Passoni,FRA,G,1.82,72,08-08-90,Dijon,None,Dijon,2011,French
+40,40,Daniel Yeboah,CIV,G,1.87,84,13-11-84,Treichville,ASEC Mimosas,Dijon,2011,French
+1,1,Johann Durand,FRA,G,1.82,71,17-06-81,Evian,Gaillard,Évian Thonon Gaillard,2011,French
+2,2,Mohammed Rabiu,GHA,M,1.87,76,31-12-89,Accra,Udinese,Évian Thonon Gaillard,2011,French
+3,3,Guillaume  Rippert,FRA,D,1.80,72,30-04-85,Paris,Metz,Évian Thonon Gaillard,2011,French
+4,4,Éric Tié Bi,CIV,M,1.79,76,20-07-90,Bediala,Lyon,Évian Thonon Gaillard,2011,French
+6,6,Jérôme Leroy,FRA,M,1.85,75,04-11-74,Béthune,Rennes,Évian Thonon Gaillard,2011,French
+7,7,Ali M'Madi,COM,F,1.78,71,21-04-90,Marseille,Lens,Évian Thonon Gaillard,2011,French
+8,8,Sidney Govou,FRA,F,1.75,75,27-07-79,Le Puy-en-Valay,Panathinaikos,Évian Thonon Gaillard,2011,French
+9,9,Kévin Bérigaud,FRA,F,1.78,69,03-03-84,Thonon-les-Bains,Servette,Évian Thonon Gaillard,2011,French
+10,10,Hervé Bugnet,FRA,F,1.74,68,24-08-81,Sainte-Foy-la-Grande,Niort,Évian Thonon Gaillard,2011,French
+11,11,Thomas Kahlenberg,DEN,M,1.83,72,20-03-83,Hvidovre,Wolfsburg,Évian Thonon Gaillard,2011,French
+12,12,Christian Poulsen,DEN,M,1.82,76,28-02-80,Asnaes,Liverpool,Évian Thonon Gaillard,2011,French
+14,14,Cédric Barbosa,FRA,M,1.79,67,06-03-76,Aubenas,Metz,Évian Thonon Gaillard,2011,French
+15,15,Saa Cilinek,SRB,D,1.84,82,28-01-82,Novi Sad,Jagodina,Évian Thonon Gaillard,2011,French
+16,16,Bertrand Laquait,FRA,G,1.84,78,13-04-77,Vichy,Charleroi,Évian Thonon Gaillard,2011,French
+17,17,Aldo Angoula,FRA,D,1.84,82,04-05-81,Le Havre,Boulogne,Évian Thonon Gaillard,2011,French
+18,18,Daniel Wass,DEN,D,1.81,74,31-05-89,Gladsaxe,Benfica,Évian Thonon Gaillard,2011,French
+19,19,Guillaume Lacour,FRA,M,1.73,68,02-08-80,Courbevoie,Strasbourg,Évian Thonon Gaillard,2011,French
+20,20,Yannick Sagbo,CIV,F,1.83,78,12-04-88,Marseille,Monaco,Évian Thonon Gaillard,2011,French
+21,21,Cédric Mongongu,COD,D,1.89,76,22-06-89,Kinshasa,Monaco,Évian Thonon Gaillard,2011,French
+22,22,Cédric Cambon,FRA,M,1.84,76,20-09-86,Montpellier,Litex Lovech,Évian Thonon Gaillard,2011,French
+23,23,Nicolas Farina,FRA,M,1.68,62,09-08-86,Metz,Metz,Évian Thonon Gaillard,2011,French
+24,24,Olivier Sorlin,FRA,M,1.82,77,09-04-79,Saint-Etienne,PAOK,Évian Thonon Gaillard,2011,French
+25,25,Jonathan Mensah,GHA,D,1.88,75,13-07-90,Accra,Udinese,Évian Thonon Gaillard,2011,French
+26,26,Brice Dja Djedje,CIV,M,1.76,70,23-12-90,Abidjan,Paris St-Germain,Évian Thonon Gaillard,2011,French
+27,27,Youssef Adnane,FRA,F,1.78,71,16-07-85,Mulhouse,Angers,Évian Thonon Gaillard,2011,French
+28,28,Fabrice Ehret,FRA,M,1.83,76,28-09-79,Viganello,Köln,Évian Thonon Gaillard,2011,French
+29,29,Saber Khelifa,TUN,F,1.83,73,14-10-86,Gabès,Espérance,Évian Thonon Gaillard,2011,French
+30,30,Stephan Andersen,DEN,G,1.90,80,26-11-81,Copenhagen,Brøndby,Évian Thonon Gaillard,2011,French
+33,33,Adrien Thomasson,FRA,F,1.82,75,10-12-93,Bourg-Saint-Maurice,Annecy,Évian Thonon Gaillard,2011,French
+40,40,Quentin Westberg,USA,G,1.83,78,25-04-86,Suresnes,Troyes,Évian Thonon Gaillard,2011,French
+1,1,Mickaël Landreau,FRA,G,1.84,80,14-05-79,Machecoul,Paris St-Germain,Lille,2011,French
+2,2,Mathieu Debuchy,FRA,D,1.77,74,28-07-85,Fretin,None,Lille,2011,French
+3,3,Lucas Digne,FRA,D,1.84,75,20-07-93,Meaux,None,Lille,2011,French
+4,4,Florent Balmont,FRA,M,1.68,71,02-02-80,Sainte-Foy-les-Lyon,Nice,Lille,2011,French
+5,5,Idrissa Gueye,SEN,M,1.74,64,26-09-89,Dakar,None,Lille,2011,French
+6,6,Pape N'Diaye Souaré,SEN,D,1.78,68,06-06-90,Mbao,None,Lille,2011,French
+7,7,Dimitri Payet,FRA,M,1.74,70,29-03-87,St-Pierre de la Réunion,St-Etienne,Lille,2011,French
+9,9,Túlio De Melo,BRA,F,1.93,83,31-01-85,Montes Claros,Palermo,Lille,2011,French
+10,10,Eden Hazard,BEL,M,1.70,69,07-01-91,La Louvière,Tubize,Lille,2011,French
+13,13,Adama Soumaoro,CIV,D,1.87,75,18-06-92,Fontenay-aux-Roses,None,Lille,2011,French
+14,14,David Rozehnal,CZE,D,1.93,77,05-07-80,ternberk,Hamburg,Lille,2011,French
+16,16,Vincent Enyeama,NGA,G,1.80,80,29-08-82,Aba,Hapoel Tel Aviv,Lille,2011,French
+17,17,Benoît Pedretti,FRA,M,1.77,69,12-11-80,Audincourt,Auxerre,Lille,2011,French
+18,18,Franck Béria,FRA,D,1.77,75,23-05-83,Argenteuil,Metz,Lille,2011,French
+19,19,Gianni Bruno,BEL,F,1.78,64,19-08-91,Rocourt,None,Lille,2011,French
+20,20,Ronny Rodelin,FRA,M,1.92,70,18-11-89,Saint-Denis de La Réunion,Nantes,Lille,2011,French
+21,21,Laurent Bonnart,FRA,D,1.71,62,25-12-79,Chambray-lès-Tours,Monaco,Lille,2011,French
+22,22,Aurélien Chedjou,CMR,M,1.84,84,20-06-85,Douala,Rouen,Lille,2011,French
+23,23,Nolan Roux,FRA,F,1.82,75,01-03-88,Compiègne,Brest,Lille,2011,French
+24,24,Rio Antonio Mavuba,FRA,M,1.72,70,08-03-84,Born At Sea,Villarreal,Lille,2011,French
+25,25,Marko Baa,SRB,D,1.90,79,29-12-82,Trstenik,Lokomotiv Moscow,Lille,2011,French
+26,26,Joe Cole,ENG,M,1.76,73,08-11-81,Paddington,Liverpool,Lille,2011,French
+27,27,Ireneusz Jeleń,POL,F,1.84,74,09-04-81,Cieszyn,Auxerre,Lille,2011,French
+28,28,Mauro Cetto,ARG,D,1.82,78,14-04-82,Rosario,Palermo,Lille,2011,French
+29,29,John Jairo Ruiz,CRC,F,1.75,66,10-01-94,Puntarenas,Deportivo Saprissa,Lille,2011,French
+30,30,Barel Mouko,CGO,G,1.77,72,05-04-79,Pointe-Noire,Gueugnon,Lille,2011,French
+1,1,Benjamin Lecomte,FRA,G,1.86,78,26-04-91,Paris,Niort,Lorient,2011,French
+2,2,Lamine Koné,FRA,D,1.86,83,01-02-89,Paris,Châteauroux,Lorient,2011,French
+3,3,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Académica,Lorient,2011,French
+4,4,Alaixys Romao,TOG,M,1.80,74,18-01-84,L'Hay-les-Roses,Grenoble,Lorient,2011,French
+5,5,Bruno Ecuele Manga,GAB,D,1.86,76,16-07-88,Libreville,Angers,Lorient,2011,French
+6,6,Grégory Bourillon,FRA,D,1.87,74,01-07-84,Laval,Paris St-Germain,Lorient,2011,French
+7,7,Arnold Mvuemba,FRA,M,1.72,67,28-01-85,Alencon,Portsmouth,Lorient,2011,French
+8,8,Yann Jouffre,FRA,M,1.75,65,23-07-84,Montélimar,Guingamp,Lorient,2011,French
+9,9,Innocent Emeghara,SUI,F,1.70,68,27-05-89,Lagos,Grasshoppers,Lorient,2011,French
+10,10,Mathieu Coutadeur,FRA,M,1.70,69,20-06-86,Le Mans,Monaco,Lorient,2011,French
+11,11,Sigamary Diarra,MLI,M,1.74,71,10-01-84,Villepinte,Tours,Lorient,2011,French
+12,12,Lucas Mareque,ARG,D,1.68,82,12-01-83,Morón,Independiente,Lorient,2011,French
+13,13,Ladislas Douniama,CGO,F,1.63,62,24-05-86,Brazzaville,Guingamp,Lorient,2011,French
+14,14,Arnaud Le Lan,FRA,D,1.71,60,22-03-78,Pontivy,Guingamp,Lorient,2011,French
+15,15,Jérémie Aliadière,FRA,F,1.83,70,30-03-83,Rambouillet,Middlesbrough,Lorient,2011,French
+16,16,Fabien Audard,FRA,G,1.88,89,28-03-78,Toulouse,Bastia,Lorient,2011,French
+17,17,Maxime Baca,FRA,D,1.71,68,02-06-83,Corbeil Essonnes,Le Havre,Lorient,2011,French
+18,18,Gilles Sunu,FRA,F,1.80,70,30-03-91,Châteauroux,Arsenal,Lorient,2011,French
+19,19,Tristan Do,FRA,F,1.70,64,31-01-93,Paris,Strasbourg,Lorient,2011,French
+21,21,Cheick Doukouré,FRA,M,1.80,72,11-09-92,Abidjan,None,Lorient,2011,French
+22,22,Kévin Monnet-Paquet,FRA,F,1.83,73,19-08-88,Bourgoin-Jallieu,Lens,Lorient,2011,French
+23,23,Mathias Autret,FRA,M,1.79,64,01-03-91,Morlaix,Brest,Lorient,2011,French
+24,24,Wesley Lautoa,FRA,D,1.72,65,25-08-87,Épernay,Sedan,Lorient,2011,French
+25,25,Lamine Gassama,SEN,D,1.81,74,20-10-89,Marseille,Lyon,Lorient,2011,French
+26,26,Remi Mulumba,FRA,M,1.78,70,02-11-92,Abbeville,Amiens,Lorient,2011,French
+27,27,Julien Quercia,FRA,F,1.68,65,17-08-86,Thionville,Auxerre,Lorient,2011,French
+28,28,Maxime Barthelme,FRA,M,1.77,65,08-09-88,Sartrouville,Racing Club de France,Lorient,2011,French
+30,30,Florent Chaigneau,FRA,G,1.97,94,21-03-84,La Roche-sur-Yon,Le Poiré-sur-Vie,Lorient,2011,French
+33,33,Simon Falette,FRA,D,1.84,90,19-02-92,Le Mans,None,Lorient,2011,French
+36,36,Joel Campbell,CRC,F,1.78,70,26-06-92,San José [CRC],Arsenal,Lorient,2011,French
+40,40,Jérémie Janot,FRA,G,1.76,75,11-10-77,Valenciennes,St-Etienne,Lorient,2011,French
+1,1,Hugo Lloris,FRA,G,1.88,78,26-12-86,Nice,Nice,Lyon,2011,French
+3,3,Cris,BRA,D,1.83,77,03-06-77,Guarulhos,Cruzeiro,Lyon,2011,French
+4,4,Bakari Koné,BFA,D,1.88,80,27-04-88,Ouagadougou,Guingamp,Lyon,2011,French
+5,5,Dejan Lovren,CRO,D,1.88,86,05-07-89,Karlovac,Dinamo Zagreb,Lyon,2011,French
+6,6,Kim Källström,SWE,M,1.81,79,24-08-82,Sandviken,Rennes,Lyon,2011,French
+7,7,Clément Grenier,FRA,M,1.86,72,07-01-91,Annonay,None,Lyon,2011,French
+8,8,Yoann Gourcuff,FRA,M,1.85,79,11-07-86,Lorient,Bordeaux,Lyon,2011,French
+9,9,Lisandro López,ARG,F,1.75,74,02-03-83,Rafael Obligado,FC Porto,Lyon,2011,French
+10,10,Ederson,BRA,M,1.81,74,13-01-86,Parapua,Nice,Lyon,2011,French
+11,11,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Lille,Lyon,2011,French
+12,12,Timothée Kolodziejczak,FRA,D,1.81,74,01-10-91,Avion,Lens,Lyon,2011,French
+13,13,Anthony Réveillère,FRA,D,1.81,76,10-11-79,Doué-La-Fontaine,Rennes,Lyon,2011,French
+14,14,Mouhamadou Dabo,SEN,D,1.76,67,28-11-86,Dakar,Sevilla,Lyon,2011,French
+15,15,Gueïda Fofana,FRA,M,1.82,74,16-05-91,Le Havre,Le Havre,Lyon,2011,French
+16,16,Jérémy Frick,SUI,G,1.92,88,08-03-93,Geneva,Genève-Servette-Carouge,Lyon,2011,French
+17,17,Alexandre Lacazette,FRA,F,1.74,69,28-05-91,Lyon,None,Lyon,2011,French
+18,18,Bafetibis Gomis,FRA,F,1.84,77,06-08-85,Seyne-sur-Mer,St-Etienne,Lyon,2011,French
+19,19,Jimmy Briand,FRA,F,1.81,84,02-05-85,Vitry-sur-Seine,Rennes,Lyon,2011,French
+20,20,Aly Cissokho,FRA,D,1.81,75,15-09-87,Blois,FC Porto,Lyon,2011,French
+21,21,Maxime Gonalons,FRA,M,1.87,76,10-03-89,Vénissieux,None,Lyon,2011,French
+22,22,Sidy Koné,MLI,M,1.85,73,06-06-92,Bamako,None,Lyon,2011,French
+23,23,Samuel Umtiti,FRA,D,1.81,75,14-11-93,Yaoundé,None,Lyon,2011,French
+24,24,Jérémy Pied,FRA,F,1.73,69,23-02-89,Grenoble,None,Lyon,2011,French
+25,25,Yassine Benzia,FRA,F,1.79,71,08-09-94,Saint-Aubin Lès-Elbeuf,None,Lyon,2011,French
+26,26,John Mensah,GHA,D,1.80,81,29-11-82,Obuasi,Rennes,Lyon,2011,French
+27,27,Alassane Pléa,FRA,M,1.80,72,10-03-93,Lille,None,Lyon,2011,French
+30,30,Rémy Vercoutre,FRA,G,1.85,78,26-06-80,Grande-Synthe,Montpellier,Lyon,2011,French
+32,32,Jordan Ferri,FRA,M,1.72,70,12-03-92,Cavaillon,None,Lyon,2011,French
+33,33,Amos Youga,FRA,D,1.96,83,08-12-92,Villeurbanne,None,Lyon,2011,French
+34,34,Mehdi Zeffane,ALG,D,1.74,63,19-05-92,Sainte-Foy-lès-Lyon,None,Lyon,2011,French
+35,35,Nicolas Seguin,FRA,D,1.81,76,06-03-90,Lyon,None,Lyon,2011,French
+36,36,Hamdan Al-Kamali,UAE,D,1.83,73,02-05-89,Abu Dhabi,Al-Wahda,Lyon,2011,French
+37,37,Thomas Fontaine,FRA,D,1.82,73,08-05-91,Saint-Pierre,None,Lyon,2011,French
+40,40,Anthony Lopes,POR,G,1.84,81,01-10-90,Givors,None,Lyon,2011,French
+41,50,Matthieu Valverde,FRA,G,1.85,80,14-05-83,Montreuil,Toulouse,Lyon,2011,French
+1,1,Gennaro Bracigliano,FRA,G,1.83,82,01-03-80,Forbach,Nancy,Marseille,2011,French
+2,2,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona,Osasuna,Marseille,2011,French
+3,3,Nicolas Nkoulou,CMR,D,1.80,77,27-03-90,Yaoundé,Monaco,Marseille,2011,French
+4,4,Alou Diarra,FRA,M,1.90,79,15-07-81,Villepinte,Bordeaux,Marseille,2011,French
+7,7,Benoît Cheyrou,FRA,M,1.82,78,03-05-81,Suresnes,Auxerre,Marseille,2011,French
+9,9,Brandão,BRA,F,1.89,78,16-06-80,São Paulo,Shakhtar Donetsk,Marseille,2011,French
+10,10,André-Pierre Gignac,FRA,F,1.87,84,12-05-85,Martigues,Toulouse,Marseille,2011,French
+11,11,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon,Nice,Marseille,2011,French
+12,12,Charles Kaboré,BFA,M,1.81,75,09-02-88,Bobo Dioulasso,Libourne,Marseille,2011,French
+13,13,Djimi Traoré,MLI,D,1.91,87,01-03-80,Saint-Ouen,Monaco,Marseille,2011,French
+14,14,Momar Bangoura,FRA,M,1.76,65,24-02-94,Dakar,None,Marseille,2011,French
+15,15,Jérémy Morel,FRA,D,1.72,71,02-04-84,Lorient,Lorient,Marseille,2011,French
+16,16,Elinton Andrade,BRA,G,1.90,85,30-03-79,Santa Maria,Rapid Bucureşti,Marseille,2011,French
+17,17,Stéphane Mbia,CMR,M,1.89,82,20-05-86,Yaoundé,Rennes,Marseille,2011,French
+18,18,Morgan Amalfitano,FRA,M,1.76,68,20-03-85,Nice,Lorient,Marseille,2011,French
+19,19,Kevin Osei,FRA,M,1.73,71,26-03-91,Marseille,None,Marseille,2011,French
+20,20,André Ayew,GHA,F,1.76,72,17-12-89,Seclin,None,Marseille,2011,French
+21,21,Souleymane Diawara,SEN,D,1.87,88,24-12-78,Gabou,Bordeaux,Marseille,2011,French
+22,22,Wesley Jobello,FRA,M,1.79,68,23-01-94,Gennevilliers,None,Marseille,2011,French
+23,23,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,None,Marseille,2011,French
+24,24,Rod Fanni,FRA,D,1.86,78,06-12-81,Martigues,Rennes,Marseille,2011,French
+25,25,Billel Omrani,FRA,F,1.81,73,02-06-93,Forbach,None,Marseille,2011,French
+26,26,Jean-Philippe Sabo,FRA,D,1.74,69,26-02-87,Marseille,None,Marseille,2011,French
+27,27,Larry Azouni,FRA,M,1.77,65,23-03-94,Marseille,None,Marseille,2011,French
+28,28,Mathieu Valbuena,FRA,M,1.67,58,28-09-84,Bordeaux,Libourne,Marseille,2011,French
+29,29,Chris Gadi,FRA,F,1.77,65,09-04-92,Ris-Orangis,None,Marseille,2011,French
+30,30,Steve Mandanda,FRA,G,1.85,82,28-03-85,Kinshasa,Le Havre,Marseille,2011,French
+1,1,Laurent Pionnier,FRA,G,1.84,76,24-05-82,Bagnois sur Cèze,None,Montpellier,2011,French
+2,2,Garry Bocaly,FRA,D,1.80,74,19-04-88,Schlcher,Marseille,Montpellier,2011,French
+3,3,Mapou Yanga-Mbiwa,FRA,D,1.84,77,15-05-89,Bangui,None,Montpellier,2011,French
+4,4,Hilton,BRA,D,1.82,73,13-09-77,Brasilia,Marseille,Montpellier,2011,French
+5,5,Henri Bedimo Nsame,CMR,D,1.80,80,04-06-84,Douala,Lens,Montpellier,2011,French
+6,6,Joris Marveaux,FRA,M,1.78,69,15-08-82,Vannes,Clermont,Montpellier,2011,French
+7,7,John Utaka,NGA,F,1.79,82,08-01-82,Legugnu,Portsmouth,Montpellier,2011,French
+10,10,Younès Belhanda,MAR,M,1.74,75,25-02-90,Avignon,None,Montpellier,2011,French
+11,11,Grégory Lacombe,FRA,M,1.64,58,11-01-82,Albi,Ajaccio,Montpellier,2011,French
+12,12,Geoffrey Dernis,FRA,M,1.71,66,24-12-80,Grande-Synthe,St-Etienne,Montpellier,2011,French
+13,13,Marco Estrada,CHI,M,1.75,81,28-05-83,Viña del Mar,Universidad de Chile,Montpellier,2011,French
+14,14,Romain Pitau,FRA,M,1.78,73,08-08-77,Douai,Sochaux,Montpellier,2011,French
+15,15,Jonathan Tinhan,FRA,M,1.78,69,01-06-89,Echirolles,Grenoble,Montpellier,2011,French
+16,16,Geoffrey Jourdren,FRA,G,1.81,73,04-02-86,Paris,None,Montpellier,2011,French
+17,17,Olivier Giroud,FRA,F,1.92,88,30-09-86,Chambéry,Tours,Montpellier,2011,French
+18,18,Karim Aït-Fana,MAR,F,1.75,65,25-02-89,Limoges,None,Montpellier,2011,French
+19,19,Souleymane Camara,SEN,F,1.74,72,22-12-82,Dakar,Nice,Montpellier,2011,French
+20,20,Rémy Cabella,FRA,M,1.71,62,08-03-90,Ajaccio,None,Montpellier,2011,French
+21,21,Abdelhamid El Kaoutari,MAR,D,1.80,73,17-03-90,Montpellier,None,Montpellier,2011,French
+22,22,Benjamin Stambouli,FRA,D,1.80,75,13-08-90,Marseille,None,Montpellier,2011,French
+23,23,Jamel Saihi,TUN,M,1.81,73,27-01-87,Montpellier,None,Montpellier,2011,French
+25,25,Mathieu Deplagne,FRA,D,1.80,66,01-10-91,Montpellier,None,Montpellier,2011,French
+27,27,Cyril Jeunechamp,FRA,D,1.77,68,18-12-75,Nîmes,Nice,Montpellier,2011,French
+30,30,Jonathan Ligali,FRA,G,1.83,82,28-05-91,Montpellier,None,Montpellier,2011,French
+40,40,Baptiste Valette,FRA,G,1.85,80,01-09-92,Sète,None,Montpellier,2011,French
+1,1,Guy Rolland Ndy Assembé,CMR,G,1.84,79,28-02-86,Yaoundé,Nantes,Nancy,2011,French
+2,2,Helder,BRA,D,1.75,70,13-04-88,Ribeirão Preto,Juventude,Nancy,2011,French
+3,3,Joël Sami,COD,D,1.90,85,13-11-84,Montfermeil,Amiens,Nancy,2011,French
+4,4,Jordan Lotiès,FRA,D,1.87,77,05-08-84,Clermont-Ferrand,Dijon,Nancy,2011,French
+5,5,André Luiz,BRA,D,1.85,84,27-01-80,São João del Rei,Atlético Mineiro,Nancy,2011,French
+6,6,Thomas Mangani,FRA,D,1.82,79,29-04-87,Carpentras,Monaco,Nancy,2011,French
+8,8,Yohan Mollo,FRA,M,1.75,74,18-07-89,Martigues,Granada,Nancy,2011,French
+9,9,Benjamin Moukandjo,CMR,F,1.79,76,12-11-88,Douala,Monaco,Nancy,2011,French
+10,10,Benjamin Jeannot,FRA,F,1.81,73,22-01-92,Laxou,None,Nancy,2011,French
+11,11,Djamel Bakar,FRA,M,1.71,67,06-04-89,Marseille,Monaco,Nancy,2011,French
+12,12,Bakaye Traoré,MLI,M,1.85,74,06-03-85,Bondy,Amiens,Nancy,2011,French
+13,13,Jean Calvé,FRA,D,1.83,78,30-04-84,Cormeilles-en-Parisis,Le Mans,Nancy,2011,French
+15,15,Ziri Hammar,ALG,M,1.80,74,25-07-92,Akbou,None,Nancy,2011,French
+16,16,Damien Gregorini,FRA,G,1.94,90,02-03-79,Nice,Nice,Nancy,2011,French
+17,17,Massadio Haïdara,SEN,D,1.79,75,02-12-92,Trappes,None,Nancy,2011,French
+18,18,Lossemy Karaboué,FRA,F,1.70,70,18-03-88,Paris,Sedan,Nancy,2011,French
+19,19,Jung Jo-Gook,KOR,F,1.86,78,23-04-84,Buan,Auxerre,Nancy,2011,French
+20,20,Daniel Niculae,ROU,F,1.85,76,06-10-82,Bucharest,Monaco,Nancy,2011,French
+22,22,Moustapha Bayal Sall,SEN,D,1.90,90,30-11-85,Dakar,St-Etienne,Nancy,2011,French
+25,25,Reynald Lemaître,FRA,M,1.75,66,28-06-83,Chambray-lès-Tours,Caen,Nancy,2011,French
+26,26,Salif Sané,FRA,D,1.94,78,25-08-90,Lormont,Bordeaux,Nancy,2011,French
+28,28,Sébastien Puygrenier,FRA,D,1.86,88,28-01-82,Limoges,Zenit St Petersburg,Nancy,2011,French
+30,30,Rémi Pillot,FRA,G,1.87,80,27-07-90,Besançon,None,Nancy,2011,French
+33,33,Junior Joachim,FRA,F,1.79,76,13-05-92,Ulis,None,Nancy,2011,French
+40,40,Paul Nardi,FRA,G,1.87,77,18-05-94,Vesoul,None,Nancy,2011,French
+1,1,David Ospina,COL,G,1.81,76,31-08-88,Medellín,Atlético Nacional,Nice,2011,French
+2,2,Renato Civelli,ARG,D,1.93,89,14-10-83,Pehuajó,San Lorenzo,Nice,2011,French
+4,4,Nemanja Pejčinović,SRB,D,1.85,84,04-11-87,Kragujevac,Rad,Nice,2011,French
+5,5,Kevin Gomis,FRA,D,1.86,85,20-01-89,Paris,Naval,Nice,2011,French
+6,6,Didier Digard,FRA,M,1.83,76,12-07-86,Gisors,Middlesbrough,Nice,2011,French
+7,7,Fabrice Abriel,FRA,M,1.76,69,06-07-79,Surennes,Marseille,Nice,2011,French
+8,8,David Hellebuyck,FRA,M,1.78,73,12-05-79,Nantua,Paris St-Germain,Nice,2011,French
+9,9,Xavier Pentecôte,FRA,F,1.80,77,13-08-86,St Dié,Toulouse,Nice,2011,French
+10,10,Camel Meriem,FRA,M,1.74,70,18-10-79,Audincourt,Arles-Avignon,Nice,2011,French
+11,11,Eric Mouloungui,GAB,F,1.86,73,01-04-84,Port-Gentil,Strasbourg,Nice,2011,French
+12,12,Elliot Grandin,FRA,F,1.78,67,17-10-87,Caen,Blackpool,Nice,2011,French
+14,14,Emerse Faé,CIV,M,1.74,71,24-01-84,Nantes,Reading,Nice,2011,French
+15,15,Kafoumba Coulibaly,CIV,M,1.79,74,26-10-85,Abidjan,Bastia,Nice,2011,French
+16,16,Raúl Fernández,PER,G,1.84,81,06-10-85,Lima,Universitario de Deportes,Nice,2011,French
+17,17,Kévin Anin,FRA,M,1.89,80,05-07-86,Le Havre,Sochaux,Nice,2011,French
+18,18,Fabián Monzón,ARG,D,1.79,75,13-04-87,Granadero Baigorria,Boca Juniors,Nice,2011,French
+19,19,Franck Dja Djedje,CIV,F,1.76,70,02-06-86,Abidjan,Arles-Avignon,Nice,2011,French
+20,20,Abraham Guie Guie,CIV,F,1.80,70,25-07-86,San Pedro,Tours,Nice,2011,French
+21,21,Lloyd Palun,GAB,M,1.84,73,28-11-88,Arles,Trinité FC,Nice,2011,French
+22,22,Kévin Malaga,FRA,D,1.89,81,24-06-87,Toulon,Auxerre,Nice,2011,French
+23,23,Drissa Diakité,MLI,M,1.75,69,18-02-85,Bamako,MC Alger,Nice,2011,French
+24,24,Esmael Gonçalves,GNB,F,1.84,73,25-06-91,Bissau,None,Nice,2011,French
+26,26,Anthony Mounier,FRA,F,1.74,65,27-09-87,Aubenas,Lyon,Nice,2011,French
+27,27,Julien Sablé,FRA,M,1.81,73,11-09-80,Marseille,Lens,Nice,2011,French
+29,29,François Clerc,FRA,D,1.86,77,18-04-83,Bourg en Bresse,Lyon,Nice,2011,French
+30,30,Lucas Veronese,FRA,G,1.87,70,06-02-91,Cagnes-sur-Mer,None,Nice,2011,French
+33,33,Stéphane Bahoken,CMR,F,1.85,86,28-05-92,Grasse,None,Nice,2011,French
+34,34,Alexy Bosetti,FRA,M,1.72,66,23-04-93,Nice,None,Nice,2011,French
+35,35,Diacko Fofana,FRA,D,1.75,73,29-07-94,Verdion,Rennes,Nice,2011,French
+1,1,Nicolas Douchez,FRA,G,1.85,77,22-04-80,Rasny-sous-Bois,Rennes,Paris Saint-Germain,2011,French
+2,2,Ceará,BRA,D,1.75,75,16-06-80,Crato,Internacional,Paris Saint-Germain,2011,French
+3,3,Mamadou Sakho,FRA,D,1.87,83,13-02-90,Paris,None,Paris Saint-Germain,2011,French
+4,4,Milan Bievac,SRB,D,1.85,83,31-08-83,Mitrovica,Valenciennes,Paris Saint-Germain,2011,French
+5,5,Siaka Tiéné,CIV,D,1.76,72,22-02-82,Abidjan,Valenciennes,Paris Saint-Germain,2011,French
+6,6,Zoumana Camara,FRA,D,1.82,76,03-04-79,Colombes,St-Etienne,Paris Saint-Germain,2011,French
+7,7,Jérémy Ménez,FRA,F,1.81,77,07-05-87,Longjumeau,Roma,Paris Saint-Germain,2011,French
+8,8,Péguy Luyindula,FRA,F,1.78,72,25-05-79,Kinshasa,Marseille,Paris Saint-Germain,2011,French
+9,9,Guillaume Hoarau,FRA,F,1.92,80,05-03-84,Saint Louis,Le Havre,Paris Saint-Germain,2011,French
+10,10,Nené,BRA,M,1.81,72,19-07-81,Jundiaí,Monaco,Paris Saint-Germain,2011,French
+12,12,Mathieu Bodmer,FRA,M,1.90,91,22-11-82,Evreux,Lyon,Paris Saint-Germain,2011,French
+13,13,Alex,BRA,D,1.88,92,17-06-82,Niterói,Chelsea,Paris Saint-Germain,2011,French
+14,14,Blaise Matuidi,FRA,M,1.75,70,09-04-87,Toulouse,St-Etienne,Paris Saint-Germain,2011,French
+15,15,Diego Lugano,URU,D,1.88,84,02-11-80,Canelones,Fenerbahçe,Paris Saint-Germain,2011,French
+16,16,Alphonse Aréola,FRA,G,1.90,85,27-02-93,Paris,None,Paris Saint-Germain,2011,French
+17,17,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha,Barcelona,Paris Saint-Germain,2011,French
+18,18,Loris Arnaud,FRA,F,1.82,80,16-04-87,St-Germain-en-Laye,None,Paris Saint-Germain,2011,French
+19,19,Kevin Gameiro,FRA,F,1.72,69,09-04-87,Senlis,Lorient,Paris Saint-Germain,2011,French
+20,20,Clément Chantôme,FRA,M,1.80,71,11-09-87,Sens,None,Paris Saint-Germain,2011,French
+22,22,Sylvain Armand,FRA,D,1.82,82,01-08-80,Saint-Etienne,Nantes,Paris Saint-Germain,2011,French
+23,23,Mohamed Sissoko,MLI,M,1.87,81,22-01-85,Mont Saint Agnain,Juventus,Paris Saint-Germain,2011,French
+25,25,Jean-Christophe Bahebeck,FRA,F,1.82,70,01-05-93,Saint-Denis,None,Paris Saint-Germain,2011,French
+26,26,Christophe Jallet,FRA,D,1.78,65,31-10-83,Cognac,Lorient,Paris Saint-Germain,2011,French
+27,27,Javier Pastore,ARG,M,1.87,75,20-06-89,Córdoba,Palermo,Paris Saint-Germain,2011,French
+28,28,Thiago Motta,ITA,M,1.88,77,28-08-82,São Bernardo do Campo,Internazionale,Paris Saint-Germain,2011,French
+29,29,Neeskens Kebano,FRA,M,1.80,75,10-03-92,Montereau,None,Paris Saint-Germain,2011,French
+30,30,Salvatore Sirigu,ITA,G,1.90,80,12-01-87,Nuoro,Palermo,Paris Saint-Germain,2011,French
+40,40,Ronan Le Crom,FRA,G,1.86,77,13-07-74,Lorient,Nancy,Paris Saint-Germain,2011,French
+1,1,Benoît Costil,FRA,G,1.87,83,03-07-87,Caen,Sedan,Rennes,2011,French
+2,2,Kévin Theophile Catherine,FRA,M,1.80,77,28-10-89,Saint Brieuc,None,Rennes,2011,French
+3,3,Chris Mavinga,FRA,D,1.83,78,26-05-91,Meaux,Liverpool,Rennes,2011,French
+4,4,Onyekachi Apam,NGA,D,1.77,67,30-12-85,Aba,Nice,Rennes,2011,French
+5,5,Kader Mangane,SEN,D,1.93,87,23-03-83,Thiès,Lens,Rennes,2011,French
+6,6,Alexander Tettey,NOR,M,1.80,68,04-04-86,Accra,Rosenborg,Rennes,2011,French
+7,7,Jonathan Pitroipa,BFA,M,1.76,56,12-04-86,Ouagadougou,Hamburg,Rennes,2011,French
+8,8,Julien Féret,FRA,M,1.87,74,05-07-82,Saint Brieuc,Nancy,Rennes,2011,French
+9,9,Mevlüt Erdinç,TUR,F,1.81,85,25-02-87,Saint-Claude,Paris St-Germain,Rennes,2011,French
+10,10,Stéphane Dalmat,FRA,M,1.80,76,16-02-79,Tours,Sochaux,Rennes,2011,French
+11,11,Jirès Kembo Ekoko,COD,F,1.78,78,08-01-88,Kinshasa,None,Rennes,2011,French
+12,12,Abdoulrazak Boukari,TOG,M,1.82,70,25-04-87,Lomé,Lens,Rennes,2011,French
+15,15,Jean-Armel Kana-Biyik,CMR,D,1.83,86,03-07-89,Metz,Le Havre,Rennes,2011,French
+16,16,Abdoulaye Diallo,FRA,G,1.89,80,30-03-92,Reims,None,Rennes,2011,French
+17,17,Yann M'Vila,FRA,M,1.82,80,29-06-90,Amiens,None,Rennes,2011,French
+19,19,Youssouf Hadji,MAR,M,1.83,78,25-02-80,Ifrane,Nice,Rennes,2011,French
+20,20,Yacine Brahimi,FRA,F,1.75,65,08-02-90,Paris,None,Rennes,2011,French
+21,21,Victor Hugo Montaño,COL,F,1.77,76,01-05-84,Cali,Montpellier,Rennes,2011,French
+22,22,Yassine Jebbour,MAR,D,1.80,70,24-08-91,Poitiers,None,Rennes,2011,French
+23,23,Kamal Issah,GHA,M,1.78,66,30-08-92,Accra,Liberty Professionals,Rennes,2011,French
+24,24,Dimitri Foulquier,FRA,D,1.83,77,23-03-93,Sarcelles,None,Rennes,2011,French
+25,25,John Boye,GHA,D,1.84,69,23-04-87,Accra,Heart of Lions,Rennes,2011,French
+26,26,Vincent Pajot,FRA,M,1.76,64,19-08-90,Domont,None,Rennes,2011,French
+28,28,Tongo Doumbia,MLI,M,1.90,79,06-08-89,Vernon,Châteauroux,Rennes,2011,French
+29,29,Romain Danze,FRA,M,1.84,72,03-07-86,Douarnenez,None,Rennes,2011,French
+30,30,Cheikh N'Diaye,SEN,G,1.91,82,15-02-85,Dakar,Noisy-le-Sec,Rennes,2011,French
+1,1,Stéphane Ruffier,FRA,G,1.87,89,27-09-86,Bayonne,Monaco,Saint-Etienne,2011,French
+4,4,Kurt Zouma,FRA,D,1.87,85,27-10-94,Lyon,None,Saint-Etienne,2011,French
+5,5,Sylvain Marchal,FRA,D,1.84,80,10-02-80,Langres,Lorient,Saint-Etienne,2011,French
+6,6,Sylvain Monsoreau,FRA,D,1.86,80,20-03-81,Saint-Cyr-L'Ecole,Monaco,Saint-Etienne,2011,French
+7,7,Pierre-Emerick Aubameyang,GAB,F,1.85,74,18-06-89,Laval,Milan,Saint-Etienne,2011,French
+8,8,Alejandro Alonso,ARG,M,1.70,68,03-03-82,Buenos Aires,Monaco,Saint-Etienne,2011,French
+9,9,Max Gradel,CIV,M,1.80,70,30-11-87,Abidjan,Leeds U,Saint-Etienne,2011,French
+10,10,Laurent Batlles,FRA,M,1.74,68,23-09-75,Nantes,Grenoble,Saint-Etienne,2011,French
+11,11,Jérémy Clément,FRA,M,1.74,61,26-08-84,Béziers,Paris St-Germain,Saint-Etienne,2011,French
+12,12,Jean-Pascal Mignot,FRA,D,1.83,75,26-02-81,Rouen,Auxerre,Saint-Etienne,2011,French
+13,13,Faouzi Ghoulam,FRA,D,1.86,78,01-02-91,Saint-Priest-en-Jarez,None,Saint-Etienne,2011,French
+14,14,Florent Sinama-Pongolle,FRA,F,1.76,69,20-10-84,Saint-Pierre,Sporting CP,Saint-Etienne,2011,French
+15,15,Yoann Andreu,FRA,D,1.75,64,03-05-89,Bourg en Bresse,None,Saint-Etienne,2011,French
+18,18,Fabien Lemoine,FRA,M,1.75,67,16-03-87,Fougères,Rennes,Saint-Etienne,2011,French
+19,19,Josuha Guilavogui,FRA,M,1.87,78,19-09-90,Ollioules,None,Saint-Etienne,2011,French
+20,20,Jonathan Brison,FRA,M,1.79,73,07-02-83,Soissons,Nancy,Saint-Etienne,2011,French
+21,21,Yoric Ravet,FRA,F,1.77,72,09-12-89,Echirolles,Grenoble,Saint-Etienne,2011,French
+22,22,Danijel Aleksić,SRB,F,1.82,72,30-04-91,Pula,Genoa,Saint-Etienne,2011,French
+23,23,Albin Ebondo,FRA,D,1.83,85,23-02-84,Marseille,Toulouse,Saint-Etienne,2011,French
+24,24,Loïc Perrin,FRA,M,1.80,76,07-08-85,Saint-Etienne,None,Saint-Etienne,2011,French
+25,25,Bănel Nicoliţă,ROU,M,1.75,71,07-01-85,Făurei,Steaua Bucureşti,Saint-Etienne,2011,French
+26,26,Bakary Sako,FRA,M,1.80,76,24-04-88,Ivry-sur-Seine,Châteauroux,Saint-Etienne,2011,French
+27,27,Loris Nery,FRA,D,1.74,73,05-02-91,Saint-Etienne,None,Saint-Etienne,2011,French
+28,28,Boubacar Sanogo,CIV,F,1.88,82,17-12-82,Dimbokro,Werder Bremen,Saint-Etienne,2011,French
+29,29,Lynel Kitambala,FRA,F,1.77,72,26-10-88,Creil,Lorient,Saint-Etienne,2011,French
+30,30,Pape Abdoulaye Coulibaly,SEN,G,1.90,90,02-03-88,Tassinere,None,Saint-Etienne,2011,French
+31,31,Kevin Mayi,FRA,F,1.82,78,14-01-93,Lyon,None,Saint-Etienne,2011,French
+33,33,Ismaël Diomande,CIV,M,1.80,75,28-08-92,Abidjan,None,Saint-Etienne,2011,French
+1,1,Pierrick Cros,FRA,G,1.85,75,23-06-91,Albi,None,Sochaux,2011,French
+2,2,Sébastien Corchia,FRA,D,1.74,65,01-11-90,Noisy-le-Sec,Le Mans,Sochaux,2011,French
+3,3,Yaya Banana,CMR,D,1.92,88,09-07-91,Maroua,Espérance,Sochaux,2011,French
+4,4,Thierry Doubaï,CIV,M,1.78,74,01-07-88,Yamoussoukro,Udinese,Sochaux,2011,French
+5,5,Carlão,BRA,M,1.82,73,19-01-86,São Paulo,Corinthians,Sochaux,2011,French
+7,7,Rafael Dias,POR,M,1.80,71,29-01-91,Covilhã,None,Sochaux,2011,French
+8,8,Abdoul Razzagui Camara,GUI,F,1.77,70,20-02-90,Mamar,Rennes,Sochaux,2011,French
+9,9,Sloan Privat,FRA,F,1.86,83,24-07-89,Cayenne,None,Sochaux,2011,French
+10,10,Ryad Boudebouz,ALG,M,1.72,59,19-02-90,Colmar,None,Sochaux,2011,French
+11,11,Yassin Mikari,TUN,D,1.73,66,09-01-83,Zürich,Grasshoppers,Sochaux,2011,French
+12,12,Charlie Davies,USA,F,1.78,74,25-06-86,"Manchester, NH",Hammarby IF,Sochaux,2011,French
+13,13,Jérémie Brechet,FRA,D,1.87,77,14-08-79,Lyon,PSV Eindhoven,Sochaux,2011,French
+14,14,Marvin Martin,FRA,M,1.71,63,10-06-88,Paris,None,Sochaux,2011,French
+15,15,Modibo Maïga,MLI,F,1.85,76,03-09-86,Bamako,Le Mans,Sochaux,2011,French
+16,16,Teddy Richert,FRA,G,1.82,78,21-09-74,Avignon,Bordeaux,Sochaux,2011,French
+17,17,Petrus Boumal,CMR,M,1.76,74,20-04-93,Yaoundé,None,Sochaux,2011,French
+18,18,Sébastien Roudet,FRA,M,1.80,67,16-06-81,Montluçon,Lens,Sochaux,2011,French
+19,19,Steven Mouyokolo,FRA,D,1.90,85,24-01-87,Melun,Wolverhampton W,Sochaux,2011,French
+20,20,Edouard Butin,FRA,F,1.80,74,16-06-88,Dole,None,Sochaux,2011,French
+21,21,Vincent Nogueira,FRA,M,1.70,60,16-01-88,Besançon,None,Sochaux,2011,French
+22,22,Cédric Bakambu,FRA,F,1.80,70,11-04-91,Ivry-sur-Seine,None,Sochaux,2011,French
+23,23,David Sauget,FRA,D,1.75,69,23-11-79,Champagnole,Grenoble,Sochaux,2011,French
+24,24,Damien Perquis,POL,D,1.84,80,10-04-84,Troyes,St-Etienne,Sochaux,2011,French
+25,25,Lionel Zouma,FRA,D,1.90,73,10-09-93,Lyon,None,Sochaux,2011,French
+26,26,Serdar Gürler,TUR,F,1.73,72,14-09-91,Haguenau,None,Sochaux,2011,French
+27,27,Loïc Poujol,FRA,M,1.88,86,27-02-89,Rodez,None,Sochaux,2011,French
+28,28,King Osanga,NGA,F,1.68,68,06-10-90,Jos,Étoile du Sahel,Sochaux,2011,French
+29,29,Mathieu Peybernes,FRA,D,1.84,80,21-10-90,Toulouse,None,Sochaux,2011,French
+30,30,Papa Demba Camara,SEN,G,1.95,70,16-01-93,Dakar,Étoile Lusitana,Sochaux,2011,French
+31,31,Joseph Romeric Lopy,SEN,M,1.81,68,15-03-92,Boutoupa,None,Sochaux,2011,French
+32,32,Sanjin Prcić,BIH,M,1.81,73,20-11-93,Belfort,None,Sochaux,2011,French
+34,34,Jérôme Roussillon,FRA,D,1.75,75,06-01-93,Sarcelles,None,Sochaux,2011,French
+40,40,Yoann Collas,FRA,G,1.88,85,16-06-92,Ambilly,None,Sochaux,2011,French
+1,1,Rémy Riou,FRA,G,1.91,81,06-08-87,Lyon,Auxerre,Toulouse,2011,French
+2,2,Mohamed Fofana,MLI,D,1.81,75,07-03-85,Gonesse,None,Toulouse,2011,French
+3,3,Daniel Congré,FRA,D,1.84,79,05-04-85,Toulouse,None,Toulouse,2011,French
+4,4,Jean-Daniel Akpa Akpro,CIV,M,1.80,66,11-10-92,Toulouse,None,Toulouse,2011,French
+5,5,Paulo Machado,POR,M,1.74,74,31-03-86,Cerco,FC Porto,Toulouse,2011,French
+6,6,Antoine Devaux,FRA,M,1.85,70,21-02-85,Dieppe,Boulogne,Toulouse,2011,French
+7,7,Umut Bulut,TUR,F,1.84,75,15-03-83,Yeşilhisar,Trabzonspor,Toulouse,2011,French
+8,8,Etienne Didot,FRA,M,1.75,65,24-07-83,Paimpol,Rennes,Toulouse,2011,French
+9,9,Emmanuel Riviere,FRA,F,1.82,76,03-03-90,Lamentin,St-Etienne,Toulouse,2011,French
+10,10,Franck Tabanou,FRA,M,1.78,70,30-01-89,Thiais,None,Toulouse,2011,French
+12,12,Cheikh M'Bengué,SEN,D,1.83,75,23-07-88,Toulouse,None,Toulouse,2011,French
+14,14,François Sirieix,FRA,M,1.80,72,07-10-80,Bordeaux,Auxerre,Toulouse,2011,French
+15,15,Mickaël Firmin,FRA,D,1.85,72,21-09-90,Rodez,None,Toulouse,2011,French
+16,16,Marc Vidal,FRA,G,1.87,80,03-06-91,Saint-Affrique,None,Toulouse,2011,French
+17,17,Adrien Regattin,MAR,M,1.66,67,22-08-91,Sète,Sète,Toulouse,2011,French
+19,19,Serge Aurier,CIV,D,1.75,75,24-12-92,Abidjan,Lens,Toulouse,2011,French
+22,22,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil,None,Toulouse,2011,French
+23,23,Aymen Abdennour,TUN,D,1.87,84,06-08-89,Sousse,Étoile du Sahel,Toulouse,2011,French
+24,24,Pavle Ninkov,SRB,D,1.83,81,20-04-85,Belgrade,Crvena Zvezda,Toulouse,2011,French
+25,25,Daniel Braaten,NOR,M,1.84,85,25-05-82,Oslo,Bolton W,Toulouse,2011,French
+26,26,Wissam Ben Yedder,FRA,M,1.70,68,12-08-90,Sarcelles,Alfortville,Toulouse,2011,French
+29,29,Etienne Capoue,FRA,M,1.89,80,11-07-88,Niort,None,Toulouse,2011,French
+30,30,Yohann Pelé,FRA,G,1.96,89,04-11-82,Brou-sur-Chantereine,Le Mans,Toulouse,2011,French
+33,33,Hendrick Cakin,FRA,M,1.78,70,06-01-92,Sarcelles,None,Toulouse,2011,French
+34,34,Steeve Yago,BFA,D,1.78,75,16-12-92,Sarcelles,None,Toulouse,2011,French
+35,35,Amadou Soukouna,FRA,F,1.82,76,21-06-92,Paris,None,Toulouse,2011,French
+36,36,Yannick Aguemon,FRA,F,1.80,74,11-02-92,Cotonou,None,Toulouse,2011,French
+40,40,Ali Ahamada,FRA,G,1.89,83,19-08-91,Martigues,None,Toulouse,2011,French
+1,1,Nicolas Penneteau,FRA,G,1.85,78,28-02-81,Marseille,Bastia,Valenciennes,2011,French
+2,2,David Ducourtioux,FRA,D,1.77,68,11-04-78,Limoges,Sedan,Valenciennes,2011,French
+3,3,Christopher Mfuyi,CGO,D,1.84,75,03-07-89,Geneva,Servette,Valenciennes,2011,French
+4,4,Gil,BRA,D,1.90,89,12-06-87,Campos dos Goytacazes,Cruzeiro,Valenciennes,2011,French
+6,6,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,River Plate [URU],Valenciennes,2011,French
+7,7,Duan Djurić,SWE,M,1.81,77,16-09-84,Loznica,Zürich,Valenciennes,2011,French
+8,8,Gaël Danic,FRA,M,1.76,65,19-11-81,Vannes,Troyes,Valenciennes,2011,French
+9,9,Vincent Aboubakar,CMR,F,1.82,78,22-01-92,Garoua,Cotonsport Garoua,Valenciennes,2011,French
+10,10,Mathieu Dossevi,FRA,M,1.72,65,12-02-88,Chambray-les-Tours,Le Mans,Valenciennes,2011,French
+12,12,Rémi Gomis,SEN,M,1.80,64,14-02-84,Versailles,Caen,Valenciennes,2011,French
+13,13,Mody Traoré,FRA,D,1.73,70,14-07-80,Metz,Nancy,Valenciennes,2011,French
+14,14,Foued Kadir,ALG,M,1.79,68,05-12-83,Martigues,Amiens,Valenciennes,2011,French
+15,15,Nicolas Isimat-Mirin,FRA,D,1.87,83,15-11-91,Meudon-la-Forêt,Rennes,Valenciennes,2011,French
+16,16,Jean-Louis Leca,FRA,G,1.77,65,21-09-85,Bastia,Bastia,Valenciennes,2011,French
+18,18,Kenny Lala,FRA,D,1.87,83,03-10-91,VIllepinte,Paris FC,Valenciennes,2011,French
+19,19,Pape Abdou Camara,SEN,M,1.90,80,24-09-91,Dakar,Standard Liège,Valenciennes,2011,French
+20,20,Angoua Brou Benjamin,CIV,D,1.78,69,28-11-86,Anyama,Honvéd,Valenciennes,2011,French
+23,23,José Saez,FRA,M,1.70,63,07-05-82,Memin,Angers,Valenciennes,2011,French
+24,24,Gaëtan Bong,CMR,D,1.83,74,25-04-88,Sakbayeme,Metz,Valenciennes,2011,French
+25,25,Rudy Mater,FRA,D,1.78,70,13-10-80,Valenciennes,Cannes,Valenciennes,2011,French
+26,26,Renaud Cohade,FRA,M,1.80,74,29-09-84,Aubenas,Strasbourg,Valenciennes,2011,French
+27,27,Mamadou Samassa,MLI,F,1.88,84,01-05-86,Montfermeil,Marseille,Valenciennes,2011,French
+28,28,Grégory Pujol,FRA,F,1.83,70,25-01-80,Paris,Sedan,Valenciennes,2011,French
+30,30,Arnaud Brocard,FRA,G,1.85,77,19-08-86,Dijon,Troyes,Valenciennes,2011,French
+33,33,Marco Da Silva,FRA,M,1.82,72,10-04-92,Compiègne,Compiègne,Valenciennes,2011,French

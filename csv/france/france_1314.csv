@@ -1,0 +1,548 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Guillermo Ochoa,MEX,G,1.83,73,13-07-85,Guadalajara,América,Ajaccio,2013,French
+2,2,Cédric Hengbart,FRA,D,1.83,73,13-07-80,Falaise,Auxerre,Ajaccio,2013,French
+3,3,Grenddy Perozo,VEN,D,1.82,81,28-02-86,Maracaibo,Deportivo Táchira,Ajaccio,2013,French
+4,4,Ricardo Faty,SEN,M,1.92,81,04-08-86,Villeneuve-St-Georges,Aris,Ajaccio,2013,French
+5,5,Denis Tonucci,ITA,D,1.82,78,06-09-88,Pesaro,Cesena,Ajaccio,2013,French
+6,6,Ronald Zubar,FRA,D,1.86,80,20-09-85,Les Abymes,Wolverhampton W,Ajaccio,2013,French
+7,7,Benjamin André,FRA,M,1.77,68,03-08-90,Nice,None,Ajaccio,2013,French
+11,11,Sigamary Diarra,MLI,M,1.74,71,10-01-84,Villepinte,Lorient,Ajaccio,2013,French
+13,13,Aboubacar Camara,GUI,F,1.85,77,07-11-94,Conakry,Satellite,Ajaccio,2013,French
+14,14,Mehdi Mostefa Sbaa,ALG,M,1.81,82,30-08-83,Dijon,Nîmes,Ajaccio,2013,French
+15,15,Claude Dielna,FRA,D,1.84,80,14-12-87,Clichy-la-Garenne,Olympiakos,Ajaccio,2013,French
+16,16,Oumar Sissoko,MLI,G,1.87,84,13-09-87,Montreuil-sous-Bois,Metz,Ajaccio,2013,French
+17,17,Laurent Bonnart,FRA,D,1.71,62,25-12-79,Chambray-lès-Tours,Lille,Ajaccio,2013,French
+18,18,Johan Cavalli,FRA,M,1.70,65,12-09-81,Ajaccio,Nîmes,Ajaccio,2013,French
+19,19,Paul Lasne,FRA,M,1.83,72,16-01-89,Saint-Cloud,Bordeaux,Ajaccio,2013,French
+22,22,Gadji Celi Junior Tallo,CIV,M,1.87,77,21-12-92,Ouragahio,Roma,Ajaccio,2013,French
+23,23,Joshua Nadeau,FRA,D,1.84,79,12-09-94,Paris,None,Ajaccio,2013,French
+24,24,Claude Gonçalves,FRA,M,1.73,62,09-04-94,Ajaccio,None,Ajaccio,2013,French
+27,27,Yuriy Yakovenko,UKR,F,1.94,75,03-09-93,Montbéliard,Dnipro Dnipropetrovsk-2,Ajaccio,2013,French
+28,28,Benoît Pedretti,FRA,M,1.77,69,12-11-80,Audincourt,Lille,Ajaccio,2013,French
+29,29,Dennis Oliech,KEN,F,1.81,80,02-02-85,Nairobi,Auxerre,Ajaccio,2013,French
+30,30,Anthony Scribe,FRA,G,1.92,92,01-01-88,Saint-Germain-en-Laye,USC Corte,Ajaccio,2013,French
+33,33,Cédric Orengo,FRA,D,1.70,61,15-09-95,,None,Ajaccio,2013,French
+34,34,Nordine Ait Yahya,MAR,D,1.72,67,10-07-92,Porto-Vecchio,None,Ajaccio,2013,French
+35,35,Mickaël Leca,FRA,D,1.82,76,04-07-94,Ajaccio,None,Ajaccio,2013,French
+36,36,Issa Baradji,FRA,F,1.86,80,15-06-95,,None,Ajaccio,2013,French
+37,37,Julien Remiti,FRA,M,1.75,62,07-09-94,Ajaccio,None,Ajaccio,2013,French
+1,1,Mickaël Landreau,FRA,G,1.84,80,14-05-79,Machecoul,Lille,Bastia,2013,French
+5,5,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon,Arsenal,Bastia,2013,French
+6,6,N'Dri Romaric,CIV,M,1.87,88,04-06-83,Abidjan,Zaragoza,Bastia,2013,French
+7,7,Milo Krasić,SRB,M,1.86,78,01-11-84,Belgrade,Fenerbahçe,Bastia,2013,French
+8,8,Toifilou Maoulida,FRA,F,1.84,77,08-06-79,Dzaoudzi,Lens,Bastia,2013,French
+9,9,Gianni Bruno,BEL,F,1.78,64,19-08-91,Rocourt,Lille,Bastia,2013,French
+10,10,Wahbi Khazri,TUN,M,1.82,78,08-02-91,Ajaccio,None,Bastia,2013,French
+12,12,Djibril Cissé,FRA,F,1.82,78,12-08-81,Arles,Kuban Krasnodar,Bastia,2013,French
+13,13,Ryad Boudebouz,ALG,M,1.72,59,19-02-90,Colmar,Sochaux,Bastia,2013,French
+15,15,Julian Palmieri,FRA,M,1.70,66,17-12-86,Lyon,Istres,Bastia,2013,French
+16,16,Jean-Louis Leca,FRA,G,1.77,65,21-09-85,Bastia,Valenciennes,Bastia,2013,French
+17,17,Florian Raspentino,FRA,F,1.79,73,06-06-89,Marignane,Marseille,Bastia,2013,French
+18,18,Yannick Cahuzac,FRA,M,1.78,66,18-01-85,Ajaccio,None,Bastia,2013,French
+19,19,Adama Ba,MTN,F,1.79,68,27-08-93,Sélibaby,Brest,Bastia,2013,French
+20,20,François Modestó,FRA,D,1.83,80,19-08-78,Bastia,Olympiakos,Bastia,2013,French
+21,21,Féthi Harek,FRA,D,1.75,61,21-10-82,Oullins,Rodez,Bastia,2013,French
+22,22,Sambou Yatabaré,MLI,M,1.90,82,02-03-89,Beauvais,Olympiakos,Bastia,2013,French
+23,23,Drissa Diakité,MLI,M,1.75,69,18-02-85,Bamako,Olympiakos,Bastia,2013,French
+27,27,Julien Sablé,FRA,M,1.81,73,11-09-80,Marseille,Nice,Bastia,2013,French
+28,28,Ilan,BRA,F,1.81,76,18-09-80,Curitiba,Ajaccio,Bastia,2013,French
+29,29,Gilles Cioni,FRA,D,1.65,65,14-06-84,Bastia,Paris FC,Bastia,2013,French
+30,30,Thomas Vincensini,FRA,G,1.90,73,12-09-93,Bastia,None,Bastia,2013,French
+33,33,Romain Achilli,FRA,D,1.75,70,15-02-93,Bastia,None,Bastia,2013,French
+1,1,Abe Jug,SVN,G,1.92,91,03-03-92,Maribor,Interblock,Bordeaux,2013,French
+3,3,Henrique,BRA,D,1.88,78,02-05-83,São Gonçalo,Flamengo,Bordeaux,2013,French
+5,5,Jérémie Brechet,FRA,D,1.87,77,14-08-79,Lyon,Troyes,Bordeaux,2013,French
+6,6,Lamine Sané,SEN,D,1.92,77,22-03-87,Villeneuve-sur-Lot,None,Bordeaux,2013,French
+7,7,Landry N'Guemo,CMR,M,1.73,70,28-11-85,Yaoundé,Nancy,Bordeaux,2013,French
+9,9,Diego Rolán,URU,F,1.78,74,24-03-93,Montevideo,Defensor Sporting,Bordeaux,2013,French
+10,10,Henri Saivet,SEN,F,1.73,70,26-10-90,Dakar,None,Bordeaux,2013,French
+11,11,David Bellion,FRA,F,1.81,72,27-11-82,Paris,Nice,Bordeaux,2013,French
+13,13,Guillaume Hoarau,FRA,F,1.92,80,05-03-84,Saint Louis,Dalian Aerbin,Bordeaux,2013,French
+14,14,Cheikh Diabaté,MLI,F,1.94,84,25-04-88,Bamako,None,Bordeaux,2013,French
+15,15,Younès Kaabouni,FRA,M,1.79,67,23-05-95,Bordeaux,None,Bordeaux,2013,French
+16,16,Cédric Carrasso,FRA,G,1.87,87,30-12-81,Avignon,Toulouse,Bordeaux,2013,French
+17,17,André Biyogo Poko,GAB,M,1.73,72,01-01-93,Bitam,US Bitam,Bordeaux,2013,French
+19,19,Nicolas Maurice-Belay,FRA,M,1.82,76,19-04-85,Sucy-en-Brie,Sochaux,Bordeaux,2013,French
+20,20,Jussiê,BRA,F,1.80,76,19-09-83,Nova Venécia,Lens,Bordeaux,2013,French
+21,21,Mathieu Chalmé,FRA,D,1.75,72,07-10-80,Bruges,Lille,Bordeaux,2013,French
+22,22,Julien Faubert,FRA,M,1.80,75,01-08-83,Le Havre,Elazığspor,Bordeaux,2013,French
+23,23,Lucas Orban,ARG,D,1.84,76,03-02-89,Capital Federal,Tigre,Bordeaux,2013,French
+24,24,Abdou Traoré,MLI,M,1.79,73,17-01-88,Bamako,None,Bordeaux,2013,French
+25,25,Mariano,BRA,D,1.77,70,23-06-86,São João,Fluminense,Bordeaux,2013,French
+26,26,Grégory Sertic,FRA,M,1.81,69,05-08-89,Brétigny-sur-Orge,None,Bordeaux,2013,French
+27,27,Marc Planus,FRA,D,1.83,76,07-03-82,Bordeaux,None,Bordeaux,2013,French
+29,29,Maxime Poundjé,FRA,D,1.79,71,16-08-92,Bordeaux,None,Bordeaux,2013,French
+30,30,Kévin Olimpa,FRA,G,1.86,81,10-03-88,Paris,None,Bordeaux,2013,French
+31,31,David Djigla,BEN,F,1.80,78,23-08-95,Avakpa,Onze Créateurs de Niaréla,Bordeaux,2013,French
+33,33,Enzo Crivelli,FRA,F,1.84,79,06-02-95,Rouen,None,Bordeaux,2013,French
+34,34,Thomas Touré,FRA,F,1.75,75,27-12-93,Grasse,None,Bordeaux,2013,French
+35,35,Sessi D'Almeida,FRA,M,1.77,69,20-11-95,Bordeaux,None,Bordeaux,2013,French
+37,37,Théo Pellenard,FRA,D,1.82,71,04-03-94,Lille,None,Bordeaux,2013,French
+1,1,Johann Durand,FRA,G,1.82,71,17-06-81,Evian,Gaillard,Évian Thonon Gaillard,2013,French
+2,2,Kassim Abdallah,FRA,D,1.89,76,09-04-87,Marseille,Marseille,Évian Thonon Gaillard,2013,French
+4,4,Éric Tié Bi,CIV,M,1.79,76,20-07-90,Bediala,Lyon,Évian Thonon Gaillard,2013,French
+5,5,Diaranké Fofana,FRA,D,1.94,92,14-07-89,Montreuil,USC Corte,Évian Thonon Gaillard,2013,French
+6,6,Djakaridja Koné,BFA,M,1.83,75,22-07-86,Abidjan,Dinamo Bucureşti,Évian Thonon Gaillard,2013,French
+7,7,Facundo Bertoglio,ARG,M,1.71,66,30-06-90,San José de la Esquina,Dynamo Kyiv,Évian Thonon Gaillard,2013,French
+8,8,Najib Baouia,ALG,M,1.65,65,25-02-92,El Meghaier,None,Évian Thonon Gaillard,2013,French
+9,9,Kévin Bérigaud,FRA,F,1.78,69,03-03-84,Thonon-les-Bains,Servette,Évian Thonon Gaillard,2013,French
+10,10,Nicolas Benezet,FRA,F,1.72,61,24-02-91,Montpellier,Nîmes,Évian Thonon Gaillard,2013,French
+11,11,Ilan Boccara,NED,M,1.78,68,14-05-93,Boulogne-Billancourt,Ajax,Évian Thonon Gaillard,2013,French
+12,12,Maxime Blanc,FRA,M,1.67,57,23-01-92,Avignon,None,Évian Thonon Gaillard,2013,French
+13,13,Túlio De Melo,BRA,F,1.93,83,31-01-85,Montes Claros,Lille,Évian Thonon Gaillard,2013,French
+14,14,Cédric Barbosa,FRA,M,1.79,67,06-03-76,Aubenas,Metz,Évian Thonon Gaillard,2013,French
+16,16,Bertrand Laquait,FRA,G,1.84,78,13-04-77,Vichy,Charleroi,Évian Thonon Gaillard,2013,French
+17,17,Aldo Angoula,FRA,D,1.84,82,04-05-81,Le Havre,Boulogne,Évian Thonon Gaillard,2013,French
+18,18,Daniel Wass,DEN,D,1.81,74,31-05-89,Gladsaxe,Benfica,Évian Thonon Gaillard,2013,French
+19,19,Youssouf Sabaly,FRA,D,1.74,71,05-03-93,Chesnay,Paris St-Germain,Évian Thonon Gaillard,2013,French
+20,20,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,Marseille,Évian Thonon Gaillard,2013,French
+21,21,Cédric Mongongu,COD,D,1.89,76,22-06-89,Kinshasa,Monaco,Évian Thonon Gaillard,2013,French
+22,22,Cédric Cambon,FRA,M,1.84,76,20-09-86,Montpellier,Litex Lovech,Évian Thonon Gaillard,2013,French
+24,24,Olivier Sorlin,FRA,M,1.82,77,09-04-79,Saint-Etienne,PAOK,Évian Thonon Gaillard,2013,French
+25,25,Jonathan Mensah,GHA,D,1.88,75,13-07-90,Accra,Udinese,Évian Thonon Gaillard,2013,French
+27,27,Clarck N'Sikulu,FRA,F,1.80,78,10-07-92,Lille,Lille,Évian Thonon Gaillard,2013,French
+28,28,Fabrice Ehret,FRA,M,1.83,76,28-09-79,Viganello,Köln,Évian Thonon Gaillard,2013,French
+29,29,Marco Rubén,ARG,F,1.79,72,26-10-86,Capitán Bermúdez,Dynamo Kyiv,Évian Thonon Gaillard,2013,French
+30,30,Jesper Hansen,DEN,G,1.88,78,31-03-85,Frederikssund,FC Nordsjælland,Évian Thonon Gaillard,2013,French
+34,34,Zakariya Abarouai,FRA,F,1.82,74,30-03-94,Lyon,Vaulx-en-Velin,Évian Thonon Gaillard,2013,French
+40,40,Mickaël Salamone,FRA,G,1.90,80,27-05-92,Villeneuve-la-Garenne,Paris St-Germain,Évian Thonon Gaillard,2013,French
+1,1,Hugo Guichard,FRA,G,1.89,77,16-05-92,Saint-Étienne,Bordeaux,Guingamp,2013,French
+3,3,Paul Babiloni,FRA,D,1.80,65,16-01-90,Limoges,None,Guingamp,2013,French
+4,4,Baïssama Sankoh,GUI,D,1.80,73,20-03-92,Nogent-sur-Marne,Sarcelles,Guingamp,2013,French
+5,5,Moustapha Diallo,SEN,M,1.88,78,14-05-86,Dakar,ASC Diaraf,Guingamp,2013,French
+6,6,Jonathan Martins Pereira,FRA,D,1.82,71,30-01-86,Bayonne,Nantes,Guingamp,2013,French
+7,7,Dorian Levêque,FRA,M,1.82,72,22-11-89,Annecy,Boulogne,Guingamp,2013,French
+8,8,Claudio Beauvue,FRA,F,1.74,66,16-04-88,Saint-Claude,Châteauroux,Guingamp,2013,French
+9,9,Mustapha Yatabaré,MLI,F,1.82,70,26-01-86,Beauvais,Boulogne,Guingamp,2013,French
+11,11,Steven Langil,FRA,M,1.78,67,04-03-88,Morne Rouge,Auxerre,Guingamp,2013,French
+12,12,Younousse Sankharé,FRA,M,1.84,76,10-09-89,Sarcelles,Dijon,Guingamp,2013,French
+13,13,Christophe Mandanne,FRA,F,1.71,62,07-02-85,Toulouse,Dijon,Guingamp,2013,French
+14,14,Ladislas Douniama,CGO,F,1.63,62,24-05-86,Brazzaville,Lorient,Guingamp,2013,French
+15,15,Jérémy Sorbon,FRA,D,1.83,79,05-08-83,Caen,Caen,Guingamp,2013,French
+16,16,Guy Rolland Ndy Assembé,CMR,G,1.84,79,28-02-86,Yaoundé,Nancy,Guingamp,2013,French
+17,17,Rachid Alioui,MAR,F,1.86,81,18-06-92,La Rochelle,None,Guingamp,2013,French
+18,18,Lionel Mathis,FRA,M,1.74,71,04-10-81,Montreuil-sous-Bois,Sochaux,Guingamp,2013,French
+19,19,Grégory Cerdan,FRA,D,1.91,86,28-07-82,Saint-Denis,Le Mans,Guingamp,2013,French
+20,20,Laurent Dos Santos,FRA,M,1.77,70,21-09-93,Montmorency,None,Guingamp,2013,French
+22,22,Arthur Delalande,FRA,D,1.86,73,18-05-92,Saint-Malo,None,Guingamp,2013,French
+23,23,Mana Dembélé,FRA,F,1.80,68,29-11-88,Ivry sur Seine,Clermont,Guingamp,2013,French
+25,25,Reynald Lemaître,FRA,M,1.75,66,28-06-83,Chambray-lès-Tours,Nancy,Guingamp,2013,French
+26,26,Thibault Giresse,FRA,M,1.72,68,25-05-81,Talence,Amiens,Guingamp,2013,French
+27,27,Mathéus Vivian,BRA,D,1.88,83,05-04-82,Caçapava do Sul,PAOK,Guingamp,2013,French
+28,28,Fatih Atik,FRA,F,1.75,70,25-06-84,Gleize,Boulogne,Guingamp,2013,French
+29,29,Christophe Kerbrat,FRA,M,1.83,74,02-08-86,Brest,Plabennec,Guingamp,2013,French
+30,30,Mamadou Samassa,MLI,G,1.91,81,16-02-90,Montreuil,None,Guingamp,2013,French
+1,1,Vincent Enyeama,NGA,G,1.80,80,29-08-82,Aba,Maccabi Tel Aviv,Lille,2013,French
+4,4,Florent Balmont,FRA,M,1.68,71,02-02-80,Sainte-Foy-les-Lyon,Nice,Lille,2013,French
+5,5,Idrissa Gueye,SEN,M,1.74,64,26-09-89,Dakar,None,Lille,2013,French
+6,6,Jonathan Delaplace,FRA,M,1.67,60,20-03-86,La Seyne-sur-Mer,Zulte-Waregem,Lille,2013,French
+7,7,John Jairo Ruiz,CRC,F,1.75,66,10-01-94,Puntarenas,Deportivo Saprissa,Lille,2013,French
+8,8,Salomon Kalou,CIV,F,1.84,77,05-08-85,Oumé,Chelsea,Lille,2013,French
+10,10,Marvin Martin,FRA,M,1.71,63,10-06-88,Paris,Sochaux,Lille,2013,French
+11,11,Ryan Mendes,CPV,F,1.75,77,08-01-90,Mindelo,Le Havre,Lille,2013,French
+12,12,Soualiho Meïté,FRA,M,1.87,80,17-03-94,Paris,Auxerre,Lille,2013,French
+13,13,Adama Soumaoro,CIV,D,1.87,75,18-06-92,Fontenay-aux-Roses,None,Lille,2013,French
+14,14,Simon Kjær,DEN,D,1.89,82,26-03-89,Horsens,Wolfsburg,Lille,2013,French
+15,15,Djibril Sidibé,FRA,D,1.82,73,29-07-92,Troyes,Troyes,Lille,2013,French
+16,16,Steeve Elana,FRA,G,1.87,85,11-07-80,Marseille,Brest,Lille,2013,French
+18,18,Franck Béria,FRA,D,1.77,75,23-05-83,Argenteuil,Metz,Lille,2013,French
+20,20,Ronny Rodelin,FRA,M,1.92,70,18-11-89,Saint-Denis de La Réunion,Nantes,Lille,2013,French
+21,21,Julian Jeanvier,FRA,D,1.83,78,31-03-92,Clichy,Nancy,Lille,2013,French
+22,22,David Rozehnal,CZE,D,1.93,77,05-07-80,ternberk,Hamburg,Lille,2013,French
+23,23,Pape N'Diaye Souaré,SEN,D,1.78,68,06-06-90,Mbao,None,Lille,2013,French
+24,24,Rio Antonio Mavuba,FRA,M,1.72,70,08-03-84,Born At Sea,Villarreal,Lille,2013,French
+25,25,Marko Baa,SRB,D,1.90,79,29-12-82,Trstenik,Lokomotiv Moscow,Lille,2013,French
+26,26,Nolan Roux,FRA,F,1.82,75,01-03-88,Compiègne,Brest,Lille,2013,French
+27,27,Divock Origi,BEL,F,1.85,75,18-04-95,Ostend,Beerschot AC,Lille,2013,French
+30,30,Barel Mouko,CGO,G,1.77,72,05-04-79,Pointe-Noire,Gueugnon,Lille,2013,French
+1,1,Baptiste Reynet,FRA,G,1.85,85,28-10-90,Romans,Dijon,Lorient,2013,French
+2,2,Lamine Koné,FRA,D,1.86,83,01-02-89,Paris,Châteauroux,Lorient,2013,French
+3,3,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Académica,Lorient,2013,French
+5,5,Bruno Ecuele Manga,GAB,D,1.86,76,16-07-88,Libreville,Angers,Lorient,2013,French
+6,6,Grégory Bourillon,FRA,D,1.87,74,01-07-84,Laval,Paris St-Germain,Lorient,2013,French
+7,7,Sadio Diallo,GUI,F,1.82,75,28-12-90,Conakry,Rennes,Lorient,2013,French
+8,8,Yann Jouffre,FRA,M,1.75,65,23-07-84,Montélimar,Guingamp,Lorient,2013,French
+9,9,Vincent Aboubakar,CMR,F,1.82,78,22-01-92,Garoua,Valenciennes,Lorient,2013,French
+10,10,Mathieu Coutadeur,FRA,M,1.70,69,20-06-86,Le Mans,Monaco,Lorient,2013,French
+11,11,Jérémie Aliadière,FRA,F,1.83,70,30-03-83,Rambouillet,Middlesbrough,Lorient,2013,French
+12,12,Pierre Lavenant,FRA,M,1.80,74,03-08-95,Saint-Malo,None,Lorient,2013,French
+13,13,Rafidine Abdullah,FRA,M,1.79,75,15-01-94,Marseille,Marseille,Lorient,2013,French
+14,14,Raphaël Guerreiro,POR,D,1.70,67,22-12-93,Le Blanc-Mesnil,Caen,Lorient,2013,French
+15,15,Fabien Robert,FRA,F,1.74,67,06-01-89,Hennebont,None,Lorient,2013,French
+16,16,Fabien Audard,FRA,G,1.88,89,28-03-78,Toulouse,Bastia,Lorient,2013,French
+17,17,Maxime Baca,FRA,D,1.71,68,02-06-83,Corbeil Essonnes,Le Havre,Lorient,2013,French
+18,18,Gilles Sunu,FRA,F,1.80,70,30-03-91,Châteauroux,Arsenal,Lorient,2013,French
+19,19,Bryan Pelé,FRA,M,1.69,65,25-03-92,Ploërmel,None,Lorient,2013,French
+20,20,Julien Quercia,FRA,F,1.68,65,17-08-86,Thionville,Auxerre,Lorient,2013,French
+21,21,Alain Traoré,BFA,M,1.76,66,31-12-88,Bobo-Dioulasso,Auxerre,Lorient,2013,French
+22,22,Kévin Monnet-Paquet,FRA,F,1.83,73,19-08-88,Bourgoin-Jallieu,Lens,Lorient,2013,French
+23,23,Maxence Derrien,FRA,D,1.80,74,03-09-93,Quimperlé,None,Lorient,2013,French
+24,24,Wesley Lautoa,FRA,D,1.72,65,25-08-87,Épernay,Sedan,Lorient,2013,French
+25,25,Lamine Gassama,SEN,D,1.81,74,20-10-89,Marseille,Lyon,Lorient,2013,French
+26,26,Yoann Wachter,GAB,D,1.77,65,07-04-92,Courbevoie,None,Lorient,2013,French
+27,27,Enzo Reale,FRA,M,1.75,69,07-10-91,Venissieux,Lyon,Lorient,2013,French
+28,28,Maxime Barthelme,FRA,M,1.77,65,08-09-88,Sartrouville,Racing Club de France,Lorient,2013,French
+29,29,Larry Azouni,FRA,M,1.77,65,23-03-94,Marseille,Marseille,Lorient,2013,French
+30,30,Florent Chaigneau,FRA,G,1.97,94,21-03-84,La Roche-sur-Yon,Le Poiré-sur-Vie,Lorient,2013,French
+31,31,Cheick Doukouré,FRA,M,1.80,72,11-09-92,Abidjan,None,Lorient,2013,French
+33,33,Valentin Lavigne,FRA,F,1.71,72,04-06-94,Lorient,None,Lorient,2013,French
+40,40,Devis Epassy,FRA,G,1.87,80,02-02-93,Soisy-sous-Montmorency,Rennes,Lorient,2013,French
+1,1,Rémy Vercoutre,FRA,G,1.85,78,26-06-80,Grande-Synthe,Montpellier,Lyon,2013,French
+2,2,Mehdi Zeffane,ALG,D,1.74,63,19-05-92,Sainte-Foy-lès-Lyon,None,Lyon,2013,French
+3,3,Henri Bedimo Nsame,CMR,D,1.80,80,04-06-84,Douala,Montpellier,Lyon,2013,French
+4,4,Bakari Koné,BFA,D,1.88,80,27-04-88,Ouagadougou,Guingamp,Lyon,2013,French
+5,5,Milan Bievac,SRB,D,1.85,83,31-08-83,Mitrovica,Paris St-Germain,Lyon,2013,French
+6,6,Gueïda Fofana,FRA,M,1.82,74,16-05-91,Le Havre,Le Havre,Lyon,2013,French
+7,7,Clément Grenier,FRA,M,1.86,72,07-01-91,Annonay,None,Lyon,2013,French
+8,8,Yoann Gourcuff,FRA,M,1.85,79,11-07-86,Lorient,Bordeaux,Lyon,2013,French
+10,10,Alexandre Lacazette,FRA,F,1.74,69,28-05-91,Lyon,None,Lyon,2013,French
+11,11,Rachid Ghezzal,FRA,M,1.82,65,09-05-92,Décines-Charpieu,None,Lyon,2013,French
+12,12,Jordan Ferri,FRA,M,1.72,70,12-03-92,Cavaillon,None,Lyon,2013,French
+13,13,Miguel Lopes,POR,D,1.82,72,19-12-86,Lisbon,Sporting CP,Lyon,2013,French
+14,14,Mouhamadou Dabo,SEN,D,1.76,67,28-11-86,Dakar,Sevilla,Lyon,2013,French
+15,15,Mouhamadou-Naby Sarr,FRA,D,1.96,94,13-08-93,Marseille,None,Lyon,2013,French
+16,16,Anthony Lopes,POR,G,1.84,81,01-10-90,Givors,None,Lyon,2013,French
+17,17,Steed Malbranque,FRA,M,1.72,73,06-01-80,Mouscron,St-Etienne,Lyon,2013,French
+18,18,Bafetibis Gomis,FRA,F,1.84,77,06-08-85,Seyne-sur-Mer,St-Etienne,Lyon,2013,French
+19,19,Jimmy Briand,FRA,F,1.81,84,02-05-85,Vitry-sur-Seine,Rennes,Lyon,2013,French
+20,20,Gaël Danic,FRA,M,1.76,65,19-11-81,Vannes,Valenciennes,Lyon,2013,French
+21,21,Maxime Gonalons,FRA,M,1.87,76,10-03-89,Vénissieux,None,Lyon,2013,French
+22,22,Sidy Koné,MLI,M,1.85,73,06-06-92,Bamako,None,Lyon,2013,French
+23,23,Samuel Umtiti,FRA,D,1.81,75,14-11-93,Yaoundé,None,Lyon,2013,French
+24,24,Corentin Tolisso,FRA,M,1.65,54,03-08-94,Tarare,None,Lyon,2013,French
+25,25,Yassine Benzia,FRA,F,1.79,71,08-09-94,Saint-Aubin Lès-Elbeuf,None,Lyon,2013,French
+26,26,Clinton N'Jie,CMR,F,1.75,68,15-08-93,Douala,None,Lyon,2013,French
+28,28,Arnold Mvuemba,FRA,M,1.72,67,28-01-85,Alencon,Lorient,Lyon,2013,French
+29,29,Fares Bahlouli,FRA,M,1.81,78,08-04-95,Lyon,None,Lyon,2013,French
+30,30,Mathieu Gorgelin,FRA,G,1.87,83,05-08-90,Ambérieu-en-Bugey,None,Lyon,2013,French
+31,31,Nabil Fekir,FRA,M,1.73,72,18-07-93,Lyon,None,Lyon,2013,French
+32,32,Zakarie Labidi,FRA,M,1.78,71,08-02-95,Villeneuve-la-Garenne,None,Lyon,2013,French
+40,40,Théo Defourny,BEL,G,1.94,85,25-04-92,Bourg-Saint-Maurice,None,Lyon,2013,French
+41,44,Romaric N'Gouma,FRA,D,1.86,72,28-01-95,Lyon,None,Lyon,2013,French
+42,45,Jérémy Frick,SUI,G,1.92,88,08-03-93,Geneva,Genève-Servette-Carouge,Lyon,2013,French
+43,47,Kevin Tsimba,SUI,M,1.71,65,20-02-94,Geneva,None,Lyon,2013,French
+1,1,Gennaro Bracigliano,FRA,G,1.83,82,01-03-80,Forbach,Nancy,Marseille,2013,French
+3,3,Nicolas Nkoulou,CMR,D,1.80,77,27-03-90,Yaoundé,Monaco,Marseille,2013,French
+4,4,Lucas Mendes,BRA,D,1.83,81,03-07-90,Curitiba,Coritiba,Marseille,2013,French
+7,7,Benoît Cheyrou,FRA,M,1.82,78,03-05-81,Suresnes,Auxerre,Marseille,2013,French
+8,8,Alexander N'Doumbou,GAB,M,1.77,66,04-01-92,Port-Gentil,None,Marseille,2013,French
+9,9,André-Pierre Gignac,FRA,F,1.87,84,12-05-85,Martigues,Toulouse,Marseille,2013,French
+10,10,André Ayew,GHA,F,1.76,72,17-12-89,Seclin,None,Marseille,2013,French
+12,12,Kevin Osei,FRA,M,1.73,71,26-03-91,Marseille,None,Marseille,2013,French
+13,13,Mario Lemina,FRA,M,1.84,76,01-09-93,Libreville,Lorient,Marseille,2013,French
+14,14,Florian Thauvin,FRA,M,1.79,70,26-01-93,Orléans,Lille,Marseille,2013,French
+15,15,Jérémy Morel,FRA,D,1.72,71,02-04-84,Lorient,Lorient,Marseille,2013,French
+16,16,Brice Samba,CGO,G,1.86,79,25-04-94,Linzolo,Le Havre,Marseille,2013,French
+17,17,Dimitri Payet,FRA,M,1.74,70,29-03-87,St-Pierre de la Réunion,Lille,Marseille,2013,French
+19,19,Laurent Abergel,FRA,D,1.70,65,01-02-93,Marseille,None,Marseille,2013,French
+20,20,Alaixys Romao,TOG,M,1.80,74,18-01-84,L'Hay-les-Roses,Lorient,Marseille,2013,French
+21,21,Souleymane Diawara,SEN,D,1.87,88,24-12-78,Gabou,Bordeaux,Marseille,2013,French
+23,23,Benjamin Mendy,FRA,D,1.80,72,17-07-94,Longjumeau,Le Havre,Marseille,2013,French
+24,24,Rod Fanni,FRA,D,1.86,78,06-12-81,Martigues,Rennes,Marseille,2013,French
+25,25,Giannelli Imbula,CGO,M,1.86,77,12-09-92,Vilvoorde,Guingamp,Marseille,2013,French
+26,26,Brice Dja Djedje,CIV,M,1.76,70,23-12-90,Abidjan,Évian TG,Marseille,2013,French
+28,28,Mathieu Valbuena,FRA,M,1.67,58,28-09-84,Bordeaux,Libourne,Marseille,2013,French
+29,29,Saber Khelifa,TUN,F,1.83,73,14-10-86,Gabès,Évian TG,Marseille,2013,French
+30,30,Steve Mandanda,FRA,G,1.85,82,28-03-85,Kinshasa,Le Havre,Marseille,2013,French
+1,1,Danijel Subaić,CRO,G,1.92,84,27-10-84,Zadar,Hajduk Split,Monaco,2013,French
+2,2,Fabinho,BRA,D,1.87,78,23-10-93,Campinas,Rio Ave,Monaco,2013,French
+3,3,Layvin Kurzawa,FRA,D,1.81,73,04-09-92,Fréjuis,None,Monaco,2013,French
+5,5,Aymen Abdennour,TUN,D,1.87,84,06-08-89,Sousse,Toulouse,Monaco,2013,French
+6,6,Ricardo Carvalho,POR,D,1.83,76,18-05-78,Amarante,Real Madrid,Monaco,2013,French
+7,7,Nabil Dirar,MAR,M,1.82,79,25-02-86,Casablanca,Club Brugge,Monaco,2013,French
+8,8,João Moutinho,POR,M,1.70,61,08-09-86,Portimão,FC Porto,Monaco,2013,French
+9,9,Radamel Falcao García,COL,F,1.77,72,10-02-86,Santa Marta,Atlético Madrid,Monaco,2013,French
+10,10,James Rodríguez,COL,M,1.80,77,12-07-91,Cúcuta,FC Porto,Monaco,2013,French
+11,11,Lucas Ocampos,ARG,M,1.87,82,11-07-94,Quilmes,River Plate,Monaco,2013,French
+15,15,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad,Fulham,Monaco,2013,French
+16,16,Sergio Romero,ARG,G,1.92,87,22-02-87,Bernardo de Irigoyen,Sampdoria,Monaco,2013,French
+17,17,Yannick Ferreira Carrasco,BEL,M,1.80,67,04-09-93,Elsene,None,Monaco,2013,French
+18,18,Valère Germain,FRA,F,1.81,75,17-04-90,Marseille,None,Monaco,2013,French
+19,19,Mounir Obbadi,MAR,M,1.72,65,04-04-83,Meulan,Troyes,Monaco,2013,French
+20,20,Nicolas Isimat-Mirin,FRA,D,1.87,83,15-11-91,Meudon-la-Forêt,Valenciennes,Monaco,2013,French
+21,21,Elderson Uwa Echiejile,NGA,D,1.84,76,20-01-88,Cotonou,Sporting Braga,Monaco,2013,French
+22,22,Eric Abidal,FRA,D,1.86,75,11-07-79,Lyon,Barcelona,Monaco,2013,French
+23,23,Anthony Martial,FRA,F,1.81,76,05-12-95,Massy,Lyon,Monaco,2013,French
+24,24,Andrea Raggi,ITA,D,1.87,82,24-06-84,Carrara,Bologna,Monaco,2013,French
+25,25,Jessy Pi,FRA,M,1.79,72,24-09-93,Manosque,None,Monaco,2013,French
+27,27,Geoffrey Kondogbia,FRA,D,1.83,71,25-04-93,Saint-Denis,Sevilla,Monaco,2013,French
+28,28,Jérémy Toulalan,FRA,M,1.83,77,10-09-83,Nantes,Málaga,Monaco,2013,French
+29,29,Emmanuel Riviere,FRA,F,1.82,76,03-03-90,Lamentin,Toulouse,Monaco,2013,French
+30,30,Flavio Roma,ITA,G,1.92,89,21-06-74,Rome,Milan,Monaco,2013,French
+31,31,Andreas Wolf,GER,D,1.82,82,12-06-82,Leninabad,Werder Bremen,Monaco,2013,French
+40,40,Marc-Aurèle Caillard,FRA,G,1.91,79,12-05-94,Melun,None,Monaco,2013,French
+41,41,Alex Maraval,FRA,G,1.83,77,20-10-93,Marseille,None,Monaco,2013,French
+1,1,Laurent Pionnier,FRA,G,1.84,76,24-05-82,Bagnois sur Cèze,None,Montpellier,2013,French
+2,2,Garry Bocaly,FRA,D,1.80,74,19-04-88,Schlcher,Marseille,Montpellier,2013,French
+3,3,Daniel Congré,FRA,D,1.84,79,05-04-85,Toulouse,Toulouse,Montpellier,2013,French
+4,4,Hilton,BRA,D,1.82,73,13-09-77,Brasilia,Marseille,Montpellier,2013,French
+5,5,Siaka Tiéné,CIV,D,1.76,72,22-02-82,Abidjan,Paris St-Germain,Montpellier,2013,French
+6,6,Joris Marveaux,FRA,M,1.78,69,15-08-82,Vannes,Clermont,Montpellier,2013,French
+7,7,Anthony Mounier,FRA,F,1.74,65,27-09-87,Aubenas,Nice,Montpellier,2013,French
+8,8,Jonas Martin,FRA,M,1.82,70,09-04-90,Besançon,None,Montpellier,2013,French
+9,9,Mbaye Niang,FRA,F,1.84,74,19-12-94,Meulan-en-Yvelines,Milan,Montpellier,2013,French
+10,10,Rémy Cabella,FRA,M,1.71,62,08-03-90,Ajaccio,None,Montpellier,2013,French
+12,12,Vincent Di Stefano,FRA,D,1.82,75,08-03-93,Voiron,None,Montpellier,2013,French
+15,15,Jonathan Tinhan,FRA,M,1.78,69,01-06-89,Echirolles,Grenoble,Montpellier,2013,French
+16,16,Geoffrey Jourdren,FRA,G,1.81,73,04-02-86,Paris,None,Montpellier,2013,French
+17,17,Teddy Mézague,FRA,D,1.85,83,27-05-90,Marseille,None,Montpellier,2013,French
+18,18,Karim Aït-Fana,MAR,F,1.75,65,25-02-89,Limoges,None,Montpellier,2013,French
+19,19,Souleymane Camara,SEN,F,1.74,72,22-12-82,Dakar,Nice,Montpellier,2013,French
+20,20,Morgan Sanson,FRA,M,1.82,70,18-08-94,Saint-Doulchard,Le Mans,Montpellier,2013,French
+21,21,Abdelhamid El Kaoutari,MAR,D,1.80,73,17-03-90,Montpellier,None,Montpellier,2013,French
+22,22,Benjamin Stambouli,FRA,D,1.80,75,13-08-90,Marseille,None,Montpellier,2013,French
+23,23,Jamel Saihi,TUN,M,1.81,73,27-01-87,Montpellier,None,Montpellier,2013,French
+24,24,Jean Deza,PER,F,1.81,71,09-06-93,Callao,Universidad San Martín,Montpellier,2013,French
+25,25,Mathieu Deplagne,FRA,D,1.80,66,01-10-91,Montpellier,None,Montpellier,2013,French
+26,26,Yassine Jebbour,MAR,D,1.80,70,24-08-91,Poitiers,Rennes,Montpellier,2013,French
+27,27,Jeffrey Assoumin,FRA,M,1.73,67,05-02-93,Marseille,None,Montpellier,2013,French
+28,28,Djamel Bakar,FRA,M,1.71,67,06-04-89,Marseille,Nancy,Montpellier,2013,French
+29,29,Victor Hugo Montaño,COL,F,1.77,76,01-05-84,Cali,Rennes,Montpellier,2013,French
+30,30,Jonathan Ligali,FRA,G,1.83,82,28-05-91,Montpellier,None,Montpellier,2013,French
+32,32,Nicolas Saint-Ruf,FRA,D,1.87,81,24-10-92,Rouen,Lens,Montpellier,2013,French
+1,1,Rémy Riou,FRA,G,1.91,81,06-08-87,Lyon,Toulouse,Nantes,2013,French
+2,2,Amine Oudrhiri,FRA,M,1.84,75,04-11-92,Ermont,Red Star 93,Nantes,2013,French
+3,3,Papy Mison Djilobodji,SEN,D,1.93,82,01-12-88,Kaolack,Sénart-Moissy,Nantes,2013,French
+4,4,Oswaldo Vizcarrondo,VEN,D,1.91,86,31-05-84,Caracas,América,Nantes,2013,French
+5,5,Olivier Veigneau,FRA,D,1.74,69,16-07-85,Suresnes,Duisburg,Nantes,2013,French
+6,6,Rémi Gomis,SEN,M,1.80,64,14-02-84,Versailles,Levante,Nantes,2013,French
+7,7,Fabrice Pancrate,FRA,F,1.85,74,02-05-80,Paris,Larissa,Nantes,2013,French
+8,8,Vincent Bessat,FRA,M,1.78,73,08-11-85,Lyon,Boulogne,Nantes,2013,French
+9,9,Filip Djordjević,SRB,F,1.86,80,28-09-87,Belgrade,Crvena Zvezda,Nantes,2013,French
+10,10,Fernando Aristeguieta,VEN,F,1.87,80,09-04-92,Caracas,Caracas,Nantes,2013,French
+11,11,Ismaël Bangoura,GUI,F,1.74,72,02-01-85,Conakry,Al-Nasr [UAE],Nantes,2013,French
+12,12,Birama Touré,MLI,M,1.83,75,06-06-92,Kayes,Beauvais,Nantes,2013,French
+13,13,Serge Gakpé,TOG,M,1.77,79,07-05-87,Bondy,Monaco,Nantes,2013,French
+14,14,Georges-Kevin Nkoudou,FRA,M,1.73,68,13-02-95,Versailles,None,Nantes,2013,French
+15,15,Bănel Nicoliţă,ROU,M,1.75,71,07-01-85,Făurei,St-Etienne,Nantes,2013,French
+16,16,Erwin Zelazny,FRA,G,1.86,80,22-09-91,Grande-Synthe,None,Nantes,2013,French
+17,17,Saad Trabelsi,FRA,F,1.77,64,20-12-91,Saint-Amand Montrond,Bourges,Nantes,2013,French
+18,18,Lucas Deaux,FRA,D,1.86,77,26-12-88,Reims,Reims,Nantes,2013,French
+19,19,Alejandro Bedoya,USA,M,1.78,73,29-04-87,Weston,Helsingborgs IF,Nantes,2013,French
+20,20,Adrien Trebel,FRA,M,1.70,60,03-03-91,Dreux,None,Nantes,2013,French
+21,21,Johan Audel,FRA,F,1.80,73,12-12-83,Nice,Stuttgart,Nantes,2013,French
+22,22,Issa Cissokho,FRA,D,1.73,73,23-02-85,Paris,Carquefou,Nantes,2013,French
+23,23,Itay Shechter,ISR,F,1.80,77,22-02-87,Ramat Yishai,Hapoel Tel Aviv,Nantes,2013,French
+24,24,Chaker Alhadhur,COM,D,1.71,56,04-12-91,Nantes,None,Nantes,2013,French
+25,25,Jordan Veretout,FRA,M,1.76,66,01-03-93,Ancenis,None,Nantes,2013,French
+26,26,Koffi Djidji,FRA,D,1.84,71,30-11-92,Bagnolet,None,Nantes,2013,French
+27,27,Adama Niane,MLI,F,1.82,70,16-06-93,Bamako,None,Nantes,2013,French
+30,30,Maxime Dupé,FRA,G,1.86,85,04-03-93,Malestroit,None,Nantes,2013,French
+1,1,David Ospina,COL,G,1.81,76,31-08-88,Medellín,Atlético Nacional,Nice,2013,French
+3,3,Timothée Kolodziejczak,FRA,D,1.81,74,01-10-91,Avion,Lyon,Nice,2013,French
+4,4,Nemanja Pejčinović,SRB,D,1.85,84,04-11-87,Kragujevac,Rad,Nice,2013,French
+6,6,Didier Digard,FRA,M,1.83,76,12-07-86,Gisors,Middlesbrough,Nice,2013,French
+7,7,Fabrice Abriel,FRA,M,1.76,69,06-07-79,Surennes,Marseille,Nice,2013,French
+8,8,Mahamane Traoré,MLI,M,1.76,66,31-08-88,Bamako,CO Bamako,Nice,2013,French
+9,9,Xavier Pentecôte,FRA,F,1.80,77,13-08-86,St Dié,Toulouse,Nice,2013,French
+10,10,Christian Brüls,BEL,M,1.84,70,30-09-88,Malmedy,KAA Gent,Nice,2013,French
+11,11,Eric Bauthéac,FRA,M,1.65,65,24-08-87,Bagnols-sur-Cèze,Dijon,Nice,2013,French
+12,12,Darío Cvitanich,ARG,F,1.75,67,16-05-84,Baradero,Ajax,Nice,2013,French
+13,13,Valentin Eysseric,FRA,M,1.81,73,25-03-92,Aix-en-Provence,Monaco,Nice,2013,French
+14,14,Jérémy Pied,FRA,F,1.73,69,23-02-89,Grenoble,Lyon,Nice,2013,French
+15,15,Grégoire Puel,FRA,F,1.80,67,20-02-92,Nice,Lyon,Nice,2013,French
+16,16,Lucas Veronese,FRA,G,1.87,70,06-02-91,Cagnes-sur-Mer,None,Nice,2013,French
+17,17,Kévin Anin,FRA,M,1.89,80,05-07-86,Le Havre,Sochaux,Nice,2013,French
+18,18,Neal Maupay,FRA,F,1.71,69,14-08-96,Versailles,None,Nice,2013,French
+19,19,Jordan Astier,FRA,F,1.84,75,28-04-92,Antibes,None,Nice,2013,French
+20,20,Luigi Bruins,NED,M,1.80,75,09-03-87,Rotterdam,Excelsior,Nice,2013,French
+21,21,Lloyd Palun,GAB,M,1.84,73,28-11-88,Arles,Trinité FC,Nice,2013,French
+22,22,Nampalys Mendy,FRA,M,1.68,68,23-06-92,La Seyne-sur-Mer,Monaco,Nice,2013,French
+23,23,Alexy Bosetti,FRA,M,1.72,66,23-04-93,Nice,None,Nice,2013,French
+24,24,Mathieu Bodmer,FRA,M,1.90,91,22-11-82,Evreux,Paris St-Germain,Nice,2013,French
+25,25,Romain Genevois,HAI,D,1.80,66,28-10-87,L'Estère,Tours,Nice,2013,French
+27,27,Stéphan Raheriharimanana,MAD,M,1.68,64,16-08-93,Toamasina,None,Nice,2013,French
+28,28,Fabien Dao Castellana,FRA,M,1.69,61,28-07-93,Saint-Raphaël,None,Nice,2013,French
+31,31,Moussa M'Bow,SEN,D,1.92,80,07-02-92,Gwediawayé,None,Nice,2013,French
+33,33,Jordan Amavi,FRA,D,1.76,70,09-03-94,Toulon,None,Nice,2013,French
+34,34,Bryan Constant,FRA,F,1.72,65,27-03-94,Fréjus,None,Nice,2013,French
+35,35,Albert Rafetraniaina,MAD,M,1.76,66,09-09-96,Ambohitrony,None,Nice,2013,French
+40,40,Mouez Hassen,FRA,G,1.84,70,05-03-95,Fréjus,None,Nice,2013,French
+41,50,Anthony Mandrea,FRA,G,1.86,78,25-12-96,Grasse,None,Nice,2013,French
+1,1,Nicolas Douchez,FRA,G,1.85,77,22-04-80,Rasny-sous-Bois,Rennes,Paris Saint-Germain,2013,French
+2,2,Thiago Silva,BRA,D,1.83,79,22-09-84,Rio de Janeiro,Milan,Paris Saint-Germain,2013,French
+4,4,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Newcastle U,Paris Saint-Germain,2013,French
+5,5,Marquinhos,BRA,D,1.81,67,14-05-94,São Paulo,Roma,Paris Saint-Germain,2013,French
+6,6,Zoumana Camara,FRA,D,1.82,76,03-04-79,Colombes,St-Etienne,Paris Saint-Germain,2013,French
+7,7,Jérémy Ménez,FRA,F,1.81,77,07-05-87,Longjumeau,Roma,Paris Saint-Germain,2013,French
+8,8,Thiago Motta,ITA,M,1.88,77,28-08-82,São Bernardo do Campo,Internazionale,Paris Saint-Germain,2013,French
+9,9,Edinson Cavani,URU,F,1.84,71,14-02-87,Montevideo,Napoli,Paris Saint-Germain,2013,French
+10,10,Zlatan Ibrahimović,SWE,F,1.92,84,03-10-81,Malmö,Milan,Paris Saint-Germain,2013,French
+13,13,Alex,BRA,D,1.88,92,17-06-82,Niterói,Chelsea,Paris Saint-Germain,2013,French
+14,14,Blaise Matuidi,FRA,M,1.75,70,09-04-87,Toulouse,St-Etienne,Paris Saint-Germain,2013,French
+16,16,Mike Maignan,FRA,G,1.87,80,03-07-95,Cayenne,None,Paris Saint-Germain,2013,French
+17,17,Maxwell,BRA,D,1.75,73,27-08-81,Vila Velha,Barcelona,Paris Saint-Germain,2013,French
+21,21,Lucas Digne,FRA,D,1.84,75,20-07-93,Meaux,Lille,Paris Saint-Germain,2013,French
+22,22,Ezequiel Lavezzi,ARG,F,1.73,75,03-05-85,Villa Gobernador Gálvez,Napoli,Paris Saint-Germain,2013,French
+23,23,Gregory van der Wiel,NED,D,1.81,68,03-02-88,Amsterdam,Ajax,Paris Saint-Germain,2013,French
+24,24,Marco Verratti,ITA,M,1.65,60,05-11-92,Pescara,Pescara,Paris Saint-Germain,2013,French
+25,25,Adrien Rabiot,FRA,M,1.88,71,03-04-95,Saint-Maurice,None,Paris Saint-Germain,2013,French
+26,26,Christophe Jallet,FRA,D,1.78,65,31-10-83,Cognac,Lorient,Paris Saint-Germain,2013,French
+27,27,Javier Pastore,ARG,M,1.87,75,20-06-89,Córdoba,Palermo,Paris Saint-Germain,2013,French
+29,29,Lucas,BRA,M,1.72,66,13-08-92,São Paulo,São Paulo,Paris Saint-Germain,2013,French
+30,30,Salvatore Sirigu,ITA,G,1.90,80,12-01-87,Nuoro,Palermo,Paris Saint-Germain,2013,French
+35,35,Hervin Ongenda,FRA,F,1.70,64,24-06-95,Paris,None,Paris Saint-Germain,2013,French
+38,38,Kingsley Coman,FRA,M,1.78,71,13-06-96,Paris,None,Paris Saint-Germain,2013,French
+40,40,Mory Diaw,FRA,G,1.95,95,22-06-93,Poissy,None,Paris Saint-Germain,2013,French
+1,1,Jérémy Malherbe,FRA,G,1.96,92,15-03-91,Strasbourg,Gap,Reims,2013,French
+2,2,Mohamed Fofana,MLI,D,1.81,75,07-03-85,Gonesse,Toulouse,Reims,2013,French
+3,3,Franck Signorino,ITA,D,1.73,60,19-09-81,Nogent-sur-Marne,Laval,Reims,2013,French
+4,4,Grzegorz Krychowiak,POL,M,1.86,83,29-01-90,Gryfice,Bordeaux,Reims,2013,French
+6,6,Antoine Devaux,FRA,M,1.85,70,21-02-85,Dieppe,Toulouse,Reims,2013,French
+7,7,Odaïr Fortes,CPV,M,1.82,70,31-03-87,Alfortville,Alfortville,Reims,2013,French
+8,8,Prince Oniangue,CGO,M,1.90,78,04-11-88,Paris,Tours,Reims,2013,French
+9,9,Eliran Atar,ISR,F,1.79,73,17-02-87,Tel Aviv,Maccabi Tel Aviv,Reims,2013,French
+10,10,Quentin Pereira,FRA,M,1.74,66,21-04-92,Reims,Sochaux,Reims,2013,French
+11,11,Diego,BRA,M,1.75,72,09-03-88,Americana,Tours,Reims,2013,French
+12,12,Nicolas De Préville,FRA,F,1.82,77,08-01-91,Istres,Istres,Reims,2013,French
+14,14,Gaëtan Charbonnier,FRA,F,1.88,80,27-12-88,Saint-Mandé,Montpellier,Reims,2013,French
+15,15,Atila Turan,FRA,D,1.76,79,10-04-92,Cheny,Sporting CP,Reims,2013,French
+16,16,Kossi Agassa,TOG,G,1.90,86,07-07-78,Lomé,Hércules,Reims,2013,French
+17,17,Mads Albæk,DEN,M,1.82,76,14-01-90,Roskilde,FC Midtjylland,Reims,2013,French
+18,18,Gaëtan Courtet,FRA,F,1.80,72,22-02-89,Lorient,Lorient,Reims,2013,French
+20,20,Floyd Ayité,TOG,M,1.74,68,15-12-88,Bordeaux,Bordeaux,Reims,2013,French
+21,21,Bocundji Ca,GNB,M,1.72,69,28-12-86,Biombo,Nancy,Reims,2013,French
+22,22,Mickaël Tacalfred,FRA,D,1.75,69,23-04-81,Colombes,Dijon,Reims,2013,French
+23,23,Aïssa Mandi,ALG,D,1.86,78,22-10-91,Châlons-en-Champagne,None,Reims,2013,French
+24,24,Florent Ghisolfi,FRA,M,1.75,70,28-02-85,Aubagne,Bastia,Reims,2013,French
+25,25,Anthony Weber,FRA,D,1.90,82,11-06-87,Strasbourg,Paris FC,Reims,2013,French
+27,27,Christopher Glombard,FRA,D,1.78,74,05-06-89,Montreuil,Bordeaux,Reims,2013,French
+28,28,Antoine Conte,FRA,D,1.79,73,29-01-94,Paris,Paris St-Germain,Reims,2013,French
+29,29,Bilal Ouali,FRA,M,1.85,75,07-10-93,Etampes,None,Reims,2013,French
+30,30,Johnny Placide,HAI,G,1.81,84,29-01-88,Montfermeil,Le Havre,Reims,2013,French
+40,40,Sacha Bastien,FRA,G,1.93,85,22-01-95,Metz,Sedan,Reims,2013,French
+1,1,Benoît Costil,FRA,G,1.87,83,03-07-87,Caen,Sedan,Rennes,2013,French
+3,3,Cheikh M'Bengué,SEN,D,1.83,75,23-07-88,Toulouse,Toulouse,Rennes,2013,French
+5,5,Jean-Armel Kana-Biyik,CMR,D,1.83,86,03-07-89,Metz,Le Havre,Rennes,2013,French
+6,6,Kamil Grosicki,POL,M,1.80,78,08-06-88,Szczecin,Sivasspor,Rennes,2013,French
+7,7,Jonathan Pitroipa,BFA,M,1.76,56,12-04-86,Ouagadougou,Hamburg,Rennes,2013,French
+8,8,Julien Féret,FRA,M,1.87,74,05-07-82,Saint Brieuc,Nancy,Rennes,2013,French
+9,9,Ola Toivonen,SWE,F,1.90,74,03-07-86,Degerfors,PSV Eindhoven,Rennes,2013,French
+10,10,Foued Kadir,ALG,M,1.79,68,05-12-83,Martigues,Marseille,Rennes,2013,French
+11,11,Nélson Oliveira,POR,F,1.86,82,08-08-91,Barcelos,Benfica,Rennes,2013,French
+12,12,Steven Moreira,FRA,D,1.76,67,13-08-94,Noisy-le-Grand,None,Rennes,2013,French
+13,13,Wesley Saïd,FRA,F,1.71,65,19-04-95,Noisy-le-Grand,None,Rennes,2013,French
+14,14,Tiemoué Bakayoko,FRA,M,1.85,77,17-08-94,Paris,None,Rennes,2013,French
+15,15,Jean II Makoun,CMR,M,1.73,69,29-05-83,Yaoundé,Aston Villa,Rennes,2013,French
+17,17,Vincent Pajot,FRA,M,1.76,64,19-08-90,Domont,None,Rennes,2013,French
+18,18,Adrien Hunou,FRA,M,1.78,66,19-01-94,Evry,None,Rennes,2013,French
+19,19,Romain Alessandrini,FRA,F,1.66,60,03-04-89,Marseille,Clermont,Rennes,2013,French
+20,20,Silvio Romero,ARG,F,1.77,76,22-07-88,Córdoba,Lanús,Rennes,2013,French
+21,21,John Boye,GHA,D,1.84,69,23-04-87,Accra,Heart of Lions,Rennes,2013,French
+22,22,Sylvain Armand,FRA,D,1.82,82,01-08-80,Saint-Etienne,Paris St-Germain,Rennes,2013,French
+23,23,Anders Konradsen,NOR,M,1.85,79,18-07-90,Bodø,Strømsgodset,Rennes,2013,French
+24,24,Paul-Georges Ntep,FRA,F,1.80,75,29-07-92,Douala,Auxerre,Rennes,2013,French
+26,26,Cédric Hountondji,FRA,D,1.94,85,19-01-94,Toulouse,None,Rennes,2013,French
+28,28,Abdoulaye Doucouré,FRA,M,1.82,69,01-01-93,Meulan-en-Yvelines,None,Rennes,2013,French
+29,29,Romain Danze,FRA,M,1.84,72,03-07-86,Douarnenez,None,Rennes,2013,French
+30,30,Cheikh N'Diaye,SEN,G,1.91,82,15-02-85,Dakar,Noisy-le-Sec,Rennes,2013,French
+1,1,Baptiste Valette,FRA,G,1.85,80,01-09-92,Sète,Montpellier,Saint-Etienne,2013,French
+2,2,Benoît Trémoulinas,FRA,D,1.73,64,28-12-85,Bordeaux,Dynamo Kyiv,Saint-Etienne,2013,French
+4,4,Kurt Zouma,FRA,D,1.87,85,27-10-94,Lyon,Chelsea,Saint-Etienne,2013,French
+5,5,Florentin Pogba,GUI,D,1.88,87,19-08-90,Conakry,Sedan,Saint-Etienne,2013,French
+6,6,Jérémy Clément,FRA,M,1.74,61,26-08-84,Béziers,Paris St-Germain,Saint-Etienne,2013,French
+7,7,Max Gradel,CIV,M,1.80,70,30-11-87,Abidjan,Leeds U,Saint-Etienne,2013,French
+8,8,Benjamin Corgnet,FRA,M,1.80,75,06-04-87,Thionville,Lorient,Saint-Etienne,2013,French
+9,9,Brandão,BRA,F,1.89,78,16-06-80,São Paulo,Marseille,Saint-Etienne,2013,French
+10,10,Renaud Cohade,FRA,M,1.80,74,29-09-84,Aubenas,Valenciennes,Saint-Etienne,2013,French
+11,11,Yohan Mollo,FRA,M,1.75,74,18-07-89,Martigues,Nancy,Saint-Etienne,2013,French
+12,12,Jean-Pascal Mignot,FRA,D,1.83,75,26-02-81,Rouen,Auxerre,Saint-Etienne,2013,French
+15,15,Josuha Guilavogui,FRA,M,1.87,78,19-09-90,Ollioules,Atlético Madrid,Saint-Etienne,2013,French
+16,16,Stéphane Ruffier,FRA,G,1.87,89,27-09-86,Bayonne,Monaco,Saint-Etienne,2013,French
+18,18,Fabien Lemoine,FRA,M,1.75,67,16-03-87,Fougères,Rennes,Saint-Etienne,2013,French
+19,19,Mevlüt Erdinç,TUR,F,1.81,85,25-02-87,Saint-Claude,Rennes,Saint-Etienne,2013,French
+20,20,Jonathan Brison,FRA,M,1.79,73,07-02-83,Soissons,Nancy,Saint-Etienne,2013,French
+21,21,Romain Hamouma,FRA,M,1.77,67,29-03-87,Lure,Caen,Saint-Etienne,2013,French
+23,23,Paul Baysse,FRA,D,1.84,82,15-05-88,Bordeaux,Brest,Saint-Etienne,2013,French
+24,24,Loïc Perrin,FRA,M,1.80,76,07-08-85,Saint-Etienne,None,Saint-Etienne,2013,French
+26,26,Moustapha Bayal Sall,SEN,D,1.90,90,30-11-85,Dakar,US Gorée,Saint-Etienne,2013,French
+27,27,Franck Tabanou,FRA,M,1.78,70,30-01-89,Thiais,Toulouse,Saint-Etienne,2013,French
+28,28,Ismaël Diomande,CIV,M,1.80,75,28-08-92,Abidjan,None,Saint-Etienne,2013,French
+29,29,François Clerc,FRA,D,1.86,77,18-04-83,Bourg en Bresse,Nice,Saint-Etienne,2013,French
+30,30,Jessy Moulin,FRA,G,1.84,80,13-01-86,Valence,None,Saint-Etienne,2013,French
+31,31,Allan Saint-Maximin,FRA,F,1.73,67,12-03-97,Châtenay-Malabry,None,Saint-Etienne,2013,French
+1,1,Pierrick Cros,FRA,G,1.85,75,23-06-91,Albi,None,Sochaux,2013,French
+2,2,Sébastien Corchia,FRA,D,1.74,65,01-11-90,Noisy-le-Sec,Le Mans,Sochaux,2013,French
+3,3,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,Marseille,Sochaux,2013,French
+4,4,Thierry Doubaï,CIV,M,1.78,74,01-07-88,Yamoussoukro,Udinese,Sochaux,2013,French
+5,5,Carlão,BRA,M,1.82,73,19-01-86,São Paulo,Corinthians,Sochaux,2013,French
+6,6,Cédric Kanté,MLI,D,1.81,77,06-07-79,Strasbourg,Panathinaikos,Sochaux,2013,French
+7,7,Florian Marange,FRA,D,1.76,70,03-03-86,Talence,Crystal Palace,Sochaux,2013,French
+8,8,Joseph Romeric Lopy,SEN,M,1.81,68,15-03-92,Boutoupa,None,Sochaux,2013,French
+9,9,Pierre-Alain Frau,FRA,F,1.75,73,15-04-80,Montbéliard,Al-Wakrah,Sochaux,2013,French
+10,10,Thomas Guerbert,FRA,M,1.80,75,06-04-89,Meaux,Dijon,Sochaux,2013,French
+11,11,Roy Contout,FRA,M,1.75,75,11-02-85,Cayenne,Auxerre,Sochaux,2013,French
+12,12,Abdoulrazak Boukari,TOG,M,1.82,70,25-04-87,Lomé,Wolverhampton W,Sochaux,2013,French
+14,14,Jérôme Roussillon,FRA,D,1.75,75,06-01-93,Sarcelles,None,Sochaux,2013,French
+15,15,Emmanuel Mayuka,ZAM,F,1.76,71,21-11-90,Kabwe,Southampton,Sochaux,2013,French
+16,16,Simon Pouplin,FRA,G,1.87,79,28-05-85,Cholet,Freiburg,Sochaux,2013,French
+17,17,Mathieu Peybernes,FRA,D,1.84,80,21-10-90,Toulouse,None,Sochaux,2013,French
+18,18,Sébastien Roudet,FRA,M,1.80,67,16-06-81,Montluçon,Lens,Sochaux,2013,French
+19,19,Lionel Zouma,FRA,D,1.90,73,10-09-93,Lyon,None,Sochaux,2013,French
+20,20,Edouard Butin,FRA,F,1.80,74,16-06-88,Dole,None,Sochaux,2013,French
+22,22,Cédric Bakambu,FRA,F,1.80,70,11-04-91,Ivry-sur-Seine,None,Sochaux,2013,French
+23,23,David Sauget,FRA,D,1.75,69,23-11-79,Champagnole,Grenoble,Sochaux,2013,French
+24,24,Kalilou Mohamed Traoré,MLI,M,1.92,76,09-09-87,Bamako,Odense,Sochaux,2013,French
+25,25,Julien Faussurier,FRA,M,1.73,70,14-01-87,Lyon,Troyes,Sochaux,2013,French
+26,26,Sanjin Prcić,BIH,M,1.81,73,20-11-93,Belfort,None,Sochaux,2013,French
+27,27,Loïc Poujol,FRA,M,1.88,86,27-02-89,Rodez,None,Sochaux,2013,French
+28,28,Nathan Sinkala,ZAM,M,1.75,74,22-11-90,Chingola,TP Mazembe,Sochaux,2013,French
+29,29,Petrus Boumal,CMR,M,1.76,74,20-04-93,Yaoundé,None,Sochaux,2013,French
+30,30,Papa Demba Camara,SEN,G,1.95,70,16-01-93,Dakar,Étoile Lusitana,Sochaux,2013,French
+31,31,Stoppila Sunzu,ZAM,D,1.89,80,22-06-89,Chingola,TP Mazembe,Sochaux,2013,French
+32,32,Joachim Eickmayer,FRA,M,1.78,71,11-01-93,Bully-les-Mines,None,Sochaux,2013,French
+33,33,Marco Ilaimaharitra,FRA,M,1.77,72,26-07-95,Mulhouse,None,Sochaux,2013,French
+40,40,Yohann Pelé,FRA,G,1.96,89,04-11-82,Brou-sur-Chantereine,Toulouse,Sochaux,2013,French
+1,1,Marc Vidal,FRA,G,1.87,80,03-06-91,Saint-Affrique,None,Toulouse,2013,French
+4,4,Jean-Daniel Akpa Akpro,CIV,M,1.80,66,11-10-92,Toulouse,None,Toulouse,2013,French
+5,5,Issiaga Sylla,GUI,D,1.80,70,01-01-94,Conakry,Horoya AC,Toulouse,2013,French
+6,6,Clément Chantôme,FRA,M,1.80,71,11-09-87,Sens,Paris St-Germain,Toulouse,2013,French
+7,7,Martin Braithwaite,DEN,F,1.79,77,05-06-91,Esbjerg,Esbjerg,Toulouse,2013,French
+8,8,Etienne Didot,FRA,M,1.75,65,24-07-83,Paimpol,Rennes,Toulouse,2013,French
+9,9,Eden Ben Basat,ISR,F,1.85,69,08-09-86,Kiryat Haim,Brest,Toulouse,2013,French
+10,10,Wissam Ben Yedder,FRA,M,1.70,68,12-08-90,Sarcelles,Alfortville,Toulouse,2013,French
+11,11,Jonathan Zebina,FRA,D,1.84,80,19-07-78,Paris,Brest,Toulouse,2013,French
+13,13,Dominik Furman,POL,M,1.81,71,06-07-92,Szydłowiec,Legia Warszawa,Toulouse,2013,French
+14,14,François Sirieix,FRA,M,1.80,72,07-10-80,Bordeaux,Auxerre,Toulouse,2013,French
+15,15,Uro Spajić,SRB,D,1.86,76,13-02-93,Belgrade,Crvena Zvezda,Toulouse,2013,French
+16,16,Olivier Blondel,FRA,G,1.87,78,09-07-79,Mont-Saint-Aignan,Troyes,Toulouse,2013,French
+17,17,Adrien Regattin,MAR,M,1.66,67,22-08-91,Sète,Sète,Toulouse,2013,French
+18,18,Óscar Trejo,ARG,F,1.80,79,26-04-88,Santiago del Estero,Sporting Gijón,Toulouse,2013,French
+19,19,Serge Aurier,CIV,D,1.75,75,24-12-92,Abidjan,Lens,Toulouse,2013,French
+20,20,Steeve Yago,BFA,D,1.78,75,16-12-92,Sarcelles,None,Toulouse,2013,French
+21,21,Abel Aguilar,COL,M,1.85,82,06-01-85,Santa Fe de Bogota,Hércules,Toulouse,2013,French
+22,22,Duan Vekovac,SRB,D,1.87,78,16-03-86,Kruevac,Young Boys,Toulouse,2013,French
+24,24,Pavle Ninkov,SRB,D,1.83,81,20-04-85,Belgrade,Crvena Zvezda,Toulouse,2013,French
+25,25,Gaël Vena,FRA,D,1.84,77,02-02-93,Toulouse,None,Toulouse,2013,French
+26,26,Sana Zaniou,BFA,F,1.70,65,31-12-94,Cinsense,AS Sonabel,Toulouse,2013,French
+27,27,Amadou Soukouna,FRA,F,1.82,76,21-06-92,Paris,None,Toulouse,2013,French
+28,28,Mihai Roman,ROU,M,1.73,70,16-11-84,Suceava,Rapid Bucureşti,Toulouse,2013,French
+29,29,François Moubandje,SUI,D,1.82,76,21-06-90,Geneva,Servette,Toulouse,2013,French
+30,30,Ali Ahamada,FRA,G,1.89,83,19-08-91,Martigues,None,Toulouse,2013,French
+40,40,Zacharie Boucher,FRA,G,1.80,74,07-03-92,St Pierre,Le Havre,Toulouse,2013,French
+1,1,Nicolas Penneteau,FRA,G,1.85,78,28-02-81,Marseille,Bastia,Valenciennes,2013,French
+2,2,David Ducourtioux,FRA,D,1.77,68,11-04-78,Limoges,Sedan,Valenciennes,2013,French
+3,3,Arthur Masuaku,FRA,D,1.79,70,07-11-93,Lille,None,Valenciennes,2013,French
+4,4,Eloge Enza Yamissi,CTA,M,1.75,70,23-01-83,Bangui,Troyes,Valenciennes,2013,French
+5,5,Angoua Brou Benjamin,CIV,D,1.78,69,28-11-86,Anyama,Honvéd,Valenciennes,2013,French
+6,6,Tongo Doumbia,MLI,M,1.90,79,06-08-89,Vernon,Wolverhampton W,Valenciennes,2013,French
+9,9,Jean-Christophe Bahebeck,FRA,F,1.82,70,01-05-93,Saint-Denis,Paris St-Germain,Valenciennes,2013,French
+10,10,Mathieu Dossevi,FRA,M,1.72,65,12-02-88,Chambray-les-Tours,Le Mans,Valenciennes,2013,French
+11,11,Pape Abdou Camara,SEN,M,1.90,80,24-09-91,Dakar,Standard Liège,Valenciennes,2013,French
+12,12,Carl Medjani,ALG,D,1.84,84,15-05-85,Lyon,Monaco,Valenciennes,2013,French
+13,13,Mody Traoré,FRA,D,1.73,70,14-07-80,Metz,Nancy,Valenciennes,2013,French
+14,14,Opa Nguette,FRA,F,1.81,73,08-07-94,Mantes-la-Jolie,Mantes,Valenciennes,2013,French
+16,16,Magno Macédo Novaes,BRA,G,1.84,79,30-03-83,São Paulo,Bastia,Valenciennes,2013,French
+17,17,Loris Nery,FRA,D,1.74,73,05-02-91,Saint-Etienne,St-Etienne,Valenciennes,2013,French
+18,18,Kenny Lala,FRA,D,1.87,83,03-10-91,VIllepinte,Paris FC,Valenciennes,2013,French
+19,19,Anthony Le Tallec,FRA,F,1.84,73,03-10-84,Hennebont,Auxerre,Valenciennes,2013,French
+20,20,Lindsay Rose,FRA,D,1.84,79,08-02-92,Rennes,Laval,Valenciennes,2013,French
+21,21,Saliou Ciss,SEN,D,1.73,69,15-09-89,Dakar,Tromsø,Valenciennes,2013,French
+22,22,Kama Massampu,FRA,F,1.75,75,26-12-91,Mantes-la-Jolie,None,Valenciennes,2013,French
+24,24,Gary Kagelmacher,URU,M,1.83,80,21-04-88,Montevideo,Monaco,Valenciennes,2013,French
+25,25,Rudy Mater,FRA,D,1.78,70,13-10-80,Valenciennes,Cannes,Valenciennes,2013,French
+26,26,Marco Da Silva,FRA,M,1.82,72,10-04-92,Compiègne,Compiègne,Valenciennes,2013,French
+27,27,Maor Melikson,ISR,M,1.75,70,30-10-84,Yavne,Wisła Kraków,Valenciennes,2013,French
+28,28,Grégory Pujol,FRA,F,1.83,70,25-01-80,Paris,Sedan,Valenciennes,2013,French
+29,29,Waris Majeed,GHA,F,1.72,71,19-09-91,Tamale,Spartak Moscow,Valenciennes,2013,French
+30,30,Paul Charruau,FRA,G,1.86,85,12-07-93,Paris,None,Valenciennes,2013,French
