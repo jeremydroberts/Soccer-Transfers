@@ -1,0 +1,685 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Etrit Berisha,ALB,G,1.94,92,10-03-89,Pritina,Lazio,Atalanta,2016,Italian
+3,3,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,São Paulo,Atalanta,2016,Italian
+4,4,Bryan Cristante,ITA,M,1.86,78,03-03-95,San Vito al Tagliamento,Benfica,Atalanta,2016,Italian
+5,5,Andrea Masiello,ITA,D,1.84,82,05-02-86,Viareggio,Bari,Atalanta,2016,Italian
+6,6,Ervin Zukanović,BIH,D,1.90,85,11-02-87,Sarajevo,Roma,Atalanta,2016,Italian
+7,7,Marco D'Alessandro,ITA,M,1.73,66,17-02-91,Rome,Roma,Atalanta,2016,Italian
+8,8,Giulio Migliaccio,ITA,M,1.80,81,23-06-81,Mugnano di Napoli,Palermo,Atalanta,2016,Italian
+9,9,Aleksandar Peić,SRB,F,1.90,87,21-05-92,Ni,Toulouse,Atalanta,2016,Italian
+10,10,Alejandro Gómez,ARG,M,1.65,68,15-02-88,Capital Federal,Metalist Kharkiv,Atalanta,2016,Italian
+11,11,Remo Freuler,SUI,M,1.81,77,15-04-92,Ennenda,Luzern,Atalanta,2016,Italian
+13,13,Mattia Caldara,ITA,D,1.87,80,05-05-94,Bergamo,Juventus,Atalanta,2016,Italian
+19,19,Franck Kessie,CIV,M,1.83,77,19-12-96,Ouragahio,Stella Club d'Adjamé,Atalanta,2016,Italian
+22,22,Roberto Taliento,ITA,G,1.87,76,08-07-99,Segrate,None,Atalanta,2016,Italian
+24,24,Andrea Conti,ITA,D,1.84,76,02-03-94,Lecco,None,Atalanta,2016,Italian
+25,25,Abdoulay Konko,FRA,D,1.82,77,09-03-84,Marseille,Lazio,Atalanta,2016,Italian
+27,27,Jasmin Kurtić,SVN,M,1.86,88,10-01-89,Črnomelj,Sassuolo,Atalanta,2016,Italian
+29,29,Andrea Petagna,ITA,F,1.88,85,30-06-95,Trieste,Milan,Atalanta,2016,Italian
+31,31,Francesco Rossi,ITA,G,1.93,83,27-04-91,Merate,None,Atalanta,2016,Italian
+33,33,Hans Hateboer,NED,D,1.87,74,09-01-94,Beerta,FC Groningen,Atalanta,2016,Italian
+37,37,Leonardo Spinazzola,ITA,F,1.86,75,25-03-93,Foligno,Juventus,Atalanta,2016,Italian
+41,43,Alberto Paloschi,ITA,F,1.82,80,04-01-90,Chiari,Swansea C,Atalanta,2016,Italian
+42,47,Stefano Mazzini,ITA,G,1.91,80,06-12-98,Crema,None,Atalanta,2016,Italian
+43,52,Bryan Cabezas,ECU,M,1.82,72,20-03-97,Quevedo,Independiente del Valle,Atalanta,2016,Italian
+44,77,Cristian Raimondi,ITA,M,1.82,78,30-04-81,San Giovanni in Bianco,Livorno,Atalanta,2016,Italian
+45,87,Anthony Mounier,FRA,F,1.74,65,27-09-87,Aubenas,Bologna,Atalanta,2016,Italian
+46,88,Alberto Grassi,ITA,M,1.83,75,07-03-95,Brescia,Napoli,Atalanta,2016,Italian
+47,91,Pierluigi Gollini,ITA,G,1.88,82,18-03-95,Bologna,Aston Villa,Atalanta,2016,Italian
+48,92,Salvatore Molina,ITA,M,1.77,74,01-01-92,Garbagnate Milanese,None,Atalanta,2016,Italian
+49,93,Boukary Dramé,SEN,D,1.81,74,22-07-85,Villepinte,Chievo Verona,Atalanta,2016,Italian
+50,94,Filippo Melegoni,ITA,M,1.85,64,18-02-99,Bergamo,None,Atalanta,2016,Italian
+51,95,Alessandro Bastoni,ITA,D,1.90,81,13-04-99,Casalmaggiore,None,Atalanta,2016,Italian
+52,97,Riccardo Gatti,ITA,D,1.87,80,30-03-97,Lecco,None,Atalanta,2016,Italian
+53,98,Christian Capone,ITA,F,1.74,63,28-04-99,Vigevano,None,Atalanta,2016,Italian
+54,99,Emmanuel Latte Lath,CIV,F,1.80,75,01-01-99,Anoumabo,None,Atalanta,2016,Italian
+1,1,Angelo da Costa,BRA,G,1.86,81,12-11-83,São Bernardo do Campo,Sampdoria,Bologna,2016,Italian
+2,2,Marios Oikonomou,GRE,D,1.89,85,06-10-92,Giannina,Cagliari,Bologna,2016,Italian
+4,4,Emil Krafth,SWE,D,1.81,79,02-08-94,Stockholm,Helsingborgs IF,Bologna,2016,Italian
+5,5,Erick Pulgar,CHI,M,1.86,83,15-01-94,Antofagasta,Universidad Católica,Bologna,2016,Italian
+6,6,Federico Viviani,ITA,M,1.80,75,24-03-92,Lecco,Verona,Bologna,2016,Italian
+8,8,Saphir Taïder,ALG,M,1.80,73,29-02-92,Castres,Internazionale,Bologna,2016,Italian
+9,9,Simone Verdi,ITA,F,1.72,62,12-07-92,Broni,Milan,Bologna,2016,Italian
+10,10,Mattia Destro,ITA,F,1.78,72,20-03-91,Ascoli Piceno,Roma,Bologna,2016,Italian
+11,11,Ladislav Krejčí,CZE,M,1.80,68,05-07-92,Prague,Sparta Prague,Bologna,2016,Italian
+12,12,Juan Manuel Valencia,COL,M,1.85,79,20-06-98,Suárez,Cortuluá,Bologna,2016,Italian
+13,13,Fabrizio Brignani,ITA,D,1.82,75,13-01-98,Asola,Cremonese,Bologna,2016,Italian
+14,14,Federico Di Francesco,ITA,F,1.78,75,14-06-94,Pisa,Virtus Lanciano,Bologna,2016,Italian
+15,15,Ibrahima Mbaye,SEN,D,1.87,70,19-11-94,Guédiawaye,Internazionale,Bologna,2016,Italian
+16,16,Ádám Nagy,HUN,M,1.78,74,17-06-95,Budapest,Ferencváros,Bologna,2016,Italian
+17,17,Godfred Donsah,GHA,M,1.75,70,07-06-96,Accra,Cagliari,Bologna,2016,Italian
+18,18,Filip Helander,SWE,D,1.92,84,22-04-93,Malmö,Verona,Bologna,2016,Italian
+19,19,Umar Sadiq,NGA,F,1.92,75,02-02-97,Lagos,Roma,Bologna,2016,Italian
+20,20,Domenico Maietta,ITA,D,1.84,75,03-08-82,Cariati,Verona,Bologna,2016,Italian
+21,21,Bruno Petković,CRO,F,1.92,88,16-09-94,Metković,Trapani,Bologna,2016,Italian
+22,22,Luca Rizzo,ITA,M,1.88,80,24-04-92,Genoa,Sampdoria,Bologna,2016,Italian
+25,25,Adam Masina,MAR,D,1.91,87,02-01-94,Khouribga,None,Bologna,2016,Italian
+28,28,Daniele Gastaldello,ITA,D,1.85,77,25-06-83,Camposampiero,Sampdoria,Bologna,2016,Italian
+30,30,Orji Okwonkwo,NGA,F,1.81,72,19-01-98,Benin City,Football College Abuja,Bologna,2016,Italian
+34,34,Federico Ravaglia,ITA,G,1.90,80,11-11-99,Bologna,None,Bologna,2016,Italian
+35,35,Vasilis Torosidis,GRE,D,1.86,82,10-06-85,Xanthi,Roma,Bologna,2016,Italian
+41,42,Gianluca Frabotta,ITA,D,1.76,70,24-06-99,Rome,Savio,Bologna,2016,Italian
+42,44,Vincenzo Silvestro,ITA,M,1.75,67,31-07-98,Bologna,None,Bologna,2016,Italian
+43,69,Mattia Cozzari,ITA,M,1.78,74,06-05-99,Bentivoglio,None,Bologna,2016,Italian
+44,72,Giordano Trovade,ITA,M,1.78,74,23-05-98,Este,Padova,Bologna,2016,Italian
+45,75,Emanuele Monari,ITA,G,1.90,79,05-05-98,Bologna,None,Bologna,2016,Italian
+46,80,Alessandro Bianconi,ITA,D,,,20-01-99,Bentivoglio,None,Bologna,2016,Italian
+47,83,Antonio Mirante,ITA,G,1.93,78,08-07-83,Castellammare di Stabia,Parma,Bologna,2016,Italian
+48,97,Mouhamadou Sarr,SEN,G,1.90,78,05-01-97,Kaolack,None,Bologna,2016,Italian
+49,98,Aaron Tabacchi,ITA,F,1.78,70,26-06-98,Bologna,None,Bologna,2016,Italian
+1,1,Rafael,ITA,G,1.87,80,03-03-82,São Paulo,Verona,Cagliari,2016,Italian
+2,2,Bruno Alves,POR,D,1.89,80,27-11-81,Porto,Fenerbahçe,Cagliari,2016,Italian
+3,3,Mauricio Isla,CHI,D,1.76,75,12-06-88,Buin,Juventus,Cagliari,2016,Italian
+4,4,Daniele Dessena,ITA,M,1.83,75,10-05-87,Parma,Sampdoria,Cagliari,2016,Italian
+8,8,Davide Di Gennaro,ITA,M,1.81,71,16-06-88,Milan,Palermo,Cagliari,2016,Italian
+9,9,Federico Melchiorri,ITA,F,1.85,75,06-01-87,Treia,Pescara,Cagliari,2016,Italian
+10,10,João Pedro,BRA,M,1.84,73,09-03-92,Ipatinga,Estoril,Cagliari,2016,Italian
+12,12,Senna Miangue,BEL,D,1.92,81,05-02-97,Antwerp,Internazionale,Cagliari,2016,Italian
+13,13,Roberto Colombo,ITA,G,1.90,80,24-08-75,Monza,Napoli,Cagliari,2016,Italian
+15,15,Vasco Oliveira,POR,D,1.86,73,28-05-00,Lisbon,Benfica,Cagliari,2016,Italian
+16,16,Paolo Faragò,ITA,M,1.87,80,12-02-93,Catanzaro,Novara,Cagliari,2016,Italian
+17,17,Diego Farias,BRA,F,1.72,66,10-05-90,Sorocaba,Chievo Verona,Cagliari,2016,Italian
+18,18,Nicolò Barella,ITA,M,1.72,68,07-02-97,Cagliari,None,Cagliari,2016,Italian
+19,19,Fabio Pisacane,ITA,D,1.78,77,28-01-86,Naples,Avellino,Cagliari,2016,Italian
+20,20,Simone Padoin,ITA,M,1.79,73,18-03-84,Gemona del Friuli,Juventus,Cagliari,2016,Italian
+21,21,Artur Ioniţă,MDA,M,1.84,73,17-08-90,Chişinău,Verona,Cagliari,2016,Italian
+22,22,Marco Borriello,ITA,F,1.85,76,18-06-82,Naples,Atalanta,Cagliari,2016,Italian
+23,23,Luca Ceppitelli,ITA,D,1.86,83,11-08-89,Castiglione del Lago,Parma,Cagliari,2016,Italian
+24,24,Marco Capuano,ITA,D,1.85,80,14-10-91,Pescara,Pescara,Cagliari,2016,Italian
+25,25,Marco Sau,ITA,F,1.69,65,03-11-87,Sorgono,Foggia,Cagliari,2016,Italian
+26,26,Luca Crosta,ITA,G,1.90,78,23-02-98,Milan,Milan,Cagliari,2016,Italian
+27,27,Illia Briukhov,UKR,D,1.85,70,08-08-98,Donetsk,Kremin Kremenchuk,Cagliari,2016,Italian
+28,28,Gabriel Vasconcellos,BRA,G,1.93,89,27-09-92,Unaí,Milan,Cagliari,2016,Italian
+29,29,Nicola Murru,ITA,D,1.80,64,16-12-94,Cagliari,None,Cagliari,2016,Italian
+30,30,Alessandro Deiola,ITA,M,1.89,85,01-08-95,San Gavino Monreale,None,Cagliari,2016,Italian
+32,32,Han Kwang-Song,PRK,F,1.78,70,11-09-98,Pyongyang,Chobyong,Cagliari,2016,Italian
+33,33,Roberto Biancu,ITA,M,1.76,70,19-01-00,Sassari,None,Cagliari,2016,Italian
+34,34,Matias Antonini Lui,BRA,M,1.92,80,09-04-98,Porto Alegre,Internazionale,Cagliari,2016,Italian
+35,35,Bartosz Salamon,POL,D,1.96,89,01-05-91,Poznań,Sampdoria,Cagliari,2016,Italian
+36,36,Andrea Mastino,ITA,D,1.76,73,02-09-99,Carbonia,None,Cagliari,2016,Italian
+37,37,Nicholas Pennington,ITA,M,1.80,62,18-12-98,Rome,None,Cagliari,2016,Italian
+38,38,Federico Serra,ITA,M,1.66,63,09-12-97,Cagliari,None,Cagliari,2016,Italian
+39,39,Matteo Volteggi,ITA,D,1.85,75,23-02-98,Urbino,Bologna,Cagliari,2016,Italian
+40,40,Andrea Cadili,ITA,D,,,05-06-99,San Gavino Monreale,None,Cagliari,2016,Italian
+41,41,Davide Arras,ITA,F,1.82,72,02-04-98,Olbia,Juventus,Cagliari,2016,Italian
+42,43,Mirko Bizzi,ITA,G,,,18-08-99,Segrate,Monza,Cagliari,2016,Italian
+43,44,Riccardo Daga,ITA,G,1.92,78,13-01-00,Cagliari,None,Cagliari,2016,Italian
+44,45,Riccardo Taccori,ITA,M,1.70,63,15-02-98,Cagliari,None,Cagliari,2016,Italian
+45,77,Panagiotis Tachtsidis,GRE,M,1.91,86,15-02-91,Nafplio,Torino,Cagliari,2016,Italian
+1,1,Jonathan de Guzmán,NED,M,1.75,70,13-09-87,Scarborough [CAN],Napoli,Chievo Verona,2016,Italian
+2,2,Nicolás Spolli,ARG,D,1.92,90,20-02-83,Rosario,Carpi,Chievo Verona,2016,Italian
+3,3,Dario Dainelli,ITA,D,1.91,78,09-06-79,Pontedera,Genoa,Chievo Verona,2016,Italian
+4,4,Nicola Rigoni,ITA,M,1.87,84,12-11-90,Schio,Vicenza,Chievo Verona,2016,Italian
+5,5,Alessandro Gamberini,ITA,D,1.85,80,27-08-81,Bologna,Napoli,Chievo Verona,2016,Italian
+7,7,Serge Gakpé,TOG,M,1.77,79,07-05-87,Bondy,Genoa,Chievo Verona,2016,Italian
+8,8,Ivan Radovanović,SRB,M,1.86,80,29-08-88,Belgrade,Atalanta,Chievo Verona,2016,Italian
+9,9,Andrea Isufaj,ITA,F,1.82,73,21-11-99,Bressanone,Arezzo,Chievo Verona,2016,Italian
+12,12,Botjan Cesar,SVN,D,1.91,89,09-07-82,Ljubljana,Grenoble,Chievo Verona,2016,Italian
+13,13,Mariano Izco,ARG,M,1.80,76,13-03-83,Capital Federal,Catania,Chievo Verona,2016,Italian
+15,15,Cesare Pogliano,ITA,D,1.90,76,08-01-98,Mantova,None,Chievo Verona,2016,Italian
+16,16,Edoardo Sbampato,ITA,D,1.85,,05-02-98,Isola della Scala,None,Chievo Verona,2016,Italian
+17,17,Bismark Ngissah,GHA,F,,,09-01-98,,None,Chievo Verona,2016,Italian
+18,18,Massimo Gobbi,ITA,D,1.82,76,31-10-80,Milan,Parma,Chievo Verona,2016,Italian
+19,19,Lucas Castro,ARG,M,1.82,79,09-04-89,La Plata,Catania,Chievo Verona,2016,Italian
+20,20,Gennaro Sardo,ITA,D,1.90,87,08-05-79,Pozzuoli,Catania,Chievo Verona,2016,Italian
+21,21,Nicolas Frey,FRA,D,1.80,80,06-03-84,Nice,Modena,Chievo Verona,2016,Italian
+22,22,Filippo Pavoni,ITA,G,1.87,73,08-08-99,Verona,None,Chievo Verona,2016,Italian
+23,23,Valter Birsa,SVN,M,1.84,81,07-08-86,Sempeter pri Gorici,Milan,Chievo Verona,2016,Italian
+25,25,Raul Oprut,ROU,D,1.84,78,04-01-98,Oțelu Roșu,Genoa,Chievo Verona,2016,Italian
+28,28,Samuel Bastien,BEL,M,1.75,73,26-09-96,Meux,Anderlecht,Chievo Verona,2016,Italian
+29,29,Fabrizio Cacciatore,ITA,D,1.82,85,08-10-86,Turin,Sampdoria,Chievo Verona,2016,Italian
+31,31,Sergio Pellissier,ITA,F,1.75,76,12-04-79,Aosta,Torino,Chievo Verona,2016,Italian
+32,32,Walter Bressan,ITA,G,1.82,78,26-01-81,Oderzo,Cesena,Chievo Verona,2016,Italian
+41,45,Roberto Inglese,ITA,F,1.86,85,12-11-91,Lucera,Pescara,Chievo Verona,2016,Italian
+42,55,Emanuel Vignato,BRA,M,1.75,70,24-08-00,Negrar,None,Chievo Verona,2016,Italian
+43,56,Perparim Hetemaj,FIN,M,1.76,76,12-12-86,Srbica,Brescia,Chievo Verona,2016,Italian
+44,69,Riccardo Meggiorini,ITA,F,1.82,78,04-09-85,Isola della Scala,Torino,Chievo Verona,2016,Italian
+45,70,Stefano Sorrentino,ITA,G,1.86,84,28-03-79,Cava dei Tirreni,Palermo,Chievo Verona,2016,Italian
+46,77,Michele Troiani,ITA,D,1.77,72,21-07-96,Verona,None,Chievo Verona,2016,Italian
+47,78,Mohamed Rabbas,MAR,M,1.78,70,29-09-99,Fquih Ben Salah,None,Chievo Verona,2016,Italian
+48,80,Sofian Kiyine,BEL,M,1.82,72,02-10-97,Verviers,Standard Liège,Chievo Verona,2016,Italian
+49,90,Andrea Seculin,ITA,G,1.90,80,14-07-90,Gorizia,Fiorentina,Chievo Verona,2016,Italian
+50,94,N'Diaye Djiby,SEN,M,1.86,82,05-01-94,Thiès,None,Chievo Verona,2016,Italian
+51,97,Fabio Depaoli,ITA,M,1.78,74,24-04-97,Riva del Garda,None,Chievo Verona,2016,Italian
+52,98,Alessandro Confente,ITA,G,1.88,73,07-06-98,Soave,None,Chievo Verona,2016,Italian
+1,1,Alex Cordaz,ITA,G,1.88,83,01-01-83,Vittorio Veneto,Parma,Crotone,2016,Italian
+3,3,Claiton dos Santos,BRA,D,1.86,79,07-09-84,Santa Helena de Goiás,Chievo Verona,Crotone,2016,Italian
+5,5,Marco Festa,ITA,G,1.90,85,06-06-92,Montichiari,Mantova,Crotone,2016,Italian
+6,6,Marcus Rohdén,SWE,M,1.82,76,11-05-91,Värnamo,IF Elfsborg,Crotone,2016,Italian
+8,8,Lorenzo Crisetig,ITA,M,1.84,80,20-01-93,Cividale del Friuli,Bologna,Crotone,2016,Italian
+9,9,Andrea Nalini,ITA,M,1.79,72,20-06-90,Isola della Scala,Salernitana,Crotone,2016,Italian
+11,11,Diego Falcinelli,ITA,F,1.85,75,26-06-91,Marsciano,Sassuolo,Crotone,2016,Italian
+12,12,Adrian Stoian,ROU,M,1.78,66,11-02-91,Craiova,Chievo Verona,Crotone,2016,Italian
+13,13,Gian Marco Ferrari,ITA,D,1.89,82,15-05-92,Parma,Sassuolo,Crotone,2016,Italian
+15,15,Djamel Mesbah,ALG,D,1.79,74,09-10-84,Zighoud Youcef,Sampdoria,Crotone,2016,Italian
+17,17,Federico Ceccherini,ITA,D,1.87,75,11-05-92,Livorno,Livorno,Crotone,2016,Italian
+18,18,Andrea Barberis,ITA,M,1.77,73,11-12-93,Genoa,Varese,Crotone,2016,Italian
+20,20,Andrej Kotnik,SVN,M,1.89,84,04-08-95,Nova Gorica,ND Gorica,Crotone,2016,Italian
+21,21,Giuseppe Cuomo,ITA,D,1.90,79,02-02-98,Vico Equense,None,Crotone,2016,Italian
+22,22,Aleandro Rosi,ITA,D,1.84,80,17-05-87,Rome,Genoa,Crotone,2016,Italian
+23,23,Noë Dussenne,BEL,D,1.91,85,07-04-92,Mons,Excel Mouscron,Crotone,2016,Italian
+24,24,Aleksander Tonev,BUL,M,1.78,65,03-02-90,Elin Pelin,Frosinone,Crotone,2016,Italian
+27,27,Maxwell Boadu Acosty,GHA,M,1.78,75,10-09-91,Accra,Latina,Crotone,2016,Italian
+28,28,Leonardo Capezzi,ITA,M,1.78,72,28-03-95,Figline Valdarno,Sampdoria,Crotone,2016,Italian
+29,29,Marcello Trotta,ITA,F,1.88,85,29-09-92,Santa Maria Capua Vetere,Sassuolo,Crotone,2016,Italian
+31,31,Mario Sampirisi,ITA,D,1.88,75,31-10-92,Caltagirone,Vicenza,Crotone,2016,Italian
+33,33,Aniello Viscovo,ITA,G,1.90,79,21-06-99,Massa di Somma,None,Crotone,2016,Italian
+41,42,Ćazim Suljić,BIH,M,1.78,74,29-10-96,Saint-Priest-en-Jarez,St-Etienne,Crotone,2016,Italian
+42,87,Bruno Martella,ITA,D,1.83,78,14-08-92,Atri,Sampdoria,Crotone,2016,Italian
+43,92,Giuseppe Borello,ITA,F,1.67,60,28-04-99,Catanzaro,None,Crotone,2016,Italian
+44,98,Manuel Nicoletti,ITA,D,1.80,73,09-12-98,Catanzaro,None,Crotone,2016,Italian
+45,99,Simy Nwankwo,NGA,F,1.98,84,07-05-92,Lagos,Portimonense,Crotone,2016,Italian
+1,1,Maurizio Pugliesi,ITA,G,1.87,79,27-12-76,Pontedera,Pisa,Empoli,2016,Italian
+2,2,Vincent Laurini,FRA,D,1.73,72,10-06-89,Thionville,Carpi,Empoli,2016,Italian
+3,3,Marco Zambelli,ITA,D,1.82,77,22-08-85,Gavardo,Brescia,Empoli,2016,Italian
+4,4,Federico Dimarco,ITA,D,1.75,75,10-11-97,Milan,Internazionale,Empoli,2016,Italian
+5,5,José Mauri,ITA,M,1.69,65,16-05-96,Realicó,Milan,Empoli,2016,Italian
+6,6,Giuseppe Bellusci,ITA,D,1.85,80,21-08-89,Trebisacce,Leeds U,Empoli,2016,Italian
+7,7,Massimo Maccarone,ITA,F,1.80,70,06-09-79,Galliate,Sampdoria,Empoli,2016,Italian
+8,8,Assane Diousse,SEN,M,1.75,68,20-09-97,Dakar,None,Empoli,2016,Italian
+9,9,Levan Mchedlidze,GEO,F,1.90,85,24-03-90,Tbilisi,None,Empoli,2016,Italian
+10,10,Omar El Kaddouri,MAR,M,1.85,74,21-08-90,Brussels,Napoli,Empoli,2016,Italian
+11,11,Daniele Croce,ITA,M,1.75,68,09-09-82,Giulianova,Sorrento,Empoli,2016,Italian
+12,12,Gabriel Meli,ITA,G,1.88,75,05-02-99,Bagno a Ripoli,Prato,Empoli,2016,Italian
+13,13,Frédéric Veseli,ALB,D,1.83,80,20-11-92,Renens,Lugano,Empoli,2016,Italian
+14,14,Davide Seminara,ITA,D,1.82,77,05-07-98,Pisa,None,Empoli,2016,Italian
+15,15,Andrea Costa,ITA,D,1.82,73,01-02-86,Reggio Emilia,Parma,Empoli,2016,Italian
+16,16,Alessio Zini,ITA,D,1.78,,03-01-98,Pisa,None,Empoli,2016,Italian
+17,17,Miha Zajc,SVN,M,1.89,76,01-07-94,empeter pri Gorici,Olimpija Ljubljana,Empoli,2016,Italian
+18,18,Davide Buglio,ITA,M,,,26-02-98,Pietrasanta,Internazionale,Empoli,2016,Italian
+19,19,Federico Barba,ITA,D,1.88,77,01-09-93,Rome,Roma,Empoli,2016,Italian
+20,20,Manuel Pucciarelli,ITA,F,1.74,63,17-06-91,Prato,None,Empoli,2016,Italian
+21,21,Manuel Pasqual,ITA,D,1.87,71,13-03-82,San Donà di Piave,Fiorentina,Empoli,2016,Italian
+22,22,Elia Giampà,ITA,D,1.91,78,27-06-98,Florence,None,Empoli,2016,Italian
+23,23,Alberto Pelagotti,ITA,G,1.86,81,09-03-89,Empoli,None,Empoli,2016,Italian
+24,24,Uro Ćosić,SRB,D,1.86,82,24-10-92,Belgrade,Pescara,Empoli,2016,Italian
+25,25,Arnel Jakupović,AUT,F,1.86,79,29-05-98,Vienna,Middlesbrough,Empoli,2016,Italian
+26,26,Samuele Damiani,ITA,M,1.75,72,30-01-98,Poggibonsi,None,Empoli,2016,Italian
+27,27,Mame Baba Thiam,SEN,F,1.85,79,09-10-92,Ngiudile,Juventus,Empoli,2016,Italian
+28,28,Łukasz Skorupski,POL,G,1.87,84,05-05-91,Zabrze,Roma,Empoli,2016,Italian
+29,29,Hamed Junior Traoré,CIV,M,1.84,,16-02-00,Abidjan,None,Empoli,2016,Italian
+31,31,Alberto Picchi,ITA,M,1.85,69,12-08-97,Livorno,None,Empoli,2016,Italian
+33,33,Rade Krunić,BIH,M,1.84,74,07-10-93,Foča,Borac Čačak,Empoli,2016,Italian
+41,71,Lapo Carradori,ITA,D,1.75,70,06-06-98,Florence,None,Empoli,2016,Italian
+42,77,Marcel Büchel,AUT,M,1.75,71,18-03-91,Feldkirch,Juventus,Empoli,2016,Italian
+43,88,Andrés Tello,COL,M,1.81,80,06-09-96,Medellín,Juventus,Empoli,2016,Italian
+44,89,Guido Marilungo,ITA,F,1.75,72,09-08-89,Montegranaro,Atalanta,Empoli,2016,Italian
+2,2,Gonzalo Rodríguez,ARG,D,1.78,76,10-04-84,Buenos Aires,Villarreal,Fiorentina,2016,Italian
+4,4,Sébastian De Maio,FRA,D,1.90,90,05-03-87,Saint-Denis,Anderlecht,Fiorentina,2016,Italian
+5,5,Milan Badelj,CRO,M,1.86,76,25-02-89,Zagreb,Hamburg,Fiorentina,2016,Italian
+6,6,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,Aston Villa,Fiorentina,2016,Italian
+8,8,Matías Vecino,URU,M,1.89,81,24-08-91,Canelones,Nacional [URU],Fiorentina,2016,Italian
+9,9,Nikola Kalinić,CRO,F,1.86,78,05-01-88,Split,Dnipro Dnipropetrovsk,Fiorentina,2016,Italian
+10,10,Federico Bernardeschi,ITA,F,1.83,75,16-02-94,Carrara,None,Fiorentina,2016,Italian
+12,12,Ciprian Tătăruşanu,ROU,G,1.98,90,09-02-86,Bucharest,Steaua Bucureşti,Fiorentina,2016,Italian
+13,13,Davide Astori,ITA,D,1.88,80,07-01-87,San Giovanni Bianco,Cagliari,Fiorentina,2016,Italian
+15,15,Maximiliano Olivera,URU,D,1.81,72,05-03-92,Montevideo,Peñarol,Fiorentina,2016,Italian
+16,16,Cristian Tello,ESP,F,1.78,69,19-08-91,Sabadell,Barcelona,Fiorentina,2016,Italian
+18,18,Carlos Salcedo,MEX,D,1.88,77,29-09-93,Guadalajara,Guadalajara,Fiorentina,2016,Italian
+19,19,Sebastián Cristóforo,URU,M,1.75,68,23-08-93,Montevideo,Peñarol,Fiorentina,2016,Italian
+20,20,Borja Valero,ESP,M,1.76,75,12-01-85,Madrid,Villarreal,Fiorentina,2016,Italian
+21,21,Riccardo Saponara,ITA,M,1.84,73,21-12-91,Forli,Empoli,Fiorentina,2016,Italian
+22,22,Michele Cerofolini,ITA,G,1.88,80,04-01-99,Arezzo,None,Fiorentina,2016,Italian
+23,23,Giacomo Satalino,ITA,G,1.88,75,20-05-99,Putignano,Esperia Monopoli,Fiorentina,2016,Italian
+24,24,Ianis Hagi,ROU,M,1.72,68,22-10-98,Istanbul,Viitorul Constanţa,Fiorentina,2016,Italian
+25,25,Federico Chiesa,ITA,F,1.75,70,25-10-97,Genoa,None,Fiorentina,2016,Italian
+26,26,Joshua Perez,USA,M,1.65,63,21-01-98,La Habra,US U-20s,Fiorentina,2016,Italian
+27,27,Fabio Maistro,ITA,M,,,05-04-98,Rovigo,None,Fiorentina,2016,Italian
+28,28,Riccardo Baroni,ITA,D,1.86,70,19-09-98,Bagno a Ripoli,None,Fiorentina,2016,Italian
+30,30,Khouma Babacar,SEN,F,1.91,85,17-03-93,Thiès,None,Fiorentina,2016,Italian
+31,31,Hrvoje Milić,CRO,D,1.80,74,10-05-89,Osijek,Hajduk Split,Fiorentina,2016,Italian
+32,32,Jan Mlakar,SVN,F,1.83,77,23-10-98,Domale,Domale,Fiorentina,2016,Italian
+33,33,Simone Ghidotti,ITA,G,,,19-03-00,Brescia,None,Fiorentina,2016,Italian
+34,34,Thomas Reimão,POR,M,,,14-07-98,,Oeiras,Fiorentina,2016,Italian
+40,40,Nenad Tomović,SRB,D,1.84,81,30-08-87,Kragujevac,Genoa,Fiorentina,2016,Italian
+41,57,Marco Sportiello,ITA,G,1.92,86,10-05-92,Desio,Atalanta,Fiorentina,2016,Italian
+42,72,Josip Iličić,SVN,M,1.90,79,29-01-88,Kranj,Palermo,Fiorentina,2016,Italian
+43,97,Bartłomiej Drągowski,POL,G,1.88,74,19-08-97,Białystok,Jagiellonia Białystok,Fiorentina,2016,Italian
+1,1,Mattia Perin,ITA,G,1.88,74,10-11-92,Latina,None,Genoa,2016,Italian
+3,3,Santiago Gentiletti,ARG,D,1.84,79,09-01-85,Gödeken,Lazio,Genoa,2016,Italian
+4,4,Isaac Cofie,GHA,M,1.80,73,20-09-91,Accra,Chievo Verona,Genoa,2016,Italian
+5,5,Armando Izzo,ITA,D,1.83,76,02-03-92,Naples,Avellino,Genoa,2016,Italian
+8,8,Nicolás Burdisso,ARG,D,1.82,81,12-04-81,Altos de Chipión,Roma,Genoa,2016,Italian
+9,9,Giovanni Simeone,ARG,F,1.89,66,05-07-95,Madrid,River Plate,Genoa,2016,Italian
+10,10,Olivier Ntcham,FRA,M,1.80,80,09-02-96,Longjumeau,Manchester C,Genoa,2016,Italian
+11,11,Raffaele Palladino,ITA,F,1.82,73,17-04-84,Mugnano di Napoli,Crotone,Genoa,2016,Italian
+14,14,Davide Biraschi,ITA,D,1.82,73,02-07-94,Rome,Avellino,Genoa,2016,Italian
+15,15,Oscar Hiljemark,SWE,M,1.84,73,28-06-92,Värnamo,Palermo,Genoa,2016,Italian
+16,16,Andrea Beghetto,ITA,M,1.75,73,11-10-94,Perugia,SPAL,Genoa,2016,Italian
+17,17,Adel Taarabt,MAR,M,1.80,76,24-05-89,Taza,Benfica,Genoa,2016,Italian
+21,21,Lucas Orbán,ARG,D,1.84,76,03-02-89,Capital Federal,Valencia,Genoa,2016,Italian
+22,22,Darko Lazović,SRB,M,1.81,66,15-09-90,Čačak,Crvena Zvezda,Genoa,2016,Italian
+23,23,Eugenio Lamanna,ITA,G,1.86,80,07-08-89,Como,Siena,Genoa,2016,Italian
+24,24,Ezequiel Muñoz,ARG,D,1.85,83,08-10-90,Pergamino,Palermo,Genoa,2016,Italian
+26,26,Luca Zanimacchia,ITA,M,1.78,68,19-07-98,Desio,Legnago,Genoa,2016,Italian
+27,27,Goran Pandev,MKD,F,1.84,75,27-07-83,Strumica,Galatasaray,Genoa,2016,Italian
+28,28,Davide Brivio,ITA,D,1.85,81,17-03-88,Milan,Atalanta,Genoa,2016,Italian
+30,30,Luca Rigoni,ITA,M,1.85,72,07-12-84,Schio,Palermo,Genoa,2016,Italian
+32,32,Leonardo Morosini,ITA,M,1.75,70,13-10-95,Ponte San Pietro,Brescia,Genoa,2016,Italian
+33,33,Alex Coppola,ITA,D,1.90,84,30-03-97,Genoa,Sampdoria,Genoa,2016,Italian
+37,37,Massimo Tazzer,ITA,D,1.76,70,28-05-99,Genoa,None,Genoa,2016,Italian
+38,38,Luká Zima,CZE,G,1.96,86,09-01-94,Hradec Králové,Slavia Prague,Genoa,2016,Italian
+41,44,Miguel Veloso,POR,M,1.80,79,11-05-86,Coimbra,Dynamo Kyiv,Genoa,2016,Italian
+42,51,Mauricio Pinilla,CHI,F,1.87,78,04-02-84,San Bernardo,Atalanta,Genoa,2016,Italian
+43,58,Diego Faccioli,ITA,G,1.88,73,08-07-98,Turin,None,Genoa,2016,Italian
+44,59,Alessandro Quaini,ITA,M,1.82,78,17-09-98,Cremona,None,Genoa,2016,Italian
+45,64,Pietro Pellegri,ITA,F,1.88,78,17-03-01,Genoa,None,Genoa,2016,Italian
+46,83,Rubinho,BRA,G,1.84,90,04-08-82,Guarulhos,Como,Genoa,2016,Italian
+47,93,Diego Laxalt,URU,M,1.78,66,07-02-93,Montevideo,Internazionale,Genoa,2016,Italian
+48,94,Danilo Cataldi,ITA,M,1.80,70,06-08-94,Rome,Lazio,Genoa,2016,Italian
+49,98,Raúl Asencio,ESP,F,1.87,78,20-05-98,Villarreal,Burriana,Genoa,2016,Italian
+50,99,Nikola Ninković,SRB,M,1.82,69,19-12-94,Bogatić,Chievo Verona,Genoa,2016,Italian
+1,1,Samir Handanovič,SVN,G,1.93,89,14-07-84,Ljubljana,Udinese,Internazionale,2016,Italian
+2,2,Marco Andreolli,ITA,D,1.87,82,10-06-86,Ponte dell'Olio,Chievo Verona,Internazionale,2016,Italian
+5,5,Roberto Gagliardini,ITA,M,1.88,77,07-04-94,Bergamo,Atalanta,Internazionale,2016,Italian
+6,6,João Mário,POR,M,1.73,67,19-01-93,Porto,Sporting CP,Internazionale,2016,Italian
+7,7,Geoffrey Kondogbia,FRA,M,1.88,77,25-04-93,Saint-Denis,Monaco,Internazionale,2016,Italian
+8,8,Rodrigo Palacio,ARG,F,1.75,70,05-02-82,Bahía Blanca,Genoa,Internazionale,2016,Italian
+9,9,Mauro Icardi,ARG,F,1.81,75,19-02-93,Rosario,Sampdoria,Internazionale,2016,Italian
+11,11,Jonathan Biabiany,FRA,M,1.77,70,28-04-88,Paris,Parma,Internazionale,2016,Italian
+15,15,Cristian Ansaldi,ARG,D,1.81,76,20-09-86,Rosario,Genoa,Internazionale,2016,Italian
+17,17,Gary Medel,CHI,M,1.72,71,03-08-87,Santiago,Cardiff C,Internazionale,2016,Italian
+19,19,Éver Banega,ARG,M,1.74,69,29-06-88,Rosario,Sevilla,Internazionale,2016,Italian
+20,20,Trent Sainsbury,AUS,D,1.85,61,05-01-92,Perth [AUS],Jiangsu Suning,Internazionale,2016,Italian
+21,21,Davide Santon,ITA,D,1.87,77,02-01-91,Portomaggiore,Newcastle U,Internazionale,2016,Italian
+23,23,Éder,ITA,F,1.79,73,15-11-86,Lauro Muller,Sampdoria,Internazionale,2016,Italian
+24,24,Jeison Murillo,COL,D,1.83,70,27-05-92,Cali,Granada,Internazionale,2016,Italian
+25,25,Miranda,BRA,D,1.85,78,07-09-84,Paranavaí,Atlético Madrid,Internazionale,2016,Italian
+30,30,Juan Pablo Carrizo,ARG,G,1.87,87,06-05-84,Villa Constitución,Lazio,Internazionale,2016,Italian
+33,33,Danilo D'Ambrosio,ITA,D,1.80,75,09-09-88,Naples,Torino,Internazionale,2016,Italian
+40,40,Zinho Vanheusden,BEL,D,1.87,80,29-07-99,Hasselt,Standard Liège,Internazionale,2016,Italian
+41,41,Andreaw Gravillon,FRA,D,1.88,75,08-02-98,Pointe-à-Pitre,None,Internazionale,2016,Italian
+42,42,Rigoberto Rivas,HON,F,1.74,73,31-07-98,Balfate,Prato,Internazionale,2016,Italian
+43,43,Xian Emmers,BEL,M,1.78,,20-07-99,Lugano,KRC Genk,Internazionale,2016,Italian
+44,44,Ivan Periić,CRO,M,1.86,79,02-02-89,Split,Wolfsburg,Internazionale,2016,Italian
+45,46,Tommaso Berni,ITA,G,1.85,80,06-03-83,Florence,Torino,Internazionale,2016,Italian
+46,55,Yuto Nagatomo,JPN,D,1.70,68,12-09-86,Ehime,Cesena,Internazionale,2016,Italian
+47,77,Marcelo Brozović,CRO,M,1.80,65,16-11-92,Zagreb,Dinamo Zagreb,Internazionale,2016,Italian
+48,87,Antonio Candreva,ITA,M,1.80,72,28-02-87,Rome,Lazio,Internazionale,2016,Italian
+49,92,Michele Di Gregorio,ITA,G,,,27-07-97,Milan,None,Internazionale,2016,Italian
+50,93,Axel Mohamed Bakayoko,FRA,F,1.78,70,06-01-98,Paris,None,Internazionale,2016,Italian
+51,94,Guy Yao,CIV,D,1.82,76,20-01-96,Akrroukro,Parma,Internazionale,2016,Italian
+52,96,Gabriel Barbosa,BRA,F,1.78,68,30-08-96,São Bernardo do Campo,Santos,Internazionale,2016,Italian
+53,97,Ionuţ Andrei Radu,ROU,G,1.88,70,28-05-97,Bucharest,Pergolettese,Internazionale,2016,Italian
+54,98,Marco Carraro,ITA,M,1.78,74,09-01-98,Dolo,Padova,Internazionale,2016,Italian
+55,99,Andrea Pinamonti,ITA,F,1.86,74,19-05-99,Cles,None,Internazionale,2016,Italian
+1,1,Gianluigi Buffon,ITA,G,1.92,94,28-01-78,Carrara,Parma,Juventus,2016,Italian
+3,3,Giorgio Chiellini,ITA,D,1.87,86,14-08-84,Pisa,Fiorentina,Juventus,2016,Italian
+4,4,Mehdi Benatia,MAR,D,1.90,92,17-04-87,Courcouronnes,Bayern Munich,Juventus,2016,Italian
+5,5,Miralem Pjanić,BIH,M,1.80,70,02-04-90,Tuzla,Roma,Juventus,2016,Italian
+6,6,Sami Khedira,GER,M,1.89,90,04-04-87,Stuttgart,Real Madrid,Juventus,2016,Italian
+7,7,Juan Cuadrado,COL,M,1.79,71,26-05-88,Necoclí,Chelsea,Juventus,2016,Italian
+8,8,Claudio Marchisio,ITA,M,1.80,73,19-01-86,Turin,None,Juventus,2016,Italian
+9,9,Gonzalo Higuaín,ARG,F,1.84,87,10-12-87,Brest,Napoli,Juventus,2016,Italian
+12,12,Alex Sandro,BRA,D,1.81,81,26-01-91,Catanduva,FC Porto,Juventus,2016,Italian
+14,14,Federico Mattiello,ITA,D,1.82,73,14-07-95,Barga,None,Juventus,2016,Italian
+15,15,Andrea Barzagli,ITA,D,1.87,87,08-05-81,Fiesole,Wolfsburg,Juventus,2016,Italian
+17,17,Mario Mandukić,CRO,F,1.90,85,21-05-86,Slavonski Brod,Atlético Madrid,Juventus,2016,Italian
+18,18,Mario Lemina,GAB,M,1.84,85,01-09-93,Libreville,Marseille,Juventus,2016,Italian
+19,19,Leonardo Bonucci,ITA,D,1.90,86,01-05-87,Viterbo,Bari,Juventus,2016,Italian
+20,20,Marko Pjaca,CRO,M,1.86,85,06-05-95,Zagreb,Dinamo Zagreb,Juventus,2016,Italian
+21,21,Paulo Dybala,ARG,F,1.76,73,15-11-93,Laguna Larga,Palermo,Juventus,2016,Italian
+22,22,Kwadwo Asamoah,GHA,M,1.73,76,09-12-88,Accra,Udinese,Juventus,2016,Italian
+23,23,Daniel Alves,BRA,D,1.72,68,06-05-83,Juazeiro,Barcelona,Juventus,2016,Italian
+24,24,Daniele Rugani,ITA,D,1.90,82,29-07-94,Lucca,Empoli,Juventus,2016,Italian
+25,25,Neto,BRA,G,1.92,85,19-07-89,Araxá,Fiorentina,Juventus,2016,Italian
+26,26,Stephan Lichtsteiner,SUI,D,1.82,75,16-01-84,Adligenswil,Lazio,Juventus,2016,Italian
+27,27,Stefano Sturaro,ITA,M,1.81,82,09-03-93,Sanremo,Genoa,Juventus,2016,Italian
+28,28,Tomás Rincón,VEN,M,1.77,76,13-01-88,San Cristóbal,Genoa,Juventus,2016,Italian
+29,29,Paolo De Ceglie,ITA,D,1.84,75,17-09-86,Aosta,None,Juventus,2016,Italian
+32,32,Emil Audero,ITA,G,1.90,83,18-01-97,Mataram,None,Juventus,2016,Italian
+34,34,Moise Kean,ITA,F,1.82,72,28-02-00,Vercelli,None,Juventus,2016,Italian
+36,36,Leonardo Loria,ITA,G,1.95,91,28-03-99,Erice,Reggina,Juventus,2016,Italian
+38,38,Rolando Mandragora,ITA,M,1.83,76,29-06-97,Naples,Genoa,Juventus,2016,Italian
+40,40,Luca Coccolo,ITA,D,1.87,76,23-02-98,Cirié,None,Juventus,2016,Italian
+41,41,Mattias Andersson,SWE,D,1.86,83,13-03-98,Malmö,Malmö FF,Juventus,2016,Italian
+42,42,Mattia Del Favero,ITA,G,1.90,84,05-06-98,Florence,None,Juventus,2016,Italian
+43,43,Alessandro Semprini,ITA,D,1.82,70,24-02-98,Brescia,Brescia,Juventus,2016,Italian
+44,45,Simone Muratore,ITA,M,1.86,74,30-05-98,Cuneo,Saluzzio,Juventus,2016,Italian
+45,46,Mehdi Léris,FRA,M,1.85,74,23-05-98,Mont-de-Marsan,Chievo Verona,Juventus,2016,Italian
+1,1,Thomas Strakosha,ALB,G,1.86,78,19-03-95,Athens,Panionios,Lazio,2016,Italian
+2,2,Wesley Hoedt,NED,D,1.88,77,06-03-94,Alkmaar,AZ Alkmaar,Lazio,2016,Italian
+3,3,Stefan de Vrij,NED,D,1.88,78,05-02-92,Ouderkerk aan den IJssel,Feyenoord,Lazio,2016,Italian
+4,4,Patric,ESP,D,1.84,72,17-04-93,Mula,Barcelona B,Lazio,2016,Italian
+6,6,Jordan Lukaku,BEL,D,1.77,86,25-07-94,Antwerp,Oostende,Lazio,2016,Italian
+8,8,Duan Basta,SRB,M,1.83,72,18-08-84,Belgrade,Crvena Zvezda,Lazio,2016,Italian
+9,9,Filip Djordjević,SRB,F,1.86,80,28-09-87,Belgrade,Nantes,Lazio,2016,Italian
+10,10,Felipe Anderson,BRA,M,1.75,70,15-04-93,Brasília,Santos,Lazio,2016,Italian
+11,11,Luca Crecco,ITA,M,1.83,77,06-09-95,Rome,None,Lazio,2016,Italian
+13,13,Wallace,BRA,D,1.91,85,14-10-94,Rio de Janeiro,Sporting Braga,Lazio,2016,Italian
+14,14,Balde Diao Keita,SEN,F,1.84,80,08-03-95,Arbucias,Barcelona,Lazio,2016,Italian
+15,15,Bastos,ANG,D,1.80,77,23-11-91,Luanda,FC Rostov,Lazio,2016,Italian
+16,16,Marco Parolo,ITA,M,1.84,75,25-01-85,Gallarate,Parma,Lazio,2016,Italian
+17,17,Ciro Immobile,ITA,F,1.85,85,20-02-90,Torre Annunziata,Sevilla,Lazio,2016,Italian
+18,18,Luis Alberto,ESP,M,1.83,74,28-09-92,Jerez de la Frontera,Liverpool,Lazio,2016,Italian
+19,19,Senad Lulić,BIH,M,1.83,78,18-01-86,Mostar,Young Boys,Lazio,2016,Italian
+20,20,Lucas Biglia,ARG,M,1.78,63,30-01-86,Mercedes,Anderlecht,Lazio,2016,Italian
+21,21,Sergej Milinković-Savić,SRB,M,1.91,76,27-02-95,Lleida,KRC Genk,Lazio,2016,Italian
+22,22,Federico Marchetti,ITA,G,1.88,82,07-02-83,Bassano del Grappa,Cagliari,Lazio,2016,Italian
+25,25,Cristiano Lombardi,ITA,F,1.80,75,19-08-95,Viterbo,None,Lazio,2016,Italian
+26,26,Ştefan Radu,ROU,D,1.83,79,22-10-86,Bucharest,Dinamo Bucureşti,Lazio,2016,Italian
+31,31,Marius Adamonis,LTU,G,1.88,77,13-05-97,Panevėys,Atlantas Klaipėda,Lazio,2016,Italian
+37,37,Cassio Cardoselli,ITA,M,,,26-07-98,Rome,None,Lazio,2016,Italian
+41,41,Luca Borrelli,ITA,G,1.87,87,08-07-98,Rome,None,Lazio,2016,Italian
+42,43,Giorgio Spizzichino,ITA,D,,,10-08-99,Rome,Tor Tre Teste,Lazio,2016,Italian
+43,55,Ivan Vargić,CRO,G,1.92,93,15-03-87,Osijek,Rijeka,Lazio,2016,Italian
+44,71,Mamadou Tounkara,SEN,F,1.84,79,19-01-96,Blanes,Barcelona,Lazio,2016,Italian
+45,80,Duje Javorčić,CRO,M,1.83,71,25-11-99,Split,Split,Lazio,2016,Italian
+46,96,Alessandro Murgia,ITA,M,1.85,78,09-08-96,Rome,None,Lazio,2016,Italian
+47,97,Alessandro Rossi,ITA,F,1.84,72,03-01-97,Rome,None,Lazio,2016,Italian
+48,98,Michael Ijemuan Folorunsho,ITA,M,,,07-02-98,Rome,Savio,Lazio,2016,Italian
+49,99,Abukar Mohamed,FIN,M,1.86,80,01-01-99,Mogadishu,TPS Turku,Lazio,2016,Italian
+2,2,Mattia De Sciglio,ITA,D,1.83,74,20-10-92,Milan,None,Milan,2016,Italian
+5,5,Giacomo Bonaventura,ITA,M,1.80,75,22-08-89,San Severino Marche,Atalanta,Milan,2016,Italian
+7,7,Gerard Deulofeu,ESP,M,1.79,72,13-03-94,Barcelona,Everton,Milan,2016,Italian
+8,8,Suso,ESP,M,1.76,69,19-11-93,Cádiz,Liverpool,Milan,2016,Italian
+9,9,Gianluca Lapadula,ITA,F,1.78,69,07-02-90,Turin,Pescara,Milan,2016,Italian
+10,10,Keisuke Honda,JPN,M,1.82,75,13-06-86,Osaka,CSKA Moscow,Milan,2016,Italian
+11,11,Lucas Ocampos,ARG,F,1.87,84,11-07-94,Quilmes,Marseille,Milan,2016,Italian
+13,13,Alessio Romagnoli,ITA,D,1.88,78,12-01-95,Anzio,Roma,Milan,2016,Italian
+14,14,Matías Fernández,CHI,M,1.78,72,15-05-86,Merlo,Fiorentina,Milan,2016,Italian
+15,15,Gustavo Gómez,PAR,D,1.86,85,06-06-93,Misiones,Lanús,Milan,2016,Italian
+16,16,Andrea Poli,ITA,M,1.81,77,29-09-89,Vittorio Veneto,Sampdoria,Milan,2016,Italian
+17,17,Cristián Zapata,COL,D,1.86,82,30-09-86,Padilla Cauca,Villarreal,Milan,2016,Italian
+18,18,Riccardo Montolivo,ITA,M,1.81,65,18-01-85,Milan,Fiorentina,Milan,2016,Italian
+20,20,Ignazio Abate,ITA,D,1.80,73,12-11-86,Sant'Agata de' Goti,Torino,Milan,2016,Italian
+21,21,Leonel Vangioni,ARG,D,1.77,73,05-05-87,Villa Constitucion,River Plate,Milan,2016,Italian
+23,23,José Ernesto Sosa,ARG,M,1.79,72,19-06-85,Carcarañá,Beşiktaş,Milan,2016,Italian
+29,29,Gabriel Paletta,ITA,D,1.90,88,15-02-86,Longchamps,Parma,Milan,2016,Italian
+30,30,Marco Storari,ITA,G,1.87,76,07-01-77,Pisa,Cagliari,Milan,2016,Italian
+31,31,Luca Antonelli,ITA,D,1.84,79,11-02-87,Monza,Genoa,Milan,2016,Italian
+33,33,Juraj Kucka,SVK,M,1.86,86,26-02-87,Bojnice,Genoa,Milan,2016,Italian
+35,35,Alessandro Plizzari,ITA,G,1.90,80,12-03-00,Crema,None,Milan,2016,Italian
+41,46,Mattia El Hilali,MAR,M,1.78,74,20-01-98,Milan,None,Milan,2016,Italian
+42,54,Raul Zucchetti,ITA,M,1.78,74,28-01-98,Rho,None,Milan,2016,Italian
+43,63,Patrick Cutrone,ITA,F,1.83,75,03-01-98,Como,None,Milan,2016,Italian
+44,70,Carlos Bacca,COL,F,1.81,77,08-09-86,Barranquilla,Sevilla,Milan,2016,Italian
+45,73,Manuel Locatelli,ITA,M,1.85,75,08-01-98,Lecco,None,Milan,2016,Italian
+46,75,Alessandro Guarnone,ITA,G,1.85,75,27-03-99,Milan,None,Milan,2016,Italian
+47,80,Mario Paalić,CRO,M,1.88,82,09-02-95,Mainz,Chelsea,Milan,2016,Italian
+48,91,Andrea Bertolacci,ITA,M,1.79,75,11-01-91,Rome,Roma,Milan,2016,Italian
+49,96,Davide Calabria,ITA,D,1.76,70,06-12-96,Brescia,None,Milan,2016,Italian
+50,99,Gianluigi Donnarumma,ITA,G,1.96,90,25-02-99,Castellammare di Stabia,None,Milan,2016,Italian
+1,1,Rafael,BRA,G,1.86,83,20-05-90,Sorocaba,Santos,Napoli,2016,Italian
+2,2,Elseid Hysaj,ALB,D,1.82,70,02-02-94,Shkodër,Empoli,Napoli,2016,Italian
+3,3,Ivan Strinić,CRO,D,1.86,77,17-07-87,Split,Dnipro Dnipropetrovsk,Napoli,2016,Italian
+4,4,Emanuele Giaccherini,ITA,M,1.67,60,05-05-85,Bibbiena,Sunderland,Napoli,2016,Italian
+5,5,Allan,BRA,M,1.75,73,08-01-91,Rio de Janeiro,Udinese,Napoli,2016,Italian
+7,7,José Callejón,ESP,F,1.79,73,11-02-87,Motril,Real Madrid,Napoli,2016,Italian
+8,8,Jorginho,ITA,M,1.80,65,21-12-91,Imbituba,Verona,Napoli,2016,Italian
+11,11,Christian Maggio,ITA,D,1.84,79,11-02-82,Montecchio Maggiore,Sampdoria,Napoli,2016,Italian
+14,14,Dries Mertens,BEL,F,1.69,61,06-05-87,Leuven,PSV Eindhoven,Napoli,2016,Italian
+17,17,Marek Hamík,SVK,M,1.83,79,27-07-87,Banská Bystrica,Brescia,Napoli,2016,Italian
+18,18,Leandrinho,BRA,F,1.73,66,11-10-98,Ribeirão Claro,Ponte Preta,Napoli,2016,Italian
+19,19,Nikola Maksimović,SRB,D,1.93,82,25-11-91,Bajina Bata,Torino,Napoli,2016,Italian
+20,20,Piotr Zieliński,POL,M,1.80,75,20-05-94,Ząbkowice Śląskie,Udinese,Napoli,2016,Italian
+21,21,Vlad Chiricheş,ROU,D,1.83,75,14-11-89,Bacău,Tottenham H,Napoli,2016,Italian
+22,22,Luigi Sepe,ITA,G,1.85,75,08-05-91,Torre del Greco,None,Napoli,2016,Italian
+23,23,Alessio Zerbin,ITA,M,1.82,80,03-03-99,Novara,Gozzano,Napoli,2016,Italian
+24,24,Lorenzo Insigne,ITA,F,1.63,59,04-06-91,Naples,None,Napoli,2016,Italian
+25,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid,Bayern Munich,Napoli,2016,Italian
+26,26,Kalidou Koulibaly,SEN,D,1.95,89,20-06-91,Saint-Dié,KRC Genk,Napoli,2016,Italian
+30,30,Marko Rog,CRO,M,1.80,74,19-07-95,Varadin,Dinamo Zagreb,Napoli,2016,Italian
+31,31,Faouzi Ghoulam,ALG,D,1.88,80,01-02-91,Saint-Priest-en-Jarez,St-Etienne,Napoli,2016,Italian
+32,32,Leonardo Pavoletti,ITA,F,1.88,78,26-11-88,Livorno,Genoa,Napoli,2016,Italian
+33,33,Raúl Albiol,ESP,D,1.90,82,04-09-85,Vilamarxant,Real Madrid,Napoli,2016,Italian
+41,42,Amadou Diawara,GUI,M,1.84,74,17-07-97,Conakry,Bologna,Napoli,2016,Italian
+42,62,Lorenzo Tonelli,ITA,D,1.84,79,17-01-90,Florence,Empoli,Napoli,2016,Italian
+43,98,Marco Milanese,ITA,D,1.85,78,31-07-98,Isernia,Torino,Napoli,2016,Italian
+44,99,Arkadiusz Milik,POL,F,1.86,78,28-02-94,Tychy,Ajax,Napoli,2016,Italian
+1,1,Josip Posavec,CRO,G,1.90,84,10-03-96,Varadin,Inter Zapreić,Palermo,2016,Italian
+2,2,Roberto Vitiello,ITA,D,1.76,71,08-05-83,Scafati,Siena,Palermo,2016,Italian
+3,3,Andrea Rispoli,ITA,D,1.83,84,29-09-88,Cava de' Tirreni,Parma,Palermo,2016,Italian
+4,4,Sinia Andjelković,SVN,D,1.86,82,13-02-86,Kranj,Maribor,Palermo,2016,Italian
+5,5,Slobodan Rajković,SRB,D,1.91,87,03-02-89,Belgrade,Darmstadt,Palermo,2016,Italian
+6,6,Edoardo Goldaniga,ITA,D,1.88,82,02-11-93,Milan,Juventus,Palermo,2016,Italian
+8,8,Aleksandar Trajkovski,MKD,M,1.79,76,05-09-92,Skopje,Zulte-Waregem,Palermo,2016,Italian
+9,9,Stefan Silva,SWE,F,1.81,74,11-03-90,Sundbyberg,GIF Sundsvall,Palermo,2016,Italian
+11,11,Carlos Embalo,GNB,M,1.77,71,25-11-94,Bissau,Chaves,Palermo,2016,Italian
+12,12,Giancarlo González,CRC,D,1.86,78,08-02-88,San José [CRC],Columbus Crew,Palermo,2016,Italian
+14,14,Alessandro Gazzi,ITA,M,1.84,78,28-01-83,Feltre,Torino,Palermo,2016,Italian
+15,15,Thiago Rangel Cionek,POL,D,1.84,81,21-04-86,Curitiba,Modena,Palermo,2016,Italian
+18,18,Ivaylo Chochev,BUL,M,1.78,81,18-02-93,Pleven,CSKA Sofia,Palermo,2016,Italian
+19,19,Haitam Aleesami,NOR,D,1.81,73,31-07-91,Oslo,IFK Göteborg,Palermo,2016,Italian
+20,20,Roland Sallai,HUN,F,1.80,69,22-05-97,Székesfehérvár,Puskás Akadémia,Palermo,2016,Italian
+22,22,Sándor Norbert Balogh,HUN,F,1.97,80,21-02-96,Debrecen,Debrecen,Palermo,2016,Italian
+23,23,Alessandro Diamanti,ITA,F,1.80,75,02-05-83,Prato,Guangzhou Evergrande,Palermo,2016,Italian
+25,25,Bruno Henrique,BRA,M,1.80,75,21-10-89,Apucarana,Corinthians,Palermo,2016,Italian
+28,28,Mato Jajalo,CRO,M,1.80,80,25-05-88,Jajce,Rijeka,Palermo,2016,Italian
+30,30,Ilija Nestorovski,MKD,F,1.82,76,12-03-90,Prilep,Inter Zapreić,Palermo,2016,Italian
+41,44,Toni unjić,BIH,D,1.92,93,15-12-88,Mostar,Stuttgart,Palermo,2016,Italian
+42,55,Leonardo Marson,ITA,G,1.94,92,05-01-98,Udine,Milan,Palermo,2016,Italian
+43,56,Andrea Punzi,ITA,D,1.82,77,02-03-97,Palermo,None,Palermo,2016,Italian
+44,57,Samuele Guddo,ITA,G,1.88,75,02-07-99,Palermo,None,Palermo,2016,Italian
+45,58,Sebastian Breza,CAN,G,1.85,75,15-03-98,Ottawa,Monopoli,Palermo,2016,Italian
+46,60,Francesco Bonfiglio,ITA,F,1.63,,20-01-97,Palermo,None,Palermo,2016,Italian
+47,61,Gennaro Ruggiero,ITA,M,1.79,70,04-02-00,Naples,None,Palermo,2016,Italian
+48,68,Andrea Fulignati,ITA,G,1.88,88,31-10-94,Empoli,Sestese,Palermo,2016,Italian
+49,70,Simone Giuliano,ITA,D,1.80,74,28-04-97,Palermo,None,Palermo,2016,Italian
+50,89,Michel Morganella,SUI,D,1.84,78,17-05-89,Sierre,Novara,Palermo,2016,Italian
+51,97,Giuseppe Pezzella,ITA,D,1.87,85,29-11-97,Naples,None,Palermo,2016,Italian
+52,98,Simone Lo Faso,ITA,F,1.80,72,18-02-98,Palermo,None,Palermo,2016,Italian
+1,1,Vincenzo Fiorillo,ITA,G,1.90,78,13-01-90,Genoa,Juventus,Pescara,2016,Italian
+2,2,Alessandro Crescenzi,ITA,D,1.78,71,25-09-91,Marino,Roma,Pescara,2016,Italian
+3,3,Cristiano Biraghi,ITA,D,1.76,75,01-09-92,Cernusco sul Naviglio,Internazionale,Pescara,2016,Italian
+5,5,Alessandro Bruno,ITA,M,1.74,70,04-07-83,Benevento,Latina,Pescara,2016,Italian
+7,7,Valerio Verre,ITA,M,1.80,70,11-01-94,Rome,Sampdoria,Pescara,2016,Italian
+8,8,Ledian Memushaj,ALB,M,1.75,70,07-12-86,Vlorë,Lecce,Pescara,2016,Italian
+9,9,Grigoris Kastanos,CYP,M,1.79,71,30-01-98,Nicosia,Juventus,Pescara,2016,Italian
+10,10,Ahmad Benali,LBY,M,1.73,66,07-02-92,Manchester,Palermo,Pescara,2016,Italian
+11,11,Francesco Zampano,ITA,D,1.77,72,30-09-93,Genoa,Verona,Pescara,2016,Italian
+12,12,Gabriele Aldegani,ITA,G,1.95,92,10-05-76,Venice,Nocerina,Pescara,2016,Italian
+13,13,Sulley Muntari,GHA,M,1.79,76,27-08-84,Konongo,Al-Ittihad [KSA],Pescara,2016,Italian
+14,14,Hugo Campagnaro,ARG,D,1.81,85,27-06-80,Córdoba,Internazionale,Pescara,2016,Italian
+15,15,Jean-Christophe Bahebeck,FRA,F,1.82,76,01-05-93,Saint-Denis,Paris St-Germain,Pescara,2016,Italian
+16,16,Gastón Brugman,URU,M,1.78,75,07-09-92,Rosario,Empoli,Pescara,2016,Italian
+17,17,Gianluca Caprari,ITA,F,1.76,72,30-07-93,Rome,Internazionale,Pescara,2016,Italian
+18,18,Piermarco D'Angelo,ITA,M,1.78,74,25-10-99,Pescara,None,Pescara,2016,Italian
+19,19,Alberto Gilardino,ITA,F,1.84,79,05-07-82,Biella,Empoli,Pescara,2016,Italian
+20,20,Alberto Cerri,ITA,F,1.93,83,16-04-96,Parma,Juventus,Pescara,2016,Italian
+21,21,Simone Pepe,ITA,M,1.78,73,30-08-83,Albano Laziale,Chievo Verona,Pescara,2016,Italian
+23,23,Leonardo Maloku,ALB,D,1.81,74,18-05-98,Tirana,None,Pescara,2016,Italian
+24,24,Ibrahima Diallo,GUI,D,,,20-08-98,,RWS Bruxelles,Pescara,2016,Italian
+25,25,Filippo Delli Carri,ITA,D,1.89,77,03-05-99,Turin,None,Pescara,2016,Italian
+26,26,Davide Vitturini,ITA,D,1.80,72,21-02-97,L'Aquila,None,Pescara,2016,Italian
+28,28,Alexandru Mitriţă,ROU,M,1.70,75,08-02-95,Craiova,Viitorul Constanța,Pescara,2016,Italian
+29,29,Simone Mancini,ITA,F,1.90,80,07-01-99,Latina,Juventus,Pescara,2016,Italian
+30,30,Robert Murić,CRO,F,1.80,75,12-03-96,Varadin,Ajax,Pescara,2016,Italian
+31,31,Albano Bizzarri,ARG,G,1.93,89,09-11-77,Etruria,Chievo Verona,Pescara,2016,Italian
+32,32,Nazareno Battista,ITA,M,1.75,70,13-04-98,Foggia,Virtus Lanciano,Pescara,2016,Italian
+33,33,Mamadou Coulibaly,SEN,M,1.80,70,02-03-99,Thiès,None,Pescara,2016,Italian
+35,35,Andrea Coda,ITA,D,1.88,86,25-04-85,Massa,Sampdoria,Pescara,2016,Italian
+36,36,Adrián Cubas,ARG,M,1.65,70,22-05-96,Aristóbulo del Valle,Boca Juniors,Pescara,2016,Italian
+41,44,Michele Fornasier,ITA,D,1.86,80,22-08-93,Vittorio Veneto,Sampdoria,Pescara,2016,Italian
+42,83,Cesare Bovo,ITA,D,1.81,75,14-01-83,Rome,Torino,Pescara,2016,Italian
+43,86,Guglielmo Stendardo,ITA,D,1.90,88,06-05-81,Naples,Atalanta,Pescara,2016,Italian
+44,93,Hrvoje Miličević,CRO,M,1.92,83,20-04-93,Mostar,Zrinjski Mostar,Pescara,2016,Italian
+45,96,Marco Pompetti,ITA,M,1.76,70,22-05-00,Pescara,None,Pescara,2016,Italian
+46,98,Ferdinando Del Sole,ITA,M,1.80,72,17-01-98,Naples,None,Pescara,2016,Italian
+1,1,Wojciech Szczęsny,POL,G,1.95,84,18-04-90,Warsaw,Arsenal,Roma,2016,Italian
+2,2,Antonio Rüdiger,GER,D,1.90,85,03-03-93,Berlin,Stuttgart,Roma,2016,Italian
+3,3,Juan Jesus,BRA,D,1.85,76,10-06-91,Belo Horizonte,Internazionale,Roma,2016,Italian
+4,4,Radja Nainggolan,BEL,M,1.75,65,04-05-88,Antwerp,Cagliari,Roma,2016,Italian
+5,5,Leandro Paredes,ARG,M,1.80,75,29-06-94,San Justo,Boca Juniors,Roma,2016,Italian
+6,6,Kevin Strootman,NED,M,1.86,78,13-02-90,Ridderkerk,PSV Eindhoven,Roma,2016,Italian
+7,7,Clément Grenier,FRA,M,1.86,72,07-01-91,Annonay,Lyon,Roma,2016,Italian
+8,8,Diego Perotti,ARG,M,1.79,70,26-07-88,Moreno,Genoa,Roma,2016,Italian
+9,9,Edin Deko,BIH,F,1.93,84,17-03-86,Doboj,Manchester C,Roma,2016,Italian
+10,10,Francesco Totti,ITA,F,1.80,82,27-09-76,Rome,None,Roma,2016,Italian
+11,11,Mohamed Salah,EGY,M,1.75,72,15-06-92,Basyoun,Chelsea,Roma,2016,Italian
+13,13,Bruno Peres,BRA,D,1.78,72,01-03-90,São Paulo,Torino,Roma,2016,Italian
+15,15,Thomas Vermaelen,BEL,D,1.83,80,14-11-85,Kapellen,Barcelona,Roma,2016,Italian
+16,16,Daniele De Rossi,ITA,M,1.84,83,24-07-83,Rome,None,Roma,2016,Italian
+18,18,Bogdan Lobonţ,ROU,G,1.84,78,18-01-78,Hunedoara,Dinamo Bucureşti,Roma,2016,Italian
+19,19,Alisson Becker,BRA,G,1.91,91,02-10-92,Novo Hamburgo,Internacional,Roma,2016,Italian
+20,20,Federico Fazio,ARG,D,1.95,85,17-03-87,Ramos Mejía,Tottenham H,Roma,2016,Italian
+21,21,Mário Rui,POR,D,1.70,63,27-05-91,Sines,Empoli,Roma,2016,Italian
+24,24,Alessandro Florenzi,ITA,M,1.73,66,11-03-91,Rome,None,Roma,2016,Italian
+30,30,Gerson,BRA,M,1.75,65,20-05-97,Belford Roxo,Fluminense,Roma,2016,Italian
+33,33,Emerson Palmieri,BRA,D,1.76,63,03-08-94,Santos,Santos,Roma,2016,Italian
+35,35,Filippo Franchi,ITA,F,1.78,69,14-01-98,Rome,None,Roma,2016,Italian
+41,44,Konstantinos Manolas,GRE,D,1.89,83,14-06-91,Naxos,Olympiakos,Roma,2016,Italian
+42,48,Mirko Antonucci,ITA,M,1.81,70,11-03-99,Rome,None,Roma,2016,Italian
+43,49,Alessandro Bordin,ITA,M,1.76,72,01-08-98,Latina,None,Roma,2016,Italian
+44,50,Stefano Ciavattini,ITA,D,,,30-03-98,Rome,Lazio,Roma,2016,Italian
+45,52,Davide Frattesi,ITA,M,1.78,74,22-09-99,Rome,Lazio,Roma,2016,Italian
+46,53,Emanuele Spinozzi,ITA,M,1.78,74,23-07-98,Rome,None,Roma,2016,Italian
+47,55,Eros De Santis,ITA,D,1.83,76,30-10-97,Tivoli,None,Roma,2016,Italian
+48,57,Lorenzo Grossi,ITA,D,1.80,75,25-03-98,Rome,None,Roma,2016,Italian
+49,58,Luca Pellegrini,ITA,D,1.78,72,07-03-99,Rome,None,Roma,2016,Italian
+50,77,Stefano Greco,ITA,G,1.85,73,21-02-99,Galatina,Lecce,Roma,2016,Italian
+51,91,Riccardo Marchizza,ITA,D,1.85,80,26-03-98,Rome,None,Roma,2016,Italian
+52,92,Stephan El Shaarawy,ITA,F,1.78,72,27-10-92,Savona,Milan,Roma,2016,Italian
+53,93,Marco Tumminello,ITA,F,1.85,70,06-11-98,Erice,None,Roma,2016,Italian
+54,95,Andrea Romagnoli,ITA,G,1.88,80,29-07-98,Civitavecchia,None,Roma,2016,Italian
+55,96,Edoardo Soleri,ITA,F,1.94,75,19-10-97,Rome,Futbolclub,Roma,2016,Italian
+56,97,Keba Coly,SEN,F,1.84,79,20-02-98,Dakar,Spoltore,Roma,2016,Italian
+57,98,Lorenzo Crisanto,ITA,G,1.87,75,20-04-98,Prato,None,Roma,2016,Italian
+58,99,Abdullahi Nura,NGA,D,1.82,72,17-08-97,Kaduna,Spezia,Roma,2016,Italian
+1,1,Christian Puggioni,ITA,G,1.87,80,17-01-81,Genoa,Chievo Verona,Sampdoria,2016,Italian
+2,2,Emiliano Viviano,ITA,G,1.95,90,01-12-85,Fiesole,Palermo,Sampdoria,2016,Italian
+3,3,Stanley Amuzie,NGA,D,1.86,85,28-02-96,Lagos,Olhanense,Sampdoria,2016,Italian
+4,4,Lorenco imić,CRO,D,1.95,89,15-07-96,Split,Hajduk Split,Sampdoria,2016,Italian
+5,5,Dodô,BRA,D,1.77,75,06-02-92,Campinas,Internazionale,Sampdoria,2016,Italian
+8,8,Edgar Barreto,PAR,M,1.80,79,15-07-84,Asunción,Palermo,Sampdoria,2016,Italian
+9,9,Luis Muriel,COL,F,1.78,79,16-04-91,Santo Tomás,Udinese,Sampdoria,2016,Italian
+10,10,Bruno Fernandes,POR,M,1.79,75,08-09-94,Maia,Udinese,Sampdoria,2016,Italian
+11,11,Ricardo Álvarez,ARG,M,1.88,84,12-04-88,Capital Federal,Internazionale,Sampdoria,2016,Italian
+12,12,Titas Krapikas,LTU,G,1.95,85,03-01-99,Kaunas,None,Sampdoria,2016,Italian
+13,13,Gergely Hutvágner,HUN,G,1.92,78,01-07-00,Budapest,None,Sampdoria,2016,Italian
+14,14,Patrik Schick,CZE,F,1.86,73,24-01-96,Prague,Sparta Prague,Sampdoria,2016,Italian
+15,15,Ibou Baldé,ESP,F,1.75,67,23-03-99,Barcelona,Arezzo,Sampdoria,2016,Italian
+16,16,Karol Linetty,POL,M,1.76,73,02-02-95,Żnin,Lech Poznań,Sampdoria,2016,Italian
+17,17,Angelo Palombo,ITA,M,1.77,77,25-09-81,Ferentino,Fiorentina,Sampdoria,2016,Italian
+18,18,Dennis Praet,BEL,M,1.81,78,14-05-94,Leuven,Anderlecht,Sampdoria,2016,Italian
+19,19,Vasco Regini,ITA,D,1.85,79,09-09-90,Cesena,Cesena,Sampdoria,2016,Italian
+20,20,Daniel Pavlović,SUI,D,1.83,77,22-04-88,Rorschach,Grasshoppers,Sampdoria,2016,Italian
+21,21,Luca Cigarini,ITA,M,1.75,74,20-06-86,Montecchio Emilia,Atalanta,Sampdoria,2016,Italian
+22,22,Jacopo Sala,ITA,M,1.81,75,05-12-91,Alzano Lombardo,Verona,Sampdoria,2016,Italian
+23,23,Filip Djuričić,SRB,M,1.81,72,30-01-92,Obrenovac,Benfica,Sampdoria,2016,Italian
+24,24,Bartosz Bereszyński,POL,D,1.83,77,12-07-92,Poznań,Legia Warszawa,Sampdoria,2016,Italian
+26,26,Matías Silvestre,ARG,D,1.85,84,25-09-84,Capital Federal,Internazionale,Sampdoria,2016,Italian
+27,27,Fabio Quagliarella,ITA,F,1.80,79,31-01-83,Castellammare di Stabia,Torino,Sampdoria,2016,Italian
+29,29,Andrea Tessiore,ITA,M,1.77,63,01-10-99,Pietra Ligure,None,Sampdoria,2016,Italian
+30,30,Wladimiro Falcone,ITA,G,1.95,85,12-04-95,Rome,None,Sampdoria,2016,Italian
+31,31,Denis Baumgartner,SVK,M,1.76,71,02-02-98,Skalica,Senica,Sampdoria,2016,Italian
+32,32,Giacomo Vrioni,ITA,F,1.83,73,15-10-98,San Severino Marche,Matelica,Sampdoria,2016,Italian
+33,33,Pietro Cavagnaro,ITA,G,,,20-04-98,Lavagna,None,Sampdoria,2016,Italian
+34,34,Lucas Torreira,URU,M,1.68,64,11-02-96,Fray Bentos,Pescara,Sampdoria,2016,Italian
+37,37,Milan kriniar,SVK,D,1.87,80,11-02-95,iar nad Hronom,MK ilina,Sampdoria,2016,Italian
+41,47,Ante Budimir,BIH,F,1.90,80,22-07-91,Zenica,Crotone,Sampdoria,2016,Italian
+42,77,Michal Tomič,SVK,M,1.81,73,30-03-99,Skalica,Senica,Sampdoria,2016,Italian
+1,1,Alberto Pomini,ITA,G,1.87,83,17-03-81,Isola della Scala,Bellaria Igea,Sassuolo,2016,Italian
+4,4,Francesco Magnanelli,ITA,M,1.81,79,12-11-84,Umbertide,Sangiovannese,Sassuolo,2016,Italian
+5,5,Luca Antei,ITA,D,1.88,77,19-04-92,Rome,Roma,Sassuolo,2016,Italian
+6,6,Lorenzo Pellegrini,ITA,M,1.86,77,19-06-96,Rome,Roma,Sassuolo,2016,Italian
+7,7,Simone Missiroli,ITA,M,1.91,77,23-05-86,Reggio Calabria,Reggina,Sassuolo,2016,Italian
+8,8,Davide Biondini,ITA,M,1.80,77,24-01-83,Cesena,Genoa,Sassuolo,2016,Italian
+9,9,Pietro Iemmello,ITA,F,1.79,73,06-03-92,Catanzaro,Spezia,Sassuolo,2016,Italian
+10,10,Alessandro Matri,ITA,F,1.83,80,19-08-84,Sant'Angelo Lodigiano,Milan,Sassuolo,2016,Italian
+11,11,Grégoire Defrel,FRA,F,1.79,77,17-06-91,Meudon,Cesena,Sassuolo,2016,Italian
+12,12,Stefano Sensi,ITA,M,1.68,62,05-08-95,Urbino,Cesena,Sassuolo,2016,Italian
+13,13,Federico Peluso,ITA,D,1.88,82,20-01-84,Rome,Juventus,Sassuolo,2016,Italian
+14,14,Marius Marin,ROU,M,1.82,69,30-08-98,Timişoara,ASU Politehnica Timișoara,Sassuolo,2016,Italian
+15,15,Francesco Acerbi,ITA,D,1.92,89,10-02-88,Vizzolo Predabissi,Genoa,Sassuolo,2016,Italian
+16,16,Matteo Politano,ITA,F,1.71,65,03-08-93,Rome,Roma,Sassuolo,2016,Italian
+17,17,Nicholas Pierini,ITA,F,1.76,70,06-08-98,Parma,Empoli,Sassuolo,2016,Italian
+19,19,Gianluca Scamacca,ITA,F,1.95,85,01-01-99,Rome,PSV Eindhoven,Sassuolo,2016,Italian
+20,20,Pol Lirola,ESP,D,1.83,76,13-08-97,Mollet del Vallès,Juventus,Sassuolo,2016,Italian
+21,21,Alberto Aquilani,ITA,M,1.86,77,07-07-84,Rome,Pescara,Sassuolo,2016,Italian
+22,22,Luca Mazzitelli,ITA,M,1.84,76,15-11-95,Rome,Roma,Sassuolo,2016,Italian
+23,23,Marcello Gazzola,ITA,D,1.83,78,03-04-85,Borgotaro,Ascoli,Sassuolo,2016,Italian
+25,25,Domenico Berardi,ITA,F,1.83,72,01-08-94,Cariati Marina,Juventus,Sassuolo,2016,Italian
+26,26,Francesco Scavo,ITA,G,,,19-05-98,Reggio Emilia,None,Sassuolo,2016,Italian
+27,27,Federico Ricci,ITA,M,1.75,63,27-05-94,Rome,Roma,Sassuolo,2016,Italian
+28,28,Paolo Cannavaro,ITA,D,1.85,83,26-06-81,Naples,Napoli,Sassuolo,2016,Italian
+29,29,Luca Ravanelli,ITA,D,1.87,,16-01-97,Trento,Parma,Sassuolo,2016,Italian
+30,30,Bryan Costa,ITA,G,1.88,75,28-07-98,Vicenza,Vicenza,Sassuolo,2016,Italian
+31,31,Simone Caputo,ITA,F,1.80,70,25-07-98,Munich,None,Sassuolo,2016,Italian
+32,32,Alfred Duncan,GHA,M,1.78,78,10-03-93,Accra,Sampdoria,Sassuolo,2016,Italian
+33,33,Simone Franchini,ITA,M,1.83,74,30-03-98,Modena,None,Sassuolo,2016,Italian
+35,35,Leonardo Sarzi Maddidini,ITA,M,1.72,70,21-09-98,Parma,Parma,Sassuolo,2016,Italian
+38,38,Martin Erlić,CRO,D,1.92,78,24-01-98,Zadar,Parma,Sassuolo,2016,Italian
+39,39,Cristian Dell'Orco,ITA,D,1.83,75,10-02-94,Sant'Angelo Lodigiano,Parma,Sassuolo,2016,Italian
+40,40,Leonardo Vitali,ITA,G,1.89,83,07-08-98,Città di Castello,Perugia,Sassuolo,2016,Italian
+41,47,Andrea Consigli,ITA,G,1.89,82,27-01-87,Milan,Atalanta,Sassuolo,2016,Italian
+42,55,Timo Letschert,NED,D,1.88,70,25-05-93,Purmerend,FC Utrecht,Sassuolo,2016,Italian
+43,77,Manuel Ferrini,ITA,D,1.88,75,25-06-98,Rimini,Parma,Sassuolo,2016,Italian
+44,79,Gianluca Pegolo,ITA,G,1.83,76,25-03-81,Bassano del Grappa,Siena,Sassuolo,2016,Italian
+45,90,Antonino Ragusa,ITA,F,1.83,78,27-03-90,Messina,Cesena,Sassuolo,2016,Italian
+46,97,Giacomo Zecca,ITA,M,1.85,78,06-07-97,Piacenza,Piacenza,Sassuolo,2016,Italian
+47,98,Claud Adjapong,ITA,D,1.79,74,06-05-98,Modena,None,Sassuolo,2016,Italian
+1,1,Daniele Padelli,ITA,G,1.91,82,25-10-85,Lecco,Udinese,Torino,2016,Italian
+3,3,Cristian Molinaro,ITA,D,1.82,82,30-07-83,Vallo della Lucania,Parma,Torino,2016,Italian
+4,4,Leandro Castán,BRA,D,1.84,80,05-11-86,Jaú,Roma,Torino,2016,Italian
+5,5,Carlão,BRA,M,1.82,73,19-01-86,São Paulo,APOEL,Torino,2016,Italian
+6,6,Afriyie Acquah,GHA,M,1.79,70,05-01-92,Accra,1899 Hoffenheim,Torino,2016,Italian
+7,7,Davide Zappacosta,ITA,D,1.82,70,11-06-92,Sora,Atalanta,Torino,2016,Italian
+8,8,Daniele Baselli,ITA,M,1.82,70,12-03-92,Manerbio,Atalanta,Torino,2016,Italian
+9,9,Andrea Belotti,ITA,F,1.81,72,20-12-93,Calcinate,Torino,Torino,2016,Italian
+10,10,Adem Ljajić,SRB,M,1.81,74,29-09-91,Novi Pazar,Roma,Torino,2016,Italian
+11,11,Maxi López,ARG,F,1.90,88,03-04-84,Capital Federal,Chievo Verona,Torino,2016,Italian
+13,13,Luca Rossettini,ITA,D,1.87,82,09-05-85,Padua,Bologna,Torino,2016,Italian
+14,14,Iago Falqué,ESP,M,1.74,69,04-01-90,Vigo,Roma,Torino,2016,Italian
+15,15,Marco Benassi,ITA,M,1.83,80,08-09-94,Modena,Internazionale,Torino,2016,Italian
+16,16,Samuel Gustafson,SWE,M,1.87,79,20-01-95,Mölndal,BK Häcken,Torino,2016,Italian
+18,18,Mirko Valdifiori,ITA,M,1.85,71,21-04-86,Lugo,Napoli,Torino,2016,Italian
+19,19,Juan Manuel Iturbe,ARG,F,1.72,68,04-06-93,Capital Federal,Roma,Torino,2016,Italian
+21,21,Joe Hart,ENG,G,1.96,91,19-04-87,Shrewsbury,Manchester C,Torino,2016,Italian
+22,22,Joel Chukwuma Obi,NGA,M,1.76,71,22-05-91,Lagos,Internazionale,Torino,2016,Italian
+23,23,Antonio Barreca,ITA,D,1.80,70,18-03-95,Turin,None,Torino,2016,Italian
+24,24,Emiliano Moretti,ITA,D,1.82,80,11-06-81,Rome,Genoa,Torino,2016,Italian
+25,25,Saa Lukić,SRB,M,1.83,77,13-08-96,abac,Partizan Belgrade,Torino,2016,Italian
+26,26,Danilo Avelar,BRA,D,1.85,79,09-06-89,Paranavaí,Cagliari,Torino,2016,Italian
+29,29,Lorenzo De Silvestri,ITA,D,1.86,84,23-05-88,Rome,Sampdoria,Torino,2016,Italian
+31,31,Lucas Boyé,ARG,F,1.79,81,28-02-96,San Gregorio,River Plate,Torino,2016,Italian
+41,84,Martin Remacle,BEL,M,1.76,73,16-05-97,Verviers,Standard Liège,Torino,2016,Italian
+42,85,Filippo Berardi,SMR,F,1.74,65,18-05-97,San Marino,Rimini,Torino,2016,Italian
+43,86,Federico Giraudo,ITA,D,1.77,81,11-08-98,Cuneo,None,Torino,2016,Italian
+44,87,Alessandro Buongiorno,ITA,D,1.91,80,06-06-99,Turin,None,Torino,2016,Italian
+45,88,Andrea Sana,ITA,D,,,31-01-99,Milan,None,Torino,2016,Italian
+46,89,Alessio Benedetti,ITA,D,,,07-04-97,Motta di Livenza,Vicenza,Torino,2016,Italian
+47,90,Tommaso Cucchietti,ITA,G,1.90,80,24-01-98,Turin,None,Torino,2016,Italian
+48,91,Alberto Reinaudo,ITA,G,,,22-03-98,Savigliano,None,Torino,2016,Italian
+49,92,Manuel De Luca,ITA,F,1.90,67,17-07-98,Bolzano,Südtirol,Torino,2016,Italian
+50,93,Arlind Ajeti,ALB,D,1.81,76,25-09-93,Basel,Frosinone,Torino,2016,Italian
+51,94,Matteo Tobaldo,ITA,F,,,02-04-98,Treviso,Padova,Torino,2016,Italian
+52,96,Matteo Rossetti,ITA,M,1.91,82,23-07-98,Saluzzo,None,Torino,2016,Italian
+53,97,Antonio D'Alena,ITA,M,,,24-02-98,Mottola,Roma,Torino,2016,Italian
+54,98,Simone Auriletto,ITA,D,1.88,75,30-12-98,Turin,None,Torino,2016,Italian
+55,99,Domenico Coppola,ITA,G,1.95,74,29-01-99,Turin,None,Torino,2016,Italian
+1,1,Orestis Karnezis,GRE,G,1.89,79,11-07-85,Athens,Panathinaikos,Udinese,2016,Italian
+3,3,Samir,BRA,D,1.88,70,05-12-94,Rio de Janeiro,Flamengo,Udinese,2016,Italian
+4,4,Gabriele Angella,ITA,D,1.89,88,28-04-89,Florence,Watford,Udinese,2016,Italian
+5,5,Danilo,BRA,D,1.85,75,10-05-84,São Bernardo do Campo,Desportivo Brasil,Udinese,2016,Italian
+6,6,Seko Fofana,FRA,M,1.84,74,07-05-95,Paris,Bastia,Udinese,2016,Italian
+7,7,Assane Gnoukouri,CIV,M,1.80,77,28-09-96,Divo,Internazionale,Udinese,2016,Italian
+8,8,Emmanuel Agyemang-Badu,GHA,M,1.73,71,02-12-90,Berekum,Berekum Arsenal,Udinese,2016,Italian
+9,9,Duván Zapata,COL,F,1.89,88,01-04-91,Cali,Napoli,Udinese,2016,Italian
+10,10,Rodrigo De Paul,ARG,M,1.80,70,24-05-94,Sarandí,Valencia,Udinese,2016,Italian
+13,13,Mathias Ranégie,SWE,F,1.97,92,14-06-84,Johannesburg,Watford,Udinese,2016,Italian
+14,14,Jakub Jankto,CZE,M,1.80,73,19-01-96,Prague,Slavia Prague,Udinese,2016,Italian
+18,18,Stipe Perica,CRO,F,1.92,76,07-07-95,Zadar,Chelsea,Udinese,2016,Italian
+19,19,Ryder Matos,BRA,F,1.80,71,27-02-93,Seabra,Fiorentina,Udinese,2016,Italian
+22,22,Simone Scuffet,ITA,G,1.90,75,31-05-96,Udine,None,Udinese,2016,Italian
+23,23,Emil Hallfreðsson,ISL,M,1.86,83,26-06-84,Reykjavík,Udinese,Udinese,2016,Italian
+25,25,Samuele Perisan,ITA,G,1.91,78,21-08-97,San Vito al Tagliamento,None,Udinese,2016,Italian
+26,26,Sven Kums,BEL,M,1.76,63,26-02-88,Asse,Watford,Udinese,2016,Italian
+27,27,Silvan Widmer,SUI,D,1.83,81,05-03-93,Aarau,Granada,Udinese,2016,Italian
+30,30,Felipe,BRA,D,1.88,75,31-07-84,Guaratingueta,Internazionale,Udinese,2016,Italian
+34,34,Gabriel Silva,BRA,D,1.79,74,13-05-91,Piracicaba,Granada,Udinese,2016,Italian
+37,37,Marco Davide Faraoni,ITA,D,1.80,73,25-10-91,Bracciano,Watford,Udinese,2016,Italian
+41,53,Ali Adnan,IRQ,D,1.85,71,19-12-93,Baghdad,Rizespor,Udinese,2016,Italian
+42,60,Edoardo Bovolon,ITA,M,1.83,78,05-06-98,Udine,None,Udinese,2016,Italian
+43,61,Davide Borsellini,ITA,G,1.80,69,04-01-99,Rome,Paganese,Udinese,2016,Italian
+44,62,Alberto Parpinel,ITA,D,1.85,,27-03-98,Pordenone,None,Udinese,2016,Italian
+45,63,Luca Scordino,ITA,G,,,23-02-00,Gorizia,None,Udinese,2016,Italian
+46,64,Filip Vako,SVK,D,,,11-08-99,,VSS Koice,Udinese,2016,Italian
+47,65,Frank Djoulou,CIV,F,1.80,,,Okrouyo,None,Udinese,2016,Italian
+48,75,Thomas Heurtaux,FRA,D,1.85,81,03-07-88,Lisieux,Caen,Udinese,2016,Italian
+49,77,Cyril Théreau,FRA,F,1.89,78,24-04-83,Privas,Chievo Verona,Udinese,2016,Italian
+50,92,Igor Bubnjić,CRO,D,1.88,83,17-07-92,Split,Slaven Belupo,Udinese,2016,Italian
+51,95,Lucas Evangelista,BRA,M,1.81,79,06-05-95,Limeira,São Paulo,Udinese,2016,Italian
+52,96,Ewandro,BRA,F,1.74,61,15-03-96,Recife,São Paulo,Udinese,2016,Italian
+53,98,Panagiotis Armenakas,AUS,M,1.78,67,05-08-98,Newport Beach,Watford,Udinese,2016,Italian
+54,99,Andrija Balić,CRO,M,1.80,71,11-08-97,Split,Hajduk Split,Verona,2016,Italian

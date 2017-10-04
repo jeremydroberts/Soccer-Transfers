@@ -1,0 +1,684 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+2,2,Guglielmo Stendardo,ITA,D,1.90,88,06-05-81,Naples,Lazio,Atalanta,2013,Italian
+3,3,Stefano Lucchini,ITA,D,1.86,76,02-10-80,Codogno,Sampdoria,Atalanta,2013,Italian
+4,4,Lionel Scaloni,ARG,D,1.82,80,16-05-78,Rosario,Lazio,Atalanta,2013,Italian
+5,5,Luigi Giorgi,ITA,M,1.85,75,19-04-87,Ascoli Piceno,Novara,Atalanta,2013,Italian
+6,6,Gianpaolo Bellini,ITA,D,1.80,75,27-03-80,Sarnico,None,Atalanta,2013,Italian
+7,7,Marko Livaja,CRO,F,1.82,81,26-08-93,Split,Internazionale,Atalanta,2013,Italian
+8,8,Giulio Migliaccio,ITA,M,1.80,81,23-06-81,Mugnano di Napoli,Palermo,Atalanta,2013,Italian
+9,9,Rubén Bentancourt,URU,F,1.86,74,02-03-93,Salto,PSV Eindhoven,Atalanta,2013,Italian
+10,10,Giacomo Bonaventura,ITA,M,1.78,69,22-08-89,San Severino Marche,None,Atalanta,2013,Italian
+11,11,Maximiliano Moralez,ARG,M,1.60,54,27-02-87,Granadero Baigorria,Vélez Sarsfield,Atalanta,2013,Italian
+15,15,Mattia Caldara,ITA,D,1.87,80,05-05-94,Bergamo,None,Atalanta,2013,Italian
+17,17,Carlos Carmona,CHI,M,1.79,77,21-02-87,Coquimbo,Reggina,Atalanta,2013,Italian
+18,18,Daniele Baselli,ITA,M,1.82,70,12-03-92,Brescia,Cittadella,Atalanta,2013,Italian
+19,19,Germán Denis,ARG,F,1.83,87,10-09-81,Lomas de Zamora,Udinese,Atalanta,2013,Italian
+20,20,Marcelo Estigarribia,PAR,M,1.81,70,21-09-87,Fernando de la Mora,Deportivo Maldonado,Atalanta,2013,Italian
+21,21,Luca Cigarini,ITA,M,1.75,72,20-06-86,Montecchio Emilia,Napoli,Atalanta,2013,Italian
+23,23,Franco Brienza,ITA,M,1.68,68,19-03-79,Cantù,Palermo,Atalanta,2013,Italian
+27,27,Cristiano Del Grosso,ITA,D,1.75,70,24-03-83,Giulianova,Siena,Atalanta,2013,Italian
+28,28,Davide Brivio,ITA,D,1.85,81,17-03-88,Milan,Lecce,Atalanta,2013,Italian
+29,29,Yohan Benalouane,TUN,D,1.87,85,28-03-87,Bagnols-sur-Cèze,Parma,Atalanta,2013,Italian
+33,33,Mario Yepes,COL,D,1.87,83,13-01-76,Cali,Milan,Atalanta,2013,Italian
+37,37,Marco Sportiello,ITA,G,1.92,86,10-05-92,Desio,Poggibonsi,Atalanta,2013,Italian
+41,44,Riccardo Cazzola,ITA,M,1.88,84,08-10-85,Verona,Juve Stabia,Atalanta,2013,Italian
+42,47,Andrea Consigli,ITA,G,1.89,79,27-01-87,Milan,None,Atalanta,2013,Italian
+43,77,Cristian Raimondi,ITA,M,1.82,78,30-04-81,San Giovanni in Bianco,Livorno,Atalanta,2013,Italian
+44,78,Giorgio Frezzolini,ITA,G,1.86,80,21-01-76,Rome,Ascoli,Atalanta,2013,Italian
+45,90,Moussa Koné,CIV,M,1.80,77,12-02-90,Anyama,None,Atalanta,2013,Italian
+46,91,Giuseppe De Luca,ITA,F,1.78,72,11-10-91,Angera,Varese,Atalanta,2013,Italian
+47,92,Gianluca Barba,ITA,M,1.72,68,27-02-95,Fiorenzuola,None,Atalanta,2013,Italian
+48,93,Constantin Nica,ROU,D,1.85,81,18-03-93,Afumaţi,Dinamo Bucureşti,Atalanta,2013,Italian
+49,94,Federico Varano,ITA,M,1.80,70,21-01-95,Vigevano,None,Atalanta,2013,Italian
+50,95,Joakim Olausson,SWE,M,1.79,75,14-01-95,Starrkarr,Örgryte IS,Atalanta,2013,Italian
+51,96,Mario Pugliese,ITA,M,1.78,65,26-03-96,San Giorgio a Cremano,None,Atalanta,2013,Italian
+52,97,Giacomo Parigi,ITA,F,1.85,,17-06-96,Arezzo,Arezzo,Atalanta,2013,Italian
+1,1,Gianluca Curci,ITA,G,1.91,90,12-07-85,Rome,Roma,Bologna,2013,Italian
+2,2,Adam Masina,MAR,D,1.79,70,02-01-94,Khouribga,None,Bologna,2013,Italian
+3,3,Archimede Morleo,ITA,D,1.73,68,26-09-83,Mesagne,Crotone,Bologna,2013,Italian
+4,4,Rene Krhin,SVN,M,1.89,78,21-05-90,Maribor,Internazionale,Bologna,2013,Italian
+5,5,Mikael Antonsson,SWE,D,1.89,80,31-05-81,Karlskrona,FC København,Bologna,2013,Italian
+6,6,Frederik Sørensen,DEN,D,1.93,80,14-04-92,Roskilde,Juventus,Bologna,2013,Italian
+7,7,Francesco Della Rocca,ITA,M,1.82,77,14-09-87,Brindisi,Palermo,Bologna,2013,Italian
+8,8,György Garics,AUT,D,1.83,76,08-03-84,Szombathely,Atalanta,Bologna,2013,Italian
+9,9,Rolando Bianchi,ITA,F,1.88,78,15-02-83,Lovere,Torino,Bologna,2013,Italian
+10,10,Davide Moscardelli,ITA,F,1.85,80,03-02-80,Mons,Chievo Verona,Bologna,2013,Italian
+11,11,Erik Friberg,SWE,M,1.80,66,10-02-86,Lindome,Malmö FF,Bologna,2013,Italian
+12,12,Robert Acquafresca,ITA,F,1.84,77,11-09-87,Turin,Genoa,Bologna,2013,Italian
+13,13,Diego Laxalt,URU,M,1.78,66,07-02-93,Montevideo,Internazionale,Bologna,2013,Italian
+14,14,Cesare Natali,ITA,D,1.91,87,05-04-79,Bergamo,Fiorentina,Bologna,2013,Italian
+15,15,Diego Pérez,URU,M,1.77,81,18-05-80,Montevideo,Monaco,Bologna,2013,Italian
+16,16,Matteo Malagoli,ITA,G,1.91,86,02-01-95,Bologna,None,Bologna,2013,Italian
+18,18,Federico Rodríguez,URU,F,1.85,74,03-04-91,Montevideo,Genoa,Bologna,2013,Italian
+19,19,Lazaros Christodoulopoulos,GRE,M,1.83,77,19-12-86,Thessaloniki,Panathinaikos,Bologna,2013,Italian
+20,20,Ibson,BRA,M,1.77,74,07-11-83,Niterói,Corinthians,Bologna,2013,Italian
+21,21,Nicolò Cherubin,ITA,D,1.88,83,02-12-86,Vicenza,Cittadella,Bologna,2013,Italian
+22,22,Andrea Mantovani,ITA,D,1.85,79,22-06-84,Turin,Palermo,Bologna,2013,Italian
+24,24,Michele Pazienza,ITA,M,1.78,75,05-08-82,San Severo,Juventus,Bologna,2013,Italian
+29,29,Marco Maini,ITA,D,1.85,78,14-04-95,Bologna,None,Bologna,2013,Italian
+32,32,Dejan Stojanović,MKD,G,1.96,89,19-07-93,Feldkirch,FC Lustenau,Bologna,2013,Italian
+33,33,Panagiotis Kone,GRE,M,1.83,76,26-07-87,Tirana,Brescia,Bologna,2013,Italian
+35,35,Marek Čech,SVK,D,1.85,75,26-08-83,Trebišov,Trabzonspor,Bologna,2013,Italian
+40,40,Pierluigi Ferrari,ITA,G,,,12-02-96,Brescia,Brescia,Bologna,2013,Italian
+41,41,Antonio Calabrese,ITA,F,1.83,,11-06-96,Castel San Pietro,None,Bologna,2013,Italian
+42,42,Francesco Bergamini,ITA,M,,,05-11-94,Rome,Futbolclub,Bologna,2013,Italian
+43,75,José Ángel Crespo,ESP,D,1.83,72,09-02-87,Lora del Río,Padova,Bologna,2013,Italian
+44,88,Daniele Paponi,ITA,F,1.79,66,16-04-88,Ancona,Parma,Bologna,2013,Italian
+45,99,Jonathan Cristaldo,ARG,F,1.78,70,05-03-89,Ingeniero Budge,Metalist Kharkiv,Bologna,2013,Italian
+1,1,Marco Silvestri,ITA,G,1.91,80,02-03-91,Castelnovo ne' Monti,Chievo Verona,Cagliari,2013,Italian
+3,3,Alessandro Bastrini,ITA,D,1.86,78,03-04-87,Domodossola,Novara,Cagliari,2013,Italian
+4,4,Andrea Tabanelli,ITA,M,1.92,75,02-02-90,Ravenna,Cesena,Cagliari,2013,Italian
+5,5,Daniele Conti,ITA,M,1.78,71,09-01-79,Nettuno,Roma,Cagliari,2013,Italian
+7,7,Andrea Cossu,ITA,M,1.71,63,03-05-80,Cagliari,Verona,Cagliari,2013,Italian
+8,8,Danilo Avelar,BRA,D,1.85,75,09-06-89,Paranavaí,Karpaty Lviv,Cagliari,2013,Italian
+9,9,Marco Sau,ITA,F,1.69,65,03-11-87,Sorgono,Foggia,Cagliari,2013,Italian
+10,10,Agim Ibraimi,MKD,F,1.76,71,29-08-88,Tetovo,Maribor,Cagliari,2013,Italian
+13,13,Davide Astori,ITA,D,1.88,80,07-01-87,San Giovanni Bianco,Milan,Cagliari,2013,Italian
+14,14,Francesco Pisano,ITA,D,1.74,67,29-04-86,Cagliari,None,Cagliari,2013,Italian
+15,15,Luca Rossettini,ITA,D,1.87,82,09-05-85,Padua,Siena,Cagliari,2013,Italian
+16,16,Sebastian Eriksson,SWE,M,1.85,72,31-01-89,Asebro,IFK Göteborg,Cagliari,2013,Italian
+18,18,Nenê,BRA,F,1.82,78,28-07-83,São Paulo,Nacional [POR],Cagliari,2013,Italian
+19,19,Marios Oikonomou,GRE,D,1.89,85,06-10-92,Giannina,PAS Giannina,Cagliari,2013,Italian
+20,20,Albin Ekdal,SWE,M,1.86,82,28-07-89,Stockholm,Juventus,Cagliari,2013,Italian
+21,21,Daniele Dessena,ITA,M,1.83,75,10-05-87,Parma,Sampdoria,Cagliari,2013,Italian
+22,22,Matías Cabrera,URU,M,1.77,69,16-05-86,Montevideo,Nacional [URU],Cagliari,2013,Italian
+23,23,Víctor Ibarbo,COL,F,1.88,78,19-05-90,Cali,Atlético Nacional,Cagliari,2013,Italian
+24,24,Gabriele Perico,ITA,D,1.83,79,11-03-84,Bergamo,AlbinoLeffe,Cagliari,2013,Italian
+25,25,Vlada Avramov,SRB,G,1.88,80,05-04-79,Novi Sad,Fiorentina,Cagliari,2013,Italian
+26,26,Antonio Loi,ITA,F,1.71,68,25-08-96,Isili,None,Cagliari,2013,Italian
+27,27,Matías Vecino,URU,M,1.87,81,24-08-91,Canelones,Fiorentina,Cagliari,2013,Italian
+28,28,Werther Carboni,ITA,G,1.84,67,04-04-96,Sassari,None,Cagliari,2013,Italian
+29,29,Nicola Murru,ITA,D,1.80,64,16-12-94,Cagliari,None,Cagliari,2013,Italian
+30,30,Alessandro Masia,ITA,M,,,28-09-95,Cagliari,None,Cagliari,2013,Italian
+32,32,Adryan,BRA,M,1.69,64,08-10-94,Rio de Janeiro,Flamengo,Cagliari,2013,Italian
+34,34,Dario del Fabro,ITA,D,1.80,75,24-03-95,Alghero,None,Cagliari,2013,Italian
+35,35,Nicolò Barella,ITA,M,1.75,54,07-02-97,Cagliari,None,Cagliari,2013,Italian
+36,36,Andrea Demontis,ITA,M,1.75,70,10-01-95,Cagliari,None,Cagliari,2013,Italian
+38,38,Simone Solinas,ITA,F,1.74,71,03-03-96,Sassari,None,Cagliari,2013,Italian
+41,51,Mauricio Pinilla,CHI,F,1.85,75,04-02-84,San Bernardo,Palermo,Cagliari,2013,Italian
+1,1,Alberto Frison,ITA,G,1.90,87,22-01-88,Mirano,Vicenza,Catania,2013,Italian
+2,2,Gino Peruzzi,ARG,D,1.78,74,09-06-92,Corral de Bustos,Vélez Sarsfield,Catania,2013,Italian
+3,3,Nicolás Spolli,ARG,D,1.92,90,20-02-83,Coronel Bogado,Newell's Old Boys,Catania,2013,Italian
+4,4,Sergio Almirón,ARG,M,1.80,82,07-11-80,Rosario,Juventus,Catania,2013,Italian
+5,5,Alexis Rolín,URU,D,1.86,75,07-02-89,Montevideo,Nacional [URU],Catania,2013,Italian
+6,6,Nicola Legrottaglie,ITA,D,1.89,85,20-10-76,Gioia Del Colle,Milan,Catania,2013,Italian
+7,7,Francesco Fedato,ITA,F,1.77,66,15-10-92,Mirano,Sampdoria,Catania,2013,Italian
+8,8,Jaroslav Plail,CZE,M,1.83,72,05-01-82,Opočno,Bordeaux,Catania,2013,Italian
+9,9,Gonzalo Bergessio,ARG,F,1.78,72,20-07-84,Córdoba,St-Etienne,Catania,2013,Italian
+10,10,Francesco Lodi,ITA,M,1.82,70,23-03-84,Naples,Genoa,Catania,2013,Italian
+11,11,Sebastián Leto,ARG,F,1.88,77,30-08-86,Alejandro Korn,Panathinaikos,Catania,2013,Italian
+13,13,Mariano Izco,ARG,M,1.80,76,13-03-83,Capital Federal,San Telmo,Catania,2013,Italian
+14,14,Giuseppe Bellusci,ITA,D,1.85,80,21-08-89,Trebisacce,Ascoli,Catania,2013,Italian
+15,15,Fabián Rinaudo,ARG,M,1.76,75,15-05-87,Armstrong,Sporting CP,Catania,2013,Italian
+18,18,Fabián Monzón,ARG,D,1.79,75,13-04-87,Granadero Baigorria,Lyon,Catania,2013,Italian
+19,19,Lucas Castro,ARG,M,1.82,79,09-04-89,La Plata,Racing Club,Catania,2013,Italian
+21,21,Mariano Andújar,ARG,G,1.94,87,30-07-83,Capital Federal,Napoli,Catania,2013,Italian
+22,22,Pablo Álvarez,ARG,D,1.78,82,17-04-84,San Martín,Estudiantes (LP),Catania,2013,Italian
+23,23,Kingsley Boateng,GHA,F,1.74,67,07-04-94,Mpatuam,Milan,Catania,2013,Italian
+24,24,Norbert Gyömbér,SVK,D,1.89,79,03-07-92,Revúca,Dukla Banská Bystrica,Catania,2013,Italian
+26,26,Keko,ESP,M,1.72,68,27-12-91,Madrid,Atlético Madrid B,Catania,2013,Italian
+28,28,Pablo Barrientos,ARG,M,1.76,66,17-01-85,Comodoro Rivadavia,FC Moscow,Catania,2013,Italian
+29,29,Fabio Aveni,ITA,F,1.78,68,05-09-94,Barcellona Pozzo di Gotto,None,Catania,2013,Italian
+30,30,Dragan Lovrić,CRO,D,1.91,82,03-01-96,Split,HNK Gorica,Catania,2013,Italian
+31,31,Erick Cabalceta,CRC,D,1.86,80,09-01-93,San José [CRC],Orión FC,Catania,2013,Italian
+32,32,Bruno Petković,CRO,F,1.90,88,16-09-94,Metković,Hrvatski dragovoljac,Catania,2013,Italian
+33,33,Ciro Capuano,ITA,D,1.85,80,10-07-81,Naples,Palermo,Catania,2013,Italian
+34,34,Cristiano Biraghi,ITA,D,1.86,79,01-09-92,Cernusco sul Naviglio,Cittadella,Catania,2013,Italian
+35,35,Giuseppe Ficara,ITA,G,1.87,82,24-08-95,Avola,None,Catania,2013,Italian
+36,36,Simone Caruso,ITA,F,1.71,64,09-09-94,Catania,None,Catania,2013,Italian
+37,37,Michele De Matteis,ITA,D,1.82,75,21-01-95,San Nicola la Strada,None,Catania,2013,Italian
+38,38,Simone Brugaletta,ITA,D,1.78,75,19-01-94,Modica,None,Catania,2013,Italian
+39,39,Agatino Garufi,ITA,M,1.78,70,16-09-95,Giarre,None,Catania,2013,Italian
+40,40,Agostino Gallo,ITA,M,1.80,76,05-03-95,Catania,None,Catania,2013,Italian
+41,41,Giorgio Costanzo,ITA,G,1.81,72,14-06-96,Catania,None,Catania,2013,Italian
+1,1,Christian Puggioni,ITA,G,1.87,80,17-01-81,Genoa,Reggina,Chievo Verona,2013,Italian
+2,2,Alessandro Bernardini,ITA,D,1.89,80,21-01-87,Domodossola,Livorno,Chievo Verona,2013,Italian
+3,3,Dario Dainelli,ITA,D,1.91,78,09-06-79,Pontedera,Genoa,Chievo Verona,2013,Italian
+4,4,Claiton dos Santos,BRA,D,1.86,79,07-09-84,Santa Helena de Goiás,Bari,Chievo Verona,2013,Italian
+5,5,Michele Canini,ITA,D,1.87,84,05-06-85,Brescia,Atalanta,Chievo Verona,2013,Italian
+6,6,Tomasz Kupisz,POL,M,1.80,76,02-01-90,Radom,Jagiellonia Białystok,Chievo Verona,2013,Italian
+7,7,Dejan Lazarević,SVN,M,1.75,70,15-02-90,Ljubljana,Genoa,Chievo Verona,2013,Italian
+8,8,Ivan Radovanović,SRB,M,1.86,80,29-08-88,Belgrade,Atalanta,Chievo Verona,2013,Italian
+9,9,Simone Bentivoglio,ITA,M,1.84,79,29-05-85,Pinerolo,Juventus,Chievo Verona,2013,Italian
+10,10,Victor Obinna,NGA,F,1.78,78,25-03-87,Jos,Lokomotiv Moscow,Chievo Verona,2013,Italian
+11,11,Roberto Guana,ITA,M,1.78,72,21-01-81,Brescia,Cesena,Chievo Verona,2013,Italian
+12,12,Botjan Cesar,SVN,D,1.91,87,09-07-82,Ljubljana,Grenoble,Chievo Verona,2013,Italian
+13,13,Simone Aldrovandi,ITA,D,1.86,77,02-04-94,Carpi,Modena,Chievo Verona,2013,Italian
+14,14,Adrián Calello,ARG,M,1.77,74,14-05-87,Quilmes,Siena,Chievo Verona,2013,Italian
+17,17,Gennaro Sardo,ITA,D,1.90,87,08-05-79,Pozzuoli,Catania,Chievo Verona,2013,Italian
+18,18,Lorenzo Squizzi,ITA,G,1.91,89,27-06-74,Domodossola,Perugia,Chievo Verona,2013,Italian
+19,19,Leandro Paredes,ARG,M,1.80,75,29-06-94,San Justo,Boca Juniors,Chievo Verona,2013,Italian
+21,21,Nicolas Frey,FRA,D,1.84,78,06-03-84,Nice,Modena,Chievo Verona,2013,Italian
+23,23,Tiberio Guarente,ITA,M,1.82,74,01-11-85,Pisa,Sevilla,Chievo Verona,2013,Italian
+24,24,Maodo Malick Mbaye,SEN,M,1.79,72,06-11-95,Thiès,None,Chievo Verona,2013,Italian
+25,25,Michael Agazzi,ITA,G,1.89,85,03-07-84,Ponte San Pietro,Cagliari,Chievo Verona,2013,Italian
+26,26,Ansoumana Sané,SEN,D,,,25-05-96,Conegliano,None,Chievo Verona,2013,Italian
+27,27,Luca Rigoni,ITA,M,1.85,78,07-12-84,Schio,Piacenza,Chievo Verona,2013,Italian
+31,31,Sergio Pellissier,ITA,F,1.75,76,12-04-79,Aosta,Torino,Chievo Verona,2013,Italian
+32,32,Nicolo' Brighenti,ITA,D,1.78,75,01-08-89,Bussolengo,Vicenza,Chievo Verona,2013,Italian
+33,33,Matteo Rubin,ITA,D,1.83,75,09-07-87,Bassano del Grappa,Siena,Chievo Verona,2013,Italian
+36,36,Filippo Costa,ITA,D,1.76,68,21-05-95,Noventa Vicentina,None,Chievo Verona,2013,Italian
+39,39,Adrian Stoian,ROU,M,1.78,66,11-02-91,Craiova,Roma,Chievo Verona,2013,Italian
+41,43,Alberto Paloschi,ITA,F,1.82,82,04-01-90,Chiari,Milan,Chievo Verona,2013,Italian
+42,56,Perparim Hetemaj,FIN,M,1.76,76,12-12-86,Srbica,Brescia,Chievo Verona,2013,Italian
+43,57,Michele Troiani,ITA,D,1.77,72,21-07-96,Verona,None,Chievo Verona,2013,Italian
+44,58,Idriz Toskić,MNE,M,1.76,70,12-10-95,Molfetta,Bari,Chievo Verona,2013,Italian
+45,77,Cyril Théreau,FRA,F,1.89,78,24-04-83,Privas,Charleroi,Chievo Verona,2013,Italian
+46,93,Boukary Dramé,SEN,D,1.81,78,22-07-85,Villepinte,Sochaux,Chievo Verona,2013,Italian
+47,95,Victor da Silva,BRA,M,1.78,72,04-01-95,Cuiabà,None,Chievo Verona,2013,Italian
+48,96,Simone Moschin,ITA,G,1.86,,20-01-96,Vittorio Veneto,None,Chievo Verona,2013,Italian
+1,1,Neto,BRA,G,1.91,83,19-07-89,Araxá,Atlético Paranaense,Fiorentina,2013,Italian
+2,2,Gonzalo Rodríguez,ARG,D,1.82,79,10-04-84,Buenos Aires,Villarreal,Fiorentina,2013,Italian
+3,3,Modibo Diakité,FRA,D,1.92,84,02-03-87,Bourg-la-Reine,Sunderland,Fiorentina,2013,Italian
+4,4,Facundo Roncaglia,ARG,D,1.79,76,10-02-87,Chajarí,Boca Juniors,Fiorentina,2013,Italian
+5,5,Marvin Compper,GER,D,1.85,80,14-06-85,Tübingen,1899 Hoffenheim,Fiorentina,2013,Italian
+6,6,Ahmed Hegazy,EGY,D,1.93,83,25-01-91,Ismaïlia,Ismaily,Fiorentina,2013,Italian
+7,7,David Pizarro,CHI,M,1.70,65,11-09-79,Valparaiso,Roma,Fiorentina,2013,Italian
+8,8,Marko Bakić,MNE,M,1.87,73,01-11-93,Budva,Torino,Fiorentina,2013,Italian
+9,9,Ante Rebić,CRO,F,1.85,77,21-09-93,Split,Split,Fiorentina,2013,Italian
+10,10,Alberto Aquilani,ITA,M,1.86,77,07-07-84,Rome,Liverpool,Fiorentina,2013,Italian
+11,11,Juan Cuadrado,COL,M,1.76,66,26-05-88,Necoclí,Udinese,Fiorentina,2013,Italian
+12,12,Cristiano Lupatelli,ITA,G,1.89,86,21-06-78,Perugia,Genoa,Fiorentina,2013,Italian
+14,14,Matías Fernández,CHI,M,1.77,75,15-05-86,Merlo,Sporting CP,Fiorentina,2013,Italian
+15,15,Stefan Savić,MNE,D,1.86,73,08-01-91,Mojkovac,Manchester C,Fiorentina,2013,Italian
+17,17,Joaquín,ESP,M,1.79,75,21-07-81,Puerto de Santa Maria,Málaga,Fiorentina,2013,Italian
+20,20,Borja Valero,ESP,M,1.74,73,12-01-85,Madrid,Villarreal,Fiorentina,2013,Italian
+21,21,Massimo Ambrosini,ITA,M,1.82,72,29-05-77,Pesaro,Milan,Fiorentina,2013,Italian
+23,23,Manuel Pasqual,ITA,D,1.78,71,13-03-82,San Donà di Piave,Arezzo,Fiorentina,2013,Italian
+24,24,Luca Lezzerini,ITA,G,1.95,86,24-03-95,Rome,None,Fiorentina,2013,Italian
+25,25,Antonio Rosati,ITA,G,1.94,88,26-06-83,Tivoli,Napoli,Fiorentina,2013,Italian
+27,27,Rafał Wolski,POL,M,1.79,66,10-11-92,Kozienice,Legia Warszawa,Fiorentina,2013,Italian
+30,30,Ryder Matos,BRA,F,1.83,79,27-02-93,Seabra,Vitória,Fiorentina,2013,Italian
+31,31,Leonardo Capezzi,ITA,M,1.77,70,28-03-95,Figline Valdarno,None,Fiorentina,2013,Italian
+32,32,Alessandro Matri,ITA,F,1.83,80,19-08-84,Sant'Angelo Lodigiano,Milan,Fiorentina,2013,Italian
+33,33,Mario Gómez,GER,F,1.89,88,10-07-85,Riedlingen,Bayern Munich,Fiorentina,2013,Italian
+34,34,Lorenzo Venuti,ITA,D,1.76,65,12-04-95,Incisa in Val d'Arno,None,Fiorentina,2013,Italian
+35,35,Saverio Madrigali,ITA,D,1.90,81,28-01-95,Pisa,None,Fiorentina,2013,Italian
+36,36,Alan Empereur,BRA,D,1.85,82,10-03-94,Ipatinga,Atlético Mineiro,Fiorentina,2013,Italian
+37,37,Axel Gulin,ITA,F,1.69,66,19-07-95,Trieste,None,Fiorentina,2013,Italian
+38,38,Nicolò Fazzi,ITA,F,1.80,66,02-03-95,Borgo a Mozzano,None,Fiorentina,2013,Italian
+39,39,Lorenzo Bardini,ITA,G,1.91,86,12-04-96,Florence,None,Fiorentina,2013,Italian
+40,40,Nenad Tomović,SRB,D,1.84,79,30-08-87,Kragujevac,Genoa,Fiorentina,2013,Italian
+41,41,Isaia Bertolacci,ITA,G,,,17-05-96,Barga,Lucchese,Fiorentina,2013,Italian
+42,49,Giuseppe Rossi,ITA,F,1.73,73,01-02-87,Teaneck,Villarreal,Fiorentina,2013,Italian
+43,66,Juan Manuel Vargas,PER,M,1.80,75,05-10-83,Lima,Catania,Fiorentina,2013,Italian
+44,72,Josip Iličić,SVN,M,1.89,79,29-01-88,Kranj,Palermo,Fiorentina,2013,Italian
+45,88,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre,Manchester U,Fiorentina,2013,Italian
+1,1,Mattia Perin,ITA,G,1.88,74,10-11-92,Latina,None,Genoa,2013,Italian
+3,3,Luca Antonini,ITA,D,1.82,70,04-02-82,Milan,Milan,Genoa,2013,Italian
+4,4,Sébastian De Maio,FRA,D,1.90,81,05-03-87,Saint-Denis,Brescia,Genoa,2013,Italian
+5,5,Alessandro Gamberini,ITA,D,1.85,78,27-08-81,Bologna,Napoli,Genoa,2013,Italian
+8,8,Nicolás Burdisso,ARG,D,1.82,81,12-04-81,Altos de Chipión,Roma,Genoa,2013,Italian
+10,10,Giuseppe Sculli,ITA,F,1.77,71,23-03-81,Locri,Lazio,Genoa,2013,Italian
+11,11,Alberto Gilardino,ITA,F,1.84,79,05-07-82,Biella,Fiorentina,Genoa,2013,Italian
+13,13,Luca Antonelli,ITA,D,1.84,79,11-02-87,Monza,Parma,Genoa,2013,Italian
+14,14,Isaac Cofie,GHA,M,1.78,73,20-09-91,Accra,Chievo Verona,Genoa,2013,Italian
+15,15,Giovanni Marchese,ITA,D,1.82,75,17-10-84,Caltanisetta,Catania,Genoa,2013,Italian
+16,16,Emanuele Calaiò,ITA,F,1.72,68,08-01-82,Palermo,Napoli,Genoa,2013,Italian
+17,17,Orlando Held,ITA,F,,,03-03-94,Genoa,None,Genoa,2013,Italian
+18,18,Giannis Fetfatzidis,GRE,M,1.68,64,21-12-90,Drama,Olympiakos,Genoa,2013,Italian
+19,19,Jami Rafati,ITA,M,1.87,77,26-04-94,Florence,West Ham U,Genoa,2013,Italian
+20,20,ime Vrsaljko,CRO,D,1.83,73,10-01-92,Zadar,Dinamo Zagreb,Genoa,2013,Italian
+21,21,Marco Motta,ITA,D,1.86,75,14-05-86,Merate,Juventus,Genoa,2013,Italian
+23,23,Tiberio Velocci,ITA,F,1.78,75,23-07-95,Rome,None,Genoa,2013,Italian
+25,25,Jakub Hromada,SVK,M,1.83,72,25-05-96,Koice,Juventus,Genoa,2013,Italian
+26,26,Ricardo Centurión,ARG,M,1.74,65,19-01-93,Avellaneda,Racing Club,Genoa,2013,Italian
+27,27,Matuzalem,BRA,M,1.78,74,10-06-80,Natal,Lazio,Genoa,2013,Italian
+29,29,Paolo De Ceglie,ITA,D,1.84,75,17-09-86,Aosta,Juventus,Genoa,2013,Italian
+32,32,Antonio Donnarumma,ITA,G,1.95,92,07-07-90,Castellammare di Stabia,Milan,Genoa,2013,Italian
+33,33,Juraj Kucka,SVK,M,1.86,84,26-02-87,Bojnice,Sparta Prague,Genoa,2013,Italian
+36,36,Giacomo Lucarini,ITA,D,,,02-05-95,Monza,Milan,Genoa,2013,Italian
+41,44,Paolo Sokoli,ALB,D,1.87,79,29-03-95,Velipojë,None,Genoa,2013,Italian
+42,45,Lorenzo Gallotti,ITA,D,,,03-07-95,Genoa,None,Genoa,2013,Italian
+43,46,Francesco Todisco,ITA,M,,,28-12-95,San Pietro Vernotico,Lecce,Genoa,2013,Italian
+44,53,Albano Bizzarri,ARG,G,1.88,75,09-11-77,Etruria,Lazio,Genoa,2013,Italian
+45,67,Luca Tagliavacche,ITA,M,1.83,70,05-01-95,Genoa,None,Genoa,2013,Italian
+46,69,Stefano Sturaro,ITA,M,1.80,75,09-03-93,Sanremo,None,Genoa,2013,Italian
+47,71,Enzo Di Santantonio,FRA,M,1.78,69,11-07-95,Tolone,Sedan,Genoa,2013,Italian
+48,77,Moussa Konaté,SEN,F,1.83,78,03-04-93,M'Bour,FC Krasnodar,Genoa,2013,Italian
+49,79,Cabral,CPV,M,1.78,75,22-10-88,Praia,Sunderland,Genoa,2013,Italian
+50,90,Daniele Portanova,ITA,D,1.85,75,17-12-78,Rome,Bologna,Genoa,2013,Italian
+51,91,Andrea Bertolacci,ITA,M,1.79,75,11-01-91,Rome,Roma,Genoa,2013,Italian
+52,94,Allan Blaze,FRA,D,1.80,74,24-06-94,Petit-Bourg,Nancy,Genoa,2013,Italian
+53,95,Marco Albertoni,ITA,G,1.84,78,05-08-95,Genoa,None,Genoa,2013,Italian
+54,96,Francesco Di Marco,ITA,M,,,28-07-95,Genoa,None,Genoa,2013,Italian
+1,1,Samir Handanovič,SVN,G,1.93,89,14-07-84,Ljubljana,Udinese,Internazionale,2013,Italian
+2,2,Jonathan,BRA,D,1.70,72,27-02-86,Conselheiro Lafaiete,Cruzeiro,Internazionale,2013,Italian
+4,4,Javier Zanetti,ARG,D,1.78,75,10-08-73,Buenos Aires,Banfield,Internazionale,2013,Italian
+5,5,Juan Jesus,BRA,D,1.85,76,10-06-91,Belo Horizonte,Internacional,Internazionale,2013,Italian
+6,6,Marco Andreolli,ITA,D,1.87,82,10-06-86,Ponte dell'Olio,Chievo Verona,Internazionale,2013,Italian
+8,8,Rodrigo Palacio,ARG,F,1.75,70,05-02-82,Bahía Blanca,Genoa,Internazionale,2013,Italian
+9,9,Mauro Icardi,ARG,F,1.81,75,19-02-93,Rosario,Sampdoria,Internazionale,2013,Italian
+10,10,Mateo Kovačić,CRO,M,1.81,75,06-05-94,Linz,Dinamo Zagreb,Internazionale,2013,Italian
+11,11,Ricardo Álvarez,ARG,M,1.88,84,12-04-88,Capital Federal,Vélez Sarsfield,Internazionale,2013,Italian
+12,12,Luca Castellazzi,ITA,G,1.92,89,19-07-75,Gorgonzola,Sampdoria,Internazionale,2013,Italian
+13,13,Fredy Guarín,COL,M,1.84,78,30-06-86,Puerto Boyaca,FC Porto,Internazionale,2013,Italian
+14,14,Hugo Campagnaro,ARG,D,1.81,85,27-06-80,Córdoba,Napoli,Internazionale,2013,Italian
+16,16,Gaby Mudingayi,BEL,M,1.80,80,01-10-81,Kinshasa,Bologna,Internazionale,2013,Italian
+17,17,Zdravko Kuzmanović,SRB,M,1.86,72,22-09-87,Thun,Stuttgart,Internazionale,2013,Italian
+18,18,Wallace,BRA,D,1.75,72,01-05-94,Rio de Janeiro,Chelsea,Internazionale,2013,Italian
+19,19,Esteban Cambiasso,ARG,M,1.77,78,18-08-80,Buenos Aires,Real Madrid,Internazionale,2013,Italian
+20,20,Rubén Botta,ARG,M,1.76,66,31-01-90,San Juan,Tigre,Internazionale,2013,Italian
+21,21,Saphir Taïder,ALG,M,1.80,73,29-02-92,Castres,Bologna,Internazionale,2013,Italian
+22,22,Diego Milito,ARG,F,1.83,78,12-06-79,Bernal,Genoa,Internazionale,2013,Italian
+23,23,Andrea Ranocchia,ITA,D,1.95,80,16-02-88,Assisi,Genoa,Internazionale,2013,Italian
+25,25,Walter Samuel,ARG,D,1.83,83,23-03-78,Firmat,Real Madrid,Internazionale,2013,Italian
+28,28,George Puşcaş,ROU,F,1.87,80,08-04-96,Marghita,Liberty Oradea,Internazionale,2013,Italian
+30,30,Juan Pablo Carrizo,ARG,G,1.87,87,06-05-84,Villa Constitución,Lazio,Internazionale,2013,Italian
+33,33,Danilo D'Ambrosio,ITA,D,1.80,75,09-09-88,Naples,Torino,Internazionale,2013,Italian
+34,34,Andrea Mira,ITA,M,,,17-01-95,Angera,None,Internazionale,2013,Italian
+35,35,Rolando,POR,D,1.89,77,31-08-85,São Vicente,FC Porto,Internazionale,2013,Italian
+41,43,Lorenzo Paramatti,ITA,D,1.85,75,02-01-95,Faenza,Bologna,Internazionale,2013,Italian
+42,45,Luca Maniero,ITA,G,1.87,75,12-06-95,Padua,Padova,Internazionale,2013,Italian
+43,47,Alessandro Capello,ITA,F,1.83,69,12-12-95,Bologna,Bologna,Internazionale,2013,Italian
+44,50,Gennaro Acampora,ITA,M,1.76,72,29-03-94,Naples,Spezia,Internazionale,2013,Italian
+45,54,Isaac Donkor,GHA,D,1.80,70,15-08-95,Kumasi,Padova,Internazionale,2013,Italian
+46,55,Yuto Nagatomo,JPN,D,1.70,68,12-09-86,Ehime,Cesena,Internazionale,2013,Italian
+47,59,Fabio Eguelfi,ITA,D,1.78,74,19-01-95,Milan,None,Internazionale,2013,Italian
+48,77,McDonald Mariga,KEN,M,1.87,86,04-04-87,Nairobi,Parma,Internazionale,2013,Italian
+49,88,Hernanes,BRA,M,1.80,76,29-05-85,Recife,Lazio,Internazionale,2013,Italian
+50,94,Andy Polo,PER,F,1.70,58,29-09-94,Lima,Universidad San Martín,Internazionale,2013,Italian
+51,95,Stefano Dalla Riva,ITA,D,,,01-04-95,Schio,Vicenza,Internazionale,2013,Italian
+52,97,Federico Bonazzoli,ITA,F,1.84,79,21-05-97,Manerbio,None,Internazionale,2013,Italian
+1,1,Gianluigi Buffon,ITA,G,1.91,83,28-01-78,Carrara,Parma,Juventus,2013,Italian
+3,3,Giorgio Chiellini,ITA,D,1.86,76,14-08-84,Pisa,Fiorentina,Juventus,2013,Italian
+4,4,Martín Cáceres,URU,D,1.82,77,07-04-87,Montevideo,Sevilla,Juventus,2013,Italian
+5,5,Angelo Ogbonna Obinze,ITA,D,1.89,86,23-05-88,Cassino,Torino,Juventus,2013,Italian
+6,6,Paul Pogba,FRA,M,1.85,80,15-03-93,Lagny-sur-Marne,Manchester U,Juventus,2013,Italian
+7,7,Simone Pepe,ITA,M,1.78,73,30-08-83,Albano Laziale,Udinese,Juventus,2013,Italian
+8,8,Claudio Marchisio,ITA,M,1.79,76,19-01-86,Turin,None,Juventus,2013,Italian
+9,9,Mirko Vučinić,MNE,F,1.86,77,01-10-83,Nikić,Roma,Juventus,2013,Italian
+10,10,Carlos Tévez,ARG,F,1.73,75,05-02-84,Ciudadela,Manchester C,Juventus,2013,Italian
+12,12,Sebastian Giovinco,ITA,F,1.64,59,26-01-87,Turin,Parma,Juventus,2013,Italian
+13,13,Federico Peluso,ITA,D,1.86,73,20-01-84,Rome,Atalanta,Juventus,2013,Italian
+14,14,Fernando Llorente,ESP,F,1.95,90,26-02-85,Pamplona,Athletic Bilbao,Juventus,2013,Italian
+15,15,Andrea Barzagli,ITA,D,1.86,79,08-05-81,Fiesole,Wolfsburg,Juventus,2013,Italian
+18,18,Pablo Daniel Osvaldo,ITA,F,1.85,78,12-01-86,Buenos Aires,Southampton,Juventus,2013,Italian
+19,19,Leonardo Bonucci,ITA,D,1.90,82,01-05-87,Viterbo,Bari,Juventus,2013,Italian
+20,20,Simone Padoin,ITA,M,1.79,73,18-03-84,Gemona del Friuli,Atalanta,Juventus,2013,Italian
+21,21,Andrea Pirlo,ITA,M,1.77,68,19-05-79,Brescia,Milan,Juventus,2013,Italian
+22,22,Kwadwo Asamoah,GHA,M,1.78,78,09-12-88,Accra,Udinese,Juventus,2013,Italian
+23,23,Arturo Vidal,CHI,M,1.81,74,22-05-87,Santiago,Bayer Leverkusen,Juventus,2013,Italian
+26,26,Stephan Lichtsteiner,SUI,D,1.81,77,16-01-84,Adligenswil,Lazio,Juventus,2013,Italian
+27,27,Fabio Quagliarella,ITA,F,1.80,79,31-01-83,Castellammare di Stabia,Napoli,Juventus,2013,Italian
+30,30,Marco Storari,ITA,G,1.87,76,07-01-77,Pisa,Milan,Juventus,2013,Italian
+33,33,Mauricio Isla,CHI,D,1.76,72,12-06-88,Buin,Udinese,Juventus,2013,Italian
+34,34,Rubinho,BRA,G,1.86,82,04-08-82,Guarulhos,Palermo,Juventus,2013,Italian
+36,36,Gianmarco Vannucchi,ITA,G,1.85,77,30-07-95,Prato,None,Juventus,2013,Italian
+37,37,Matteo Gerbaudo,ITA,M,1.80,75,10-05-95,Moncalieri,None,Juventus,2013,Italian
+38,38,Federico Mattiello,ITA,M,1.82,76,14-07-95,Borgo a Mozzano,None,Juventus,2013,Italian
+39,39,Vykintas Slivka,LTU,M,1.85,81,29-04-95,Panevėys,Ekranas,Juventus,2013,Italian
+40,40,Younes Bnou Marzouk,MAR,F,1.77,75,02-03-96,Freyming-Merlebach,Metz,Juventus,2013,Italian
+41,41,Filippo Romagna,ITA,D,1.85,74,26-05-97,Fano,None,Juventus,2013,Italian
+42,42,Filippo Penna,ITA,D,1.78,74,24-03-95,Turin,None,Juventus,2013,Italian
+43,45,Pol García Tena,ESP,D,1.85,71,18-02-95,Terrassa,Barcelona,Juventus,2013,Italian
+44,50,Leonardo Citti,ITA,G,1.86,78,14-07-95,Lucca,None,Juventus,2013,Italian
+1,1,Etrit Berisha,ALB,G,1.94,92,10-03-89,Pritina,Kalmar FF,Lazio,2013,Italian
+2,2,Michaël Ciani,FRA,D,1.92,88,06-04-84,Paris,Bordeaux,Lazio,2013,Italian
+3,3,André Dias,BRA,D,1.84,80,15-05-79,São Bernardo do Campo,São Paulo,Lazio,2013,Italian
+4,4,Luca Crecco,ITA,M,1.83,77,06-09-95,Rome,None,Lazio,2013,Italian
+5,5,Lucas Biglia,ARG,M,1.78,74,30-01-86,Mercedes,Anderlecht,Lazio,2013,Italian
+6,6,Stefano Mauri,ITA,M,1.84,77,08-01-80,Monza,Udinese,Lazio,2013,Italian
+7,7,Felipe Anderson,BRA,M,1.78,69,15-04-93,Brasília,Santos,Lazio,2013,Italian
+10,10,Ederson,BRA,M,1.81,74,13-01-86,Parapua,Lyon,Lazio,2013,Italian
+11,11,Miroslav Klose,GER,F,1.84,84,09-06-78,Opole,Bayern Munich,Lazio,2013,Italian
+14,14,Balde Diao Keita,SEN,F,1.81,77,08-03-95,Arbucias,Barcelona,Lazio,2013,Italian
+15,15,Álvaro González,URU,M,1.75,72,29-10-84,Montevideo,Defensor Sporting,Lazio,2013,Italian
+16,16,Josip Elez,CRO,D,1.89,75,25-04-94,Split,Hajduk Split,Lazio,2013,Italian
+17,17,Bruno Pereirinha,POR,D,1.73,72,02-03-88,Rio de Mouro,Sporting CP,Lazio,2013,Italian
+19,19,Senad Lulić,BIH,M,1.83,76,18-01-86,Mostar,Young Boys,Lazio,2013,Italian
+20,20,Giuseppe Biava,ITA,D,1.80,73,08-05-77,Seriate,Genoa,Lazio,2013,Italian
+21,21,Gaël Kakuta,FRA,F,1.73,65,21-06-91,Lille,Chelsea,Lazio,2013,Italian
+22,22,Federico Marchetti,ITA,G,1.88,82,07-02-83,Bassano del Grappa,Cagliari,Lazio,2013,Italian
+23,23,Ogenyi Onazi,NGA,M,1.70,73,25-12-92,Lagos,My People FC,Lazio,2013,Italian
+24,24,Cristian Ledesma,ITA,M,1.80,78,24-09-82,Buenos Aires,Lecce,Lazio,2013,Italian
+25,25,Riccardo Serpieri,ITA,D,1.83,77,15-02-94,Rome,None,Lazio,2013,Italian
+26,26,Ştefan Radu,ROU,D,1.83,79,22-10-86,Bucharest,Dinamo Bucureşti,Lazio,2013,Italian
+27,27,Lorik Cana,ALB,M,1.86,77,27-07-83,Gjakova,Galatasaray,Lazio,2013,Italian
+29,29,Abdoulay Konko,FRA,D,1.82,71,09-03-84,Marseille,Genoa,Lazio,2013,Italian
+30,30,Emiliano Alfaro,URU,F,1.73,69,28-04-88,Montevideo,Liverpool [URU],Lazio,2013,Italian
+34,34,Brayan Perea,COL,F,1.88,79,25-02-93,Cali,Deportivo Cali,Lazio,2013,Italian
+39,39,Luis Pedro Cavanda,BEL,D,1.80,76,02-01-91,Luanda,None,Lazio,2013,Italian
+41,45,Mamadou Tounkara,SEN,F,1.86,80,19-01-96,Gabou,Barcelona,Lazio,2013,Italian
+42,46,Hélder Postiga,POR,F,1.82,79,02-08-82,Vila do Conde,Valencia,Lazio,2013,Italian
+43,48,Lorenzo Filippini,ITA,D,1.83,76,28-07-95,Rome,None,Lazio,2013,Italian
+44,49,Cristiano Lombardi,ITA,F,1.79,73,19-08-95,Viterbo,None,Lazio,2013,Italian
+45,55,Guido Guerrieri,ITA,G,1.84,78,25-02-96,Rome,None,Lazio,2013,Italian
+46,58,Joseph Marie Minala,CMR,M,1.84,80,24-08-96,Yaoundé,None,Lazio,2013,Italian
+47,60,Gianluca Pollace,ITA,D,1.86,80,25-12-95,Rome,None,Lazio,2013,Italian
+48,85,Diego Novaretti,ARG,D,1.93,85,09-05-85,La Palestina,Toluca,Lazio,2013,Italian
+49,87,Antonio Candreva,ITA,M,1.80,72,28-02-87,Rome,Udinese,Lazio,2013,Italian
+50,94,Milo Antić,SRB,M,1.85,79,28-10-94,Vranje,Grasshoppers,Lazio,2013,Italian
+51,95,Thomas Strakosha,ALB,G,1.92,80,19-03-95,Athens,Panionios,Lazio,2013,Italian
+1,1,Francesco Bardi,ITA,G,1.87,84,18-01-92,Livorno,Internazionale,Livorno,2013,Italian
+2,2,Cristiano Piccini,ITA,D,1.83,77,26-09-92,Florence,Fiorentina,Livorno,2013,Italian
+3,3,Giuseppe Gemiti,ITA,D,1.76,70,03-05-81,Frankfurt am Main,Novara,Livorno,2013,Italian
+7,7,Paolo Castellini,ITA,D,1.84,78,25-03-79,Brescia,Sampdoria,Livorno,2013,Italian
+8,8,Lorenzo Simonetti,ITA,M,1.80,72,28-08-96,Livorno,None,Livorno,2013,Italian
+9,9,Paulinho,BRA,F,1.76,72,10-01-86,Caxias do Sul,Juventude,Livorno,2013,Italian
+10,10,Andrea Luci,ITA,M,1.72,68,30-03-85,Piombino,Ascoli,Livorno,2013,Italian
+11,11,Djamel Mesbah,ALG,D,1.79,72,09-10-84,Zighoud Youcef,Parma,Livorno,2013,Italian
+14,14,Jonny Mosquera,COL,M,1.71,66,17-02-91,Medellín,Envigado,Livorno,2013,Italian
+15,15,Ibrahima Mbaye,SEN,D,1.87,70,19-11-94,Guédiawaye,Internazionale,Livorno,2013,Italian
+16,16,Daniele Bartolini,ITA,M,1.70,67,05-03-95,Carbonia,None,Livorno,2013,Italian
+17,17,Federico Ceccherini,ITA,D,1.86,72,11-05-92,Livorno,None,Livorno,2013,Italian
+18,18,Elia Bruzzi,ITA,F,1.80,71,08-04-95,Carrara,None,Livorno,2013,Italian
+19,19,Leandro Greco,ITA,M,1.83,76,19-07-86,Rome,Olympiakos,Livorno,2013,Italian
+20,20,Innocent Emeghara,SUI,F,1.70,68,27-05-89,Lagos,Siena,Livorno,2013,Italian
+21,21,Ishak Belfodil,ALG,F,1.91,86,12-01-92,Mostaganem,Internazionale,Livorno,2013,Italian
+22,22,Luca Anania,ITA,G,1.86,80,21-06-80,Milan,Padova,Livorno,2013,Italian
+23,23,Emerson,BRA,D,1.87,81,16-08-80,Joinville,Reggina,Livorno,2013,Italian
+24,24,Marco Benassi,ITA,M,1.83,80,08-09-94,Modena,Internazionale,Livorno,2013,Italian
+26,26,Luca Siligardi,ITA,F,1.79,73,26-01-88,Correggio,Internazionale,Livorno,2013,Italian
+27,27,Marco Biagianti,ITA,M,1.80,74,19-04-84,Florence,Catania,Livorno,2013,Italian
+29,29,Miguel Borja,COL,F,1.82,74,26-01-93,Tierra Alta,Cortuluá,Livorno,2013,Italian
+32,32,Tommaso Biasci,ITA,F,1.80,75,10-11-94,San Giuliano Terme,None,Livorno,2013,Italian
+33,33,Nahuel Valentini,ARG,D,1.82,79,19-09-88,Rosario,Rosario Central,Livorno,2013,Italian
+37,37,Gabriele Aldegani,ITA,G,1.95,92,10-05-76,Venice,Nocerina,Livorno,2013,Italian
+41,41,Alfred Duncan,GHA,M,1.78,78,10-03-93,Accra,Internazionale,Livorno,2013,Italian
+42,77,Leandro Rinaudo,ITA,D,1.86,78,09-05-83,Palermo,Napoli,Livorno,2013,Italian
+43,85,Andrea Coda,ITA,D,1.90,86,25-04-85,Massa,Udinese,Livorno,2013,Italian
+44,95,Andrea Tiritiello,ITA,D,1.78,72,28-03-95,Porto Azzurro,None,Livorno,2013,Italian
+45,96,Matteo Cipriani,ITA,G,1.85,79,04-11-96,Prato,Sestese,Livorno,2013,Italian
+1,1,Marco Amelia,ITA,G,1.90,90,02-04-82,Frascati,Genoa,Milan,2013,Italian
+2,2,Mattia De Sciglio,ITA,D,1.83,74,20-10-92,Milan,None,Milan,2013,Italian
+4,4,Sulley Muntari,GHA,M,1.79,76,27-08-84,Konongo,Internazionale,Milan,2013,Italian
+5,5,Philippe Mexès,FRA,D,1.87,84,30-03-82,Toulouse,Roma,Milan,2013,Italian
+7,7,Robinho,BRA,F,1.72,60,25-01-84,São Vicente,Manchester C,Milan,2013,Italian
+8,8,Riccardo Saponara,ITA,M,1.84,73,21-12-91,Forli,Empoli,Milan,2013,Italian
+10,10,Keisuke Honda,JPN,M,1.82,75,13-06-86,Osaka,CSKA Moscow,Milan,2013,Italian
+11,11,Giampaolo Pazzini,ITA,F,1.80,74,02-08-84,Pescia,Internazionale,Milan,2013,Italian
+13,13,Adil Rami,FRA,D,1.90,90,27-12-85,Bastia,Valencia,Milan,2013,Italian
+14,14,Valter Birsa,SVN,M,1.84,83,07-08-86,Sempeter pri Gorici,Genoa,Milan,2013,Italian
+15,15,Michael Essien,GHA,M,1.78,84,03-12-82,Accra,Chelsea,Milan,2013,Italian
+16,16,Andrea Poli,ITA,M,1.81,77,29-09-89,Vittorio Veneto,Sampdoria,Milan,2013,Italian
+17,17,Cristián Zapata,COL,D,1.86,82,30-09-86,Padilla Cauca,Villarreal,Milan,2013,Italian
+18,18,Riccardo Montolivo,ITA,M,1.82,79,18-01-85,Milan,Fiorentina,Milan,2013,Italian
+20,20,Ignazio Abate,ITA,D,1.80,73,12-11-86,Sant'Agata de' Goti,Torino,Milan,2013,Italian
+21,21,Kévin Constant,GUI,D,1.84,78,15-05-87,Fréjus,Genoa,Milan,2013,Italian
+22,22,Kaká,BRA,M,1.86,83,22-04-82,Brasília,Real Madrid,Milan,2013,Italian
+23,23,Adel Taarabt,MAR,M,1.80,76,24-05-89,Taza,QPR,Milan,2013,Italian
+24,24,Bryan Cristante,ITA,M,1.86,78,03-03-95,San Vito al Tagliamento,None,Milan,2013,Italian
+25,25,Daniele Bonera,ITA,D,1.83,74,31-05-81,Brescia,Parma,Milan,2013,Italian
+26,26,Matías Silvestre,ARG,D,1.84,78,25-09-84,Capital Federal,Internazionale,Milan,2013,Italian
+28,28,Urby Emanuelson,NED,M,1.76,68,16-06-86,Amsterdam,Ajax,Milan,2013,Italian
+31,31,an Benedičič,SVN,M,1.78,71,03-10-95,Kranj,None,Milan,2013,Italian
+32,32,Christian Abbiati,ITA,G,1.91,92,08-07-77,Abbiategrasso,Monza,Milan,2013,Italian
+34,34,Nigel de Jong,NED,M,1.74,72,30-11-84,Amsterdam,Manchester C,Milan,2013,Italian
+35,35,Ferdinando Coppola,ITA,G,1.88,86,10-06-78,Naples,Torino,Milan,2013,Italian
+36,36,Luca Iotti,ITA,D,1.89,80,09-11-95,Cernusco sul Naviglio,None,Milan,2013,Italian
+37,37,Andrea Petagna,ITA,F,1.88,85,30-06-95,Trieste,None,Milan,2013,Italian
+38,38,Marco Pinato,ITA,D,1.75,66,09-01-95,Monza,None,Milan,2013,Italian
+39,39,Davide Di Molfetta,ITA,F,1.76,70,23-06-96,Sesto San Giovanni,None,Milan,2013,Italian
+40,40,Mario Piccinocchi,ITA,M,1.72,66,21-02-95,Milan,None,Milan,2013,Italian
+41,41,Alessandro Mastalli,ITA,M,1.75,75,07-02-96,Milan,None,Milan,2013,Italian
+42,42,Andrej Modić,BIH,M,1.80,70,07-03-96,Banja Luka,None,Milan,2013,Italian
+43,45,Mario Balotelli,ITA,F,1.89,88,12-08-90,Palermo,Manchester C,Milan,2013,Italian
+44,59,Gabriel Vasconcellos,BRA,G,1.93,89,27-09-92,Unaí,Cruzeiro,Milan,2013,Italian
+45,61,Lorenzo Ferrari,ITA,G,1.93,77,09-03-96,Cremona,None,Milan,2013,Italian
+46,81,Cristian Zaccardo,ITA,D,1.84,77,21-12-81,Formigine,Parma,Milan,2013,Italian
+47,92,Stephan El Shaarawy,ITA,F,1.78,72,27-10-92,Savona,Genoa,Milan,2013,Italian
+48,98,Hachim Mastour,ITA,F,1.75,63,15-06-98,Reggio Emilia,Reggiana,Milan,2013,Italian
+1,1,Rafael,BRA,G,1.86,88,20-05-90,Sorocaba,Santos,Napoli,2013,Italian
+2,2,Anthony Réveillère,FRA,D,1.81,76,10-11-79,Doué-La-Fontaine,Lyon,Napoli,2013,Italian
+4,4,Henrique,BRA,D,1.85,73,14-10-86,Marechal Cândido Róndon,Barcelona,Napoli,2013,Italian
+5,5,Miguel Angel Britos,URU,D,1.88,82,17-07-85,Montevideo,Bologna,Napoli,2013,Italian
+7,7,José Callejón,ESP,F,1.79,73,11-02-87,Motril,Real Madrid,Napoli,2013,Italian
+8,8,Jorginho,ITA,M,1.80,65,21-12-91,Imbituba,Verona,Napoli,2013,Italian
+9,9,Gonzalo Higuaín,ARG,F,1.84,82,10-12-87,Brest,Real Madrid,Napoli,2013,Italian
+11,11,Christian Maggio,ITA,D,1.84,79,11-02-82,Montecchio Maggiore,Sampdoria,Napoli,2013,Italian
+12,12,Nikita Contini,ITA,G,1.90,75,21-05-96,Cherkasy,None,Napoli,2013,Italian
+13,13,Davide Bariti,ITA,M,1.73,65,07-07-91,La Spezia,Vicenza,Napoli,2013,Italian
+14,14,Dries Mertens,BEL,F,1.69,61,06-05-87,Leuven,PSV Eindhoven,Napoli,2013,Italian
+15,15,Roberto Colombo,ITA,G,1.90,80,24-08-75,Monza,Triestina,Napoli,2013,Italian
+16,16,Giandomenico Mesto,ITA,M,1.80,73,25-05-82,Monopoli,Genoa,Napoli,2013,Italian
+17,17,Marek Hamík,SVK,M,1.83,79,27-07-87,Banská Bystrica,Brescia,Napoli,2013,Italian
+18,18,Camilo Zuñiga,COL,M,1.72,72,14-12-85,Chigorodó,Siena,Napoli,2013,Italian
+19,19,Goran Pandev,MKD,F,1.84,75,27-07-83,Strumica,Internazionale,Napoli,2013,Italian
+20,20,Blerim Dzemaili,SUI,M,1.79,73,12-04-86,Tetovo,Parma,Napoli,2013,Italian
+21,21,Federico Fernández,ARG,D,1.90,83,21-02-89,Tres Algarrobos,Estudiantes (LP),Napoli,2013,Italian
+22,22,Josip Radoević,CRO,M,1.80,73,03-04-94,Split,Hajduk Split,Napoli,2013,Italian
+24,24,Lorenzo Insigne,ITA,F,1.63,59,04-06-91,Naples,None,Napoli,2013,Italian
+25,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid,Liverpool,Napoli,2013,Italian
+31,31,Faouzi Ghoulam,ALG,D,1.86,78,01-02-91,Saint-Priest-en-Jarez,St-Etienne,Napoli,2013,Italian
+33,33,Raúl Albiol,ESP,D,1.90,82,04-09-85,Vilamarxant,Real Madrid,Napoli,2013,Italian
+41,80,Antonio Doblas,ESP,G,1.84,78,05-08-80,Seville,Khazar Lankaran,Napoli,2013,Italian
+42,85,Valon Behrami,SUI,M,1.85,78,19-04-85,Kosovska Mitrovica,Fiorentina,Napoli,2013,Italian
+43,88,Gökhan Inler,SUI,M,1.82,80,27-06-84,Olten,Udinese,Napoli,2013,Italian
+44,91,Duván Zapata,COL,F,1.86,80,01-04-91,Cali,Estudiantes (LP),Napoli,2013,Italian
+45,95,Igor Łasicki,POL,D,1.84,70,26-06-95,Wałbrzych,Zagłębie Lubin,Napoli,2013,Italian
+46,96,Antonio Romano,ITA,M,1.80,73,23-03-96,Pollena Trocchia,None,Napoli,2013,Italian
+1,1,Nicola Pavarini,ITA,G,1.90,81,24-02-74,Brescia,Siena,Parma,2013,Italian
+2,2,Mattia Cassani,ITA,D,1.84,75,26-08-83,Borgomanero,Fiorentina,Parma,2013,Italian
+3,3,Cristian Molinaro,ITA,D,1.80,76,30-07-83,Moio della Civitella,Stuttgart,Parma,2013,Italian
+5,5,Walter Gargano,URU,M,1.68,65,23-07-84,Paysandù,Napoli,Parma,2013,Italian
+6,6,Alessandro Lucarelli,ITA,D,1.82,78,22-07-77,Livorno,Genoa,Parma,2013,Italian
+7,7,Jonathan Biabiany,FRA,M,1.75,70,28-04-88,Paris,Sampdoria,Parma,2013,Italian
+8,8,Daniele Galloppa,ITA,M,1.80,74,15-05-85,Rome,Siena,Parma,2013,Italian
+9,9,Alberto Cerri,ITA,F,1.90,82,16-04-96,Parma,None,Parma,2013,Italian
+10,10,Nicola Pozzi,ITA,F,1.84,75,30-06-86,Sant'Arcangelo di Romagna,Sampdoria,Parma,2013,Italian
+11,11,Amauri,ITA,F,1.86,83,03-06-80,Carapicuíba,Fiorentina,Parma,2013,Italian
+16,16,Marco Parolo,ITA,M,1.86,82,25-01-85,Gallarate,Cesena,Parma,2013,Italian
+17,17,Raffaele Palladino,ITA,F,1.82,73,17-04-84,Mugnano di Napoli,Genoa,Parma,2013,Italian
+18,18,Massimo Gobbi,ITA,D,1.83,79,31-10-80,Milan,Fiorentina,Parma,2013,Italian
+19,19,Felipe,BRA,D,1.86,78,31-07-84,Guaratingueta,Fiorentina,Parma,2013,Italian
+20,20,Joel Chukwuma Obi,NGA,M,1.76,71,22-05-91,Lagos,Internazionale,Parma,2013,Italian
+22,22,Filip Janković,SRB,M,1.77,67,17-01-95,Belgrade,Crvena Zvezda,Parma,2013,Italian
+23,23,Matiás Ezequiel Schelotto,ITA,M,1.87,76,23-05-89,Buenos Aires,Internazionale,Parma,2013,Italian
+24,24,Gianni Munari,ITA,M,1.85,84,24-06-83,Sassuolo,Sampdoria,Parma,2013,Italian
+26,26,José Mauri,ITA,M,1.70,66,16-05-96,Realicó,None,Parma,2013,Italian
+29,29,Gabriel Paletta,ITA,D,1.90,88,15-02-86,Longchamps,Boca Juniors,Parma,2013,Italian
+30,30,Afriyie Acquah,GHA,M,1.79,70,05-01-92,Accra,1899 Hoffenheim,Parma,2013,Italian
+31,31,Jherson Vergara,COL,D,1.90,83,26-05-94,Florida,Milan,Parma,2013,Italian
+32,32,Marco Marchionni,ITA,M,1.75,66,22-07-80,Monterotondo,Fiorentina,Parma,2013,Italian
+33,33,Gonzalo Martínez,ARG,F,,,02-04-96,Buenos Aires,None,Parma,2013,Italian
+34,34,Davide Zagnoni,ITA,D,1.82,,19-02-95,Modena,None,Parma,2013,Italian
+35,35,Jonathan Rossini,SUI,D,1.89,82,05-04-89,Giubiasco,Sassuolo,Parma,2013,Italian
+36,36,Daniele De Angelis,ITA,G,,,29-03-95,Parma,None,Parma,2013,Italian
+41,43,Marijan Ćorić,CRO,G,1.82,70,06-02-95,Čapljina,Istra 1961,Parma,2013,Italian
+42,45,Solomon Nyantakyi,GHA,M,1.79,72,25-03-96,Accra,None,Parma,2013,Italian
+43,50,Luká Haraslín,SVK,M,1.74,64,26-05-96,Bratislava,Slovan Bratislava,Parma,2013,Italian
+44,51,Dembel Sall,SEN,D,1.83,78,16-06-94,Pikine,None,Parma,2013,Italian
+45,53,Mirko Esposito,ITA,D,,,08-04-96,Fidenza,None,Parma,2013,Italian
+46,55,Diego Rossetto,ITA,G,1.90,78,19-01-96,Castelfranco Veneto,None,Parma,2013,Italian
+47,83,Antonio Mirante,ITA,G,1.93,78,08-07-83,Castellammare di Stabia,Sampdoria,Parma,2013,Italian
+48,91,Pavol Bajza,SVK,G,1.95,89,04-09-91,ilina,MFK Dubnica,Parma,2013,Italian
+49,99,Antonio Cassano,ITA,F,1.75,73,12-07-82,Bari,Internazionale,Parma,2013,Italian
+1,1,Bogdan Lobonţ,ROU,G,1.84,78,18-01-78,Hunedoara,Dinamo Bucureşti,Roma,2013,Italian
+2,2,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,São Paulo,Roma,2013,Italian
+3,3,Dodô,BRA,D,1.77,69,06-02-92,Campinas,Corinthians,Roma,2013,Italian
+5,5,Leandro Castán,BRA,D,1.85,78,05-11-86,Jaú,Corinthians,Roma,2013,Italian
+6,6,Kevin Strootman,NED,M,1.86,78,13-02-90,Ridderkerk,PSV Eindhoven,Roma,2013,Italian
+8,8,Adem Ljajić,SRB,M,1.81,74,29-09-91,Novi Pazar,Fiorentina,Roma,2013,Italian
+10,10,Francesco Totti,ITA,F,1.80,80,27-09-76,Rome,None,Roma,2013,Italian
+11,11,Rodrigo Taddei,BRA,M,1.77,70,06-03-80,São Paulo,Siena,Roma,2013,Italian
+13,13,Maicon,BRA,D,1.84,77,26-07-81,Novo Hamburgo,Manchester C,Roma,2013,Italian
+15,15,Miralem Pjanić,BIH,M,1.80,68,02-04-90,Tuzla,Lyon,Roma,2013,Italian
+16,16,Daniele De Rossi,ITA,M,1.84,83,24-07-83,Rome,None,Roma,2013,Italian
+17,17,Mehdi Benatia,MAR,D,1.90,88,17-04-87,Courcouronnes,Udinese,Roma,2013,Italian
+20,20,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Al-Ain,Roma,2013,Italian
+22,22,Mattia Destro,ITA,F,1.81,73,20-03-91,Ascoli Piceno,Genoa,Roma,2013,Italian
+24,24,Alessandro Florenzi,ITA,M,1.73,66,11-03-91,Rome,None,Roma,2013,Italian
+26,26,Morgan De Sanctis,ITA,G,1.90,82,26-03-77,Guardiagrele,Napoli,Roma,2013,Italian
+27,27,"Kouassi Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama,Arsenal,Roma,2013,Italian
+28,28,Łukasz Skorupski,POL,G,1.87,84,05-05-91,Zabrze,Górnik Zabrze,Roma,2013,Italian
+33,33,Tin Jedvaj,CRO,D,1.88,78,28-11-95,Zagreb,Dinamo Zagreb,Roma,2013,Italian
+35,35,Vasilis Torosidis,GRE,D,1.85,80,10-06-85,Xanthi,Olympiakos,Roma,2013,Italian
+41,42,Federico Balzaretti,ITA,D,1.80,74,06-12-81,Turin,Palermo,Roma,2013,Italian
+42,44,Radja Nainggolan,BEL,M,1.75,65,04-05-88,Antwerp,Cagliari,Roma,2013,Italian
+43,46,Alessio Romagnoli,ITA,D,1.85,75,12-01-95,Anzio,None,Roma,2013,Italian
+44,50,Matteo Adamo,ITA,M,1.75,,29-07-96,Frosinone,None,Roma,2013,Italian
+45,51,Francesco Proietti Gaffi,ITA,G,1.87,82,21-05-94,Rome,None,Roma,2013,Italian
+46,77,Jacopo Ferri,ITA,M,1.71,63,05-04-95,Rome,None,Roma,2013,Italian
+47,91,Deian Boldor,ROU,D,1.89,79,03-02-95,Timişoara,Banatul Timişoara,Roma,2013,Italian
+48,92,Mihai Bălaşa,ROU,D,1.75,69,14-01-95,Târgoviște,Viitorul Constanța,Roma,2013,Italian
+49,93,Lorenzo Pellegrini,ITA,M,1.86,82,19-06-96,Rome,None,Roma,2013,Italian
+50,94,Federico Ricci,ITA,M,1.75,68,27-05-94,Rome,None,Roma,2013,Italian
+51,95,Luca Mazzitelli,ITA,M,1.84,76,15-11-95,Rome,None,Roma,2013,Italian
+52,96,Francesco Di Mariano,ITA,F,1.77,70,20-04-96,Palermo,Lecce,Roma,2013,Italian
+53,97,Simone Battaglia,ITA,M,1.70,60,18-03-95,Rome,None,Roma,2013,Italian
+54,98,Vlad Marin,ROU,D,1.79,72,15-05-95,Râmnicu Vâlcea,Juventus,Roma,2013,Italian
+55,99,Valmir Berisha,SWE,F,1.82,78,06-06-96,Deçan,Halmstads BK,Roma,2013,Italian
+1,1,Angelo da Costa,BRA,G,1.86,81,12-11-83,São Bernardo do Campo,Ancona,Sampdoria,2013,Italian
+3,3,Andrea Costa,ITA,D,1.82,73,01-02-86,Reggio Emilia,Reggina,Sampdoria,2013,Italian
+4,4,Bartosz Salamon,POL,D,1.93,79,01-05-91,Poznań,Milan,Sampdoria,2013,Italian
+5,5,Renan,BRA,M,1.86,82,19-06-86,Batatais,CFR Cluj,Sampdoria,2013,Italian
+6,6,Matías Rodríguez,ARG,M,1.78,76,14-04-86,San Luis,Universidad de Chile,Sampdoria,2013,Italian
+7,7,Maxi López,ARG,F,1.90,88,03-04-84,Capital Federal,Catania,Sampdoria,2013,Italian
+8,8,Shkodran Mustafi,GER,D,1.84,82,17-04-92,Bad Hersfeld,Everton,Sampdoria,2013,Italian
+9,9,Stefano Okaka Chuka,ITA,F,1.86,83,09-08-89,Castiglione del Lago,Parma,Sampdoria,2013,Italian
+10,10,Nenad Krstičić,SRB,M,1.82,75,03-07-90,Belgrade,OFK Belgrade,Sampdoria,2013,Italian
+11,11,Manolo Gabbiadini,ITA,F,1.86,81,26-11-91,Calcinate,Juventus,Sampdoria,2013,Italian
+12,12,Gianluca Sansone,ITA,F,1.73,67,12-05-87,Potenza,Torino,Sampdoria,2013,Italian
+13,13,Gaetano Berardi,SUI,D,1.79,70,21-08-88,Sorengo,Brescia,Sampdoria,2013,Italian
+14,14,Pedro Mba Obiang,ESP,M,1.85,75,27-03-92,Alcalà de Henares,Atlético Madrid,Sampdoria,2013,Italian
+15,15,Paweł Wszołek,POL,M,1.86,77,30-04-92,Tczew,Polonia Warszawa,Sampdoria,2013,Italian
+17,17,Angelo Palombo,ITA,M,1.77,77,25-09-81,Ferentino,Fiorentina,Sampdoria,2013,Italian
+19,19,Vasco Regini,ITA,D,1.83,75,09-09-90,Cesena,Cesena,Sampdoria,2013,Italian
+21,21,Roberto Soriano,ITA,M,1.81,76,08-02-91,Darmstadt,Bayern Munich,Sampdoria,2013,Italian
+22,22,Birkir Bjarnason,ISL,M,1.82,73,27-05-88,Akureyri,Pescara,Sampdoria,2013,Italian
+23,23,Éder,BRA,F,1.79,73,15-11-86,Lauro Muller,Empoli,Sampdoria,2013,Italian
+28,28,Daniele Gastaldello,ITA,D,1.85,77,25-06-83,Camposampiero,Juventus,Sampdoria,2013,Italian
+29,29,Lorenzo De Silvestri,ITA,D,1.85,84,23-05-88,Rome,Fiorentina,Sampdoria,2013,Italian
+30,30,Vincenzo Fiorillo,ITA,G,1.90,74,13-01-90,Genoa,Juventus,Sampdoria,2013,Italian
+31,31,Mattia Lombardo,ITA,M,1.84,74,14-02-95,Genoa,None,Sampdoria,2013,Italian
+32,32,Simone Dejori,ITA,D,,,14-05-95,Rome,None,Sampdoria,2013,Italian
+33,33,Edoardo Oneto,ITA,F,1.82,71,23-02-96,Lavagna,None,Sampdoria,2013,Italian
+34,34,Giovanni Fenati,ITA,M,,,16-09-95,Genoa,None,Sampdoria,2013,Italian
+35,35,Andrea Corsini,ITA,F,,,24-02-96,Genoa,None,Sampdoria,2013,Italian
+41,44,Michele Fornasier,ITA,D,1.86,80,22-08-93,Vittorio Veneto,Manchester U,Sampdoria,2013,Italian
+42,77,Alessio Sestu,ITA,M,1.80,73,29-09-83,Rome,Chievo Verona,Sampdoria,2013,Italian
+43,95,Wladimiro Falcone,ITA,G,1.95,85,12-04-95,Rome,None,Sampdoria,2013,Italian
+1,1,Alberto Pomini,ITA,G,1.85,83,17-03-81,Isola della Scala,Bellaria Igea,Sassuolo,2013,Italian
+2,2,Raffaele Pucino,ITA,D,1.80,74,03-05-91,Caserta,Varese,Sassuolo,2013,Italian
+3,3,Alessandro Longhi,ITA,D,1.85,72,25-06-89,Desenzano,Chievo Verona,Sassuolo,2013,Italian
+4,4,Francesco Magnanelli,ITA,M,1.82,80,12-11-84,Umbertide,Sangiovannese,Sassuolo,2013,Italian
+5,5,Luca Antei,ITA,D,1.88,77,19-04-92,Rome,Roma,Sassuolo,2013,Italian
+6,6,Lorenzo Ariaudo,ITA,D,1.86,70,11-06-89,Turin,Cagliari,Sassuolo,2013,Italian
+7,7,Simone Missiroli,ITA,M,1.90,75,23-05-86,Reggio Calabria,Reggina,Sassuolo,2013,Italian
+8,8,Luca Marrone,ITA,M,1.86,75,28-03-90,Turin,Juventus,Sassuolo,2013,Italian
+9,9,Sergio Floccari,ITA,F,1.80,79,12-11-81,Vibo Valentia,Lazio,Sassuolo,2013,Italian
+10,10,Simone Zaza,ITA,F,1.87,75,25-06-91,Policoro,Juventus,Sassuolo,2013,Italian
+11,11,Marius Alexe,ROU,F,1.90,85,22-02-90,Bucharest,Dinamo Bucureşti,Sassuolo,2013,Italian
+12,12,Simone Perilli,ITA,G,1.84,75,07-01-95,Rome,Roma,Sassuolo,2013,Italian
+13,13,Daniele Vacondio,ITA,D,1.77,73,01-04-94,Reggio Emilia,None,Sassuolo,2013,Italian
+14,14,Gaetano Masucci,ITA,F,1.72,72,26-10-84,Baiano,Torino,Sassuolo,2013,Italian
+15,15,Francesco Acerbi,ITA,D,1.92,89,10-02-88,Vizzolo Predabissi,Genoa,Sassuolo,2013,Italian
+16,16,Davide Biondini,ITA,M,1.78,67,24-01-83,Longiano,Genoa,Sassuolo,2013,Italian
+17,17,Nicola Sansone,ITA,F,1.75,73,10-09-91,Munich,Parma,Sassuolo,2013,Italian
+18,18,Abass Alhassan,GHA,M,1.76,70,21-01-95,Accra,None,Sassuolo,2013,Italian
+19,19,Lorenzo Caselli,ITA,D,1.78,72,15-01-95,Bologna,SPAL,Sassuolo,2013,Italian
+20,20,Paolo Bianco,ITA,D,1.84,77,20-08-77,Ordona,Atalanta,Sassuolo,2013,Italian
+21,21,Thomas Manfredini,ITA,D,1.80,72,27-05-80,Ferrara,Genoa,Sassuolo,2013,Italian
+22,22,Matteo Brighi,ITA,M,1.79,79,14-02-81,Rimini,Torino,Sassuolo,2013,Italian
+23,23,Marcello Gazzola,ITA,D,1.84,79,03-04-85,Borgotaro,Ascoli,Sassuolo,2013,Italian
+25,25,Domenico Berardi,ITA,F,1.83,72,01-08-94,Cariati Marina,Juventus,Sassuolo,2013,Italian
+26,26,Emanuele Terranova,ITA,D,1.83,85,14-04-87,Mazara del Vallo,Palermo,Sassuolo,2013,Italian
+28,28,Paolo Cannavaro,ITA,D,1.85,83,26-06-81,Naples,Napoli,Sassuolo,2013,Italian
+29,29,Davide Lodesani,ITA,F,1.81,75,04-05-95,Pavullo nel Frignano,None,Sassuolo,2013,Italian
+30,30,Eros Castelletto,ITA,M,1.74,67,11-08-95,Ivrea,Juventus,Sassuolo,2013,Italian
+31,31,Giovanni Tortora,ITA,M,,,02-07-96,Parma,Parma,Sassuolo,2013,Italian
+32,32,Marcello Sereni,ITA,F,1.80,74,24-07-96,Modena,None,Sassuolo,2013,Italian
+33,33,Pedro Mendes,POR,D,1.87,77,01-10-90,Neuchâtel,Parma,Sassuolo,2013,Italian
+41,45,Yussif Raman Chibsah,GHA,M,1.78,75,10-03-93,Accra,Parma,Sassuolo,2013,Italian
+42,70,Diego Farias,BRA,F,1.72,66,10-05-90,Sorocaba,Chievo Verona,Sassuolo,2013,Italian
+43,79,Gianluca Pegolo,ITA,G,1.83,76,25-03-81,Bassano del Grappa,Siena,Sassuolo,2013,Italian
+44,83,Antonio Floro Flores,ITA,F,1.83,78,18-06-83,Naples,Genoa,Sassuolo,2013,Italian
+45,86,Reto Ziegler,SUI,D,1.83,79,16-01-86,Nyon,Juventus,Sassuolo,2013,Italian
+46,87,Aleandro Rosi,ITA,D,1.84,80,17-05-87,Rome,Parma,Sassuolo,2013,Italian
+47,95,Ettore Gliozzi,ITA,F,1.80,73,23-09-95,Siderno,None,Sassuolo,2013,Italian
+48,96,Antonio Sanabria,PAR,F,1.80,74,04-03-96,San Lorenzo,Roma,Sassuolo,2013,Italian
+49,99,Ciro Polito,ITA,G,1.84,78,12-04-79,Naples,Atalanta,Sassuolo,2013,Italian
+2,2,Guillermo Rodríguez,URU,D,1.84,85,21-03-84,Montevideo,Cesena,Torino,2013,Italian
+4,4,Migjen Basha,SUI,M,1.80,72,05-01-87,Lausanne,Atalanta,Torino,2013,Italian
+5,5,Cesare Bovo,ITA,D,1.81,79,14-01-83,Rome,Genoa,Torino,2013,Italian
+7,7,Omar El Kaddouri,MAR,M,1.85,74,21-08-90,Brussels,Napoli,Torino,2013,Italian
+8,8,Alexander Farnerud,SWE,M,1.81,72,01-05-84,Helsingborg,Young Boys,Torino,2013,Italian
+9,9,Ciro Immobile,ITA,F,1.86,78,20-02-90,Torre Annunziata,Genoa,Torino,2013,Italian
+10,10,Barreto,BRA,F,1.71,60,12-07-85,Rio de Janeiro,Udinese,Torino,2013,Italian
+11,11,Alessio Cerci,ITA,F,1.80,78,23-07-87,Velletri,Fiorentina,Torino,2013,Italian
+14,14,Alessandro Gazzi,ITA,M,1.84,83,28-01-83,Feltre,Siena,Torino,2013,Italian
+16,16,Marcelo Larrondo,ARG,F,1.91,79,16-08-88,Tunuyán,Siena,Torino,2013,Italian
+17,17,Salvatore Masiello,ITA,M,1.75,70,31-01-82,Naples,Bari,Torino,2013,Italian
+19,19,Nikola Maksimović,SRB,D,1.93,82,25-11-91,Bajina Bata,Crvena Zvezda,Torino,2013,Italian
+20,20,Giuseppe Vives,ITA,M,1.78,70,14-07-80,Naples,Lecce,Torino,2013,Italian
+23,23,Lys Gomis,SEN,G,1.86,78,06-10-89,Cuneo,None,Torino,2013,Italian
+24,24,Emiliano Moretti,ITA,D,1.85,80,11-06-81,Rome,Genoa,Torino,2013,Italian
+25,25,Kamil Glik,POL,D,1.90,80,03-02-88,Jastrzębie Zdrój,Palermo,Torino,2013,Italian
+26,26,Giovanni Pasquale,ITA,D,1.82,82,05-01-82,Venaria Reale,Udinese,Torino,2013,Italian
+27,27,Jasmin Kurtić,SVN,M,1.86,88,10-01-89,Črnomelj,Palermo,Torino,2013,Italian
+28,28,Umberto Saracco,ITA,G,1.86,77,10-04-94,Moncalieri,None,Torino,2013,Italian
+29,29,Marko Veović,SRB,M,1.77,70,28-08-91,Podgorica,Crvena Zvezda,Torino,2013,Italian
+30,30,Daniele Padelli,ITA,G,1.91,85,25-10-85,Lecco,Udinese,Torino,2013,Italian
+31,31,Emmanuel Gyasi,GHA,F,,,11-01-94,Palermo,Pro Vercelli,Torino,2013,Italian
+32,32,Tommaso Berni,ITA,G,1.85,80,06-03-83,Florence,Sampdoria,Torino,2013,Italian
+34,34,Antonio Barreca,ITA,D,1.83,70,18-03-95,Turin,None,Torino,2013,Italian
+35,35,Marco Sordi,ITA,G,1.83,78,07-09-95,Aosta,None,Torino,2013,Italian
+36,36,Matteo Darmian,ITA,D,1.82,70,02-12-89,Legnano,Palermo,Torino,2013,Italian
+41,49,Mattia Aramu,ITA,F,1.80,67,14-05-95,Ciriè,None,Torino,2013,Italian
+42,51,Alessandro Comentale,ITA,M,1.70,,25-01-95,,None,Torino,2013,Italian
+43,69,Riccardo Meggiorini,ITA,F,1.83,75,04-09-85,Isola della Scala,Genoa,Torino,2013,Italian
+44,77,Panagiotis Tachtsidis,GRE,M,1.91,86,15-02-91,Nafplio,Catania,Torino,2013,Italian
+1,1,eljko Brkić,SRB,G,1.97,95,09-07-86,Novi Sad,Vojvodina,Udinese,2013,Italian
+3,3,Allan,BRA,M,1.75,73,08-01-91,Rio de Janeiro,Deportivo Maldonado,Udinese,2013,Italian
+4,4,Naldo,BRA,D,1.88,88,25-08-88,Santo André,Granada,Udinese,2013,Italian
+5,5,Danilo,BRA,D,1.83,81,10-05-84,São Bernardo do Campo,Desportivo Brasil,Udinese,2013,Italian
+6,6,Igor Bubnjić,CRO,D,1.88,88,17-07-92,Split,Slaven Belupo,Udinese,2013,Italian
+7,7,Emmanuel Agyemang-Badu,GHA,M,1.72,70,02-12-90,Seikwa,Berekum Arsenal,Udinese,2013,Italian
+8,8,Duan Basta,SRB,M,1.84,74,18-08-84,Belgrade,Crvena Zvezda,Udinese,2013,Italian
+9,9,Luis Muriel,COL,F,1.80,84,16-04-91,Santo Tomás,Deportivo Cali,Udinese,2013,Italian
+10,10,Antonio Di Natale,ITA,F,1.70,73,13-10-77,Naples,Empoli,Udinese,2013,Italian
+11,11,Maurizio Domizzi,ITA,D,1.85,87,28-06-80,Rome,Napoli,Udinese,2013,Italian
+14,14,Frano Mlinar,CRO,M,1.84,74,30-03-92,Zagreb,Inter Zapreić,Udinese,2013,Italian
+15,15,Steve Beleck Leo,CMR,F,1.92,79,10-02-93,Yaoundé,Panthrakikos,Udinese,2013,Italian
+17,17,Nicolás López,URU,F,1.75,67,01-10-93,Montevideo,Roma,Udinese,2013,Italian
+18,18,Jadson,BRA,M,1.71,64,30-08-93,São Bernardo do Campo,Botafogo,Udinese,2013,Italian
+19,19,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Granada,Udinese,2013,Italian
+20,20,Hassan Yebda,ALG,M,1.87,77,14-05-84,Saint-Maurice,Granada,Udinese,2013,Italian
+21,21,Andrea Lazzari,ITA,M,1.84,81,03-12-84,Bergamo,Fiorentina,Udinese,2013,Italian
+22,22,Simone Scuffet,ITA,G,1.85,75,31-05-96,Udine,None,Udinese,2013,Italian
+27,27,Silvan Widmer,SUI,D,1.82,79,05-03-93,Spreitenbach,Granada,Udinese,2013,Italian
+30,30,Ivan Kelava,CRO,G,1.95,94,20-02-88,Zagreb,Dinamo Zagreb,Udinese,2013,Italian
+32,32,Bruno Fernandes,POR,M,1.73,78,08-09-94,Maia,Novara,Udinese,2013,Italian
+33,33,Panagiotis Kone,GRE,M,1.83,76,26-07-87,Tirana,Bologna,Udinese,2013,Italian
+34,34,Gabriel Silva,BRA,D,1.79,74,13-05-91,Piracicaba,Granada,Udinese,2013,Italian
+37,37,Roberto Pereyra,ARG,M,1.82,80,07-01-91,San Miguel de Tucumán,River Plate,Udinese,2013,Italian
+40,40,Guglielmo Vicario,ITA,G,1.88,76,07-10-96,Udine,Ancona,Udinese,2013,Italian
+41,41,Filippo Berra,ITA,D,1.82,74,06-02-95,Udine,None,Udinese,2013,Italian
+42,42,Marco Bertoia,ITA,M,1.80,75,24-05-95,San Vito al Tagliamento,None,Udinese,2013,Italian
+43,44,Davide Riccardi,ITA,D,1.79,76,09-04-96,Monfalcone,None,Udinese,2013,Italian
+44,52,Alex Meret,ITA,G,1.85,77,22-03-97,Udine,None,Udinese,2013,Italian
+45,66,Giampiero Pinzi,ITA,M,1.77,73,11-03-81,Rome,Lazio,Udinese,2013,Italian
+46,70,Maicosuel,BRA,M,1.80,69,16-06-86,Cosmópolis,Botafogo,Udinese,2013,Italian
+47,75,Thomas Heurtaux,FRA,D,1.83,81,03-07-88,Lisieux,Caen,Udinese,2013,Italian
+48,94,Piotr Zieliński,POL,M,1.80,75,20-05-94,Ząbkowice Śląskie,Zagłębie Lubin,Udinese,2013,Italian
+49,99,Francesco Benussi,ITA,G,1.88,85,15-10-81,Mestre,Palermo,Udinese,2013,Italian
+1,1,Rafael,ITA,G,1.87,80,03-03-82,São Paulo,São Bento,Verona,2013,Italian
+2,2,Rômulo,BRA,M,1.78,72,22-05-87,Pelotas,Fiorentina,Verona,2013,Italian
+3,3,Michelangelo Albertazzi,ITA,D,1.85,73,07-01-91,Bologna,Milan,Verona,2013,Italian
+4,4,Iván Pillud,ARG,D,1.77,75,24-04-86,Capitán Bermúdez,Racing Club,Verona,2013,Italian
+5,5,Massimo Donati,ITA,M,1.86,75,26-03-81,San Vito al Tagliamento,Palermo,Verona,2013,Italian
+6,6,Raphael Martinho,BRA,M,1.83,73,15-04-88,Campo Grande,Catania,Verona,2013,Italian
+7,7,Marquinho,BRA,M,1.82,79,03-07-86,Passo Fundo,Roma,Verona,2013,Italian
+8,8,Daniele Cacia,ITA,F,1.82,74,23-08-83,Catanzaro,Lecce,Verona,2013,Italian
+9,9,Luca Toni,ITA,F,1.93,88,26-05-77,Pavullo nel Frignano,Fiorentina,Verona,2013,Italian
+10,10,Emil Hallfreðsson,ISL,M,1.86,83,26-06-84,Reykjavík,Reggina,Verona,2013,Italian
+11,11,Boko Janković,SRB,M,1.83,77,01-03-84,Belgrade,Genoa,Verona,2013,Italian
+12,12,Nícolas Andrade,BRA,G,1.90,85,12-04-88,Colorado do Oeste,Atlético Mineiro,Verona,2013,Italian
+14,14,Ezequiel Cirigliano,ARG,M,1.72,71,24-01-92,Caseros,River Plate,Verona,2013,Italian
+15,15,Juan Manuel Iturbe,ARG,F,1.72,64,04-06-93,Capital Federal,FC Porto,Verona,2013,Italian
+17,17,Godfred Donsah,GHA,M,1.75,72,07-06-96,Accra,Palermo,Verona,2013,Italian
+18,18,Vangelis Moras,GRE,D,1.93,78,26-08-81,Larissa,Cesena,Verona,2013,Italian
+19,19,Michael Rabuic,CZE,F,1.84,80,17-09-89,Náměť nad Oslavou,Slovan Liberec,Verona,2013,Italian
+21,21,Juan Ignacio Gómez,ARG,F,1.80,75,20-05-85,Santa Fe,Bellaria,Verona,2013,Italian
+22,22,Domenico Maietta,ITA,D,1.85,77,03-08-82,Cariati,Frosinone,Verona,2013,Italian
+23,23,Alejandro González,URU,D,1.84,78,23-03-88,Montevideo,Peñarol,Verona,2013,Italian
+25,25,Rafael Marques,BRA,D,1.84,78,21-09-83,Rio de Janeiro,Atlético Mineiro,Verona,2013,Italian
+26,26,Jacopo Sala,ITA,M,1.83,75,05-12-91,Bergamo,Hamburg,Verona,2013,Italian
+29,29,Fabrizio Cacciatore,ITA,D,1.82,74,08-10-86,Turin,Sampdoria,Verona,2013,Italian
+30,30,Marco Donadel,ITA,M,1.79,73,21-04-83,Conegliano Veneto,Napoli,Verona,2013,Italian
+31,31,Nikolay Mihaylov,BUL,G,1.94,85,28-06-88,Sofia,FC Twente,Verona,2013,Italian
+33,33,Alessandro Agostini,ITA,D,1.74,66,23-07-79,Vinci,Torino,Verona,2013,Italian
+34,34,Mohamed Fares,ALG,F,1.83,75,15-02-96,Aubervilliers,Bordeaux,Verona,2013,Italian
+35,35,Mattia Zaccagni,ITA,M,1.77,63,16-06-95,Bellaria,Bellaria,Verona,2013,Italian
+41,98,Daniele Borra,ITA,G,1.92,88,28-07-95,Chivasso,Virtus Entella,Verona,2013,Italian

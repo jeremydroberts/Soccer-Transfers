@@ -1,0 +1,572 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,René  Adler,GER,G,1.90,85,15-01-85,Leipzig,None,Bayer Leverkusen,2009,German
+2,2,Daniel Schwaab,GER,D,1.86,75,23-08-88,Waldkirch,Freiburg,Bayer Leverkusen,2009,German
+3,3,Stefan Reinartz,GER,D,1.88,75,01-01-89,Engelskirchen,None,Bayer Leverkusen,2009,German
+4,4,Sami  Hyypiä,FIN,D,1.92,85,07-10-73,Porvoo,Liverpool,Bayer Leverkusen,2009,German
+5,5,Manuel  Friedrich,GER,D,1.89,82,13-09-79,Bad Kreuznach,Mainz,Bayer Leverkusen,2009,German
+6,6,Simon Rolfes,GER,M,1.89,82,21-01-82,Ibbenbüren,Alemannia  Aachen,Bayer Leverkusen,2009,German
+7,7,Tranquillo  Barnetta,SUI,M,1.78,69,22-05-85,Rotmonten,St Gallen,Bayer Leverkusen,2009,German
+8,8,Lars Bender,GER,M,1.84,77,27-04-89,Rosenheim,1860 Munich,Bayer Leverkusen,2009,German
+9,9,Patrick Helmes,GER,F,1.82,70,01-03-84,Cologne,Köln,Bayer Leverkusen,2009,German
+10,10,Renato Augusto,BRA,M,1.85,81,08-02-88,Rio de Janeiro,Flamengo,Bayer Leverkusen,2009,German
+11,11,Stephan  Kießling,GER,F,1.90,80,25-01-84,Lichtenfels,Nürnberg,Bayer Leverkusen,2009,German
+15,15,Hans Sarpei,GHA,D,1.78,71,28-06-76,Tema,Wolfsburg,Bayer Leverkusen,2009,German
+18,18,Tomasz  Zdebel,GER,M,1.78,76,25-05-73,Katowice,Bochum,Bayer Leverkusen,2009,German
+19,19,Eren Derdiyok,SUI,F,1.90,83,12-06-88,Basel,Basel,Bayer Leverkusen,2009,German
+20,20,Lukas Sinkiewicz,GER,D,1.91,92,09-10-85,Tychy,Köln,Bayer Leverkusen,2009,German
+21,21,Tomasz Bobel,POL,G,1.87,74,29-12-74,Wroclaw,Neftchi Baku,Bayer Leverkusen,2009,German
+22,22,Benedikt  Fernandez,GER,G,1.84,81,08-01-85,Bonn,None,Bayer Leverkusen,2009,German
+23,23,Arturo Vidal,CHI,D,1.81,74,22-05-87,Santiago,Colo-Colo,Bayer Leverkusen,2009,German
+24,24,Michal Kadlec,CZE,D,1.83,75,13-12-84,Vykov,Sparta Prague,Bayer Leverkusen,2009,German
+26,26,Thanos Petsos,GRE,M,1.84,80,05-06-91,Düsseldorf,None,Bayer Leverkusen,2009,German
+27,27,Gonzalo Castro,GER,D,1.70,74,11-06-87,Wuppertal,None,Bayer Leverkusen,2009,German
+28,28,Burak Kaplan,TUR,M,1.68,64,01-02-90,Kalk,None,Bayer Leverkusen,2009,German
+36,36,Fabian Giefer,GER,G,1.96,86,17-05-90,Adenau,None,Bayer Leverkusen,2009,German
+37,37,Kevin Kampl,SVN,M,1.80,63,09-10-90,Solingen,None,Bayer Leverkusen,2009,German
+39,39,Toni Kroos,GER,M,1.82,71,04-01-90,Greifswald,Bayern Munich,Bayer Leverkusen,2009,German
+41,45,Dominick Drexler,GER,F,1.83,70,26-05-90,Bonn,Alemannia Aachen,Bayer Leverkusen,2009,German
+42,54,Pierre-Michel Lasogga,GER,F,1.89,88,15-12-91,Gladbeck,Wolfsburg U19,Bayer Leverkusen,2009,German
+1,1,Michael  Rensing,GER,G,1.88,86,14-05-84,Lingen  (Ems),None,Bayern Munich,2009,German
+5,5,Daniel van Buyten,BEL,D,1.96,96,07-02-78,Chimay,Hamburg,Bayern Munich,2009,German
+6,6,Martin  Demichelis,ARG,D,1.84,78,20-12-80,Justiniano  Posse,River  Plate,Bayern Munich,2009,German
+7,7,Franck Ribéry,FRA,M,1.70,73,01-04-83,Boulogne-sur-Mer,Marseille,Bayern Munich,2009,German
+8,8,Hamit Altıntop,TUR,M,1.83,82,08-12-82,Gelsenkirchen,Schalke,Bayern Munich,2009,German
+10,10,Arjen Robben,NED,F,1.81,75,23-01-84,Bedum,Real Madrid,Bayern Munich,2009,German
+11,11,Ivica Olić,CRO,F,1.81,85,14-09-79,Davor,Hamburg,Bayern Munich,2009,German
+13,13,Andreas  Görlitz,GER,M,1.79,76,31-01-82,Weilheim,1860 Munich,Bayern Munich,2009,German
+17,17,Mark van Bommel,NED,M,1.87,85,22-04-77,Maasbracht,Barcelona,Bayern Munich,2009,German
+18,18,Miroslav  Klose,GER,F,1.82,81,09-06-78,Opole,Werder Bremen,Bayern Munich,2009,German
+21,21,Philipp  Lahm,GER,D,1.70,62,11-11-83,Munich,None,Bayern Munich,2009,German
+22,22,Hans-Jörg Butt,GER,G,1.91,91,28-05-74,Oldenburg,Benfica,Bayern Munich,2009,German
+23,23,Danijel Pranjić,CRO,M,1.72,67,02-12-81,Naice,SC Heerenveen,Bayern Munich,2009,German
+24,24,Stefan Schürf,GER,D,1.76,70,08-03-89,Munich,None,Bayern Munich,2009,German
+25,25,Thomas Müller,GER,M,1.86,74,13-09-89,Weilheim in Oberbayern,None,Bayern Munich,2009,German
+26,26,Diego Contento,ITA,D,1.76,70,01-05-90,Munich,None,Bayern Munich,2009,German
+27,27,David  Alaba,AUT,M,1.75,70,24-06-92,Vienna,Austria Vienna (A),Bayern Munich,2009,German
+28,28,Holger Badstuber,GER,D,1.89,78,13-03-89,Memmingen,None,Bayern Munich,2009,German
+29,29,Saër Sène,FRA,F,1.80,70,04-11-86,Paris,Sonnenhof Großaspach,Bayern Munich,2009,German
+30,30,Christian Lell,GER,D,1.80,80,29-08-84,Munich,None,Bayern Munich,2009,German
+31,31,Bastian  Schweinsteiger,GER,M,1.83,79,01-08-84,Kolbermoor,1860 Rosenheim,Bayern Munich,2009,German
+32,32,Mehmet Ekici,GER,M,1.80,70,25-03-90,Munich,None,Bayern Munich,2009,German
+33,33,Mario Gómez,GER,F,1.89,84,10-07-85,Riedlingen,Stuttgart,Bayern Munich,2009,German
+35,35,Thomas Kraft,GER,G,1.85,78,22-07-88,Kirchen (Sieg),None,Bayern Munich,2009,German
+37,37,Björn Kopplin,GER,D,1.84,81,07-01-89,Berlin,Union Berlin,Bayern Munich,2009,German
+38,38,Daniel Sikorski,AUT,F,1.83,73,02-11-87,Waidhofen an der Thaya,AKA St. Pölten,Bayern Munich,2009,German
+41,43,Deniz Yilmaz,GER,F,1.82,79,26-02-88,Munich,Ulm,Bayern Munich,2009,German
+42,44,Anatoliy Tymoshchuk,UKR,M,1.81,75,30-03-79,Lutsk,Zenit St Petersburg,Bayern Munich,2009,German
+2,2,Matias Concha,SWE,D,1.80,82,31-03-80,Malmö,Djurgårdens IF,VfL Bochum,2009,German
+4,4,Marcel  Maltritz,GER,D,1.86,81,02-10-78,Magdeburg,Hamburg,VfL Bochum,2009,German
+5,5,Christoph  Dabrowski,GER,M,1.95,85,01-07-78,Katowice,Hannover 96,VfL Bochum,2009,German
+6,6,Christian Fuchs,AUT,D,1.86,80,07-04-86,Pitten,Mattersburg,VfL Bochum,2009,German
+7,7,Paul Freier,GER,M,1.80,79,26-07-79,Bytom,Bayer Leverkusen,VfL Bochum,2009,German
+8,8,Andreas Johansson,SWE,M,1.84,72,10-03-82,Halmstad,Halmstads BK,VfL Bochum,2009,German
+9,9,Stanislav  esták,SVK,F,1.79,72,16-12-82,Preov,MK ilina,VfL Bochum,2009,German
+10,10,Joël Epalle,CMR,F,1.75,80,20-02-78,Yaoundé,Iraklis,VfL Bochum,2009,German
+11,11,Zlatko Dedič,SVN,F,1.82,77,05-10-84,Bihać,Frosinone,VfL Bochum,2009,German
+14,14,Diego Klimowicz,ARG,F,1.91,90,06-07-74,Quilmes,Borussia Dortmund,VfL Bochum,2009,German
+16,16,Vahid  Hashemian,IRN,F,1.82,78,21-07-76,Tehran,Hannover 96,VfL Bochum,2009,German
+17,17,Lewis Holtby,GER,F,1.74,66,18-09-90,Erkelenz,Schalke,VfL Bochum,2009,German
+18,18,Philipp  Heerwagen,GER,G,1.93,83,13-04-83,Kelheim,Unterhaching,VfL Bochum,2009,German
+19,19,Dennis Grote,GER,M,1.80,71,09-08-86,Kaiserslautern,None,VfL Bochum,2009,German
+20,20,Mergim Mavraj,GER,D,1.89,81,09-06-86,Kosovo,Darmstadt,VfL Bochum,2009,German
+21,21,Marc Pfertzel,FRA,D,1.82,75,21-05-81,Mulhouse,Livorno,VfL Bochum,2009,German
+22,22,Mimoun  Azaouagh,GER,M,1.75,63,17-11-82,Benisidel,Schalke,VfL Bochum,2009,German
+23,23,Milo Marić,SRB,M,1.76,76,05-03-82,Uice,KAA Gent,VfL Bochum,2009,German
+24,24,Phillip Bönig,GER,D,1.78,73,20-03-80,Erding,Duisburg,VfL Bochum,2009,German
+25,25,Anther Yahia,ALG,D,1.85,79,21-03-82,Mulhouse,Nice,VfL Bochum,2009,German
+26,26,Andreas Luthe,GER,G,1.94,90,10-03-87,Velbert,None,VfL Bochum,2009,German
+27,27,Kevin Vogt,GER,M,1.94,80,23-09-91,Bochum,None,VfL Bochum,2009,German
+29,29,Roman Prokoph,GER,F,1.83,74,06-08-85,Berlin,St Pauli,VfL Bochum,2009,German
+30,30,Patrick Fabian,GER,D,1.94,89,11-10-87,Hagen,None,VfL Bochum,2009,German
+31,31,René  Renno,GER,G,1.86,78,19-02-79,Berlin,RW Essen,VfL Bochum,2009,German
+32,32,Mirkan Aydın,GER,M,1.88,83,08-07-87,Hattingen,TSG Sprockhövel,VfL Bochum,2009,German
+33,33,Philip Semlits,GER,M,1.80,74,09-11-90,Münster,None,VfL Bochum,2009,German
+34,34,Pascal Pellowski,GER,D,1.87,76,18-12-88,,Darmstadt,VfL Bochum,2009,German
+35,35,Jonas Acquistapace,GER,D,1.88,78,18-06-89,Hamm,RW Ahlen,VfL Bochum,2009,German
+39,39,Oguzhan Kefkir,GER,M,1.75,72,27-08-91,Wuppertal,None,VfL Bochum,2009,German
+1,1,Roman  Weidenfeller,GER,G,1.88,85,06-08-80,Dietz,Kaiserslautern,Borussia Dortmund,2009,German
+4,4,Neven Subotić,SRB,D,1.93,88,10-12-88,Banja Luka,Mainz,Borussia Dortmund,2009,German
+5,5,Sebastian  Kehl,GER,M,1.88,80,13-02-80,Fulda,Freiburg,Borussia Dortmund,2009,German
+7,7,Tinga,BRA,M,1.70,65,13-01-78,Porto Alegre,Internacional,Borussia Dortmund,2009,German
+8,8,Nuri Şahin,TUR,M,1.80,73,05-09-88,Lüdenscheid,None,Borussia Dortmund,2009,German
+9,9,Nelson Haedo  Valdez,PAR,F,1.78,71,28-11-83,Caaguazú,Werder  Bremen,Borussia Dortmund,2009,German
+10,10,Mohamed  Zidan,EGY,F,1.72,71,11-12-81,Port Said,Hamburg,Borussia Dortmund,2009,German
+11,11,Dimitar Rangelov,BUL,F,1.83,80,09-02-83,Sofia,Energie Cottbus,Borussia Dortmund,2009,German
+13,13,Damien Le Tallec,FRA,F,1.84,73,14-10-90,Poissy,Rennes,Borussia Dortmund,2009,German
+14,14,Markus  Feulner,GER,M,1.81,77,12-02-82,Scheßlitz,Mainz,Borussia Dortmund,2009,German
+15,15,Mats  Hummels,GER,D,1.92,90,16-12-88,Bensberg,Bayern Munich,Borussia Dortmund,2009,German
+16,16,Jakub Błaszczykowski,POL,M,1.75,71,14-12-85,Częstochowa,Wisła Kraków,Borussia Dortmund,2009,German
+17,17,Dedê,BRA,D,1.76,69,18-04-78,Belo Horizonte,Atlético  Mineiro,Borussia Dortmund,2009,German
+18,18,Lucas Barrios,PAR,F,1.87,87,13-11-84,San Fernando,Colo-Colo,Borussia Dortmund,2009,German
+19,19,Kevin Großkreutz,GER,D,1.86,70,19-07-88,Dortmund,RW Ahlen,Borussia Dortmund,2009,German
+20,20,Marc  Ziegler,GER,G,1.92,89,13-06-76,Blicskastel,Saarbrücken,Borussia Dortmund,2009,German
+21,21,Uwe Hünemeier,GER,D,1.88,79,09-01-86,Rietberg,None,Borussia Dortmund,2009,German
+22,22,Sven Bender,GER,M,1.85,72,27-04-89,Rosenheim,1860 Munich,Borussia Dortmund,2009,German
+23,23,Christopher Kullmann,GER,F,1.87,82,19-09-86,Katzhütte,Magdeburg,Borussia Dortmund,2009,German
+25,25,Patrick  Owomoyela,GER,D,1.87,80,05-11-79,Hamburg,Werder Bremen,Borussia Dortmund,2009,German
+26,26,Daniel Ginczek,GER,F,1.90,78,13-04-91,Arnsberg,Neheim,Borussia Dortmund,2009,German
+27,27,Felipe Santana,BRA,D,1.94,80,17-03-86,Rio Claro,Figueirense,Borussia Dortmund,2009,German
+28,28,Sebastian  Tyrala,POL,M,1.71,70,22-02-88,Racibórz,None,Borussia Dortmund,2009,German
+29,29,Marcel Schmelzer,GER,D,1.81,74,22-01-88,Magdeburg,Magdeburg,Borussia Dortmund,2009,German
+30,30,Tamás Hajnal,HUN,M,1.70,68,15-03-81,Esztergom,Karlsruhe,Borussia Dortmund,2009,German
+31,31,Mario Götze,GER,M,1.76,64,03-06-92,Memmingen,None,Borussia Dortmund,2009,German
+33,33,David Vrogić,GER,D,1.80,72,10-08-89,Wuppertal,None,Borussia Dortmund,2009,German
+34,34,Bayram Sadrijaj,SRB,F,1.74,74,10-08-86,Augsburg,TSG Thannhausen,Borussia Dortmund,2009,German
+36,36,Yasin Öztekin,TUR,M,1.78,64,19-03-87,Dortmund,None,Borussia Dortmund,2009,German
+39,39,Marco Stiepermann,GER,F,1.80,75,09-02-91,Dortmund,None,Borussia Dortmund,2009,German
+40,40,Marcel Höttecke,GER,G,1.99,102,25-04-87,Lippstadt,RW Ahlen,Borussia Dortmund,2009,German
+41,41,Johannes Focher,GER,G,1.92,81,20-01-90,Hamm,None,Borussia Dortmund,2009,German
+42,44,Marc Hornschuh,GER,D,1.87,73,02-03-91,Dortmund,None,Borussia Dortmund,2009,German
+43,45,Julian Koch,GER,D,1.84,76,11-11-90,Schwerte,None,Borussia Dortmund,2009,German
+1,1,Christofer  Heimeroth,GER,G,1.94,91,01-08-81,Unna,Schalke,Borussia Mönchengladbach,2009,German
+3,3,Filip Daems,BEL,D,1.81,79,31-10-78,Turnhout,Gençlerbirliği,Borussia Mönchengladbach,2009,German
+4,4,Roel Brouwers,NED,D,1.90,81,28-11-81,Heerlen,Paderborn,Borussia Mönchengladbach,2009,German
+6,6,Jan-Ingwer  Callsen-Bracker,GER,D,1.87,81,23-09-84,Schleswig,Bayer Leverkusen,Borussia Mönchengladbach,2009,German
+7,7,Paul Stalteri,CAN,D,1.81,77,18-10-77,Etobicoke,Tottenham H,Borussia Mönchengladbach,2009,German
+8,8,Marcel Meeuwis,NED,M,1.73,73,31-10-80,Goirle,Roda JC,Borussia Mönchengladbach,2009,German
+9,9,Roberto Colautti,ISR,F,1.80,78,24-05-82,Córdoba [ARG],Maccabi Haifa,Borussia Mönchengladbach,2009,German
+10,10,Raúl Bobadilla,ARG,F,1.80,82,18-06-87,Formosa,Grasshoppers,Borussia Mönchengladbach,2009,German
+11,11,Marco Reus,GER,M,1.80,75,31-05-89,Dortmund,RW Ahlen,Borussia Mönchengladbach,2009,German
+13,13,Roman Neustädter,GER,M,1.90,82,18-02-88,Dnipropetrovsk,Mainz,Borussia Mönchengladbach,2009,German
+14,14,Thorben Marx,GER,M,1.84,83,01-06-81,Berlin,Arminia Bielefeld,Borussia Mönchengladbach,2009,German
+15,15,Thomas Kleine,GER,D,1.91,82,28-12-77,Wermelskirchen,Hannover 96,Borussia Mönchengladbach,2009,German
+16,16,Rob Friend,CAN,F,1.95,94,23-01-81,Rosetown,SC Heerenveen,Borussia Mönchengladbach,2009,German
+18,18,Juan Arango,VEN,M,1.79,74,17-05-80,Maracay,Mallorca,Borussia Mönchengladbach,2009,German
+19,19,Gal Alberman,ISR,M,1.79,72,17-04-83,Tel Aviv,Beitar Jerusalem,Borussia Mönchengladbach,2009,German
+20,20,Jean-Sébastien Jaurès,FRA,D,1.76,77,30-09-77,Tours,Auxerre,Borussia Mönchengladbach,2009,German
+21,21,Frederic Löhe,GER,G,1.93,88,12-08-88,Engelskirchen,None,Borussia Mönchengladbach,2009,German
+22,22,Tobias Levels,GER,D,1.86,81,22-11-86,St Tönis,None,Borussia Mönchengladbach,2009,German
+23,23,Christian Dorda,GER,D,1.82,75,06-12-88,Mönchengladbach,None,Borussia Mönchengladbach,2009,German
+24,24,Tony Jantschke,GER,M,1.77,69,07-04-90,Hoyerswerda,None,Borussia Mönchengladbach,2009,German
+25,25,Moses Lamidi,GER,F,1.75,70,05-01-88,Lagos,Alemannia Aachen,Borussia Mönchengladbach,2009,German
+26,26,Michael Bradley,USA,M,1.85,82,31-07-87,Palatine,SC Heerenveen,Borussia Mönchengladbach,2009,German
+27,27,Oliver  Neuville,GER,F,1.71,67,01-05-73,Locarno,Bayer  Leverkusen,Borussia Mönchengladbach,2009,German
+28,28,Tim Heubach,GER,D,1.92,75,12-05-88,Neuss,None,Borussia Mönchengladbach,2009,German
+29,29,Fabian Bäcker,GER,F,1.80,77,25-05-90,Rotenburg an der Fulda,None,Borussia Mönchengladbach,2009,German
+30,30,Logan Bailly,BEL,G,1.90,85,27-12-85,Liège,KRC Genk,Borussia Mönchengladbach,2009,German
+31,31,Dante,BRA,D,1.87,82,18-10-83,Salvador,Standard Liège,Borussia Mönchengladbach,2009,German
+40,40,Karim Matmour,ALG,F,1.80,67,25-06-85,Strasbourg,Freiburg,Borussia Mönchengladbach,2009,German
+41,41,Marc-André ter Stegen,GER,G,1.85,82,30-04-92,Mönchengladbach,None,Borussia Mönchengladbach,2009,German
+42,42,Patrick Herrmann,GER,M,1.79,69,12-02-91,Saarbrücken,Saarbrücken,Borussia Mönchengladbach,2009,German
+1,1,Oka Nikolov,MKD,G,1.88,86,25-05-74,Erbach,SV Darmstadt,Eintracht Frankfurt,2009,German
+2,2,Patrick Ochs,GER,D,1.79,71,14-05-84,Frankfurt am  Main,Bayern Munich  (A),Eintracht Frankfurt,2009,German
+3,3,Nikola  Petković,SRB,D,1.85,78,28-03-86,Novi Sad,Gençlerbirliği,Eintracht Frankfurt,2009,German
+4,4,Maik Franz,GER,D,1.90,88,05-08-81,Merseburg,Karlsruhe,Eintracht Frankfurt,2009,German
+5,5,Aleksandar Vasoski,MKD,D,1.82,77,27-11-79,Skopje,Vardar Skopje,Eintracht Frankfurt,2009,German
+6,6,Selim Teber,GER,M,1.87,88,07-03-81,Frankenthal,1899 Hoffenheim,Eintracht Frankfurt,2009,German
+7,7,Benjamin Köhler,GER,M,1.72,66,04-08-80,Berlin,RW Essen,Eintracht Frankfurt,2009,German
+8,8,Zlatan Bajramović,BIH,M,1.82,79,12-08-79,Hamburg,Schalke,Eintracht Frankfurt,2009,German
+10,10,Nikos Liberopoulos,GRE,F,1.86,81,04-08-75,Kalamata,AEK,Eintracht Frankfurt,2009,German
+11,11,Ümit Korkmaz,AUT,M,1.74,72,17-09-85,Vienna,Rapid Vienna,Eintracht Frankfurt,2009,German
+13,13,Ricardo Clark,USA,M,1.78,68,10-02-83,Atlanta,Houston Dynamo,Eintracht Frankfurt,2009,German
+14,14,Alexander Meier,GER,M,1.96,84,17-01-83,Buchholz,Hamburg,Eintracht Frankfurt,2009,German
+16,16,Christoph Spycher,SUI,D,1.75,76,30-03-78,Sternenberg,Grasshoppers,Eintracht Frankfurt,2009,German
+17,17,Martin Fenin,CZE,F,1.81,70,16-04-87,Cheb,Teplice,Eintracht Frankfurt,2009,German
+18,18,Ioannis  Amanatidis,GRE,F,1.83,80,03-12-81,Kozani,Kaiserslautern,Eintracht Frankfurt,2009,German
+19,19,Halil Altıntop,TUR,F,1.86,82,08-12-82,Gelsenkirchen,Schalke,Eintracht Frankfurt,2009,German
+21,21,Markus Pröll,GER,G,1.87,86,28-08-79,Rheinbach,Köln,Eintracht Frankfurt,2009,German
+22,22,Ralf Fährmann,GER,G,1.94,89,27-09-88,Karl-Marx-Stadt,Schalke,Eintracht Frankfurt,2009,German
+23,23,Marco Russ,GER,D,1.90,75,04-08-85,Großauheim,None,Eintracht Frankfurt,2009,German
+24,24,Sebastian Jung,GER,D,1.79,68,22-06-90,Königstein,None,Eintracht Frankfurt,2009,German
+25,25,Marcel Heller,GER,F,1.73,70,19-01-86,Frechen,Sportfreunde Siegen,Eintracht Frankfurt,2009,German
+26,26,Juvhel Tsoumou,GER,F,1.86,87,27-12-90,Brazzaville,Blackburn R,Eintracht Frankfurt,2009,German
+27,27,Pirmin  Schwegler,SUI,M,1.76,74,09-03-87,Ettiswil,Bayer Leverkusen,Eintracht Frankfurt,2009,German
+28,28,Jan Zimmermann,GER,G,1.90,85,19-04-85,Offenbach,None,Eintracht Frankfurt,2009,German
+29,29,Chris,BRA,D,1.85,78,25-08-78,Blumenau,Prudentopolis,Eintracht Frankfurt,2009,German
+30,30,Caio,BRA,M,1.86,82,29-05-86,Mirandópolis,Palmeiras,Eintracht Frankfurt,2009,German
+31,31,Stefano Cincotta,GER,D,1.77,68,28-02-91,Guatemala City,None,Eintracht Frankfurt,2009,German
+32,32,Faton Toski,ALB,M,1.85,78,17-02-87,Gjilan,None,Eintracht Frankfurt,2009,German
+33,33,Jürgen Mössmer,GER,D,1.81,77,11-06-89,Reutlingen,Reutlingen,Eintracht Frankfurt,2009,German
+34,34,Cenk Tosun,GER,F,1.83,78,07-06-91,Wetzlar,None,Eintracht Frankfurt,2009,German
+35,35,Marcos Álvarez,GER,F,1.79,77,30-09-91,Gelnhausen,Kickers Offenbach,Eintracht Frankfurt,2009,German
+36,36,Marcel Titsch-Rivero,GER,M,1.82,72,11-02-89,Frankfurt am Main,None,Eintracht Frankfurt,2009,German
+37,37,Timmy Chandler,USA,D,1.86,83,29-03-90,Frankfurt am Main,None,Eintracht Frankfurt,2009,German
+39,39,Andreas Rössi,GER,G,1.87,80,20-02-88,Munich,1860 Munich II,Eintracht Frankfurt,2009,German
+40,40,Stefan Haben,GER,D,1.90,84,12-04-87,Bendorf,Reutlingen,Eintracht Frankfurt,2009,German
+41,41,Erman Muratagic,GER,G,1.81,76,25-02-91,Frankfurt am Main,None,Eintracht Frankfurt,2009,German
+1,1,Simon Pouplin,FRA,G,1.87,79,28-05-85,Cholet,Rennes,SC Freiburg,2009,German
+2,2,Pavel Krma,CZE,D,1.93,86,03-03-80,Broumov,Teplice,SC Freiburg,2009,German
+3,3,Felix  Bastians,GER,M,1.88,76,09-05-88,Bochum,Young Boys,SC Freiburg,2009,German
+5,5,Heiko  Butscher,GER,D,1.89,86,28-07-80,Ravensburg,Bochum,SC Freiburg,2009,German
+6,6,Cha Du-Ri,KOR,D,1.81,81,25-07-80,Frankfurt am  Main,Koblenz,SC Freiburg,2009,German
+7,7,Cédric  Makiadi,COD,M,1.78,75,23-02-84,Kinshasa,Wolfsburg,SC Freiburg,2009,German
+8,8,Mohammadou Idrissou,CMR,F,1.90,83,08-03-80,Yaoundé,Duisburg,SC Freiburg,2009,German
+9,9,Papiss Demba Cissé,SEN,F,1.83,73,03-06-85,Dakar,Metz,SC Freiburg,2009,German
+10,10,Yacine Abdessadki,MAR,M,1.75,70,01-01-81,Nice,Strasbourg,SC Freiburg,2009,German
+11,11,Jonathan Jäger,FRA,F,1.74,68,23-05-78,Metz,Saarbrücken,SC Freiburg,2009,German
+13,13,Tommy  Bechmann,DEN,F,1.81,81,22-12-81,Aarhus,Bochum,SC Freiburg,2009,German
+14,14,Hamed Namouchi,TUN,M,1.83,74,14-02-84,Cannes,Lorient,SC Freiburg,2009,German
+15,15,Oliver Barth,GER,D,1.88,80,06-10-79,Bad Cannstatt,Fortuna Düsseldorf,SC Freiburg,2009,German
+16,16,Felix Roth,GER,F,1.79,72,13-11-87,Offenburg,None,SC Freiburg,2009,German
+18,18,Johannes Flum,GER,M,1.89,80,25-02-88,Waldshut,Pfullendorf,SC Freiburg,2009,German
+20,20,Ivica Banović,CRO,M,1.86,81,02-08-80,Zagreb,Nürnberg,SC Freiburg,2009,German
+21,21,Michael Langer,AUT,G,1.94,92,06-01-85,Bregenz,Stuttgart,SC Freiburg,2009,German
+23,23,Julian Schuster,GER,M,1.90,77,15-04-85,Bietigheim-Bissingen,Stuttgart,SC Freiburg,2009,German
+24,24,Mensur Mujda,CRO,D,1.84,74,28-03-84,Zagreb,NK Zagreb,SC Freiburg,2009,German
+25,25,Sandro Sirigu,GER,D,1.82,73,07-10-88,Ulm,Ulm,SC Freiburg,2009,German
+26,26,Manuel Salz,GER,G,1.85,74,06-08-85,Böblingen,Stuttgarter Kickers,SC Freiburg,2009,German
+27,27,Stefan  Reisinger,GER,F,1.85,82,14-09-81,Landshut,Greuther Fürth,SC Freiburg,2009,German
+28,28,Daniel Williams,GER,M,1.80,76,08-03-89,Karlsruhe,None,SC Freiburg,2009,German
+30,30,David Targamadze,GEO,M,1.68,66,22-08-89,Tbilisi,None,SC Freiburg,2009,German
+34,34,Squipon Bektasi,ALB,F,1.77,66,14-09-90,Waldshut-Tiengen,None,SC Freiburg,2009,German
+37,37,Oliver Baumann,GER,G,1.87,72,02-06-90,Breisach,None,SC Freiburg,2009,German
+38,38,Ömer Toprak,TUR,D,1.86,81,21-07-89,Ravensburg,FV Ravensburg,SC Freiburg,2009,German
+39,39,Jackson Mendy,SEN,D,1.92,78,25-05-87,Mont-Saint-Aignan,Hansa Rostock II,SC Freiburg,2009,German
+40,40,Daniel Caligiuri,GER,M,1.82,79,15-01-88,Villingen- Schwenningen,Zimmern,SC Freiburg,2009,German
+1,1,Frank Rost,GER,G,1.94,92,30-06-73,Leipzig,Schalke,Hamburger SV,2009,German
+3,3,David  Rozehnal,CZE,D,1.93,77,05-07-80,ternberk,Lazio,Hamburger SV,2009,German
+4,4,Bastian  Reinhardt,GER,D,1.94,94,19-11-75,Ludwigslust,Arminia  Bielefeld,Hamburger SV,2009,German
+5,5,Joris Mathijsen,NED,D,1.83,82,05-04-80,Goirle,AZ Alkmaar,Hamburger SV,2009,German
+6,6,Dennis Aogo,GER,D,1.83,85,14-01-87,Karlsruhe,Freiburg,Hamburger SV,2009,German
+7,7,Marcell  Jansen,GER,D,1.91,84,04-11-85,Mönchengladbach,Bayern Munich,Hamburger SV,2009,German
+8,8,Zé  Roberto,BRA,M,1.72,72,06-07-74,Ipiranga,Bayern Munich,Hamburger SV,2009,German
+9,9,José  Paolo Guerrero,PER,F,1.84,72,01-01-84,Lima,Bayern  Munich,Hamburger SV,2009,German
+10,10,Mladen Petrić,CRO,F,1.85,81,01-01-81,Dubrave,Borussia Dortmund,Hamburger SV,2009,German
+11,11,Eljero Elia,NED,F,1.76,70,13-02-87,Voorburg,FC Twente,Hamburger SV,2009,German
+12,12,Wolfgang  Hesl,GER,G,1.85,85,13-01-86,Nabburg,Amberg,Hamburger SV,2009,German
+13,13,Robert Tesche,GER,M,1.80,71,27-05-87,Wismar,Arminia Bielefeld,Hamburger SV,2009,German
+14,14,David Jarolim,CZE,M,1.74,69,17-05-79,Čáslav,Nürnberg,Hamburger SV,2009,German
+15,15,Piotr  Trochowski,GER,M,1.69,70,22-03-84,Dirschau,Bayern  Munich,Hamburger SV,2009,German
+16,16,Marcus Berg,SWE,F,1.83,76,17-08-86,Torsby,FC Groningen,Hamburger SV,2009,German
+17,17,Jerome Boateng,GER,D,1.92,90,03-09-88,Berlin,Hertha Berlin,Hamburger SV,2009,German
+18,18,Romeo Castelen,NED,M,1.70,66,03-05-83,Paramaribo,Feyenoord,Hamburger SV,2009,German
+19,19,Tolgay  Arslan,TUR,M,1.79,75,16-08-90,Paderborn,None,Hamburger SV,2009,German
+20,20,Guy Demel,CIV,D,1.88,88,13-06-81,Orsay,Borussia  Dortmund,Hamburger SV,2009,German
+21,21,Jonathan  Pitroipa,BFA,M,1.76,56,12-04-86,Ouagadougou,Freiburg,Hamburger SV,2009,German
+22,22,Ruud  van Nistelrooy,NED,F,1.88,80,01-07-76,Geffen,Real Madrid,Hamburger SV,2009,German
+24,24,Christian Groß,GER,M,1.82,75,08-02-89,Bremen,Osnabrück,Hamburger SV,2009,German
+25,25,Tomás Rincón,VEN,M,1.75,75,13-01-88,San Cristóbal,Deportivo Táchira,Hamburger SV,2009,German
+27,27,Sören Bertram,GER,M,1.80,70,05-06-91,Uelzen,None,Hamburger SV,2009,German
+29,29,Tom Mickel,GER,G,1.86,78,19-04-89,Hoyerswerda,Energie Cottbus II,Hamburger SV,2009,German
+30,30,Collin Benjamin,NAM,M,1.82,80,03-08-78,Windhoek,Raspo  Elmshorn,Hamburger SV,2009,German
+31,31,Maximilian Beister,GER,F,1.80,78,06-09-90,Göttingen,None,Hamburger SV,2009,German
+32,32,Henrik Dettmann,GER,D,1.85,75,13-03-90,Lohbrügge,None,Hamburger SV,2009,German
+33,33,Miroslav těpánek,CZE,D,1.92,88,15-01-90,Olomouc,None,Hamburger SV,2009,German
+34,34,Kai-Fabian Schulz,GER,M,1.90,86,12-03-90,Neumünster,None,Hamburger SV,2009,German
+35,35,Tunay Torun,TUR,F,1.79,75,21-04-90,Hamburg,St Pauli,Hamburger SV,2009,German
+36,36,Hanno Behrens,GER,M,1.88,78,26-03-90,Elmshorn,None,Hamburger SV,2009,German
+2,2,Vinicius  Bergantin,BRA,D,1.89,80,31-07-80,Salto,Gama,Hannover 96,2009,German
+3,3,Leon Andreasen,DEN,M,1.88,81,23-04-83,Aidt Thorsø,Fulham,Hannover 96,2009,German
+4,4,Ján Ďurica,SVK,D,1.87,85,10-11-81,Bratislava,Lokomotiv Moscow,Hannover 96,2009,German
+5,5,Mario Eggimann,SUI,D,1.90,84,24-01-81,Brugg,Karlsruhe,Hannover 96,2009,German
+6,6,Steve  Cherundolo,USA,D,1.68,66,19-02-79,Rockford,Univ  of Portland,Hannover 96,2009,German
+7,7,Sergio Pinto,POR,M,1.77,71,16-10-80,Mafamude,Alemannia  Aachen,Hannover 96,2009,German
+8,8,Altin  Lala,ALB,M,1.72,64,18-11-75,Kavaje,Borussia  Fulda,Hannover 96,2009,German
+9,9,Mike Hanke,GER,F,1.83,75,05-11-83,Hamm/Westphalia,Wolfsburg,Hannover 96,2009,German
+10,10,Arnold Bruggink,NED,M,1.84,80,24-07-77,Almelo,SC  Heerenveen,Hannover 96,2009,German
+11,11,Didier Ya Konan,CIV,M,1.74,74,22-05-84,Abidjan,Rosenborg,Hannover 96,2009,German
+13,13,Jan  Schlaudraff,GER,F,1.80,67,18-07-83,Waldbröl,Bayern Munich,Hannover 96,2009,German
+14,14,Hanno  Balitsch,GER,M,1.81,73,02-01-81,Darmstadt,Mainz,Hannover 96,2009,German
+15,15,Constant Djakpa,CIV,D,1.77,73,17-10-86,Abidjan,Bayer Leverkusen,Hannover 96,2009,German
+16,16,Uwe Gospodarek,GER,G,1.83,80,06-08-73,Straubing,B Mönchengladbach,Hannover 96,2009,German
+17,17,Rubic Ghasemi-Nobakht,GER,F,1.73,72,27-07-87,Göttingen,Eintracht Northeim,Hannover 96,2009,German
+18,18,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama,Sevilla,Hannover 96,2009,German
+19,19,Christian Schulz,GER,D,1.80,73,01-04-83,Bassum,Werder Bremen,Hannover 96,2009,German
+20,20,Jacek Krzynówek,POL,M,1.79,73,15-05-76,Kamiensk,Wolfsburg,Hannover 96,2009,German
+21,21,Karim  Haggui,TUN,D,1.87,85,20-01-84,Kasserine,Bayer Leverkusen,Hannover 96,2009,German
+22,22,Valdet Rama,GER,M,1.82,79,20-11-87,Kosovska Mitrovica,Ingolstadt,Hannover 96,2009,German
+23,23,Sofian Chahed,TUN,M,1.78,73,18-04-83,Berlin,Hertha Berlin,Hannover 96,2009,German
+24,24,Jiří tajner,CZE,F,1.85,82,27-05-76,Beneov,Slovan  Liberec,Hannover 96,2009,German
+25,25,Élson,BRA,M,1.72,67,16-11-81,Conceição do Araguaia,Stuttgart,Hannover 96,2009,German
+26,26,Jan Rosenthal,GER,M,1.84,76,07-04-86,Sulingen,None,Hannover 96,2009,German
+27,27,Florian  Fromlowitz,GER,G,1.88,83,02-07-86,Kaiserslautern,Kaiserslautern,Hannover 96,2009,German
+28,28,Leon Balogun,GER,D,1.90,81,28-06-88,Berlin,Türkiyemspor Berlin,Hannover 96,2009,German
+30,30,Morten Jensen,GER,G,1.88,90,20-09-87,Husum,None,Hannover 96,2009,German
+31,31,Tim Hofmann,GER,D,1.87,77,09-06-88,Hannover,None,Hannover 96,2009,German
+32,32,Mikael Forssell,FIN,F,1.78,68,15-03-81,Steinfurt,Birmingham C,Hannover 96,2009,German
+33,33,Manuel Schmiedebach,GER,M,1.70,70,05-12-88,Berlin,Hertha Berlin II,Hannover 96,2009,German
+34,34,Konstantin Rausch,GER,D,1.78,67,15-03-90,Kozhevnikovo,None,Hannover 96,2009,German
+35,35,Sofien Chahed,TUN,M,1.75,71,22-11-89,Hannover,None,Hannover 96,2009,German
+36,36,Hendrik Hahne,GER,F,1.73,65,15-04-86,Gronau,None,Hannover 96,2009,German
+37,37,Salvatore  Zizzo,USA,M,1.80,82,03-04-87,San Diego,UCLA,Hannover 96,2009,German
+38,38,Jarosław Lindner,POL,F,1.75,66,28-06-88,,None,Hannover 96,2009,German
+39,39,Johannes Ibelherr,GER,D,1.84,77,09-05-86,Dusti,Oberneuland,Hannover 96,2009,German
+40,40,Marcel Maluck,GER,G,1.86,81,06-03-89,,None,Hannover 96,2009,German
+41,41,Henrik Ernst,GER,M,1.89,84,02-09-86,Hannover,Heesseler SV,Hannover 96,2009,German
+42,42,Florian Buchler,GER,F,1.86,85,23-10-88,,HSC/BW Tündern,Hannover 96,2009,German
+43,44,Christopher Avevor,GER,D,1.84,81,11-02-92,Kiel,None,Hannover 96,2009,German
+1,1,Jaroslav Drobný,CZE,G,1.92,88,18-10-79,Počátky,Bochum,Hertha Berlin,2009,German
+3,3,Arne  Friedrich,GER,D,1.85,76,29-05-79,Bad  Oeynhausen,Arminia  Bielefeld,Hertha Berlin,2009,German
+4,4,Steve von Bergen,SUI,D,1.81,76,10-06-83,Neuchâtel,Zürich,Hertha Berlin,2009,German
+5,5,Nemanja Pejčinović,SRB,D,1.85,84,04-11-87,Kragujevac,Rad,Hertha Berlin,2009,German
+6,6,Christoph Janker,GER,D,1.85,78,14-02-85,Cham,1899 Hoffenheim,Hertha Berlin,2009,German
+7,7,Cícero,BRA,M,1.80,72,26-08-84,Castelo,Tombense,Hertha Berlin,2009,German
+8,8,Pál Dárdai,HUN,M,1.79,78,16-03-76,Pécs,BVSC Budapest,Hertha Berlin,2009,German
+9,9,Adrián Ramos,COL,F,1.85,72,22-01-86,Santander de Quilichao,América de Cali,Hertha Berlin,2009,German
+10,10,Raffael,BRA,F,1.74,69,28-03-85,Fortaleza,Zürich,Hertha Berlin,2009,German
+11,11,Florian Kringe,GER,M,1.87,83,18-08-82,Siegen,Borussia Dortmund,Hertha Berlin,2009,German
+12,12,Timo Ochs,GER,G,1.88,86,17-10-81,Göttingen,Red Bull  Salzburg,Hertha Berlin,2009,German
+13,13,Marc Stein,GER,D,1.84,74,07-07-85,Potsdam,Hansa Rostock,Hertha Berlin,2009,German
+16,16,Roman Hubník,CZE,D,1.91,84,06-06-84,Vsetín,FC Moscow,Hertha Berlin,2009,German
+17,17,Theofanis Gekas,GRE,F,1.79,82,23-05-80,Larissa,Bayer Leverkusen,Hertha Berlin,2009,German
+18,18,Artur  Wichniarek,POL,F,1.83,79,28-02-77,Poznań,Arminia Bielefeld,Hertha Berlin,2009,German
+20,20,Patrick  Ebert,GER,M,1.72,68,17-03-87,Potsdam,None,Hertha Berlin,2009,German
+21,21,Levan  Kobiashvili,GEO,M,1.83,78,10-07-77,Tbilisi,Schalke,Hertha Berlin,2009,German
+22,22,Rasmus Bengtsson,SWE,D,1.86,80,26-06-86,Malmö,Trelleborgs FF,Hertha Berlin,2009,German
+23,23,Valeri Domovchiyski,BUL,F,1.80,73,05-10-86,Plovdiv,Levski Sofia,Hertha Berlin,2009,German
+25,25,Maximilian Nicu,GER,M,1.87,74,25-11-82,Prien  am Chiemsee,Wehen-Wiesbaden,Hertha Berlin,2009,German
+26,26,Łukasz Piszczek,POL,D,1.84,73,03-06-85,Czechowice- Dziedzice,Gwarek Zabrze,Hertha Berlin,2009,German
+28,28,Fabian Lustenberger,SUI,M,1.80,63,02-05-88,Nebikon,Luzern,Hertha Berlin,2009,German
+29,29,Sascha Bigalke,GER,M,1.67,56,08-01-90,Berlin,None,Hertha Berlin,2009,German
+30,30,Christopher Gäng,GER,G,1.89,88,10-05-88,Mannheim,None,Hertha Berlin,2009,German
+31,31,Fanol Perdedaj,GER,M,1.72,66,16-07-91,Gjakova,None,Hertha Berlin,2009,German
+35,35,Shervin Radjabali-Fardi,GER,D,1.75,65,17-05-91,Berlin,None,Hertha Berlin,2009,German
+36,36,Lennart Hartmann,GER,M,1.70,68,03-04-91,Berlin,None,Hertha Berlin,2009,German
+37,37,Patrick Sobtzik,GER,G,1.82,76,11-06-90,Berlin,None,Hertha Berlin,2009,German
+39,39,Florian Riedel,GER,M,1.76,70,09-04-90,Werdau,None,Hertha Berlin,2009,German
+40,40,Sascha Burchert,GER,G,1.85,68,30-10-89,Berlin,None,Hertha Berlin,2009,German
+41,44,Gojko Kačar,SRB,M,1.86,79,26-01-87,Novi Sad,Vojvodina,Hertha Berlin,2009,German
+1,1,Daniel Haas,GER,G,1.88,82,01-08-83,Erlenbach,Hannover 96,1899 Hoffenheim,2009,German
+2,2,Andreas Beck,GER,D,1.80,73,13-03-87,Kemerovo,Stuttgart,1899 Hoffenheim,2009,German
+3,3,Matthias Jaissle,GER,D,1.86,84,05-04-88,Nürtingen,Stuttgart II,1899 Hoffenheim,2009,German
+5,5,Marvin Compper,GER,D,1.85,74,14-06-85,Tübingen,B Mönchengladbach,1899 Hoffenheim,2009,German
+7,7,Maicosuel,BRA,M,1.78,59,16-06-86,Cosmópolis,Desportivo Brasil,1899 Hoffenheim,2009,German
+8,8,Christian  Eichner,GER,D,1.83,76,24-11-82,Sulzfeld,Karlsruhe,1899 Hoffenheim,2009,German
+9,9,Demba Ba,SEN,F,1.89,83,25-05-85,Sèvres,Excelsior Mouscron,1899 Hoffenheim,2009,German
+10,10,Carlos  Eduardo,BRA,M,1.71,68,18-07-87,Ajuricaba,Grêmio,1899 Hoffenheim,2009,German
+11,11,Marco Terrazzino,GER,F,1.81,67,15-04-91,Mannheim,None,1899 Hoffenheim,2009,German
+14,14,Josip imunić,CRO,D,1.95,89,18-02-78,Canberra,Hertha Berlin,1899 Hoffenheim,2009,German
+17,17,Tobias Weis,GER,M,1.70,68,30-07-85,Schwäbisch Hall,Stuttgart,1899 Hoffenheim,2009,German
+18,18,Prince Tagoe,GHA,F,1.88,83,09-11-86,Accra,Al-Ittifaq,1899 Hoffenheim,2009,German
+19,19,Vedad Ibiević,BIH,F,1.88,80,06-08-84,Vlasenica,Alemannia Aachen,1899 Hoffenheim,2009,German
+20,20,Chinedu Obasi Ogbuke,NGA,F,1.83,82,01-06-86,Enugu,Lyn,1899 Hoffenheim,2009,German
+21,21,Luiz Gustavo,BRA,M,1.87,82,23-07-87,Pindamonhangaba,Corinthians Alagoano,1899 Hoffenheim,2009,German
+22,22,Jukka Raitala,FIN,D,1.80,77,15-09-88,Kerava,HJK Helsinki,1899 Hoffenheim,2009,German
+23,23,Sejad Salihović,BIH,M,1.82,83,08-10-84,Sepak,Hertha Berlin,1899 Hoffenheim,2009,German
+24,24,Per Nilsson,SWE,D,1.90,87,15-09-82,Härnösand,Odd,1899 Hoffenheim,2009,German
+25,25,Isaac  Vorsah,GHA,D,1.92,85,21-06-88,Accra,Asante Kotoko,1899 Hoffenheim,2009,German
+26,26,Andreas  Ibertsberger,AUT,D,1.78,77,27-07-82,Salzburg,Freiburg,1899 Hoffenheim,2009,German
+28,28,Timo  Hildebrand,GER,G,1.85,79,05-04-79,Worms,Valencia,1899 Hoffenheim,2009,German
+29,29,Adam Jabiri,GER,F,1.87,84,03-06-84,Kitzingen,RW Erfurt,1899 Hoffenheim,2009,German
+30,30,Jens Grahl,GER,G,1.96,86,22-09-88,Stuttgart,Greuther Fürth,1899 Hoffenheim,2009,German
+31,31,Andreas Ludwig,GER,M,1.72,68,11-09-90,Ulm,Ulm,1899 Hoffenheim,2009,German
+32,32,Robin Neupert,GER,D,1.85,82,19-08-91,Heilbronn,None,1899 Hoffenheim,2009,German
+34,34,Boris  Vukčević,GER,M,1.82,76,16-03-90,Osijek,Stuttgart II,1899 Hoffenheim,2009,German
+35,35,Kevin Conrad,GER,D,1.81,77,10-08-90,Künzelsau,None,1899 Hoffenheim,2009,German
+36,36,Franco Zuculini,ARG,M,1.74,69,05-09-90,La Rioja,Racing Club,1899 Hoffenheim,2009,German
+37,37,Manuel Gulde,GER,D,1.83,73,12-02-91,Mannheim,Neckarau,1899 Hoffenheim,2009,German
+38,38,Kai Herdling,GER,F,1.76,72,27-06-84,Heidelberg,Waldhof Mannheim,1899 Hoffenheim,2009,German
+39,39,Pascal Groß,GER,M,1.71,66,15-06-91,Bad Salzungen,None,1899 Hoffenheim,2009,German
+41,42,Philipp Klingmann,GER,D,1.81,78,22-04-88,Heidelberg,None,1899 Hoffenheim,2009,German
+1,1,Faryd Mondragon,COL,G,1.91,94,21-06-71,Cali,Galatasaray,1.FC Köln,2009,German
+2,2,Mio Brečko,SVN,D,1.78,68,01-05-84,Trbovlje,Hamburg,1.FC Köln,2009,German
+3,3,Youssef  Mohamad,LIB,D,1.82,77,01-07-80,Beirut,Freiburg,1.FC Köln,2009,German
+6,6,Pierre Womé,CMR,D,1.81,84,26-03-79,Douala,Werder Bremen,1.FC Köln,2009,German
+7,7,Sebastien Freis,GER,F,1.83,75,23-04-85,Karlsruhe,Karlsruhe,1.FC Köln,2009,German
+8,8,Armando Petit,POR,M,1.78,68,25-09-76,Strasbourg,Benfica,1.FC Köln,2009,German
+9,9,Manneseh Ishiaku,NGA,F,1.84,82,09-01-83,Port  Harcourt,Duisburg,1.FC Köln,2009,German
+10,10,Lukas  Podolski,GER,F,1.82,83,04-06-85,Gliwice,Bayern Munich,1.FC Köln,2009,German
+11,11,Milivoje Novakovič,SVN,F,1.92,85,18-05-79,Ljubljana,Litex  Lovech,1.FC Köln,2009,German
+12,12,Maniche,POR,M,1.73,69,11-11-77,Lisbon,Atlético Madrid,1.FC Köln,2009,German
+13,13,Daniel Brosinski,GER,M,1.78,65,17-07-88,Karlsruhe,Karlsruhe,1.FC Köln,2009,German
+14,14,Zoran Toić,SRB,M,1.71,69,28-04-87,Zrenjanin,Manchester U,1.FC Köln,2009,German
+15,15,Simon Terodde,GER,F,1.92,82,02-03-88,Bocholt,Duisburg,1.FC Köln,2009,German
+16,16,Christopher Schorch,GER,D,1.89,80,30-01-89,Halle an der Saale,Real Madrid B,1.FC Köln,2009,German
+17,17,Kevin Pezzoni,GER,D,1.93,91,22-03-89,Frankfurt am Main,Blackburn R,1.FC Köln,2009,German
+18,18,Thomas Kessler,GER,G,1.97,92,20-01-86,Cologne,None,1.FC Köln,2009,German
+19,19,Taner Yalçın,GER,M,1.87,80,18-02-90,Cologne,None,1.FC Köln,2009,German
+20,20,Adil Chihi,GER,F,1.83,78,21-02-88,Düsseldorf,None,1.FC Köln,2009,German
+21,21,Pedro Geromel,BRA,D,1.90,84,21-09-85,São Paulo,Vitória Guimarães,1.FC Köln,2009,German
+22,22,Fabrice Ehret,FRA,M,1.83,76,28-09-79,Viganello,Aarau,1.FC Köln,2009,German
+23,23,Kevin McKenna,CAN,D,1.90,85,21-01-80,Calgary,Energie Cottbus,1.FC Köln,2009,German
+24,24,José Pierre Vunguidica,ANG,F,1.86,84,03-01-90,Luanda,None,1.FC Köln,2009,German
+25,25,Adam Matuschyk,POL,M,1.83,73,14-02-89,Gliwice,None,1.FC Köln,2009,German
+27,27,Christian Clemens,GER,M,1.80,70,04-08-91,Cologne,None,1.FC Köln,2009,German
+28,28,Carsten Cullman,GER,D,1.87,82,05-03-76,Cologne,SpVgg Porz,1.FC Köln,2009,German
+29,29,Sebastian Zielinsky,GER,F,1.83,77,21-02-88,Cologne,None,1.FC Köln,2009,German
+32,32,Stephan Salger,GER,D,1.84,73,30-01-90,Düren,None,1.FC Köln,2009,German
+33,33,Michael Niedrig,GER,M,1.83,83,12-01-80,Cologne,Holstein Kiel,1.FC Köln,2009,German
+34,34,Miro Varvodić,CRO,G,1.91,79,15-05-89,Split,Hajduk Split,1.FC Köln,2009,German
+35,35,Alexander Vaaßen,GER,D,1.81,65,09-12-91,Düren,None,1.FC Köln,2009,German
+37,37,Reinhold Yabo,GER,M,1.75,70,10-02-92,Aldenhoven,None,1.FC Köln,2009,German
+39,39,Andreas Dick,GER,D,,,25-04-89,,None,1.FC Köln,2009,German
+1,1,Dimo Wache,GER,G,1.94,95,01-11-73,Brake,B Mönchengladbach,FSV Mainz 05,2009,German
+2,2,Bo Svensson,DEN,D,1.90,85,04-08-79,Aalborg,B Mönchengladbach,FSV Mainz 05,2009,German
+3,3,Malik Fathi,GER,D,1.85,85,29-10-83,Berlin,Spartak Moscow,FSV Mainz 05,2009,German
+4,4,Nikolce Noveski,MKD,D,1.90,87,28-04-79,Bitola,Erzgebirge Aue,FSV Mainz 05,2009,German
+5,5,Eugen Gopko,GER,D,1.68,65,05-01-91,Kiev,None,FSV Mainz 05,2009,German
+6,6,Tim Hoogland,GER,D,1.83,78,11-06-85,Marl,Schalke,FSV Mainz 05,2009,German
+7,7,Eugen  Polanski,GER,M,1.83,73,17-03-86,Sosnowiec,Getafe,FSV Mainz 05,2009,German
+8,8,Radoslav  Zabavnik,SVK,D,1.81,77,16-09-80,Koice,Terek Grozny,FSV Mainz 05,2009,German
+9,9,Félix Borja,ECU,F,1.80,70,02-04-83,San Lorenzo [ECU],Olympiakos,FSV Mainz 05,2009,German
+10,10,Jan imák,CZE,M,1.82,76,13-10-78,Tábor,Stuttgart,FSV Mainz 05,2009,German
+11,11,Filip Trojan,CZE,M,1.72,70,21-02-83,Trebic,St Pauli,FSV Mainz 05,2009,German
+14,14,Andre Schürrle,GER,F,1.75,63,06-11-90,Ludwigshafen,None,FSV Mainz 05,2009,German
+15,15,Jan Kirchhoff,GER,D,1.93,78,01-10-90,Frankfurt  am Main,Eintracht Frankfurt II,FSV Mainz 05,2009,German
+16,16,Florian Heller,GER,M,1.79,75,10-03-82,Rosenheim,Erzgebirge Aue,FSV Mainz 05,2009,German
+17,17,Marko Rose,GER,D,1.87,83,11-09-76,Leipzig,Hannover 96,FSV Mainz 05,2009,German
+18,18,Jahmir Hyka,ALB,M,1.68,57,08-03-88,Tirana,Olympiakos,FSV Mainz 05,2009,German
+19,19,Elkin Soto,COL,M,1.78,71,04-08-80,Manizales,Barcelona [ECU],FSV Mainz 05,2009,German
+20,20,Jared Jeffrey,USA,M,1.78,75,14-06-90,Dallas,Club Brugge,FSV Mainz 05,2009,German
+21,21,Miroslav  Karhan,SVK,M,1.89,88,21-06-76,Trnava,Wolfsburg,FSV Mainz 05,2009,German
+22,22,Chadlj Amri,FRA,F,1.78,70,14-12-84,St-Avold,Saarbrücken,FSV Mainz 05,2009,German
+23,23,Aristide Bancé,BFA,F,1.92,90,19-09-84,Abidjan,Metalurh Donetsk,FSV Mainz 05,2009,German
+24,24,Zsolt Löw,HUN,D,1.82,79,29-04-79,Budapest,1899 Hoffenheim,FSV Mainz 05,2009,German
+25,25,Andreas Ivanschitz,AUT,M,1.83,79,15-10-83,Eisenstadt,Panathinaikos,FSV Mainz 05,2009,German
+26,26,Niko Bungert,GER,D,1.88,68,24-10-86,Bochum,Kickers Offenbach,FSV Mainz 05,2009,German
+28,28,Ádám Szalai,HUN,F,1.93,80,09-12-87,Budapest,Real Madrid B,FSV Mainz 05,2009,German
+29,29,Christian  Wetklo,GER,G,1.90,90,11-01-80,Marl,RW Essen,FSV Mainz 05,2009,German
+30,30,Pierre Kleinheider,GER,G,1.89,87,07-11-89,Offenbach,None,FSV Mainz 05,2009,German
+31,31,Aleksandar Petreski,GER,F,1.79,74,25-03-86,Loznica,None,FSV Mainz 05,2009,German
+32,32,Dragan Bogavac,MNE,F,1.69,64,07-04-80,Bijelo Polje,Paderborn,FSV Mainz 05,2009,German
+33,33,Heinz Müller,GER,G,1.93,88,30-05-78,Frankfurt  am Main,Barnsley,FSV Mainz 05,2009,German
+34,34,Fabian Götze,GER,D,1.74,70,03-06-90,,Borussia Dortmund II,FSV Mainz 05,2009,German
+35,35,Viktor Riske,GER,M,1.72,68,12-01-89,Talgar,None,FSV Mainz 05,2009,German
+41,43,Adriano Grimaldi,ITA,F,1.88,76,05-04-91,Göttingen,Sachsen Leipzig,FSV Mainz 05,2009,German
+42,44,Stefan Bell,GER,D,1.92,86,24-08-91,Andernach,None,FSV Mainz 05,2009,German
+43,45,Petar Sliković,CRO,F,1.93,88,21-02-91,Sarajevo,None,FSV Mainz 05,2009,German
+44,48,Steven Kröner,GER,M,1.86,,03-08-89,Nürtingen,Reutlingen,FSV Mainz 05,2009,German
+1,1,Raphael  Schäfer,GER,G,1.90,86,30-01-79,Kędzierzyn-Koźle,Stuttgart,1.FC Nürnberg,2009,German
+2,2,Dennis  Diekmeier,GER,D,1.88,78,20-10-89,Thedinghausen,Werder Bremen,1.FC Nürnberg,2009,German
+3,3,Breno,BRA,D,1.87,83,13-10-89,Cruzeiro,Bayern Munich,1.FC Nürnberg,2009,German
+4,4,Håvard  Nordtveit,NOR,D,1.86,72,21-06-90,Vats,Arsenal,1.FC Nürnberg,2009,German
+5,5,Andreas Wolf,GER,D,1.82,82,12-06-82,Leninabad,SpVgg Ansbach,1.FC Nürnberg,2009,German
+6,6,Dominic Maroh,GER,D,1.86,83,04-03-87,Nürtingen,Reutlingen,1.FC Nürnberg,2009,German
+7,7,Daniel  Gygax,SUI,M,1.79,77,28-08-81,Zürich,Metz,1.FC Nürnberg,2009,German
+8,8,Christian  Eigler,GER,F,1.85,83,01-01-84,Roth,Arminia Bielefeld,1.FC Nürnberg,2009,German
+9,9,Aggelos Charisteas,GRE,F,1.90,82,09-02-80,Serres,Feyenoord,1.FC Nürnberg,2009,German
+10,10,Albert Bunjaku,SUI,F,1.78,77,29-11-83,Gnjilane,RW Erfurt,1.FC Nürnberg,2009,German
+11,11,Marek Mintal,SVK,M,1.83,78,02-09-77,ilina,MSK ilina,1.FC Nürnberg,2009,German
+12,12,Marcel Risse,GER,M,1.83,78,17-12-89,Cologne,Bayer Leverkusen,1.FC Nürnberg,2009,German
+13,13,Peter  Perchtold,GER,M,1.89,78,02-09-84,Nuremburg,Stuttgart,1.FC Nürnberg,2009,German
+14,14,Maxim Choupo-Moting,CMR,F,1.89,82,23-03-89,Hamburg,Hamburg,1.FC Nürnberg,2009,German
+15,15,Michael Kammermeyer,GER,D,1.80,77,14-01-86,Nuremburg,None,1.FC Nürnberg,2009,German
+16,16,Juri Judt,GER,M,1.73,68,24-07-86,Karaganda,Greuther Fürth,1.FC Nürnberg,2009,German
+17,17,Mike Frantz,GER,F,1.81,76,14-10-86,Saarbrücken,Saarbrücken,1.FC Nürnberg,2009,German
+18,18,Daniel Klewer,GER,G,1.92,87,04-03-77,Rostock,Hansa Rostock,1.FC Nürnberg,2009,German
+19,19,Isaac Boakye,GHA,F,1.80,73,26-11-81,Kumasi,Wolfsburg,1.FC Nürnberg,2009,German
+20,20,Pascal Bieler,GER,D,1.81,73,26-02-86,Berlin,Hertha Berlin,1.FC Nürnberg,2009,German
+21,21,Mickaël Tavares,SEN,M,1.86,78,25-10-82,Villeneuve-St-Georges,Hamburg,1.FC Nürnberg,2009,German
+22,22,İlkay Gündogan,GER,M,1.80,70,24-10-90,Gelsenkirchen,Bochum,1.FC Nürnberg,2009,German
+23,23,Andreas  Ottl,GER,M,1.85,77,01-03-85,Munich,Bayern Munich,1.FC Nürnberg,2009,German
+25,25,Javier  Pinola,ARG,D,1.78,78,24-02-83,Olivos,Atlético  Madrid,1.FC Nürnberg,2009,German
+26,26,Thomas Broich,GER,M,1.82,76,29-01-81,Munich,Köln,1.FC Nürnberg,2009,German
+30,30,Alexander Stephan,GER,G,1.89,81,15-09-86,Erlangen,None,1.FC Nürnberg,2009,German
+31,31,Tomasz Welnicki,POL,D,1.85,77,18-03-90,Olsztyn,Bochum,1.FC Nürnberg,2009,German
+33,33,Güngör Kaya,TUR,F,1.78,64,27-04-90,Gelsenkirchen,Bochum,1.FC Nürnberg,2009,German
+35,35,Jonatan Kotzke,GER,M,1.84,75,18-03-90,Pinneberg,None,1.FC Nürnberg,2009,German
+36,36,Jawhar Mnari,TUN,M,1.84,84,08-11-76,Monastir,Espérance,1.FC Nürnberg,2009,German
+38,38,Philipp Wollscheid,GER,D,1.94,84,06-03-89,Wadern,Saarbrücken,1.FC Nürnberg,2009,German
+1,1,Manuel Neuer,GER,G,1.92,90,27-03-86,Gelsenkirchen,None,FC Schalke 04,2009,German
+2,2,Heiko  Westermann,GER,D,1.90,85,14-08-83,Alzenau,Arminia Bielefeld,FC Schalke 04,2009,German
+3,3,Tore Reginiussen,NOR,D,1.85,80,10-06-86,Tromsø,Tromsø,FC Schalke 04,2009,German
+4,4,Benedikt Höwedes,GER,D,1.87,75,29-02-88,Haltern am See,None,FC Schalke 04,2009,German
+5,5,Marcelo José  Bordon,BRA,D,1.89,89,07-01-76,Ribeirão  Preto,Stuttgart,FC Schalke 04,2009,German
+6,6,Albert  Streit,GER,M,1.80,80,28-03-80,Bucharest,Eintracht Frankfurt,FC Schalke 04,2009,German
+7,7,Hao Junmin,CHN,M,1.78,70,24-03-87,Wuhan,Tianjin Teda,FC Schalke 04,2009,German
+8,8,Mineiro,BRA,M,1.69,65,02-08-75,Porto Alegre,Schalke,FC Schalke 04,2009,German
+9,9,Edu,BRA,F,1.80,80,30-11-81,São Paulo,Suwon Samsung Bluewings,FC Schalke 04,2009,German
+10,10,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden,Basel,FC Schalke 04,2009,German
+11,11,Alexander  Baumjohann,GER,M,1.78,73,23-01-87,Datteln,Bayern Munich,FC Schalke 04,2009,German
+12,12,Peer Kluge,GER,M,1.79,68,22-11-80,Frankenberg,Nürnberg,FC Schalke 04,2009,German
+13,13,Jermaine Jones,GER,M,1.84,78,03-11-81,Frankfurt am  Main,Eintracht Frankfurt,FC Schalke 04,2009,German
+14,14,Gerald  Asamoah,GER,M,1.80,85,03-10-78,Mampong,Hannover 96,FC Schalke 04,2009,German
+15,15,Zé Roberto,BRA,M,1.70,72,09-12-80,Itumbiara,Botafogo,FC Schalke 04,2009,German
+16,16,Jan Morávek,CZE,M,1.79,71,01-11-89,Prague,Bohemians 1905,FC Schalke 04,2009,German
+17,17,Jefferson Farfán,PER,F,1.78,73,28-10-84,Lima,PSV Eindhoven,FC Schalke 04,2009,German
+18,18,Rafinha,BRA,D,1.72,68,07-09-85,Londrina,Coritiba,FC Schalke 04,2009,German
+19,19,Mario Gavranović,SUI,F,1.75,68,24-11-89,Lugano,Yverdon-Sport,FC Schalke 04,2009,German
+20,20,Vasilis Pliatsikas,GRE,M,1.74,73,14-04-88,Agrinio,AEK,FC Schalke 04,2009,German
+21,21,Lukas Schmitz,GER,M,1.84,80,13-10-88,Hattingen,Bochum II,FC Schalke 04,2009,German
+22,22,Kevin Kuranyi,GER,F,1.90,80,02-03-82,Rio de  Janeiro,Stuttgart,FC Schalke 04,2009,German
+23,23,Emin Yalin,TUR,M,1.87,74,19-03-89,Frankfurt am Main,Nürnberg II,FC Schalke 04,2009,German
+24,24,Christian  Pander,GER,D,1.86,80,28-08-83,Münster,Preußen  Münster,FC Schalke 04,2009,German
+25,25,Carlos Zambrano,PER,D,1.85,77,10-07-89,Callao,Academia Cantolao,FC Schalke 04,2009,German
+26,26,Danny Latza,GER,M,1.79,75,07-12-89,Gelsenkirchen,None,FC Schalke 04,2009,German
+27,27,Vicente Sánchez,URU,F,1.70,63,07-12-79,Montevideo,Toluca,FC Schalke 04,2009,German
+28,28,Christoph Moritz,GER,M,1.86,73,27-01-90,Birkesdorf,Alemannia Aachen,FC Schalke 04,2009,German
+29,29,Bogdan Müller,GER,F,1.83,78,12-06-88,Karaganda,Neckarelz,FC Schalke 04,2009,German
+30,30,Levan Kenia,GEO,M,1.76,70,18-10-90,Tbilisi,Lokomotiv Tbilisi,FC Schalke 04,2009,German
+31,31,David Loheider,GER,F,1.86,77,09-02-91,Recklinghausen,None,FC Schalke 04,2009,German
+32,32,Joel Matip,CMR,D,1.92,83,08-08-91,Bochum,Bochum,FC Schalke 04,2009,German
+33,33,Mathias  Schober,GER,G,1.91,94,08-04-76,Marl,Hansa Rostock,FC Schalke 04,2009,German
+34,34,Besart Ibraimi,MKD,F,1.82,76,17-12-86,Kičevo,Renova,FC Schalke 04,2009,German
+35,35,Mohamed Amsif,GER,G,1.87,81,07-02-89,Düsseldorf,Wuppertal,FC Schalke 04,2009,German
+39,39,Marvin Pachan,GER,D,1.78,72,11-04-90,Gelsenkirchen,None,FC Schalke 04,2009,German
+40,40,Predrag Stevanović,SRB,M,1.78,62,09-03-91,Essen,RW Essen,FC Schalke 04,2009,German
+1,1,Jens  Lehmann,GER,G,1.90,87,10-11-69,Essen,Arsenal,VfB Stuttgart,2009,German
+3,3,Ricardo Osorio,MEX,D,1.73,68,30-03-80,Huajuapan De León,Cruz Azul,VfB Stuttgart,2009,German
+4,4,Khalid Boulahrouz,NED,D,1.83,74,28-12-81,Maassluis,Chelsea,VfB Stuttgart,2009,German
+5,5,Serdar Taşçı,GER,D,1.86,80,24-04-87,Esslingen,None,VfB Stuttgart,2009,German
+6,6,Georg Niedermeier,GER,D,1.88,74,26-02-86,Munich,Bayern Munich,VfB Stuttgart,2009,German
+7,7,Martin Lanig,GER,M,1.90,76,11-07-84,Bad Mergentheim,Greuther Fürth,VfB Stuttgart,2009,German
+9,9,Ciprian Marica,ROU,F,1.84,78,02-10-85,Bucharest,Shakhtar Donetsk,VfB Stuttgart,2009,German
+12,12,Alexander Stolz,GER,G,1.89,85,13-10-83,Pforzheim,Nöttingen,VfB Stuttgart,2009,German
+13,13,Timo Gebhart,GER,M,1.82,76,12-04-89,Memmingen,1860 Munich,VfB Stuttgart,2009,German
+14,14,Patrick Funk,GER,M,1.78,76,11-02-90,Aalen,Ulm,VfB Stuttgart,2009,German
+15,15,Arthur Boka,CIV,D,1.66,67,02-04-83,Abidjan,Strasbourg,VfB Stuttgart,2009,German
+16,16,Sebastian Rudy,GER,M,1.79,73,28-02-90,Villingen- Schwenningen,Dietingen,VfB Stuttgart,2009,German
+17,17,Mathieu Delpierre,FRA,D,1.93,86,26-04-81,Nancy,Lille,VfB Stuttgart,2009,German
+18,18,Cacau,GER,F,1.79,74,27-03-81,Santo André,Nürnberg,VfB Stuttgart,2009,German
+19,19,Roberto Hilbert,GER,M,1.82,80,16-10-84,Forchheim,Greuther  Fürth,VfB Stuttgart,2009,German
+21,21,Cristian Molinaro,ITA,D,1.80,76,30-07-83,Moio Civitella,Juventus,VfB Stuttgart,2009,German
+22,22,Matthias  Schwarz,GER,M,1.80,72,28-12-87,Mittenberg,Ingolstadt,VfB Stuttgart,2009,German
+23,23,Aliaksandr  Hleb,BLR,M,1.85,74,01-05-81,Minsk,Barcelona,VfB Stuttgart,2009,German
+24,24,Sven Ulreich,GER,G,1.92,84,03-08-88,Schorndorf,None,VfB Stuttgart,2009,German
+26,26,Daniel Didavi,GER,M,1.79,77,21-02-90,Nürtingen,None,VfB Stuttgart,2009,German
+27,27,Stefano Celozzi,GER,D,1.71,65,02-11-88,Günzburg,Karlsruhe,VfB Stuttgart,2009,German
+28,28,Sami Khedira,GER,M,1.89,83,04-04-87,Stuttgart,None,VfB Stuttgart,2009,German
+29,29,Pavel Pogrebnyak,RUS,F,1.88,91,08-11-83,Moscow,Zenit St Petersburg,VfB Stuttgart,2009,German
+31,31,Alessandro Riedle,GER,F,1.79,76,14-08-91,Lindenberg im Allgäu,None,VfB Stuttgart,2009,German
+32,32,Zdravko  Kuzmanović,SRB,M,1.86,72,22-09-87,Berne,Fiorentina,VfB Stuttgart,2009,German
+35,35,Christian Träsch,GER,D,1.80,73,01-09-87,Ingolstadt,1860 Munich,VfB Stuttgart,2009,German
+38,38,Clemens Walch,AUT,M,1.80,72,10-07-87,Rum,Red Bull Juniors,VfB Stuttgart,2009,German
+39,39,Julian Schieber,GER,F,1.86,83,13-02-89,Backnang,None,VfB Stuttgart,2009,German
+41,42,Marco Pischorn,GER,D,1.88,86,01-01-86,Mühlacker,Löchgau,VfB Stuttgart,2009,German
+1,1,Tim Wiese,GER,G,1.93,91,17-12-81,Bergisch-Gladbach,Kaiserslautern,Werder Bremen,2009,German
+2,2,Sebastian  Boenisch,GER,D,1.91,86,01-02-87,Gliwice,Schalke,Werder Bremen,2009,German
+3,3,Petri Pasanen,FIN,D,1.87,86,24-09-80,Lahti,Ajax,Werder Bremen,2009,German
+4,4,Naldo,BRA,D,1.98,89,10-09-82,Londrina,Juventude,Werder Bremen,2009,German
+6,6,Tim Borowski,GER,M,1.94,85,02-05-80,Neubrandenburg,Bayern Munich,Werder Bremen,2009,German
+8,8,Clemens Fritz,GER,D,1.83,81,07-12-80,Erfurt,Bayer  Leverkusen,Werder Bremen,2009,German
+9,9,Markus Rosenberg,SWE,F,1.85,80,27-09-82,Malmö,Ajax,Werder Bremen,2009,German
+10,10,Marko Marin,GER,M,1.70,63,13-03-89,Gradika,B Mönchengladbach,Werder Bremen,2009,German
+11,11,Mesut Özil,GER,M,1.82,73,15-10-88,Gelsenkirchen,Schalke,Werder Bremen,2009,German
+14,14,Aaron Hunt,GER,F,1.83,73,04-09-86,Goslar,None,Werder Bremen,2009,German
+15,15,Sebastian Prödl,AUT,D,1.94,85,21-06-87,Graz,Sturm Graz,Werder Bremen,2009,German
+16,16,Aymen Abdennour,TUN,D,1.87,84,06-08-89,Sousse,Étoile du Sahel,Werder Bremen,2009,German
+17,17,Said Huseinović,BIH,M,1.85,80,13-05-88,Tuzla,Sloboda Tuzla,Werder Bremen,2009,German
+19,19,Sandro  Wagner,GER,F,1.94,87,29-11-87,Munich,Duisburg,Werder Bremen,2009,German
+20,20,Daniel Jensen,DEN,M,1.80,73,25-06-79,Copenhagen,Murcia,Werder Bremen,2009,German
+21,21,Sebastian Mielitz,GER,G,1.88,73,18-07-89,Zehdenick,Energie Cottbus II,Werder Bremen,2009,German
+22,22,Torsten  Frings,GER,M,1.82,80,22-11-76,Würselen,Bayern  Munich,Werder Bremen,2009,German
+23,23,Hugo Almeida,POR,F,1.91,93,23-05-84,Figueira da Foz,FC Porto,Werder Bremen,2009,German
+24,24,Claudio  Pizarro,PER,F,1.84,79,03-10-78,Lima,Chelsea,Werder Bremen,2009,German
+25,25,Peter Niemeyer,GER,M,1.91,83,22-11-83,Hörstel,FC Twente,Werder Bremen,2009,German
+27,27,Niklas Andersen,GER,D,1.91,78,04-08-88,Frankfurt am Main,RW Essen,Werder Bremen,2009,German
+29,29,Per  Mertesacker,GER,D,1.98,90,29-09-84,Hannover,Hannover 96,Werder Bremen,2009,German
+30,30,Márkó Futács,HUN,F,1.96,89,22-02-90,Budapest,Nancy,Werder Bremen,2009,German
+31,31,Kevin Artmann,GER,M,1.79,74,21-04-86,Duderstadt,None,Werder Bremen,2009,German
+32,32,José Alex Ikeng,GER,M,1.88,85,30-01-88,Bafia,Stuttgart II,Werder Bremen,2009,German
+33,33,Christian  Vander,GER,G,1.95,90,24-10-80,Willich,Bochum,Werder Bremen,2009,German
+41,41,Dominik  Schmidt,GER,D,1.87,78,01-07-87,Berlin,Tasmania Gropiusstadt,Werder Bremen,2009,German
+42,42,Felix Wiedwald,GER,G,1.90,82,15-03-90,Thedinghausen,None,Werder Bremen,2009,German
+43,43,Pascal Testroet,GER,F,1.84,76,26-09-90,Bocholt,Schalke II,Werder Bremen,2009,German
+44,44,Philipp  Bargfrede,GER,M,1.74,71,03-03-89,Zeven,None,Werder Bremen,2009,German
+45,45,Timo  Perthel,GER,M,1.83,73,11-02-89,Kaiserslautern,None,Werder Bremen,2009,German
+46,46,Onur Ayık,TUR,F,1.80,77,28-01-90,Walsrode,None,Werder Bremen,2009,German
+1,1,Diego Benaglio,SUI,G,1.93,83,08-09-83,Zürich,Nacional [POR],VfL Wolfsburg,2009,German
+4,4,Marcel Schäfer,GER,D,1.82,76,07-06-84,Aschaffenburg,1860 Munich,VfL Wolfsburg,2009,German
+5,5,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Grêmio,VfL Wolfsburg,2009,German
+6,6,Jan imůnek,CZE,D,1.87,72,20-02-87,Prague,Sparta Prague,VfL Wolfsburg,2009,German
+7,7,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,São Paulo,VfL Wolfsburg,2009,German
+8,8,Thomas  Kahlenberg,DEN,M,1.83,72,20-03-83,Hvidovre,Auxerre,VfL Wolfsburg,2009,German
+9,9,Edin Deko,BIH,F,1.92,80,17-03-86,Doboj,Teplice,VfL Wolfsburg,2009,German
+10,10,Zvjezdan  Misimović,BIH,M,1.80,79,05-06-82,Munich,Nürnberg,VfL Wolfsburg,2009,German
+11,11,Obafemi Martins,NGA,F,1.76,67,28-10-84,Lagos,Newcastle U,VfL Wolfsburg,2009,German
+12,12,André Lenz,GER,G,1.91,92,19-11-73,Mülheim an der  Ruhr,1860 Munich,VfL Wolfsburg,2009,German
+13,13,Makoto Hasebe,JPN,M,1.77,65,18-01-84,Shizuoka,Urawa Red Diamonds,VfL Wolfsburg,2009,German
+14,14,Jonathan  Santana,PAR,M,1.81,80,19-10-81,Capital Federal,River Plate,VfL Wolfsburg,2009,German
+15,15,Karim  Ziani,ALG,M,1.69,66,17-08-82,Sèvres,Marseille,VfL Wolfsburg,2009,German
+16,16,Fabian Johnson,GER,D,1.83,70,11-12-87,Munich,1860 Munich,VfL Wolfsburg,2009,German
+17,17,Alexander  Madlung,GER,D,1.93,87,11-07-82,Braunschweig,Hertha Berlin,VfL Wolfsburg,2009,German
+19,19,Peter Pekarik,SVK,D,1.76,69,30-10-86,ilina,MK ilina,VfL Wolfsburg,2009,German
+20,20,Sascha Riether,GER,D,1.74,70,23-03-83,Lahr,Freiburg,VfL Wolfsburg,2009,German
+23,23,Grafite,BRA,F,1.89,81,02-04-79,Jundiaí,Le Mans,VfL Wolfsburg,2009,German
+24,24,Ashkan Dejagah,GER,F,1.81,74,05-07-86,Tehran,Hertha Berlin,VfL Wolfsburg,2009,German
+25,25,Christian  Gentner,GER,M,1.89,80,14-08-85,Nürtingen,Stuttgart,VfL Wolfsburg,2009,German
+27,27,Alexander Esswein,GER,F,1.81,76,25-03-90,Worms,Kaiserslautern,VfL Wolfsburg,2009,German
+31,31,Alexander Laas,GER,M,1.73,70,05-05-84,Hamburg,Hamburg,VfL Wolfsburg,2009,German
+32,32,Sebastian Schindzielorz,GER,M,1.80,74,21-01-79,Krapkowice,Levadiakos,VfL Wolfsburg,2009,German
+35,35,Marwin Hitz,SUI,G,1.92,89,18-09-87,St. Gallen,St. Gallen,VfL Wolfsburg,2009,German
+41,43,Andrea Barzagli,ITA,D,1.86,79,08-05-81,Fiesole,Palermo,VfL Wolfsburg,2009,German

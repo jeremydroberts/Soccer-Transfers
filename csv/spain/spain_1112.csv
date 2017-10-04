@@ -1,0 +1,647 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Gorka Iraizoz,ESP,G,1.91,81,06-03-81,Pamplona,Espanyol,Athletic Bilbao,2011,Spanish
+2,2,Gaizka Toquero,ESP,M,1.82,72,09-08-84,Vitoria,Sestao River,Athletic Bilbao,2011,Spanish
+3,3,Jon Aurtenetxe,ESP,D,1.82,78,03-01-92,Bizkaia,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+5,5,Fernando Amorebieta,VEN,D,1.92,85,21-03-85,Iurreta,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+6,6,Mikel San José,ESP,D,1.83,78,30-05-89,Pamplona,Liverpool,Athletic Bilbao,2011,Spanish
+7,7,David López,ESP,M,1.81,77,10-09-82,Logroño,Osasuna,Athletic Bilbao,2011,Spanish
+8,8,Ander Iturraspe,ESP,M,1.87,73,08-03-89,Abadiño,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+9,9,Fernando Llorente,ESP,F,1.95,94,26-02-85,Iruñea,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+10,10,Óscar de Marcos,ESP,M,1.80,73,14-04-89,Vitoria,Alavés,Athletic Bilbao,2011,Spanish
+11,11,Igor Gabilondo,ESP,M,1.85,78,10-02-79,Donostia,Real Sociedad,Athletic Bilbao,2011,Spanish
+12,12,Koikili,ESP,D,1.68,67,23-12-80,Otxandio,Sestao River,Athletic Bilbao,2011,Spanish
+13,13,Raúl,ESP,G,1.96,88,13-03-88,Bilbao,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+14,14,Markel Susaeta,ESP,M,1.79,68,14-12-87,Eibar,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+15,15,Andoni Iraola,ESP,D,1.82,74,22-06-82,Usúrbil,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+16,16,Ivan Zubiaurre,ESP,D,1.77,76,22-01-83,Mendaro,Real Sociedad B,Athletic Bilbao,2011,Spanish
+17,17,Íñigo Pérez,ESP,M,1.78,74,18-01-88,Iruñea,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+18,18,Carlos Gurpegi,ESP,M,1.81,77,19-08-80,Pamplona,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+19,19,Iker Muniain,ESP,F,1.68,62,19-12-92,Iruñea,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+20,20,Aitor Ocio,ESP,D,1.87,79,28-11-76,Vitoria,Sevilla,Athletic Bilbao,2011,Spanish
+21,21,Ander Herrera,ESP,M,1.81,68,14-08-89,Bilbao,Zaragoza,Athletic Bilbao,2011,Spanish
+22,22,Xabier Castillo,ESP,D,1.82,71,29-03-86,Durango,Real Sociedad,Athletic Bilbao,2011,Spanish
+23,23,Borja Ekiza,ESP,D,1.80,73,06-03-88,Iruñea,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+24,24,Javi Martínez,ESP,M,1.90,81,02-09-88,Lizarra,Osasuna B,Athletic Bilbao,2011,Spanish
+26,26,Igor Martínez,ESP,M,1.70,65,19-07-89,Vitoria,Alavés,Athletic Bilbao,2011,Spanish
+27,27,Guillermo,ESP,F,1.78,71,23-05-93,Bilbao,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+28,28,Ibai Gómez,ESP,F,1.79,73,11-11-89,Bilbao,Sestao River,Athletic Bilbao,2011,Spanish
+29,29,Enric Saborit,ESP,M,1.86,72,27-04-92,Barcelona,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+30,30,Aitor Fernández,ESP,G,1.82,70,03-05-91,Arrasate,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+31,31,Jonás Ramalho,ESP,D,1.80,64,10-06-93,Barakaldo,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+32,32,Iñigo Ruiz de Galarreta,ESP,M,1.74,66,06-08-93,San Sebastián,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+33,33,Kepa Arrizabalaga,ESP,G,1.86,81,03-10-94,Ondarroa,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+34,34,Aitor Seguín,ESP,M,1.79,67,27-04-95,Eibar,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+35,35,Álvaro Peña,ESP,M,1.78,70,24-10-91,Bilbao,Athletic Bilbao B,Athletic Bilbao,2011,Spanish
+2,2,Diego Godín,URU,D,1.85,73,16-02-86,Rosario,Villarreal,Atlético Madrid,2011,Spanish
+3,3,Antonio López,ESP,D,1.73,65,13-09-81,Benidorm,Osasuna,Atlético Madrid,2011,Spanish
+4,4,Mario Suárez,ESP,M,1.85,77,24-02-87,Madrid,Mallorca,Atlético Madrid,2011,Spanish
+5,5,Tiago,POR,M,1.83,75,02-05-81,Viana do Castelo,Juventus,Atlético Madrid,2011,Spanish
+6,6,Filipe Luis,BRA,D,1.82,70,09-08-85,Jaraguá do Sul,Deportivo La Coruña,Atlético Madrid,2011,Spanish
+7,7,Adrián López,ESP,F,1.80,71,08-01-88,San Martín de Teverga,Deportivo La Coruña,Atlético Madrid,2011,Spanish
+8,8,Eduardo Salvio,ARG,F,1.73,76,13-05-90,Avellaneda,Lanús,Atlético Madrid,2011,Spanish
+9,9,Radamel Falcao García,COL,F,1.77,72,10-02-86,Santa Marta,FC Porto,Atlético Madrid,2011,Spanish
+11,11,Arda Turan,TUR,M,1.76,72,30-01-87,Fatih,Galatasaray,Atlético Madrid,2011,Spanish
+12,12,Paulo Assunção,BRA,M,1.75,67,25-01-80,Varzea Grande,FC Porto,Atlético Madrid,2011,Spanish
+13,13,Thibaut Courtois,BEL,G,1.99,88,11-05-92,Bree,Chelsea,Atlético Madrid,2011,Spanish
+14,14,Gabi,ESP,M,1.79,68,10-07-83,Madrid,Zaragoza,Atlético Madrid,2011,Spanish
+15,15,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Sporting Braga,Atlético Madrid,2011,Spanish
+16,16,Fran Mérida,ESP,M,1.75,70,04-03-90,Barcelona,Arsenal,Atlético Madrid,2011,Spanish
+17,17,Sílvio,POR,D,1.78,72,28-09-87,Lisbon,Sporting Braga,Atlético Madrid,2011,Spanish
+18,18,Álvaro Domínguez,ESP,D,1.89,83,16-05-89,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+19,19,Koke,ESP,M,1.78,73,08-01-92,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+20,20,Juanfran,ESP,D,1.80,72,09-01-85,Crevillent,Osasuna,Atlético Madrid,2011,Spanish
+21,21,Luis Amaranto Perea,COL,D,1.80,76,30-01-79,Turbo Antioquia,Boca Juniors,Atlético Madrid,2011,Spanish
+22,22,Diego,BRA,M,1.74,76,28-02-85,Ribeirão Preto,Wolfsburg,Atlético Madrid,2011,Spanish
+23,23,Miranda,BRA,D,1.85,78,07-09-84,Paranavaí,São Paulo,Atlético Madrid,2011,Spanish
+25,25,Sergio Asenjo,ESP,G,1.82,85,28-06-89,Palencia,Valladolid,Atlético Madrid,2011,Spanish
+26,26,Abdelkader Oueslati,TUN,M,1.84,71,07-10-91,Ollioules,Atlético Madrid B,Atlético Madrid,2011,Spanish
+28,28,Javi Manquillo,ESP,D,1.72,62,05-05-94,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+29,29,Francisco Regalón,ESP,D,1.82,74,19-02-87,Córdoba,Atlético Madrid B,Atlético Madrid,2011,Spanish
+30,30,Miguel Ángel Luque,ESP,M,1.80,63,23-07-90,Sabadell,Almería,Atlético Madrid,2011,Spanish
+31,31,Momar N'Doye,SEN,F,1.78,68,10-03-92,Pikine,Atlético Madrid B,Atlético Madrid,2011,Spanish
+33,33,Carlos Mendoza,ESP,D,,,30-01-92,,Atlético Madrid B,Atlético Madrid,2011,Spanish
+34,34,Domènech Fernández,ESP,F,,,22-01-92,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+35,35,Papa Ibrahima Diatta,SEN,M,,,27-05-92,,Atlético Madrid B,Atlético Madrid,2011,Spanish
+36,36,Ángel Propin,ESP,D,1.86,76,10-02-90,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+37,37,Graci,ESP,D,,,07-05-92,,Atlético Madrid B,Atlético Madrid,2011,Spanish
+38,38,Luis Ruiz,ESP,D,1.81,73,30-06-92,Huelva,Atlético Madrid B,Atlético Madrid,2011,Spanish
+39,39,Pedro Astray,ESP,M,1.82,70,18-03-92,Madrid,Atlético Madrid B,Atlético Madrid,2011,Spanish
+40,40,Miguel Linares,ESP,D,,,05-01-91,,Atlético Madrid B,Atlético Madrid,2011,Spanish
+41,41,Pedro Martín,ESP,F,1.91,76,16-01-92,Málaga,Atlético Madrid B,Atlético Madrid,2011,Spanish
+42,42,Sergio Cidoncha,ESP,M,1.80,71,27-08-90,El Escorial,Atlético Madrid B,Atlético Madrid,2011,Spanish
+43,43,Adrián Formigo,ESP,D,,,12-05-93,,Atlético Madrid B,Atlético Madrid,2011,Spanish
+44,44,Sergio Marcos,ESP,M,1.77,73,03-02-92,Sacedón,Atlético Madrid B,Atlético Madrid,2011,Spanish
+45,45,Andrés,ESP,D,1.79,73,01-07-90,Noreña,Atlético Madrid B,Atlético Madrid,2011,Spanish
+46,46,Juanjo Muko,EQG,F,,,14-01-93,Malabo,Atlético Madrid B,Atlético Madrid,2011,Spanish
+47,47,David Gil,ESP,G,1.83,73,11-01-94,Getafe,Atlético Madrid B,Atlético Madrid,2011,Spanish
+48,48,Saúl Ñiguez,ESP,M,1.82,73,21-11-94,Elche,Atlético Madrid B,Atlético Madrid,2011,Spanish
+49,49,Óliver Torres,ESP,M,1.78,70,10-11-94,Navalmoral de la Mata,Atlético Madrid B,Atlético Madrid,2011,Spanish
+1,1,Víctor Valdés,ESP,G,1.83,78,14-01-82,L'Hospitalet de Llobregat,Barcelona  B,Barcelona,2011,Spanish
+2,2,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro,Sevilla,Barcelona,2011,Spanish
+3,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona,Manchester U,Barcelona,2011,Spanish
+4,4,Cesc Fàbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar,Arsenal,Barcelona,2011,Spanish
+5,5,Carles Puyol,ESP,D,1.78,80,13-04-78,La Pobla de Segur,Barcelona B,Barcelona,2011,Spanish
+6,6,Xavi,ESP,M,1.70,68,25-01-80,Terrassa,Barcelona  B,Barcelona,2011,Spanish
+7,7,David Villa,ESP,F,1.75,69,03-12-81,Langreo,Valencia,Barcelona,2011,Spanish
+8,8,Andrés Iniesta,ESP,M,1.70,65,11-05-84,Fuentealbilla,Barcelona B,Barcelona,2011,Spanish
+9,9,Alexis Sánchez,CHI,F,1.68,62,19-12-88,Tocopilla,Udinese,Barcelona,2011,Spanish
+10,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe,Barcelona B,Barcelona,2011,Spanish
+11,11,Thiago Alcántara,ESP,M,1.65,60,11-04-91,Bari,Barcelona B,Barcelona,2011,Spanish
+13,13,José Manuel Pinto,ESP,G,1.85,82,15-11-75,Puerto de Santa Maria,Celta Vigo,Barcelona,2011,Spanish
+14,14,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario,Liverpool,Barcelona,2011,Spanish
+15,15,Seydou Keita,MLI,M,1.83,77,16-01-80,Bamako,Sevilla,Barcelona,2011,Spanish
+16,16,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell,Barcelona B,Barcelona,2011,Spanish
+17,17,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife,Barcelona B,Barcelona,2011,Spanish
+20,20,Ibrahim Afellay,NED,M,1.81,68,02-04-86,Utrecht,PSV Eindhoven,Barcelona,2011,Spanish
+21,21,Adriano,BRA,M,1.72,67,26-10-84,Curitiba,Sevilla,Barcelona,2011,Spanish
+22,22,Eric Abidal,FRA,D,1.86,75,11-07-79,Lyon,Lyon,Barcelona,2011,Spanish
+23,23,Isaac Cuenca,ESP,F,1.81,74,27-04-91,Reus,Barcelona B,Barcelona,2011,Spanish
+24,24,Andreu Fontàs,ESP,M,1.81,72,14-11-89,Banyoles,Barcelona B,Barcelona,2011,Spanish
+26,26,Marc Muniesa,ESP,D,1.80,77,27-03-92,Lloret de Mar,Barcelona B,Barcelona,2011,Spanish
+27,27,Gerard Deulofeu,ESP,F,1.79,60,13-03-94,Barcelona,Barcelona B,Barcelona,2011,Spanish
+28,28,Jonathan dos Santos,MEX,M,1.80,74,26-04-90,Monterrey,Barcelona B,Barcelona,2011,Spanish
+29,29,Martí Riverola,ESP,M,1.81,74,26-01-91,Barcelona,Barcelona B,Barcelona,2011,Spanish
+30,30,Sergi Roberto,ESP,M,1.73,70,07-02-92,Reus,Barcelona B,Barcelona,2011,Spanish
+31,31,Rubén Miño,ESP,G,1.90,87,18-01-89,Cornellà de Llobregat,Barcelona B,Barcelona,2011,Spanish
+32,32,Marc Bartra,ESP,D,1.84,75,15-01-91,San Jaime dels Domenys,Barcelona B,Barcelona,2011,Spanish
+33,33,Sergi Gómez,ESP,D,1.81,76,28-07-92,Arenys de Mar,Barcelona B,Barcelona,2011,Spanish
+34,34,Rafinha,BRA,M,1.77,75,12-02-93,Bari,Barcelona B,Barcelona,2011,Spanish
+35,35,Martín Montoya,ESP,D,1.74,74,14-04-91,Gavà,Barcelona B,Barcelona,2011,Spanish
+36,36,Oier Olazábal,ESP,G,1.89,82,14-09-89,Irún,Real Unión,Barcelona,2011,Spanish
+37,37,Cristian Tello,ESP,F,1.78,66,19-08-91,Sabadell,Espanyol B,Barcelona,2011,Spanish
+38,38,Kiko Femenia,ESP,D,1.74,61,02-02-91,Sanet y Negrals,Hércules,Barcelona,2011,Spanish
+1,1,Iñaki Goitia,ESP,G,1.88,79,02-03-82,Cruces,Málaga,Betis,2011,Spanish
+2,2,José Isidoro,ESP,D,1.80,70,01-08-86,Pedrera,Betis B,Betis,2011,Spanish
+3,3,Pedro Mario,ESP,D,1.78,75,02-02-82,Tenerife,Getafe,Betis,2011,Spanish
+4,4,Antonio Amaya,ESP,D,1.92,86,31-05-83,Madrid,Wigan Ath,Betis,2011,Spanish
+5,5,José Antonio Dorado,ESP,D,1.80,69,10-07-82,Córdoba,Huesca,Betis,2011,Spanish
+7,7,Juanma,ESP,M,1.76,72,29-05-81,Don Benito,Levante,Betis,2011,Spanish
+8,8,Javier Matilla,ESP,M,1.76,72,01-01-88,Ciudad Real,Villarreal,Betis,2011,Spanish
+9,9,Jonathan Pereira,ESP,F,1.66,61,12-05-87,Vigo,Villarreal,Betis,2011,Spanish
+10,10,Beñat,ESP,M,1.75,72,19-02-87,Igorre,Betis B,Betis,2011,Spanish
+12,12,Paulão,BRA,D,1.88,82,06-05-82,Lagoa Grande,St-Etienne,Betis,2011,Spanish
+13,13,Casto,ESP,G,1.80,82,18-06-82,Badajoz,Betis B,Betis,2011,Spanish
+14,14,Salva Sevilla,ESP,M,1.78,70,18-03-84,Almería,Salamanca,Betis,2011,Spanish
+15,15,Ustaritz,ESP,D,1.83,75,16-02-83,Abadiño,Athletic Bilbao,Betis,2011,Spanish
+16,16,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción,Manchester C,Betis,2011,Spanish
+17,17,Chica,ESP,D,1.76,78,17-05-85,Barcelona,Espanyol,Betis,2011,Spanish
+18,18,Iriney,BRA,M,1.79,70,23-04-81,Humaitá,Almería,Betis,2011,Spanish
+19,19,Jorge Molina,ESP,F,1.88,87,22-04-82,Alcoy,Elche,Betis,2011,Spanish
+20,20,Jefferson Montero,ECU,F,1.70,70,01-09-89,Babahoyo,Villarreal,Betis,2011,Spanish
+21,21,José Alberto Cañas,ESP,M,1.77,64,27-05-87,Jerez de la Frontera,Betis B,Betis,2011,Spanish
+22,22,Nélson,POR,D,1.72,65,10-06-83,Praia,Benfica,Betis,2011,Spanish
+23,23,Nacho,ESP,M,1.77,70,24-06-80,Huelva,Getafe,Betis,2011,Spanish
+24,24,Rubén Castro,ESP,F,1.74,72,27-06-81,Las Palmas,Deportivo La Coruña,Betis,2011,Spanish
+25,25,Fabricio,ESP,G,1.85,77,31-12-87,Las Palmas,Valladolid,Betis,2011,Spanish
+26,26,Miki Roqué,ESP,D,1.86,74,08-07-88,Tremp,Betis B,Betis,2011,Spanish
+27,27,Álvaro Vadillo,ESP,M,1.80,69,12-09-94,Puerto Real,Betis B,Betis,2011,Spanish
+28,28,Manu Herrera,ESP,D,1.82,72,25-04-90,Marchena,Betis B,Betis,2011,Spanish
+29,29,Nono,ESP,M,1.78,72,30-03-93,Puerto de Santa María,Betis B,Betis,2011,Spanish
+30,30,Adrián,ESP,G,1.88,77,03-01-87,Seville,Betis B,Betis,2011,Spanish
+32,32,Manuel Palancar,ESP,D,1.76,66,01-01-90,Seville,Betis B,Betis,2011,Spanish
+33,33,Damián Petcoff,ARG,M,1.74,69,24-05-90,Capital Federal,Betis B,Betis,2011,Spanish
+34,34,Carlos García,ESP,M,1.65,56,17-09-93,Seville,Betis B,Betis,2011,Spanish
+35,35,Alejandro Pozuelo,ESP,F,1.70,63,20-09-91,Seville,Betis B,Betis,2011,Spanish
+36,36,Álex Martínez,ESP,M,1.76,64,12-08-90,Seville,Betis B,Betis,2011,Spanish
+39,39,Sergio,ESP,F,1.69,65,07-09-92,Seville,Betis B,Betis,2011,Spanish
+2,2,Felipe Mattioni,BRA,D,1.77,72,15-10-88,Natural de Ijuí,Maga,Espanyol,2011,Spanish
+3,3,Raúl Rodríguez,ESP,D,1.83,70,22-09-87,Vilassar de Mar,Espanyol B,Espanyol,2011,Spanish
+4,4,Javi Márquez,ESP,M,1.74,71,11-05-86,Barcelona,Espanyol B,Espanyol,2011,Spanish
+5,5,Jordi Amat,ESP,D,1.84,80,21-03-92,Barcelona,Espanyol B,Espanyol,2011,Spanish
+6,6,Rui Fonte,POR,F,1.81,73,23-03-90,Lisbon,Sporting CP,Espanyol,2011,Spanish
+7,7,Raúl Baena,ESP,M,1.79,73,02-03-89,Torrox,Espanyol B,Espanyol,2011,Spanish
+8,8,Álvaro Vázquez,ESP,F,1.82,75,27-04-91,Barcelona,Espanyol B,Espanyol,2011,Spanish
+9,9,Sergio García,ESP,F,1.75,72,09-06-83,Barcelona,Betis,Espanyol,2011,Spanish
+10,10,Joan Verdú,ESP,M,1.76,72,05-05-83,Barcelona,Deportivo La Coruña,Espanyol,2011,Spanish
+11,11,N'Dri Romaric,CIV,M,1.87,88,04-06-83,Abidjan,Sevilla,Espanyol,2011,Spanish
+12,12,Kalu Uche,NGA,F,1.79,71,15-11-82,Aba,Neuchâtel Xamax,Espanyol,2011,Spanish
+13,13,Francisco Casilla,ESP,G,1.92,83,02-10-86,Alcocer,Espanyol B,Espanyol,2011,Spanish
+14,14,Ernesto Galán,ESP,M,1.81,79,17-06-86,Madrid,Espanyol B,Espanyol,2011,Spanish
+15,15,Héctor Moreno,MEX,D,1.82,80,17-01-88,Culiacán,AZ Alkmaar,Espanyol,2011,Spanish
+16,16,Javi López,ESP,M,1.79,76,21-01-86,Osuna,Betis B,Espanyol,2011,Spanish
+17,17,Vladimir Weiss,SVK,M,1.75,68,30-11-89,Bratislava,Manchester C,Espanyol,2011,Spanish
+18,18,Juan Forlín,ARG,D,1.80,72,10-01-88,Reconquista,Boca Juniors,Espanyol,2011,Spanish
+19,19,Víctor Sánchez,ESP,D,1.74,73,08-09-87,Terrassa,Neuchâtel Xamax,Espanyol,2011,Spanish
+20,20,Walter Pandiani,URU,F,1.84,75,27-04-76,Montevideo,Osasuna,Espanyol,2011,Spanish
+22,22,Dídac,ESP,D,1.86,81,09-06-89,Mataró,Milan,Espanyol,2011,Spanish
+23,23,Philippe Coutinho,BRA,M,1.71,68,12-06-92,Rio de Janeiro,Internazionale,Espanyol,2011,Spanish
+24,24,Juan Albín,URU,M,1.79,77,17-07-86,Salto,Getafe,Espanyol,2011,Spanish
+25,25,Cristian Álvarez,ARG,G,1.86,88,13-11-85,General Lagos,Rosario Central,Espanyol,2011,Spanish
+26,26,Dinu Moldovan,ROU,G,1.88,72,03-05-90,Alba Iulia,Espanyol B,Espanyol,2011,Spanish
+28,28,Carlos Clerc,ESP,M,1.80,72,21-02-92,Barcelona,Espanyol B,Espanyol,2011,Spanish
+31,31,Pau Senent,ESP,M,1.83,,03-05-92,Alicante,Espanyol B,Espanyol,2011,Spanish
+33,33,Sergi Darder,ESP,M,1.80,67,22-12-93,Artà,Espanyol B,Espanyol,2011,Spanish
+34,34,Víctor Álvarez,ESP,D,1.78,69,14-03-93,Barcelona,Espanyol B,Espanyol,2011,Spanish
+38,38,Albert Canal,ESP,D,1.81,76,09-12-90,Barcelona,Espanyol B,Espanyol,2011,Spanish
+39,39,Thievy Bifouma,FRA,F,1.80,74,13-05-92,Saint-Denis,Espanyol B,Espanyol,2011,Spanish
+40,40,Zouhair Feddal,MAR,D,1.91,78,01-01-89,Tétouan,Espanyol B,Espanyol,2011,Spanish
+41,41,Christian,ESP,M,1.83,77,02-05-89,Barcelona,Espanyol B,Espanyol,2011,Spanish
+42,42,Cristian Gómez,ESP,M,1.81,75,27-07-89,L'Hospitalet de Llobregat,Espanyol B,Espanyol,2011,Spanish
+43,44,Bacari,ESP,F,1.78,77,14-03-88,Mataró,Valladolid B,Espanyol,2011,Spanish
+44,45,Paul Quaye,GHA,M,,,16-09-95,,Espanyol Juvenil A,Espanyol,2011,Spanish
+45,46,Carlos Albarrán,ESP,D,,,15-01-94,Badalona,Espanyol Juvenil A,Espanyol,2011,Spanish
+46,50,Edgar Badía,ESP,G,1.81,76,12-02-92,Barcelona,Espanyol B,Espanyol,2011,Spanish
+1,1,Óscar Ustari,ARG,G,1.84,82,03-07-86,América,Independiente,Getafe,2011,Spanish
+2,2,Daniel Díaz,ARG,D,1.82,74,13-03-79,San Fernando del Valle,Boca Juniors,Getafe,2011,Spanish
+3,3,Mané,ESP,D,1.75,72,22-12-81,Algeciras,Almería,Getafe,2011,Spanish
+4,4,Miguel Torres,ESP,D,1.84,78,28-01-86,Madrid,Real Madrid,Getafe,2011,Spanish
+5,5,Alexis,ESP,D,1.83,75,04-08-85,Málaga,Sevilla,Getafe,2011,Spanish
+6,6,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles,Racing Santander,Getafe,2011,Spanish
+7,7,Miku,VEN,M,1.85,80,19-08-85,Caracas,Valencia,Getafe,2011,Spanish
+8,8,Pablo Sarabia,ESP,M,1.77,72,11-05-92,Madrid,Real Madrid B,Getafe,2011,Spanish
+10,10,Jaime Gavilán,ESP,M,1.78,71,12-05-85,Valencia,Valencia,Getafe,2011,Spanish
+12,12,Pedro León,ESP,M,1.82,70,24-11-86,Mula,Real Madrid,Getafe,2011,Spanish
+13,13,Jordi Codina,ESP,G,1.84,79,27-04-82,Barcelona,Real Madrid,Getafe,2011,Spanish
+14,14,Javier Arizmendi,ESP,F,1.89,76,03-03-84,Madrid,Zaragoza,Getafe,2011,Spanish
+15,15,Rafa,ESP,D,1.83,72,09-04-85,Peñafiel,Valladolid,Getafe,2011,Spanish
+16,16,Pedro Ríos,ESP,M,1.77,72,12-12-81,Jerez de la Frontera,Xerez,Getafe,2011,Spanish
+17,17,Diego Castro,ESP,F,1.74,71,02-07-82,Pontevedra,Sporting Gijón,Getafe,2011,Spanish
+18,18,Tsepo Masilela,RSA,D,1.75,70,05-05-85,Witbank,Maccabi Haifa,Getafe,2011,Spanish
+19,19,Dani Güiza,ESP,F,1.80,80,17-08-80,Jerez de la Frontera,Fenerbahçe,Getafe,2011,Spanish
+20,20,Juan Valera,ESP,D,1.84,70,21-12-84,La Copa de Bullas,Atlético Madrid,Getafe,2011,Spanish
+21,21,Míchel,ESP,M,1.83,72,09-11-85,Pola de Lena,Birmingham C,Getafe,2011,Spanish
+22,22,Javi Casquero,ESP,M,1.80,73,19-08-76,Toledo,Racing Santander,Getafe,2011,Spanish
+23,23,Juan Rodríguez,ESP,M,1.85,80,01-04-82,Málaga,Deportivo La Coruña,Getafe,2011,Spanish
+24,24,Rubén Pérez,ESP,M,1.78,72,26-04-89,Seville,Atlético Madrid B,Getafe,2011,Spanish
+25,25,Miguel Ángel Moyá,ESP,G,1.85,75,02-04-84,Binissalem,Valencia,Getafe,2011,Spanish
+28,28,Abdelaziz Barrada,MAR,M,1.79,73,19-06-89,Provins,Paris St-Germain,Getafe,2011,Spanish
+29,29,Álvaro Arroyo,ESP,D,1.80,71,22-07-88,Madrid,Getafe B,Getafe,2011,Spanish
+30,30,Álex Pérez,ESP,D,1.89,80,11-08-91,Madrid,Getafe B,Getafe,2011,Spanish
+32,32,Hugo Fraile,ESP,F,1.70,62,16-03-87,Huelva,Rayo Vallecano B,Getafe,2011,Spanish
+33,33,Samuel,ESP,M,1.74,68,22-01-91,Madrid,Melilla,Getafe,2011,Spanish
+35,35,Tomeu Nadal,ESP,G,1.90,77,08-02-89,Manacor,Mallorca B,Getafe,2011,Spanish
+1,1,José Juan,ESP,G,1.83,82,24-01-79,Vigo,Águilas,Granada,2011,Spanish
+2,2,Allan-Roméo Nyom,CMR,D,1.88,80,10-05-88,Neuilly-sur-Seine,Udinese,Granada,2011,Spanish
+3,3,Noé Pamarot,FRA,D,1.80,86,14-04-79,Fontenay-sous-Bois,Hércules,Granada,2011,Spanish
+4,4,Fran Rico,ESP,M,1.78,71,03-08-87,Portonovo,Real Madrid B,Granada,2011,Spanish
+5,5,Diego Mainz,ESP,D,1.87,80,29-12-82,Madrid,Udinese,Granada,2011,Spanish
+6,6,Guilherme Siqueira,BRA,M,1.84,76,28-04-86,Florianapolis,Udinese,Granada,2011,Spanish
+7,7,Odion Ighalo,NGA,F,1.88,70,16-06-89,Lagos,Udinese,Granada,2011,Spanish
+8,8,Íñigo López,ESP,D,1.85,72,23-07-82,Logroño,Alcorcón,Granada,2011,Spanish
+9,9,Borja Gómez,ESP,D,1.83,81,14-05-88,Madrid,Karpaty Lviv,Granada,2011,Spanish
+10,10,Jaime,ESP,M,1.76,74,31-07-90,Albacete,Udinese,Granada,2011,Spanish
+11,11,Dani Benítez,ESP,M,1.81,68,07-04-87,Palma de Mallorca,Udinese,Granada,2011,Spanish
+12,12,Franco Jara,ARG,F,1.82,77,15-07-88,Villa María,Benfica,Granada,2011,Spanish
+13,13,Roberto,ESP,G,1.81,76,25-01-79,Chantada,Osasuna,Granada,2011,Spanish
+14,14,Mikel Rico,ESP,M,1.78,75,01-11-84,Cruces,Huesca,Granada,2011,Spanish
+15,15,Pape Diakhaté,SEN,D,1.85,79,21-06-84,Dakar,Dynamo Kyiv,Granada,2011,Spanish
+16,16,Henrique Almeida,BRA,F,1.78,76,27-05-91,Brasília,São Paulo,Granada,2011,Spanish
+17,17,Carlos Martins,POR,M,1.72,72,29-04-82,Lisbon,Benfica,Granada,2011,Spanish
+18,18,Manuel Lucena,ESP,D,1.86,84,18-11-82,Granada,Sporting Gijón,Granada,2011,Spanish
+19,19,Hassan Yebda,ALG,M,1.87,77,14-05-84,Saint-Maurice,Benfica,Granada,2011,Spanish
+20,20,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba,Villarreal,Granada,2011,Spanish
+21,21,David Cortés,ESP,D,1.81,74,29-08-79,Badajoz,Hércules,Granada,2011,Spanish
+22,22,Alexandre Geijo,SUI,F,1.84,80,05-09-82,Geneva,Udinese,Granada,2011,Spanish
+23,23,Abel,ESP,M,1.83,73,20-02-82,Málaga,Xerez,Granada,2011,Spanish
+24,24,Moisés Hurtado,ESP,M,1.85,85,20-02-81,Sabadell,Olympiakos,Granada,2011,Spanish
+25,25,Júlio César,BRA,G,1.90,85,02-09-86,Guaramirim,Benfica,Granada,2011,Spanish
+27,27,Hugo,ESP,G,1.87,90,09-07-89,Churriana de la Vega,Granada B,Granada,2011,Spanish
+28,28,Cristian Baena,ESP,D,1.78,68,14-04-91,Granada,Granada B,Granada,2011,Spanish
+29,29,Álex Carmona,ESP,D,1.72,67,19-09-89,,Granada B,Granada,2011,Spanish
+31,31,Samuel,ESP,D,1.82,75,18-07-90,Granada,Granada B,Granada,2011,Spanish
+32,32,Migue,ESP,M,1.70,64,17-04-91,Granada,Granada B,Granada,2011,Spanish
+1,1,Gustavo Munúa,URU,G,1.88,87,27-01-78,Montevideo,Málaga,Levante,2011,Spanish
+2,2,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama,Sevilla,Levante,2011,Spanish
+3,3,David Navarro,ESP,D,1.88,82,25-05-80,Valencia,Neuchâtel Xamax,Levante,2011,Spanish
+4,4,Francisco Javier Farinós,ESP,M,1.72,68,29-03-78,Valencia,Hércules,Levante,2011,Spanish
+6,6,Miguel Pallardó,ESP,M,1.73,73,05-06-86,Valencia,Getafe,Levante,2011,Spanish
+7,7,José Javier Barkero,ESP,M,1.80,70,27-04-79,Aretxabaleta,Numancia,Levante,2011,Spanish
+8,8,Óscar Serrano,ESP,M,1.75,73,30-09-81,Blanes,Racing Santander,Levante,2011,Spanish
+10,10,Vicente Iborra,ESP,F,1.90,76,16-01-88,Moncada,Levante B,Levante,2011,Spanish
+11,11,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Arsenal,Levante,2011,Spanish
+12,12,Juanfran,ESP,D,1.82,73,15-07-76,Valencia,AEK,Levante,2011,Spanish
+13,13,Keylor Navas,CRC,G,1.86,78,15-12-86,Pérez Zeledón,Albacete,Levante,2011,Spanish
+14,14,Xavi Torres,ESP,M,1.82,76,21-11-86,Jávea,Málaga,Levante,2011,Spanish
+15,15,Asier Del Horno,ESP,D,1.83,72,19-01-81,Barakaldo,Valencia,Levante,2011,Spanish
+17,17,Javi Venta,ESP,D,1.80,74,13-12-75,Oviedo,Villarreal,Levante,2011,Spanish
+18,18,Sergio Ballesteros,ESP,D,1.88,93,04-09-75,Valencia,Mallorca,Levante,2011,Spanish
+19,19,Pedro López,ESP,D,1.74,72,01-01-83,Valencia,Valladolid,Levante,2011,Spanish
+20,20,Juanlu,ESP,F,1.72,70,08-05-80,Málaga,Betis,Levante,2011,Spanish
+21,21,Rubén,ESP,M,1.67,67,19-02-79,Gijón,Elche,Levante,2011,Spanish
+22,22,Gustavo Cabral,ARG,D,1.82,81,14-10-85,Isidro Casanova,Arsenal [ARG],Levante,2011,Spanish
+23,23,Valdo,CPV,M,1.83,78,23-04-81,Villablino,Espanyol,Levante,2011,Spanish
+24,24,Abdelkader Ghezzal,ALG,F,1.83,78,05-12-84,Decines Charpieu,Bari,Levante,2011,Spanish
+25,25,Nabil El Zhar,MAR,M,1.75,72,27-08-86,Alès,Liverpool,Levante,2011,Spanish
+26,26,Sergio Garabato,ESP,G,1.87,98,16-05-89,Valencia,Valencia B,Levante,2011,Spanish
+28,28,Iván López,ESP,D,1.75,69,23-08-93,Valencia,Levante B,Levante,2011,Spanish
+30,30,José Marco Higón,ESP,M,1.73,65,22-05-91,Valencia,Levante B,Levante,2011,Spanish
+34,34,Roger,ESP,F,1.79,74,03-01-91,Torrent,Levante B,Levante,2011,Spanish
+37,37,Mario,ESP,G,1.89,74,12-09-89,Picanya,Levante B,Levante,2011,Spanish
+41,41,Pablo Coronado,ESP,G,1.86,79,21-07-92,Valencia,Levante B,Levante,2011,Spanish
+1,1,Rubén,ESP,G,1.87,82,22-06-84,La Coruña,Cartagena,Málaga,2011,Spanish
+2,2,Jesús Gámez,ESP,D,1.82,70,10-04-85,Fuengirola,Málaga B,Málaga,2011,Spanish
+3,3,Weligton,BRA,D,1.86,78,26-08-79,Fernandopolis,Grasshoppers,Málaga,2011,Spanish
+5,5,Martin Demichelis,ARG,D,1.84,78,20-12-80,Justiniano Posse,Bayern Munich,Málaga,2011,Spanish
+6,6,Ignacio Camacho,ESP,M,1.81,68,04-05-90,Zaragoza,Atlético Madrid,Málaga,2011,Spanish
+7,7,Joaquín,ESP,M,1.79,75,21-07-81,Puerto de Santa Maria,Valencia,Málaga,2011,Spanish
+8,8,Jérémy Toulalan,FRA,M,1.83,77,10-09-83,Nantes,Lyon,Málaga,2011,Spanish
+9,9,Ruud van Nistelrooy,NED,F,1.88,80,01-07-76,Geffen,Hamburg,Málaga,2011,Spanish
+11,11,Sebastián Fernández,URU,F,1.67,69,23-05-85,Montevideo,Banfield,Málaga,2011,Spanish
+12,12,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera,Villarreal,Málaga,2011,Spanish
+13,13,Wilfredo Caballero,ARG,G,1.85,83,28-09-81,Salta Elena,Elche,Málaga,2011,Spanish
+14,14,Joris Mathijsen,NED,D,1.83,82,05-04-80,Goirle,Hamburg,Málaga,2011,Spanish
+15,15,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona,Osasuna,Málaga,2011,Spanish
+16,16,Enzo Maresca,ITA,M,1.80,77,10-02-80,Salerno,Olympiakos,Málaga,2011,Spanish
+17,17,Duda,POR,M,1.80,76,27-06-80,Lisbon,Sevilla,Málaga,2011,Spanish
+18,18,Eliseu,POR,F,1.75,75,01-10-83,Acoras,Lazio,Málaga,2011,Spanish
+19,19,Júlio Baptista,BRA,M,1.83,72,01-10-81,São Paulo,Roma,Málaga,2011,Spanish
+20,20,Diego Buonanotte,ARG,M,1.60,56,19-04-88,Teodelina,River Plate,Málaga,2011,Spanish
+21,21,Sergio Sánchez,ESP,D,1.85,78,03-04-86,Matarò,Sevilla,Málaga,2011,Spanish
+22,22,Isco,ESP,F,1.76,80,21-04-92,Valencia,Valencia B,Málaga,2011,Spanish
+23,23,José Salomón Rondón,VEN,F,1.90,86,16-09-89,Caracas,Las Palmas,Málaga,2011,Spanish
+25,25,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala,Espanyol,Málaga,2011,Spanish
+26,26,Juanmi,ESP,F,1.69,63,20-05-93,Coín,Málaga Juvenil,Málaga,2011,Spanish
+27,27,Francisco Portillo,ESP,M,1.69,63,13-06-90,Málaga,Málaga B,Málaga,2011,Spanish
+28,28,Recio,ESP,M,1.83,74,11-01-91,Málaga,Málaga B,Málaga,2011,Spanish
+31,31,Samu,ESP,F,1.79,73,13-07-90,Málaga,Málaga B,Málaga,2011,Spanish
+33,33,Juanillo,ESP,M,1.73,63,07-04-91,Málaga,Málaga B,Málaga,2011,Spanish
+35,35,Pol Freixanet,ESP,G,1.91,80,22-08-91,Manresa,Málaga B,Málaga,2011,Spanish
+41,45,Paco Aguza,ESP,D,1.87,81,09-11-89,Don Benito,Málaga B,Málaga,2011,Spanish
+42,46,Adrián,ESP,M,1.65,63,01-08-88,Málaga,Málaga B,Málaga,2011,Spanish
+43,49,Víctor Ruiz,ESP,D,1.75,71,12-04-95,Málaga,Málaga B,Málaga,2011,Spanish
+44,50,Toni,ESP,G,1.87,81,14-06-93,Barcelona,Málaga B,Málaga,2011,Spanish
+1,1,Juan Catalayud,ESP,G,1.91,85,21-12-79,Málaga,Hércules,Mallorca,2011,Spanish
+2,2,Gianni Zuiverloon,NED,D,1.78,70,30-12-86,Rotterdam,WBA,Mallorca,2011,Spanish
+3,3,João Victor,BRA,M,1.81,77,07-11-88,Olinda,Bunyodkor,Mallorca,2011,Spanish
+4,4,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla,Mallorca B,Mallorca,2011,Spanish
+5,5,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid,Mallorca B,Mallorca,2011,Spanish
+7,7,Michael Pereira,FRA,M,1.80,69,08-12-87,Paris,Mallorca B,Mallorca,2011,Spanish
+8,8,Emilio Nsue,ESP,F,1.78,75,30-09-89,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+9,9,Marvin Ogunjimi,BEL,F,1.84,79,12-10-87,Mechelen,KRC Genk,Mallorca,2011,Spanish
+10,10,Tomer Hemed,ISR,F,1.85,80,02-05-87,Haifa,Maccabi Haifa,Mallorca,2011,Spanish
+11,11,Gonzalo Castro,URU,M,1.76,70,14-09-84,Trinidad,Nacional [URU],Mallorca,2011,Spanish
+12,12,Chico,ESP,D,1.87,75,06-03-87,Cádiz,Genoa,Mallorca,2011,Spanish
+13,13,Dudu Aouate,ISR,G,1.88,84,17-10-77,Haifa,Deportivo La Coruña,Mallorca,2011,Spanish
+15,15,Pablo Cáceres,URU,D,1.81,75,22-04-85,Montevideo,Tigre,Mallorca,2011,Spanish
+16,16,José Nunes,POR,D,1.85,82,07-03-77,Castelo de Pavia,Sporting Braga,Mallorca,2011,Spanish
+18,18,Víctor,ESP,F,1.80,77,28-02-85,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+19,19,José Luis Martí,ESP,M,1.80,74,28-04-75,Palma de Mallorca,Sevilla,Mallorca,2011,Spanish
+21,21,Martí Crespi,ESP,D,1.81,78,15-06-87,Mallorca,Mallorca B,Mallorca,2011,Spanish
+22,22,Pau Cendrós,ESP,D,1.76,71,01-04-87,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+23,23,Fernando Tissone,ARG,M,1.82,75,24-07-86,Quilmes,Sampdoria,Mallorca,2011,Spanish
+24,24,Alejandro Alfaro,ESP,M,1.73,68,23-11-86,La Palma del Condado,Sevilla,Mallorca,2011,Spanish
+26,26,Yeray,ESP,G,1.92,82,10-06-92,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+27,27,Sergio Tejera,ESP,M,1.83,76,28-05-90,Barcelona,Chelsea,Mallorca,2011,Spanish
+28,28,Pedro Bigas,ESP,M,1.81,78,15-05-90,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+29,29,Kevin,ESP,D,1.77,72,08-09-89,Peguera,Mallorca B,Mallorca,2011,Spanish
+30,30,Álvaro,ESP,F,1.82,80,19-05-91,Elche,Mallorca B,Mallorca,2011,Spanish
+31,31,Xisco,ESP,M,1.77,74,31-07-89,Palma de Mallorca,Mallorca B,Mallorca,2011,Spanish
+32,32,Pablo Marí,ESP,D,1.91,87,31-08-93,Valencia,Mallorca B,Mallorca,2011,Spanish
+33,33,Abdón,ESP,F,1.78,76,17-12-92,Arta,Mallorca B,Mallorca,2011,Spanish
+34,34,Tià Sastre,ESP,M,1.74,68,22-06-94,Vilafranca,Mallorca B,Mallorca,2011,Spanish
+35,35,Biel Company,ESP,D,1.76,73,16-02-92,Maria de la Salut,Mallorca B,Mallorca,2011,Spanish
+1,1,Ricardo,ESP,G,1.87,88,30-12-71,Madrid,Manchester U,Osasuna,2011,Spanish
+2,2,Marc Bertrán,ESP,D,1.81,78,22-05-82,Barcelona,Tenerife,Osasuna,2011,Spanish
+3,3,Rubén González,ESP,D,1.87,75,29-01-82,Santiago de Compostela,Mallorca,Osasuna,2011,Spanish
+4,4,Miguel Flaño,ESP,D,1.77,72,19-08-84,Pamplona,Osasuna B,Osasuna,2011,Spanish
+5,5,Lolo,ESP,D,1.82,80,22-08-84,Huelva,Sevilla,Osasuna,2011,Spanish
+6,6,Javad Nekounam,IRN,M,1.86,78,07-09-80,Shar Rey,Sharjah FC,Osasuna,2011,Spanish
+7,7,Kike Sola,ESP,F,1.84,84,25-02-86,Tudela,Osasuna B,Osasuna,2011,Spanish
+8,8,Masoud Shojaei,IRN,M,1.84,73,09-06-84,Shiraz,Al Sharjah,Osasuna,2011,Spanish
+9,9,Dejan Lekić,SRB,F,1.93,88,07-06-85,Kraljevo,Crvena Zvezda,Osasuna,2011,Spanish
+10,10,Patxi Puñal,ESP,M,1.79,73,06-09-75,Pamplona,Leganés,Osasuna,2011,Spanish
+11,11,Javier Calleja,ESP,M,1.72,70,12-05-78,Madrid,Málaga,Osasuna,2011,Spanish
+12,12,Ion Echaide,ESP,D,1.79,78,05-01-88,Pamplona,Osasuna B,Osasuna,2011,Spanish
+13,13,Asier Riesgo,ESP,G,1.85,70,06-10-83,Deba,Real Sociedad,Osasuna,2011,Spanish
+14,14,Raúl García,ESP,M,1.83,80,11-07-86,Pamplona,Atlético Madrid,Osasuna,2011,Spanish
+15,15,Rovérsio,BRA,D,1.87,70,17-01-84,Igrassú,Paços de Ferreira,Osasuna,2011,Spanish
+16,16,Álvaro Cejudo,ESP,M,1.80,72,29-01-84,Puente Genil,Las Palmas,Osasuna,2011,Spanish
+17,17,Nino,ESP,F,1.69,68,10-06-80,Almería,Tenerife,Osasuna,2011,Spanish
+18,18,Xavier Annunziata,ESP,M,1.74,63,31-08-87,Santa Cruz de Tenerife,Osasuna B,Osasuna,2011,Spanish
+19,19,Ibrahima Baldé,SEN,F,1.87,80,01-09-90,Pikine,Atlético Madrid B,Osasuna,2011,Spanish
+20,20,Jukka Raitala,FIN,D,1.80,77,15-09-88,Kerava,1899 Hoffenheim,Osasuna,2011,Spanish
+21,21,Roland Lamah,BEL,F,1.80,71,31-12-87,Liège,Le Mans,Osasuna,2011,Spanish
+22,22,David Tímor,ESP,M,1.85,77,17-10-89,Valencia,Valencia B,Osasuna,2011,Spanish
+23,23,Sergio Fernández,ESP,D,1.91,81,23-05-77,Avilés,Zaragoza,Osasuna,2011,Spanish
+24,24,Damiá,ESP,D,1.88,77,15-04-82,Figueras,Betis,Osasuna,2011,Spanish
+25,25,Andrés Fernández,ESP,G,1.84,86,17-12-86,Murcia,Mallorca B,Osasuna,2011,Spanish
+27,27,Eneko Satrústegui,ESP,D,1.85,73,25-09-90,Pamplona,Osasuna B,Osasuna,2011,Spanish
+28,28,Sergio Postigo,ESP,D,,,04-11-88,Madrid,Leganés,Osasuna,2011,Spanish
+29,29,Marcos Pérez,ESP,D,1.74,72,30-09-89,Lucena,Osasuna B,Osasuna,2011,Spanish
+30,30,Manuel Onwu,ESP,F,1.85,75,11-01-88,Tudela,Osasuna B,Osasuna,2011,Spanish
+31,31,Roberto Torres,ESP,M,1.76,69,07-03-89,Pamplona,Osasuna B,Osasuna,2011,Spanish
+32,32,Joaquín Calderón,ESP,M,1.69,70,10-10-88,Elche,Alavés,Osasuna,2011,Spanish
+33,33,Gonzalo,ESP,D,1.85,80,20-10-88,Cartagena,Albacete B,Osasuna,2011,Spanish
+34,34,Raoul Loé,CMR,M,1.92,83,31-01-89,Courbevoie,Osasuna B,Osasuna,2011,Spanish
+35,35,José Manuel Hermosa,ESP,M,1.78,68,23-04-89,Villajoyosa,Atlético Madrid B,Osasuna,2011,Spanish
+1,1,Mario Fernández,ESP,G,1.84,74,30-04-88,Santander,Racing B,Racing Santander,2011,Spanish
+2,2,José Picón,ESP,D,1.82,67,13-05-88,Santander,Racing B,Racing Santander,2011,Spanish
+3,3,Christian,ESP,D,1.82,77,15-10-85,Santander,Racing B,Racing Santander,2011,Spanish
+4,4,Osmar Barba,ESP,D,1.92,84,08-06-88,Santoña,Racing B,Racing Santander,2011,Spanish
+5,5,Papakouli Diop,SEN,M,1.80,73,19-03-86,Kaolack,Nàstic,Racing Santander,2011,Spanish
+6,6,Domingo Cisma,ESP,D,1.84,76,09-02-82,Seville,Almería,Racing Santander,2011,Spanish
+7,7,Manuel Arana,ESP,M,1.75,72,03-12-84,Seville,Castellón,Racing Santander,2011,Spanish
+8,8,Gonzalo Colsa,ESP,M,1.85,77,11-05-79,Ramales de la Victoria,Atlético Madrid,Racing Santander,2011,Spanish
+9,9,Lautaro Acosta,ARG,M,1.68,68,14-03-88,Glew,Sevilla,Racing Santander,2011,Spanish
+10,10,Pedro Munitis,ESP,F,1.67,70,19-06-75,Santander,Deportivo La Coruña,Racing Santander,2011,Spanish
+13,13,Toño,ESP,G,1.82,81,17-12-79,Alicante,Recreativo Huelva,Racing Santander,2011,Spanish
+14,14,Álvaro González,ESP,D,1.80,68,08-01-90,Potes,Racing B,Racing Santander,2011,Spanish
+15,15,Francis,ESP,M,1.79,70,17-12-81,Barbate,Xerez,Racing Santander,2011,Spanish
+16,16,Kennedy Bakırcıoğlu,SWE,M,1.81,71,02-11-80,Södertälje,Ajax,Racing Santander,2011,Spanish
+17,17,Julián Luque,ESP,F,1.75,73,27-03-92,Torrelavega,Racing B,Racing Santander,2011,Spanish
+18,18,Bernardo Espinosa,COL,D,1.92,86,11-07-89,Cali,Sevilla,Racing Santander,2011,Spanish
+19,19,Marc Torrejón,ESP,D,1.87,87,18-02-86,Barcelona,Espanyol,Racing Santander,2011,Spanish
+20,20,Edu Bedia,ESP,M,1.84,74,23-03-89,Santander,Racing B,Racing Santander,2011,Spanish
+21,21,Marcos Gullón,ESP,M,1.85,79,20-02-89,Madrid,Villarreal B,Racing Santander,2011,Spanish
+22,22,Christian Stuani,URU,F,1.85,74,12-10-86,Tala,Reggina,Racing Santander,2011,Spanish
+23,23,Adrián González,ESP,M,1.83,76,25-05-88,Madrid,Getafe,Racing Santander,2011,Spanish
+26,26,César de la Hoz,ESP,M,1.79,70,30-03-92,Orejo,Racing B,Racing Santander,2011,Spanish
+27,27,Borja Docal,ESP,M,1.75,65,03-10-91,Santander,Racing B,Racing Santander,2011,Spanish
+28,28,Borja García,ESP,D,1.80,74,07-01-90,Laredo,Racing B,Racing Santander,2011,Spanish
+29,29,Jairo,ESP,M,1.70,65,11-07-93,Cabezón de la Sal,Racing B,Racing Santander,2011,Spanish
+30,30,Javi Martínez,ESP,F,1.82,76,05-09-89,Nájera,Racing B,Racing Santander,2011,Spanish
+31,31,Dani Sotres,ESP,G,1.82,78,21-05-93,Santiago de Cudeyo,Racing B,Racing Santander,2011,Spanish
+32,32,Tato,ESP,M,1.78,69,09-07-92,Santander,Racing B,Racing Santander,2011,Spanish
+33,33,Mamadou Koné,CIV,F,1.77,73,25-12-91,Bingerville,Racing B,Racing Santander,2011,Spanish
+34,34,Javi Barrio,ESP,D,1.85,77,21-05-91,Varea,Racing B,Racing Santander,2011,Spanish
+35,35,Alberto Guitián,ESP,M,1.82,74,29-07-90,Los Corrales de Buelna,Racing B,Racing Santander,2011,Spanish
+36,36,Gonzalo,ESP,D,1.76,72,05-10-89,Santander,Racing B,Racing Santander,2011,Spanish
+37,37,Óscar Santiago,ESP,G,1.83,74,20-01-91,Santander,Racing B,Racing Santander,2011,Spanish
+39,39,Quique Rivero,ESP,M,1.76,70,16-04-92,Cabezón de la Sal,Racing B,Racing Santander,2011,Spanish
+40,40,Jaime Isuardi,ESP,F,1.71,65,02-02-92,Santander,Racing B,Racing Santander,2011,Spanish
+1,1,David Cobeño,ESP,G,1.85,82,06-04-82,Madrid,Sevilla,Rayo Vallecano,2011,Spanish
+2,2,Tito,ESP,D,1.74,62,11-07-85,Madrid,Alcorcón,Rayo Vallecano,2011,Spanish
+3,3,José Manuel Casado,ESP,D,1.73,75,09-08-86,Sevilla,Sevilla B,Rayo Vallecano,2011,Spanish
+4,4,Mikel Labaka,ESP,D,1.85,78,10-08-80,Azpeitia,Real Sociedad,Rayo Vallecano,2011,Spanish
+5,5,Alejandro Arribas,ESP,D,1.82,75,01-05-89,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+7,7,José Maria Movilla,ESP,M,1.71,70,08-02-75,Madrid,Murcia,Rayo Vallecano,2011,Spanish
+8,8,Michel,ESP,M,1.74,66,30-10-75,Madrid,Murcia,Rayo Vallecano,2011,Spanish
+9,9,Raúl Tamudo,ESP,F,1.80,74,19-10-77,Santa Coloma,Real Sociedad,Rayo Vallecano,2011,Spanish
+10,10,Piti,ESP,F,1.74,69,26-05-81,Barcelona,Hércules,Rayo Vallecano,2011,Spanish
+11,11,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón,Sevilla,Rayo Vallecano,2011,Spanish
+12,12,Jorge Pulido,ESP,D,1.81,72,08-04-91,Talavera de la Reina,Atlético Madrid,Rayo Vallecano,2011,Spanish
+13,13,Dani Giménez,ESP,G,1.82,77,30-07-83,Vigo,Zamora,Rayo Vallecano,2011,Spanish
+15,15,Raúl Bravo,ESP,D,1.76,62,14-04-81,Gandia,Olympiakos,Rayo Vallecano,2011,Spanish
+17,17,Roberto Trashorras,ESP,M,1.79,71,28-02-81,Rabade,Celta Vigo,Rayo Vallecano,2011,Spanish
+18,18,Javi Fuego,ESP,M,1.81,74,04-01-84,Pola di Siero,Recreativo Huelva,Rayo Vallecano,2011,Spanish
+19,19,Diego Costa,BRA,F,1.86,78,07-10-88,Lagarto,Atlético Madrid,Rayo Vallecano,2011,Spanish
+20,20,Michu,ESP,M,1.85,80,21-03-86,Oviedo,Celta Vigo,Rayo Vallecano,2011,Spanish
+22,22,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão,São José,Rayo Vallecano,2011,Spanish
+23,23,Andrija Delibaić,MNE,F,1.87,84,24-04-81,Nikić,Hércules,Rayo Vallecano,2011,Spanish
+24,24,Daniel Pacheco,ESP,F,1.68,67,05-01-91,Málaga,Atlético Madrid,Rayo Vallecano,2011,Spanish
+25,25,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés,Atlético Madrid,Rayo Vallecano,2011,Spanish
+26,26,Ismael,ESP,G,1.85,80,23-01-89,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+27,27,Alhassane Bangoura,GUI,F,1.74,71,30-03-92,Conakry,Rayo B,Rayo Vallecano,2011,Spanish
+28,28,José Manuel Alcañiz,ESP,D,1.80,75,12-07-90,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+29,29,Diego Benito,ESP,M,1.78,70,25-08-88,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+32,32,Pape Maly Diamanka,SEN,M,1.84,76,10-01-90,Dakar,Rayo B,Rayo Vallecano,2011,Spanish
+33,33,Alberto Perea,ESP,F,1.80,83,16-05-90,Albacete,Atlético Madrid B,Rayo Vallecano,2011,Spanish
+35,35,Jorge Sáez,ESP,M,1.65,57,05-05-90,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+36,36,Nono,ESP,F,1.70,62,28-05-91,Badajoz,Rayo B,Rayo Vallecano,2011,Spanish
+38,38,Róber,ESP,D,1.82,76,29-09-92,Badajoz,Rayo B,Rayo Vallecano,2011,Spanish
+39,39,Aitor Núñez,ESP,D,1.78,70,02-10-87,Madrid,Rayo B,Rayo Vallecano,2011,Spanish
+1,1,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+2,2,Ricardo Carvalho,POR,D,1.83,76,18-05-78,Amarante,Chelsea,Real Madrid,2011,Spanish
+3,3,Pepe,POR,D,1.86,72,26-02-83,Maceió,FC Porto,Real Madrid,2011,Spanish
+4,4,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas,Sevilla,Real Madrid,2011,Spanish
+5,5,Nuri Şahin,TUR,M,1.80,73,05-09-88,Lüdenscheid,Borussia Dortmund,Real Madrid,2011,Spanish
+6,6,Sami Khedira,GER,M,1.89,83,04-04-87,Stuttgart,Stuttgart,Real Madrid,2011,Spanish
+7,7,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal,Manchester U,Real Madrid,2011,Spanish
+8,8,Kaká,BRA,M,1.86,83,22-04-82,Brasília,Milan,Real Madrid,2011,Spanish
+9,9,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon,Lyon,Real Madrid,2011,Spanish
+10,10,Mesut Özil,GER,M,1.82,73,15-10-88,Gelsenkirchen,Werder Bremen,Real Madrid,2011,Spanish
+11,11,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid,Getafe,Real Madrid,2011,Spanish
+12,12,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro,Fluminense,Real Madrid,2011,Spanish
+13,13,Antonio Adán,ESP,G,1.89,91,13-05-87,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+14,14,Xabi Alonso,ESP,M,1.83,75,25-11-81,Tolosa,Liverpool,Real Madrid,2011,Spanish
+15,15,Fábio Coentrão,POR,D,1.78,66,11-03-88,Vila do Conde,Benfica,Real Madrid,2011,Spanish
+16,16,Hamit Altıntop,TUR,M,1.83,82,08-12-82,Gelsenkirchen,Bayern Munich,Real Madrid,2011,Spanish
+17,17,Álvaro Arbeloa,ESP,D,1.83,76,17-01-83,Salamanca,Liverpool,Real Madrid,2011,Spanish
+18,18,Raúl Albiol,ESP,D,1.87,74,04-09-85,Valencia,Valencia,Real Madrid,2011,Spanish
+19,19,Raphaël Varane,FRA,D,1.91,76,25-04-93,Lille,Lens,Real Madrid,2011,Spanish
+20,20,Gonzalo Higuaín,ARG,F,1.84,75,10-12-87,Brest,River Plate,Real Madrid,2011,Spanish
+21,21,José Callejón,ESP,F,1.79,73,11-02-87,Motril,Espanyol,Real Madrid,2011,Spanish
+22,22,Ángel Di Maria,ARG,M,1.78,75,14-02-88,Rosario,Benfica,Real Madrid,2011,Spanish
+24,24,Lassana Diarra,FRA,M,1.73,68,10-03-85,Paris,Portsmouth,Real Madrid,2011,Spanish
+26,26,Álvaro Morata,ESP,F,1.87,80,23-10-92,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+27,27,Nacho Fernández,ESP,D,1.80,74,18-01-90,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+28,28,Jesé,ESP,F,1.78,72,26-02-93,Las Palmas,Real Madrid B,Real Madrid,2011,Spanish
+29,29,Joselu,ESP,F,1.91,79,27-03-90,Stuttgart,Celta Vigo B,Real Madrid,2011,Spanish
+30,30,Álex Fernández,ESP,M,1.80,68,15-10-92,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+31,31,Fernando Pacheco,ESP,G,1.87,81,18-05-92,Badajoz,Real Madrid C,Real Madrid,2011,Spanish
+33,33,Mandi,ESP,M,1.78,74,01-03-89,Las Palmas,Real Madrid B,Real Madrid,2011,Spanish
+34,34,Pedro Mendes,POR,D,1.84,69,01-10-90,Queluz,Sporting CP,Real Madrid,2011,Spanish
+35,35,Jesús Fernández,ESP,G,1.89,79,11-06-88,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+36,36,Daniel Carvajal,ESP,D,1.73,70,11-01-92,Leganés,Real Madrid B,Real Madrid,2011,Spanish
+38,38,Jorge Casado,ESP,D,1.83,77,26-06-89,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+40,40,Andy,ESP,M,1.85,79,30-01-90,Granada,Real Madrid B,Real Madrid,2011,Spanish
+41,52,Tomás Mejías,ESP,G,1.94,81,30-01-89,Madrid,Real Madrid B,Real Madrid,2011,Spanish
+1,1,Claudio Bravo,CHI,G,1.84,84,13-04-83,Viluco,Colo-Colo,Real Sociedad,2011,Spanish
+2,2,Carlos Martínez,ESP,D,1.88,78,09-04-86,Estella,Real Sociedad B,Real Sociedad,2011,Spanish
+3,3,Mikel González,ESP,D,1.88,78,24-09-85,Mondragón,Real Sociedad B,Real Sociedad,2011,Spanish
+4,4,Gorka Elustondo,ESP,M,1.82,73,18-03-87,Beasain,Real Sociedad B,Real Sociedad,2011,Spanish
+5,5,Markel Bergara,ESP,M,1.80,74,05-05-86,Elgoibar,Real Sociedad B,Real Sociedad,2011,Spanish
+6,6,Íñigo Martínez,ESP,D,1.76,62,17-05-91,Ondarroa,Real Sociedad B,Real Sociedad,2011,Spanish
+7,7,Antoine Griezmann,FRA,F,1.74,72,21-03-91,Maçon,Real Sociedad B,Real Sociedad,2011,Spanish
+8,8,Joseba Llorente,ESP,F,1.84,72,24-11-79,Hondarribia,Villarreal,Real Sociedad,2011,Spanish
+9,9,Imanol Agirretxe,ESP,F,1.85,74,24-02-87,Usurbil,Real Sociedad B,Real Sociedad,2011,Spanish
+10,10,Xabi Prieto,ESP,M,1.85,77,29-08-83,San Sebastián,Real Sociedad B,Real Sociedad,2011,Spanish
+11,11,Mikel Aranburu,ESP,M,1.80,70,18-02-79,Azpeitia,Real Sociedad B,Real Sociedad,2011,Spanish
+13,13,Eñaut Zubikarai,ESP,G,1.85,73,26-02-84,Ondarroa,Real Sociedad B,Real Sociedad,2011,Spanish
+15,15,Ion Ansotegi,ESP,D,1.92,84,13-07-82,Berriatua,Real Sociedad B,Real Sociedad,2011,Spanish
+16,16,Vladim Demidov,NOR,D,1.85,73,10-10-86,Riga,Rosenborg,Real Sociedad,2011,Spanish
+17,17,David Zurutuza,ESP,M,1.84,70,19-07-86,Rochefort,Real Sociedad B,Real Sociedad,2011,Spanish
+19,19,Liassine Cadamuro,ALG,D,1.86,76,05-03-88,Toulouse,Real Sociedad B,Real Sociedad,2011,Spanish
+20,20,Asier Illarramendi,ESP,M,1.77,74,08-03-90,Mutriku,Real Sociedad B,Real Sociedad,2011,Spanish
+21,21,Diego Ifrán,URU,F,1.71,69,08-06-87,Montevideo,Danubio,Real Sociedad,2011,Spanish
+22,22,Dani Estrada,ESP,M,1.77,68,03-01-87,Zarautz,Real Sociedad B,Real Sociedad,2011,Spanish
+23,23,Carlos Vela,MEX,F,1.76,72,01-03-89,Cancún,Arsenal,Real Sociedad,2011,Spanish
+24,24,Alberto De La Bella,ESP,M,1.79,72,02-12-85,Santa Coloma de Gramanet,Sevilla B,Real Sociedad,2011,Spanish
+25,25,Toño Ramírez,ESP,G,1.89,83,23-11-86,Logroño,Real Sociedad B,Real Sociedad,2011,Spanish
+27,27,Rubén Pardo,ESP,M,1.75,70,22-10-92,Logroño,Real Sociedad B,Real Sociedad,2011,Spanish
+28,28,Iker Hernández,ESP,F,1.81,74,08-04-94,Urnieta,Real Sociedad B,Real Sociedad,2011,Spanish
+29,29,Javi Ros,ESP,M,1.72,67,16-02-90,Pamplona,Real Sociedad B,Real Sociedad,2011,Spanish
+1,1,Andrés Palop,ESP,G,1.84,75,22-10-73,Valencia,Valencia,Sevilla,2011,Spanish
+2,2,Federico Fazio,ARG,D,1.95,85,17-03-87,Buenos Aires,Ferrocarril Oeste,Sevilla,2011,Spanish
+3,3,Fernando Navarro,ESP,D,1.78,70,25-06-82,Barcelona,Mallorca,Sevilla,2011,Spanish
+6,6,Emir Spahić,BIH,D,1.83,77,18-08-80,Dubrovnik,Montpellier,Sevilla,2011,Spanish
+7,7,Jesús Navas,ESP,M,1.70,60,21-11-85,Los Palacios,Sevilla B,Sevilla,2011,Spanish
+8,8,Gary Medel,CHI,M,1.72,71,03-08-87,Santiago,Universidad Católica,Sevilla,2011,Spanish
+9,9,Álvaro Negredo,ESP,F,1.86,85,20-08-85,Madrid,Real Madrid,Sevilla,2011,Spanish
+10,10,Diego Perotti,ARG,F,1.75,67,26-07-88,Moreno,Deportivo Morón,Sevilla,2011,Spanish
+11,11,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden,Schalke,Sevilla,2011,Spanish
+12,12,Frédéric Kanouté,MLI,F,1.92,82,02-09-77,Sainte-Foy-le-Grande,Tottenham H,Sevilla,2011,Spanish
+13,13,Javi Varas,ESP,G,1.82,73,10-09-82,Seville,Sevilla B,Sevilla,2011,Spanish
+14,14,Julien Escudé,FRA,D,1.83,79,17-08-79,Chartres,Ajax,Sevilla,2011,Spanish
+15,15,Piotr Trochowski,GER,M,1.69,70,22-03-84,Dirschau,Hamburg,Sevilla,2011,Spanish
+16,16,José Campaña,ESP,M,1.76,55,30-05-93,Seville,Sevilla B,Sevilla,2011,Spanish
+17,17,Tiberio Guarente,ITA,M,1.82,74,01-11-85,Pisa,Atalanta,Sevilla,2011,Spanish
+19,19,Antonio Luna,ESP,D,1.77,68,17-03-91,Son Servera,Sevilla B,Sevilla,2011,Spanish
+20,20,Manu del Moral,ESP,F,1.86,77,25-02-84,Jaén,Getafe,Sevilla,2011,Spanish
+21,21,José Antonio Reyes,ESP,M,1.76,76,01-09-83,Utrera,Atlético Madrid,Sevilla,2011,Spanish
+23,23,Coke,ESP,D,1.82,78,26-04-87,Madrid,Rayo Vallecano,Sevilla,2011,Spanish
+24,24,Tom De Mul,BEL,M,1.78,67,04-03-86,Kapellen,Ajax,Sevilla,2011,Spanish
+25,25,Baba Diawara,SEN,F,1.85,79,05-01-88,Dakar,Marítimo,Sevilla,2011,Spanish
+26,26,Luis Alberto,ESP,F,1.82,70,28-09-92,Jerez de la Frontera,Sevilla C,Sevilla,2011,Spanish
+27,27,Salva,ESP,M,1.85,81,01-08-90,Seville,Seville B,Sevilla,2011,Spanish
+28,28,Hiroshi Ibusuki,JPN,F,1.93,83,27-02-91,Nagareyama,Girona,Sevilla,2011,Spanish
+29,29,Dani Jiménez,ESP,G,1.79,72,05-03-90,Lebrija,Sevilla B,Sevilla,2011,Spanish
+30,30,Sergio Rico,ESP,G,1.94,88,01-09-93,Seville,Sevilla B,Sevilla,2011,Spanish
+31,31,Cala,ESP,D,1.85,78,26-11-89,Lebrija,Sevilla B,Sevilla,2011,Spanish
+32,32,Julián,ESP,G,1.95,91,28-03-91,Granada,Sevilla B,Sevilla,2011,Spanish
+33,33,Samu,ESP,D,1.82,80,15-02-92,Seville,Sevilla B,Sevilla,2011,Spanish
+34,34,Deivid,ESP,D,1.88,72,27-01-89,Las Palmas,Sevilla B,Sevilla,2011,Spanish
+36,36,Alberto Moreno,ESP,D,1.71,64,05-07-92,Seville,Sevilla B,Sevilla,2011,Spanish
+1,1,Juan Pablo,ESP,G,1.87,83,02-09-78,León,Numancia,Sporting Gijón,2011,Spanish
+2,2,Alberto Botía,ESP,D,1.87,75,27-01-89,Alquerias,Barcelona B,Sporting Gijón,2011,Spanish
+3,3,André Castro,POR,M,1.79,75,02-04-88,Gondomar,FC Porto,Sporting Gijón,2011,Spanish
+5,5,Alberto Rivera,ESP,M,1.70,68,19-02-78,Puertollano,Betis,Sporting Gijón,2011,Spanish
+6,6,Carmelo,ESP,M,1.80,70,09-07-83,Las Palmas,Levante,Sporting Gijón,2011,Spanish
+7,7,Ayoze,ESP,M,1.72,64,22-11-85,Puerto de La Cruz,Tenerife,Sporting Gijón,2011,Spanish
+8,8,Sebastián Eguren,URU,M,1.86,84,08-01-81,Montevideo,Villarreal,Sporting Gijón,2011,Spanish
+9,9,Mate Bilić,CRO,F,1.85,81,23-10-80,Split,Rapid Vienna,Sporting Gijón,2011,Spanish
+11,11,Alberto Lora,ESP,M,1.68,67,25-03-87,Móstoles,Sporting Gijón B,Sporting Gijón,2011,Spanish
+12,12,Gregory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan,Vitória Guimarães,Sporting Gijón,2011,Spanish
+13,13,Raúl,ESP,G,1.81,75,01-11-86,San Román de Cayón,Sporting Gijón B,Sporting Gijón,2011,Spanish
+14,14,Iván Hernández,ESP,M,1.85,80,27-02-80,Madrid,Valladolid,Sporting Gijón,2011,Spanish
+15,15,Roberto Canella,ESP,M,1.80,68,07-02-88,Pola de Laviana,Sporting Gijón B,Sporting Gijón,2011,Spanish
+16,16,Sergio Álvarez,ESP,M,1.80,65,23-01-92,Avilés,Sporting Gijón B,Sporting Gijón,2011,Spanish
+17,17,Damián Suárez,URU,D,1.73,68,27-04-88,Montevideo,Defensor Sporting,Sporting Gijón,2011,Spanish
+18,18,Adrián Colunga,ESP,F,1.72,70,17-11-84,Oviedo,Getafe,Sporting Gijón,2011,Spanish
+19,19,Gastón Sangoy,ARG,F,1.78,79,05-10-84,Paraná,Apollon Limassol,Sporting Gijón,2011,Spanish
+20,20,Miguel de las Cuevas,ESP,M,1.75,70,19-06-86,Alicante,Atlético Madrid,Sporting Gijón,2011,Spanish
+21,21,Nacho Cases,ESP,M,1.74,64,22-12-87,Gijón,Sporting Gijón B,Sporting Gijón,2011,Spanish
+22,22,Ricardo,ESP,M,1.86,67,08-02-83,Santa Cruz de Tenerife,Tenerife,Sporting Gijón,2011,Spanish
+23,23,David Barral,ESP,F,1.83,78,10-05-83,Cádiz,Real Madrid B,Sporting Gijón,2011,Spanish
+24,24,Óscar Trejo,ARG,F,1.80,79,26-04-88,Santiago del Estero,Mallorca,Sporting Gijón,2011,Spanish
+25,25,Iván Cuéllar,ESP,G,1.85,75,25-05-84,Mérida,Atlético Madrid,Sporting Gijón,2011,Spanish
+26,26,Pedro Orfila,ESP,D,1.75,67,06-03-88,Luanco,Sporting Gijón B,Sporting Gijón,2011,Spanish
+28,28,Juan Muñiz,ESP,M,1.78,74,13-03-92,Gijón,Sporting Gijón B,Sporting Gijón,2011,Spanish
+29,29,Alain,ESP,D,1.84,73,13-11-89,Gijón,Sporting Gijón B,Sporting Gijón,2011,Spanish
+30,30,Álex Barrera,ESP,M,1.90,78,12-05-91,Oviedo,Sporting Gijón B,Sporting Gijón,2011,Spanish
+31,31,Álex Menéndez,ESP,F,1.81,67,15-07-91,Gijón,Sporting Gijón B,Sporting Gijón,2011,Spanish
+32,32,Formose Mendy,SEN,F,1.83,76,23-03-89,Guédiawaye,Sporting Gijón B,Sporting Gijón,2011,Spanish
+33,33,Alejandro Gálvez,ESP,D,1.90,84,06-06-89,Granada,Sporting Gijón B,Sporting Gijón,2011,Spanish
+34,34,Dennis,ESP,G,1.82,65,08-08-92,Mieres,Sporting Gijón B,Sporting Gijón,2011,Spanish
+35,35,Moisés García,ESP,D,1.83,78,31-10-89,Seville,Sevilla B,Sporting Gijón,2011,Spanish
+1,1,Diego Alves,BRA,G,1.88,83,24-06-85,Rio de Janeiro,Almeríá,Valencia,2011,Spanish
+2,2,Bruno Saltor,ESP,D,1.81,76,01-10-80,Barcelona,Almería,Valencia,2011,Spanish
+3,3,Hedwiges Maduro,NED,M,1.85,79,13-02-85,Almere,Ajax,Valencia,2011,Spanish
+4,4,Adil Rami,FRA,D,1.90,90,27-12-85,Bastia,Lille,Valencia,2011,Spanish
+5,5,Mehmet Topal,TUR,M,1.87,76,03-03-86,Malatya,Galatasaray,Valencia,2011,Spanish
+6,6,David Albelda,ESP,M,1.81,77,01-09-77,Alzira,Valencia  B,Valencia,2011,Spanish
+7,7,Jonas,BRA,F,1.83,73,01-04-84,Bebedouro,Grêmio,Valencia,2011,Spanish
+8,8,Sofiane Feghouli,ALG,M,1.78,71,26-12-89,Levallois-Perret,Grenoble,Valencia,2011,Spanish
+9,9,Roberto Soldado,ESP,F,1.79,81,27-05-85,Valencia,Getafe,Valencia,2011,Spanish
+10,10,Éver Banega,ARG,M,1.74,69,29-06-88,Rosario,Boca Juniors,Valencia,2011,Spanish
+11,11,Aritz Aduriz,ESP,F,1.77,75,11-02-81,San Sebastián,Mallorca,Valencia,2011,Spanish
+12,12,Antonio Barragán,ESP,D,1.82,76,12-06-87,Pontedeume,Valladolid,Valencia,2011,Spanish
+13,13,Vicente Guaita,ESP,G,1.90,80,18-02-87,Valencia,Valencia B,Valencia,2011,Spanish
+14,14,Pablo Piatti,ARG,F,1.63,63,31-03-89,La Carlota,Almeríá,Valencia,2011,Spanish
+15,15,Ángel Dealbert,ESP,D,1.85,78,01-01-83,Castellón,Castellón,Valencia,2011,Spanish
+16,16,Sergio Canales,ESP,M,1.76,65,16-02-91,Santander,Real Madrid,Valencia,2011,Spanish
+17,17,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat,Valencia B,Valencia,2011,Spanish
+18,18,Víctor Ruíz,ESP,D,1.84,73,25-01-89,Esplugues de Llobregat,Napoli,Valencia,2011,Spanish
+19,19,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón,Getafe,Valencia,2011,Spanish
+20,20,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia,Lille,Valencia,2011,Spanish
+21,21,Daniel Parejo,ESP,M,1.80,75,16-04-89,Madrid,Getafe,Valencia,2011,Spanish
+22,22,Jérémy Mathieu,FRA,D,1.90,82,29-10-83,Luxeuil-les-Bains,Toulouse,Valencia,2011,Spanish
+23,23,Miguel,POR,D,1.79,78,04-01-80,Lisbon,Benfica,Valencia,2011,Spanish
+24,24,Facundo Alberto Costa,ARG,M,1.76,70,09-01-85,Buenos Aires,Montpellier,Valencia,2011,Spanish
+26,26,Adrián,ESP,G,1.80,74,14-01-93,Godella,Valencia B,Valencia,2011,Spanish
+27,27,Paco Alcácer,ESP,F,1.74,71,30-08-93,Torrent,Valencia B,Valencia,2011,Spanish
+28,28,Juan Bernat,ESP,M,1.72,67,01-03-93,Valencia,Valencia B,Valencia,2011,Spanish
+30,30,Héctor Pizana,ESP,G,,,07-02-95,,Valencia B,Valencia,2011,Spanish
+32,32,Portu,ESP,M,1.70,70,21-05-92,Beniel,Valencia B,Valencia,2011,Spanish
+41,43,Cristiano,POR,G,1.95,90,29-11-90,Satão,Sporting Braga,Valencia,2011,Spanish
+1,1,César Sánchez,ESP,G,1.85,82,02-09-71,Coria,Valencia,Villarreal,2011,Spanish
+2,2,Gonzalo Rodríguez,ARG,D,1.82,79,10-04-84,Buenos Aires,San Lorenzo,Villarreal,2011,Spanish
+3,3,Joan Oriol,ESP,D,1.75,69,05-11-86,Cambrils,Villarreal B,Villarreal,2011,Spanish
+4,4,Mateo Musacchio,ARG,D,1.79,72,26-08-90,Rosario,Villarreal B,Villarreal,2011,Spanish
+5,5,Carlos Marchena,ESP,D,1.83,78,31-07-79,Las Cabezas,Valencia,Villarreal,2011,Spanish
+6,6,Ángel,ESP,D,1.81,71,10-03-81,Santa Lucia de Tirajana,Celta Vigo,Villarreal,2011,Spanish
+7,7,Nilmar,BRA,F,1.80,70,14-07-84,Bandeirantes,Internacional,Villarreal,2011,Spanish
+8,8,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN],Mallorca,Villarreal,2011,Spanish
+9,9,Marco Rubén,ARG,F,1.79,72,26-10-86,Capitán Bermúdez,River Plate,Villarreal,2011,Spanish
+10,10,Cani,ESP,M,1.80,75,03-08-81,Zaragoza,Zaragoza,Villarreal,2011,Spanish
+11,11,Hernán Pérez,PAR,M,1.77,68,25-02-89,Fernando de la Mora,Libertad,Villarreal,2011,Spanish
+12,12,Cristián Zapata,COL,D,1.86,78,30-09-86,Padilla Cauca,Udinese,Villarreal,2011,Spanish
+13,13,Diego López,ESP,G,1.96,88,03-11-81,Paradela,Real Madrid,Villarreal,2011,Spanish
+14,14,Mario,ESP,D,1.75,70,24-11-90,Novelda,Villarreal B,Villarreal,2011,Spanish
+15,15,José Catalá,ESP,D,1.75,72,31-12-84,Villajoyosa,Villarreal B,Villarreal,2011,Spanish
+16,16,Gonzalo Castellani,ARG,M,1.83,75,10-08-87,Capital Federal,Villarreal B,Villarreal,2011,Spanish
+17,17,Javier Camuñas,ESP,M,1.73,71,17-07-80,Madrid,Osasuna,Villarreal,2011,Spanish
+18,18,Wakaso Mubarak,GHA,M,1.65,79,25-07-90,Tamale,Elche,Villarreal,2011,Spanish
+19,19,Marcos Senna,ESP,M,1.77,76,17-07-76,São Paulo,São Caetano,Villarreal,2011,Spanish
+20,20,Borja Valero,ESP,M,1.74,73,12-01-85,Madrid,WBA,Villarreal,2011,Spanish
+21,21,Bruno,ESP,M,1.79,70,12-06-84,Artana,Villarreal B,Villarreal,2011,Spanish
+22,22,Giuseppe Rossi,ITA,F,1.73,73,01-02-87,Clifton,Manchester U,Villarreal,2011,Spanish
+23,23,Alejandro Martinuccio,ARG,F,1.73,72,16-12-87,Capital Federal,Fluminense,Villarreal,2011,Spanish
+31,31,Diego Mariño,ESP,G,1.85,75,09-05-90,Vigo,Villarreal B,Villarreal,2011,Spanish
+33,33,Kiko,ESP,D,1.89,83,21-08-88,Málaga,Villarreal B,Villarreal,2011,Spanish
+35,35,Jorge Palatsí,ESP,G,1.88,81,18-02-88,La Salzadella,Villarreal B,Villarreal,2011,Spanish
+38,38,Florian Lejeune,FRA,D,1.88,81,20-05-91,Paris,Istres,Villarreal,2011,Spanish
+41,41,Joselu,ESP,F,1.77,70,03-03-91,Cartaya,Villarreal B,Villarreal,2011,Spanish
+42,42,Jaume,ESP,D,1.69,67,18-03-88,Valencia,Villarreal B,Villarreal,2011,Spanish
+43,44,Toño,ESP,D,1.79,70,07-11-89,Alcalá de Henares,Villarreal B,Villarreal,2011,Spanish
+44,51,Fernando Llorente,ESP,M,1.79,72,18-09-90,Segovia,Villarreal B,Villarreal,2011,Spanish
+45,52,Manu Trigueros,ESP,F,1.78,70,17-10-91,Talavera de la Reina,Villarreal C,Villarreal,2011,Spanish
+46,53,Pablo Íñiguez,ESP,D,1.83,72,20-01-94,Burgos,Villarreal C,Villarreal,2011,Spanish
+47,54,Moi Gómez,ESP,M,1.74,65,23-06-94,Rojales,Villarreal C,Villarreal,2011,Spanish
+1,1,Roberto,ESP,G,1.88,82,10-02-86,Madrid,Benfica,Zaragoza,2011,Spanish
+2,2,Pablo Álvarez,ARG,D,1.84,82,17-04-84,San Martín,Catania,Zaragoza,2011,Spanish
+3,3,Javier Paredes,ESP,D,1.75,74,05-07-82,Oviedo,Getafe,Zaragoza,2011,Spanish
+4,4,David Mateos,ESP,D,1.90,82,22-04-87,Madrid,Real Madrid,Zaragoza,2011,Spanish
+5,5,Maurizio Lanzaro,ITA,D,1.83,79,14-03-82,Avellino,Reggina,Zaragoza,2011,Spanish
+7,7,Carlos Aranda,ESP,F,1.86,82,27-07-80,Málaga,Levante,Zaragoza,2011,Spanish
+8,8,Edu Oriol,ESP,F,1.74,70,05-11-86,Cambrils,Barcelona B,Zaragoza,2011,Spanish
+9,9,Hélder Postiga,POR,F,1.82,79,02-08-82,Vila do Conde,Sporting CP,Zaragoza,2011,Spanish
+10,10,Luis García,ESP,F,1.80,68,06-02-81,Oviedo,Espanyol,Zaragoza,2011,Spanish
+11,11,Juan Carlos,ESP,M,1.76,68,30-03-90,Madrid,Real Madrid B,Zaragoza,2011,Spanish
+14,14,Paulo da Silva,PAR,D,1.81,76,01-02-80,Asunción,Sunderland,Zaragoza,2011,Spanish
+15,15,Tomislav Dujmović,CRO,M,1.88,87,26-02-81,Zagreb,Dynamo Moscow,Zaragoza,2011,Spanish
+16,16,Pablo Barrera,MEX,M,1.75,65,21-06-87,Tlalnepantla de Baz,West Ham U,Zaragoza,2011,Spanish
+17,17,Ángel Lafita,ESP,M,1.88,75,07-08-84,Zaragoza,Deportivo La Coruña,Zaragoza,2011,Spanish
+18,18,Rúben Micael,POR,M,1.75,73,19-08-86,Câmara de Lobos,Atlético Madrid,Zaragoza,2011,Spanish
+20,20,Franco Zuculini,ARG,M,1.74,69,05-09-90,La Rioja,1899 Hoffenheim,Zaragoza,2011,Spanish
+21,21,Abraham,ESP,D,1.75,71,22-02-86,Granollers,Barcelona B,Zaragoza,2011,Spanish
+22,22,Ádám Pintér,HUN,D,1.90,76,12-06-88,Kaposvár,MTK,Zaragoza,2011,Spanish
+23,23,Apoño,ESP,M,1.73,69,13-02-84,Málaga,Málaga,Zaragoza,2011,Spanish
+24,24,Ivan Obradović,SRB,D,1.81,74,25-07-88,Belgrade,Partizan Belgrade,Zaragoza,2011,Spanish
+25,25,Leo Franco,ARG,G,1.88,79,20-05-77,San Nicolás,Galatasaray,Zaragoza,2011,Spanish
+26,26,Jorge Ortí,ESP,F,1.80,72,28-04-93,Zaragoza,Zaragoza B,Zaragoza,2011,Spanish
+27,27,Joel Valencia,ECU,M,1.64,61,16-11-94,Quinindé,Zaragoza B,Zaragoza,2011,Spanish
+28,28,Ramiro Mayor,ESP,D,1.85,79,09-05-91,Zaragoza,Zaragoza B,Zaragoza,2011,Spanish
+29,29,Kevin Lacruz,ESP,M,1.75,64,13-02-92,Zaragoza,Zaragoza B,Zaragoza,2011,Spanish
+30,30,Pablo Alcolea,ESP,G,1.84,78,23-03-89,Zaragoza,Zaragoza B,Zaragoza,2011,Spanish
+41,42,Kilian,ESP,G,1.88,70,28-09-92,Las Palmas,Zaragoza B,Zaragoza,2011,Spanish

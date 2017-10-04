@@ -1,0 +1,605 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Esteban,ESP,G,1.77,70,27-06-75,Avilés,Celta Vigo,Almería,2013,Spanish
+2,2,Marco Torsiglieri,ARG,D,1.90,77,12-01-88,Castelar,Metalist Kharkiv,Almería,2013,Spanish
+3,3,Marcelo Silva,URU,D,1.85,85,21-03-89,Soriano,Danubio,Almería,2013,Spanish
+4,4,Hans Martínez,CHI,D,1.78,73,04-01-87,Santiago,Universidad Católica,Almería,2013,Spanish
+5,5,Ángel Trujillo,ESP,D,1.79,79,08-09-87,Madrid,Almería B,Almería,2013,Spanish
+6,6,Marcos Tébar,ESP,M,1.85,77,07-02-86,Madrid,Girona,Almería,2013,Spanish
+7,7,Verza,ESP,M,1.82,75,29-09-86,Orihuela,Albacete,Almería,2013,Spanish
+8,8,Aleix Vidal,ESP,F,1.76,70,21-08-89,Valls,Mallorca B,Almería,2013,Spanish
+9,9,Óscar Díaz,ESP,F,1.85,76,24-04-84,Madrid,Lugo,Almería,2013,Spanish
+10,10,Rodri,ESP,F,1.74,64,06-06-90,Soria,Barcelona B,Almería,2013,Spanish
+11,11,Hélder Barbosa,POR,M,1.72,67,25-05-87,Paredes,Sporting Braga,Almería,2013,Spanish
+15,15,Miguel Angel Corona,ESP,M,1.75,79,12-02-81,Talavera,Zaragoza,Almería,2013,Spanish
+16,16,Sebastián Dubarbier,ARG,F,1.79,74,19-02-86,La Plata,Córdoba,Almería,2013,Spanish
+17,17,Suso,ESP,F,1.76,69,19-11-93,Cádiz,Liverpool,Almería,2013,Spanish
+19,19,Jonathan Zongo,BFA,F,1.83,72,02-12-92,Ouagadougou,Almería B,Almería,2013,Spanish
+20,20,Rafita,ESP,M,1.70,70,18-09-82,Llucmajor,Recreativo Huelva,Almería,2013,Spanish
+21,21,Mané,ESP,D,1.75,72,22-12-81,Algeciras,Maccabi Tel Aviv,Almería,2013,Spanish
+22,22,Nélson,POR,D,1.72,65,10-06-83,Praia,Palermo,Almería,2013,Spanish
+23,23,Fernando Soriano,ESP,M,1.89,81,24-09-79,Zaragoza,Osasuna,Almería,2013,Spanish
+25,25,Julián,ESP,G,1.95,91,28-03-91,Granada,Sevilla,Almería,2013,Spanish
+27,27,Hicham Khaloua,MAR,F,1.77,72,07-05-95,San Javier,Almería B,Almería,2013,Spanish
+29,29,Kim Young-Gyu,KOR,M,1.68,64,05-01-95,Yeongju,Almería B,Almería,2013,Spanish
+31,31,Ramon Azeez,NGA,M,1.70,70,12-12-92,Abuja,Almería B,Almería,2013,Spanish
+32,32,Dani Romera,ESP,F,1.75,66,23-08-95,Almería,Almería B,Almería,2013,Spanish
+33,33,Nono,ESP,F,1.70,62,28-05-91,Badajoz,Rayo Vallecano B,Almería,2013,Spanish
+34,34,Cristóbal,ESP,M,1.70,62,05-02-92,Málaga,Almería B,Almería,2013,Spanish
+35,35,Víctor Ibáñez,ESP,G,1.91,85,21-04-89,Barcelona,Almería B,Almería,2013,Spanish
+41,41,Antonio Marín,ESP,D,1.78,75,17-06-96,Benalua,Almería B,Almería,2013,Spanish
+42,44,Fran Vélez,ESP,D,1.79,75,23-06-91,Tarragona,Nàstic,Almería,2013,Spanish
+1,1,Gorka Iraizoz,ESP,G,1.91,81,06-03-81,Pamplona,Espanyol,Athletic Bilbao,2013,Spanish
+2,2,Gaizka Toquero,ESP,M,1.82,72,09-08-84,Vitoria,Sestao River,Athletic Bilbao,2013,Spanish
+3,3,Íñigo Pérez,ESP,M,1.78,74,18-01-88,Iruñea,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+4,4,Aymeric Laporte,FRA,D,1.89,85,27-05-94,Agen,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+5,5,Erik Morán,ESP,M,1.87,75,25-05-91,Portugalete,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+6,6,Mikel San José,ESP,D,1.83,78,30-05-89,Pamplona,Liverpool,Athletic Bilbao,2013,Spanish
+7,7,Beñat,ESP,M,1.75,72,19-02-87,Igorre,Betis,Athletic Bilbao,2013,Spanish
+8,8,Ander Iturraspe,ESP,M,1.87,73,08-03-89,Abadiño,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+9,9,Kike Sola,ESP,F,1.84,84,25-02-86,Tudela,Osasuna,Athletic Bilbao,2013,Spanish
+10,10,Óscar de Marcos,ESP,M,1.80,73,14-04-89,Vitoria,Alavés,Athletic Bilbao,2013,Spanish
+11,11,Ibai Gómez,ESP,F,1.79,73,11-11-89,Bilbao,Sestao River,Athletic Bilbao,2013,Spanish
+12,12,Unai Albizua,ESP,D,1.81,79,18-01-89,Barakaldo,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+13,13,Iago Herrerín,ESP,G,1.86,90,25-01-88,Bilbao,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+14,14,Markel Susaeta,ESP,M,1.79,68,14-12-87,Eibar,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+15,15,Andoni Iraola,ESP,D,1.82,74,22-06-82,Usúrbil,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+16,16,Xabier Etxeita,ESP,M,1.85,79,31-10-87,Zornotza,Elche,Athletic Bilbao,2013,Spanish
+17,17,Mikel Rico,ESP,M,1.78,75,01-11-84,Cruces,Granada,Athletic Bilbao,2013,Spanish
+18,18,Carlos Gurpegi,ESP,M,1.81,77,19-08-80,Pamplona,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+19,19,Iker Muniain,ESP,F,1.68,62,19-12-92,Iruñea,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+20,20,Aritz Aduriz,ESP,F,1.77,75,11-02-81,San Sebastián,Valencia,Athletic Bilbao,2013,Spanish
+21,21,Ander Herrera,ESP,M,1.81,68,14-08-89,Bilbao,Zaragoza,Athletic Bilbao,2013,Spanish
+22,22,Enric Saborit,ESP,M,1.86,72,27-04-92,Barcelona,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+23,23,Borja Ekiza,ESP,D,1.80,73,06-03-88,Iruñea,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+24,24,Mikel Balenziaga,ESP,D,1.79,74,29-02-88,Zumárraga,Valladolid,Athletic Bilbao,2013,Spanish
+26,26,Kepa Arrizabalaga,ESP,G,1.86,81,03-10-94,Ondarroa,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+27,27,Gorka Magunazelaia,ESP,G,1.85,82,02-03-92,Bilbao,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+28,28,Guillermo,ESP,F,1.78,71,23-05-93,Bilbao,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+30,30,Unai López,ESP,M,1.69,64,30-10-95,Errenteria,Athletic Bilbao B,Athletic Bilbao,2013,Spanish
+1,1,Daniel Aranzubia,ESP,G,1.84,80,18-09-79,Logroño,Deportivo La Coruña,Atlético Madrid,2013,Spanish
+2,2,Diego Godín,URU,D,1.85,73,16-02-86,Rosario,Villarreal,Atlético Madrid,2013,Spanish
+3,3,Filipe Luis,BRA,D,1.82,70,09-08-85,Jaraguá do Sul,Deportivo La Coruña,Atlético Madrid,2013,Spanish
+4,4,Mario Suárez,ESP,M,1.85,77,24-02-87,Madrid,Mallorca,Atlético Madrid,2013,Spanish
+5,5,Tiago,POR,M,1.83,75,02-05-81,Viana do Castelo,Juventus,Atlético Madrid,2013,Spanish
+6,6,Koke,ESP,M,1.78,73,08-01-92,Madrid,Atlético Madrid B,Atlético Madrid,2013,Spanish
+7,7,Adrián López,ESP,F,1.80,71,08-01-88,San Martín de Teverga,Deportivo La Coruña,Atlético Madrid,2013,Spanish
+8,8,Raúl García,ESP,M,1.83,80,11-07-86,Pamplona,Osasuna,Atlético Madrid,2013,Spanish
+9,9,David Villa,ESP,F,1.75,69,03-12-81,Langreo,Barcelona,Atlético Madrid,2013,Spanish
+10,10,Arda Turan,TUR,M,1.76,72,30-01-87,Fatih,Galatasaray,Atlético Madrid,2013,Spanish
+11,11,Cristian Rodríguez,URU,M,1.75,72,30-09-85,Montevideo,FC Porto,Atlético Madrid,2013,Spanish
+12,12,Toby Alderweireld,BEL,D,1.85,75,02-03-89,Wilrijk,Ajax,Atlético Madrid,2013,Spanish
+13,13,Thibaut Courtois,BEL,G,1.99,88,11-05-92,Bree,Chelsea,Atlético Madrid,2013,Spanish
+14,14,Gabi,ESP,M,1.79,68,10-07-83,Madrid,Zaragoza,Atlético Madrid,2013,Spanish
+17,17,Javi Manquillo,ESP,D,1.72,62,05-05-94,Madrid,Atlético Madrid B,Atlético Madrid,2013,Spanish
+18,18,José Giménez,URU,D,1.85,80,20-01-95,Toledo,Danubio,Atlético Madrid,2013,Spanish
+19,19,Diego Costa,ESP,F,1.86,78,07-10-88,Lagarto,Valladolid,Atlético Madrid,2013,Spanish
+20,20,Juanfran,ESP,D,1.80,72,09-01-85,Crevillent,Osasuna,Atlético Madrid,2013,Spanish
+21,21,Diego,BRA,M,1.74,76,28-02-85,Ribeirão Preto,Wolfsburg,Atlético Madrid,2013,Spanish
+22,22,Emiliano Insúa,ARG,D,1.73,82,07-01-89,Buenos Aires,Sporting CP,Atlético Madrid,2013,Spanish
+23,23,Miranda,BRA,D,1.85,78,07-09-84,Paranavaí,São Paulo,Atlético Madrid,2013,Spanish
+24,24,José Ernesto Sosa,ARG,M,1.82,77,19-06-85,Carcarañá,Metalist Kharkiv,Atlético Madrid,2013,Spanish
+26,26,Carlos Ramos,ESP,M,,,31-08-94,Zamora,Atlético Madrid B,Atlético Madrid,2013,Spanish
+27,27,Lucas Hernández,FRA,D,1.80,75,14-02-96,Marseille,Atlético Madrid B,Atlético Madrid,2013,Spanish
+28,28,Isaac Nana,GHA,M,1.86,73,19-12-94,Accra,Alcalá,Atlético Madrid,2013,Spanish
+29,29,Rubén Mesa,ESP,F,1.82,75,16-01-92,Badajoz,Rayo Vallecano B,Atlético Madrid,2013,Spanish
+35,35,Yassine Bounou,MAR,G,1.90,78,05-04-91,Montreal,Wydad Casablanca,Atlético Madrid,2013,Spanish
+37,37,Héctor Hernández,ESP,F,1.80,72,14-09-95,Las Palmas,Atlético Madrid B,Atlético Madrid,2013,Spanish
+38,38,Samuel,ESP,M,1.74,68,22-01-91,Madrid,Almería B,Atlético Madrid,2013,Spanish
+1,1,Víctor Valdés,ESP,G,1.83,78,14-01-82,L'Hospitalet de Llobregat,Barcelona  B,Barcelona,2013,Spanish
+2,2,Martín Montoya,ESP,D,1.74,74,14-04-91,Gavà,Barcelona B,Barcelona,2013,Spanish
+3,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona,Manchester U,Barcelona,2013,Spanish
+4,4,Cesc Fàbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar,Arsenal,Barcelona,2013,Spanish
+5,5,Carles Puyol,ESP,D,1.78,80,13-04-78,La Pobla de Segur,Barcelona B,Barcelona,2013,Spanish
+6,6,Xavi,ESP,M,1.70,68,25-01-80,Terrassa,Barcelona  B,Barcelona,2013,Spanish
+7,7,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife,Barcelona B,Barcelona,2013,Spanish
+8,8,Andrés Iniesta,ESP,M,1.70,65,11-05-84,Fuentealbilla,Barcelona B,Barcelona,2013,Spanish
+9,9,Alexis Sánchez,CHI,F,1.68,62,19-12-88,Tocopilla,Udinese,Barcelona,2013,Spanish
+10,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe,Barcelona B,Barcelona,2013,Spanish
+11,11,Neymar,BRA,F,1.74,64,05-02-92,Mogi das Cruzes,Santos,Barcelona,2013,Spanish
+12,12,Jonathan dos Santos,MEX,M,1.80,74,26-04-90,Monterrey,Barcelona B,Barcelona,2013,Spanish
+13,13,José Manuel Pinto,ESP,G,1.85,82,15-11-75,Puerto de Santa Maria,Celta Vigo,Barcelona,2013,Spanish
+14,14,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario,Liverpool,Barcelona,2013,Spanish
+15,15,Marc Bartra,ESP,D,1.84,75,15-01-91,San Jaime dels Domenys,Barcelona B,Barcelona,2013,Spanish
+16,16,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell,Barcelona B,Barcelona,2013,Spanish
+17,17,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala,Arsenal,Barcelona,2013,Spanish
+18,18,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat,Valencia,Barcelona,2013,Spanish
+19,19,Ibrahim Afellay,NED,M,1.81,68,02-04-86,Utrecht,PSV Eindhoven,Barcelona,2013,Spanish
+20,20,Cristian Tello,ESP,F,1.78,66,19-08-91,Sabadell,Espanyol B,Barcelona,2013,Spanish
+21,21,Adriano,BRA,M,1.72,67,26-10-84,Curitiba,Sevilla,Barcelona,2013,Spanish
+22,22,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro,Sevilla,Barcelona,2013,Spanish
+23,23,Isaac Cuenca,ESP,F,1.81,74,27-04-91,Reus,Barcelona B,Barcelona,2013,Spanish
+24,24,Sergi Roberto,ESP,M,1.73,70,07-02-92,Reus,Barcelona B,Barcelona,2013,Spanish
+25,25,Oier Olazábal,ESP,G,1.89,82,14-09-89,Irún,Real Unión,Barcelona,2013,Spanish
+26,26,Sergi Gómez,ESP,D,1.81,76,28-07-92,Arenys de Mar,Barcelona B,Barcelona,2013,Spanish
+27,27,Patric,ESP,M,1.84,72,17-04-93,Mula,Barcelona B,Barcelona,2013,Spanish
+28,28,Adama Traoré,ESP,F,1.78,75,25-01-96,L'Hospitalet de Llobregat,Barcelona B,Barcelona,2013,Spanish
+29,29,Jean Marie Dongou,CMR,F,1.76,70,20-04-95,Douala,Barcelona B,Barcelona,2013,Spanish
+1,1,Antonio Adán,ESP,G,1.89,85,13-05-87,Madrid,Cagliari,Betis,2013,Spanish
+2,2,Chica,ESP,D,1.76,78,17-05-85,Barcelona,Espanyol,Betis,2013,Spanish
+3,3,Paulão,BRA,D,1.88,82,06-05-82,Lagoa Grande,St-Etienne,Betis,2013,Spanish
+4,4,Antonio Amaya,ESP,D,1.92,86,31-05-83,Madrid,Wigan Ath,Betis,2013,Spanish
+5,5,Javier Matilla,ESP,M,1.76,72,01-01-88,Ciudad Real,Villarreal,Betis,2013,Spanish
+6,6,Léo Baptistão,BRA,F,1.81,71,26-08-92,Santos,Atlético Madrid,Betis,2013,Spanish
+7,7,Álvaro Vadillo,ESP,M,1.80,69,12-09-94,Puerto Real,Betis B,Betis,2013,Spanish
+8,8,Nono,ESP,M,1.78,72,30-03-93,Puerto de Santa María,Betis B,Betis,2013,Spanish
+9,9,Chuli,ESP,F,1.71,67,25-01-91,Huelva,Recreativo Huelva,Betis,2013,Spanish
+10,10,Joan Verdú,ESP,M,1.76,72,05-05-83,Barcelona,Espanyol,Betis,2013,Spanish
+11,11,Juanfran Moreno,ESP,M,1.79,71,11-09-88,Madrid,Real Madrid B,Betis,2013,Spanish
+12,12,Dídac,ESP,D,1.86,81,09-06-89,Mataró,Milan,Betis,2013,Spanish
+13,13,Guillermo Sara,ARG,G,1.88,78,30-09-87,Rafaela,Atlético Rafaela,Betis,2013,Spanish
+14,14,Salva Sevilla,ESP,M,1.78,70,18-03-84,Almería,Salamanca,Betis,2013,Spanish
+15,15,Damien Perquis,POL,D,1.84,80,10-04-84,Troyes,Sochaux,Betis,2013,Spanish
+16,16,Braian Rodríguez,URU,F,1.91,84,14-08-86,Salto,Huachipato,Betis,2013,Spanish
+17,17,Juan Carlos,ESP,M,1.76,68,30-03-90,Madrid,Sporting Braga,Betis,2013,Spanish
+18,18,Alfred N'Diaye,SEN,M,1.87,87,06-03-90,Paris,Sunderland,Betis,2013,Spanish
+19,19,Jorge Molina,ESP,F,1.88,87,22-04-82,Alcoy,Elche,Betis,2013,Spanish
+20,20,Emmanuel Nosa Igiebor,NGA,M,1.82,79,09-11-90,Abuja,Hapoel Tel Aviv,Betis,2013,Spanish
+21,21,Lorenzo Reyes,CHI,M,1.76,76,13-06-91,Santiago,Huachipato,Betis,2013,Spanish
+22,22,Cédric Mabwati,COD,M,1.67,62,08-03-92,Kinshasa,Numancia,Betis,2013,Spanish
+23,23,Nacho,ESP,M,1.77,70,24-06-80,Huelva,Getafe,Betis,2013,Spanish
+24,24,Rubén Castro,ESP,F,1.74,72,27-06-81,Las Palmas,Deportivo La Coruña,Betis,2013,Spanish
+25,25,Jordi,ESP,D,1.85,82,16-05-87,Lleida,Club Brugge,Betis,2013,Spanish
+30,30,Javi Montoya,ESP,G,1.86,73,16-04-91,Logroño,Betis B,Betis,2013,Spanish
+34,34,Carlos García,ESP,M,1.65,56,17-09-93,Seville,Betis B,Betis,2013,Spanish
+35,35,Ignacio Abeledo,ESP,F,1.82,69,05-01-96,Huelva,Betis B,Betis,2013,Spanish
+36,36,José Antonio Caro,ESP,D,1.83,70,08-03-93,Estepa,Betis B,Betis,2013,Spanish
+37,37,Juanma,ESP,F,1.67,62,20-02-93,San José de la Rinconada,Betis B,Betis,2013,Spanish
+41,41,Pedro,ESP,G,1.87,80,21-01-95,Mérida,Betis B,Betis,2013,Spanish
+42,42,Francisco Varela,ESP,D,1.74,68,26-10-94,Atarfe,Betis B,Betis,2013,Spanish
+43,45,Jesús Muñoz,ESP,D,1.83,74,12-07-91,Écija,Burgos,Betis,2013,Spanish
+44,46,Dani Ceballos,ESP,M,1.76,65,07-08-96,Seville,Betis B,Betis,2013,Spanish
+45,49,Pibe,ARG,F,1.77,68,31-01-96,Buenos Aires,Betis B,Betis,2013,Spanish
+46,50,Jesús Pozo,ESP,D,1.86,77,24-03-95,Gilena,Betis B,Betis,2013,Spanish
+47,75,José Carlos,ESP,D,1.82,75,10-05-96,Paradas,Betis B,Betis,2013,Spanish
+1,1,Sergio Álvarez,ESP,G,1.79,75,03-08-86,Catoria,Celta B,Celta Vigo,2013,Spanish
+2,2,Hugo Mallo,ESP,D,1.81,78,22-06-91,Marín,Celta B,Celta Vigo,2013,Spanish
+3,3,Andreu Fontàs,ESP,M,1.81,72,14-11-89,Banyoles,Barcelona,Celta Vigo,2013,Spanish
+4,4,Borja Oubiña,ESP,M,1.81,75,17-05-82,Vigo,Celta B,Celta Vigo,2013,Spanish
+8,8,Álex López,ESP,M,1.75,64,11-01-88,Ferrol,Celta B,Celta Vigo,2013,Spanish
+9,9,Mario Bermejo,ESP,F,1.80,78,07-10-78,Santander,Xerez,Celta Vigo,2013,Spanish
+10,10,Nolito,ESP,F,1.72,65,15-10-86,Sanlúcar de Barrameda,Benfica,Celta Vigo,2013,Spanish
+11,11,Charles,BRA,F,1.79,75,04-04-84,Belem,Almería,Celta Vigo,2013,Spanish
+12,12,Rafinha,BRA,M,1.77,75,12-02-93,Bari,Barcelona,Celta Vigo,2013,Spanish
+13,13,Yoel,ESP,G,1.85,78,28-08-88,Vigo,Celta B,Celta Vigo,2013,Spanish
+14,14,Fabián Orellana,CHI,F,1.69,68,27-01-86,Santiago,Granada,Celta Vigo,2013,Spanish
+15,15,Jon Aurtenetxe,ESP,D,1.82,78,03-01-92,Bizkaia,Athletic Bilbao,Celta Vigo,2013,Spanish
+17,17,Lévy Madinda,GAB,M,1.82,77,11-06-92,Libreville,Celta B,Celta Vigo,2013,Spanish
+19,19,Johny,ESP,D,1.75,70,03-03-94,Vigo,Celta B,Celta Vigo,2013,Spanish
+21,21,Íñigo López,ESP,D,1.85,72,23-07-82,Logroño,PAOK,Celta Vigo,2013,Spanish
+22,22,Gustavo Cabral,ARG,D,1.82,81,14-10-85,Isidro Casanova,Arsenal [ARG],Celta Vigo,2013,Spanish
+23,23,Michael Krohn-Dehli,DEN,M,1.70,71,06-06-83,Copenhagen,Brøndby,Celta Vigo,2013,Spanish
+24,24,Augusto Fernández,ARG,M,1.77,71,10-04-86,Pergamino,Vélez Sarsfield,Celta Vigo,2013,Spanish
+25,25,Welliton,BRA,F,1.75,75,22-10-86,Conceição do Araguaia,Spartak Moscow,Celta Vigo,2013,Spanish
+26,26,Rubén Blanco,ESP,G,1.88,70,25-07-95,Vigo,Celta B,Celta Vigo,2013,Spanish
+29,29,Santi Mina,ESP,F,1.80,71,07-12-95,Vigo,Celta B,Celta Vigo,2013,Spanish
+30,30,David Costas,ESP,D,1.82,73,26-03-95,Vigo,Celta B,Celta Vigo,2013,Spanish
+31,31,David Goldar,ESP,M,1.80,77,15-09-94,Vigo,Celta B,Celta Vigo,2013,Spanish
+33,33,Javi Rey,ESP,M,1.86,77,20-02-91,Pontevedra,Lugo,Celta Vigo,2013,Spanish
+1,1,Manu,ESP,G,1.82,75,29-09-81,Madrid,Alcorcón,Elche,2013,Spanish
+2,2,Damián Suárez,URU,D,1.73,68,27-04-88,Montevideo,Sporting Gijón,Elche,2013,Spanish
+3,3,Alberto Botía,ESP,D,1.87,75,27-01-89,Alquerias,Sevilla,Elche,2013,Spanish
+4,4,David Lombán,ESP,D,1.85,74,05-06-87,Valencia,Barcelona B,Elche,2013,Spanish
+5,5,Alberto Rivera,ESP,M,1.70,68,19-02-78,Puertollano,Sporting Gijón,Elche,2013,Spanish
+6,6,Rubén Pérez,ESP,M,1.78,72,26-04-89,Seville,Atlético Madrid B,Elche,2013,Spanish
+7,7,Aarón,ESP,F,1.70,69,26-04-89,Elche,Almería,Elche,2013,Spanish
+8,8,Sergio Mantecón,ESP,M,1.77,80,08-06-80,Madrid,Castellón,Elche,2013,Spanish
+9,9,Richmond Boakye,GHA,F,1.85,80,28-01-93,Accra,Juventus,Elche,2013,Spanish
+10,10,Javi Flores,ESP,F,1.70,64,09-02-86,Córdoba,Getafe B,Elche,2013,Spanish
+11,11,Ferrán Corominas,ESP,F,1.71,70,05-01-83,Girona,Espanyol,Elche,2013,Spanish
+13,13,Toño,ESP,G,1.82,81,17-12-79,Alicante,Granada,Elche,2013,Spanish
+14,14,Manu del Moral,ESP,F,1.86,77,25-02-84,Jaén,Sevilla,Elche,2013,Spanish
+15,15,Carles Gil,ESP,F,1.70,69,22-11-92,Valencia,Valencia B,Elche,2013,Spanish
+16,16,Fidel,ESP,M,1.77,70,27-10-89,Minas de Riotinto,Recreativo Huelva,Elche,2013,Spanish
+17,17,Javi Márquez,ESP,M,1.74,71,11-05-86,Barcelona,Mallorca,Elche,2013,Spanish
+18,18,Sergio Pelegrín,ESP,D,1.84,80,18-04-79,Barcelona,Rayo Vallecano,Elche,2013,Spanish
+19,19,Cristian Săpunaru,ROU,D,1.87,81,05-04-84,Bucharest,Zaragoza,Elche,2013,Spanish
+21,21,Edu Albacar,ESP,D,1.77,70,16-11-79,Tortosa,Rayo Vallecano,Elche,2013,Spanish
+23,23,Domingo Cisma,ESP,D,1.84,76,09-02-82,Seville,Atlético Madrid,Elche,2013,Spanish
+24,24,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,Rangers (Talca),Elche,2013,Spanish
+25,25,Garry Rodrigues,CPV,M,1.72,70,27-11-90,Rotterdam,Levski Sofia,Elche,2013,Spanish
+26,26,Charlie I'Anson,ENG,D,1.81,77,01-07-93,Luton,Grimsby T,Elche,2013,Spanish
+27,27,Álvaro,ESP,F,1.82,80,19-05-91,Elche,Mallorca B,Elche,2013,Spanish
+28,28,Cristian Herrera,ESP,F,1.89,85,13-03-91,Las Palmas,Las Palmas B,Elche,2013,Spanish
+29,29,Nacho Porcar,ESP,D,1.82,71,10-07-92,Valencia,Valencia B,Elche,2013,Spanish
+30,30,Samu,ESP,M,1.78,73,15-04-94,Elche,Elche Ilicitano,Elche,2013,Spanish
+31,31,Chiri,ESP,G,1.78,68,31-12-92,Elche,Elche Ilicitano,Elche,2013,Spanish
+1,1,Germán Parreño,ESP,G,1.89,78,16-02-93,Elche,Espanyol B,Espanyol,2013,Spanish
+2,2,Felipe Mattioni,BRA,D,1.77,72,15-10-88,Natural de Ijuí,Maga,Espanyol,2013,Spanish
+3,3,Raúl Rodríguez,ESP,D,1.83,70,22-09-87,Vilassar de Mar,Espanyol B,Espanyol,2013,Spanish
+4,4,Víctor Sánchez,ESP,D,1.74,73,08-09-87,Terrassa,Neuchâtel Xamax,Espanyol,2013,Spanish
+6,6,Sidnei,BRA,D,1.85,80,23-08-89,Alegrete,Benfica,Espanyol,2013,Spanish
+8,8,Christian Stuani,URU,F,1.85,74,12-10-86,Tala,Reggina,Espanyol,2013,Spanish
+9,9,Sergio García,ESP,F,1.75,72,09-06-83,Barcelona,Betis,Espanyol,2013,Spanish
+10,10,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Benfica,Espanyol,2013,Spanish
+11,11,Joan Capdevila,ESP,D,1.82,78,03-02-78,Tarrega,Benfica,Espanyol,2013,Spanish
+12,12,Manu Lanzarote,ESP,F,1.78,69,20-01-84,Barcelona,Sabadell,Espanyol,2013,Spanish
+13,13,Francisco Casilla,ESP,G,1.92,83,02-10-86,Alcocer,Espanyol B,Espanyol,2013,Spanish
+14,14,David López,ESP,M,1.85,80,09-10-89,Barcelona,Huesca,Espanyol,2013,Spanish
+15,15,Héctor Moreno,MEX,D,1.82,80,17-01-88,Culiacán,AZ Alkmaar,Espanyol,2013,Spanish
+16,16,Javi López,ESP,M,1.79,76,21-01-86,Osuna,Betis B,Espanyol,2013,Spanish
+17,17,Víctor Álvarez,ESP,D,1.78,69,14-03-93,Barcelona,Espanyol B,Espanyol,2013,Spanish
+18,18,Juan Rafael Fuentes,ESP,D,1.77,72,05-01-90,Córdoba,Córdoba,Espanyol,2013,Spanish
+19,19,Diego Colotto,ARG,D,1.84,81,03-10-81,Rio Cuarto,Deportivo La Coruña,Espanyol,2013,Spanish
+20,20,Simão,POR,F,1.70,64,31-10-79,Constantim,Beşiktaş,Espanyol,2013,Spanish
+22,22,Álex Fernández,ESP,M,1.80,68,15-10-92,Madrid,Real Madrid B,Espanyol,2013,Spanish
+23,23,Abraham,ESP,M,1.74,70,16-07-85,Barcelona,Alcorcón,Espanyol,2013,Spanish
+24,24,Jhon Córdoba,COL,F,1.86,85,10-05-93,Istmina,Chiapas,Espanyol,2013,Spanish
+25,25,Gabriel Torje,ROU,M,1.69,65,22-11-89,Timişoara,Udinese,Espanyol,2013,Spanish
+26,26,Pau López,ESP,G,1.89,77,13-12-94,Girona,Espanyol B,Espanyol,2013,Spanish
+27,27,Eric Bailly,CIV,D,1.88,77,12-04-94,Abidjan,Espanyol B,Espanyol,2013,Spanish
+28,28,Joan Jordán,ESP,M,1.84,74,06-07-93,Palamós,Espanyol B,Espanyol,2013,Spanish
+29,29,Jairo Morillas,ESP,F,1.87,75,02-07-93,Gilena,Espanyol B,Espanyol,2013,Spanish
+1,1,Miguel Ángel Moyá,ESP,G,1.85,75,02-04-84,Binissalem,Valencia,Getafe,2013,Spanish
+2,2,Alexis,ESP,D,1.83,75,04-08-85,Málaga,Sevilla,Getafe,2013,Spanish
+3,3,Roberto  Lago,ESP,M,1.78,76,30-08-85,Vigo,Celta Vigo,Getafe,2013,Spanish
+4,4,Lisandro López,ARG,D,1.87,79,01-09-89,Villa Constitución,Benfica,Getafe,2013,Spanish
+5,5,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles,Racing Santander,Getafe,2013,Spanish
+7,7,Ángel Lafita,ESP,M,1.88,75,07-08-84,Zaragoza,Zaragoza,Getafe,2013,Spanish
+8,8,Pablo Sarabia,ESP,M,1.77,72,11-05-92,Madrid,Real Madrid B,Getafe,2013,Spanish
+9,9,Ciprian Marica,ROU,F,1.84,78,02-10-85,Bucharest,Schalke,Getafe,2013,Spanish
+10,10,Jaime Gavilán,ESP,M,1.78,71,12-05-85,Valencia,Valencia,Getafe,2013,Spanish
+11,11,Adrián Colunga,ESP,F,1.72,70,17-11-84,Oviedo,Recreativo Huelva,Getafe,2013,Spanish
+12,12,Álvaro Arroyo,ESP,D,1.80,71,22-07-88,Madrid,Getafe B,Getafe,2013,Spanish
+13,13,Jordi Codina,ESP,G,1.84,79,27-04-82,Barcelona,Real Madrid,Getafe,2013,Spanish
+14,14,Pedro León,ESP,M,1.82,70,24-11-86,Mula,Real Madrid,Getafe,2013,Spanish
+15,15,Rafa,ESP,D,1.83,72,09-04-85,Peñafiel,Valladolid,Getafe,2013,Spanish
+17,17,Diego Castro,ESP,F,1.74,71,02-07-82,Pontevedra,Sporting Gijón,Getafe,2013,Spanish
+18,18,Sergio Escudero,ESP,D,1.76,65,02-09-89,Valladolid,Schalke,Getafe,2013,Spanish
+19,19,Sammir,CRO,M,1.78,77,23-04-87,Itabuna,Dinamo Zagreb,Getafe,2013,Spanish
+20,20,Juan Valera,ESP,D,1.84,70,21-12-84,La Copa de Bullas,Atlético Madrid,Getafe,2013,Spanish
+21,21,Míchel,ESP,M,1.83,72,09-11-85,Pola de Lena,Birmingham C,Getafe,2013,Spanish
+22,22,Juan Rodríguez,ESP,M,1.85,80,01-04-82,Málaga,Deportivo La Coruña,Getafe,2013,Spanish
+23,23,Borja Fernández,ESP,M,1.88,83,14-01-81,Orense,Valladolid,Getafe,2013,Spanish
+24,24,Pedro Mosquera,ESP,M,1.83,77,21-04-88,La Coruña,Real Madrid B,Getafe,2013,Spanish
+25,25,Júlio César,BRA,G,1.90,85,02-09-86,Guaramirim,Benfica,Getafe,2013,Spanish
+27,27,Javi Navas,ESP,M,1.82,78,02-06-91,Las Navas del Marqués,Osasuna B,Getafe,2013,Spanish
+28,28,Carlos Vigaray,ESP,D,1.82,70,07-09-94,Leganés,Getafe B,Getafe,2013,Spanish
+29,29,David Forniés,ESP,M,1.77,71,02-06-91,Valencia,Zaragoza B,Getafe,2013,Spanish
+30,30,Ivi,ESP,M,1.74,74,29-06-94,Madrid,Getafe B,Getafe,2013,Spanish
+32,32,Ángel Galván,ESP,G,1.88,70,16-04-93,Santa Cruz de Tenerife,Tenerife B,Getafe,2013,Spanish
+33,33,Óliver,ESP,G,1.93,81,05-05-90,Barcelona,L'Hospitalet,Getafe,2013,Spanish
+1,1,Orestis Karnezis,GRE,G,1.89,79,11-07-85,Athens,Udinese,Granada,2013,Spanish
+2,2,Allan-Roméo Nyom,CMR,D,1.88,80,10-05-88,Neuilly-sur-Seine,Udinese,Granada,2013,Spanish
+4,4,Fran Rico,ESP,M,1.78,71,03-08-87,Portonovo,Real Madrid B,Granada,2013,Spanish
+5,5,Diego Mainz,ESP,D,1.87,80,29-12-82,Madrid,Udinese,Granada,2013,Spanish
+6,6,Tiago Ilori,POR,D,1.90,80,26-02-93,London,Liverpool,Granada,2013,Spanish
+7,7,Odion Ighalo,NGA,F,1.88,70,16-06-89,Lagos,Udinese,Granada,2013,Spanish
+9,9,Youssef El Arabi,MAR,F,1.83,70,03-02-87,Caen,Al-Hilal [KSA],Granada,2013,Spanish
+10,10,Yacine Brahimi,ALG,F,1.75,65,08-02-90,Paris,Rennes,Granada,2013,Spanish
+12,12,Diego Buonanotte,ARG,M,1.60,56,19-04-88,Teodelina,Málaga,Granada,2013,Spanish
+13,13,Roberto,ESP,G,1.81,76,25-01-79,Chantada,Osasuna,Granada,2013,Spanish
+14,14,Recio,ESP,M,1.83,74,11-01-91,Málaga,Málaga,Granada,2013,Spanish
+16,16,Brayan Angulo,COL,D,1.74,71,02-11-89,Valle del Cauca,Atlético Baleares,Granada,2013,Spanish
+18,18,Manuel Iturra,CHI,M,1.73,71,23-06-84,Temuco,Málaga,Granada,2013,Spanish
+19,19,Alexandre Coeff,FRA,M,1.84,67,20-02-92,Brest,Udinese,Granada,2013,Spanish
+20,20,Piti,ESP,F,1.74,69,26-05-81,Barcelona,Rayo Vallecano,Granada,2013,Spanish
+21,21,Riki,ESP,F,1.87,84,11-08-80,Aranjuez,Deportivo La Coruña,Granada,2013,Spanish
+22,22,Dimitri Foulquier,FRA,D,1.83,77,23-03-93,Sarcelles,Rennes,Granada,2013,Spanish
+23,23,Michael Pereira,FRA,M,1.80,69,08-12-87,Paris,Mallorca,Granada,2013,Spanish
+24,24,Jeison Murillo,COL,D,1.83,70,27-05-92,Cali,Depor Aguablanca,Granada,2013,Spanish
+27,27,Álvaro García,ESP,M,1.68,58,27-10-92,Utrera,San Fernando,Granada,2013,Spanish
+28,28,Mohammed Fatau,GHA,M,1.75,74,24-12-92,Accra,Udinese,Granada,2013,Spanish
+29,29,Richard Boateng,GHA,M,1.78,66,10-07-92,Accra,Liberty Professionals,Granada,2013,Spanish
+30,30,Adolfo,ESP,M,1.76,71,15-01-92,Monachil,Granada B,Granada,2013,Spanish
+31,31,Wilson Cuero,COL,F,1.77,73,27-01-92,Cali,Millonarios,Granada,2013,Spanish
+32,32,Francisco Morante,ESP,D,1.80,72,28-06-92,Córdoba,Granada B,Granada,2013,Spanish
+33,33,Sulayman Marreh,GAM,M,1.84,70,15-01-96,Banjul,Samger,Granada,2013,Spanish
+34,34,Christian Bravo,CHI,F,1.68,68,01-10-93,Iquique,Inter Zapreić,Granada,2013,Spanish
+35,35,Stole Dimitrievski,MKD,G,1.88,80,23-12-93,Kumanovo,Udinese,Granada,2013,Spanish
+36,36,Isaac Success,NGA,F,1.82,84,07-01-96,Benin City,Udinese,Granada,2013,Spanish
+1,1,Keylor Navas,CRC,G,1.86,78,15-12-86,Pérez Zeledón,Albacete,Levante,2013,Spanish
+3,3,Víctor,ESP,F,1.80,77,28-02-85,Palma de Mallorca,Mallorca,Levante,2013,Spanish
+4,4,David Navarro,ESP,D,1.88,82,25-05-80,Valencia,Neuchâtel Xamax,Levante,2013,Spanish
+5,5,Héctor Rodas,ESP,D,1.90,80,07-03-88,Valencia,Levante B,Levante,2013,Spanish
+6,6,Loukas Vyntra,GRE,D,1.84,76,05-02-81,Alberhiche,Panathinaikos,Levante,2013,Spanish
+7,7,David Barral,ESP,F,1.83,78,10-05-83,Cádiz,Orduspor,Levante,2013,Spanish
+8,8,Nabil El Zhar,MAR,M,1.75,72,27-08-86,Alès,Liverpool,Levante,2013,Spanish
+9,9,Ángel,ESP,F,1.72,68,26-04-87,Santa Cruz de Tenerife,Elche,Levante,2013,Spanish
+10,10,Baba Diawara,SEN,F,1.85,79,05-01-88,Dakar,Sevilla,Levante,2013,Spanish
+11,11,Rubén,ESP,M,1.71,72,14-07-93,Valencia,Levante B,Levante,2013,Spanish
+12,12,Juanfran,ESP,D,1.82,73,15-07-76,Valencia,AEK,Levante,2013,Spanish
+13,13,Javi Jiménez,ESP,G,1.83,77,08-06-87,Logroño,Murcia,Levante,2013,Spanish
+14,14,Miguel Pallardó,ESP,M,1.73,73,05-06-86,Valencia,Getafe,Levante,2013,Spanish
+15,15,Nikos Karabelas,GRE,D,1.80,73,20-12-84,Pyrgos,AEK,Levante,2013,Spanish
+16,16,Issam El Adoua,MAR,D,1.89,74,09-12-86,Casablanca,Vitória Guimarães,Levante,2013,Spanish
+17,17,Jordi Xumetra,ESP,M,1.72,70,24-10-85,L'Estartit,Elche,Levante,2013,Spanish
+18,18,Sergio Pinto,POR,M,1.77,71,16-10-80,Mafamude,Hannover 96,Levante,2013,Spanish
+19,19,Pedro López,ESP,D,1.74,72,01-01-83,Valencia,Valladolid,Levante,2013,Spanish
+20,20,Pedro Ríos,ESP,M,1.77,72,12-12-81,Jerez de la Frontera,Getafe,Levante,2013,Spanish
+21,21,Andreas Ivanschitz,AUT,M,1.83,79,15-10-83,Eisenstadt,Mainz,Levante,2013,Spanish
+22,22,Mohamed Sissoko,MLI,M,1.87,81,22-01-85,Mont Saint Agnain,Paris St-Germain,Levante,2013,Spanish
+23,23,Papakouli Diop,SEN,M,1.80,73,19-03-86,Kaolack,Racing Santander,Levante,2013,Spanish
+24,24,Simão Júnior,MOZ,D,1.78,78,23-07-88,Inhaca,Shandong Luneng,Levante,2013,Spanish
+25,25,Nagore,ESP,D,1.82,72,27-12-80,Madrid,Alcorcón,Levante,2013,Spanish
+26,26,Jason,ESP,F,1.78,65,06-07-94,La Coruña,Levante B,Levante,2013,Spanish
+27,27,Leandro,ESP,G,1.86,77,28-02-89,Alzira,Ponferradina,Levante,2013,Spanish
+30,30,Carlos Expósito,ESP,D,1.82,74,17-11-91,Madrid,Alcorcón,Levante,2013,Spanish
+33,33,Jordi,ESP,D,1.81,81,27-03-92,Alicante,Hércules B,Levante,2013,Spanish
+37,37,Víctor Camarasa,ESP,M,1.83,76,28-05-94,Meliana,Levante B,Levante,2013,Spanish
+41,41,Álvaro Traver,ESP,M,1.87,75,01-04-93,Valencia,Levante B,Levante,2013,Spanish
+42,42,Kike Torrent,ESP,D,1.87,74,14-02-94,Valencia,Levante B,Levante,2013,Spanish
+43,58,Matías Aquino,ESP,F,1.73,74,27-05-96,Murcia,Levante B,Levante,2013,Spanish
+1,1,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala,Espanyol,Málaga,2013,Spanish
+2,2,Jesús Gámez,ESP,D,1.82,70,10-04-85,Fuengirola,Málaga B,Málaga,2013,Spanish
+3,3,Weligton,BRA,D,1.86,78,26-08-79,Fernandopolis,Grasshoppers,Málaga,2013,Spanish
+4,4,Flávio Ferreira,POR,M,1.80,75,19-10-91,Oliveira do Hospital,Académica,Málaga,2013,Spanish
+5,5,Vitorino Antunes,POR,D,1.75,69,01-04-87,Freamunde,Paços de Ferreira,Málaga,2013,Spanish
+6,6,Ignacio Camacho,ESP,M,1.81,68,04-05-90,Zaragoza,Atlético Madrid,Málaga,2013,Spanish
+7,7,Mounir El Hamdaoui,MAR,F,1.83,81,14-07-84,Rotterdam,Fiorentina,Málaga,2013,Spanish
+8,8,Francisco Portillo,ESP,M,1.69,63,13-06-90,Málaga,Málaga B,Málaga,2013,Spanish
+9,9,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción,Manchester C,Málaga,2013,Spanish
+10,10,Oleksandr Iakovenko,UKR,M,1.83,74,23-06-87,Kyiv,Fiorentina,Málaga,2013,Spanish
+11,11,Pablo Pérez,ARG,M,1.79,74,10-08-85,Rosario,Newell's Old Boys,Málaga,2013,Spanish
+12,12,Fernando Tissone,ARG,M,1.82,75,24-07-86,Quilmes,Sampdoria,Málaga,2013,Spanish
+13,13,Wilfredo Caballero,ARG,G,1.85,83,28-09-81,Salta Elena,Elche,Málaga,2013,Spanish
+15,15,Marcos Angeleri,ARG,D,1.82,68,07-04-83,La Plata,Estudiantes (LP),Málaga,2013,Spanish
+16,16,Ezequiel Rescaldani,ARG,F,1.91,83,11-06-92,San Miguel de Tucumán,Vélez Sarsfield,Málaga,2013,Spanish
+17,17,Duda,POR,M,1.80,76,27-06-80,Lisbon,Sevilla,Málaga,2013,Spanish
+18,18,Eliseu,POR,F,1.75,75,01-10-83,Acoras,Lazio,Málaga,2013,Spanish
+19,19,Bartłomiej Pawłowski,POL,M,1.78,70,13-11-92,Zgierz,Widzew Łódź,Málaga,2013,Spanish
+20,20,José Manuel Casado,ESP,D,1.73,75,09-08-86,Sevilla,Rayo Vallecano,Málaga,2013,Spanish
+21,21,Sergio Sánchez,ESP,D,1.85,78,03-04-86,Matarò,Sevilla,Málaga,2013,Spanish
+23,23,Nordin Amrabat,MAR,M,1.79,79,31-03-87,Naarden,Galatasaray,Málaga,2013,Spanish
+24,24,Samu,ESP,F,1.79,73,13-07-90,Málaga,Málaga B,Málaga,2013,Spanish
+26,26,Juanmi,ESP,F,1.69,63,20-05-93,Coín,Málaga B,Málaga,2013,Spanish
+27,27,Aarón Escandell,ESP,G,1.88,72,27-09-95,Carcaixent,Málaga B,Málaga,2013,Spanish
+30,30,Sergi Darder,ESP,M,1.80,67,22-12-93,Artà,Espanyol B,Málaga,2013,Spanish
+32,32,Álex Portillo,ESP,D,1.82,76,06-11-92,Málaga,Málaga B,Málaga,2013,Spanish
+1,1,Asier Riesgo,ESP,G,1.85,70,06-10-83,Deba,Real Sociedad,Osasuna,2013,Spanish
+2,2,Marc Bertrán,ESP,D,1.81,78,22-05-82,Barcelona,Tenerife,Osasuna,2013,Spanish
+3,3,Joan Oriol,ESP,D,1.75,69,05-11-86,Cambrils,Villarreal,Osasuna,2013,Spanish
+4,4,Miguel Flaño,ESP,D,1.77,72,19-08-84,Pamplona,Osasuna B,Osasuna,2013,Spanish
+5,5,Lolo,ESP,D,1.82,80,22-08-84,Huelva,Sevilla,Osasuna,2013,Spanish
+6,6,Nino,ESP,F,1.69,68,10-06-80,Almería,Tenerife,Osasuna,2013,Spanish
+7,7,Javier Acuña,PAR,F,1.75,70,23-06-88,Asunción,Watford,Osasuna,2013,Spanish
+8,8,Miguel de las Cuevas,ESP,M,1.75,70,19-06-86,Alicante,Sporting Gijón,Osasuna,2013,Spanish
+9,9,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón,Sevilla,Osasuna,2013,Spanish
+10,10,Patxi Puñal,ESP,M,1.79,73,06-09-75,Pamplona,Leganés,Osasuna,2013,Spanish
+11,11,Sisi,ESP,M,1.68,60,22-04-86,Albacete,Valladolid,Osasuna,2013,Spanish
+12,12,Eneko Satrústegui,ESP,D,1.85,73,25-09-90,Pamplona,Osasuna B,Osasuna,2013,Spanish
+13,13,Andrés Fernández,ESP,G,1.84,86,17-12-86,Murcia,Mallorca B,Osasuna,2013,Spanish
+14,14,Alejandro Arribas,ESP,D,1.82,75,01-05-89,Madrid,Rayo Vallecano,Osasuna,2013,Spanish
+15,15,Oier Sanjurjo,ESP,M,1.78,66,25-05-86,Pamplona,Osasuna B,Osasuna,2013,Spanish
+16,16,Álvaro Cejudo,ESP,M,1.80,72,29-01-84,Puente Genil,Las Palmas,Osasuna,2013,Spanish
+17,17,Cristian Lobato,ESP,F,1.74,66,07-03-89,Esparreguera,Barcelona B,Osasuna,2013,Spanish
+18,18,Manuel Onwu,ESP,F,1.85,75,11-01-88,Tudela,Osasuna B,Osasuna,2013,Spanish
+19,19,Oriol Riera,ESP,F,1.84,78,03-07-86,Vic,Alcorcón,Osasuna,2013,Spanish
+20,20,Francisco Silva,CHI,M,1.78,75,11-02-86,Santiago,Universidad Católica,Osasuna,2013,Spanish
+21,21,Roberto Torres,ESP,M,1.76,69,07-03-89,Pamplona,Osasuna B,Osasuna,2013,Spanish
+22,22,Jordan Lotiès,FRA,D,1.87,77,05-08-84,Clermont-Ferrand,Nancy,Osasuna,2013,Spanish
+23,23,Raoul Loé,CMR,M,1.92,83,31-01-89,Courbevoie,Osasuna B,Osasuna,2013,Spanish
+24,24,Damiá,ESP,D,1.88,77,15-04-82,Figueras,Betis,Osasuna,2013,Spanish
+26,26,Ander Cantero,ESP,G,1.89,82,09-01-95,Pamplona,Osasuna B,Osasuna,2013,Spanish
+30,30,Jorge Gómez,ESP,M,1.79,70,11-09-95,Talavera,Osasuna B,Osasuna,2013,Spanish
+31,31,José García,ESP,M,1.69,63,13-01-97,Pamplona,Osasuna B,Osasuna,2013,Spanish
+1,1,David Cobeño,ESP,G,1.85,82,06-04-82,Madrid,FC Vaslui,Rayo Vallecano,2013,Spanish
+2,2,Tito,ESP,D,1.74,62,11-07-85,Madrid,Alcorcón,Rayo Vallecano,2013,Spanish
+3,3,Nacho Martínez,ESP,D,1.75,76,07-03-89,Madrid,Getafe B,Rayo Vallecano,2013,Spanish
+4,4,Raúl Baena,ESP,M,1.79,73,02-03-89,Torrox,Espanyol,Rayo Vallecano,2013,Spanish
+5,5,Alejandro Gálvez,ESP,D,1.90,84,06-06-89,Granada,Sporting Gijón,Rayo Vallecano,2013,Spanish
+7,7,Alhassane Bangoura,GUI,F,1.74,71,30-03-92,Conakry,Rayo B,Rayo Vallecano,2013,Spanish
+8,8,Adrián González,ESP,M,1.83,76,25-05-88,Madrid,Racing Santander,Rayo Vallecano,2013,Spanish
+9,9,José Carlos,ESP,F,1.77,68,17-07-87,Ríotinto,AEK,Rayo Vallecano,2013,Spanish
+10,10,Roberto Trashorras,ESP,M,1.79,71,28-02-81,Rabade,Celta Vigo,Rayo Vallecano,2013,Spanish
+11,11,Nery Castillo,MEX,M,1.70,61,13-06-84,San Luis Potosí,Pachuca,Rayo Vallecano,2013,Spanish
+12,12,Samuele Longo,ITA,F,1.85,77,12-01-92,Valdobbiadene,Internazionale,Rayo Vallecano,2013,Spanish
+13,13,Rubén,ESP,G,1.87,82,22-06-84,La Coruña,Málaga,Rayo Vallecano,2013,Spanish
+14,14,Alberto Perea,ESP,F,1.80,83,16-05-90,Albacete,Atlético Madrid B,Rayo Vallecano,2013,Spanish
+15,15,Răzvan Raţ,ROU,D,1.78,72,26-05-81,Slatina,West Ham U,Rayo Vallecano,2013,Spanish
+16,16,Rubén Rochina,ESP,F,1.81,70,23-03-91,Sagunto,Blackburn R,Rayo Vallecano,2013,Spanish
+17,17,Leonel Galeano,ARG,D,1.83,81,02-08-91,Miramar,Independiente,Rayo Vallecano,2013,Spanish
+18,18,Zé Castro,POR,D,1.83,76,13-01-83,Coimbra,Deportivo La Coruña,Rayo Vallecano,2013,Spanish
+19,19,Jonathan Viera,ESP,F,1.70,64,21-10-89,Las Palmas,Valencia,Rayo Vallecano,2013,Spanish
+20,20,Joaquín Larrivey,ARG,F,1.85,82,20-08-84,Buenos Aires,Atlante,Rayo Vallecano,2013,Spanish
+21,21,Anaitz Arbilla,ESP,D,1.77,75,15-05-87,Pamplona,Hércules,Rayo Vallecano,2013,Spanish
+22,22,Saúl Ñiguez,ESP,M,1.82,73,21-11-94,Elche,Atlético Madrid B,Rayo Vallecano,2013,Spanish
+23,23,Alberto Bueno,ESP,F,1.78,65,20-03-88,Madrid,Valladolid,Rayo Vallecano,2013,Spanish
+24,24,Iago Falqué,ESP,M,1.74,69,04-01-90,Vigo,Tottenham H,Rayo Vallecano,2013,Spanish
+25,25,Sebastián Fernández,URU,F,1.67,69,23-05-85,Montevideo,Málaga,Rayo Vallecano,2013,Spanish
+26,26,Johan Mojica,COL,D,1.79,66,21-08-92,Cali,Deportivo Cali,Rayo Vallecano,2013,Spanish
+27,27,Christian Cueva,PER,M,1.69,63,23-11-91,Huamachuco,Unión Española,Rayo Vallecano,2013,Spanish
+28,28,Jorge Shafa,ESP,F,,,28-05-96,,Rayo B,Rayo Vallecano,2013,Spanish
+29,29,Cristian Flórez,COL,D,1.80,80,30-12-94,Ibagué,Rayo B,Rayo Vallecano,2013,Spanish
+30,30,Ismael,ESP,G,1.85,80,23-01-89,Madrid,Rayo B,Rayo Vallecano,2013,Spanish
+31,31,Mario Gómez,ESP,M,1.76,73,06-10-92,Talavera de la Reina,Rayo B,Rayo Vallecano,2013,Spanish
+32,32,Adri Embarba,ESP,M,1.73,66,07-05-92,Madrid,Rayo B,Rayo Vallecano,2013,Spanish
+33,33,Rubén Ramiro,ESP,F,,,16-04-93,,Rayo B,Rayo Vallecano,2013,Spanish
+34,34,Adrián Saballs,ESP,F,1.84,75,07-07-95,Madrid,Rayo B,Rayo Vallecano,2013,Spanish
+35,35,Isi,ESP,M,,,28-10-95,,Rayo B,Rayo Vallecano,2013,Spanish
+36,36,Juanito,ESP,F,,,29-02-92,,Rayo B,Rayo Vallecano,2013,Spanish
+37,37,Edu Prieto,ESP,D,,,20-02-95,,Rayo B,Rayo Vallecano,2013,Spanish
+38,38,Sergio Nanclares,ESP,M,,,03-06-94,,Rayo B,Rayo Vallecano,2013,Spanish
+40,40,Borja López,ESP,D,1.92,83,02-02-94,Gijón,Monaco,Rayo Vallecano,2013,Spanish
+1,1,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+2,2,Raphaël Varane,FRA,D,1.91,76,25-04-93,Lille,Lens,Real Madrid,2013,Spanish
+3,3,Pepe,POR,D,1.86,72,26-02-83,Maceió,FC Porto,Real Madrid,2013,Spanish
+4,4,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas,Sevilla,Real Madrid,2013,Spanish
+5,5,Fábio Coentrão,POR,D,1.78,66,11-03-88,Vila do Conde,Benfica,Real Madrid,2013,Spanish
+6,6,Sami Khedira,GER,M,1.89,83,04-04-87,Stuttgart,Stuttgart,Real Madrid,2013,Spanish
+7,7,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal,Manchester U,Real Madrid,2013,Spanish
+9,9,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon,Lyon,Real Madrid,2013,Spanish
+11,11,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff,Tottenham H,Real Madrid,2013,Spanish
+12,12,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro,Fluminense,Real Madrid,2013,Spanish
+13,13,Jesús Fernández,ESP,G,1.89,79,11-06-88,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+14,14,Xabi Alonso,ESP,M,1.83,75,25-11-81,Tolosa,Liverpool,Real Madrid,2013,Spanish
+15,15,Daniel Carvajal,ESP,D,1.73,70,11-01-92,Leganés,Bayer Leverkusen,Real Madrid,2013,Spanish
+16,16,Casemiro,BRA,M,1.84,80,23-02-92,São José dos Campos,São Paulo,Real Madrid,2013,Spanish
+17,17,Álvaro Arbeloa,ESP,D,1.83,76,17-01-83,Salamanca,Liverpool,Real Madrid,2013,Spanish
+18,18,Nacho Fernández,ESP,D,1.80,74,18-01-90,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+19,19,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar,Tottenham H,Real Madrid,2013,Spanish
+20,20,Jesé,ESP,F,1.78,72,26-02-93,Las Palmas,Real Madrid B,Real Madrid,2013,Spanish
+21,21,Álvaro Morata,ESP,F,1.87,80,23-10-92,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+22,22,Ángel Di Maria,ARG,M,1.78,75,14-02-88,Rosario,Benfica,Real Madrid,2013,Spanish
+23,23,Isco,ESP,F,1.76,80,21-04-92,Valencia,Málaga,Real Madrid,2013,Spanish
+24,24,Asier Illarramendi,ESP,M,1.77,74,08-03-90,Mutriku,Real Sociedad,Real Madrid,2013,Spanish
+25,25,Diego López,ESP,G,1.96,88,03-11-81,Paradela,Sevilla,Real Madrid,2013,Spanish
+26,26,José Rodríguez,ESP,M,1.80,68,16-12-94,Villajoyosa,Real Madrid B,Real Madrid,2013,Spanish
+27,27,Lucas Vázquez,ESP,M,1.73,69,01-07-91,Curtis,Real Madrid B,Real Madrid,2013,Spanish
+28,28,Omar Mascarell,ESP,M,1.81,71,02-02-93,Santa Cruz de Tenerife,Real Madrid B,Real Madrid,2013,Spanish
+29,29,Cristian Benavente,PER,M,1.72,68,19-05-94,Alcalá de Henares,Real Madrid B,Real Madrid,2013,Spanish
+30,30,Burgui,ESP,M,1.84,71,29-10-93,Burguillos del Cerro,Real Madrid B,Real Madrid,2013,Spanish
+32,32,Jorge Casado,ESP,D,1.83,77,26-06-89,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+33,33,Borja,ESP,M,1.72,65,02-11-90,Torremocha de Jarama,Real Madrid B,Real Madrid,2013,Spanish
+34,34,Rubén Belima,EQG,M,1.80,70,11-02-92,Mostoles,Real Madrid B,Real Madrid,2013,Spanish
+35,35,Fernando Pacheco,ESP,G,1.87,81,18-05-92,Badajoz,Real Madrid B,Real Madrid,2013,Spanish
+36,36,Rubén Sobrino,ESP,F,1.85,73,01-06-92,Daimiel,Real Madrid B,Real Madrid,2013,Spanish
+37,37,Derik Osede,ESP,D,1.81,74,21-02-93,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+38,38,Diego Llorente,ESP,D,1.85,74,16-08-93,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+39,39,Willian José,BRA,F,1.86,81,23-11-91,Porto Calvo,Deportivo Maldonado,Real Madrid,2013,Spanish
+40,40,Álvaro Medrán,ESP,M,1.76,71,15-03-94,Córdoba,Real Madrid B,Real Madrid,2013,Spanish
+41,41,Raúl de Tomás,ESP,F,1.78,68,17-10-94,Madrid,Real Madrid B,Real Madrid,2013,Spanish
+42,42,Jacob Sánchez,ESP,G,1.86,76,28-08-91,Torrelles de Llobregat,Real Madrid B,Real Madrid,2013,Spanish
+1,1,Claudio Bravo,CHI,G,1.84,84,13-04-83,Viluco,Colo-Colo,Real Sociedad,2013,Spanish
+2,2,Carlos Martínez,ESP,D,1.88,78,09-04-86,Estella,Real Sociedad B,Real Sociedad,2013,Spanish
+3,3,Mikel González,ESP,D,1.88,78,24-09-85,Mondragón,Real Sociedad B,Real Sociedad,2013,Spanish
+4,4,Gorka Elustondo,ESP,M,1.82,73,18-03-87,Beasain,Real Sociedad B,Real Sociedad,2013,Spanish
+5,5,Markel Bergara,ESP,M,1.80,74,05-05-86,Elgoibar,Real Sociedad B,Real Sociedad,2013,Spanish
+6,6,Íñigo Martínez,ESP,D,1.76,62,17-05-91,Ondarroa,Real Sociedad B,Real Sociedad,2013,Spanish
+7,7,Antoine Griezmann,FRA,F,1.74,72,21-03-91,Maçon,Real Sociedad B,Real Sociedad,2013,Spanish
+8,8,Haris Seferovic,SUI,F,1.85,83,22-02-92,Sursee,Fiorentina,Real Sociedad,2013,Spanish
+9,9,Imanol Agirretxe,ESP,F,1.85,74,24-02-87,Usurbil,Real Sociedad B,Real Sociedad,2013,Spanish
+10,10,Xabi Prieto,ESP,M,1.85,77,29-08-83,San Sebastián,Real Sociedad B,Real Sociedad,2013,Spanish
+11,11,Carlos Vela,MEX,F,1.76,72,01-03-89,Cancún,Arsenal,Real Sociedad,2013,Spanish
+13,13,Eñaut Zubikarai,ESP,G,1.85,73,26-02-84,Ondarroa,Real Sociedad B,Real Sociedad,2013,Spanish
+14,14,Rubén Pardo,ESP,M,1.75,70,22-10-92,Logroño,Real Sociedad B,Real Sociedad,2013,Spanish
+15,15,Ion Ansotegi,ESP,D,1.92,84,13-07-82,Berriatua,Real Sociedad B,Real Sociedad,2013,Spanish
+16,16,Sergio Canales,ESP,M,1.76,65,16-02-91,Santander,Valencia,Real Sociedad,2013,Spanish
+17,17,David Zurutuza,ESP,M,1.84,70,19-07-86,Rochefort,Real Sociedad B,Real Sociedad,2013,Spanish
+18,18,Gonzalo Castro,URU,M,1.76,70,14-09-84,Trinidad,Mallorca,Real Sociedad,2013,Spanish
+20,20,José Ángel,ESP,D,1.82,77,05-09-89,Gijón,Roma,Real Sociedad,2013,Spanish
+22,22,Dani Estrada,ESP,M,1.77,68,03-01-87,Zarautz,Real Sociedad B,Real Sociedad,2013,Spanish
+23,23,Javi Ros,ESP,M,1.72,67,16-02-90,Pamplona,Real Sociedad B,Real Sociedad,2013,Spanish
+24,24,Alberto De La Bella,ESP,M,1.79,72,02-12-85,Santa Coloma de Gramanet,Sevilla B,Real Sociedad,2013,Spanish
+25,25,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid,QPR,Real Sociedad,2013,Spanish
+26,26,Enrique Royo,ESP,G,1.83,75,14-06-91,Logroño,Real Sociedad B,Real Sociedad,2013,Spanish
+28,28,Jon Gaztañaga,ESP,D,1.82,78,28-06-91,Andoain,Real Sociedad B,Real Sociedad,2013,Spanish
+29,29,Pablo Hervías,ESP,M,1.74,68,08-03-93,Logroño,Real Sociedad B,Real Sociedad,2013,Spanish
+30,30,Alexander Callens,PER,D,1.83,76,04-05-92,Callao,Real Sociedad B,Real Sociedad,2013,Spanish
+31,31,Joseba Zaldúa,ESP,D,1.76,71,24-06-92,San Sebastián,Real Sociedad B,Real Sociedad,2013,Spanish
+32,32,Marco Sangalli,ESP,F,1.79,66,07-02-92,San Sebastián,Real Sociedad B,Real Sociedad,2013,Spanish
+34,34,Julen Etxabeguren,ESP,D,1.89,83,07-03-91,Madrid,Real Sociedad B,Real Sociedad,2013,Spanish
+35,35,Iker Hernández,ESP,F,1.81,74,08-04-94,Urnieta,Real Sociedad B,Real Sociedad,2013,Spanish
+36,36,Alain Oyarzun,ESP,M,1.82,73,27-09-93,San Sebastián,Real Sociedad B,Real Sociedad,2013,Spanish
+1,1,Javi Varas,ESP,G,1.82,73,10-09-82,Seville,Sevilla B,Sevilla,2013,Spanish
+2,2,Federico Fazio,ARG,D,1.95,85,17-03-87,Buenos Aires,Ferrocarril Oeste,Sevilla,2013,Spanish
+3,3,Fernando Navarro,ESP,D,1.78,70,25-06-82,Barcelona,Mallorca,Sevilla,2013,Spanish
+5,5,Diogo Figueiras,BRA,D,1.70,63,01-07-91,Povos,Paços de Ferreira,Sevilla,2013,Spanish
+6,6,Daniel Carriço,POR,D,1.80,75,04-08-88,Cascais,Reading,Sevilla,2013,Spanish
+7,7,Marko Marin,GER,M,1.70,63,13-03-89,Gradika,Chelsea,Sevilla,2013,Spanish
+8,8,Sebastián Cristóforo,URU,M,1.74,65,23-08-93,Montevideo,Peñarol,Sevilla,2013,Spanish
+9,9,Carlos Bacca,COL,F,1.79,76,08-09-86,Barranquilla,Club Brugge,Sevilla,2013,Spanish
+11,11,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden,Schalke,Sevilla,2013,Spanish
+12,12,Vicente Iborra,ESP,F,1.90,76,16-01-88,Moncada,Levante,Sevilla,2013,Spanish
+13,13,Beto,POR,G,1.80,80,01-05-82,Loures,Sporting Braga,Sevilla,2013,Spanish
+14,14,Alberto Moreno,ESP,D,1.71,64,05-07-92,Seville,Sevilla B,Sevilla,2013,Spanish
+15,15,Piotr Trochowski,GER,M,1.69,70,22-03-84,Dirschau,Hamburg,Sevilla,2013,Spanish
+16,16,Denis Cheryshev,RUS,M,1.79,72,26-12-90,Nizhny Novgorod,Real Madrid,Sevilla,2013,Spanish
+17,17,Jairo,ESP,M,1.70,65,11-07-93,Cabezón de la Sal,Racing Santander,Sevilla,2013,Spanish
+18,18,Kevin Gameiro,FRA,F,1.72,69,09-04-87,Senlis,Paris St-Germain,Sevilla,2013,Spanish
+19,19,José Antonio Reyes,ESP,M,1.76,76,01-09-83,Utrera,Atlético Madrid,Sevilla,2013,Spanish
+20,20,Vitolo,ESP,F,1.83,80,02-11-89,Las Palmas,Las Palmas,Sevilla,2013,Spanish
+21,21,Nicolás Pareja,ARG,D,1.81,75,19-01-84,Capital Federal,Spartak Moscow,Sevilla,2013,Spanish
+22,22,Stéphane Mbia,CMR,M,1.89,82,20-05-86,Yaoundé,QPR,Sevilla,2013,Spanish
+23,23,Coke,ESP,D,1.82,78,26-04-87,Madrid,Rayo Vallecano,Sevilla,2013,Spanish
+24,24,Cicinho,BRA,D,1.73,63,04-08-86,Jundiaí,Palmeiras,Sevilla,2013,Spanish
+26,26,Mode,ESP,D,1.70,66,14-06-94,Seville,Sevilla B,Sevilla,2013,Spanish
+27,27,Antonio Cotán,ESP,M,1.74,65,19-09-95,Olivares,Sevilla B,Sevilla,2013,Spanish
+28,28,Moisés,ESP,D,1.73,60,18-04-94,Utrera,Sevilla B,Sevilla,2013,Spanish
+29,29,Sergio Rico,ESP,G,1.94,88,01-09-93,Seville,Sevilla B,Sevilla,2013,Spanish
+30,30,Israel,ESP,D,1.88,77,15-06-93,Seville,Sevilla B,Sevilla,2013,Spanish
+31,31,Luismi,ESP,M,1.80,76,05-05-92,Jerez de la Frontera,Sevilla B,Sevilla,2013,Spanish
+33,33,Carlos Fernández,ESP,F,1.86,72,22-05-96,Seville,Sevilla B,Sevilla,2013,Spanish
+34,34,Gonzalo,ESP,F,1.77,69,22-04-94,Coria del Río,Sevilla B,Sevilla,2013,Spanish
+35,35,Carlos Garrido,ESP,D,1.78,75,02-04-94,Alcalá la Real,Sevilla B,Sevilla,2013,Spanish
+1,1,Diego Alves,BRA,G,1.88,83,24-06-85,Rio de Janeiro,Almería,Valencia,2013,Spanish
+2,2,Pablo Piatti,ARG,F,1.63,63,31-03-89,La Carlota,Almería,Valencia,2013,Spanish
+3,3,Rúben Vezo,POR,D,1.84,76,25-04-94,Setúbal,Vitória Setúbal,Valencia,2013,Spanish
+4,4,Philippe Senderos,SUI,D,1.90,84,14-02-85,Geneva,Fulham,Valencia,2013,Spanish
+5,5,Víctor Ruíz,ESP,D,1.84,73,25-01-89,Esplugues de Llobregat,Napoli,Valencia,2013,Spanish
+6,6,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona,Chelsea,Valencia,2013,Spanish
+7,7,Jonas,BRA,F,1.83,73,01-04-84,Bebedouro,Grêmio,Valencia,2013,Spanish
+8,8,Sofiane Feghouli,ALG,M,1.78,71,26-12-89,Levallois-Perret,Grenoble,Valencia,2013,Spanish
+11,11,Seydou Keita,MLI,M,1.83,77,16-01-80,Bamako,Dalian Aerbin,Valencia,2013,Spanish
+12,12,João Pereira,POR,D,1.72,64,25-02-84,Lisbon,Sporting CP,Valencia,2013,Spanish
+13,13,Vicente Guaita,ESP,G,1.90,80,18-02-87,Valencia,Valencia B,Valencia,2013,Spanish
+14,14,Juan Bernat,ESP,M,1.72,67,01-03-93,Valencia,Valencia B,Valencia,2013,Spanish
+15,15,Javi Fuego,ESP,M,1.81,74,04-01-84,Pola di Siero,Rayo Vallecano,Valencia,2013,Spanish
+16,16,Paco Alcácer,ESP,F,1.74,71,30-08-93,Torrent,Valencia B,Valencia,2013,Spanish
+17,17,Eduardo Vargas,CHI,F,1.73,74,20-11-89,Santiago,Napoli,Valencia,2013,Spanish
+19,19,Antonio Barragán,ESP,D,1.82,76,12-06-87,Pontedeume,Valladolid,Valencia,2013,Spanish
+20,20,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia,Lille,Valencia,2013,Spanish
+21,21,Daniel Parejo,ESP,M,1.80,75,16-04-89,Madrid,Getafe,Valencia,2013,Spanish
+22,22,Jérémy Mathieu,FRA,D,1.90,82,29-10-83,Luxeuil-les-Bains,Toulouse,Valencia,2013,Spanish
+24,24,Míchel,ESP,F,1.81,69,29-07-88,Valencia,Levante,Valencia,2013,Spanish
+25,25,Vinícius Araújo,BRA,F,1.76,76,22-02-93,João Monlevade,Cruzeiro,Valencia,2013,Spanish
+26,26,Jaume Domènech,ESP,G,1.85,79,05-11-90,Castellón,Huracán Valencia,Valencia,2013,Spanish
+27,27,Robert Ibañez,ESP,F,1.75,65,22-03-93,Valencia,Valencia B,Valencia,2013,Spanish
+28,28,Fede Cartabia,ARG,M,1.70,65,20-01-93,Rosario,Valencia B,Valencia,2013,Spanish
+29,29,Manu Molina,ESP,M,1.75,63,20-11-91,Huelva,Espanyol B,Valencia,2013,Spanish
+30,30,Portu,ESP,M,1.70,70,21-05-92,Beniel,Valencia B,Valencia,2013,Spanish
+31,31,José Luis Gayá,ESP,M,1.69,62,25-05-95,Pedreguer,Valencia B,Valencia,2013,Spanish
+32,32,Cifo,ESP,M,1.73,68,06-08-92,Albacete,Valencia B,Valencia,2013,Spanish
+34,34,Serge Leuko,CMR,D,1.74,75,04-08-93,Douala,Valencia B,Valencia,2013,Spanish
+38,38,Antonio Sivera,ESP,G,1.85,75,11-08-96,Jávea,Valencia B,Valencia,2013,Spanish
+41,45,Héctor Pizana,ESP,G,,,07-02-95,Los Montesinos,Valencia B,Valencia,2013,Spanish
+42,46,Salva Ruiz,ESP,D,1.75,70,17-05-95,Albal,Valencia B,Valencia,2013,Spanish
+43,48,Sergio Ayala,ESP,D,1.84,76,19-03-93,Sant Feliu de Llobregat,Barcelona B,Valencia,2013,Spanish
+44,49,Alberto Tendillo,ESP,D,1.76,72,26-02-95,Moncada,Valencia B,Valencia,2013,Spanish
+45,50,Lion Kaak,NED,M,1.80,80,26-06-91,Hengelo,Go Ahead Eagles,Valencia,2013,Spanish
+1,1,Jaime,ESP,G,1.88,79,10-12-80,Valdepeñas,Elche,Valladolid,2013,Spanish
+2,2,Antonio Rukavina,SRB,D,1.77,72,26-01-84,Belgrade,1860 Munich,Valladolid,2013,Spanish
+3,3,Heinz Barmettler,DOM,D,1.82,70,21-07-87,Zürich,Vaduz,Valladolid,2013,Spanish
+4,4,Marc Valiente,ESP,D,1.84,71,29-03-87,Granollers,Sevilla B,Valladolid,2013,Spanish
+5,5,Fausto Rossi,ITA,M,1.75,60,03-12-90,Turin,Juventus,Valladolid,2013,Spanish
+6,6,Jesús Rueda,ESP,M,1.81,78,19-02-87,Badajoz,Valladolid B,Valladolid,2013,Spanish
+7,7,Humberto Osorio,COL,F,1.75,77,24-06-88,Valledupar,San Martín (San Juan),Valladolid,2013,Spanish
+8,8,Javier Baraja,ESP,D,1.79,79,24-08-80,Valladolid,Málaga B,Valladolid,2013,Spanish
+9,9,Javi Guerra,ESP,F,1.81,78,15-03-83,Vélez,Mallorca,Valladolid,2013,Spanish
+10,10,Óscar,ESP,M,1.81,70,12-11-82,Salamanca,Olympiakos,Valladolid,2013,Spanish
+11,11,Daniel Larsson,SWE,M,1.76,77,25-01-87,Gothenburg,Malmö FF,Valladolid,2013,Spanish
+13,13,Diego Mariño,ESP,G,1.85,75,09-05-90,Vigo,Villarreal,Valladolid,2013,Spanish
+14,14,Julián Omar,ESP,M,1.75,65,26-01-88,Santa Cruz de Tenerife,Huesca,Valladolid,2013,Spanish
+15,15,Stefan Mitrović,SRB,D,1.89,84,22-05-90,Belgrade,Benfica,Valladolid,2013,Spanish
+16,16,Lluís Sastre,ESP,M,1.75,71,26-03-86,Binisalem,Huesca,Valladolid,2013,Spanish
+17,17,Carlos Peña,ESP,D,1.81,79,28-07-83,Salamanca,Recreativo Huelva,Valladolid,2013,Spanish
+18,18,Álvaro Rubio,ESP,M,1.78,80,18-04-79,Logroño,Albacete,Valladolid,2013,Spanish
+19,19,Valdet Rama,ALB,M,1.82,79,20-11-87,Kosovska Mitrovica,Örebro SK,Valladolid,2013,Spanish
+21,21,Zakarya Bergdich,MAR,D,1.78,69,07-01-89,Paris,Lens,Valladolid,2013,Spanish
+22,22,Víctor Pérez,ESP,M,1.76,71,12-01-88,Albacete,Huesca,Valladolid,2013,Spanish
+23,23,Manucho,ANG,F,1.88,83,07-03-83,Luanda,Manchester U,Valladolid,2013,Spanish
+24,24,Jeffrén Suárez,ESP,F,1.76,73,20-01-88,Ciudad Bolivar,Sporting CP,Valladolid,2013,Spanish
+31,31,Jorge Pesca,ESP,M,1.80,78,24-02-92,Aranda de Duero,Valladolid B,Valladolid,2013,Spanish
+33,33,Antonio Amaro,ESP,M,1.78,75,23-04-92,Salamanca,Valladolid B,Valladolid,2013,Spanish
+34,34,Zubi,ESP,M,1.81,74,21-05-93,Cáceres,Valladolid B,Valladolid,2013,Spanish
+36,36,Julio,ESP,G,1.82,80,16-06-93,Valladolid,Valladolid B,Valladolid,2013,Spanish
+41,41,Alberto Rodríguez,ESP,M,1.73,70,01-02-92,Barcelona,Valladolid B,Valladolid,2013,Spanish
+42,43,Daniel Vadillo,ESP,M,1.77,62,06-05-93,Madrid,Valladolid B,Valladolid,2013,Spanish
+1,1,Sergio Asenjo,ESP,G,1.82,85,28-06-89,Palencia,Atlético Madrid,Villarreal,2013,Spanish
+2,2,Mario,ESP,D,1.75,70,24-11-90,Novelda,Villarreal B,Villarreal,2013,Spanish
+3,3,Bojan Jokič,SVN,D,1.76,75,17-05-86,Kranj,Chievo Verona,Villarreal,2013,Spanish
+4,4,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid,Mallorca,Villarreal,2013,Spanish
+5,5,Mateo Musacchio,ARG,D,1.79,72,26-08-90,Rosario,Villarreal B,Villarreal,2013,Spanish
+6,6,Aleksandar Pantić,SRB,D,1.84,77,11-04-92,Arandjelovac,Crvena Zvezda,Villarreal,2013,Spanish
+7,7,Jérémy Perbet,FRA,F,1.84,77,12-12-84,Le Puy-en-Velay,RAEC Mons,Villarreal,2013,Spanish
+8,8,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba,Zaragoza,Villarreal,2013,Spanish
+9,9,Giovani dos Santos,MEX,M,1.73,77,11-05-89,Monterrey,Mallorca,Villarreal,2013,Spanish
+10,10,Cani,ESP,M,1.80,75,03-08-81,Zaragoza,Zaragoza,Villarreal,2013,Spanish
+12,12,Joan Román,ESP,M,1.75,65,18-05-93,Reus,Barcelona B,Villarreal,2013,Spanish
+14,14,Manu Trigueros,ESP,F,1.78,70,17-10-91,Talavera de la Reina,Villarreal B,Villarreal,2013,Spanish
+16,16,José Antonio Dorado,ESP,D,1.80,69,10-07-82,Córdoba,Betis,Villarreal,2013,Spanish
+17,17,Javier Aquino,MEX,M,1.68,59,11-02-90,Oaxaca,Cruz Azul,Villarreal,2013,Spanish
+18,18,Jaume,ESP,D,1.69,67,18-03-88,Valencia,Villarreal B,Villarreal,2013,Spanish
+19,19,Óliver Torres,ESP,M,1.78,70,10-11-94,Navalmoral de la Mata,Atlético Madrid,Villarreal,2013,Spanish
+20,20,Gabriel Paulista,BRA,D,1.85,72,26-11-90,São Paulo,Vitória,Villarreal,2013,Spanish
+21,21,Bruno,ESP,M,1.79,70,12-06-84,Artana,Villarreal B,Villarreal,2013,Spanish
+24,24,Jonathan Pereira,ESP,F,1.66,61,12-05-87,Vigo,Betis,Villarreal,2013,Spanish
+25,25,Juan Carlos,ESP,G,1.80,78,27-07-87,Calvià,Villarreal B,Villarreal,2013,Spanish
+27,27,Moi Gómez,ESP,M,1.74,65,23-06-94,Rojales,Villarreal B,Villarreal,2013,Spanish
+28,28,Edu Ramos,ESP,M,1.76,71,17-02-92,Churriana,Villarreal B,Villarreal,2013,Spanish
+29,29,Pablo Íñiguez,ESP,D,1.83,72,20-01-94,Burgos,Villarreal B,Villarreal,2013,Spanish
+33,33,Juanto,ESP,F,1.77,70,11-02-92,Yecla,Villarreal B,Villarreal,2013,Spanish
+35,35,Aitor Fernández,ESP,G,1.82,74,03-05-91,Mondragón,Villarreal B,Villarreal,2013,Spanish
+37,37,Albert Blázquez,ESP,D,1.77,67,21-01-92,Girona,Espanyol B,Villarreal,2013,Spanish
+38,38,Diego Jiménez,ESP,D,1.85,75,11-08-91,Benavente,Villarreal B,Villarreal,2013,Spanish
+39,39,Pablo González,ESP,M,1.73,67,12-05-93,Almuñécar,Villarreal B,Villarreal,2013,Spanish
+41,44,Nahuel Leiva,ESP,M,1.74,67,22-10-96,Rosario,Villarreal B,Villarreal,2013,Spanish

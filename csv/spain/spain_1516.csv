@@ -1,0 +1,629 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Gorka Iraizoz,ESP,G,1.91,81,06-03-81,Pamplona,Espanyol,Athletic Bilbao,2015,Spanish
+2,2,Eneko Bóveda,ESP,D,1.80,77,14-12-88,Bilbao,Eibar,Athletic Bilbao,2015,Spanish
+3,3,Gorka Elustondo,ESP,M,1.82,73,18-03-87,Beasain,Real Sociedad,Athletic Bilbao,2015,Spanish
+4,4,Aymeric Laporte,FRA,D,1.89,85,27-05-94,Agen,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+5,5,Javier Eraso,ESP,M,1.80,71,22-03-90,Pamplona,Leganés,Athletic Bilbao,2015,Spanish
+6,6,Mikel San José,ESP,D,1.83,78,30-05-89,Pamplona,Liverpool,Athletic Bilbao,2015,Spanish
+7,7,Beñat,ESP,M,1.75,72,19-02-87,Igorre,Betis,Athletic Bilbao,2015,Spanish
+8,8,Ander Iturraspe,ESP,M,1.87,73,08-03-89,Abadiño,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+10,10,Óscar de Marcos,ESP,M,1.80,73,14-04-89,Vitoria,Alavés,Athletic Bilbao,2015,Spanish
+11,11,Ibai Gómez,ESP,F,1.79,73,11-11-89,Bilbao,Sestao River,Athletic Bilbao,2015,Spanish
+13,13,Iago Herrerín,ESP,G,1.86,90,25-01-88,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+14,14,Markel Susaeta,ESP,M,1.79,68,14-12-87,Eibar,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+15,15,Iñaki Williams,ESP,F,1.86,71,15-06-94,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+16,16,Xabier Etxeita,ESP,M,1.85,79,31-10-87,Zornotza,Elche,Athletic Bilbao,2015,Spanish
+17,17,Mikel Rico,ESP,M,1.78,75,01-11-84,Cruces,Granada,Athletic Bilbao,2015,Spanish
+18,18,Carlos Gurpegi,ESP,M,1.81,77,19-08-80,Pamplona,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+19,19,Iker Muniain,ESP,F,1.68,62,19-12-92,Iruñea,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+20,20,Aritz Aduriz,ESP,F,1.77,75,11-02-81,San Sebastián,Valencia,Athletic Bilbao,2015,Spanish
+21,21,Borja Viguera,ESP,F,1.84,80,26-03-87,Logroño,Alavés,Athletic Bilbao,2015,Spanish
+22,22,Raúl García,ESP,M,1.83,80,11-07-86,Pamplona,Atlético Madrid,Athletic Bilbao,2015,Spanish
+24,24,Mikel Balenziaga,ESP,D,1.79,74,29-02-88,Zumárraga,Valladolid,Athletic Bilbao,2015,Spanish
+25,25,Sabin Merino,ESP,F,1.87,78,04-01-92,Urduliz,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+26,26,Alejandro Remiro,ESP,G,1.91,80,24-03-95,Cascante,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+29,29,Unai López,ESP,M,1.69,64,30-10-95,Errenteria,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+30,30,Íñigo Lekue,ESP,D,1.79,70,04-05-93,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+31,31,Yerai Alvarez,ESP,D,1.82,75,24-01-95,Barakaldo,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+32,32,Markel Etxeberria,ESP,D,1.76,74,15-02-95,Erandio,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+33,33,Urtzi Iriondo,ESP,D,1.67,62,30-01-95,Zeberio,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+34,34,Gorka Iturraspe,ESP,M,1.87,72,03-05-94,Abadiño,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+35,35,Gorka Santamaría,ESP,F,1.75,68,03-07-95,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+36,36,Iker Undabarrena,ESP,M,1.80,75,18-05-95,Gorliz,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+37,37,Aitor Seguín,ESP,M,1.79,67,27-02-95,Eibar,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+38,38,Jurgi Oteo,ESP,F,1.71,64,29-08-96,Barakaldo,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+39,39,Asier Villalibre,ESP,F,1.83,82,30-09-97,Guernica,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+40,40,Óscar Gil,ESP,M,1.82,73,14-06-95,Peralta,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+41,41,Unai Bilbao,ESP,D,1.91,80,04-02-94,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+42,42,Unai Simón,ESP,G,1.89,84,11-06-97,Vitoria-Gasteiz,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+43,43,Jonás Ramalho,ESP,D,1.80,64,10-06-93,Barakaldo,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+44,44,Íñigo Córdoba,ESP,M,1.78,75,13-03-97,Bilbao,Athletic Bilbao B,Athletic Bilbao,2015,Spanish
+1,1,Miguel Ángel Moyá,ESP,G,1.85,75,02-04-84,Binissalem,Getafe,Atlético Madrid,2015,Spanish
+2,2,Diego Godín,URU,D,1.85,73,16-02-86,Rosario,Villarreal,Atlético Madrid,2015,Spanish
+3,3,Filipe Luis,BRA,D,1.82,70,09-08-85,Jaraguá do Sul,Chelsea,Atlético Madrid,2015,Spanish
+5,5,Tiago,POR,M,1.83,75,02-05-81,Viana do Castelo,Juventus,Atlético Madrid,2015,Spanish
+6,6,Koke,ESP,M,1.78,73,08-01-92,Madrid,Atlético Madrid B,Atlético Madrid,2015,Spanish
+7,7,Antoine Griezmann,FRA,F,1.74,72,21-03-91,Mâcon,Real Sociedad,Atlético Madrid,2015,Spanish
+8,8,Matías Kranevitter,ARG,M,1.78,74,21-05-93,Yerba Buena,River Plate,Atlético Madrid,2015,Spanish
+9,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid,Milan,Atlético Madrid,2015,Spanish
+10,10,Óliver Torres,ESP,M,1.78,70,10-11-94,Navalmoral de la Mata,Atlético Madrid B,Atlético Madrid,2015,Spanish
+12,12,Augusto Fernández,ARG,M,1.77,71,10-04-86,Pergamino,Celta Vigo,Atlético Madrid,2015,Spanish
+13,13,Jan Oblak,SVN,G,1.85,77,07-01-93,kofja Loka,Benfica,Atlético Madrid,2015,Spanish
+14,14,Gabi,ESP,M,1.79,68,10-07-83,Madrid,Zaragoza,Atlético Madrid,2015,Spanish
+15,15,Stefan Savić,MNE,D,1.86,73,08-01-91,Mojkovac,Fiorentina,Atlético Madrid,2015,Spanish
+16,16,Ángel Correa,ARG,M,1.74,69,09-03-95,Rosario,San Lorenzo,Atlético Madrid,2015,Spanish
+17,17,Saúl Ñiguez,ESP,M,1.82,73,21-11-94,Elche,Atlético Madrid B,Atlético Madrid,2015,Spanish
+18,18,Jesús Gámez,ESP,D,1.82,70,10-04-85,Fuengirola,Málaga,Atlético Madrid,2015,Spanish
+19,19,Lucas Hernández,FRA,D,1.80,75,14-02-96,Marseille,Atlético Madrid B,Atlético Madrid,2015,Spanish
+20,20,Juanfran,ESP,D,1.80,72,09-01-85,Crevillent,Osasuna,Atlético Madrid,2015,Spanish
+21,21,Yannick Ferreira Carrasco,BEL,M,1.80,67,04-09-93,Elsene,Monaco,Atlético Madrid,2015,Spanish
+22,22,Thomas Partey,GHA,M,1.85,73,13-07-93,Odumase Krobo,Atlético Madrid B,Atlético Madrid,2015,Spanish
+23,23,Luciano Vietto,ARG,F,1.73,68,05-12-93,Balnearia,Villarreal,Atlético Madrid,2015,Spanish
+24,24,José Giménez,URU,D,1.85,80,20-01-95,Toledo,Danubio,Atlético Madrid,2015,Spanish
+27,27,Borja González,ESP,D,,,17-11-95,Pinto,Atlético Madrid B,Atlético Madrid,2015,Spanish
+28,28,Roberto Núñez,ESP,F,1.82,77,03-01-96,Talavera de la Reina,Atlético Madrid B,Atlético Madrid,2015,Spanish
+32,32,Nacho Monsalve,ESP,D,,,27-04-94,Madrid,Atlético Madrid B,Atlético Madrid,2015,Spanish
+33,33,Théo Hernández,FRA,D,1.85,78,06-10-97,Marseille,Atlético Madrid B,Atlético Madrid,2015,Spanish
+34,34,Samuel Villa,ESP,M,1.70,68,16-09-94,Leganés,Atlético Madrid B,Atlético Madrid,2015,Spanish
+35,35,Amath Ndiaye,SEN,F,1.70,70,16-07-96,Dakar,Atlético Madrid B,Atlético Madrid,2015,Spanish
+1,1,Marc-André ter Stegen,GER,G,1.85,82,30-04-92,Mönchengladbach,B Mönchengladbach,Barcelona,2015,Spanish
+2,2,Douglas,BRA,D,1.72,63,06-08-90,Monte Alegre,São Paulo,Barcelona,2015,Spanish
+3,3,Gerard Piqué,ESP,D,1.92,85,02-02-87,Barcelona,Manchester U,Barcelona,2015,Spanish
+4,4,Ivan Rakitić,CRO,M,1.84,79,10-03-88,Rheinfelden,Sevilla,Barcelona,2015,Spanish
+5,5,Sergio Busquets,ESP,M,1.89,73,16-07-88,Sabadell,Barcelona B,Barcelona,2015,Spanish
+6,6,Daniel Alves,BRA,D,1.73,64,06-05-83,Juazeiro,Sevilla,Barcelona,2015,Spanish
+7,7,Arda Turan,TUR,M,1.76,72,30-01-87,Fatih,Atlético Madrid,Barcelona,2015,Spanish
+8,8,Andrés Iniesta,ESP,M,1.70,65,11-05-84,Fuentealbilla,Barcelona B,Barcelona,2015,Spanish
+9,9,Luis Suárez,URU,F,1.81,81,24-01-87,Salto,Liverpool,Barcelona,2015,Spanish
+10,10,Lionel Messi,ARG,M,1.69,67,24-06-87,Santa Fe,Barcelona B,Barcelona,2015,Spanish
+11,11,Neymar,BRA,F,1.74,64,05-02-92,Mogi das Cruzes,Santos,Barcelona,2015,Spanish
+12,12,Rafinha,BRA,M,1.77,75,12-02-93,Bari,Barcelona B,Barcelona,2015,Spanish
+13,13,Claudio Bravo,CHI,G,1.84,84,13-04-83,Viluco,Real Sociedad,Barcelona,2015,Spanish
+14,14,Javier Mascherano,ARG,M,1.78,77,08-06-84,Rosario,Liverpool,Barcelona,2015,Spanish
+15,15,Marc Bartra,ESP,D,1.84,75,15-01-91,San Jaime dels Domenys,Barcelona B,Barcelona,2015,Spanish
+17,17,Munir El Haddadi,ESP,F,1.72,62,01-09-95,El Escorial,Barcelona B,Barcelona,2015,Spanish
+18,18,Jordi Alba,ESP,D,1.65,63,21-03-89,L'Hospitalet de Llobregat,Valencia,Barcelona,2015,Spanish
+19,19,Sandro Ramírez,ESP,F,1.72,60,09-07-95,Las Palmas,Barcelona B,Barcelona,2015,Spanish
+20,20,Sergi Roberto,ESP,M,1.73,70,07-02-92,Reus,Barcelona B,Barcelona,2015,Spanish
+21,21,Adriano,BRA,M,1.72,67,26-10-84,Curitiba,Sevilla,Barcelona,2015,Spanish
+22,22,Aleix Vidal,ESP,M,1.76,70,21-08-89,Valls,Sevilla,Barcelona,2015,Spanish
+23,23,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen,Arsenal,Barcelona,2015,Spanish
+24,24,Jérémy Mathieu,FRA,D,1.90,82,29-10-83,Luxeuil-les-Bains,Valencia,Barcelona,2015,Spanish
+25,25,Jordi Masip,ESP,G,1.80,72,03-01-89,Sabadell,Barcelona B,Barcelona,2015,Spanish
+26,26,Sergi Samper,ESP,M,1.81,73,20-01-95,Barcelona,Barcelona B,Barcelona,2015,Spanish
+27,27,Juan Cámara,ESP,M,1.80,66,13-02-94,Jaén,Villarreal B,Barcelona,2015,Spanish
+28,28,Gerard Gumbau,ESP,M,1.88,77,18-12-94,Campllong,Girona B,Barcelona,2015,Spanish
+31,31,José Aurelio Suárez,ESP,G,1.87,85,18-12-95,Gijón,Barcelona B,Barcelona,2015,Spanish
+34,34,Wilfrid Kaptoum,CMR,M,1.74,71,07-07-96,Douala,Barcelona B,Barcelona,2015,Spanish
+35,35,Adrián Ortolà,ESP,G,1.82,70,20-08-93,Xàbia,Barcelona B,Barcelona,2015,Spanish
+36,36,Dani Romera,ESP,F,1.75,66,23-08-95,Almería,Almería B,Barcelona,2015,Spanish
+37,37,Carles Aleñà,ESP,M,1.80,70,05-01-98,Mataró,Barcelona B,Barcelona,2015,Spanish
+1,1,Dani Giménez,ESP,G,1.82,77,30-07-83,Vigo,Alcorcón,Betis,2015,Spanish
+2,2,Francisco Molinero,ESP,D,1.75,72,26-07-85,Toledo,Murcia,Betis,2015,Spanish
+3,3,Martín Montoya,ESP,D,1.74,74,14-04-91,Gavà,Barcelona,Betis,2015,Spanish
+4,4,Bruno,ESP,D,1.84,82,24-05-90,Las Galletas,Tenerife,Betis,2015,Spanish
+5,5,Foued Kadir,ALG,M,1.79,68,05-12-83,Martigues,Marseille,Betis,2015,Spanish
+6,6,Francisco Varela,ESP,D,1.74,68,26-10-94,Atarfe,Betis B,Betis,2015,Spanish
+7,7,Joaquín,ESP,M,1.79,75,21-07-81,Puerto de Santa Maria,Fiorentina,Betis,2015,Spanish
+8,8,Charly Musonda,BEL,M,1.73,65,15-10-96,Brussels,Chelsea,Betis,2015,Spanish
+9,9,Ricky van Wolfswinkel,NED,F,1.85,69,27-01-89,Amersfoort,Norwich C,Betis,2015,Spanish
+10,10,Dani Ceballos,ESP,M,1.76,65,07-08-96,Seville,Betis B,Betis,2015,Spanish
+11,11,Juan Manuel Vargas,PER,M,1.80,75,05-10-83,Lima,Fiorentina,Betis,2015,Spanish
+12,12,Leandro Damião,BRA,F,1.88,81,22-07-89,Jardim Alegre,Santos,Betis,2015,Spanish
+13,13,Antonio Adán,ESP,G,1.89,85,13-05-87,Madrid,Cagliari,Betis,2015,Spanish
+14,14,Xavi Torres,ESP,M,1.82,76,21-11-86,Jávea,Getafe,Betis,2015,Spanish
+15,15,Didier Digard,FRA,M,1.83,76,12-07-86,Gisors,Nice,Betis,2015,Spanish
+16,16,Álvaro Cejudo,ESP,M,1.80,72,29-01-84,Puente Genil,Osasuna,Betis,2015,Spanish
+17,17,Heiko Westermann,GER,D,1.90,85,14-08-83,Alzenau,Hamburg,Betis,2015,Spanish
+18,18,Alfred N'Diaye,SEN,M,1.87,87,06-03-90,Paris,Sunderland,Betis,2015,Spanish
+19,19,Jorge Molina,ESP,F,1.88,87,22-04-82,Alcoy,Elche,Betis,2015,Spanish
+20,20,Germán Pezzella,ARG,D,1.86,81,27-06-91,Bahía Blanca,River Plate,Betis,2015,Spanish
+21,21,Álvaro Vadillo,ESP,M,1.80,69,12-09-94,Puerto Real,Betis B,Betis,2015,Spanish
+22,22,Francisco Portillo,ESP,F,1.69,63,13-06-90,Málaga,Málaga,Betis,2015,Spanish
+23,23,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk,Hamburg,Betis,2015,Spanish
+24,24,Rubén Castro,ESP,F,1.74,72,27-06-81,Las Palmas,Deportivo La Coruña,Betis,2015,Spanish
+25,25,Petros,BRA,M,1.82,78,29-05-89,Juazeiro,Corinthians,Betis,2015,Spanish
+27,27,Francis Guerrero,ESP,M,1.72,70,11-03-96,Coín,Betis B,Betis,2015,Spanish
+30,30,Ángel de la Calzada,ESP,G,1.89,79,02-09-94,Jaén,Jaén,Betis,2015,Spanish
+41,41,Pedro,ESP,G,1.87,80,21-01-95,Mérida,Betis B,Betis,2015,Spanish
+42,52,Fabián,ESP,M,1.89,70,03-04-96,Los Palacios y Villafranca,Betis B,Betis,2015,Spanish
+1,1,Sergio Álvarez,ESP,G,1.79,75,03-08-86,Catoria,Celta B,Celta Vigo,2015,Spanish
+2,2,Hugo Mallo,ESP,D,1.81,78,22-06-91,Marín,Celta B,Celta Vigo,2015,Spanish
+3,3,Andreu Fontàs,ESP,D,1.81,72,14-11-89,Banyoles,Barcelona,Celta Vigo,2015,Spanish
+5,5,Marcelo Díaz,CHI,M,1.66,64,30-12-86,Santiago,Hamburg,Celta Vigo,2015,Spanish
+6,6,Nemanja Radoja,SRB,D,1.86,77,06-02-93,Novi Sad,Vojvodina,Celta Vigo,2015,Spanish
+7,7,Theo Bongonda,BEL,F,1.77,70,20-11-95,Charleroi,Zulte-Waregem,Celta Vigo,2015,Spanish
+8,8,Pablo Hernández,CHI,M,1.84,79,24-10-86,Capital Federal,O'Higgins,Celta Vigo,2015,Spanish
+9,9,Iago Aspas,ESP,F,1.76,67,11-08-87,Moaña,Sevilla,Celta Vigo,2015,Spanish
+10,10,Nolito,ESP,F,1.72,65,15-10-86,Sanlúcar de Barrameda,Benfica,Celta Vigo,2015,Spanish
+11,11,John Guidetti,SWE,F,1.81,79,15-04-92,Stockholm,Manchester C,Celta Vigo,2015,Spanish
+12,12,Claudio Beauvue,FRA,F,1.74,66,16-04-88,Saint-Claude,Lyon,Celta Vigo,2015,Spanish
+13,13,Rubén Blanco,ESP,G,1.88,70,25-07-95,Vigo,Celta B,Celta Vigo,2015,Spanish
+14,14,Fabián Orellana,CHI,F,1.69,68,27-01-86,Santiago,Granada,Celta Vigo,2015,Spanish
+16,16,Dejan Draić,SRB,M,1.75,69,26-09-95,Sombor,OFK Belgrade,Celta Vigo,2015,Spanish
+18,18,Daniel Wass,DEN,D,1.81,74,31-05-89,Gladsaxe,Évian TG,Celta Vigo,2015,Spanish
+19,19,Johny,ESP,D,1.75,70,03-03-94,Vigo,Celta B,Celta Vigo,2015,Spanish
+20,20,Sergi Gómez,ESP,D,1.81,76,28-07-92,Arenys de Mar,Barcelona B,Celta Vigo,2015,Spanish
+21,21,Carles Planas,ESP,D,1.80,80,04-03-91,Sant Celoni,Barcelona B,Celta Vigo,2015,Spanish
+22,22,Gustavo Cabral,ARG,D,1.82,81,14-10-85,Isidro Casanova,Arsenal [ARG],Celta Vigo,2015,Spanish
+23,23,Josep Señé,ESP,F,1.85,74,10-12-91,Barcelona,Oviedo,Celta Vigo,2015,Spanish
+26,26,Néstor Díaz,ESP,G,1.85,73,26-06-92,Sabadell,Espanyol B,Celta Vigo,2015,Spanish
+28,28,Borja Fernández,ESP,M,1.77,71,16-08-95,Vigo,Celta B,Celta Vigo,2015,Spanish
+29,29,Diego Alende,ESP,D,,,25-08-97,Santiago de Compostela,Celta B,Celta Vigo,2015,Spanish
+31,31,Borja Iglesias,ESP,F,1.87,79,17-01-93,Santiago de Compostela,Celta B,Celta Vigo,2015,Spanish
+33,33,Pape Cheikh,ESP,M,1.80,68,08-08-97,Dakar,Celta B,Celta Vigo,2015,Spanish
+34,34,David Goldar,ESP,M,1.80,77,15-09-94,Vigo,Celta B,Celta Vigo,2015,Spanish
+1,1,Germán Lux,ARG,G,1.86,77,06-07-82,Carcarañá,Mallorca,Deportivo La Coruña,2015,Spanish
+2,2,Manuel Pablo,ESP,D,1.76,80,25-01-76,Arucas,Las Palmas,Deportivo La Coruña,2015,Spanish
+3,3,Fernando Navarro,ESP,D,1.78,70,25-06-82,Barcelona,Sevilla,Deportivo La Coruña,2015,Spanish
+4,4,Alex Bergantiños,ESP,M,1.77,71,07-06-85,La Coruña,Deportivo B,Deportivo La Coruña,2015,Spanish
+5,5,Pedro Mosquera,ESP,M,1.83,77,21-04-88,La Coruña,Elche,Deportivo La Coruña,2015,Spanish
+6,6,Cani,ESP,M,1.80,75,03-08-81,Zaragoza,Villarreal,Deportivo La Coruña,2015,Spanish
+7,7,Lucas,ESP,M,1.80,78,10-09-88,La Coruña,PAOK,Deportivo La Coruña,2015,Spanish
+9,9,Oriol Riera,ESP,F,1.84,78,03-07-86,Vic,Wigan Ath,Deportivo La Coruña,2015,Spanish
+10,10,Juan Domínguez,ESP,M,1.81,71,08-01-90,Pontedeume,Deportivo B,Deportivo La Coruña,2015,Spanish
+11,11,Juanfran Moreno,ESP,M,1.79,71,11-09-88,Madrid,Watford,Deportivo La Coruña,2015,Spanish
+12,12,Sidnei,BRA,D,1.85,80,23-08-89,Alegrete,Benfica,Deportivo La Coruña,2015,Spanish
+13,13,Stipe Pletikosa,CRO,G,1.94,91,08-01-79,Split,FC Rostov,Deportivo La Coruña,2015,Spanish
+14,14,Alejandro Arribas,ESP,D,1.82,75,01-05-89,Madrid,Sevilla,Deportivo La Coruña,2015,Spanish
+15,15,Laure,ESP,D,1.66,68,22-03-85,Madrid,Deportivo B,Deportivo La Coruña,2015,Spanish
+16,16,Luisinho,POR,D,1.72,61,05-05-85,Porto,Benfica,Deportivo La Coruña,2015,Spanish
+17,17,Fede Cartabia,ARG,M,1.70,65,20-01-93,Rosario,Valencia B,Deportivo La Coruña,2015,Spanish
+19,19,Fayçal Fajr,MAR,M,1.78,72,01-08-88,Rouen,Elche,Deportivo La Coruña,2015,Spanish
+20,20,Jonathan Rodríguez,URU,F,1.81,74,06-07-93,Florida,Peñarol,Deportivo La Coruña,2015,Spanish
+21,21,Luis Alberto,ESP,M,1.82,70,28-09-92,Jerez de la Frontera,Liverpool,Deportivo La Coruña,2015,Spanish
+22,22,Celso Borges,CRC,M,1.86,81,27-05-88,San José [CRC],AIK,Deportivo La Coruña,2015,Spanish
+23,23,Alberto Lopo,ESP,D,1.86,81,05-05-80,Barcelona,Getafe,Deportivo La Coruña,2015,Spanish
+24,24,Jonás Gutiérrez,ARG,M,1.82,70,05-07-82,Sáenz Peña,Newcastle U,Deportivo La Coruña,2015,Spanish
+25,25,Manu,ESP,G,1.82,77,09-03-86,Gijón,Alavés,Deportivo La Coruña,2015,Spanish
+26,26,David Gómez,ESP,G,1.84,72,11-04-94,Cambre,Deportivo B,Deportivo La Coruña,2015,Spanish
+27,27,Róber Pier,ESP,D,1.82,74,16-02-95,Oleiros,Deportivo B,Deportivo La Coruña,2015,Spanish
+28,28,Óscar,ESP,F,,,17-01-96,La Coruña,Deportivo B,Deportivo La Coruña,2015,Spanish
+29,29,Àlex Corredera,ESP,M,1.81,72,19-03-96,Sant Joan de les Abadesses,Deportivo B,Deportivo La Coruña,2015,Spanish
+31,31,Anxo,ESP,G,,,06-03-96,Negreira,Deportivo B,Deportivo La Coruña,2015,Spanish
+32,32,Ramón,ESP,G,,,24-08-98,Monforte,Deportivo Juvenil B,Deportivo La Coruña,2015,Spanish
+33,33,Ben Fisk,CAN,F,,,04-02-93,Vancouver,Deportivo B,Deportivo La Coruña,2015,Spanish
+34,34,Marcos Legaz,ARG,F,,,29-11-95,San Martín,Deportivo B,Deportivo La Coruña,2015,Spanish
+35,35,Santi Taboada,ESP,M,1.81,72,22-01-93,Vitoria,Deportivo B,Deportivo La Coruña,2015,Spanish
+36,36,Juan Ferney Otero,COL,F,1.79,70,26-05-95,Sipí,Fortaleza [COL],Deportivo La Coruña,2015,Spanish
+1,1,Xabi Irureta,ESP,G,1.80,74,21-03-86,Berriatua,Eibar B,Eibar,2015,Spanish
+2,2,Ion Ansotegi,ESP,D,1.92,84,13-07-82,Berriatua,Real Sociedad,Eibar,2015,Spanish
+3,3,Aleksandar Pantić,SRB,D,1.84,77,11-04-92,Arandjelovac,Villarreal,Eibar,2015,Spanish
+4,4,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla,Levante,Eibar,2015,Spanish
+5,5,Gonzalo Escalante,ARG,M,1.82,76,27-03-93,Bella Vista,Catania,Eibar,2015,Spanish
+6,6,Josip Radoević,CRO,M,1.80,73,03-04-94,Split,Napoli,Eibar,2015,Spanish
+7,7,Ander Capa,ESP,M,1.73,70,14-05-92,Portugalete,Eibar B,Eibar,2015,Spanish
+8,8,Takashi Inui,JPN,M,1.69,59,02-06-88,Shiga,Eintracht Frankfurt,Eibar,2015,Spanish
+9,9,Sergi Enrich,ESP,F,1.81,77,26-02-90,Ciutadella,Numancia,Eibar,2015,Spanish
+11,11,Izet Hajrović,BIH,M,1.77,71,04-08-91,Brugg,Werder Bremen,Eibar,2015,Spanish
+13,13,Asier Riesgo,ESP,G,1.85,70,06-10-83,Deba,Osasuna,Eibar,2015,Spanish
+14,14,Dani García,ESP,M,1.80,75,24-05-90,Zumarraga,Real Sociedad B,Eibar,2015,Spanish
+15,15,Mauro Dos Santos,ARG,D,1.80,76,07-07-89,Lomas de Zamora,Almería,Eibar,2015,Spanish
+16,16,Lillo,ESP,D,1.76,76,27-03-89,Alicante,Alcoyano,Eibar,2015,Spanish
+17,17,David Juncà,ESP,D,1.75,67,16-11-93,Riumors,Girona,Eibar,2015,Spanish
+18,18,Borja González,ESP,F,1.85,74,25-08-92,Madrid,Atlético Madrid,Eibar,2015,Spanish
+19,19,Antonio Luna,ESP,D,1.77,68,17-03-91,Son Servera,Aston Villa,Eibar,2015,Spanish
+20,20,Keko,ESP,M,1.72,68,27-12-91,Madrid,Albacete,Eibar,2015,Spanish
+21,21,Saúl,ESP,F,1.78,83,24-05-86,Oviedo,Murcia,Eibar,2015,Spanish
+22,22,Jota,ESP,M,1.80,67,16-06-91,A Pobra do Caramiñal,Brentford,Eibar,2015,Spanish
+23,23,Borja Ekiza,ESP,D,1.80,73,06-03-88,Iruñea,Athletic Bilbao,Eibar,2015,Spanish
+24,24,Adrián González,ESP,M,1.83,76,25-05-88,Madrid,Elche,Eibar,2015,Spanish
+25,25,Jaime,ESP,G,1.88,79,10-12-80,Valdepeñas,Valladolid,Eibar,2015,Spanish
+26,26,Thaylor,ESP,F,1.80,70,27-02-94,Bilbao,Celta Vigo B,Eibar,2015,Spanish
+27,27,Julen López,ESP,D,1.78,76,24-09-96,Eibar,Vitoria,Eibar,2015,Spanish
+28,28,Íñigo Barrenetxea,ESP,M,1.79,70,10-01-94,Bilbao,Baskonia,Eibar,2015,Spanish
+29,29,Asier Etxaburu,ESP,M,1.86,77,07-04-94,Ondarroa,Vitoria,Eibar,2015,Spanish
+30,30,Jorge Mediavilla,ESP,G,1.87,78,16-06-93,Santander,Lleida,Eibar,2015,Spanish
+32,32,Ander Gayoso,ESP,D,1.71,71,20-07-93,Ermua,Vitoria,Eibar,2015,Spanish
+33,33,Imanol Corral,ESP,D,1.80,70,19-03-94,Basauri,Vitoria,Eibar,2015,Spanish
+1,1,Giedrius Arlauskis,LTU,G,1.83,80,01-12-87,Teliai,Watford,Espanyol,2015,Spanish
+2,2,Rober,ESP,D,1.80,76,20-09-92,Badajoz,Espanyol B,Espanyol,2015,Spanish
+3,3,Rubén Duarte,ESP,D,1.72,68,18-10-95,Almería,Espanyol B,Espanyol,2015,Spanish
+4,4,Víctor Sánchez,ESP,M,1.74,73,08-09-87,Terrassa,Neuchâtel Xamax,Espanyol,2015,Spanish
+5,5,Víctor Álvarez,ESP,D,1.78,69,14-03-93,Barcelona,Espanyol B,Espanyol,2015,Spanish
+6,6,Enzo Roco,CHI,D,1.88,82,16-08-92,Santiago,O'Higgins,Espanyol,2015,Spanish
+7,7,Gerard Moreno,ESP,F,1.77,75,07-04-92,Santa Coloma de Gramenet,Villarreal,Espanyol,2015,Spanish
+8,8,Salva Sevilla,ESP,M,1.78,70,18-03-84,Almería,Betis,Espanyol,2015,Spanish
+9,9,Burgui,ESP,F,1.84,71,29-10-93,Burguillos del Cerro,Real Madrid B,Espanyol,2015,Spanish
+10,10,Abraham,ESP,M,1.74,70,16-07-85,Barcelona,Alcorcón,Espanyol,2015,Spanish
+11,11,Paco Montañés,ESP,M,1.72,70,08-10-86,Castellón,Zaragoza,Espanyol,2015,Spanish
+12,12,Papakouli Diop,SEN,M,1.80,73,19-03-86,Kaolack,Levante,Espanyol,2015,Spanish
+13,13,Pau López,ESP,G,1.89,77,13-12-94,Girona,Espanyol B,Espanyol,2015,Spanish
+14,14,José Alberto Cañas,ESP,M,1.77,64,27-05-87,Jerez de la Frontera,Swansea C,Espanyol,2015,Spanish
+15,15,Michaël Ciani,FRA,D,1.92,88,06-04-84,Paris,Sporting CP,Espanyol,2015,Spanish
+16,16,Javi López,ESP,D,1.79,76,21-01-86,Osuna,Betis B,Espanyol,2015,Spanish
+17,17,Hernán Pérez,PAR,M,1.77,68,25-02-89,Fernando de la Mora,Villarreal,Espanyol,2015,Spanish
+18,18,Juan Rafael Fuentes,ESP,D,1.77,72,05-01-90,Córdoba,Córdoba,Espanyol,2015,Spanish
+19,19,Joan Jordán,ESP,M,1.84,74,06-07-93,Palamós,Espanyol B,Espanyol,2015,Spanish
+20,20,Felipe Caicedo,ECU,F,1.85,78,05-09-88,Guayaquil,Al-Jazira,Espanyol,2015,Spanish
+22,22,Álvaro González,ESP,D,1.80,68,08-01-90,Potes,Zaragoza,Espanyol,2015,Spanish
+23,23,Anaitz Arbilla,ESP,D,1.77,75,15-05-87,Pamplona,Rayo Vallecano,Espanyol,2015,Spanish
+24,24,Óscar Duarte,CRC,D,1.84,70,03-06-89,Masaya,Club Brugge,Espanyol,2015,Spanish
+25,25,Marco Asensio,ESP,M,1.78,70,21-01-96,Palma de Mallorca,Real Madrid,Espanyol,2015,Spanish
+26,26,Andrés Prieto,ESP,G,1.93,86,17-10-93,Alicante,Real Madrid C,Espanyol,2015,Spanish
+27,27,Lluís López,ESP,D,1.82,79,05-03-97,Manresa,Espanyol B,Espanyol,2015,Spanish
+28,28,Mamadou Sylla,SEN,F,1.84,80,20-03-94,Granollers,Espanyol B,Espanyol,2015,Spanish
+29,29,Cristian Galas,ESP,D,1.80,86,15-02-93,La Vall d'Uixó,Villarreal,Espanyol,2015,Spanish
+31,31,Marc Navarro,ESP,D,1.88,79,02-07-95,Barcelona,Espanyol B,Espanyol,2015,Spanish
+32,32,Rufo,ESP,F,1.76,73,13-01-93,Barcelona,Espanyol B,Espanyol,2015,Spanish
+1,1,Balázs Megyeri,HUN,G,1.88,88,31-03-90,Budapest,Olympiakos,Getafe,2015,Spanish
+2,2,Álvaro Pereira,URU,D,1.80,78,28-11-85,Montevideo,Estudiantes (LP),Getafe,2015,Spanish
+3,3,Roberto  Lago,ESP,D,1.78,76,30-08-85,Vigo,Celta Vigo,Getafe,2015,Spanish
+4,4,Emiliano Velázquez,URU,D,1.77,68,30-04-94,Montevideo,Atlético Madrid,Getafe,2015,Spanish
+5,5,Santiago Vergini,ARG,D,1.91,83,03-08-88,Rosario,Sunderland,Getafe,2015,Spanish
+6,6,Cala,ESP,D,1.85,78,26-11-89,Lebrija,Granada,Getafe,2015,Spanish
+7,7,Henok Goitom,ERI,F,1.89,74,16-09-84,Solna,AIK,Getafe,2015,Spanish
+8,8,Mehdi Lacen,ALG,M,1.76,74,15-03-84,Versailles,Racing Santander,Getafe,2015,Spanish
+9,9,Álvaro Vázquez,ESP,F,1.82,75,27-04-91,Barcelona,Espanyol,Getafe,2015,Spanish
+10,10,Pablo Sarabia,ESP,M,1.77,72,11-05-92,Madrid,Real Madrid B,Getafe,2015,Spanish
+11,11,Abdoul Karim Yoda,FRA,M,1.82,73,25-10-88,Annemasse,Astra Giurgiu,Getafe,2015,Spanish
+12,12,Stefan ćepović,SRB,F,1.86,79,10-01-90,Belgrade,Celtic,Getafe,2015,Spanish
+13,13,Vicente Guaita,ESP,G,1.90,80,18-02-87,Valencia,Valencia,Getafe,2015,Spanish
+14,14,Pedro León,ESP,M,1.82,70,24-11-86,Mula,Real Madrid,Getafe,2015,Spanish
+15,15,Carlos Vigaray,ESP,D,1.82,70,07-09-94,Leganés,Getafe B,Getafe,2015,Spanish
+17,17,Bernard Mensah,GHA,M,1.80,73,17-10-94,Accra,Atlético Madrid,Getafe,2015,Spanish
+18,18,Víctor Rodríguez,ESP,F,1.70,70,23-07-89,Barcelona,Elche,Getafe,2015,Spanish
+19,19,Damián Suárez,URU,D,1.73,68,27-04-88,Montevideo,Elche,Getafe,2015,Spanish
+21,21,Moi Gómez,ESP,M,1.74,65,23-06-94,Rojales,Villarreal,Getafe,2015,Spanish
+22,22,Juan Rodríguez,ESP,M,1.85,80,01-04-82,Málaga,Deportivo La Coruña,Getafe,2015,Spanish
+23,23,Álvaro Medrán,ESP,M,1.76,71,15-03-94,Córdoba,Real Madrid B,Getafe,2015,Spanish
+26,26,Ian González,ESP,F,1.90,82,11-02-93,Madrid,Atlético Madrid B,Getafe,2015,Spanish
+30,30,Wanderson,BRA,F,1.75,66,07-10-94,São Luís do Maranhão,Lierse,Getafe,2015,Spanish
+31,31,Borja Galán,ESP,F,1.83,73,26-04-93,Madrid,Atlético Madrid B,Getafe,2015,Spanish
+32,32,Emi Buendía,ARG,M,1.70,65,25-12-96,Mar del Plata,Getafe B,Getafe,2015,Spanish
+35,35,Miguel Ángel,ESP,D,1.77,72,26-01-95,Madrid,Getafe B,Getafe,2015,Spanish
+36,36,José Carillo,ESP,D,,,04-03-95,Granada,Zamora,Getafe,2015,Spanish
+1,1,Ivan Kelava,CRO,G,1.95,94,20-02-88,Zagreb,Udinese,Granada,2015,Spanish
+2,2,David Lombán,ESP,D,1.85,74,05-06-87,Valencia,Elche,Granada,2015,Spanish
+3,3,Cristiano Biraghi,ITA,D,1.86,79,01-09-92,Cernusco sul Naviglio,Internazionale,Granada,2015,Spanish
+4,4,Fran Rico,ESP,M,1.78,71,03-08-87,Portonovo,Real Madrid B,Granada,2015,Spanish
+5,5,Diego Mainz,ESP,D,1.87,80,29-12-82,Madrid,Udinese,Granada,2015,Spanish
+6,6,Jean-Sylvain Babin,FRA,D,1.85,80,14-10-86,Corbeil,Alcorcón,Granada,2015,Spanish
+7,7,Robert Ibañez,ESP,M,1.75,65,22-03-93,Valencia,Valencia B,Granada,2015,Spanish
+8,8,Javi Márquez,ESP,M,1.74,71,11-05-86,Barcelona,Mallorca,Granada,2015,Spanish
+9,9,Youssef El Arabi,MAR,F,1.83,70,03-02-87,Caen,Al-Hilal [KSA],Granada,2015,Spanish
+11,11,Isaac Success,NGA,F,1.82,84,07-01-96,Benin City,Udinese,Granada,2015,Spanish
+12,12,Dória,BRA,D,1.88,82,08-11-94,São Gonçalo,Marseille,Granada,2015,Spanish
+13,13,Andrés Fernández,ESP,G,1.84,86,17-12-86,Murcia,FC Porto,Granada,2015,Spanish
+14,14,Salva Ruiz,ESP,D,1.75,70,17-05-95,Albal,Valencia B,Granada,2015,Spanish
+15,15,David Barral,ESP,F,1.83,78,10-05-83,Cádiz,Al-Dhafra,Granada,2015,Spanish
+16,16,Abdoulaye Doucouré,FRA,M,1.82,69,01-01-93,Meulan-en-Yvelines,Watford,Granada,2015,Spanish
+17,17,Edgar,ESP,M,1.85,80,30-04-90,Arafo,Melilla,Granada,2015,Spanish
+18,18,Miguel Lopes,POR,D,1.82,72,19-12-86,Lisbon,Sporting CP,Granada,2015,Spanish
+19,19,Isaac Cuenca,ESP,M,1.81,74,27-04-91,Reus,Bursaspor,Granada,2015,Spanish
+20,20,Rubén Pérez,ESP,M,1.78,72,26-04-89,Seville,Atlético Madrid,Granada,2015,Spanish
+21,21,Rene Krhin,SVN,M,1.89,78,21-05-90,Maribor,Almería,Granada,2015,Spanish
+22,22,Dimitri Foulquier,FRA,D,1.83,77,23-03-93,Sarcelles,Rennes,Granada,2015,Spanish
+23,23,Rubén Rochina,ESP,F,1.81,70,23-03-91,Sagunto,Blackburn R,Granada,2015,Spanish
+24,24,Ricardo Costa,POR,D,1.83,80,16-05-81,Vila Nova de Gaia,PAOK,Granada,2015,Spanish
+25,25,Jesús Fernández,ESP,G,1.89,79,11-06-88,Madrid,Levante,Granada,2015,Spanish
+26,26,Uche Agbo,NGA,M,1.86,73,04-12-95,Kano City,Enyimba,Granada,2015,Spanish
+27,27,Adalberto Peñaranda,VEN,M,1.83,78,31-05-97,El Vigia,Watford,Granada,2015,Spanish
+28,28,Denilson,BRA,F,1.87,72,18-07-95,Rio de Janeiro,Fluminense,Granada,2015,Spanish
+29,29,Nabil Jaadi,MAR,M,1.78,69,01-07-96,Brussels,Udinese,Granada,2015,Spanish
+30,30,Clifford Aboagye,GHA,M,1.63,55,11-02-95,Accra,Udinese,Granada,2015,Spanish
+35,35,Stole Dimitrievski,MKD,G,1.88,80,23-12-93,Kumanovo,Udinese,Granada,2015,Spanish
+1,1,Raúl,ESP,G,1.86,76,27-01-91,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+2,2,David Simón,ESP,D,1.78,74,31-12-89,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+3,3,Mauricio Lemos,URU,D,1.86,79,28-12-95,Rivera,Rubin Kazan,Las Palmas,2015,Spanish
+4,4,Vicente Gómez,ESP,M,1.87,77,31-08-88,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+5,5,David García,ESP,D,1.82,76,25-02-82,Las Palmas,Vecindario,Las Palmas,2015,Spanish
+6,6,Ángel,ESP,D,1.81,71,10-03-81,Santa Lucia de Tirajana,Betis,Las Palmas,2015,Spanish
+7,7,Nauzet Alemán,ESP,M,1.78,71,25-02-85,Las Palmas,Valladolid,Las Palmas,2015,Spanish
+8,8,Willian José,BRA,F,1.86,81,23-11-91,Porto Calvo,Deportivo Maldonado,Las Palmas,2015,Spanish
+10,10,Sergio Araujo,ARG,F,1.80,72,28-01-92,Capital Federal,Boca Juniors,Las Palmas,2015,Spanish
+11,11,Momo,ESP,M,1.82,74,15-07-82,Las Palmas,Betis,Las Palmas,2015,Spanish
+12,12,Wakaso Mubarak,GHA,M,1.65,79,25-07-90,Tamale,Rubin Kazan,Las Palmas,2015,Spanish
+13,13,Javi Varas,ESP,G,1.82,73,10-09-82,Seville,Valladolid,Las Palmas,2015,Spanish
+14,14,Hernán,ESP,M,1.80,74,26-08-90,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+15,15,Roque Mesa,ESP,M,1.71,74,07-06-89,Telde,Levante B,Las Palmas,2015,Spanish
+16,16,Aythami,ESP,D,1.78,68,27-08-88,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+17,17,Pedro Bigas,ESP,D,1.81,78,15-05-90,Palma de Mallorca,Mallorca,Las Palmas,2015,Spanish
+18,18,Ángel Montoro,ESP,M,1.80,70,25-06-88,Valencia,Almería,Las Palmas,2015,Spanish
+20,20,Jonathan Viera,ESP,F,1.70,64,21-10-89,Las Palmas,Standard Liège,Las Palmas,2015,Spanish
+21,21,Juan Carlos Valerón,ESP,M,1.80,72,17-06-75,Las Palmas,Deportivo La Coruña,Las Palmas,2015,Spanish
+22,22,Javier Garrido,ESP,D,1.78,75,15-03-85,Irún,Norwich C,Las Palmas,2015,Spanish
+23,23,Dani Castellano,ESP,D,1.80,76,02-11-87,Las Palmas,Mallorca B,Las Palmas,2015,Spanish
+24,24,Tana,ESP,F,1.68,65,20-09-90,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+25,25,Nabil El Zhar,MAR,M,1.75,72,27-08-86,Alès,Levante,Las Palmas,2015,Spanish
+26,26,Matías,ESP,M,,,17-01-93,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+27,27,Jeremy,ESP,F,,,10-09-98,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+29,29,Nili Perdomo,ESP,M,1.76,71,18-02-94,Las Palmas,Las Palmas B,Las Palmas,2015,Spanish
+30,30,Carlos González,ESP,F,1.76,69,20-05-97,Santa Lucía de Tirajana,Las Palmas B,Las Palmas,2015,Spanish
+31,31,David Ramírez,ESP,G,1.80,75,07-09-95,Santa Lucía de Tirajana,Las Palmas B,Las Palmas,2015,Spanish
+32,32,Jefté,ESP,F,1.86,82,06-07-93,Las Palmas,Badajoz,Las Palmas,2015,Spanish
+1,1,Diego Mariño,ESP,G,1.85,75,09-05-90,Vigo,Valladolid,Levante,2015,Spanish
+2,2,Iván López,ESP,D,1.75,69,23-08-93,Valencia,Levante B,Levante,2015,Spanish
+3,3,Toño,ESP,D,1.79,70,07-11-89,Alcalá de Henares,Recreativo Huelva,Levante,2015,Spanish
+4,4,David Navarro,ESP,D,1.88,82,25-05-80,Valencia,Neuchâtel Xamax,Levante,2015,Spanish
+5,5,Simão Júnior,MOZ,M,1.78,78,23-07-88,Inhaca,Shandong Luneng,Levante,2015,Spanish
+6,6,Víctor Camarasa,ESP,M,1.83,76,28-05-94,Meliana,Levante B,Levante,2015,Spanish
+7,7,Verza,ESP,M,1.82,75,29-09-86,Orihuela,Almería,Levante,2015,Spanish
+8,8,Jefferson Lerma,COL,M,1.79,70,25-10-94,El Cerrito,Atlético Huila,Levante,2015,Spanish
+9,9,Mauricio Cuero,COL,M,1.76,76,28-01-93,Tumaco,La Equidad,Levante,2015,Spanish
+10,10,Rubén,ESP,M,1.71,72,14-07-93,Valencia,Levante B,Levante,2015,Spanish
+11,11,José Luis Morales,ESP,M,1.80,70,23-07-87,Madrid,Fuenlabrada,Levante,2015,Spanish
+12,12,Juanfran,ESP,D,1.82,73,15-07-76,Valencia,AEK,Levante,2015,Spanish
+13,13,Rubén,ESP,G,1.87,82,22-06-84,La Coruña,Almería,Levante,2015,Spanish
+14,14,Carl Medjani,ALG,D,1.84,84,15-05-85,Lyon,Trabzonspor,Levante,2015,Spanish
+15,15,Lucas Orban,ARG,D,1.84,76,03-02-89,Capital Federal,Valencia,Levante,2015,Spanish
+16,16,Ángel Trujillo,ESP,D,1.79,79,08-09-87,Madrid,Almería,Levante,2015,Spanish
+17,17,Jordi Xumetra,ESP,M,1.72,70,24-10-85,L'Estartit,Elche,Levante,2015,Spanish
+18,18,Víctor,ESP,F,1.80,77,28-02-85,Palma de Mallorca,Mallorca,Levante,2015,Spanish
+19,19,Pedro López,ESP,D,1.74,72,01-01-83,Valencia,Valladolid,Levante,2015,Spanish
+20,20,Deyverson,BRA,F,1.89,82,08-05-91,Santa Margarida,Belenenses,Levante,2015,Spanish
+21,21,Giuseppe Rossi,ITA,F,1.73,73,01-02-87,Teaneck,Fiorentina,Levante,2015,Spanish
+22,22,José Mari,ESP,M,1.81,65,06-12-87,Rota,Colorado Rapids,Levante,2015,Spanish
+23,23,Nabil Ghilas,ALG,F,1.83,85,20-04-90,Marseille,FC Porto,Levante,2015,Spanish
+24,24,Zouhair Feddal,MAR,D,1.91,78,01-01-89,Tétouan,Parma,Levante,2015,Spanish
+25,25,Joan Verdú,ESP,M,1.76,72,05-05-83,Barcelona,Fiorentina,Levante,2015,Spanish
+26,26,Pepelu,ESP,M,1.85,72,11-08-98,Denia,Levante B,Levante,2015,Spanish
+30,30,Jair,POR,D,1.88,90,21-08-89,Lisbon,Villanovense,Levante,2015,Spanish
+32,32,Álvaro Traver,ESP,M,1.87,75,01-04-93,Valencia,Levante B,Levante,2015,Spanish
+37,37,Dani Calvo,ESP,D,1.78,73,01-04-94,Huesca,Numancia B,Levante,2015,Spanish
+1,1,Idriss Carlos Kameni,CMR,G,1.86,86,18-02-84,Douala,Espanyol,Málaga,2015,Spanish
+2,2,Raúl Albentosa,ESP,D,1.93,89,07-09-88,Alzira,Derby Co,Málaga,2015,Spanish
+3,3,Weligton,BRA,D,1.86,78,26-08-79,Fernandopolis,Grasshoppers,Málaga,2015,Spanish
+4,4,Cifu,ESP,D,1.74,65,05-10-90,Zújar,Elche,Málaga,2015,Spanish
+5,5,Gonzalo Castro,URU,F,1.76,70,14-09-84,Trinidad,Real Sociedad,Málaga,2015,Spanish
+6,6,Ignacio Camacho,ESP,M,1.81,68,04-05-90,Zaragoza,Atlético Madrid,Málaga,2015,Spanish
+7,7,Juan Carlos,ESP,M,1.76,68,30-03-90,Madrid,Sporting Braga,Málaga,2015,Spanish
+8,8,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba,UANL Tigres,Málaga,2015,Spanish
+9,9,Charles,BRA,F,1.79,75,04-04-84,Belem,Celta Vigo,Málaga,2015,Spanish
+10,10,Ricardo Horta,POR,F,1.73,61,15-09-94,Almada,Vitória Setúbal,Málaga,2015,Spanish
+11,11,Christian Atsu,GHA,M,1.72,68,10-01-92,Ada Foah,Chelsea,Málaga,2015,Spanish
+12,12,Fernando Tissone,ARG,M,1.82,75,24-07-86,Quilmes,Sampdoria,Málaga,2015,Spanish
+13,13,Guillermo Ochoa,MEX,G,1.83,73,13-07-85,Guadalajara,Ajaccio,Málaga,2015,Spanish
+14,14,Recio,ESP,M,1.83,74,11-01-91,Málaga,Málaga B,Málaga,2015,Spanish
+15,15,Federico Ricca,URU,D,1.76,71,01-12-94,Tarariras,Danubio,Málaga,2015,Spanish
+16,16,Hachim Mastour,MAR,F,1.75,63,15-06-98,Reggio Emilia,Milan,Málaga,2015,Spanish
+17,17,Duda,POR,M,1.80,76,27-06-80,Lisbon,Sevilla,Málaga,2015,Spanish
+18,18,Roberto Rosales,VEN,D,1.74,73,20-11-88,Caracas,FC Twente,Málaga,2015,Spanish
+19,19,Arthur Boka,CIV,D,1.66,67,02-04-83,Abidjan,Stuttgart,Málaga,2015,Spanish
+20,20,Duje Čop,CRO,F,1.82,71,01-02-90,Split,Cagliari,Málaga,2015,Spanish
+21,21,Egor Filipenko,BLR,D,1.95,85,10-04-88,Minsk,BATE,Málaga,2015,Spanish
+23,23,Miguel Torres,ESP,D,1.84,78,28-01-86,Madrid,Olympiakos,Málaga,2015,Spanish
+24,24,Roque Santa Cruz,PAR,F,1.87,80,16-08-81,Asunción,Cruz Azul,Málaga,2015,Spanish
+27,27,Aarón Escandell,ESP,G,1.88,72,27-09-95,Carcaixent,Málaga B,Málaga,2015,Spanish
+28,28,Juanpi,VEN,F,1.71,65,24-01-94,Caracas,Málaga B,Málaga,2015,Spanish
+29,29,Deco,ESP,M,1.68,63,25-01-96,Puebla de Argeme,Málaga B,Málaga,2015,Spanish
+31,31,Pablo Fornals,ESP,M,1.78,67,22-02-96,Castellón de la Plana,Málaga B,Málaga,2015,Spanish
+38,38,Luis Muñoz,ESP,D,1.80,72,23-02-97,Málaga,Málaga B,Málaga,2015,Spanish
+39,39,Javi Ontiveros,ESP,M,1.72,68,09-09-97,Marbella,Málaga B,Málaga,2015,Spanish
+40,40,Cassano,ESP,M,,,14-06-96,,Villarreal B,Málaga,2015,Spanish
+41,52,Fernando Calero,ESP,D,1.83,69,27-06-95,Boecillo,Málaga B,Málaga,2015,Spanish
+1,1,David Cobeño,ESP,G,1.85,82,06-04-82,Madrid,FC Vaslui,Rayo Vallecano,2015,Spanish
+2,2,Tito,ESP,D,1.74,62,11-07-85,Madrid,Alcorcón,Rayo Vallecano,2015,Spanish
+3,3,Nacho Martínez,ESP,D,1.75,76,07-03-89,Madrid,Getafe B,Rayo Vallecano,2015,Spanish
+4,4,Antonio Amaya,ESP,D,1.92,86,31-05-83,Madrid,Betis,Rayo Vallecano,2015,Spanish
+5,5,José Antonio Dorado,ESP,D,1.80,69,10-07-82,Córdoba,Villarreal,Rayo Vallecano,2015,Spanish
+6,6,Manuel Iturra,CHI,M,1.73,71,23-06-84,Temuco,Udinese,Rayo Vallecano,2015,Spanish
+7,7,Miku,VEN,F,1.85,80,19-08-85,Caracas,Al-Gharafa,Rayo Vallecano,2015,Spanish
+8,8,Raúl Baena,ESP,M,1.79,73,02-03-89,Torrox,Espanyol,Rayo Vallecano,2015,Spanish
+9,9,Manucho,ANG,F,1.88,83,07-03-83,Luanda,Valladolid,Rayo Vallecano,2015,Spanish
+10,10,Roberto Trashorras,ESP,M,1.79,71,28-02-81,Rabade,Celta Vigo,Rayo Vallecano,2015,Spanish
+11,11,Adri Embarba,ESP,M,1.73,66,07-05-92,Madrid,Rayo B,Rayo Vallecano,2015,Spanish
+12,12,Piti,ESP,M,1.74,69,26-05-81,Barcelona,Granada,Rayo Vallecano,2015,Spanish
+13,13,Juan Carlos,ESP,G,1.85,81,20-01-88,Guadalajara,Córdoba,Rayo Vallecano,2015,Spanish
+14,14,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón,Al-Arabi [QAT],Rayo Vallecano,2015,Spanish
+15,15,Răzvan Raţ,ROU,D,1.78,72,26-05-81,Slatina,PAOK,Rayo Vallecano,2015,Spanish
+16,16,Aras Özbiliz,ARM,M,1.70,71,09-03-90,Bakırköy,Beşiktaş,Rayo Vallecano,2015,Spanish
+17,17,Quini Marín,ESP,D,1.79,70,24-09-89,Fernán Núñez,Real Madrid B,Rayo Vallecano,2015,Spanish
+18,18,Zé Castro,POR,D,1.83,76,13-01-83,Coimbra,Deportivo La Coruña,Rayo Vallecano,2015,Spanish
+20,20,Patrick Ebert,GER,M,1.72,68,17-03-87,Potsdam,Spartak Moscow,Rayo Vallecano,2015,Spanish
+21,21,Jozabed,ESP,M,1.80,67,08-03-91,Mairena del Alcor,Jaén,Rayo Vallecano,2015,Spanish
+22,22,José Ángel Crespo,ESP,D,1.83,72,09-02-87,Lora del Río,Aston Villa,Rayo Vallecano,2015,Spanish
+23,23,Bebé,POR,F,1.90,75,12-07-90,Agualva-Cacém,Benfica,Rayo Vallecano,2015,Spanish
+24,24,Javi Guerra,ESP,F,1.81,78,15-03-83,Vélez,Cardiff C,Rayo Vallecano,2015,Spanish
+25,25,Yoel,ESP,G,1.85,78,28-08-88,Vigo,Valencia,Rayo Vallecano,2015,Spanish
+26,26,Joni Montiel,ESP,M,,,03-09-98,Madrid,Rayo B,Rayo Vallecano,2015,Spanish
+27,27,Diego Llorente,ESP,D,1.85,74,16-08-93,Madrid,Real Madrid B,Rayo Vallecano,2015,Spanish
+29,29,Alberto,ESP,G,1.83,75,03-01-95,Madrid,Rayo B,Rayo Vallecano,2015,Spanish
+30,30,Álex Campos,ESP,G,1.80,70,28-06-91,Madrid,Guadalajara [ESP],Rayo Vallecano,2015,Spanish
+32,32,Sergio Akieme,ESP,D,1.75,65,16-12-97,Madrid,Rayo B,Rayo Vallecano,2015,Spanish
+33,33,Pablo Clavería,ESP,M,,,01-04-96,,Rayo B,Rayo Vallecano,2015,Spanish
+34,34,Juancho,ESP,F,,,24-01-96,,Rayo B,Rayo Vallecano,2015,Spanish
+35,35,Javi Ruiz,ESP,G,,,29-05-97,,Rayo B,Rayo Vallecano,2015,Spanish
+41,41,Iván Oviedo,ESP,G,,,07-06-95,,Rayo B,Rayo Vallecano,2015,Spanish
+42,60,Lucho García,COL,G,1.83,75,20-03-98,Barranquilla,Rayo B,Rayo Vallecano,2015,Spanish
+1,1,Keylor Navas,CRC,G,1.86,78,15-12-86,Pérez Zeledón,Levante,Real Madrid,2015,Spanish
+2,2,Raphaël Varane,FRA,D,1.91,76,25-04-93,Lille,Lens,Real Madrid,2015,Spanish
+3,3,Pepe,POR,D,1.86,72,26-02-83,Maceió,FC Porto,Real Madrid,2015,Spanish
+4,4,Sergio Ramos,ESP,D,1.83,73,30-03-86,Camas,Sevilla,Real Madrid,2015,Spanish
+6,6,Nacho Fernández,ESP,D,1.80,74,18-01-90,Madrid,Real Madrid B,Real Madrid,2015,Spanish
+7,7,Cristiano Ronaldo,POR,F,1.86,75,05-02-85,Funchal,Manchester U,Real Madrid,2015,Spanish
+8,8,Toni Kroos,GER,M,1.82,71,04-01-90,Greifswald,Bayern Munich,Real Madrid,2015,Spanish
+9,9,Karim Benzema,FRA,F,1.82,74,19-12-87,Lyon,Lyon,Real Madrid,2015,Spanish
+10,10,James Rodríguez,COL,M,1.80,77,12-07-91,Cúcuta,Monaco,Real Madrid,2015,Spanish
+11,11,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff,Tottenham H,Real Madrid,2015,Spanish
+12,12,Marcelo,BRA,D,1.74,73,12-05-88,Rio de Janeiro,Fluminense,Real Madrid,2015,Spanish
+13,13,Francisco Casilla,ESP,G,1.92,83,02-10-86,Alcocer,Espanyol,Real Madrid,2015,Spanish
+14,14,Casemiro,BRA,M,1.84,80,23-02-92,São José dos Campos,São Paulo,Real Madrid,2015,Spanish
+15,15,Daniel Carvajal,ESP,D,1.73,70,11-01-92,Leganés,Bayer Leverkusen,Real Madrid,2015,Spanish
+16,16,Mateo Kovačić,CRO,M,1.81,75,06-05-94,Linz,Internazionale,Real Madrid,2015,Spanish
+17,17,Álvaro Arbeloa,ESP,D,1.83,76,17-01-83,Salamanca,Liverpool,Real Madrid,2015,Spanish
+18,18,Lucas Vázquez,ESP,M,1.73,69,01-07-91,Curtis,Espanyol,Real Madrid,2015,Spanish
+19,19,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar,Tottenham H,Real Madrid,2015,Spanish
+20,20,Jesé,ESP,F,1.78,72,26-02-93,Las Palmas,Real Madrid B,Real Madrid,2015,Spanish
+22,22,Isco,ESP,M,1.76,80,21-04-92,Valencia,Málaga,Real Madrid,2015,Spanish
+23,23,Danilo,BRA,D,1.84,73,15-07-91,Bicas,FC Porto,Real Madrid,2015,Spanish
+27,27,Martin Ødegaard,NOR,M,1.76,68,17-12-98,Drammen,Strømsgodset,Real Madrid,2015,Spanish
+28,28,Marcos Llorente,ESP,M,1.82,65,30-01-95,Madrid,Real Madrid B,Real Madrid,2015,Spanish
+29,29,Borja Mayoral,ESP,F,1.81,68,05-04-97,Parla,Real Madrid B,Real Madrid,2015,Spanish
+30,30,Abner,BRA,D,1.71,70,30-05-96,Londrina,Coritiba,Real Madrid,2015,Spanish
+31,31,Rubén Yáñez,ESP,G,1.90,81,12-10-93,Blanes,Real Madrid B,Real Madrid,2015,Spanish
+32,32,Philipp Lienhart,AUT,D,1.85,78,11-07-96,Lilienfeld,Rapid Vienna,Real Madrid,2015,Spanish
+33,33,José Carlos Lazo,ESP,M,1.77,69,16-02-96,Sanlúcar de Barrameda,Real Madrid B,Real Madrid,2015,Spanish
+34,34,Álvaro Tejero,ESP,D,1.72,65,20-07-96,Madrid,Real Madrid B,Real Madrid,2015,Spanish
+36,36,Mariano,DOM,F,1.79,74,01-08-93,Barcelona,Real Madrid B,Real Madrid,2015,Spanish
+41,41,Carlos Abad,ESP,G,1.93,85,06-02-93,Puerto de la Cruz,Tenerife B,Real Madrid,2015,Spanish
+42,42,Álex Craninx,BEL,G,1.96,82,21-10-95,Málaga,Real Madrid B,Real Madrid,2015,Spanish
+1,1,Gerónimo Rulli,ARG,G,1.89,80,20-05-92,La Plata,Deportivo Maldonado,Real Sociedad,2015,Spanish
+2,2,Carlos Martínez,ESP,D,1.88,78,09-04-86,Estella,Real Sociedad B,Real Sociedad,2015,Spanish
+3,3,Mikel González,ESP,D,1.88,78,24-09-85,Mondragón,Real Sociedad B,Real Sociedad,2015,Spanish
+4,4,Asier Illarramendi,ESP,M,1.77,74,08-03-90,Mutriku,Real Madrid,Real Sociedad,2015,Spanish
+5,5,Markel Bergara,ESP,M,1.80,74,05-05-86,Elgoibar,Real Sociedad B,Real Sociedad,2015,Spanish
+6,6,Íñigo Martínez,ESP,D,1.76,62,17-05-91,Ondarroa,Real Sociedad B,Real Sociedad,2015,Spanish
+7,7,Bruma,POR,F,1.73,70,24-10-94,Bissau,Galatasaray,Real Sociedad,2015,Spanish
+8,8,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid,QPR,Real Sociedad,2015,Spanish
+9,9,Imanol Agirretxe,ESP,F,1.85,74,24-02-87,Usurbil,Real Sociedad B,Real Sociedad,2015,Spanish
+10,10,Xabi Prieto,ESP,M,1.85,77,29-08-83,San Sebastián,Real Sociedad B,Real Sociedad,2015,Spanish
+11,11,Carlos Vela,MEX,F,1.76,72,01-03-89,Cancún,Arsenal,Real Sociedad,2015,Spanish
+13,13,Oier Olazábal,ESP,G,1.89,82,14-09-89,Irún,Granada,Real Sociedad,2015,Spanish
+14,14,Rubén Pardo,ESP,M,1.75,70,22-10-92,Logroño,Real Sociedad B,Real Sociedad,2015,Spanish
+16,16,Sergio Canales,ESP,M,1.76,65,16-02-91,Santander,Valencia,Real Sociedad,2015,Spanish
+17,17,David Zurutuza,ESP,M,1.84,70,19-07-86,Rochefort,Real Sociedad B,Real Sociedad,2015,Spanish
+19,19,Yuri Berchiche,ESP,D,1.80,78,10-02-90,Zarautz,Real Sociedad B,Real Sociedad,2015,Spanish
+20,20,Joseba Zaldúa,ESP,D,1.76,71,24-06-92,San Sebastián,Real Sociedad B,Real Sociedad,2015,Spanish
+21,21,Héctor Hernández,ESP,D,1.71,65,23-05-91,Valladolid,Zaragoza B,Real Sociedad,2015,Spanish
+22,22,Jonathas,BRA,F,1.91,83,06-03-89,Betim,Elche,Real Sociedad,2015,Spanish
+23,23,Diego Reyes,MEX,D,1.85,64,19-09-92,Mexico City,FC Porto,Real Sociedad,2015,Spanish
+24,24,Alberto De La Bella,ESP,D,1.79,72,02-12-85,Santa Coloma de Gramanet,Sevilla B,Real Sociedad,2015,Spanish
+25,25,Raúl Navas,ESP,D,1.85,83,11-05-88,Seville,Eibar,Real Sociedad,2015,Spanish
+28,28,Mikel Oyarzabal,ESP,M,1.80,75,21-04-97,Eibar,Real Sociedad B,Real Sociedad,2015,Spanish
+29,29,Igor Zubeldia,ESP,M,1.85,75,30-03-97,San Sebastián,Real Sociedad B,Real Sociedad,2015,Spanish
+30,30,Aritz Elustondo,ESP,D,1.78,72,11-01-94,Beasain,Real Sociedad B,Real Sociedad,2015,Spanish
+31,31,Ander Bardaji,ESP,G,1.92,78,03-05-95,Lasarte,Real Sociedad B,Real Sociedad,2015,Spanish
+34,34,Eneko Capilla,ESP,M,1.75,75,13-06-95,San Sebastián,Real Sociedad B,Real Sociedad,2015,Spanish
+35,35,Jon Bautista,ESP,F,1.78,72,03-07-95,Mahones,Real Sociedad B,Real Sociedad,2015,Spanish
+37,37,Álvaro Odriozola,ESP,D,1.78,74,14-12-95,San Sebastián,Real Sociedad B,Real Sociedad,2015,Spanish
+1,1,Sergio Rico,ESP,G,1.94,88,01-09-93,Seville,Sevilla B,Sevilla,2015,Spanish
+2,2,Benoît Trémoulinas,FRA,D,1.73,64,28-12-85,Bordeaux,Dynamo Kyiv,Sevilla,2015,Spanish
+3,3,Adil Rami,FRA,D,1.90,90,27-12-85,Bastia,Milan,Sevilla,2015,Spanish
+4,4,Grzegorz Krychowiak,POL,M,1.86,83,29-01-90,Gryfice,Reims,Sevilla,2015,Spanish
+5,5,Timothée Kolodziejczak,FRA,D,1.81,74,01-10-91,Avion,Nice,Sevilla,2015,Spanish
+6,6,Daniel Carriço,POR,M,1.80,75,04-08-88,Cascais,Reading,Sevilla,2015,Spanish
+7,7,Michael Krohn-Dehli,DEN,M,1.70,71,06-06-83,Copenhagen,Celta Vigo,Sevilla,2015,Spanish
+8,8,Vicente Iborra,ESP,M,1.90,76,16-01-88,Moncada,Levante,Sevilla,2015,Spanish
+9,9,Kevin Gameiro,FRA,F,1.72,69,09-04-87,Senlis,Paris St-Germain,Sevilla,2015,Spanish
+10,10,José Antonio Reyes,ESP,F,1.76,76,01-09-83,Utrera,Atlético Madrid,Sevilla,2015,Spanish
+11,11,Juan Muñoz,ESP,F,1.82,80,12-11-95,Utrera,Sevilla B,Sevilla,2015,Spanish
+13,13,Beto,POR,G,1.80,80,01-05-82,Loures,Sporting Braga,Sevilla,2015,Spanish
+14,14,Sebastián Cristóforo,URU,M,1.74,65,23-08-93,Montevideo,Peñarol,Sevilla,2015,Spanish
+15,15,Steven N'Zonzi,FRA,M,1.90,75,15-12-88,Colombes,Stoke C,Sevilla,2015,Spanish
+16,16,Federico Fazio,ARG,D,1.95,85,17-03-87,Ramos Mejía,Tottenham H,Sevilla,2015,Spanish
+17,17,Diogo Figueiras,BRA,D,1.70,63,01-07-91,Povos,Paços de Ferreira,Sevilla,2015,Spanish
+18,18,Sergio Escudero,ESP,D,1.76,65,02-09-89,Valladolid,Getafe,Sevilla,2015,Spanish
+19,19,Éver Banega,ARG,M,1.74,69,29-06-88,Rosario,Valencia,Sevilla,2015,Spanish
+20,20,Vitolo,ESP,M,1.83,80,02-11-89,Las Palmas,Las Palmas,Sevilla,2015,Spanish
+21,21,Nicolás Pareja,ARG,D,1.81,75,19-01-84,Capital Federal,Spartak Moscow,Sevilla,2015,Spanish
+22,22,Yevhen Konoplyanka,UKR,M,1.76,69,29-09-89,Kirovohrad,Dnipro Dnipropetrovsk,Sevilla,2015,Spanish
+23,23,Coke,ESP,D,1.82,78,26-04-87,Madrid,Rayo Vallecano,Sevilla,2015,Spanish
+24,24,Fernando Llorente,ESP,F,1.95,90,26-02-85,Pamplona,Juventus,Sevilla,2015,Spanish
+25,25,Mariano,BRA,D,1.77,70,23-06-86,São João,Bordeaux,Sevilla,2015,Spanish
+26,26,David Carmona,ESP,D,1.75,72,11-01-97,Palma del Río,Sevilla B,Sevilla,2015,Spanish
+27,27,Antonio Cotán,ESP,M,1.74,65,19-09-95,Olivares,Sevilla B,Sevilla,2015,Spanish
+28,28,Carlos Fernández,ESP,F,1.86,72,22-05-96,Seville,Sevilla B,Sevilla,2015,Spanish
+29,29,José Matos,ESP,D,1.69,68,06-05-95,Utrera,Sevilla B,Sevilla,2015,Spanish
+31,31,David Soria,ESP,G,1.92,85,04-04-93,Madrid,Sevilla B,Sevilla,2015,Spanish
+33,33,Juan Soriano,ESP,G,1.82,78,23-08-97,Benacazón,Sevilla B,Sevilla,2015,Spanish
+34,34,Diego González,ESP,D,1.84,75,28-01-95,Chiclana de la Frontera,Cádiz,Sevilla,2015,Spanish
+35,35,Álvaro Rodríguez,ESP,G,,,18-02-98,Seville,Sevilla B,Sevilla,2015,Spanish
+36,36,Curro Sánchez,ESP,M,1.78,68,03-01-96,La Palma del Condado,Sevilla B,Sevilla,2015,Spanish
+37,37,Ivi,ESP,M,1.74,74,29-06-94,Madrid,Getafe B,Sevilla,2015,Spanish
+38,38,Borja Lasso,ESP,M,1.86,72,01-01-94,Seville,Sevilla B,Sevilla,2015,Spanish
+1,1,Iván Cuéllar,ESP,G,1.85,75,25-05-84,Mérida,Atlético Madrid,Sporting Gijón,2015,Spanish
+2,2,Luis Hernández,ESP,D,1.82,74,14-04-89,Madrid,Real Madrid B,Sporting Gijón,2015,Spanish
+3,3,Álex Menéndez,ESP,D,1.81,67,15-07-91,Gijón,Sporting Gijón B,Sporting Gijón,2015,Spanish
+4,4,Igor Lichnovsky,CHI,D,1.87,74,07-03-94,Santiago,FC Porto,Sporting Gijón,2015,Spanish
+5,5,Bernardo Espinosa,COL,D,1.92,86,11-07-89,Cali,Sevilla,Sporting Gijón,2015,Spanish
+6,6,Sergio Álvarez,ESP,M,1.80,65,23-01-92,Avilés,Sporting Gijón B,Sporting Gijón,2015,Spanish
+8,8,Álex Barrera,ESP,M,1.90,78,12-05-91,Oviedo,Sporting Gijón B,Sporting Gijón,2015,Spanish
+9,9,Miguel Ángel Guerrero,ESP,F,1.81,76,12-07-90,Toledo,Albacete B,Sporting Gijón,2015,Spanish
+10,10,Nacho Cases,ESP,M,1.74,64,22-12-87,Gijón,Sporting Gijón B,Sporting Gijón,2015,Spanish
+11,11,Alberto Lora,ESP,D,1.68,67,25-03-87,Móstoles,Sporting Gijón B,Sporting Gijón,2015,Spanish
+13,13,Alberto,ESP,G,1.82,77,09-02-85,Barcelona,Córdoba,Sporting Gijón,2015,Spanish
+15,15,Roberto Canella,ESP,D,1.80,68,07-02-88,Pola de Laviana,Sporting Gijón B,Sporting Gijón,2015,Spanish
+16,16,Carlos Castro,ESP,F,1.77,68,01-06-95,Ujo,Sporting Gijón B,Sporting Gijón,2015,Spanish
+17,17,Omar Mascarell,ESP,M,1.81,71,02-02-93,Santa Cruz de Tenerife,Real Madrid B,Sporting Gijón,2015,Spanish
+18,18,Isma López,ESP,M,1.80,76,29-01-90,Pamplona,Athletic Bilbao,Sporting Gijón,2015,Spanish
+19,19,Carlos Carmona,ESP,F,1.77,71,05-07-87,Palma de Mallorca,Barcelona B,Sporting Gijón,2015,Spanish
+20,20,Antonio Sanabria,PAR,F,1.80,74,04-03-96,San Lorenzo,Roma,Sporting Gijón,2015,Spanish
+21,21,Ognjen Vranje,BIH,D,1.88,82,24-10-89,Banja Luka,Gaziantepspor,Sporting Gijón,2015,Spanish
+22,22,Pablo Pérez,ESP,M,1.87,71,02-08-93,Gijón,Sporting Gijón B,Sporting Gijón,2015,Spanish
+23,23,Jony,ESP,F,1.79,80,09-07-91,Cangas del Narcea,Sporting Gijón B,Sporting Gijón,2015,Spanish
+24,24,Rachid Aït-Atmane,ALG,M,1.90,76,04-02-93,Paris,Sporting Gijón B,Sporting Gijón,2015,Spanish
+25,25,Alen Halilović,CRO,M,1.63,55,18-06-96,Zagreb,Barcelona,Sporting Gijón,2015,Spanish
+26,26,Dennis,ESP,G,1.82,65,08-08-92,Mieres,Sporting Gijón B,Sporting Gijón,2015,Spanish
+27,27,Mendi,ESP,F,1.83,82,12-06-93,Avilés,Córdoba B,Sporting Gijón,2015,Spanish
+28,28,Jorge Meré,ESP,D,1.82,77,17-04-97,Oviedo,Sporting Gijón B,Sporting Gijón,2015,Spanish
+29,29,Julio,ESP,D,1.94,86,07-12-95,Mieres,Sporting Gijón B,Sporting Gijón,2015,Spanish
+30,30,Alberto González,ESP,D,1.82,75,14-03-93,Gijón,Sporting Gijón B,Sporting Gijón,2015,Spanish
+33,33,Dani Ndi,CMR,M,1.78,76,18-08-95,Douala,Sporting Gijón B,Sporting Gijón,2015,Spanish
+1,1,Diego Alves,BRA,G,1.88,83,24-06-85,Rio de Janeiro,Almería,Valencia,2015,Spanish
+2,2,João Cancelo,POR,D,1.80,66,27-05-94,Barreiro,Benfica,Valencia,2015,Spanish
+3,3,Rúben Vezo,POR,D,1.84,76,25-04-94,Setúbal,Vitória Setúbal,Valencia,2015,Spanish
+4,4,Aderlan Santos,BRA,D,1.93,83,09-04-89,Salgueiro,Sporting Braga,Valencia,2015,Spanish
+5,5,Shkodran Mustafi,GER,D,1.84,82,17-04-92,Bad Hersfeld,Sampdoria,Valencia,2015,Spanish
+6,6,Guilherme Siqueira,BRA,D,1.84,76,28-04-86,Florianapolis,Atlético Madrid,Valencia,2015,Spanish
+7,7,Álvaro Negredo,ESP,F,1.86,85,20-08-85,Madrid,Manchester C,Valencia,2015,Spanish
+8,8,Sofiane Feghouli,ALG,M,1.78,71,26-12-89,Levallois-Perret,Grenoble,Valencia,2015,Spanish
+9,9,Paco Alcácer,ESP,F,1.74,71,30-08-93,Torrent,Valencia B,Valencia,2015,Spanish
+10,10,Daniel Parejo,ESP,M,1.80,75,16-04-89,Madrid,Getafe,Valencia,2015,Spanish
+11,11,Pablo Piatti,ARG,M,1.63,63,31-03-89,La Carlota,Almería,Valencia,2015,Spanish
+12,12,Danilo,BRA,M,1.82,73,28-02-96,Simões Filho,Sporting Braga,Valencia,2015,Spanish
+13,13,Jaume Domènech,ESP,G,1.85,79,05-11-90,Castellón,Huracán Valencia,Valencia,2015,Spanish
+14,14,José Luis Gayá,ESP,D,1.69,62,25-05-95,Pedreguer,Valencia B,Valencia,2015,Spanish
+15,15,Enzo Pérez,ARG,M,1.77,71,22-02-86,Mendoza,Benfica,Valencia,2015,Spanish
+16,16,Zakaria Bakkali,BEL,F,1.64,59,26-01-96,Liège,PSV Eindhoven,Valencia,2015,Spanish
+17,17,Rodrigo Moreno,ESP,F,1.80,74,06-03-91,Rio de Janeiro,Benfica,Valencia,2015,Spanish
+18,18,Javi Fuego,ESP,M,1.81,74,04-01-84,Pola di Siero,Rayo Vallecano,Valencia,2015,Spanish
+19,19,Antonio Barragán,ESP,D,1.82,76,12-06-87,Pontedeume,Valladolid,Valencia,2015,Spanish
+21,21,André Gomes,POR,M,1.88,83,30-07-93,Porto,Benfica,Valencia,2015,Spanish
+22,22,Santi Mina,ESP,F,1.80,71,07-12-95,Vigo,Celta Vigo,Valencia,2015,Spanish
+23,23,Aymen Abdennour,TUN,D,1.87,84,06-08-89,Sousse,Monaco,Valencia,2015,Spanish
+24,24,Denis Cheryshev,RUS,M,1.79,72,26-12-90,Nizhny Novgorod,Real Madrid,Valencia,2015,Spanish
+25,25,Matthew Ryan,AUS,G,1.81,73,08-04-92,Plumpton,Club Brugge,Valencia,2015,Spanish
+28,28,Tropi,ESP,M,1.73,69,12-05-95,Valencia,Valencia B,Valencia,2015,Spanish
+29,29,Wilfried Zahibo,FRA,M,1.89,77,21-08-93,Marseille,Fuenlabrada,Valencia,2015,Spanish
+30,30,Fran Villalba,ESP,M,1.68,65,11-05-98,Valencia,Valencia B,Valencia,2015,Spanish
+31,31,Ibrahim Diallo,MLI,D,1.76,70,12-08-96,Sikasso,Eupen,Valencia,2015,Spanish
+33,33,Nacho Gil,ESP,F,1.70,60,09-09-95,Valencia,Valencia B,Valencia,2015,Spanish
+34,34,Sito Pascual,ESP,M,1.82,70,18-11-96,Alcoy,Valencia B,Valencia,2015,Spanish
+35,35,Antonio Sivera,ESP,G,1.85,75,11-08-96,Jávea,Valencia B,Valencia,2015,Spanish
+36,36,Toni Lato,ESP,D,1.73,69,21-11-97,La Pobla de Vallbona,Valencia B,Valencia,2015,Spanish
+37,37,Rafa Mir,ESP,F,1.86,75,18-06-97,Murcia,Valencia B,Valencia,2015,Spanish
+38,38,Sergio Ayala,ESP,D,1.84,76,19-03-93,Sant Feliu de Llobregat,Barcelona B,Valencia,2015,Spanish
+41,43,Diego Caballo,ESP,D,1.70,66,17-02-94,Salamanca,Real Madrid B,Valencia,2015,Spanish
+42,44,Mariano Konyk,ARG,D,1.80,70,15-02-98,Buenos Aires,Valencia B,Valencia,2015,Spanish
+43,45,Ibán,EQG,F,1.70,68,11-12-95,L'Hospitalet de Llobregat,L'Hospitalet,Valencia,2015,Spanish
+44,46,Carlos Soler,ESP,M,1.83,72,02-01-97,Valencia,Valencia B,Valencia,2015,Spanish
+1,1,Sergio Asenjo,ESP,G,1.82,85,28-06-89,Palencia,Atlético Madrid,Villarreal,2015,Spanish
+2,2,Mario,ESP,D,1.75,70,24-11-90,Novelda,Villarreal B,Villarreal,2015,Spanish
+4,4,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid,Mallorca,Villarreal,2015,Spanish
+5,5,Mateo Musacchio,ARG,D,1.79,72,26-08-90,Rosario,Villarreal B,Villarreal,2015,Spanish
+6,6,Víctor Ruíz,ESP,D,1.84,73,25-01-89,Esplugues de Llobregat,Valencia,Villarreal,2015,Spanish
+7,7,Samu,ESP,F,1.79,73,13-07-90,Málaga,Málaga,Villarreal,2015,Spanish
+8,8,Jonathan dos Santos,MEX,M,1.80,74,26-04-90,Monterrey,Barcelona,Villarreal,2015,Spanish
+9,9,Roberto Soldado,ESP,F,1.79,81,27-05-85,Valencia,Tottenham H,Villarreal,2015,Spanish
+10,10,Léo Baptistão,BRA,F,1.81,71,26-08-92,Santos,Atlético Madrid,Villarreal,2015,Spanish
+11,11,Jaume,ESP,D,1.69,67,18-03-88,Valencia,Villarreal B,Villarreal,2015,Spanish
+13,13,Alphonse Aréola,FRA,G,1.90,85,27-02-93,Paris,Paris St-Germain,Villarreal,2015,Spanish
+14,14,Manu Trigueros,ESP,M,1.78,70,17-10-91,Talavera de la Reina,Villarreal B,Villarreal,2015,Spanish
+17,17,Cédric Bakambu,COD,F,1.80,70,11-04-91,Ivry-sur-Seine,Bursaspor,Villarreal,2015,Spanish
+18,18,Denis Suárez,ESP,M,1.81,72,06-01-94,Tui,Barcelona B,Villarreal,2015,Spanish
+19,19,Samu Castillejo,ESP,F,1.79,61,18-01-95,Málaga,Málaga,Villarreal,2015,Spanish
+20,20,Adrián López,ESP,F,1.80,71,08-01-88,San Martín de Teverga,FC Porto,Villarreal,2015,Spanish
+21,21,Bruno,ESP,M,1.79,70,12-06-84,Artana,Villarreal B,Villarreal,2015,Spanish
+22,22,Antonio Rukavina,SRB,D,1.77,72,26-01-84,Belgrade,Valladolid,Villarreal,2015,Spanish
+23,23,Daniele Bonera,ITA,D,1.83,74,31-05-81,Brescia,Milan,Villarreal,2015,Spanish
+24,24,Eric Bailly,CIV,D,1.88,77,12-04-94,Abidjan,Espanyol,Villarreal,2015,Spanish
+25,25,Mariano Barbosa,ARG,G,1.86,82,27-07-84,Lanús,Sevilla,Villarreal,2015,Spanish
+26,26,Nahuel Leiva,ESP,F,1.74,67,22-10-96,Rosario,Villarreal B,Villarreal,2015,Spanish
+27,27,Adrián Marín,ESP,D,1.77,70,09-01-97,Torre-Pacheco,Villarreal B,Villarreal,2015,Spanish
+28,28,Alfonso Pedraza,ESP,M,1.82,75,09-04-96,San Sebastián de los Ballesteros,Villarreal B,Villarreal,2015,Spanish
+29,29,Rodri,ESP,M,1.90,85,22-06-96,Madrid,Villarreal B,Villarreal,2015,Spanish
+30,30,Javi Ramírez,ESP,D,1.83,73,26-02-95,Roquetas de Mar,Villarreal B,Villarreal,2015,Spanish
+31,31,Aitor Fernández,ESP,G,1.82,74,03-05-91,Mondragón,Villarreal B,Villarreal,2015,Spanish
+34,34,Carlos Julio Martínez,DOM,D,1.71,67,04-02-94,Santo Domingo,Villarreal B,Villarreal,2015,Spanish
+38,38,Pablo Larrea,ESP,M,1.75,67,04-02-94,Madrid,Villarreal B,Villarreal,2015,Spanish
+41,42,Joel Melgarejo,ESP,F,,,05-01-95,Torrevieja,Villarreal C,Villarreal,2015,Spanish
+42,43,Juan Fernández,ESP,D,,,17-08-95,,Villarreal C,Villarreal,2015,Spanish
+43,44,Pablo Íñiguez,ESP,D,1.83,72,20-01-94,Burgos,Villarreal B,Villarreal,2015,Spanish
+44,45,Javier García,ESP,F,,,23-06-96,Alicante,Villarreal C,Villarreal,2015,Spanish
+45,46,Ramón Bueno,ESP,D,,,07-04-95,Burriana,Villarreal C,Villarreal,2015,Spanish
+46,48,Miguelón,ESP,D,,,18-01-96,Benidorm,Villarreal C,Villarreal,2015,Spanish
+47,49,Mario González,ESP,F,,,25-02-96,Burgos,Villarreal C,Villarreal,2015,Spanish
+48,50,Manu Viana,ESP,M,1.70,71,16-06-95,Valencia,Villarreal C,Villarreal,2015,Spanish
+49,52,Javi Jiménez,ESP,D,1.84,74,11-01-96,Quesada,Villarreal B,Villarreal,2015,Spanish
+50,57,Nacho Lorenzo,ESP,D,,,25-04-95,,Villarreal C,Villarreal,2015,Spanish
