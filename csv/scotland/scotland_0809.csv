@@ -1,0 +1,482 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,James Langfield,SCO,G,1.93,83,22-12-79,Paisley,Dunfermline Ath,Aberdeen,2008,Scottish
+2,2,Charlie Mulgrew,SCO,D,1.91,83,06-03-86,Glasgow,Wolverhampton W,Aberdeen,2008,Scottish
+3,3,Richard  Foster,SCO,M,1.76,73,31-07-85,Aberdeen,Elgin BC,Aberdeen,2008,Scottish
+4,4,Gary McDonald,SCO,M,1.85,73,10-04-82,Irvine,Oldham Ath,Aberdeen,2008,Scottish
+5,5,Zander Diamond,SCO,D,1.89,73,03-12-85,Alexandria,None,Aberdeen,2008,Scottish
+6,6,Scott Severin,SCO,M,1.80,79,15-02-79,Stirling,Hearts,Aberdeen,2008,Scottish
+7,7,Jamie Smith,SCO,M,1.70,74,20-11-80,Alexandria,ADO Den Haag,Aberdeen,2008,Scottish
+8,8,Mark Kerr,SCO,M,1.83,65,02-03-82,Bellshill,Dundee U,Aberdeen,2008,Scottish
+9,9,Lee Miller,SCO,F,1.88,73,18-05-83,Lanark,Dundee U,Aberdeen,2008,Scottish
+10,10,Darren Mackie,SCO,F,1.75,64,05-01-82,Inverurie,Colony Boys Club,Aberdeen,2008,Scottish
+11,11,Tommy Wright,ENG,F,1.83,74,28-09-84,Leicester,Darlington,Aberdeen,2008,Scottish
+14,14,Derek Young,SCO,M,1.75,68,27-05-80,Glasgow,Partick Thistle,Aberdeen,2008,Scottish
+15,15,Javan Vidal,ENG,D,1.78,68,10-05-89,Manchester,Manchester C,Aberdeen,2008,Scottish
+16,16,Stuart Duff,SCO,M,1.78,69,23-01-82,Aberdeen,Dundee U,Aberdeen,2008,Scottish
+18,18,Lee Mair,SCO,D,1.83,71,09-12-80,Aberdeen,Dundee U,Aberdeen,2008,Scottish
+19,19,Chris Maguire,SCO,F,1.70,66,16-01-89,Bellshill,None,Aberdeen,2008,Scottish
+20,20,Bertrand Bossu,FRA,G,2.00,89,14-10-80,Calais,Walsall,Aberdeen,2008,Scottish
+21,21,Andrew Considine,SCO,D,1.83,75,01-04-87,Aberdeen,None,Aberdeen,2008,Scottish
+22,22,Sone Aluko,ENG,F,1.73,62,19-02-89,Birmingham,Birmingham C,Aberdeen,2008,Scottish
+23,23,Sammy Stewart,NIR,M,,,25-11-90,Craigavon,Glenavon,Aberdeen,2008,Scottish
+24,24,Michael Paton,SCO,F,1.78,71,25-03-89,Greenock,None,Aberdeen,2008,Scottish
+26,26,Peter Pawlett,ENG,M,1.78,68,03-02-91,Hull,None,Aberdeen,2008,Scottish
+27,27,Jonathan Crawford,SCO,D,,,12-03-90,Glasgow,None,Aberdeen,2008,Scottish
+28,28,Stirling Smith,SCO,D,,,02-03-91,,None,Aberdeen,2008,Scottish
+29,29,Nicky Clark,SCO,F,1.78,67,03-06-91,Bellshill,None,Aberdeen,2008,Scottish
+30,30,John Bateman,ENG,G,,,03-06-89,Wolverhampton,WBA,Aberdeen,2008,Scottish
+31,31,Ryan Jack,SCO,D,1.82,77,27-02-92,Aberdeen,None,Aberdeen,2008,Scottish
+32,32,Scott Ross,SCO,D,,,19-04-91,Aberdeen,None,Aberdeen,2008,Scottish
+33,33,Rógvi Holm,FRO,D,,,24-01-90,,Argja Bóltfelag,Aberdeen,2008,Scottish
+34,34,Hállur Hánsson,FRO,M,1.82,77,08-07-92,Tórshavn,HB Tórshavn,Aberdeen,2008,Scottish
+1,1,Artur Boruc,POL,G,1.93,88,20-02-80,Siedlce,Legia  Warszawa,Celtic,2008,Scottish
+2,2,Andreas Hinkel,GER,D,1.83,74,26-03-82,Backnang,Sevilla,Celtic,2008,Scottish
+3,3,Lee Naylor,ENG,D,1.78,74,19-03-80,Bloxwich,Wolverhampton  W,Celtic,2008,Scottish
+4,4,Stephen  McManus,SCO,D,1.88,83,10-09-82,Lanark,None,Celtic,2008,Scottish
+5,5,Gary Caldwell,SCO,D,1.85,75,12-04-82,Stirling,Hibernian,Celtic,2008,Scottish
+6,6,Bobo Baldé,GUI,D,1.90,85,13-10-75,Marseille,Toulouse,Celtic,2008,Scottish
+7,7,Scott McDonald,AUS,F,1.73,78,21-08-83,Melbourne,Motherwell,Celtic,2008,Scottish
+8,8,Scott  Brown,SCO,M,1.75,72,26-06-85,Dunfermline,Hibernian,Celtic,2008,Scottish
+9,9,Giorgos Samaras,GRE,F,1.93,82,21-02-85,Heraklion,Manchester C,Celtic,2008,Scottish
+10,10,Jan Vennegoor of Hesselink,NED,F,1.91,85,07-11-78,Oldenzaal,PSV Eindhoven,Celtic,2008,Scottish
+11,11,Paul Hartley,SCO,M,1.73,64,19-10-76,Glasgow,Hearts,Celtic,2008,Scottish
+12,12,Mark  Wilson,SCO,D,1.80,76,05-06-84,Glasgow,Dundee U,Celtic,2008,Scottish
+13,13,Shaun Maloney,SCO,F,1.70,70,24-01-83,Mirri,Aston Villa,Celtic,2008,Scottish
+14,14,Niall McGinn,NIR,M,1.83,83,20-07-87,Dungannon,Derry C,Celtic,2008,Scottish
+15,15,Milan Miun,CZE,D,1.86,78,21-02-90,Příbram,Příbram,Celtic,2008,Scottish
+16,16,Willo  Flood,IRL,M,1.68,62,10-04-85,Dublin,Cardiff C,Celtic,2008,Scottish
+17,17,Marc  Crosas,ESP,M,1.72,69,09-01-88,Sant Feliu de Guíxols,Barcelona,Celtic,2008,Scottish
+18,18,Massimo Donati,ITA,M,1.86,75,26-03-81,Sedegliano,Milan,Celtic,2008,Scottish
+19,19,Barry Robson,SCO,M,1.80,70,07-11-78,Aberdeen,Dundee U,Celtic,2008,Scottish
+20,20,Patrick McCourt,NIR,M,1.82,70,16-12-83,Derry,Derry C,Celtic,2008,Scottish
+21,21,Mark Brown,SCO,G,1.85,84,28-02-81,Motherwell,Inverness CT,Celtic,2008,Scottish
+22,22,Glenn Loovens,NED,D,1.77,74,22-09-83,Doetinchem,Cardiff C,Celtic,2008,Scottish
+23,23,Ben Hutchinson,ENG,F,1.80,80,27-11-87,Nottingham,Middlesbrough,Celtic,2008,Scottish
+24,24,Jean-Joël  Perrier Doumbé,CMR,D,1.80,74,27-09-78,Paris,Rennes,Celtic,2008,Scottish
+25,25,Shunsuke Nakamura,JPN,M,1.78,69,24-06-78,Yokohama,Reggina,Celtic,2008,Scottish
+29,29,Koki Mizuno,JPN,M,1.73,58,06-09-85,Shizuoka,JEF United,Celtic,2008,Scottish
+41,41,John Kennedy,SCO,D,1.88,79,18-08-83,Bellshill,None,Celtic,2008,Scottish
+42,42,Michael  McGlinchey,NZL,M,1.75,68,07-01-87,Wellington,None,Celtic,2008,Scottish
+43,46,Aidan  McGeady,IRL,M,1.78,72,04-04-86,Glasgow,None,Celtic,2008,Scottish
+44,47,Dominic Cervi,USA,G,1.98,93,09-07-86,Norman,Michigan Bucks,Celtic,2008,Scottish
+45,48,Darren  O'Dea,IRL,D,1.85,83,04-02-87,Dublin,Home  Farm,Celtic,2008,Scottish
+46,50,Luca Santonocito,ITA,D,,,11-02-91,Mariano Comense,Internazionale,Celtic,2008,Scottish
+47,51,Nicky Riley,SCO,M,1.70,62,10-05-86,Edinburgh,None,Celtic,2008,Scottish
+48,53,Simon  Ferry,SCO,M,1.73,70,11-01-88,Dundee,None,Celtic,2008,Scottish
+49,54,Ryan Conroy,SCO,M,1.76,73,28-04-87,Vale of  Leven,None,Celtic,2008,Scottish
+50,56,Mark Millar,SCO,M,1.87,82,23-02-89,Glasgow,None,Celtic,2008,Scottish
+51,62,Scott Fox,SCO,G,1.83,77,28-06-87,Bellshill,None,Celtic,2008,Scottish
+1,1,Łukasz Załuska,POL,G,1.90,88,16-06-82,Wysokie Mazowieckie,Korona Kielce,Dundee United,2008,Scottish
+2,2,Sean Dillon,IRL,D,1.83,79,30-07-83,Dublin,Shelbourne,Dundee United,2008,Scottish
+3,3,Danny Grainger,ENG,D,1.83,76,28-07-86,Carlisle,Gretna,Dundee United,2008,Scottish
+4,4,Lee Wilkie,SCO,D,1.93,82,20-04-80,Dundee,Dundee,Dundee United,2008,Scottish
+5,5,Darren Dods,SCO,D,1.86,82,07-06-75,Edinburgh,Inverness CT,Dundee United,2008,Scottish
+6,6,Paul Caddis,SCO,D,1.70,67,19-04-88,Irvine,Celtic,Dundee United,2008,Scottish
+7,7,Warren Feeney,NIR,F,1.78,71,17-01-81,Belfast,Cardiff C,Dundee United,2008,Scottish
+8,8,Scott Robertson,SCO,M,1.83,72,07-04-85,Dundee,Dundee,Dundee United,2008,Scottish
+9,9,Jonathan Daly,IRL,F,1.91,76,08-01-83,Dublin,Hartlepool U,Dundee United,2008,Scottish
+10,10,James Wesolowski,AUS,M,1.72,75,25-08-87,Sydney,Leicester C,Dundee United,2008,Scottish
+11,11,Fran Sandaza,ESP,F,1.87,80,30-11-84,Toledo,Valencia B,Dundee United,2008,Scottish
+12,12,David Robertson,SCO,M,1.78,64,23-09-86,Bangour,None,Dundee United,2008,Scottish
+13,13,Michael  McGovern,NIR,G,1.91,89,12-07-84,Enniskillen,Celtic,Dundee United,2008,Scottish
+14,14,Danny Swanson,SCO,M,1.68,59,28-12-86,Edinburgh,Berwick Rangers,Dundee United,2008,Scottish
+15,15,Craig Conway,SCO,M,1.70,67,02-05-85,Irvine,Ayr U,Dundee United,2008,Scottish
+16,16,Morgaro Gomis,FRA,M,1.75,70,14-07-85,Le Blanc-Mesnil,Cowdenbeath,Dundee United,2008,Scottish
+18,18,Garry Kenneth,SCO,D,1.93,83,21-06-87,Dundee,None,Dundee United,2008,Scottish
+19,19,Mihael Kovačevič,SUI,D,1.93,88,03-03-88,Basel,Koper,Dundee United,2008,Scottish
+20,20,Andis Shala,GER,F,1.88,78,15-11-88,Mannheim,VfR Mannheim,Dundee United,2008,Scottish
+21,21,John Gibson,SCO,G,1.91,82,31-01-89,Glasgow,None,Dundee United,2008,Scottish
+23,23,Paul Dixon,SCO,D,1.91,71,22-11-86,Aberdeen,Dundee,Dundee United,2008,Scottish
+25,25,Prince Buaben,GHA,M,1.83,75,23-04-88,Akosombo,Ajax,Dundee United,2008,Scottish
+26,26,David Goodwillie,SCO,F,1.75,71,28-03-89,Stirling,Carse Thistle,Dundee United,2008,Scottish
+27,27,Keith Watson,SCO,D,1.86,73,14-11-89,Livingston,Livingston Star BC,Dundee United,2008,Scottish
+28,28,Marco Andreoni,SCO,M,1.78,61,12-08-88,Bellshill,None,Dundee United,2008,Scottish
+29,29,Ryan McCord,SCO,M,1.78,70,21-03-89,Dundee,Fairmuir BC,Dundee United,2008,Scottish
+31,31,Conor Grant,ENG,G,1.88,,03-05-90,Whitehaven,Gretna,Dundee United,2008,Scottish
+33,33,Gordon Pope,SCO,D,1.86,,02-04-89,Irvine,Shankley BC,Dundee United,2008,Scottish
+34,34,Fraser Milligan,SCO,D,1.75,,19-04-89,Dundee,None,Dundee United,2008,Scottish
+35,35,Ryan Dow,SCO,F,1.70,67,07-06-91,Dundee,Dundee,Dundee United,2008,Scottish
+36,36,Ross McCord,SCO,M,1.73,,18-02-90,Dundee,Celtic BC,Dundee United,2008,Scottish
+37,37,Scott Allan,SCO,M,1.75,70,28-11-91,Glasgow,None,Dundee United,2008,Scottish
+38,38,David Brophy,SCO,M,1.80,,09-06-90,Bellshill,Airdrie BC,Dundee United,2008,Scottish
+39,39,Kieron Colgan,SCO,M,1.70,,05-02-91,Bellshill,None,Dundee United,2008,Scottish
+40,40,Brynn Hindley,ENG,G,1.85,,09-04-91,Oldham,Stirling Lions,Dundee United,2008,Scottish
+41,41,Kris Irvine,SCO,D,1.72,,03-04-91,Glasgow,Celtic,Dundee United,2008,Scottish
+42,42,Michael Lee,SCO,D,1.88,,03-01-92,Kirkcaldy,Rangers,Dundee United,2008,Scottish
+43,43,Ross Smith,SCO,D,1.88,73,21-02-92,Glasgow,None,Dundee United,2008,Scottish
+44,44,David Shaw,SCO,D,1.88,,11-02-92,Rutherglen,None,Dundee United,2008,Scottish
+45,45,Gavin Stokes,SCO,M,1.78,,20-04-92,Glasgow,None,Dundee United,2008,Scottish
+46,46,Louis Swanson,SCO,M,1.63,,18-03-92,Edinburgh,Cowdenbeath,Dundee United,2008,Scottish
+47,47,Kenneth Smith,SCO,F,1.65,,19-03-91,Dundee,None,Dundee United,2008,Scottish
+48,48,Jordan Elfverson,SCO,F,1.90,,06-04-92,Dundee,None,Dundee United,2008,Scottish
+49,49,John Murray,SCO,F,1.75,,05-08-91,Bellshill,None,Dundee United,2008,Scottish
+50,50,Cammy Howie,SCO,D,1.85,,04-12-92,Dundee,Forfar Ath,Dundee United,2008,Scottish
+1,1,Dani Mallo,ESP,G,1.81,78,25-01-79,La Coruña,Sporting Braga,Falkirk,2008,Scottish
+2,2,Lee Bullen,SCO,D,1.86,76,29-03-71,Edinburgh,Sheffield W,Falkirk,2008,Scottish
+3,3,Dean Holden,NIR,D,1.86,78,15-09-79,Salford,Peterborough U,Falkirk,2008,Scottish
+4,4,Patrick  Cregg,IRL,M,1.75,65,21-02-86,Dublin,Arsenal,Falkirk,2008,Scottish
+5,5,Jackie McNamara,SCO,D,1.72,60,24-10-73,Glasgow,Aberdeen,Falkirk,2008,Scottish
+6,6,Kevin  McBride,SCO,M,1.78,66,14-06-81,Bellshill,Darlington,Falkirk,2008,Scottish
+7,7,Neil  McCann,SCO,M,1.78,63,11-08-74,Greenock,Hearts,Falkirk,2008,Scottish
+8,8,Arnau,ESP,M,1.75,73,01-10-81,Manacor,Sunderland,Falkirk,2008,Scottish
+10,10,Steven Pressley,SCO,D,1.83,79,11-10-73,Elgin,Randers,Falkirk,2008,Scottish
+11,11,Michael  Higdon,ENG,F,1.86,80,02-09-83,Liverpool,Crewe Alex,Falkirk,2008,Scottish
+14,14,Gerard Aafjes,NED,D,1.81,79,27-01-85,Mijdrecht,FC Volendam,Falkirk,2008,Scottish
+15,15,Steve Lovell,ENG,F,1.80,74,06-12-80,Amersham,Aberdeen,Falkirk,2008,Scottish
+16,16,Scott  Arfield,SCO,M,1.78,64,01-11-88,Dechmont,None,Falkirk,2008,Scottish
+17,17,Robert  Olejnik,AUT,G,1.88,98,26-11-86,Vienna,Aston Villa,Falkirk,2008,Scottish
+18,18,Brian  Allison,SCO,D,1.78,73,23-06-88,Edinburgh,None,Falkirk,2008,Scottish
+20,20,Darren Barr,SCO,D,1.75,65,17-03-85,Glasgow,None,Falkirk,2008,Scottish
+21,21,Carl Finnigan,ENG,F,1.79,70,01-10-86,Jarrow,Newcastle U,Falkirk,2008,Scottish
+22,22,Chris Mitchell,SCO,D,1.75,68,21-07-88,Stirling,Livingston,Falkirk,2008,Scottish
+23,23,Kevin Moffat,SCO,F,1.65,61,06-08-88,Edinburgh,None,Falkirk,2008,Scottish
+24,24,Mark  Stewart,SCO,F,1.70,67,22-06-88,Glasgow,None,Falkirk,2008,Scottish
+25,25,Dermot McCaffrey,NIR,D,1.80,69,29-03-86,Omagh,Hibernian,Falkirk,2008,Scottish
+27,27,Dayne  Robertson,SCO,F,1.73,68,21-06-88,Edinburgh,None,Falkirk,2008,Scottish
+29,29,Sean  Lynch,SCO,M,1.78,68,31-01-87,Dechmont,Hibernian,Falkirk,2008,Scottish
+30,30,Jamie Barclay,SCO,G,1.79,75,29-09-89,Glasgow,None,Falkirk,2008,Scottish
+31,31,Scott Gibb,NIR,D,1.85,72,16-09-88,Craigavon,Glenavon,Falkirk,2008,Scottish
+33,33,Thomas  Scobbie,SCO,D,1.83,70,31-03-88,Falkirk,None,Falkirk,2008,Scottish
+34,34,Mark Staunton,SCO,D,1.78,74,30-01-89,Alexandria,None,Falkirk,2008,Scottish
+41,47,Burton O'Brien,SCO,M,1.78,74,10-06-81,Johannesburg,Sheffield W,Falkirk,2008,Scottish
+1,1,Tomá Černý,CZE,G,1.85,80,10-04-85,Ústí nad Labem,Sigma Olomouc,Hamilton Academical,2008,Scottish
+2,2,Jordan  McMillan,SCO,D,1.78,63,16-10-88,Glasgow,Rangers,Hamilton Academical,2008,Scottish
+3,3,Brian Easton,SCO,D,1.83,76,05-03-88,Glasgow,None,Hamilton Academical,2008,Scottish
+4,4,James McCarthy,IRL,M,1.80,72,12-11-90,Glasgow,None,Hamilton Academical,2008,Scottish
+5,5,David Elebert,IRL,D,1.85,85,21-03-86,Dublin,Preston NE,Hamilton Academical,2008,Scottish
+6,6,Mark McLaughlin,SCO,D,1.88,85,02-12-75,Greenock,Clyde,Hamilton Academical,2008,Scottish
+7,7,Kenny Deuchar,SCO,F,1.91,83,06-08-80,Stirling,Real Salt Lake,Hamilton Academical,2008,Scottish
+8,8,James McArthur,SCO,M,1.68,63,07-10-87,Glasgow,None,Hamilton Academical,2008,Scottish
+9,9,Richard Offiong,ENG,F,1.80,77,17-12-83,South Shields,Doncaster  R,Hamilton Academical,2008,Scottish
+10,10,Alex Neil,SCO,M,1.75,71,09-06-81,Bellshill,Mansfield Tcr`,Hamilton Academical,2008,Scottish
+11,11,Mark Corcoran,SCO,M,1.78,71,30-11-80,Perth,St Mirren,Hamilton Academical,2008,Scottish
+12,12,Joël Thomas,FRA,F,1.85,78,30-06-87,Caen,Kaiserslautern,Hamilton Academical,2008,Scottish
+15,15,Chris Swailes,ENG,D,1.88,86,19-10-70,Gateshead,Oldham Ath,Hamilton Academical,2008,Scottish
+16,16,James Gibson,SCO,D,1.81,63,23-04-89,Ayr,None,Hamilton Academical,2008,Scottish
+17,17,Paul McGowan,SCO,F,1.70,65,07-10-87,Bellshill,Celtic,Hamilton Academical,2008,Scottish
+18,18,Derek Lyle,SCO,F,1.73,66,13-02-81,Glasgow,Dundee,Hamilton Academical,2008,Scottish
+19,19,Sean Murdoch,SCO,G,1.88,74,31-07-86,Edinburgh,Dunfermline Ath,Hamilton Academical,2008,Scottish
+20,20,Martin Canning,SCO,D,1.88,75,03-12-81,Stirling,Hibernian,Hamilton Academical,2008,Scottish
+21,21,Stuart Taylor,SCO,M,1.86,72,26-11-74,Glasgow,Airdrie U,Hamilton Academical,2008,Scottish
+22,22,Trent McClenahan,AUS,D,1.75,70,04-02-85,Chipping Norton [AUS],Hereford U,Hamilton Academical,2008,Scottish
+23,23,Rocco Quinn,SCO,M,1.81,76,07-09-86,Glasgow,Celtic,Hamilton Academical,2008,Scottish
+27,27,Simon Mensing,GER,M,1.78,73,27-06-82,Wolfenbüttel,Motherwell,Hamilton Academical,2008,Scottish
+28,28,Grant Gillespie,SCO,M,1.76,75,02-07-91,Bellshill,None,Hamilton Academical,2008,Scottish
+29,29,Stephen Hall,SCO,G,,,,,None,Hamilton Academical,2008,Scottish
+30,30,Jordan Kirkpatrick,SCO,M,1.78,73,06-03-92,Rutherglen,None,Hamilton Academical,2008,Scottish
+31,31,Gary Gow,SCO,F,1.77,,24-01-90,,None,Hamilton Academical,2008,Scottish
+32,32,Grant Evans,SCO,D,1.90,83,03-01-90,Glasgow,None,Hamilton Academical,2008,Scottish
+33,33,Matt Sheridan,SCO,D,,,,,None,Hamilton Academical,2008,Scottish
+34,34,Stuart Mills,SCO,F,,,07-04-90,,None,Hamilton Academical,2008,Scottish
+35,35,Christopher Fagan,IRL,F,1.73,66,11-05-89,Dublin,Manchester U,Hamilton Academical,2008,Scottish
+36,36,Derek Asamoah,GHA,F,1.66,70,01-05-81,Accra,Nice,Hamilton Academical,2008,Scottish
+41,50,Brian Potter,SCO,G,1.83,76,26-01-77,Laighton,Raith R,Hamilton Academical,2008,Scottish
+2,2,Robbie Neilson,SCO,D,1.73,70,19-06-80,Paisley,Rangers BC,Heart of Midlothian,2008,Scottish
+3,3,Lee Wallace,SCO,D,1.85,76,01-08-87,Edinburgh,None,Heart of Midlothian,2008,Scottish
+5,5,Christos Karipidis,GRE,D,1.85,80,02-12-82,Thessaloniki,PAOK,Heart of Midlothian,2008,Scottish
+6,6,Rubén Palazuelos,ESP,D,1.87,75,11-04-83,Santander,Nàstic,Heart of Midlothian,2008,Scottish
+8,8,Bruno Aguiar,POR,M,1.76,70,24-02-81,Lisbon,FBK  Kaunas,Heart of Midlothian,2008,Scottish
+9,9,Mike Tullberg,DEN,F,1.89,85,25-12-85,Farum,Reggina,Heart of Midlothian,2008,Scottish
+10,10,Laryea Kingston,GHA,M,1.72,69,07-11-80,Accra,Terek Grozny,Heart of Midlothian,2008,Scottish
+11,11,Andrew Driver,ENG,M,1.75,68,12-11-87,Oldham,None,Heart of Midlothian,2008,Scottish
+12,12,János Balogh,HUN,G,1.92,83,29-11-82,Debrecen,Debrecen,Heart of Midlothian,2008,Scottish
+13,13,Steve Banks,ENG,G,1.80,84,09-02-72,Hillingdon,Gillingham,Heart of Midlothian,2008,Scottish
+14,14,Christian  Nadé,FRA,F,1.86,80,18-09-84,Montmorency,Sheffield U,Heart of Midlothian,2008,Scottish
+16,16,Adrian Mrowiec,POL,M,1.90,84,01-12-83,Wałbrzych,FBK Kaunas,Heart of Midlothian,2008,Scottish
+17,17,David Obua,UGA,M,1.84,82,10-04-84,Kampala,Kaizer Chiefs,Heart of Midlothian,2008,Scottish
+20,20,Jason Thomson,SCO,D,1.80,73,26-08-87,Edinburgh,None,Heart of Midlothian,2008,Scottish
+21,21,Eggert Jónsson,ISL,M,1.88,72,18-08-88,Rekyjavik,Þór Akureyri,Heart of Midlothian,2008,Scottish
+22,22,Calum Elliot,SCO,F,1.83,79,30-03-87,Edinburgh,None,Heart of Midlothian,2008,Scottish
+23,23,Michael Stewart,SCO,M,1.80,73,26-02-81,Edinburgh,Hibernian,Heart of Midlothian,2008,Scottish
+25,25,Marián Kello,SVK,G,1.88,87,05-09-82,Gelnica,FBK Kaunas,Heart of Midlothian,2008,Scottish
+26,26,Marius aliūkas,LTU,M,1.90,84,10-11-83,Kurėnai,FBK Kaunas,Heart of Midlothian,2008,Scottish
+30,30,Jamie MacDonald,SCO,G,1.86,71,17-04-86,Broxburn,None,Heart of Midlothian,2008,Scottish
+31,31,David Armstrong,NIR,D,1.80,71,23-01-87,Lisburn,Crusaders,Heart of Midlothian,2008,Scottish
+33,33,Denis McLaughlin,IRL,F,1.80,76,05-02-87,Letterkenny,None,Heart of Midlothian,2008,Scottish
+37,37,Marco Pelosi,SCO,D,1.78,75,22-04-86,Edinburgh,None,Heart of Midlothian,2008,Scottish
+39,39,Ryan McGowan,AUS,D,1.88,75,15-08-89,Adelaide,Para Hills,Heart of Midlothian,2008,Scottish
+41,41,Matthew Park,AUS,M,,,22-04-88,Melbourne,Frankston Pines,Heart of Midlothian,2008,Scottish
+42,42,David Templeton,SCO,F,1.76,63,07-01-89,Glasgow,Stenhousemuir,Heart of Midlothian,2008,Scottish
+43,44,Haraldur Björnsson,ISL,G,1.92,95,11-01-89,Reykjavík,Valur,Heart of Midlothian,2008,Scottish
+44,45,Branimir Kostadinov,BUL,F,1.80,69,04-03-89,Veliko Tarnovo,LASK Linz,Heart of Midlothian,2008,Scottish
+45,46,Paul Mulrooney,SCO,M,,,27-01-90,Bishopbriggs,None,Heart of Midlothian,2008,Scottish
+46,47,Mark Cowan,SCO,F,,,30-01-90,,None,Heart of Midlothian,2008,Scottish
+47,48,Jonathan Stewart,SCO,D,,,12-02-90,,None,Heart of Midlothian,2008,Scottish
+48,50,Ross McKenzie,SCO,F,,,20-03-90,,None,Heart of Midlothian,2008,Scottish
+49,51,Gary Glen,SCO,F,1.77,79,22-03-90,Livingston,None,Heart of Midlothian,2008,Scottish
+50,52,Dumitru Copil,ROU,M,,,04-03-90,,Atletico Arad,Heart of Midlothian,2008,Scottish
+51,53,Ben Long,ENG,M,,,16-04-90,Harrow,Barnet,Heart of Midlothian,2008,Scottish
+52,54,Rocky Visconte,AUS,M,1.79,72,22-04-90,Adelaide,Para Hills,Heart of Midlothian,2008,Scottish
+53,55,Jonathan Brown,SCO,D,1.82,77,24-04-90,Kempton Park,None,Heart of Midlothian,2008,Scottish
+54,56,Jordon Love,SCO,F,1.80,,07-05-90,Bellshill,Dundee U,Heart of Midlothian,2008,Scottish
+55,57,Ryan Wallace,SCO,F,1.73,68,30-07-90,,None,Heart of Midlothian,2008,Scottish
+56,58,Mark Ridgers,SCO,G,1.83,82,09-08-90,Inverness,Ross Co,Heart of Midlothian,2008,Scottish
+57,59,Robert Adam,CAN,D,,,07-09-90,,LA Force,Heart of Midlothian,2008,Scottish
+58,60,Stephen Husband,SCO,M,1.83,82,29-10-90,Kelty,Cowdenbeath,Heart of Midlothian,2008,Scottish
+59,61,Elias Wagner,AUT,M,,,27-11-90,,Hibernian,Heart of Midlothian,2008,Scottish
+60,62,Michael Deland,SCO,D,,,06-01-91,,None,Heart of Midlothian,2008,Scottish
+61,63,Conrad Balatoni,ENG,D,1.83,83,27-01-91,Leeds,None,Heart of Midlothian,2008,Scottish
+62,64,Danny Thomson,SCO,M,,,24-02-91,,None,Heart of Midlothian,2008,Scottish
+63,65,Craig Thomson,SCO,D,,,17-04-91,,None,Heart of Midlothian,2008,Scottish
+64,66,David Love,SCO,F,,,11-05-91,,None,Heart of Midlothian,2008,Scottish
+65,67,Dylan McGowan,AUS,D,1.88,80,06-08-91,Adelaide,Para Hills,Heart of Midlothian,2008,Scottish
+66,69,John Wood,SCO,M,,,25-09-91,,None,Heart of Midlothian,2008,Scottish
+67,70,Matthew Falzon,AUS,G,,,01-10-91,,Para Hills,Heart of Midlothian,2008,Scottish
+68,71,Shaun Hill,SCO,M,,,26-02-92,,None,Heart of Midlothian,2008,Scottish
+69,72,Scott Robinson,SCO,F,1.68,60,12-03-92,Edinburgh,None,Heart of Midlothian,2008,Scottish
+70,73,Arvydas Novikovas,LTU,F,1.79,76,18-12-90,Vilnius,FK Vilnius,Heart of Midlothian,2008,Scottish
+1,01,Derek Riordan,SCO,F,1.81,65,16-01-83,Edinburgh,Hibernian,Hibernian,2008,Scottish
+2,2,Kevin McCann,SCO,D,1.78,71,11-09-87,Glasgow,None,Hibernian,2008,Scottish
+3,3,David van Zanten,IRL,D,1.78,70,08-05-82,Dublin,St Mirren,Hibernian,2008,Scottish
+4,4,Chris Hogg,ENG,D,1.83,79,21-03-85,Middlesbrough,Ipswich T,Hibernian,2008,Scottish
+5,5,Rob Jones,ENG,D,2.01,77,03-11-79,Stockton-on-Tees,Grimsby T,Hibernian,2008,Scottish
+6,6,Ian Murray,SCO,M,1.83,72,20-03-81,Edinburgh,Norwich C,Hibernian,2008,Scottish
+8,8,Fabián Yantorno,URU,M,1.74,72,04-09-82,Montevideo,Gretna,Hibernian,2008,Scottish
+9,9,Steven Fletcher,SCO,F,1.85,76,26-03-87,Shrewsbury,None,Hibernian,2008,Scottish
+10,10,Colin Nish,SCO,F,1.91,73,07-03-81,Edinburgh,Kilmarnock,Hibernian,2008,Scottish
+11,11,Alan  O'Brien,IRL,M,1.78,71,20-02-85,Dublin,Newcastle U,Hibernian,2008,Scottish
+13,13,Grzegorz Szamotulski,POL,G,1.88,91,13-05-76,Gdańsk,Ashdod,Hibernian,2008,Scottish
+14,14,Joe  Keenan,ENG,M,1.72,63,14-10-82,Southampton,Melbourne Victory,Hibernian,2008,Scottish
+15,15,Steven  Thicot,FRA,D,1.86,80,14-02-87,Montrieul-sous-Bois,Nantes,Hibernian,2008,Scottish
+16,16,Lewis Stevenson,SCO,D,1.70,67,05-01-88,Kirkcaldy,None,Hibernian,2008,Scottish
+18,18,John Rankin,SCO,M,1.73,80,27-06-83,Bellshill,Inverness CT,Hibernian,2008,Scottish
+20,20,Paul Hanlon,SCO,D,1.80,64,20-01-90,Edinburgh,None,Hibernian,2008,Scottish
+21,21,Andrew  McNeil,SCO,G,1.82,86,19-01-87,Edinburgh,Southampton,Hibernian,2008,Scottish
+23,23,Ross Chisholm,SCO,M,1.75,65,14-01-88,Irvine,None,Hibernian,2008,Scottish
+24,24,Steve Pinau,FRA,M,1.81,76,11-03-88,Le Mans,Genoa,Hibernian,2008,Scottish
+25,25,Darren McCormack,SCO,D,1.83,74,29-09-88,Edinburgh,None,Hibernian,2008,Scottish
+26,26,Souleymane Bamba,CIV,D,1.90,90,13-01-85,Ivry-sur-Seine,Dunfermline Ath,Hibernian,2008,Scottish
+27,27,Jack Wilson,SCO,M,1.73,,09-10-89,,None,Hibernian,2008,Scottish
+28,28,Ross Campbell,SCO,F,1.75,63,03-07-87,Galashiels,None,Hibernian,2008,Scottish
+30,30,Jordan Cropley,SCO,M,1.70,64,24-06-89,Edinburgh,None,Hibernian,2008,Scottish
+31,31,Jonatan Johansson,FIN,F,1.84,80,16-08-75,Stockholm,Malmö FF,Hibernian,2008,Scottish
+32,32,Dénes Rósa,HUN,M,1.75,66,07-04-77,Budapest,Wolverhampton W,Hibernian,2008,Scottish
+34,34,Damon Gray,ENG,F,1.75,74,11-07-88,South Shields,Newcastle U,Hibernian,2008,Scottish
+41,50,Yves  Makabu Ma-Kalambay,COD,G,1.93,83,31-01-86,Brussels,Chelsea,Hibernian,2008,Scottish
+1,1,Michael Fraser,SCO,G,1.91,79,08-10-83,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+2,2,Ross Tokely,SCO,D,1.91,76,08-03-79,Aberdeen,Huntly,Inverness Caledonian Thistle,2008,Scottish
+3,3,Lionel Djebi-Zadi,FRA,D,1.88,80,20-05-82,Lyon,Verl,Inverness Caledonian Thistle,2008,Scottish
+4,4,David Proctor,SCO,D,1.80,72,04-05-84,Bellshill,Dundee U,Inverness Caledonian Thistle,2008,Scottish
+5,5,Philip McGuire,SCO,D,1.80,66,04-03-80,Glasgow,Dunfermline Ath,Inverness Caledonian Thistle,2008,Scottish
+6,6,Roy McBain,SCO,M,1.80,72,07-11-74,Aberdeen,Ross Co,Inverness Caledonian Thistle,2008,Scottish
+7,7,Filipe Morais,POR,M,1.75,73,21-11-85,Lisbon,Hibernian,Inverness Caledonian Thistle,2008,Scottish
+8,8,Ian Black,SCO,M,1.73,63,14-03-85,Edinburgh,Blackburn R,Inverness Caledonian Thistle,2008,Scottish
+9,9,Adam Rooney,IRL,F,1.78,78,21-04-88,Dublin,Stoke C,Inverness Caledonian Thistle,2008,Scottish
+10,10,Andrew  Barrowman,SCO,F,1.83,80,27-11-84,Wishaw,Ross Co,Inverness Caledonian Thistle,2008,Scottish
+11,11,Dougie Imrie,SCO,F,1.78,74,03-08-83,Lanark,Clyde,Inverness Caledonian Thistle,2008,Scottish
+12,12,Russell Duncan,SCO,M,1.75,75,15-09-80,Aberdeen,Forfar Ath,Inverness Caledonian Thistle,2008,Scottish
+14,14,Grant Munro,SCO,D,1.85,78,15-09-80,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+16,16,Richard Hastings,CAN,D,1.83,73,18-05-87,Price George,MVV Maastricht,Inverness Caledonian Thistle,2008,Scottish
+17,17,Zander  Sutherland,SCO,M,1.65,59,07-09-87,Wick,None,Inverness Caledonian Thistle,2008,Scottish
+18,18,Pāvels Mihadjuks,LVA,D,1.89,77,27-05-80,Liepāja,Ventspils,Inverness Caledonian Thistle,2008,Scottish
+19,19,Thierry Gathuessi,FRA,D,1.80,75,17-04-82,Bafoussam,Sète,Inverness Caledonian Thistle,2008,Scottish
+20,20,Richie Byrne,IRL,D,1.85,78,24-09-81,Dublin,Oldham Ath,Inverness Caledonian Thistle,2008,Scottish
+22,22,Garry Wood,SCO,F,1.88,84,27-01-88,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+23,23,Ryan Esson,SCO,G,1.85,79,19-03-80,Aberdeen,Hereford U,Inverness Caledonian Thistle,2008,Scottish
+24,24,Jamie Duff,SCO,D,1.88,79,26-01-89,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+25,25,Richie Foran,IRL,F,1.85,78,16-06-80,Dublin,Southend U,Inverness Caledonian Thistle,2008,Scottish
+26,26,Eric Odhiambo-Anaclet,ENG,F,1.75,71,12-05-89,Oxford,Leicester C,Inverness Caledonian Thistle,2008,Scottish
+27,27,Iain Vigurs,SCO,M,1.78,73,07-05-88,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+28,28,Brian Kerr,SCO,M,1.73,70,12-10-81,Motherwell,Hibernian,Inverness Caledonian Thistle,2008,Scottish
+36,36,Struan Scott-Woodhouse,SCO,D,1.80,70,01-03-90,Loch Luichart,None,Inverness Caledonian Thistle,2008,Scottish
+37,37,Stuart Leslie,SCO,M,1.80,75,09-07-90,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+38,38,Gavin Morrison,SCO,M,1.78,68,03-01-90,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+39,39,Daniel Park,SCO,F,1.83,66,29-09-90,Aberdeen,Cove R,Inverness Caledonian Thistle,2008,Scottish
+40,40,Connor Rennie,SCO,M,1.78,70,01-04-91,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+41,41,Shane Sutherland,SCO,F,1.85,81,23-10-90,Wick,Wick Academy,Inverness Caledonian Thistle,2008,Scottish
+42,42,Nick Ross,SCO,M,1.75,64,11-11-91,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+43,43,Michael Finnis,SCO,D,1.83,70,14-04-90,Inverness,Ross Co,Inverness Caledonian Thistle,2008,Scottish
+44,44,Kevin Fraser,SCO,M,1.75,61,22-06-91,Inverness,None,Inverness Caledonian Thistle,2008,Scottish
+45,45,Graeme Shinnie,SCO,D,1.73,63,04-08-91,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+46,46,Shaun Carrol,SCO,F,1.80,64,06-08-91,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+47,47,Keiran Wilson,SCO,G,1.83,76,27-10-91,Aberdeen,None,Inverness Caledonian Thistle,2008,Scottish
+48,48,Sean Porter,SCO,D,1.75,67,08-10-92,Greenock,Rangers,Inverness Caledonian Thistle,2008,Scottish
+49,49,Kyle Allison,SCO,G,1.88,73,30-04-90,Dunfermline,Cowdenbeath,Inverness Caledonian Thistle,2008,Scottish
+50,51,Daniel Welsh,SCO,D,1.85,74,25-03-91,Dundee,Cowdenbeath,Inverness Caledonian Thistle,2008,Scottish
+1,1,Alan Combe,SCO,G,1.85,77,30-04-74,Edinburgh,Bradford C,Kilmarnock,2008,Scottish
+2,2,James Fowler,SCO,D,1.75,77,26-10-80,Glasgow,Gairdoch BC,Kilmarnock,2008,Scottish
+3,3,Garry Hay,SCO,D,1.73,64,07-09-77,Irvine,Kilmarnock BC,Kilmarnock,2008,Scottish
+4,4,David Lilley,SCO,D,1.85,86,31-10-77,Bellshill,Partick Thistle,Kilmarnock,2008,Scottish
+5,5,Frazer Wright,SCO,D,1.78,74,23-12-79,East Kilbride,Stranraer,Kilmarnock,2008,Scottish
+6,6,Simon Ford,JAM,D,1.80,73,17-11-81,Newham,Redbridge,Kilmarnock,2008,Scottish
+7,7,Craig Bryson,SCO,M,1.70,60,06-11-86,Rutherglen,Clyde,Kilmarnock,2008,Scottish
+8,8,Gary Locke,SCO,M,1.80,73,16-06-75,Edinburgh,Bradford  C,Kilmarnock,2008,Scottish
+9,9,Allan Russell,SCO,F,1.85,77,13-12-80,Glasgow,Airdrie U,Kilmarnock,2008,Scottish
+10,10,Mehdi Taouil,MAR,M,1.73,73,20-05-83,Villeneuve St Georges,Montpellier,Kilmarnock,2008,Scottish
+11,11,Danny Invincible,AUS,F,1.80,81,31-03-79,Brisbane,Swindon T,Kilmarnock,2008,Scottish
+12,12,Allan Johnston,SCO,M,1.80,70,14-12-73,Glasgow,Middlesbrough,Kilmarnock,2008,Scottish
+15,15,Grant  Murray,SCO,D,1.78,76,29-08-75,Edinburgh,Partick Thistle,Kilmarnock,2008,Scottish
+16,16,Kevin Kyle,SCO,F,1.91,83,07-06-81,Stranraer,Coventry C,Kilmarnock,2008,Scottish
+17,17,Willie Gibson,SCO,M,1.78,64,06-08-84,Dumfries,Queen of the South,Kilmarnock,2008,Scottish
+19,19,Gavin Skelton,ENG,D,1.78,70,27-03-81,Carlisle,Gretna,Kilmarnock,2008,Scottish
+20,20,David  Fernández,ESP,F,1.72,70,20-01-76,Corvina,Dundee  U,Kilmarnock,2008,Scottish
+21,21,Ryan O'Leary,SCO,D,1.83,75,24-08-87,Glasgow,Aberdeen,Kilmarnock,2008,Scottish
+22,22,Tim Clancy,IRL,D,1.80,70,08-06-84,Trim,Fisher Ath,Kilmarnock,2008,Scottish
+23,23,Jamie Hamill,SCO,D,1.73,71,29-07-86,Irvine,None,Kilmarnock,2008,Scottish
+24,24,Iain Flannigan,SCO,M,1.80,69,15-01-88,Glasgow,None,Kilmarnock,2008,Scottish
+25,25,Jamie Adams,SCO,M,1.85,73,26-08-87,Stranraer,None,Kilmarnock,2008,Scottish
+26,26,Cameron Bell,SCO,G,1.80,78,18-09-86,Dumfries,Queen of the South,Kilmarnock,2008,Scottish
+27,27,Damien Rascle,FRA,G,1.87,90,05-08-80,Le Coteau,Albi,Kilmarnock,2008,Scottish
+28,28,Conor Sammon,IRL,F,1.78,75,13-04-87,Dublin,Derry C,Kilmarnock,2008,Scottish
+29,29,Manuel Pascali,ITA,M,1.86,78,09-09-81,Milan,Parma,Kilmarnock,2008,Scottish
+31,31,Scott Anson,SCO,D,1.86,67,29-04-89,Glasgow,Hamilton Academical,Kilmarnock,2008,Scottish
+32,32,Paul McInnes,SCO,M,,,,Saltcoats,None,Kilmarnock,2008,Scottish
+33,33,Thomas Nolan,SCO,M,1.83,77,06-10-89,,None,Kilmarnock,2008,Scottish
+34,34,Donovan Simmonds,ENG,F,1.80,70,12-10-88,Walthamstow,Coventry C,Kilmarnock,2008,Scottish
+40,40,Gavin Brown,SCO,M,,,03-06-91,,None,Kilmarnock,2008,Scottish
+41,41,Daniel McKay,SCO,F,,,18-02-91,,None,Kilmarnock,2008,Scottish
+42,42,Chris Gilmour,SCO,M,,,,,None,Kilmarnock,2008,Scottish
+43,43,Scott Walker,SCO,D,,,,,None,Kilmarnock,2008,Scottish
+44,45,Stuart Currie,SCO,M,,,,,None,Kilmarnock,2008,Scottish
+45,46,James Doyle,SCO,D,,,,,None,Kilmarnock,2008,Scottish
+46,47,Craig Fisher,SCO,D,,,,,None,Kilmarnock,2008,Scottish
+47,48,Gary Fisher,SCO,D,,,06-06-92,,None,Kilmarnock,2008,Scottish
+48,49,Liam Kelly,SCO,M,1.85,70,10-02-90,Milton Keynes,None,Kilmarnock,2008,Scottish
+49,50,Lacine Cherif,CIV,F,,,10-01-91,,Rangers,Kilmarnock,2008,Scottish
+50,51,Jamie Lindsay,SCO,M,,,,,None,Kilmarnock,2008,Scottish
+51,,Mark Weir,SCO,G,,,30-09-91,,Rangers,Kilmarnock,2008,Scottish
+1,1,Graeme  Smith,SCO,G,1.85,78,08-06-83,Edinburgh,Rangers,Motherwell,2008,Scottish
+2,2,Paul Quinn,SCO,D,1.83,71,21-07-85,Wishaw,None,Motherwell,2008,Scottish
+3,3,Steven Hammell,SCO,D,1.78,71,18-02-81,Glasgow,Southend U,Motherwell,2008,Scottish
+4,4,Mark Reynolds,SCO,D,1.80,67,07-05-87,Motherwell,None,Motherwell,2008,Scottish
+5,5,Stephen Craigan,NIR,D,1.85,83,21-10-76,Newtonards,Partick Thistle,Motherwell,2008,Scottish
+6,6,Brian  McLean,SCO,D,1.88,78,28-02-85,Rutherglen,Rangers,Motherwell,2008,Scottish
+7,7,Stephen Hughes,SCO,M,1.80,60,14-11-82,Motherwell,Leicester C,Motherwell,2008,Scottish
+8,8,Bob Malcolm,SCO,D,1.82,71,12-11-80,Glasgow,Derby Co,Motherwell,2008,Scottish
+9,9,Cillian Sheridan,IRL,F,1.96,87,23-02-89,Bailieborough,Celtic,Motherwell,2008,Scottish
+10,10,David Clarkson,SCO,F,1.78,63,10-09-85,Bellshill,None,Motherwell,2008,Scottish
+11,11,John Sutton,ENG,F,1.83,89,26-12-83,Norwich,Wycombe W,Motherwell,2008,Scottish
+12,12,Darren Smith,SCO,M,1.83,73,27-03-88,Lanark,None,Motherwell,2008,Scottish
+13,13,Maro Klimpl,SVK,D,1.81,81,04-07-80,Martině,FC Midtjylland,Motherwell,2008,Scottish
+14,14,Keith Lasley,SCO,M,1.75,67,21-09-79,Glasgow,Plymouth Arg,Motherwell,2008,Scottish
+15,15,Jamie Murphy,SCO,F,1.78,62,28-08-89,Glasgow,None,Motherwell,2008,Scottish
+16,16,Marc  Fitzpatrick,SCO,D,1.78,68,11-05-86,Lanark,Motherwell YC,Motherwell,2008,Scottish
+17,17,James  O'Brien,SCO,F,1.83,75,28-09-87,Glasgow,Celtic,Motherwell,2008,Scottish
+18,18,Steven McGarry,SCO,F,1.75,70,29-09-79,Paisley,Ross Co,Motherwell,2008,Scottish
+19,19,Artur Krysiak,POL,G,1.93,83,11-08-89,Łódź,Birmingham C,Motherwell,2008,Scottish
+20,20,Colin Meldrum,SCO,G,1.80,84,26-11-75,Kilmarnock,Forfar Ath,Motherwell,2008,Scottish
+21,21,Semih Aydilek,GER,M,1.91,80,16-01-89,Frankfurt am Main,Birmingham C,Motherwell,2008,Scottish
+23,23,Mark Archdeacon,SCO,F,1.86,75,09-10-89,Greenock,None,Motherwell,2008,Scottish
+27,27,Ross Forbes,SCO,M,1.83,66,03-03-89,Glasgow,None,Motherwell,2008,Scottish
+28,28,Cammy Murray,SCO,D,1.83,70,29-04-89,Bellshill,None,Motherwell,2008,Scottish
+29,29,Ryan Wilson,SCO,D,1.83,70,21-10-89,Glasgow,None,Motherwell,2008,Scottish
+30,30,Steven Coutts,SCO,G,1.83,77,22-05-90,Aberdeen,Rangers,Motherwell,2008,Scottish
+31,31,Peter Innes,SCO,M,1.70,65,26-04-91,Bellshill,None,Motherwell,2008,Scottish
+32,32,Ryan Martin,SCO,F,1.75,65,15-02-91,Paisley,None,Motherwell,2008,Scottish
+33,33,Steven Meechan,SCO,M,1.81,74,30-03-91,Glasgow,None,Motherwell,2008,Scottish
+34,34,David MacAuliffe,SCO,D,1.88,79,20-06-91,Rutherglen,None,Motherwell,2008,Scottish
+35,35,Robert McHugh,SCO,F,1.78,74,16-07-91,Glasgow,None,Motherwell,2008,Scottish
+36,36,Patrick McPake,SCO,M,1.78,65,04-01-90,Bellshill,None,Motherwell,2008,Scottish
+37,37,Shaun Hutchinson,ENG,D,1.88,80,23-11-90,Newcastle upon Tyne,None,Motherwell,2008,Scottish
+38,38,Nicky Gallacher,SCO,D,1.77,,24-01-90,,None,Motherwell,2008,Scottish
+39,39,Jordan Halsman,SCO,D,1.78,69,13-06-91,Glasgow,Aberdeen,Motherwell,2008,Scottish
+40,40,Jonathan Page,ENG,M,1.85,78,02-08-90,Portsmouth,None,Motherwell,2008,Scottish
+41,41,Mark Smith,SCO,D,,,03-04-91,,None,Motherwell,2008,Scottish
+42,42,Dario Quinn,SCO,D,,,22-12-91,Glasgow,None,Motherwell,2008,Scottish
+43,43,Steven Saunders,SCO,D,1.87,66,23-02-91,Glasgow,Queen's Park,Motherwell,2008,Scottish
+44,44,Steven Lawless,SCO,F,1.70,60,12-04-91,Glasgow,None,Motherwell,2008,Scottish
+45,45,Paul Slane,SCO,M,1.73,64,25-11-91,Glasgow,None,Motherwell,2008,Scottish
+46,46,Jamie Pollock,SCO,F,1.73,67,20-02-92,Glasgow,None,Motherwell,2008,Scottish
+47,47,Seb Kosiorowski,POL,G,1.93,79,21-05-90,Kolbuszowa,Korona Kielce,Motherwell,2008,Scottish
+48,48,Calum Hendrie,SCO,F,,,10-02-90,,Hamilton Academical,Motherwell,2008,Scottish
+1,1,Allan McGregor,SCO,G,1.83,74,31-01-82,Edinburgh,None,Rangers,2008,Scottish
+2,2,Maurice Edu,USA,M,1.83,77,18-04-86,San Bernardino,Toronto FC,Rangers,2008,Scottish
+3,3,David Weir,SCO,D,1.91,86,10-05-70,Falkirk,Everton,Rangers,2008,Scottish
+4,4,Pedro  Mendes,POR,M,1.77,77,26-02-79,Guimarães,Portsmouth,Rangers,2008,Scottish
+5,5,Saa Papac,BIH,D,1.85,78,07-02-80,Mostar,Austria Vienna,Rangers,2008,Scottish
+6,6,Barry  Ferguson,SCO,M,1.78,74,02-02-78,Glasgow,Blackburn  R,Rangers,2008,Scottish
+7,7,Brahim Hemdani,ALG,M,1.80,70,15-03-78,Colombes,Marseille,Rangers,2008,Scottish
+8,8,Kevin Thomson,SCO,M,1.88,72,14-10-84,Edinburgh,Hibernian,Rangers,2008,Scottish
+9,9,Kris Boyd,SCO,F,1.83,83,18-08-83,Irvine,Kilmarnock,Rangers,2008,Scottish
+10,10,Nacho Novo,ESP,F,1.75,70,26-03-79,Ferrol,Dundee,Rangers,2008,Scottish
+12,12,Lee McCulloch,SCO,M,1.85,84,14-05-76,Paisley,Wigan Ath,Rangers,2008,Scottish
+14,14,Steven Naismith,SCO,F,1.78,72,14-09-86,Irvine,Kilmarnock,Rangers,2008,Scottish
+16,16,Graeme Smith,SCO,G,1.91,83,03-10-82,Bellshill,Kilmarnock,Rangers,2008,Scottish
+18,18,Kenny Miller,SCO,F,1.78,68,23-12-79,Edinburgh,Derby Co,Rangers,2008,Scottish
+20,20,DaMarcus Beasley,USA,M,1.73,66,24-05-82,Fort Wayne,PSV Eindhoven,Rangers,2008,Scottish
+21,21,Kirk Broadfoot,SCO,D,1.91,89,08-08-84,Irvine,St Mirren,Rangers,2008,Scottish
+22,22,Andy Webster,SCO,D,1.83,64,23-04-82,Dundee,Wigan Ath,Rangers,2008,Scottish
+23,23,Christian Dailly,SCO,D,1.83,81,23-10-73,Dundee,West Ham U,Rangers,2008,Scottish
+24,24,Madjid Bougherra,ALG,D,1.88,89,07-10-82,Longvic,Charlton Ath,Rangers,2008,Scottish
+25,25,Neil Alexander,SCO,G,1.85,73,10-03-78,Edinburgh,Ipswich T,Rangers,2008,Scottish
+26,26,Steven  Smith,SCO,D,1.78,69,30-08-85,Bellshill,None,Rangers,2008,Scottish
+27,27,Kyle Lafferty,NIR,F,1.93,70,21-07-87,Enniskillen,Burnley,Rangers,2008,Scottish
+28,28,Steven Whittaker,SCO,D,1.85,87,16-06-84,Edinburgh,Hibernian,Rangers,2008,Scottish
+31,31,Aarón,ESP,F,1.70,69,26-04-89,Elche,Valencia B,Rangers,2008,Scottish
+35,35,Steven  Davis,NIR,M,1.79,72,01-01-85,Ballymena,Fulham,Rangers,2008,Scottish
+37,37,Andrius Velička,LTU,F,1.85,80,05-04-79,Kaunas,Viking,Rangers,2008,Scottish
+41,42,Alan Lowing,SCO,D,1.78,67,07-01-88,Rutherglen,None,Rangers,2008,Scottish
+42,43,Steven  Lennon,SCO,F,1.70,61,20-01-88,Irvine,None,Rangers,2008,Scottish
+43,44,Paul Emslie,SCO,M,1.78,68,13-03-88,Aberdeen,None,Rangers,2008,Scottish
+44,49,Ross  Harvey,SCO,D,,,13-04-89,,None,Rangers,2008,Scottish
+45,50,Chris  Craig,SCO,F,,,13-05-89,,None,Rangers,2008,Scottish
+46,53,John Fleck,SCO,M,1.75,72,24-08-91,Glasgow,None,Rangers,2008,Scottish
+47,55,Steven Kinniburgh,SCO,M,1.83,71,13-06-89,Glasgow,None,Rangers,2008,Scottish
+48,56,Andrew Little,NIR,F,1.83,78,12-05-89,Enniskillen,Ballinamallard,Rangers,2008,Scottish
+49,57,Thomas Kind Bendiksen,NOR,M,1.83,76,08-08-89,Harstad,Harstad,Rangers,2008,Scottish
+50,60,Artūrs  Vaičulis,LVA,G,1.87,,26-02-90,Riga,St Mirren,Rangers,2008,Scottish
+51,61,İsa Bağci,TUR,F,,,30-03-90,,BK Häcken,Rangers,2008,Scottish
+52,63,Stephen Stirling,SCO,M,,,05-01-90,,None,Rangers,2008,Scottish
+53,64,Tom Miller,ENG,D,1.80,73,29-06-90,Ely,Norwich C,Rangers,2008,Scottish
+54,65,Ross Perry,SCO,D,1.88,72,07-02-90,Falkirk,None,Rangers,2008,Scottish
+55,66,Craig McShea,SCO,F,,,04-11-90,,None,Rangers,2008,Scottish
+56,69,Archie Campbell,SCO,F,1.70,67,10-01-91,Dunfermline,Cowdenbeath,Rangers,2008,Scottish
+57,70,Kyle Hutton,SCO,M,1.89,74,05-02-91,Cambuslang,None,Rangers,2008,Scottish
+58,71,Stephen Forbes,SCO,D,,,21-02-91,,None,Rangers,2008,Scottish
+59,72,Danny Wilson,SCO,D,1.87,79,27-12-91,Livingston,None,Rangers,2008,Scottish
+60,73,Jamie Ness,SCO,M,1.77,72,02-03-91,Irvine,None,Rangers,2008,Scottish
+61,74,Scott Durie,SCO,D,,,11-11-91,,None,Rangers,2008,Scottish
+62,75,Gregg Wylde,SCO,M,1.78,72,23-03-91,Kirkintilloch,None,Rangers,2008,Scottish
+63,76,Chris Scott,SCO,D,,,09-01-92,,None,Rangers,2008,Scottish
+64,77,Kal Naismith,SCO,M,1.85,78,18-02-92,Glasgow,None,Rangers,2008,Scottish
+65,78,Darren Cole,SCO,D,1.89,80,03-01-92,Edinburgh,None,Rangers,2008,Scottish
+66,79,Grant Adam,SCO,G,1.76,72,16-04-91,Glasgow,None,Rangers,2008,Scottish
+67,81,Gary Inglis,SCO,G,,,30-01-92,,None,Rangers,2008,Scottish
+68,82,Rhys McCabe,SCO,M,1.77,74,24-07-92,Polbeth,None,Rangers,2008,Scottish
+69,83,Gordon Dick,SCO,M,,,26-03-92,,None,Rangers,2008,Scottish
+70,84,Max Wright,SCO,F,,,06-04-92,,None,Rangers,2008,Scottish
+71,85,Dylan McGeouch,SCO,F,1.78,69,15-01-93,Glasgow,None,Rangers,2008,Scottish
+72,86,Kyle McAusland,SCO,D,1.88,81,19-01-93,Cumnock,None,Rangers,2008,Scottish
+73,87,Kane Hemmings,ENG,F,1.86,78,08-04-91,Burton upon Trent,Tamworth,Rangers,2008,Scottish
+1,1,Chris Smith,SCO,G,1.88,86,05-03-86,Glasgow,None,St Mirren,2008,Scottish
+2,2,Jack Ross,SCO,D,1.85,72,05-06-76,Falkirk,Falkirk,St Mirren,2008,Scottish
+3,3,Franco  Miranda,ARG,D,1.82,77,13-05-85,Comodoro Rivadavia,CAI (Comodoro Rivadavia),St Mirren,2008,Scottish
+4,4,Gary Mason,SCO,M,1.73,64,15-10-79,Edinburgh,Dunfermline Ath,St Mirren,2008,Scottish
+5,5,Will Haining,SCO,D,1.83,65,02-10-82,Glasgow,Oldham Ath,St Mirren,2008,Scottish
+6,6,John Potter,SCO,D,1.83,80,15-12-79,Dunfermline,Clyde,St Mirren,2008,Scottish
+7,7,Hugh Murray,SCO,M,1.78,67,08-01-79,Bellshill,None,St Mirren,2008,Scottish
+8,8,Andy Dorman,ENG,M,1.83,68,01-05-82,Chester,New England Revolution,St Mirren,2008,Scottish
+9,9,Billy Mehmet,IRL,F,1.85,82,03-01-84,London,Dunfermline Ath,St Mirren,2008,Scottish
+10,10,Dennis Wyness,SCO,F,1.78,74,22-03-77,Aberdeen,Inverness CT,St Mirren,2008,Scottish
+11,11,Tonet,ESP,M,1.80,73,28-04-79,Barcelona,L'Hospitalet,St Mirren,2008,Scottish
+12,12,Stephen O'Donnell,SCO,M,1.83,71,10-07-83,Bellshill,Clyde,St Mirren,2008,Scottish
+14,14,Garry Brady,SCO,M,1.78,70,07-09-76,Glasgow,Dundee,St Mirren,2008,Scottish
+15,15,Tom  Brighton,SCO,F,1.80,74,28-03-84,Irvine,Millwall,St Mirren,2008,Scottish
+16,16,Steven Robb,SCO,M,1.86,59,08-03-82,Perth,Dundee U,St Mirren,2008,Scottish
+17,17,Craig Dargo,SCO,F,1.68,64,03-01-78,Edinburgh,Inverness CT,St Mirren,2008,Scottish
+18,18,Jim Hamilton,SCO,F,1.83,68,09-02-76,Aberdeen,Dunfermline Ath,St Mirren,2008,Scottish
+19,19,David Barron,SCO,M,1.78,80,10-09-87,Greenock,None,St Mirren,2008,Scottish
+20,20,Mark McAusland,SCO,D,1.82,64,13-08-88,Paisley,None,St Mirren,2008,Scottish
+21,21,Mark  Howard,ENG,G,1.83,76,21-09-86,Southwark,Cardiff C,St Mirren,2008,Scottish
+22,22,Stephen McGinn,SCO,M,1.75,64,02-12-88,Glasgow,None,St Mirren,2008,Scottish
+23,23,Ryan McCay,SCO,M,1.73,67,04-05-86,Paisley,None,St Mirren,2008,Scottish
+24,24,Mohamed Camara,GUI,D,1.80,74,25-06-75,Conakry,Derby Co,St Mirren,2008,Scottish
+26,26,Sean Burns,SCO,F,,,06-10-91,Glasgow,None,St Mirren,2008,Scottish
+27,27,Ben Carson,SCO,M,,,23-05-90,Irvine,None,St Mirren,2008,Scottish
+28,28,Sean Crighton,SCO,D,1.88,83,26-03-90,Greenock,None,St Mirren,2008,Scottish
+29,29,Scott Gair,SCO,D,,,19-06-90,Glasgow,None,St Mirren,2008,Scottish
+30,30,Paul Mathers,SCO,G,1.80,72,17-01-70,Aberdeen,East Fife,St Mirren,2008,Scottish
+31,31,Paul Quinn,SCO,F,,,16-08-90,Greenock,None,St Mirren,2008,Scottish
+33,33,Darren Cowan,SCO,D,,,15-06-91,,None,St Mirren,2008,Scottish
+34,34,Jake Cunningham,ENG,G,,,13-04-91,Newcastle upon Tyne,None,St Mirren,2008,Scottish
+35,35,Ally Love,SCO,M,1.73,71,22-08-91,Irvine,None,St Mirren,2008,Scottish
+36,36,Rhyss Devlin,SCO,D,,,14-06-91,Paisley,None,St Mirren,2008,Scottish
+37,37,Kyle Faulds,SCO,M,,,30-09-91,Irvine,None,St Mirren,2008,Scottish
+38,38,Mark McLennan,SCO,M,,,28-04-91,Glasgow,None,St Mirren,2008,Scottish
+39,39,Kenny McLean,SCO,M,1.83,70,08-01-92,Rutherglen,None,St Mirren,2008,Scottish
+40,40,Chris McQuade,SCO,D,,,,,None,St Mirren,2008,Scottish
+41,41,Iain Gray,SCO,D,,,13-05-91,Glasgow,None,St Mirren,2008,Scottish
+42,42,Jon McShane,SCO,F,,,14-09-91,Paisley,None,St Mirren,2008,Scottish
+43,43,Andy Millen,SCO,D,1.80,71,10-06-65,Glasgow,Clyde,St Mirren,2008,Scottish
+44,44,Scott  Cuthbert,SCO,D,1.88,89,15-06-87,Alexandria,Celtic,St Mirren,2008,Scottish
+45,45,Steven Thomson,SCO,M,1.73,68,23-01-78,Glasgow,Brighton & HA,St Mirren,2008,Scottish

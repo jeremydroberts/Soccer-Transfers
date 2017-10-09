@@ -1,0 +1,467 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Rubén,ESP,G,1.87,82,22-06-84,La Coruña,Deportivo La Coruña,Anderlecht,2016,Belgian
+3,3,Olivier Deschacht,BEL,D,1.85,75,16-02-81,Gent,Lokeren,Anderlecht,2016,Belgian
+4,4,Kara Mbodji,SEN,D,1.92,85,11-11-89,Ndiass,KRC Genk,Anderlecht,2016,Belgian
+5,5,Uro Spajić,SRB,D,1.86,76,13-02-93,Belgrade,Toulouse,Anderlecht,2016,Belgian
+7,7,Andy Najar,HON,M,1.70,68,16-03-93,Santa Cruz,DC United,Anderlecht,2016,Belgian
+8,8,Stéphane Badji,SEN,M,1.80,75,29-05-90,Ziguinchor,İstanbul Başakşehir,Anderlecht,2016,Belgian
+10,10,Massimo Bruno,BEL,M,1.77,66,17-09-93,Boussu,RB Leipzig,Anderlecht,2016,Belgian
+11,11,Alexandru Chipciu,ROU,M,1.75,68,18-05-89,Piteşti,Steaua Bucureşti,Anderlecht,2016,Belgian
+12,12,Dennis Appiah,FRA,D,1.79,68,09-06-92,Toulouse,Caen,Anderlecht,2016,Belgian
+14,14,Bram Nuytinck,NED,D,1.83,75,04-05-90,Malden,NEC Nijmegen,Anderlecht,2016,Belgian
+17,17,Diego Capel,ESP,M,1.73,67,16-02-88,Albox,Genoa,Anderlecht,2016,Belgian
+18,18,Frank Acheampong,GHA,M,1.69,65,16-10-93,Accra,Buriram U,Anderlecht,2016,Belgian
+22,22,Idrissa Doumbia,CIV,M,1.84,75,14-04-98,Yamoussoukro,ES Bingerville,Anderlecht,2016,Belgian
+23,23,Frank Boeckx,BEL,G,1.80,74,27-09-86,Aarschot,Royal Antwerp,Anderlecht,2016,Belgian
+24,24,Isaac Kiese Thelin,SWE,F,1.89,83,24-06-92,Örebro,Bordeaux,Anderlecht,2016,Belgian
+25,25,Adrien Trebel,FRA,M,1.70,60,03-03-91,Dreux,Standard Liège,Anderlecht,2016,Belgian
+31,31,Youri Tielemans,BEL,M,1.76,72,07-05-97,Sint-Pieters-Leeuw,None,Anderlecht,2016,Belgian
+32,32,Leander Dendoncker,BEL,M,1.88,79,15-04-95,Passendale,Club Brugge,Anderlecht,2016,Belgian
+37,37,Ivan Obradović,SRB,D,1.81,74,25-07-88,Belgrade,Mechelen,Anderlecht,2016,Belgian
+41,41,Emmanuel Sowah,GHA,D,1.82,80,16-01-98,,Dreams FC,Anderlecht,2016,Belgian
+42,43,Hannes Delcroix,BEL,D,,,28-02-99,Grande Hatte,None,Anderlecht,2016,Belgian
+43,45,Mile Svilar,BEL,G,1.89,77,27-08-99,Antwerp,None,Anderlecht,2016,Belgian
+44,47,Andy Kawaya,BEL,F,1.75,70,23-08-96,Brussels,None,Anderlecht,2016,Belgian
+45,49,Jorn Vancamp,BEL,F,1.83,74,28-10-98,Hoboken,Mechelen,Anderlecht,2016,Belgian
+46,50,Liam Bossin,IRL,G,1.91,75,15-06-96,Woluwe,RWS Bruxelles,Anderlecht,2016,Belgian
+47,73,Nicolae Stanciu,ROU,M,1.68,63,07-05-93,Craiova,Steaua Bucureşti,Anderlecht,2016,Belgian
+48,91,Łukasz Teodorczyk,POL,F,1.85,78,03-06-91,Żuromin,Dynamo Kyiv,Anderlecht,2016,Belgian
+49,94,Sofiane Hanni,ALG,M,1.78,72,29-12-90,Ivry-sur-Seine,Mechelen,Anderlecht,2016,Belgian
+1,1,Nicolas Penneteau,FRA,G,1.85,78,28-02-81,Marseille,Valenciennes,Charleroi,2016,Belgian
+4,4,Ethan Poulain,BEL,D,1.80,70,11-08-97,,RAEC Mons,Charleroi,2016,Belgian
+5,5,Benjamin Boulenger,FRA,D,1.88,80,01-03-90,Maubeuge,Lens,Charleroi,2016,Belgian
+6,6,Gjoko Zajkov,MKD,D,1.86,78,10-02-95,Skopje,Rennes,Charleroi,2016,Belgian
+7,7,Clément Tainmont,FRA,M,1.85,72,12-02-86,Valenciennes,Châteauroux,Charleroi,2016,Belgian
+8,8,Francisco Martos,ESP,D,1.78,73,04-01-84,Alamedilla,Eibar,Charleroi,2016,Belgian
+9,9,Hamdi Harbaoui,TUN,F,1.85,81,05-01-85,Bizerte,Anderlecht,Charleroi,2016,Belgian
+10,10,David Pollet,BEL,F,1.88,79,12-08-88,Le Bassée,KAA Gent,Charleroi,2016,Belgian
+13,13,Christophe Diandy,SEN,M,1.86,76,25-11-90,Dakar,RAEC Mons,Charleroi,2016,Belgian
+14,14,Cristian Benavente,PER,M,1.72,68,19-05-94,Alcalá de Henares,MK Dons,Charleroi,2016,Belgian
+15,15,Valentin Baume,BEL,G,1.85,73,25-01-97,Charleroi,RAEC Mons,Charleroi,2016,Belgian
+17,17,Stergos Marinos,GRE,D,1.66,66,17-09-87,Kos,Panathinaikos,Charleroi,2016,Belgian
+18,18,Amara Baby,FRA,M,1.85,72,23-02-89,Blanc-Mesnil,Auxerre,Charleroi,2016,Belgian
+19,19,Clinton Mata,BRA,M,1.80,72,07-11-92,Verviers,Eupen,Charleroi,2016,Belgian
+20,20,Thomas Vanhecke,BEL,M,,,13-03-97,,None,Charleroi,2016,Belgian
+21,21,Djamel Bakar,FRA,F,1.71,67,06-04-89,Marseille,Montpellier,Charleroi,2016,Belgian
+22,22,Gaëtan Hendrickx,BEL,M,1.75,64,30-03-95,Braine-l'Alleud,Sint-Truiden,Charleroi,2016,Belgian
+23,23,Steeven Willems,FRA,D,1.80,75,31-08-90,Seclin,Lille,Charleroi,2016,Belgian
+24,24,Dorian Dessoleil,BEL,D,1.84,68,07-08-92,Charleroi,Excelsior Virton,Charleroi,2016,Belgian
+25,25,Damien Marcq,FRA,M,1.83,72,08-12-88,Boulogne,Caen,Charleroi,2016,Belgian
+26,26,Massimo Di Vita,BEL,F,,,10-03-99,Brussels,None,Charleroi,2016,Belgian
+28,28,Enes Sağlık,BEL,M,1.70,68,08-07-91,Verviers,Lokeren,Charleroi,2016,Belgian
+29,29,Jordan Remacle,BEL,F,1.75,65,14-02-87,Verviers,Royal Antwerp,Charleroi,2016,Belgian
+35,35,Parfait Mandanda,COD,G,1.82,78,10-10-89,Nevers,Altay,Charleroi,2016,Belgian
+41,41,Francis Nganga,CGO,D,1.76,73,16-06-85,Poitiers,Tours,Charleroi,2016,Belgian
+42,77,Mamadou Fall,SEN,M,1.84,70,31-12-91,,Port Autonme,Charleroi,2016,Belgian
+43,99,Chris Bedia,CIV,F,1.90,74,05-03-96,Abidjan,Tours,Charleroi,2016,Belgian
+1,1,Ludovic Butelle,FRA,G,1.88,84,03-04-83,Reims,Angers,Club Brugge,2016,Belgian
+2,2,Ricardo van Rhijn,NED,D,1.76,79,13-06-91,Leiden,Ajax,Club Brugge,2016,Belgian
+3,3,Timmy Simons,BEL,M,1.86,79,11-12-76,Diest,Nürnberg,Club Brugge,2016,Belgian
+4,4,Björn Engels,BEL,D,1.93,74,15-09-94,Kaprijke,None,Club Brugge,2016,Belgian
+5,5,Benoît Poulain,FRA,D,1.86,80,24-07-87,Montpellier,Kortrijk,Club Brugge,2016,Belgian
+6,6,Claudemir,BRA,M,1.85,72,27-03-88,Bahia,FC København,Club Brugge,2016,Belgian
+7,7,Wesley,BRA,F,1.91,93,26-11-96,Juiz de Fora,AS Trenčín,Club Brugge,2016,Belgian
+8,8,Lior Refaelov,ISR,M,1.76,66,27-04-86,Or Akiva,Maccabi Haifa,Club Brugge,2016,Belgian
+9,9,Jelle Vossen,BEL,F,1.80,70,22-03-89,Bilzen,Burnley,Club Brugge,2016,Belgian
+10,10,Abdoulay Diaby,MLI,F,1.72,70,21-05-91,Nanterre,Lille,Club Brugge,2016,Belgian
+11,11,José Izquierdo,COL,F,1.71,73,07-07-92,Pereira,Once Caldas,Club Brugge,2016,Belgian
+13,13,Helibelton Palacios,COL,D,1.77,75,11-06-93,Santander de Quilichao,Deportivo Cali,Club Brugge,2016,Belgian
+15,15,Tomás Pina,ESP,M,1.84,75,14-10-87,Madrid,Villarreal,Club Brugge,2016,Belgian
+17,17,Anthony Limbombe Ekango,BEL,M,1.75,72,15-07-94,Mechelen,NEC Nijmegen,Club Brugge,2016,Belgian
+20,20,Hans Vanaken,BEL,M,1.85,77,24-08-92,Akselwal,Lokeren,Club Brugge,2016,Belgian
+21,21,Dion Cools,BEL,D,1.84,77,04-06-96,Kuching,OH Leuven,Club Brugge,2016,Belgian
+22,22,Ethan Horvath,USA,G,1.91,75,09-06-95,Highland Ranch,Molde,Club Brugge,2016,Belgian
+24,24,Stefano Denswil,NED,D,1.85,76,07-05-93,Zaandam,Ajax,Club Brugge,2016,Belgian
+25,25,Ruud Vormer,NED,M,1.76,76,11-05-88,Hoorn,Feyenoord,Club Brugge,2016,Belgian
+27,27,Lex Immers,NED,M,1.87,78,08-06-86,Den Haag,Cardiff C,Club Brugge,2016,Belgian
+28,28,Laurens De Bock,BEL,D,1.79,69,07-11-92,Dendermonde,Lokeren,Club Brugge,2016,Belgian
+29,29,Dorin Rotariu,ROU,M,1.80,72,29-07-95,Timișoara,Dinamo Bucureşti,Club Brugge,2016,Belgian
+41,41,Jens Teunckens,BEL,G,1.86,76,30-01-98,Geel,None,Club Brugge,2016,Belgian
+42,80,Niels Verburgh,BEL,M,1.85,80,31-01-98,Bruges,None,Club Brugge,2016,Belgian
+43,90,Terry Osei-Berkoe,BEL,M,1.74,70,09-01-98,Bruges,None,Club Brugge,2016,Belgian
+44,92,Laurent Lemoine,BEL,D,1.82,71,24-04-98,La Louvière,None,Club Brugge,2016,Belgian
+45,93,Thibault Vlietinck,BEL,F,1.78,62,19-08-97,Knokke,None,Club Brugge,2016,Belgian
+46,96,Ahmed Touba,BEL,D,1.84,75,13-03-98,Roubaix,Zulte-Waregem,Club Brugge,2016,Belgian
+1,1,Hendrik van Crombrugge,BEL,G,1.88,86,30-04-93,Leuven,Sint-Truiden,Eupen,2016,Belgian
+2,2,Ibrahim Diallo,MLI,D,1.76,70,12-08-96,Sikasso,Valencia B,Eupen,2016,Belgian
+3,3,Fahad Al-Abdulrahman,QAT,D,1.64,56,06-04-95,,Al-Sadd,Eupen,2016,Belgian
+5,5,Diawandou Diagné,SEN,D,1.75,64,08-11-94,Thiès,Barcelona B,Eupen,2016,Belgian
+6,6,Raoul Kenne,CMR,D,1.70,81,25-03-94,Enongal,Aspire Academy,Eupen,2016,Belgian
+7,7,Jean-Luc Dompé,FRA,M,1.79,75,12-08-95,Arpajon,Standard Liège,Eupen,2016,Belgian
+8,8,Jean Thierry Lazare Amani,CIV,M,1.72,65,07-03-98,Diégonéfla,Aspire Academy,Eupen,2016,Belgian
+9,9,Jeffrén Suárez,VEN,F,1.76,73,20-01-88,Ciudad Bolivar,Valladolid,Eupen,2016,Belgian
+10,10,Luis García,ESP,F,1.80,68,06-02-81,Oviedo,Zaragoza,Eupen,2016,Belgian
+11,11,Anthony Bassey,NGA,M,1.69,71,20-07-94,Uyo,Aspire Academy,Eupen,2016,Belgian
+13,13,Damien Mouchamps,BEL,F,1.72,70,10-01-96,Verviers,Etoile Elsautoise,Eupen,2016,Belgian
+14,14,Mohammed Adi Monkez,QAT,D,,,22-01-97,,Al-Gharafa,Eupen,2016,Belgian
+15,15,Moussa Wagué,SEN,D,1.77,70,04-10-98,,Aspire Academy,Eupen,2016,Belgian
+17,17,Phakamani Mngadi,RSA,M,1.68,59,10-10-94,Pietermaritzburg,Aspire Academy,Eupen,2016,Belgian
+18,18,Guy Dufour,BEL,M,1.77,78,14-03-87,Mol,Sint-Truiden,Eupen,2016,Belgian
+19,19,Christian Brüls,BEL,M,1.84,70,30-09-88,Malmedy,Rennes,Eupen,2016,Belgian
+20,20,Mamadou Sylla,SEN,F,1.84,80,20-03-94,Granollers,Espanyol,Eupen,2016,Belgian
+21,21,Henry Onyekuru,NGA,F,1.75,70,05-06-97,Onitsha,Aspire Academy,Eupen,2016,Belgian
+22,22,Siebe Blondelle,BEL,D,1.84,78,20-04-86,Brugge,Waasland-Beveren,Eupen,2016,Belgian
+23,23,Abdoulaye Sanogo,MLI,M,1.68,62,14-10-96,Sikasso,Aspire Academy,Eupen,2016,Belgian
+24,24,Silas Gnaka,CIV,D,,,18-12-98,,Aspire Academy,Eupen,2016,Belgian
+25,25,George Jamabo,NGA,M,1.71,78,18-05-95,River State,Aspire Academy,Eupen,2016,Belgian
+27,27,Ntuthuko Radebe,RSA,D,1.65,55,29-09-94,Johannesburg,Aspire Academy,Eupen,2016,Belgian
+28,28,Eric Ocansey,GHA,F,1.73,64,22-08-97,Tema,Aspire Academy,Eupen,2016,Belgian
+30,30,Babacar Niasse,SEN,G,1.90,85,20-12-95,Dakar,Aspire Academy,Eupen,2016,Belgian
+31,31,Samba Ndiaye,SEN,M,1.70,60,12-01-94,Kaolack,None,Eupen,2016,Belgian
+41,42,Peter Hackenberg,GER,D,1.96,90,06-02-89,Eutin,Alemannia Aachen,Eupen,2016,Belgian
+42,77,Joseph Biersard,BEL,G,1.84,77,29-04-91,Verviers,Patro Eisden Maasmechelen,Eupen,2016,Belgian
+43,91,José María Cases,ESP,F,1.72,65,23-11-86,Oriheula,Panthrakikos,Eupen,2016,Belgian
+44,92,Nicolas Timmermans,BEL,D,1.83,71,04-11-82,Etterbeek,RAEC Mons,Eupen,2016,Belgian
+1,1,Marco Bizot,NED,G,1.84,85,10-03-91,Zwaag,FC Groningen,KRC Genk,2016,Belgian
+2,2,Jakub Brabec,CZE,D,1.86,80,06-08-92,Prague,Sparta Prague,KRC Genk,2016,Belgian
+3,3,Bojan Nastić,SRB,D,1.77,69,06-07-94,Novi Sad,Vojvodina,KRC Genk,2016,Belgian
+4,4,Dries Wouters,BEL,D,1.89,85,28-01-97,Tongeren,None,KRC Genk,2016,Belgian
+5,5,Sandy Walsh,NED,D,1.80,70,14-03-95,Brussels,Anderlecht,KRC Genk,2016,Belgian
+6,6,Sébastien Dewaest,BEL,D,1.88,88,27-05-91,Poperinge,Charleroi,KRC Genk,2016,Belgian
+7,7,Nikos Karelis,GRE,F,1.79,75,24-02-92,Rethymno,Panathinaikos,KRC Genk,2016,Belgian
+8,8,Bennard Yao Kumordzi,GHA,M,1.85,72,21-03-85,Accra,Dijon,KRC Genk,2016,Belgian
+9,9,Jean-Paul Boëtius,NED,F,1.82,74,22-03-94,Rotterdam,Basel,KRC Genk,2016,Belgian
+10,10,Tino-Sven Suić,BIH,M,1.85,77,13-02-92,Sarajevo,Hajduk Split,KRC Genk,2016,Belgian
+11,11,José Naranjo,ESP,F,1.82,73,28-07-94,Rociana del Condado,Celta Vigo,KRC Genk,2016,Belgian
+14,14,Leandro Trossard,BEL,F,1.72,61,04-12-94,Waterschei,Bocholt,KRC Genk,2016,Belgian
+15,15,Omar Colley,GAM,D,1.92,80,24-10-92,Banjul,Djurgårdens IF,KRC Genk,2016,Belgian
+16,16,Dante Vanzeir,BEL,F,1.75,68,16-04-98,Beringen,None,KRC Genk,2016,Belgian
+17,17,Holly Tshimanga,BEL,F,,,25-04-97,,None,KRC Genk,2016,Belgian
+18,18,Ruslan Malynovskyy,UKR,M,1.80,74,04-05-93,Zhytomyr,Shakhtar Donetsk-2,KRC Genk,2016,Belgian
+19,19,Thomas Buffel,BEL,M,1.75,68,19-02-81,Ruddervoorde,Cercle Brugge,KRC Genk,2016,Belgian
+20,20,Paolo Sabak,BEL,M,1.76,,10-02-99,,None,KRC Genk,2016,Belgian
+21,21,Jere Uronen,FIN,D,1.77,69,13-07-94,Turku,Helsingborgs IF,KRC Genk,2016,Belgian
+22,22,Siebe Schrijvers,BEL,F,1.76,62,18-07-96,Lommel,None,KRC Genk,2016,Belgian
+23,23,Rubin Seigers,BEL,D,1.88,88,11-01-98,,None,KRC Genk,2016,Belgian
+24,24,Alejandro Pozuelo,ESP,F,1.70,63,20-09-91,Seville,Rayo Vallecano,KRC Genk,2016,Belgian
+25,25,Sander Berge,NOR,D,1.90,88,18-02-98,Bærum,Vålerenga,KRC Genk,2016,Belgian
+26,26,Matthew Ryan,AUS,G,1.81,73,08-04-92,Plumpton,Valencia,KRC Genk,2016,Belgian
+27,27,Laurens Vermijl,BEL,M,,,03-02-97,,None,KRC Genk,2016,Belgian
+28,28,Bryan Heynen,BEL,M,1.74,64,06-02-97,,None,KRC Genk,2016,Belgian
+30,30,Nordin Jackers,BEL,G,1.85,72,05-09-97,,None,KRC Genk,2016,Belgian
+32,32,Christophe Janssens,BEL,D,,,09-03-98,,None,KRC Genk,2016,Belgian
+33,33,Pierre Desiré Zebli,CIV,M,1.80,75,06-12-97,Abidjan,Perugia,KRC Genk,2016,Belgian
+40,40,Gaëtan Coucke,BEL,G,1.87,,03-12-98,,None,KRC Genk,2016,Belgian
+41,41,Timoty Castagne,BEL,D,1.80,69,05-12-95,Aarlen,None,KRC Genk,2016,Belgian
+42,77,Mbwana Samatta,TAN,F,1.79,70,13-12-92,Dar es Salam,TP Mazembe,KRC Genk,2016,Belgian
+1,1,Jacob Rinne,SWE,G,1.88,86,20-06-93,Laxå,Örebro SK,KAA Gent,2016,Belgian
+2,2,Samuel Gigot,FRA,D,1.87,83,12-10-93,Avignon,Kortrijk,KAA Gent,2016,Belgian
+4,4,William Ekong,NED,D,1.91,74,01-09-93,Haarlem,FC Groningen,KAA Gent,2016,Belgian
+5,5,Ofir Davidzada,ISR,D,1.78,70,05-05-91,Be'er Sheva,Hapoel Be'er Sheva,KAA Gent,2016,Belgian
+6,6,Birger Verstraete,BEL,M,1.71,61,16-04-94,Ostend,Kortrijk,KAA Gent,2016,Belgian
+7,7,Kalifa Coulibaly,MLI,F,1.97,84,21-08-91,Bamako,Charleroi,KAA Gent,2016,Belgian
+8,8,Thomas Matton,BEL,M,1.80,68,27-10-85,Brugge,Kortrijk,KAA Gent,2016,Belgian
+10,10,Renato Neto,BRA,F,1.84,75,27-09-91,Camacan,Sporting CP,KAA Gent,2016,Belgian
+11,11,Emir Kujović,SWE,F,1.94,94,22-06-88,Bijelo Polje,IFK Norrköping,KAA Gent,2016,Belgian
+13,13,Stefan Mitrović,SRB,D,1.89,84,22-05-90,Belgrade,Freiburg,KAA Gent,2016,Belgian
+14,14,Tesfaldet Tekie,SWE,M,1.75,59,04-06-97,,IFK Norrköping,KAA Gent,2016,Belgian
+15,15,Kenny Saief,ISR,M,1.76,72,17-12-93,Panama City [USA],Hapoel Nir Ramat HaSharon,KAA Gent,2016,Belgian
+16,16,Rob Schoofs,BEL,M,1.82,77,23-03-94,Sint-Truiden,Sint-Truiden,KAA Gent,2016,Belgian
+18,18,Samuel Kalu,NGA,F,1.76,68,26-08-97,Aba,AS Trenčín,KAA Gent,2016,Belgian
+19,19,Brecht Dejaegere,BEL,M,1.74,66,29-05-91,Handzame,Kortrijk,KAA Gent,2016,Belgian
+20,20,Yannick Thoelen,BEL,G,1.88,81,18-07-90,Tessenderlo,Lommel U,KAA Gent,2016,Belgian
+21,21,Nana Asare,GHA,M,1.75,65,11-07-86,Kumasi,FC Utrecht,KAA Gent,2016,Belgian
+24,24,Jérémy Perbet,FRA,F,1.84,77,12-12-84,Le Puy-en-Velay,İstanbul Başakşehir,KAA Gent,2016,Belgian
+25,25,Brian Vandenbussche,BEL,G,1.96,84,24-09-81,Blankenberge,SC Heerenveen,KAA Gent,2016,Belgian
+27,27,Moses Simon,NGA,F,1.68,66,12-07-95,Jos,AS Trenčín,KAA Gent,2016,Belgian
+29,29,Thibault De Smet,BEL,D,,,05-06-98,,None,KAA Gent,2016,Belgian
+30,30,Darko Bjedov,SRB,F,1.91,86,28-03-89,Belgrade,Javor Ivanjica,KAA Gent,2016,Belgian
+31,31,Yuya Kubo,JPN,F,1.77,72,24-12-93,Yamaguchi,Young Boys,KAA Gent,2016,Belgian
+32,32,Thomas Foket,BEL,M,1.77,74,25-09-94,Brussels,Dilbeek Sport,KAA Gent,2016,Belgian
+33,33,Louis Verstraete,BEL,M,,,04-05-99,,None,KAA Gent,2016,Belgian
+40,40,Rabiu Ibrahim,NGA,M,1.69,60,15-03-91,Kano,AS Trenčín,KAA Gent,2016,Belgian
+41,44,Anderson Esitia,NGA,M,1.89,82,24-05-94,Warri,Estoril,KAA Gent,2016,Belgian
+42,55,Rami Gershon,ISR,D,1.89,82,12-08-88,LeZion,Waasland-Beveren,KAA Gent,2016,Belgian
+43,77,Danijel Miličević,SUI,M,1.77,61,05-01-86,Bellinzona,Charleroi,KAA Gent,2016,Belgian
+44,91,Lovre Kalinić,CRO,G,1.98,90,03-04-90,Split,Hajduk Split,KAA Gent,2016,Belgian
+3,3,Mohamed Amelhaf,FRA,F,1.76,66,25-11-97,,None,Kortrijk,2016,Belgian
+4,4,Lennert De Smul,BEL,D,1.80,71,20-06-96,Aarsele,Club Brugge,Kortrijk,2016,Belgian
+5,5,Vladimir Kovačević,SRB,D,1.90,85,11-11-92,Odaci,Vojvodina,Kortrijk,2016,Belgian
+6,6,Dimitris Goutas,GRE,D,1.89,78,04-04-94,Kavala,Olympiakos,Kortrijk,2016,Belgian
+7,7,Stijn De Smet,BEL,F,1.83,74,27-03-85,Brugge,KAA Gent,Kortrijk,2016,Belgian
+8,8,Neboja Pavlović,SRB,M,1.89,79,09-04-81,Belgrade,Lokeren,Kortrijk,2016,Belgian
+9,9,Teddy Chevalier,FRA,F,1.80,70,28-06-87,Denain,Lens,Kortrijk,2016,Belgian
+10,10,Hervé Kagé,COD,M,1.78,70,10-04-89,Kinshasa,KRC Genk,Kortrijk,2016,Belgian
+11,11,Idriss Saadi,FRA,F,1.79,75,08-02-92,Valence,Cardiff C,Kortrijk,2016,Belgian
+12,12,Medjon Hoxha,BEL,M,1.76,74,27-07-99,,None,Kortrijk,2016,Belgian
+13,13,Michalis Sifakis,GRE,G,1.85,80,09-09-84,Arta,Levadiakos,Kortrijk,2016,Belgian
+14,14,Hannes Van der Bruggen,BEL,M,1.80,69,01-04-93,Aalst,KAA Gent,Kortrijk,2016,Belgian
+16,16,Tomislav Barbarić,CRO,D,1.90,88,29-03-89,Zagreb,Sarajevo,Kortrijk,2016,Belgian
+17,17,Gertjan De Mets,BEL,M,1.76,67,02-04-87,Aalter,Club Brugge,Kortrijk,2016,Belgian
+20,20,Jovan Stojanović,SRB,M,1.87,73,21-04-92,Belgrade,Vodovac,Kortrijk,2016,Belgian
+23,23,Joãozinho,POR,D,1.85,69,02-07-89,Lisbon,Sporting Braga,Kortrijk,2016,Belgian
+24,24,Lucas Rougeaux,FRA,D,1.86,84,10-03-94,Grasse,Nice,Kortrijk,2016,Belgian
+25,25,Xavier Mercier,FRA,M,1.71,64,25-07-89,Alès,Boulogne,Kortrijk,2016,Belgian
+26,26,Elohim Rolland,FRA,M,1.83,77,03-03-89,Chamonix,Boulogne,Kortrijk,2016,Belgian
+27,27,Idir Ouali,ALG,M,1.76,76,21-05-88,Roubaix,Paderborn,Kortrijk,2016,Belgian
+28,28,Thomas Kaminski,BEL,G,1.88,70,23-10-92,Dendermonde,Anderlecht,Kortrijk,2016,Belgian
+29,29,Andriy Totovytskyy,UKR,M,1.87,77,20-01-93,Sarny,Shakhtar Donetsk,Kortrijk,2016,Belgian
+30,30,Kristof D'Haene,BEL,M,1.71,69,06-06-90,Kortrijk,Cercle Brugge,Kortrijk,2016,Belgian
+31,31,Anthony Van Loo,BEL,D,1.73,71,05-10-88,Roeselare,Mechelen,Kortrijk,2016,Belgian
+41,44,Tyron Ivanof,BEL,M,1.76,67,17-07-99,,None,Kortrijk,2016,Belgian
+42,88,Sidy Sarr,SEN,M,1.96,88,05-06-96,M'Bour,M'Bour Petite-Côte,Kortrijk,2016,Belgian
+1,1,"Barry ""Copa"" Boubacar",CIV,G,1.80,69,30-12-79,Marcory,Beveren,Lokeren,2016,Belgian
+3,3,Eugene Ansah,GHA,M,1.79,70,16-12-94,Accra,Liberty Professionals,Lokeren,2016,Belgian
+5,5,Mijat Marić,SUI,D,1.88,83,30-04-84,Minusio,Eupen,Lokeren,2016,Belgian
+6,6,Ari Skúlason,ISL,D,1.75,70,14-05-87,Reykjavik,Odense,Lokeren,2016,Belgian
+7,7,Killian Overmeire,BEL,M,1.88,81,06-12-85,Gent,None,Lokeren,2016,Belgian
+8,8,Koen Persoons,BEL,M,1.79,76,12-07-83,Aalst,Mechelen,Lokeren,2016,Belgian
+9,9,Tom De Sutter,BEL,F,1.92,88,03-07-85,Zottegem,Bursaspor,Lokeren,2016,Belgian
+10,10,Ayanda Patosi,RSA,M,1.74,70,31-10-92,Khayelitsha,ASD Cape Town,Lokeren,2016,Belgian
+11,11,Giorgos Galitsios,GRE,D,1.83,76,06-07-86,Larissa,Olympiakos,Lokeren,2016,Belgian
+12,12,Ortwin De Wolf,BEL,G,1.85,73,23-04-97,Lokeren,None,Lokeren,2016,Belgian
+13,13,Davino Verhulst,BEL,G,1.91,90,25-11-87,Beveren,Sint-Truiden,Lokeren,2016,Belgian
+14,14,Mehdi Terki,ALG,M,1.85,75,27-09-91,Maubeuge,FCV Dender EH,Lokeren,2016,Belgian
+15,15,Mohamed Ofkir,NOR,F,1.78,70,04-08-96,Oslo,Lillestrøm,Lokeren,2016,Belgian
+16,16,Dieter Creemers,BEL,G,1.92,80,02-09-97,,KRC Genk,Lokeren,2016,Belgian
+17,17,Guus Hupperts,NED,F,1.84,79,25-04-92,Heerlen,AZ Alkmaar,Lokeren,2016,Belgian
+18,18,Gary Martin,ENG,F,1.80,79,10-10-90,Darlington,Víkingur,Lokeren,2016,Belgian
+19,19,Mario Tičinović,CRO,D,1.70,70,20-08-91,Sinj,FC Nordsjælland,Lokeren,2016,Belgian
+20,20,Joher Khadim Rassoul,SEN,M,1.87,82,31-12-95,Dakar,Anderlecht,Lokeren,2016,Belgian
+21,21,Marko Mirić,SRB,F,1.84,78,26-03-87,Kragujevac,Slaven Belupo,Lokeren,2016,Belgian
+22,22,Steve de Ridder,BEL,F,1.79,73,25-02-87,Gent,FC København,Lokeren,2016,Belgian
+23,23,Nikola Jambor,CRO,M,1.88,76,25-09-95,Koprivnica,Slaven Belupo,Lokeren,2016,Belgian
+24,24,Ridwan Gyselinck,BEL,D,1.84,72,11-06-94,Lokeren,None,Lokeren,2016,Belgian
+25,25,Branislav Niňaj,SVK,D,1.91,85,17-05-94,Bratislava,Slovan Bratislava,Lokeren,2016,Belgian
+26,26,Tjorven Melens,BEL,M,1.78,64,03-02-97,,None,Lokeren,2016,Belgian
+27,27,Arno Monsecour,BEL,D,1.76,66,19-01-96,Gent,None,Lokeren,2016,Belgian
+28,28,Evariste Ngolok,BEL,M,1.76,74,15-11-88,Bonaberi,OH Leuven,Lokeren,2016,Belgian
+29,29,Lewis Enoh,CMR,F,1.89,78,23-10-92,Bamenda,Sporting CP,Lokeren,2016,Belgian
+32,32,Nathan Mingiedi,BEL,D,,,22-12-97,,None,Lokeren,2016,Belgian
+33,33,Joran Triest,BEL,F,1.84,71,08-04-97,Aalst,None,Lokeren,2016,Belgian
+34,34,Sander De Prycker,BEL,D,,,16-02-98,,None,Lokeren,2016,Belgian
+35,35,Bob Straetman,BEL,F,1.83,70,29-12-97,Dendermonde,None,Lokeren,2016,Belgian
+41,50,Serhiy Bolbat,UKR,F,1.75,66,13-06-93,Volnovakha,Shakhtar Donetsk,Lokeren,2016,Belgian
+2,2,Laurens Paulussen,BEL,D,1.74,69,19-07-90,,KVC Westerlo,Mechelen,2016,Belgian
+3,3,Ahmed El Messaoudi,BEL,D,1.82,78,03-08-95,Brussels,Standard Liège,Mechelen,2016,Belgian
+4,4,Seth de Witte,BEL,D,1.91,86,18-10-87,Antwerp,Lierse,Mechelen,2016,Belgian
+5,5,Uro Vitas,SRB,D,1.87,80,28-09-92,Belgrade,KAA Gent,Mechelen,2016,Belgian
+7,7,Tim Matthijs,BEL,M,1.80,76,23-12-83,Gent,RAEC Mons,Mechelen,2016,Belgian
+8,8,Randall Leal,CRC,M,1.72,74,14-01-97,San José [CRC],Belén,Mechelen,2016,Belgian
+10,10,Yohan Croizet,FRA,M,1.78,70,15-02-92,Sarrebourg,OH Leuven,Mechelen,2016,Belgian
+11,11,Mats Rits,BEL,M,1.80,70,18-07-93,Antwerp,Ajax,Mechelen,2016,Belgian
+12,12,Ighodaro Christian Osaguona,NGA,F,1.94,,10-10-90,,Raja Casablanca,Mechelen,2016,Belgian
+14,14,Xavier Chen,BEL,D,1.74,69,15-10-83,Berchem-St-Agathe,Guizhou Renhe,Mechelen,2016,Belgian
+15,15,Edin Cocalić,BIH,D,1.89,83,05-12-87,Viegrad,Maccabi Haifa,Mechelen,2016,Belgian
+16,16,Aleksandar Bjelica,SRB,D,1.84,80,07-01-94,Vrbas,Helmond Sport,Mechelen,2016,Belgian
+17,17,Dimitris Kolovos,GRE,M,1.82,77,27-04-93,Athens,Olympiakos,Mechelen,2016,Belgian
+18,18,Nils Schouterden,BEL,M,1.76,64,14-12-88,Leuven,KVC Westerlo,Mechelen,2016,Belgian
+21,21,Sotiris Ninis,GRE,M,1.73,69,03-04-90,Himara,Charleroi,Mechelen,2016,Belgian
+22,22,Elias Cobbaut,BEL,D,1.88,77,24-11-97,,None,Mechelen,2016,Belgian
+26,26,Colin Coosemans,BEL,G,1.85,81,03-08-92,Gent,Waasland-Beveren,Mechelen,2016,Belgian
+27,27,Jordy Peffer,BEL,F,1.83,71,04-11-96,,Anderlecht,Mechelen,2016,Belgian
+28,28,Anthony Swolfs,BEL,G,1.95,73,25-11-97,,Royal Antwerp,Mechelen,2016,Belgian
+29,29,Jules Van Cleemput,BEL,D,1.82,75,04-11-97,,None,Mechelen,2016,Belgian
+30,30,Jordi Vanlerberghe,BEL,D,1.89,82,27-06-96,,None,Mechelen,2016,Belgian
+33,33,Jeff Callebaut,BEL,F,1.71,73,23-01-97,,None,Mechelen,2016,Belgian
+34,34,Maxime De Bie,BEL,D,,,13-12-00,,None,Mechelen,2016,Belgian
+39,39,Rédà Jaadi,BEL,M,1.86,70,14-02-95,Brussels,Club Brugge,Mechelen,2016,Belgian
+41,49,Anthony Moris,BEL,G,1.84,75,29-04-90,Liège,Standard Liège,Mechelen,2016,Belgian
+42,55,eljko Filipović,SVN,M,1.94,80,03-10-88,Ljubljana,Maribor,Mechelen,2016,Belgian
+43,77,Glenn Claes,BEL,M,1.79,62,08-03-94,Lier,Lierse,Mechelen,2016,Belgian
+44,99,Nicolas Verdier,FRA,F,1.85,72,17-01-87,Nice,Brest,Mechelen,2016,Belgian
+1,1,Silvio Proto,BEL,G,1.84,72,23-05-83,Charleroi,Anderlecht,Oostende,2016,Belgian
+4,4,Fabien Antunes,FRA,D,1.83,78,19-11-91,Paris,Excelsior Virton,Oostende,2016,Belgian
+6,6,Mathias Bossaerts,BEL,D,1.84,76,10-07-96,Gooreind,Manchester C,Oostende,2016,Belgian
+7,7,Sébastien Siani,CMR,M,1.73,73,21-12-86,Douala,FC Brussels,Oostende,2016,Belgian
+8,8,Yassine El Ghanassy,MAR,M,1.75,69,12-07-90,La Louvière,Stabæk,Oostende,2016,Belgian
+10,10,Franck Berrier,FRA,M,1.75,65,02-02-84,Argentan,Zulte-Waregem,Oostende,2016,Belgian
+11,11,Knowledge Musona,ZIM,F,1.74,68,21-06-90,Harare,1899 Hoffenheim,Oostende,2016,Belgian
+12,12,Didier Ovono,GAB,G,1.86,82,23-01-83,Port-Gentil,Sochaux,Oostende,2016,Belgian
+14,14,Nicklas Pedersen,DEN,F,1.87,76,10-10-87,Køge,KAA Gent,Oostende,2016,Belgian
+15,15,Andile Jali,RSA,M,1.70,70,10-04-90,Matatiele,Orlando Pirates,Oostende,2016,Belgian
+17,17,Joseph Akpala,NGA,F,1.85,78,24-08-86,Jos,Karabükspor,Oostende,2016,Belgian
+18,18,David Rozehnal,CZE,D,1.93,77,05-07-80,ternberk,Lille,Oostende,2016,Belgian
+19,19,Landry Dimata,BEL,F,1.85,80,01-09-97,Mbuji-Mayi,Standard Liège,Oostende,2016,Belgian
+20,20,Michiel Jonckheere,BEL,M,1.80,64,03-01-90,Ostend,Zulte-Waregem,Oostende,2016,Belgian
+21,21,Victor Van De Wiele,BEL,M,1.76,68,08-09-96,Kortrijk,Kortrijk,Oostende,2016,Belgian
+24,24,Siebe Van Der Heyden,BEL,M,1.85,76,30-05-98,Denderleeuw,Anderlecht,Oostende,2016,Belgian
+26,26,Kevin Vandendriessche,FRA,M,1.83,86,07-08-89,Lesquin,Mouscron-Péruwelz,Oostende,2016,Belgian
+27,27,Brecht Capon,BEL,D,1.79,69,24-04-88,Ostend,Kortrijk,Oostende,2016,Belgian
+28,28,William Dutoit,FRA,G,1.81,74,18-09-88,Roncq,Sint-Truiden,Oostende,2016,Belgian
+29,29,Alvin Segbia,COD,F,1.76,74,20-08-96,Kinshasa,None,Oostende,2016,Belgian
+30,30,Jean Chopin,FRA,G,1.95,90,09-10-94,Arras,Lens,Oostende,2016,Belgian
+31,31,Bruno Godeau,BEL,D,1.90,79,10-05-92,Brussels,Zulte-Waregem,Oostende,2016,Belgian
+33,33,arko Tomaević,MNE,D,1.82,70,22-02-90,Podgorica,Kortrijk,Oostende,2016,Belgian
+36,36,Hasan Özkan,TUR,M,1.78,70,14-11-97,Jette,KAA Gent,Oostende,2016,Belgian
+40,40,Justin Verlinden,BEL,G,,,06-04-97,,Standard Liège,Oostende,2016,Belgian
+41,44,Antonio Milić,CRO,D,1.90,80,10-03-94,Split,Hajduk Split,Oostende,2016,Belgian
+42,55,Fernando Canesin,BRA,M,1.76,68,27-02-92,Ribeirão Preto,Anderlecht,Oostende,2016,Belgian
+43,77,Adam Maruić,SRB,M,1.85,76,17-10-92,Belgrade,Kortrijk,Oostende,2016,Belgian
+3,3,Thomas Demol,BEL,M,,,11-05-98,,None,Royal Excel Mouscron,2016,Belgian
+4,4,Karim Essikal,MAR,M,1.82,76,08-02-96,Vilvoorde,Zulte-Waregem,Royal Excel Mouscron,2016,Belgian
+5,5,David Hubert,BEL,M,1.83,76,12-02-88,Ukkel,KAA Gent,Royal Excel Mouscron,2016,Belgian
+6,6,Cristian Manea,ROU,D,1.83,72,09-08-97,Agigea,Apollon Limassol,Royal Excel Mouscron,2016,Belgian
+7,7,Filip Marković,SRB,M,1.81,76,03-03-92,Čačak,Mallorca,Royal Excel Mouscron,2016,Belgian
+8,8,Fabrice Olinga,CMR,F,1.72,66,12-05-96,Douala,Sampdoria,Royal Excel Mouscron,2016,Belgian
+9,9,Roman Ferber,BEL,F,1.90,82,29-05-93,,Charleroi,Royal Excel Mouscron,2016,Belgian
+10,10,Mahmoud Hassan,EGY,M,1.76,72,01-10-94,Kafr el-Sheikh,Anderlecht,Royal Excel Mouscron,2016,Belgian
+11,11,Dimitri Mohamed,FRA,M,1.82,70,10-06-89,Bully-les-Mines,Amiens,Royal Excel Mouscron,2016,Belgian
+14,14,Sebastjan Spahiu,BEL,M,,,30-10-99,,None,Royal Excel Mouscron,2016,Belgian
+15,15,Daniel Graovac,BIH,D,1.86,76,08-08-93,Bosanski Novi,Zrinjski Mostar,Royal Excel Mouscron,2016,Belgian
+16,16,Noam Debaisieux,BEL,M,,,15-12-99,,None,Royal Excel Mouscron,2016,Belgian
+17,17,Babacar Dione,BEL,F,,,22-03-97,,None,Royal Excel Mouscron,2016,Belgian
+18,18,Farouk Miya,UGA,M,1.76,75,26-11-97,Bulo,Standard Liège,Royal Excel Mouscron,2016,Belgian
+19,19,Martin Selak,BEL,D,,,22-06-95,,None,Royal Excel Mouscron,2016,Belgian
+20,20,Simon Diédhiou,SEN,F,1.81,79,10-07-91,Dakar,KAA Gent,Royal Excel Mouscron,2016,Belgian
+21,21,Matej Delač,CRO,G,1.90,80,20-08-92,Gornji Vakuf,Chelsea,Royal Excel Mouscron,2016,Belgian
+22,22,Luka Stojanović,SRB,M,1.87,80,04-01-94,Belgrade,Apollon Limassol,Royal Excel Mouscron,2016,Belgian
+23,23,Mickaël Tirpan,BEL,D,1.77,72,23-10-93,,Seraing U,Royal Excel Mouscron,2016,Belgian
+24,24,Nikola Gulan,SRB,D,1.83,72,23-03-89,Belgrade,Mallorca,Royal Excel Mouscron,2016,Belgian
+25,25,Agustín Cedrés,URU,M,1.80,70,28-05-98,Migues,None,Royal Excel Mouscron,2016,Belgian
+26,26,Aristote Nkaka,BEL,D,1.75,70,01-07-96,,Club Brugge,Royal Excel Mouscron,2016,Belgian
+27,27,Mërgim Vojvoda,KVX,D,1.87,78,01-02-95,Hof,Standard Liège,Royal Excel Mouscron,2016,Belgian
+28,28,Jérémy Huyghebaert,BEL,D,1.80,72,07-01-89,Mouscron,RWS Bruxelles,Royal Excel Mouscron,2016,Belgian
+29,29,Thibault Peyre,FRA,D,1.82,70,03-10-92,Martigues,Lille,Royal Excel Mouscron,2016,Belgian
+30,30,Benjamin Van Durmen,NED,D,,,20-03-97,,None,Royal Excel Mouscron,2016,Belgian
+33,33,Théo Defourny,BEL,G,1.94,85,25-04-92,Bourg-Saint-Maurice,Excelsior Virton,Royal Excel Mouscron,2016,Belgian
+34,34,Stefan imić,CZE,D,1.87,79,20-01-95,Prague,Milan,Royal Excel Mouscron,2016,Belgian
+36,36,Dino Arslanagic,BEL,D,1.88,79,24-04-93,Nivelles,Standard Liège,Royal Excel Mouscron,2016,Belgian
+41,45,Fejsal Mulić,SRB,F,2.03,84,03-10-94,Novi Pazar,1860 Munich,Royal Excel Mouscron,2016,Belgian
+42,66,Alen arić Hodić,CRO,G,,,02-12-97,Makarska,Zmaj Blato,Royal Excel Mouscron,2016,Belgian
+43,94,Nathan Kabasele,BEL,F,1.78,71,14-01-94,,Anderlecht,Royal Excel Mouscron,2016,Belgian
+44,99,Deividas Matulevičius,LTU,F,1.90,83,08-04-89,Alytus,FC Botoșani,Royal Excel Mouscron,2016,Belgian
+1,1,Yanno Vanwelkenhuysen,BEL,G,,,28-03-97,,None,Sint-Truiden,2016,Belgian
+2,2,Brandon Mechele,BEL,D,1.80,76,28-01-93,Bredene,Club Brugge,Sint-Truiden,2016,Belgian
+3,3,Dakonam Djené,TOG,D,1.76,71,31-12-91,Dapaong,Alcorcón,Sint-Truiden,2016,Belgian
+4,4,Jorge Pulido,ESP,D,1.81,72,08-04-91,Talavera de la Reina,Albacete,Sint-Truiden,2016,Belgian
+5,5,Alexis De Sart,BEL,M,1.80,66,12-11-96,Waremme,Standard Liège,Sint-Truiden,2016,Belgian
+6,6,Steven De Petter,BEL,M,1.79,77,22-11-85,Brugge,Mechelen,Sint-Truiden,2016,Belgian
+7,7,Fabien Tchenkoua,CMR,M,1.71,73,01-10-92,Nkongsamba,Nîmes,Sint-Truiden,2016,Belgian
+8,8,Stef Peeters,BEL,M,1.88,84,09-02-92,Bree,MVV Maastricht,Sint-Truiden,2016,Belgian
+9,9,Nick Proschwitz,GER,F,1.92,84,28-11-86,Weißenfels,Paderborn,Sint-Truiden,2016,Belgian
+10,10,Roman Bezus,UKR,M,1.85,78,26-09-90,Kremenchuk,Dnipro Dnipropetrovsk,Sint-Truiden,2016,Belgian
+11,11,Yohan Boli,FRA,F,1.81,76,17-11-93,Arras,Verviers,Sint-Truiden,2016,Belgian
+12,12,Alessio Castro-Montes,BEL,M,,,10-01-97,,None,Sint-Truiden,2016,Belgian
+13,13,Sébastien Bruzzese,BEL,G,1.84,74,01-03-89,Liège,Club Brugge,Sint-Truiden,2016,Belgian
+14,14,Pieter Gerkens,BEL,M,1.79,63,17-02-95,Bilzen,KRC Genk,Sint-Truiden,2016,Belgian
+15,15,Steve Ryckaert,BEL,D,,,29-06-98,,KAA Gent,Sint-Truiden,2016,Belgian
+16,16,Cristián Cuevas,CHI,D,1.71,64,02-04-95,Rancagua,Chelsea,Sint-Truiden,2016,Belgian
+18,18,Mamadou Bagayoko,CIV,D,1.75,65,31-12-89,Abidjan,Slovan Bratislava,Sint-Truiden,2016,Belgian
+19,19,Cristian Ceballos,ESP,M,1.73,67,03-12-92,Barcelona,Charlton Ath,Sint-Truiden,2016,Belgian
+20,20,Damien Dussaut,FRA,D,1.82,69,08-11-94,Créteil,Standard Liège,Sint-Truiden,2016,Belgian
+21,21,Lucas Pirard,BEL,G,1.91,85,10-03-95,,Standard Liège,Sint-Truiden,2016,Belgian
+22,22,Wolke Janssens,BEL,F,1.78,72,01-08-95,,Dessel Sport,Sint-Truiden,2016,Belgian
+23,23,Sascha Kotysch,GER,D,1.88,78,02-10-88,Kirchheimbolanden,Kaiserslautern,Sint-Truiden,2016,Belgian
+24,24,Pierrick Valdivia,FRA,M,1.85,67,18-04-88,Bron,Lens,Sint-Truiden,2016,Belgian
+25,25,Kurt Abrahams,RSA,F,,,30-12-96,,None,Sint-Truiden,2016,Belgian
+26,26,Rúben Fernandes,POR,D,1.86,75,06-05-86,Portimão,Estoril,Sint-Truiden,2016,Belgian
+27,27,Iebe Swers,BEL,M,1.75,70,27-12-96,,None,Sint-Truiden,2016,Belgian
+28,28,Igor Vetokele,ANG,F,1.73,70,23-03-92,Ostend,Charlton Ath,Sint-Truiden,2016,Belgian
+29,29,Yannick Vandersmissen,BEL,M,,,18-04-98,,None,Sint-Truiden,2016,Belgian
+30,30,Samy Bourard,BEL,M,1.75,64,10-07-96,,Anderlecht,Sint-Truiden,2016,Belgian
+31,31,Boli Bolingoli Mbombo,BEL,D,1.80,71,01-07-95,Antwerp,Club Brugge,Sint-Truiden,2016,Belgian
+1,1,Jean-François Gillet,BEL,G,1.81,82,31-05-79,Liège,Catania,Standard Ličge,2016,Belgian
+2,2,Réginal Goreux,HAI,D,1.75,73,31-12-87,Saint-Michel,FC Rostov,Standard Ličge,2016,Belgian
+5,5,Danilo,BRA,M,1.82,73,28-02-96,Simões Filho,Sporting Braga,Standard Ličge,2016,Belgian
+7,7,Mathieu Dossevi,TOG,M,1.72,65,12-02-88,Chambray-les-Tours,Olympiakos,Standard Ličge,2016,Belgian
+8,8,Benito Raman,BEL,F,1.72,67,07-11-94,Gent,KAA Gent,Standard Ličge,2016,Belgian
+9,9,Renaud Emond,BEL,F,1.86,73,05-12-91,Virton,Waasland-Beveren,Standard Ličge,2016,Belgian
+10,10,Dieumerci Ndongala,BEL,M,1.70,60,14-06-91,Kinshasa,KAA Gent,Standard Ličge,2016,Belgian
+11,11,Jonathan Bolingi,COD,F,1.85,74,30-06-94,Kinshasa,TP Mazembe,Standard Ličge,2016,Belgian
+13,13,Alexander Scholz,DEN,D,1.89,87,24-10-92,Copenhagen,Lokeren,Standard Ličge,2016,Belgian
+15,15,Merveille Bokadi,COD,M,1.86,79,21-05-92,Kinshasa,TP Mazembe,Standard Ličge,2016,Belgian
+16,16,Arnaud Bodart,BEL,G,1.84,75,11-03-98,Seraing,None,Standard Ličge,2016,Belgian
+17,17,Ryan Mmaee,BEL,F,1.83,78,01-04-97,,None,Standard Ličge,2016,Belgian
+18,18,Răzvan Marin,ROU,M,1.77,70,23-05-96,Bucharest,Viitorul Constanța,Standard Ličge,2016,Belgian
+20,20,Samy Mmaee,BEL,D,1.84,80,08-09-96,,None,Standard Ličge,2016,Belgian
+21,21,Eyong Enoh,CMR,M,1.80,76,23-03-86,Kumba,Ajax,Standard Ličge,2016,Belgian
+22,22,Edmilson Junior,BEL,M,1.80,65,19-08-94,Liège,Sint-Truiden,Standard Ličge,2016,Belgian
+24,24,Corentin Fiore,BEL,D,1.82,70,24-03-95,,None,Standard Ličge,2016,Belgian
+25,25,Filip Mladenović,SRB,D,1.80,72,15-08-91,Čačak,Köln,Standard Ličge,2016,Belgian
+26,26,Christian Luyindama,COD,D,,,08-01-94,Kinshasa,TP Mazembe,Standard Ličge,2016,Belgian
+27,27,Darwin Andrade,COL,D,1.76,70,11-02-91,Monteria,Újpest,Standard Ličge,2016,Belgian
+28,28,Guillaume Hubert,BEL,G,1.97,88,11-01-94,Charleroi,Valenciennes,Standard Ličge,2016,Belgian
+30,30,Jonathan Legear,BEL,M,1.79,72,13-04-87,Liège,Blackpool,Standard Ličge,2016,Belgian
+32,32,Collins Fai,CMR,D,1.67,60,13-08-92,Bamenda,Dinamo Bucureşti,Standard Ličge,2016,Belgian
+33,33,Milo Kosanović,SRB,D,1.91,83,28-05-90,Čonoplja,Mechelen,Standard Ličge,2016,Belgian
+34,34,Konstantinos Laifis,CYP,D,1.85,77,19-05-93,Paralimni,Olympiakos,Standard Ličge,2016,Belgian
+38,38,Alexandro Cavagnera,BEL,M,1.85,,01-12-98,,None,Standard Ličge,2016,Belgian
+40,40,Jérôme Déom,BEL,M,1.75,65,19-04-99,Libramont-Chevigny,None,Standard Ličge,2016,Belgian
+41,41,Reno Wilmots,BEL,M,,,16-03-97,,Sint-Truiden,Standard Ličge,2016,Belgian
+42,44,Ibrahima Cissé,BEL,M,1.84,77,28-02-94,Liège,Mechelen,Standard Ličge,2016,Belgian
+43,45,Dimitri Lavalée,BEL,D,1.87,76,13-01-97,Soumagne,None,Standard Ličge,2016,Belgian
+44,52,Ibrahima Bah,BEL,F,,,01-01-99,,None,Standard Ličge,2016,Belgian
+45,70,Orlando Sá,POR,F,1.88,85,26-05-88,Barcelos,Maccabi Tel Aviv,Standard Ličge,2016,Belgian
+46,77,Valeriy Luchkevych,UKR,D,1.76,65,11-01-96,Zaporizhya,Dnipro,Standard Ličge,2016,Belgian
+47,99,Ishak Belfodil,ALG,F,1.91,86,12-01-92,Mostaganem,Baniyas,Standard Ličge,2016,Belgian
+2,2,Erdin Demir,SWE,D,1.77,72,27-03-90,Malmö,Brann,Waasland-Beveren,2016,Belgian
+3,3,Niels De Schutter,BEL,D,1.81,81,08-08-88,Dendermonde,Oostende,Waasland-Beveren,2016,Belgian
+4,4,Valtteri Moren,FIN,D,1.88,76,15-06-91,Vantaa,HJK Helsinki,Waasland-Beveren,2016,Belgian
+5,5,Jonathan Buatu Mananga,ANG,D,1.87,87,27-09-93,Liège,Fulham,Waasland-Beveren,2016,Belgian
+7,7,Aleksandar Boljević,MNE,M,1.83,78,12-12-95,Podgorica,PSV Eindhoven,Waasland-Beveren,2016,Belgian
+8,8,François Marquet,BEL,M,1.72,66,17-04-95,Theux,Standard Liège,Waasland-Beveren,2016,Belgian
+9,9,Zinho Gano,BEL,F,1.96,86,13-10-93,Mechelen,Club Brugge,Waasland-Beveren,2016,Belgian
+10,10,Steven Langil,FRA,M,1.78,67,04-03-88,Morne Rouge,Legia Warszawa,Waasland-Beveren,2016,Belgian
+11,11,Alessandro Cerigioni,BEL,F,1.78,71,30-09-92,,OH Leuven,Waasland-Beveren,2016,Belgian
+12,12,Julian Michel,FRA,M,1.80,68,19-02-92,Echerolles,Excel Mouscron,Waasland-Beveren,2016,Belgian
+15,15,Ibrahima Seck,SEN,M,1.92,85,10-08-89,Bargny,Auxerre,Waasland-Beveren,2016,Belgian
+16,16,Cherif Ndiaye,SEN,F,1.88,78,23-01-96,Dakar,HLM Grand Yoff,Waasland-Beveren,2016,Belgian
+17,17,Ibrahima Conté,GUI,M,1.77,61,03-04-91,Conakry,Oostende,Waasland-Beveren,2016,Belgian
+18,18,Merveille Goblet,BEL,G,1.80,78,20-11-94,Jette,Standard Liège,Waasland-Beveren,2016,Belgian
+19,19,Ronnie Schwartz,DEN,F,1.83,74,29-08-89,Ulsted,Guingamp,Waasland-Beveren,2016,Belgian
+20,20,Aaron Dhondt,BEL,F,1.90,80,19-12-95,,Izegem,Waasland-Beveren,2016,Belgian
+21,21,Laurent Jans,LUX,D,1.78,73,05-08-92,Luxembourg,Fola Esch,Waasland-Beveren,2016,Belgian
+22,22,Nana Opuku Ampomah,GHA,M,1.75,68,02-01-96,,Mechelen,Waasland-Beveren,2016,Belgian
+23,23,Maximiliano Caufriez,BEL,D,1.89,81,16-02-97,,Standard Liège,Waasland-Beveren,2016,Belgian
+24,24,Jens Cools,BEL,M,1.76,67,16-10-90,Westerlo,KVC Westerlo,Waasland-Beveren,2016,Belgian
+25,25,Kjetil Borry,BEL,D,1.90,75,16-08-94,Tielt,KSV Roeselare,Waasland-Beveren,2016,Belgian
+26,26,László Köteles,HUN,G,1.85,81,01-09-84,Szeged,KRC Genk,Waasland-Beveren,2016,Belgian
+27,27,Maxim Nys,BEL,D,1.80,73,28-10-96,,None,Waasland-Beveren,2016,Belgian
+28,28,Floriano Vanzo,BEL,M,1.70,63,28-04-94,Maurage,Club Brugge,Waasland-Beveren,2016,Belgian
+29,29,Senne van Dooren,BEL,D,1.82,70,16-05-97,,Club Brugge,Waasland-Beveren,2016,Belgian
+30,30,Gilles Van Remoortere,BEL,M,1.80,73,08-11-96,,None,Waasland-Beveren,2016,Belgian
+31,31,Sebastien Ito,BEL,M,1.78,72,11-05-96,,None,Waasland-Beveren,2016,Belgian
+32,32,Olivier Myny,BEL,F,1.78,67,10-11-94,Zwevegem,KSV Roeselare,Waasland-Beveren,2016,Belgian
+41,69,Rudy Camacho,FRA,D,1.85,79,05-03-91,,Sedan,Waasland-Beveren,2016,Belgian
+42,92,Leandro Rodríguez,URU,F,1.79,70,19-11-92,Montevideo,Everton,Waasland-Beveren,2016,Belgian
+43,98,Mathias Janssens,BEL,G,1.86,75,09-03-98,,KAA Gent,Waasland-Beveren,2016,Belgian
+1,1,Kristof Van Hout,BEL,G,2.08,110,09-02-87,Geel,Delhi Dynamos,KVC Westerlo,2016,Belgian
+2,2,Mitch Apau,NED,D,1.80,75,27-04-90,Amsterdam,RKC Waalwijk,KVC Westerlo,2016,Belgian
+3,3,Filip Daems,BEL,D,1.81,79,31-10-78,Turnhout,B Mönchengladbach,KVC Westerlo,2016,Belgian
+6,6,Robin Henkens,BEL,M,1.73,68,12-09-88,Hasselt,Waasland-Beveren,KVC Westerlo,2016,Belgian
+7,7,Marko Nikolić,SWE,M,1.83,72,17-09-97,Huddinge,AIK,KVC Westerlo,2016,Belgian
+8,8,Maxime Annys,BEL,M,1.86,78,24-07-86,Ostend,Hjørring,KVC Westerlo,2016,Belgian
+9,9,Elton Acolatse,NED,F,1.82,76,25-07-95,Amsterdam,Ajax,KVC Westerlo,2016,Belgian
+10,10,Benjamin De Ceulaer,BEL,F,1.74,72,19-12-83,Genk,KRC Genk,KVC Westerlo,2016,Belgian
+11,11,Khaleem Hyland,TRI,M,1.86,85,05-06-89,Carenage,KRC Genk,KVC Westerlo,2016,Belgian
+16,16,Jordan Mustoe,ENG,D,1.80,75,28-01-91,Wirral,Accrington Stanley,KVC Westerlo,2016,Belgian
+17,17,Kenneth Schhuermans,BEL,D,1.94,80,25-05-91,Genk,None,KVC Westerlo,2016,Belgian
+18,18,Daan Heymans,BEL,M,1.86,,15-06-99,,None,KVC Westerlo,2016,Belgian
+19,19,Daniel Christensen,DEN,D,1.72,69,19-09-88,,Aarhus,KVC Westerlo,2016,Belgian
+22,22,Gilles Ruyssen,BEL,D,1.86,85,18-06-94,,KAA Gent,KVC Westerlo,2016,Belgian
+24,24,Michaël Heylen,BEL,D,1.87,84,03-01-94,Antwerp,Anderlecht,KVC Westerlo,2016,Belgian
+26,26,Yannick Verbist,BEL,G,,,22-06-98,,None,KVC Westerlo,2016,Belgian
+28,28,Nicolas Rommens,BEL,M,1.83,70,17-12-94,Lier,Dessel Sport,KVC Westerlo,2016,Belgian
+29,29,Yoni Buyens,BEL,M,1.82,75,10-03-88,Duffel,KRC Genk,KVC Westerlo,2016,Belgian
+30,30,Koen Van Langendonck,BEL,G,1.89,81,09-06-89,Neerpelt,Beerschot AC,KVC Westerlo,2016,Belgian
+35,35,Silvère Ganvoula,CGO,F,1.83,80,22-06-96,Brazzaville,Anderlecht,KVC Westerlo,2016,Belgian
+41,42,Randal Oto'o,GAB,D,1.82,72,23-05-94,Libreville,Sporting Braga,KVC Westerlo,2016,Belgian
+42,44,Hervé Matthys,BEL,D,1.83,77,19-01-96,Brugge,Anderlecht,KVC Westerlo,2016,Belgian
+43,73,Nemanja Miletić,SRB,D,1.87,82,16-01-91,Kosovska Mitrovica,Vojvodina,KVC Westerlo,2016,Belgian
+44,97,Carlos Strandberg,SWE,F,1.87,90,14-04-96,Gothenburg,Club Brugge,KVC Westerlo,2016,Belgian
+1,1,Sammy Bossut,BEL,G,1.85,74,11-08-85,Oostrozebeke,KVSK United,Zulte-Waregem,2016,Belgian
+2,2,Davy De Fauw,BEL,D,1.85,65,08-07-81,Gent,Club Brugge,Zulte-Waregem,2016,Belgian
+3,3,Marvin Baudry,CGO,D,1.87,85,26-01-90,Reims,Amiens,Zulte-Waregem,2016,Belgian
+4,4,Luca Marrone,ITA,M,1.86,75,28-03-90,Turin,Juventus,Zulte-Waregem,2016,Belgian
+5,5,Yoan Severin,FRA,D,1.86,80,24-01-97,Villeurbanne,Juventus,Zulte-Waregem,2016,Belgian
+6,6,Timothy Derijck,BEL,D,1.85,77,25-05-87,Liedekerke,ADO Den Haag,Zulte-Waregem,2016,Belgian
+7,7,Aliko Bala,NGA,F,1.80,74,27-02-97,Jos,AS Trenčín,Zulte-Waregem,2016,Belgian
+8,8,Lukas Lerager,DEN,M,1.84,80,12-07-93,Gladsaxe,Viborg,Zulte-Waregem,2016,Belgian
+9,9,M'Baye Leye,SEN,F,1.83,76,01-12-82,Birkelane,Lokeren,Zulte-Waregem,2016,Belgian
+10,10,Onur Kaya,BEL,M,1.67,69,20-04-86,Brussels,Lokeren,Zulte-Waregem,2016,Belgian
+11,11,Jens Naessens,BEL,F,1.87,76,01-04-91,Deinze,Mechelen,Zulte-Waregem,2016,Belgian
+14,14,Henrik Dalsgaard,DEN,D,1.89,79,27-07-89,Roum,Aalborg,Zulte-Waregem,2016,Belgian
+15,15,Kingsley Madu,NGA,D,1.74,79,12-12-95,Kaduna,AS Trenčín,Zulte-Waregem,2016,Belgian
+17,17,Soualiho Meïté,FRA,M,1.87,80,17-03-94,Paris,Lille,Zulte-Waregem,2016,Belgian
+19,19,Babacar Guèye,SEN,F,1.90,84,31-12-94,,Hannover 96,Zulte-Waregem,2016,Belgian
+21,21,Robert Mühren,NED,F,1.80,78,18-05-89,Volendam,AZ Alkmaar,Zulte-Waregem,2016,Belgian
+22,22,Kenny Steppe,BEL,G,1.82,67,14-11-88,Antwerp,Waasland-Beveren,Zulte-Waregem,2016,Belgian
+23,23,Christophe Lepoint,BEL,M,1.89,85,24-10-84,Uccle,Charlton Ath,Zulte-Waregem,2016,Belgian
+25,25,Louis Bostyn,BEL,G,1.95,86,04-10-93,Roeselare,KSV Roeselare,Zulte-Waregem,2016,Belgian
+29,29,Alessandro Cordaro,BEL,M,1.70,65,02-05-86,La Louvière,Mechelen,Zulte-Waregem,2016,Belgian
+30,30,Jakob Ankersen,DEN,M,1.82,70,22-09-90,Esbjerg,IFK Göteborg,Zulte-Waregem,2016,Belgian
+31,31,Brian Hamalainen,DEN,D,1.76,69,29-05-89,Lillerød,KRC Genk,Zulte-Waregem,2016,Belgian
+41,43,Sander Coopman,BEL,M,1.83,66,12-03-95,Ooigem,Club Brugge,Zulte-Waregem,2016,Belgian
+42,44,Azzedine Zaidi,BEL,D,1.75,70,13-10-96,Brussels,None,Zulte-Waregem,2016,Belgian
+43,45,Pieter De Smet,BEL,D,1.75,70,12-02-98,Waregem,None,Zulte-Waregem,2016,Belgian

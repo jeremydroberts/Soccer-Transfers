@@ -1,0 +1,695 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Vitaliy Reva,UKR,G,1.81,80,19-11-74,Dnipropetrovsk,Dynamo Kiev,Arsenal Kiev,2010,Ukrainian
+3,3,Serhiy Matyukhin,UKR,D,1.85,77,21-03-80,Dachnoe,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+4,4,Serhiy Symonenko,UKR,M,1.86,82,12-06-81,Kiev,Chornomorets Odessa,Arsenal Kiev,2010,Ukrainian
+5,5,Bohdan Shershun,UKR,D,1.91,83,14-05-81,Khmelnitsky,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+6,6,Florin  Şoavă,ROU,D,1.88,82,24-07-78,Gârla-Mare,Universitatea Craiova,Arsenal Kiev,2010,Ukrainian
+7,7,Ionuţ Costinel Mazilu,ROU,F,1.82,70,09-02-82,Bucharest,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+8,8,Rolan Gusev,RUS,M,1.75,68,17-09-77,Ashgabat,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+9,9,Serhiy Zakarlyuka,UKR,M,1.85,76,17-08-76,Dnipropetrovsk,Metalurh Donetsk,Arsenal Kiev,2010,Ukrainian
+10,10,Yehor Luhachov,UKR,M,1.84,73,24-12-88,Sumy,Spartak Moscow,Arsenal Kiev,2010,Ukrainian
+11,11,Artem Starhorodskyy,UKR,M,1.80,76,17-01-82,Kiev,Krymteplytsya Molodizh,Arsenal Kiev,2010,Ukrainian
+13,13,Saulius Mikoliūnas,LTU,F,1.78,72,02-05-84,viesa,FBK Kaunas,Arsenal Kiev,2010,Ukrainian
+14,14,Vadym Rybalchenko,UKR,F,1.87,76,24-11-88,,Arsenal Kiev-2,Arsenal Kiev,2010,Ukrainian
+15,15,Maksim Shatskikh,UZB,F,1.87,78,30-08-78,Tashkent,Lokomotiv Astana,Arsenal Kiev,2010,Ukrainian
+16,16,Yevhen Yevsyeyev,UKR,D,1.82,74,16-04-87,Kyiv,Arsenal Kiev-2,Arsenal Kiev,2010,Ukrainian
+17,17,Andriy Bohdanov,UKR,M,1.84,75,21-01-90,Kyiv,Arsenal Kiev-2,Arsenal Kiev,2010,Ukrainian
+18,18,Alyaksandr Danilov,UKR,D,1.78,70,10-09-80,Gomel,Metalurh Donetsk,Arsenal Kiev,2010,Ukrainian
+19,19,Aleksandr Kobakhidze,GEO,M,1.84,73,11-02-87,Tbilisi,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+20,20,Sergey Samodin,RUS,F,1.78,76,14-02-85,Stavropol,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+23,23,Serhiy Pohorilyy,UKR,G,1.90,85,28-07-86,Kyiv,Obolon Kiev,Arsenal Kiev,2010,Ukrainian
+27,27,Volodymyr Arzhanov,UKR,M,1.81,77,29-11-85,Zaporozhye,Metalurh Zaporizhya,Arsenal Kiev,2010,Ukrainian
+28,28,Volodymyr Polovyy,UKR,D,1.70,63,28-07-85,Zaporozhye,Metalurh Zaporizhya,Arsenal Kiev,2010,Ukrainian
+33,33,Andriy Khomyn,UKR,D,1.80,71,02-01-82,Potsdam,Metalist Kharkiv,Arsenal Kiev,2010,Ukrainian
+35,35,Oleksandr Hrytsay,UKR,D,1.82,75,30-09-77,Chernihiv,Dnipro Dnipropetrovsk,Arsenal Kiev,2010,Ukrainian
+37,37,Vladyslav  Chanheliya,UKR,G,1.92,82,31-08-88,,Niva Vinnytsa,Arsenal Kiev,2010,Ukrainian
+41,50,Ike Meporiya,UKR,M,1.74,69,26-01-89,Zugdidi,Arsenal Kiev-2,Arsenal Kiev,2010,Ukrainian
+42,51,Andriy Komarnytskyy,UKR,G,1.85,85,02-02-82,Luhansk,Zorya Luhansk,Arsenal Kiev,2010,Ukrainian
+43,77,Yaroslav Zakharevych,UKR,M,1.77,71,24-09-89,Kiev,Arsenal Kiev-2,Arsenal Kiev,2010,Ukrainian
+44,88,Vytautas Luka,LTU,M,1.76,76,14-08-84,Alytus,Illichivets  Mariupol,Arsenal Kiev,2010,Ukrainian
+45,90,Oleksandr Kovpak,UKR,F,1.80,69,02-02-83,Smela,Tavriya Simferopol,Arsenal Kiev,2010,Ukrainian
+46,99,Andrei Yeschenko,RUS,D,1.76,74,09-02-84,Irkutsk,Dynamo Kiev,Arsenal Kiev,2010,Ukrainian
+2,2,Samuel Inkoom,GHA,D,1.79,75,22-08-89,Sekondi-Takoradi,Basel,Dnipro Dnipropetrovsk,2010,Ukrainian
+3,3,Ucha Lobjanidze,GEO,D,1.81,75,23-02-87,Tbilisi,Zestaponi,Dnipro Dnipropetrovsk,2010,Ukrainian
+4,4,Serhiy Kravchenko,UKR,M,1.81,71,24-04-83,Donetsk,Dynamo Kiev,Dnipro Dnipropetrovsk,2010,Ukrainian
+5,5,Vitaliy Mandzyuk,UKR,D,1.80,73,24-01-86,Vilino,Dynamo Kiev,Dnipro Dnipropetrovsk,2010,Ukrainian
+6,6,Nelson Rivas,COL,D,1.81,84,25-03-83,Pradera,Internazionale,Dnipro Dnipropetrovsk,2010,Ukrainian
+7,7,Oleksiy Byelik,UKR,F,1.84,79,15-02-81,Donetsk,Shakhtar Donetsk,Dnipro Dnipropetrovsk,2010,Ukrainian
+8,8,Giuliano,BRA,M,1.72,68,31-05-90,Curitiba,Internacional,Dnipro Dnipropetrovsk,2010,Ukrainian
+9,9,Volodymyr Homenyuk,UKR,F,1.78,73,19-07-85,Simferopol,Tavriya Simferopol,Dnipro Dnipropetrovsk,2010,Ukrainian
+10,10,Yevhen Konoplyanka,UKR,M,1.76,69,29-09-89,Kirovohrad,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+11,11,Yevhen Seleznev,UKR,F,1.85,77,20-07-85,Makiivka,Shakhtar Donetsk,Dnipro Dnipropetrovsk,2010,Ukrainian
+12,12,Denys Andrienko,UKR,M,1.81,70,12-04-80,Eupatoria,Kryvbas Kryvyi Rih,Dnipro Dnipropetrovsk,2010,Ukrainian
+13,13,Beka Gotsiridze,GEO,F,1.70,67,17-08-88,Tbilisi,FC Zestaponi,Dnipro Dnipropetrovsk,2010,Ukrainian
+14,14,Yevheniy Cheberyachko,UKR,D,1.80,75,19-06-83,Uzhgorod,FC Kharkiv,Dnipro Dnipropetrovsk,2010,Ukrainian
+16,16,Andriy Rusol,UKR,D,1.82,75,16-01-83,Kirovohrad,Kryvbas Kryvyi Rih,Dnipro Dnipropetrovsk,2010,Ukrainian
+17,17,Ivan  Strinić,CRO,D,1.86,77,17-07-87,Split,Hajduk Split,Dnipro Dnipropetrovsk,2010,Ukrainian
+18,18,Osmar Daniel Ferreyra,ARG,M,1.76,67,09-01-83,Basavilbaso,CSKA Moscow,Dnipro Dnipropetrovsk,2010,Ukrainian
+19,19,Vitaliy Denisov,UZB,D,1.78,75,23-02-87,Tashkent,CSKA Moscow,Dnipro Dnipropetrovsk,2010,Ukrainian
+21,21,Alcides,BRA,D,1.86,78,13-03-85,São José do Rio Preto,Chelsea,Dnipro Dnipropetrovsk,2010,Ukrainian
+22,22,Oleksandr Hladkyy,UKR,F,1.88,80,24-08-87,Kharkiv,Shakhtar Donetsk,Dnipro Dnipropetrovsk,2010,Ukrainian
+24,24,Pavlo Pashayev,UKR,D,1.75,62,04-01-88,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+25,25,Mario Holek,CZE,M,1.85,75,28-10-86,Brno,Brno,Dnipro Dnipropetrovsk,2010,Ukrainian
+26,26,Maksym Kalynychenko,UKR,M,1.76,72,26-01-79,Kharkiv,Spartak Moscow,Dnipro Dnipropetrovsk,2010,Ukrainian
+27,27,Jan Latuvka,CZE,G,1.91,87,07-07-82,Havirov,Shakhtar  Donetsk,Dnipro Dnipropetrovsk,2010,Ukrainian
+28,28,Serhiy Nazarenko,UKR,M,1.76,69,16-02-80,Kirovohrad,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+29,29,Ruslan Rotan,UKR,M,1.74,67,29-10-81,Poltava,Dynamo Kiev,Dnipro Dnipropetrovsk,2010,Ukrainian
+30,30,Yevhen Shakhov,UKR,F,1.75,62,30-11-90,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+31,31,Dmytro Tryhub,UKR,M,1.83,70,23-07-92,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+32,32,Anton Kanibolotskyy,UKR,G,1.91,80,16-05-88,Kiev,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+33,33,Yaroslav Rafalskyy,UKR,M,1.86,77,16-07-92,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+35,35,Oleksiy Razuvayev,UKR,M,1.70,61,14-01-93,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+36,36,Ruslan Babenko,UKR,M,1.70,65,08-07-92,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+38,38,Oleksandr Nasonov,UKR,D,1.78,67,28-04-92,Kyiv,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+39,39,Stanislav Morozov,UKR,D,1.81,72,09-11-91,,Kryvbas Kryvyi Rih,Dnipro Dnipropetrovsk,2010,Ukrainian
+40,40,Serhiy Bihus,UKR,D,1.82,77,30-03-94,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+41,41,Yevhen Baryshnikov,UKR,D,1.90,81,01-08-88,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+42,43,Anatoliy Mudrak,UKR,M,1.83,65,14-11-90,,Tavriya Simferopol,Dnipro Dnipropetrovsk,2010,Ukrainian
+43,45,Kyrylo Pasichnyk,UKR,D,1.90,80,24-05-93,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+44,49,Vitaliy Kaverin,UKR,F,1.80,75,04-09-90,Khmelnytskyi,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+45,65,Yevhen Neplyakh,UKR,D,1.84,74,11-05-92,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+46,71,Ihor Zahalskyi,UKR,M,1.72,67,19-05-91,Kirovohrad,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+47,77,Yevhen Bokhashvili,UKR,F,1.82,69,05-01-93,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+48,78,Ruslan Bilyayev,UKR,M,1.82,75,10-09-93,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+49,79,Oleksandr Lohinov,UKR,D,1.90,75,23-07-91,,Kryvbas-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+50,80,Levan Arveladze,UKR,M,1.82,72,06-04-93,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+51,81,Denys Maznyy,UKR,F,1.83,73,17-11-91,,Tavriya Simferopol,Dnipro Dnipropetrovsk,2010,Ukrainian
+52,87,Vladyslav Voytsekhovskyy,UKR,F,1.78,69,19-04-93,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+53,88,Dmytro Lyopa,UKR,M,1.70,58,23-11-88,Kremenchuk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+54,89,Denys Shelikhov,UKR,G,1.88,83,23-06-89,Kherson,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+55,90,Oleksandr Mihunov,UKR,D,1.72,62,13-04-94,Donetsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+56,91,Ihor Vartsaba,UKR,G,1.86,76,28-01-91,Dnipropetrovsk,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+57,92,Vitaliy Kanibolotskyy,UKR,G,1.91,79,30-10-92,,Dnipro-2,Dnipro Dnipropetrovsk,2010,Ukrainian
+58,99,Matheus Nascimento,BRA,F,1.75,68,15-01-83,Itabaiana,Sporting Braga,Dnipro Dnipropetrovsk,2010,Ukrainian
+1,1,Oleksandr Shovkovskiy,UKR,G,1.91,87,02-01-75,Kiev,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+2,2,Danilo Silva,BRA,D,1.85,69,24-11-86,Campinas,Internacional,Dynamo Kiev,2010,Ukrainian
+3,3,Betão,BRA,D,1.81,78,11-11-83,São Paulo,Santos,Dynamo Kiev,2010,Ukrainian
+4,4,Tiberiu Ghioane,ROU,M,1.81,72,18-06-81,Târgu-Secuiesc,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+5,5,Ognjen Vukojević,CRO,M,1.84,83,20-12-83,Bjelovar,Dinamo Zagreb,Dynamo Kiev,2010,Ukrainian
+6,6,Goran Popov,MKD,D,1.89,89,02-10-84,Strumica,SC Heerenveen,Dynamo Kiev,2010,Ukrainian
+7,7,Andriy Shevchenko,UKR,F,1.81,84,29-09-76,Dvirkivschyna,Chelsea,Dynamo Kiev,2010,Ukrainian
+8,8,Oleksandr Aliyev,UKR,M,1.73,72,03-02-85,Khabarovsk,Lokomotiv Moscow,Dynamo Kiev,2010,Ukrainian
+9,9,Andriy Yarmolenko,UKR,F,1.87,76,23-10-89,Kiev,Desna Chernihiv,Dynamo Kiev,2010,Ukrainian
+10,10,Artem Milevskyi,UKR,F,1.90,83,12-01-85,Minsk,Borysfen Boryspil,Dynamo Kiev,2010,Ukrainian
+14,14,Frank Temile,NGA,F,1.78,68,15-07-90,Lagos,Valletta,Dynamo Kiev,2010,Ukrainian
+15,15,Serhiy Rybalka,UKR,M,1.80,74,01-04-90,Yamne,Arsenal Kharkiv,Dynamo Kiev,2010,Ukrainian
+17,17,Taras Mykhalyk,UKR,D,1.85,77,28-10-83,Lyubeshiv,CSKA Kiev,Dynamo Kiev,2010,Ukrainian
+18,18,Facundo Bertoglio,ARG,M,1.71,66,30-06-90,San José de la  Esquina,Colón (Santa Fe),Dynamo Kiev,2010,Ukrainian
+19,19,Denys Harmash,UKR,M,1.86,75,19-04-90,Luhansk,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+20,20,Oleh Husyev,UKR,M,1.79,74,25-04-83,Sumy,Arsenal Kiev,Dynamo Kiev,2010,Ukrainian
+21,21,Gerson Magrão,BRA,M,1.81,72,13-06-85,Diadema,Cruzeiro,Dynamo Kiev,2010,Ukrainian
+22,22,Artem Kravets,UKR,F,1.85,73,03-06-89,Dniprodzerzhynsk,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+23,23,Roman Eremenko,FIN,M,1.80,67,19-03-87,Moscow,Udinese,Dynamo Kiev,2010,Ukrainian
+26,26,Andriy Nesmachnyy,UKR,D,1.82,72,28-02-79,Bryansk,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+28,28,Chahir Belghazouani,FRA,M,1.80,70,06-10-86,Porto-Vecchio,Grenoble,Dynamo Kiev,2010,Ukrainian
+30,30,Badr El Kaddouri,MAR,M,1.77,70,31-01-81,Casablanca,BAK,Dynamo Kiev,2010,Ukrainian
+31,31,Stanislav Bohush,UKR,G,1.92,84,25-10-83,Zaporozhye,Metalurh Zaporizhya,Dynamo Kiev,2010,Ukrainian
+34,34,Yevhen Khacheridi,UKR,D,1.97,80,28-07-87,Melitopol,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+35,35,Maksym Koval,UKR,G,1.84,70,09-12-92,Zaporozhye,Metalurh Zaporizhya,Dynamo Kiev,2010,Ukrainian
+36,36,Milo Ninković,SRB,M,1.80,76,25-12-84,Belgrade,Čukarički,Dynamo Kiev,2010,Ukrainian
+37,37,Ayila Yussuf,NGA,M,1.82,73,04-11-84,Lagos,Union Bank,Dynamo Kiev,2010,Ukrainian
+41,44,Leandro Almeida,BRA,D,1.88,83,14-03-87,Belo Horizonte,Atlético Mineiro,Dynamo Kiev,2010,Ukrainian
+42,45,Vladyslav Kalytvyntsev,UKR,M,1.78,65,04-01-93,Moscow,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+43,49,Roman Zozulya,UKR,F,1.75,62,17-11-89,Kiev,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+44,53,Serhiy Lohinov,UKR,D,1.89,79,24-08-90,Dnipropetrovsk,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+45,71,Denys Boyko,UKR,G,1.91,84,29-01-88,Kiev,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+46,74,Artem Kychak,UKR,G,1.98,88,16-05-89,Vinnytsia,Dynamo Kiev-2,Dynamo Kiev,2010,Ukrainian
+2,2,Stanislav  Mykytsey,UKR,D,1.82,74,07-09-89,Donetsk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+3,3,Dmytro Nevmyvaka,UKR,D,1.91,84,19-03-84,Zaporozhye,Metalurh Zaporizhya,Illichivets Mariupol,2010,Ukrainian
+4,4,Ivan Ordets,UKR,D,1.81,82,08-07-92,Volnovakha,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+5,5,Adrian Pukanych,UKR,M,1.80,68,22-06-83,Donetsk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+6,6,Dmytro Hrechyshkin,UKR,M,1.73,63,22-09-91,Sievierodonetsk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+7,7,Kostyantyn Kravchenko,UKR,M,1.80,79,24-09-86,Dnipropetrovsk,Shakhtar Donetsk,Illichivets Mariupol,2010,Ukrainian
+8,8,Ihor Chaykovskyy,UKR,M,1.71,69,07-10-91,Chernivtsi,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+9,9,Kostyantyn Yaroshenko,UKR,F,1.74,70,12-09-86,Luhansk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+11,11,Ivan Kryvosheyenko,UKR,M,1.81,78,11-05-84,Kiev,Metalurh Donetsk,Illichivets Mariupol,2010,Ukrainian
+13,13,Artem Chornyy,UKR,M,1.70,65,23-10-89,Mykolaiv,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+14,14,Artem Savin,UKR,D,1.79,74,20-01-81,Luhansk,Zorya Luhansk,Illichivets Mariupol,2010,Ukrainian
+15,15,Rizvan Ablitarov,UKR,D,1.92,80,18-04-89,Sudak,Dnipro Dnipropetrovsk,Illichivets Mariupol,2010,Ukrainian
+17,17,Vitaliy Fedotov,UKR,M,1.68,57,16-07-91,Donetsk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+18,18,Andriy Zadoyko,UKR,D,1.78,70,11-03-92,,Nyva Ternopil,Illichivets Mariupol,2010,Ukrainian
+19,19,Ihor Tyshchenko,UKR,M,1.80,79,11-05-89,Vladivostok,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+21,21,Serhiy Yavorskyy,UKR,D,1.92,81,05-07-89,Donetsk,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+22,22,Artur Zapadnya,UKR,M,1.83,69,04-06-90,Pervomaisk,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+23,23,Ihor Bazhan,UKR,G,1.87,82,02-12-81,Kirovohrad,Metalist Kharkiv,Illichivets Mariupol,2010,Ukrainian
+25,25,Vladyslav Nasybulin,UKR,M,1.73,62,06-07-89,Debaltsevo,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+26,26,Yehor Ivanov,UKR,F,1.84,75,30-08-91,,Vorskla Poltava-2,Illichivets Mariupol,2010,Ukrainian
+27,27,Roman Khudchenko,UKR,D,1.83,70,12-10-90,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+28,28,Andriy Klyuchyk,UKR,M,1.88,83,14-02-90,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+29,29,Mykola Kobets,UKR,D,1.89,80,27-03-92,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+30,30,Mykyta Shevchenko,UKR,G,1.87,80,26-01-93,Horlivka,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+31,31,Serhiy Hubanov,UKR,D,1.72,65,14-10-93,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+33,33,Bohdan Shust,UKR,G,1.89,83,04-03-86,Sudovaya Vishnya,Shakhtar Donetsk,Illichivets Mariupol,2010,Ukrainian
+35,35,Yuriy Pazyuk,UKR,M,1.74,63,13-07-91,,Metalurh Zaporizhya,Illichivets Mariupol,2010,Ukrainian
+36,36,Artem Tyeryekhov,UKR,D,1.87,76,31-03-92,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+41,42,Yevhen Buravlov,UKR,M,1.76,72,05-02-91,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+42,44,Dmytro Skoblov,UKR,M,1.73,61,30-11-89,Mariupol,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+43,45,Yehor Kartushov,UKR,F,1.75,65,05-01-91,Saky,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+44,46,Anton Kicha,UKR,M,1.73,68,01-05-90,Dnipropetrovsk,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+45,47,Ruslan Romanov,UKR,F,1.85,78,02-02-89,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+46,50,Illya Lubashev,UKR,M,1.97,78,24-04-91,,Metalurh Donetsk,Illichivets Mariupol,2010,Ukrainian
+47,51,Oleksandr Yatsenko,UKR,D,1.80,75,24-02-85,Kiev,Chernomorets Odessa,Illichivets Mariupol,2010,Ukrainian
+48,53,Dmytro  Ryeznikov,UKR,D,1.80,76,18-01-91,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+49,69,Oleksiy Antonov,UKR,F,1.79,72,08-05-86,Dnipropetrovsk,Metalist Kharkiv,Illichivets Mariupol,2010,Ukrainian
+50,70,Vladlen Yurchenko,UKR,F,1.79,64,22-01-94,Mykolaiv,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+51,74,Ivan Otrok,UKR,M,1.80,70,13-02-91,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+52,77,Artem Putivtsev,UKR,M,1.86,79,29-08-88,Kharkiv,Metalist Kharkiv,Illichivets Mariupol,2010,Ukrainian
+53,80,Tornike Okriashvili,GEO,M,1.81,71,12-02-92,Tbilisi,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+54,82,Gediminas Paulauskas,LTU,D,1.89,78,27-10-82,Kupikis,Vetra,Illichivets Mariupol,2010,Ukrainian
+55,87,Yaroslav Khomenko,UKR,G,1.88,78,22-05-91,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+56,90,Serhiy Semeno,UKR,G,1.83,81,06-03-90,,Illichivets Mariupol-2,Illichivets Mariupol,2010,Ukrainian
+57,92,Pylyp Budkivskyy,UKR,F,1.94,78,10-03-92,Kiev,Shakhtar Donetsk-2,Illichivets Mariupol,2010,Ukrainian
+2,2,Viktor Chumak,UKR,D,1.80,76,17-06-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+3,3,Yaroslav Kutsyaba,UKR,M,1.84,74,12-04-89,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+4,4,Ivan Miloević,SRB,D,1.91,84,03-11-84,Čačak,Mladost Lučani,Karpaty Lviv,2010,Ukrainian
+7,7,Samson Godwin,NGA,M,1.78,73,11-11-83,Warri,GKS Katowice,Karpaty Lviv,2010,Ukrainian
+8,8,Ihor Oshchypko,UKR,D,1.75,72,25-10-85,Serafince,Shakhtar Donetsk-2,Karpaty Lviv,2010,Ukrainian
+9,9,Denis Kozhanov,UKR,F,1.72,69,13-06-87,Donetsk,Shakhtar Donetsk-2,Karpaty Lviv,2010,Ukrainian
+10,10,Aleksandre  Guruli,GEO,M,1.79,73,09-11-85,Batumi,Lyon-Duchère,Karpaty Lviv,2010,Ukrainian
+11,11,Sergei Zenjov,EST,F,1.83,70,20-04-89,Pärnu,TVMK,Karpaty Lviv,2010,Ukrainian
+13,13,Oleksiy Omelchenko,UKR,F,1.87,74,20-06-89,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+14,14,Ostap Tolochko,UKR,M,1.72,62,07-06-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+15,15,Taras Petrivskyy,UKR,D,1.84,77,03-02-84,Stryi,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+16,16,Ihor Khudobyak,UKR,M,1.75,66,20-02-85,Ivano-Frankivsk,Spartak Ivano-Frankivsk,Karpaty Lviv,2010,Ukrainian
+17,17,Oleh Holodyuk,UKR,M,1.77,70,02-01-88,Sobischytsi,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+18,18,Mykhaylo Kopolovets,UKR,M,1.71,68,29-01-84,Uzhgorod,Zakarpattya Uzhgorod,Karpaty Lviv,2010,Ukrainian
+19,19,Yaroslav Martynyuk,UKR,M,1.82,81,20-02-89,Vinnytsia,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+20,20,Ostap Fostyak,UKR,F,1.89,68,16-01-91,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+21,21,Gregor Balaic,SVN,D,1.90,83,12-02-88,Murska Sobota,Gorica,Karpaty Lviv,2010,Ukrainian
+22,22,Andriy Tlumak,UKR,G,1.88,75,07-03-79,Lviv,Zorya Luhansk,Karpaty Lviv,2010,Ukrainian
+24,24,Roman Dankovych,UKR,G,1.80,74,28-12-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+25,25,Andriy Tkachuk,UKR,M,1.81,71,18-11-87,Zhytomyr,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+29,29,Lucas,ESP,M,1.80,78,10-09-88,La Coruña,Rayo Vallecano,Karpaty Lviv,2010,Ukrainian
+31,31,Yaroslav Svorak,UKR,M,1.79,71,07-02-89,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+32,32,Martin  Bogatinov,MKD,G,1.89,80,26-04-86,Kratovo,Rabotnički Skopje,Karpaty Lviv,2010,Ukrainian
+36,36,Volodymyr Hudyma,UKR,F,1.60,55,20-07-90,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+37,37,Ihor Tistyk,UKR,M,1.76,59,27-05-89,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+38,38,Oleh  Tarasenko,UKR,D,1.90,73,23-06-90,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+39,39,Mykola Zhovtyuk,UKR,D,1.82,66,21-05-92,Novohrad-Volynskyi,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+40,40,Pavlo  Hordiychuk,UKR,F,1.75,66,04-08-90,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+41,41,Stepan Hirskyy,UKR,D,1.78,63,08-01-91,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+42,43,Ihor Ozarkiv,UKR,M,1.76,69,21-01-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+43,44,Artem Fedetskyy,UKR,D,1.83,76,26-04-85,Novovolynsk,Shakhtar Donetsk,Karpaty Lviv,2010,Ukrainian
+44,46,Oleh Bilyy,UKR,M,1.77,70,29-05-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+45,47,Valeriy  Doroshenko,UKR,D,1.78,68,01-01-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+46,48,Vitaliy Bilovus,UKR,M,1.73,70,17-02-91,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+47,49,Roman Botvynnyk,UKR,F,1.77,61,27-04-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+48,50,Roman Hudak,UKR,M,1.74,58,16-06-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+49,51,Serhiy  Zahidulin,UKR,F,1.80,72,26-03-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+50,52,Yuriy Kozel,UKR,F,1.85,73,29-04-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+51,53,Nazariy  Lazarskyy,UKR,G,1.85,74,16-04-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+52,54,Ihor Nahirnyy,UKR,G,1.83,71,01-09-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+53,55,Roman Podolyak,UKR,D,1.82,74,21-04-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+54,56,Yuriy Pokladok,UKR,M,1.65,58,21-04-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+55,57,Borja Gómez,ESP,D,1.83,81,14-05-88,Madrid,Rayo Vallecano,Karpaty Lviv,2010,Ukrainian
+56,59,Roman Kokotaylo,UKR,F,1.82,74,04-01-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+57,60,Volodymyr Kostevych,UKR,D,1.75,62,23-10-92,Zhovkva,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+58,61,Oleksandr  Kushnir,UKR,F,1.81,69,22-02-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+59,62,Yuriy Malakha,UKR,M,1.78,72,02-05-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+60,63,Oleksandr  Yaremchuk,UKR,F,1.82,70,31-10-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+61,64,Volodymyr  Bidlovskyy,UKR,M,1.74,65,31-05-88,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+62,65,Vadym Semchuk,UKR,F,1.82,71,24-11-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+63,66,Ihor Vahin,UKR,M,1.86,72,04-08-93,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+64,73,Yuriy Vasyltsov,UKR,M,1.82,76,09-09-91,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+65,74,Ihor Ilchyshyn,RUS,D,1.74,68,27-01-92,,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+66,79,Serhiy  Kuznetsov,UKR,F,1.89,83,31-08-82,Kharkiv,Nosta Novotroitsk,Karpaty Lviv,2010,Ukrainian
+67,80,William Batista,BRA,F,1.87,80,27-07-80,São Paulo,FC Kharkiv,Karpaty Lviv,2010,Ukrainian
+68,81,Răzvan  Cociş,ROU,F,1.81,72,19-02-83,Cluj-Napoca,Al-Nassr,Karpaty Lviv,2010,Ukrainian
+69,90,Alberto Thiago,BRA,M,1.82,77,21-12-84,São Paulo,Dinamo Bucureşti,Karpaty Lviv,2010,Ukrainian
+70,99,Yuriy Habovda,UKR,M,1.79,67,06-05-89,Mukachevo,Karpaty-2,Karpaty Lviv,2010,Ukrainian
+1,1,Andriy Fedorenko,UKR,G,1.87,81,09-01-84,Chernihiv,Desna Chernihiv,Kryvbas Kryvyi Rih,2010,Ukrainian
+2,2,Vyacheslav Ryabov,UKR,M,1.81,74,21-06-89,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+3,3,Vyacheslav Serdyuk,UKR,D,1.84,76,28-01-85,Shostka,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+5,5,Kyrylo Petrov,UKR,D,1.82,76,22-06-90,Kiev,Dynamo Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+6,6,Mykyta Solovyov,UKR,D,1.85,73,21-06-91,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+7,7,Serhiy Rozhok,UKR,M,1.84,75,25-04-85,Slavutych,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+8,8,Andrey Varankow,BLR,F,1.85,80,08-02-89,Mazyr,Dynamo Kiev-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+9,9,Jiří  Jeslínek,CZE,F,1.78,63,30-09-87,Prague,Sparta Prague,Kryvbas Kryvyi Rih,2010,Ukrainian
+10,10,Ruslan Kostyshyn,UKR,M,1.81,76,08-01-77,Khmelnitsky,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+11,11,Mladen Bartulović,CRO,M,1.82,82,05-10-86,Kakanj,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+14,14,Denys Vasyliev,UKR,M,1.85,75,08-05-87,,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+15,15,Vladyslav Sosedko,UKR,D,1.82,73,19-05-92,,Naftovyk-Ukrnafta,Kryvbas Kryvyi Rih,2010,Ukrainian
+16,16,Anton Klushyn,UKR,M,1.77,69,27-01-92,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+17,17,Michael Babatunde,NGA,M,1.79,76,24-12-92,Lagos,Heartland FC,Kryvbas Kryvyi Rih,2010,Ukrainian
+18,18,Stanislav Kovalenko,UKR,D,1.82,70,27-10-92,,Zakarpattya Uzhhorod,Kryvbas Kryvyi Rih,2010,Ukrainian
+20,20,Jaba Kankava,GEO,M,1.76,75,18-03-86,Tbilisi,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+22,22,Valeriy Kutsenko,UKR,M,1.74,68,02-11-86,Kremenchuh,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+23,23,Yevheniy Borovik,UKR,G,1.86,78,02-03-85,Pryluky,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+25,25,Oleksandr Zhdanov,UKR,D,1.82,74,27-05-84,Kharkiv,FC Lviv,Kryvbas Kryvyi Rih,2010,Ukrainian
+26,26,Roman Sakhno,UKR,M,1.79,71,21-05-90,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+27,27,Anatoliy Kitsuta,UKR,D,1.83,74,22-12-85,Kiev,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+28,28,Darijan Matič,SVN,M,1.75,76,28-05-83,Ljubljana,Bnei Sakhnin,Kryvbas Kryvyi Rih,2010,Ukrainian
+29,29,Mykola Lyashenko,UKR,M,1.82,72,15-04-91,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+30,30,Oleksandr Maksymov,UKR,F,1.85,76,13-02-85,Kharkiv,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+31,31,Maksym Adamenko,UKR,M,1.85,72,19-01-91,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+32,32,Rostyslav Dyakiv,UKR,F,1.81,74,17-08-90,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+33,33,Serhiy Danylovskyy,UKR,M,1.93,84,20-08-81,Tbilisi,Metalurh Donetsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+36,36,Oleksandr Antonenko,UKR,G,1.86,80,06-01-91,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+37,37,Valeriy Fedorchuk,UKR,M,1.78,68,05-10-88,Netishyn,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+38,38,Herman Horovoy,UKR,G,1.93,81,03-09-93,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+40,40,Illya Kovalenko,UKR,M,1.78,73,20-03-90,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+41,44,Vitaliy Lysytskyy,UKR,M,1.87,75,16-04-82,Svetlovodsk,Dnipro Dnipropetrovsk,Kryvbas Kryvyi Rih,2010,Ukrainian
+42,46,Maksym Bilyk,UKR,F,1.82,74,10-06-90,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+43,55,Artem Shtanko,UKR,G,1.86,78,06-09-80,Yuszno-Ukrainsk,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+44,58,Dmytro Vorobey,UKR,M,1.72,65,10-05-85,Mazyr,Illichivets Mariupol,Kryvbas Kryvyi Rih,2010,Ukrainian
+45,60,Maksym Oliynyk,UKR,D,1.80,73,18-05-92,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+46,61,Pavlo Misko,UKR,F,1.74,69,12-02-90,,Tavriya-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+47,62,Maksym Leshchenko,UKR,D,1.76,75,18-01-92,Kiev,Dynamo Kiev-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+48,64,Taras Stretovych,UKR,F,1.86,76,21-06-92,Kryvyi Rih,Dynamo Kiev-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+49,65,Vitaliy Olkhovskyy,UKR,F,1.89,79,06-04-93,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+50,67,Vladyslav Cukhorukov,UKR,M,1.81,72,09-01-93,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+51,70,Tymur Zakiryayev,UKR,F,1.85,76,07-05-93,,Kryvbas-2,Kryvbas Kryvyi Rih,2010,Ukrainian
+52,77,Oleksandr Ivashchenko,UKR,F,1.83,76,19-02-85,,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+53,85,Volodymyr Samborskyy,UKR,D,1.71,68,29-08-85,,FC Kharkiv,Kryvbas Kryvyi Rih,2010,Ukrainian
+54,88,Rinar Valeyev,UKR,F,1.73,65,22-08-87,Odessa,Obolon Kiev,Kryvbas Kryvyi Rih,2010,Ukrainian
+1,1,Maksym Startsev,UKR,G,1.90,80,20-01-80,Kherson,Tavriya Simferopol,Metalist Kharkiv,2010,Ukrainian
+2,2,Oleksandr Romanchuk,UKR,D,1.78,73,21-10-84,Kiev,Dynamo Kiev,Metalist Kharkiv,2010,Ukrainian
+3,3,Cristian  Villagra,ARG,D,1.72,72,27-12-85,Morteros,River Plate,Metalist Kharkiv,2010,Ukrainian
+4,4,Andriy Berezovchuk,UKR,D,1.78,71,16-04-81,Kharkiv,Metalurh Donetsk,Metalist Kharkiv,2010,Ukrainian
+5,5,Oleh Shelayev,UKR,M,1.81,74,05-11-76,Luhansk,Dnipro Dnipropetrovsk,Metalist Kharkiv,2010,Ukrainian
+7,7,Serhiy Valyayev,UKR,M,1.81,71,16-09-78,Makeevka,Kryvbas Kryvyi Rih,Metalist Kharkiv,2010,Ukrainian
+8,8,Edmar Aparecida,BRA,M,1.77,69,16-06-80,Mogi das Cruzes,Tavriya Simferopol,Metalist Kharkiv,2010,Ukrainian
+9,9,Andriy Vorobey,UKR,F,1.80,74,29-11-78,Donetsk,Dnipro Dnipropetrovsk,Metalist Kharkiv,2010,Ukrainian
+10,10,Cleiton Xavier,BRA,M,1.78,72,23-03-83,Alagoas,Desportivo Brasil,Metalist Kharkiv,2010,Ukrainian
+11,11,Denys Oliynyk,UKR,M,1.72,69,16-06-87,Zaporizhia,Dynamo Kiev,Metalist Kharkiv,2010,Ukrainian
+15,15,Fininho,BRA,D,1.80,75,03-11-83,São Paulo,Sport Recife,Metalist Kharkiv,2010,Ukrainian
+16,16,Anton Postupalenko,UKR,M,1.78,64,28-08-88,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+17,17,Serhiy Pshenychnykh,UKR,D,1.82,74,09-11-81,Kharkiv,Karpaty Lviv,Metalist Kharkiv,2010,Ukrainian
+19,19,Serhiy Barilko,UKR,M,1.74,68,05-01-87,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+21,21,Jonathan Cristaldo,ARG,F,1.78,70,05-03-89,Ingeniero  Budge,Vélez Sarsfield,Metalist Kharkiv,2010,Ukrainian
+22,22,Milan Obradović,SRB,D,1.82,73,03-08-77,Belgrade,Akratitos,Metalist Kharkiv,2010,Ukrainian
+23,23,Sebastián  Blanco,ARG,M,1.68,64,15-03-88,Lomas  de Zamora,Lanús,Metalist Kharkiv,2010,Ukrainian
+24,24,Yevhen Budnik,UKR,M,1.85,75,04-09-90,Lutsk,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+27,27,Yuriy Chonka,UKR,M,1.70,65,31-05-91,Velikaya Kopanya,Berehvideyk,Metalist Kharkiv,2010,Ukrainian
+29,29,Oleksandr Horyainov,UKR,G,1.88,77,29-06-75,Kharkiv,Kryvbas Kryvyi Rih,Metalist Kharkiv,2010,Ukrainian
+30,30,Papa Gueye,SEN,D,1.92,84,07-06-84,Dakar,Volyn Lutsk,Metalist Kharkiv,2010,Ukrainian
+32,32,Serhiy Zahynaylov,UKR,M,1.81,73,03-01-91,,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+33,33,Marko Dević,UKR,F,1.85,74,27-10-83,Belgrade,Volyn Lutsk,Metalist Kharkiv,2010,Ukrainian
+36,36,Artem Bobukh,UKR,D,1.92,81,04-12-88,Sumy,Feniks-Illichovets,Metalist Kharkiv,2010,Ukrainian
+37,37,Vitaliy Bordiyan,MDA,D,1.78,69,11-08-84,Chişinău,Lokomotiv Moscow,Metalist Kharkiv,2010,Ukrainian
+41,44,Ivan Voytenko,UKR,M,1.79,72,13-04-89,,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+42,46,Vladyslav Leonidov,UKR,G,1.82,73,11-02-90,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+43,65,Yevheniy Lozovyy,UKR,M,1.78,67,25-03-88,Shevchenkovo,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+44,70,Maksym Yakhno,UKR,D,1.75,64,03-04-88,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+45,71,Sergey Tkachev,RUS,M,1.83,77,19-05-89,Boguchar,Krylia Sovetov,Metalist Kharkiv,2010,Ukrainian
+46,72,Denys Sydorenko,UKR,G,1.85,75,18-04-89,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+47,75,Artur Denchuk,UKR,G,1.85,76,03-04-92,Kharkiv,Metalist Kharkiv-2,Metalist Kharkiv,2010,Ukrainian
+48,77,Taison,BRA,F,1.72,64,17-01-88,Pelotas,Internacional,Metalist Kharkiv,2010,Ukrainian
+49,80,Luká tetina,SVK,D,1.85,85,28-07-91,Nitra,Nitra,Metalist Kharkiv,2010,Ukrainian
+50,81,Vladimir Diljenković,UKR,G,1.88,84,02-07-81,Belgrade,Metalurh Donetsk,Metalist Kharkiv,2010,Ukrainian
+51,87,Vyacheslav  Sharpar,UKR,M,1.90,78,02-06-87,Zelenodolsk,Volyn Lutsk,Metalist Kharkiv,2010,Ukrainian
+1,1,Dmytro Nepohodov,UKR,G,1.96,90,17-02-88,Kiev,Marseille,Metalurh Donetsk,2010,Ukrainian
+2,2,Artem Baranovskyy,UKR,D,1.87,77,17-03-90,Krasnogorivka,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+3,3,Ihor Korotetskyy,UKR,D,1.88,78,13-09-87,Kharkiv,Shakhtar Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+4,4,Vyacheslav Checher,UKR,D,1.82,88,15-12-80,Donetsk,Kryvbas Kryvyi Rih,Metalurh Donetsk,2010,Ukrainian
+5,5,Dele Adeleye,NGA,D,1.89,76,25-12-88,Lagos,Sparta Rotterdam,Metalurh Donetsk,2010,Ukrainian
+6,6,Karlen Mkrtchyan,ARM,M,1.75,76,25-11-88,Yerevan,Pyunik,Metalurh Donetsk,2010,Ukrainian
+7,7,Moraes,BRA,F,1.76,70,04-04-87,Santos,Gloria Bistriţa,Metalurh Donetsk,2010,Ukrainian
+9,9,Djordje Lazić,SRB,M,1.81,77,18-06-83,Belgrade,Partizan Belgrade,Metalurh Donetsk,2010,Ukrainian
+10,10,Ricardo Fernandes,POR,M,1.74,65,21-04-78,Moreira de Cónegos,Hapoel Be'er Sheva,Metalurh Donetsk,2010,Ukrainian
+11,11,Artak Dashyan,ARM,M,1.81,74,20-11-89,Yerevan,Banants,Metalurh Donetsk,2010,Ukrainian
+12,12,Oleksandr Bandura,UKR,G,1.86,80,30-05-86,Hamaliyivka,Krymteplytsia Molodizhne,Metalurh Donetsk,2010,Ukrainian
+13,13,Serhiy Tkachenko,UKR,M,1.70,66,10-02-79,Kiev,Shakhtar Donetsk,Metalurh Donetsk,2010,Ukrainian
+14,14,Oleksandr Volovyk,UKR,D,1.85,68,28-10-85,Kamianets-Podilskyi,Podillya  Khmelnytskyi,Metalurh Donetsk,2010,Ukrainian
+15,15,Ciprian Tănasă,ROU,F,1.78,70,02-02-81,Fălticeni,Universitatea Craiova,Metalurh Donetsk,2010,Ukrainian
+16,16,Oleksandr Shevela,UKR,G,1.93,76,06-10-93,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+17,17,Zé Soares,BRA,M,1.73,67,26-07-83,Paulo Afonso,Levski Sofia,Metalurh Donetsk,2010,Ukrainian
+18,18,Velizar Dimitrov,BUL,M,1.76,69,13-04-79,Pernik,CSKA Sofia,Metalurh Donetsk,2010,Ukrainian
+20,20,China,POR,D,1.71,66,15-04-82,Beja,Belenenses,Metalurh Donetsk,2010,Ukrainian
+21,21,Yuriy Solomka,UKR,M,1.84,73,04-01-90,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+22,22,Fanendo Adi,NGA,F,1.92,90,10-10-90,Lagos,AS Trenčín,Metalurh Donetsk,2010,Ukrainian
+23,23,Marcin Kowalczyk,POL,D,1.83,83,09-04-85,Wieruszów,Dynamo Moscow,Metalurh Donetsk,2010,Ukrainian
+24,24,Vadym Voloshynskyy,UKR,F,1.84,75,19-02-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+25,25,Oleksandr Slobodyak,UKR,M,1.81,66,08-05-94,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+26,26,Kyrylo Nesterenko,UKR,M,1.82,74,01-03-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+27,27,Oleksiy Hodin,UKR,M,1.79,65,02-02-83,Zaporizhya,Metalurh Zaporizhya,Metalurh Donetsk,2010,Ukrainian
+28,28,Mário Sérgio,POR,D,1.74,70,28-07-81,Paredes,Naval,Metalurh Donetsk,2010,Ukrainian
+29,29,Denys Bilous,UKR,D,1.86,73,10-05-91,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+30,30,Mario  Djurovski,MKD,M,1.78,70,11-12-85,Belgrade,Vojvodina,Metalurh Donetsk,2010,Ukrainian
+31,31,Dmitriy Vorobyov,UKR,G,1.87,80,27-08-77,Krasnodar,Banants Yerevan,Metalurh Donetsk,2010,Ukrainian
+32,32,Oleksandr Kostyuk,UKR,D,1.72,62,07-02-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+33,33,Ruslan Mamutov,UKR,M,1.73,65,19-08-93,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+34,34,Vitaliy Tymofiyenko,UKR,M,1.77,62,04-01-93,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+35,35,Yevhen Troyanovskyy,UKR,M,1.76,68,02-07-93,Sloviansk,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+36,36,Mykyta Polyulyakh,UKR,M,1.82,69,15-03-93,Dniprodzerzhynsk,Dnipro-2,Metalurh Donetsk,2010,Ukrainian
+37,37,Yasyn Khamid,UKR,F,1.83,70,10-01-93,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+41,41,Kostyantyn Odolskyy,UKR,G,1.84,76,05-01-89,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+42,43,Pavlo Hryshchenko,UKR,M,1.75,70,06-07-90,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+43,44,Vasyl Pryima,UKR,D,1.85,74,10-06-91,Novoyavorivsk,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+44,46,Vitaliy Ivanko,UKR,F,1.78,64,09-04-92,Kharkiv,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+45,48,Maksym Davidchuk,UKR,D,1.86,76,26-06-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+46,49,Serhiy Atelkin,UKR,M,1.82,64,24-02-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+47,50,Anton Savin,UKR,M,1.74,69,07-02-90,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+48,55,Vitaliy Kvashuk,UKR,M,1.81,71,01-04-93,Kyiv,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+49,64,Herman Penkov,UKR,G,1.85,78,26-05-94,Makiivka,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+50,69,Anton Dolhyy,UKR,M,1.83,75,26-03-92,,Dynamo Kiev-2,Metalurh Donetsk,2010,Ukrainian
+51,70,Vadym Shabliy,UKR,M,1.77,64,23-09-89,,Vorskla Poltava,Metalurh Donetsk,2010,Ukrainian
+52,77,Mykola Morozyuk,UKR,M,1.76,70,17-01-88,Lviv,Dynamo Kiev,Metalurh Donetsk,2010,Ukrainian
+53,84,Denys Holaydo,UKR,M,1.69,62,03-06-84,Simferopol,Tavriya Simferopol,Metalurh Donetsk,2010,Ukrainian
+54,92,Anton Yashkov,UKR,G,1.85,71,30-01-92,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+55,93,Roman Debelko,UKR,F,1.84,77,08-08-93,Donetsk,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+56,94,Maksym Zaderaka,UKR,M,1.73,69,07-09-94,Oleksandriya,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+57,99,Oleh Myshchenko,UKR,F,1.80,72,10-10-89,,Metalurh Donetsk-2,Metalurh Donetsk,2010,Ukrainian
+1,1,Vitaliy Rudenko,UKR,G,1.82,73,26-01-81,Odessa,Karpaty Lviv,upl/metzapor.htm,2010,Ukrainian
+3,3,Matheus,BRA,D,1.90,86,08-03-85,Sete Lagoas,Democrata,upl/metzapor.htm,2010,Ukrainian
+4,4,Ivan Spychka,UKR,M,1.85,70,18-01-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+5,5,Vitaliy Vernydub,UKR,D,1.94,86,17-10-87,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+6,6,Oleksiy Moiseyenko,UKR,F,1.73,60,25-10-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+7,7,Paweł Hajduczek,POL,D,1.87,76,17-05-82,,Tavriya Simferopol,upl/metzapor.htm,2010,Ukrainian
+8,8,Dmytro Yeremenko,UKR,M,1.84,72,20-06-90,Kharkiv,Dynamo Kiev-2,upl/metzapor.htm,2010,Ukrainian
+9,9,Anderson Ribeiro,BRA,M,1.84,74,02-07-81,Porto Alegre,Tarxien Rainbows,upl/metzapor.htm,2010,Ukrainian
+10,10,Mindaugas Kalonas,LTU,M,1.70,69,28-02-84,Vilnius,Bohemians,upl/metzapor.htm,2010,Ukrainian
+11,11,Mohamed Achraf,TUN,M,1.82,74,24-10-80,Tunis,Stade Tunisien,upl/metzapor.htm,2010,Ukrainian
+12,12,Júnior,BRA,M,1.84,74,20-09-78,São Paulo,Zorya Luhansk,upl/metzapor.htm,2010,Ukrainian
+14,14,Denys Skepskyy,UKR,M,1.78,78,05-07-87,,Volgar-Gazprom,upl/metzapor.htm,2010,Ukrainian
+15,15,Fabio,POR,M,1.82,77,03-04-85,Lisbon,Sporting Espinho,upl/metzapor.htm,2010,Ukrainian
+16,16,Sead Ramović,BIH,G,1.90,90,14-03-79,Stuttgart,Sivasspor,upl/metzapor.htm,2010,Ukrainian
+17,17,Yevhen Shapoval,UKR,D,1.78,71,16-08-87,Kharkiv,Kremin Kremenchuk,upl/metzapor.htm,2010,Ukrainian
+18,18,Jef,BRA,M,1.80,76,13-02-89,Belo Horizonte,Internacional,upl/metzapor.htm,2010,Ukrainian
+19,19,Vasil Caraus,MDA,M,1.80,74,06-08-88,,Academia Chişinău,upl/metzapor.htm,2010,Ukrainian
+20,20,Yan Kovalevskyy,UKR,F,1.83,70,26-06-93,Zaporizhya,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+21,21,Andriy Nesterov,UKR,D,1.88,86,02-07-90,Zaporizhya,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+22,22,Andriy Tsurikov,UKR,M,1.85,78,05-10-92,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+23,23,Adolphe Teikeu,CMR,D,1.89,80,23-06-90,Bandjoun,Arsenal Yaoundé,upl/metzapor.htm,2010,Ukrainian
+24,24,Dmytro Bezotosnyy,UKR,G,1.94,82,15-11-83,Khmelnitsky,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+26,26,Yuriy Hlushko,UKR,F,1.86,81,05-02-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+28,28,Evheniy Zadoya,UKR,M,1.75,64,05-01-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+29,29,Rostyslav Pyevnyev,UKR,D,1.86,73,09-07-90,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+30,30,Artur Kaskov,UKR,F,1.81,72,18-11-91,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+31,31,Yevheniy Pisotsky,UKR,M,1.80,68,22-04-87,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+32,32,Serhiy Rudyka,UKR,D,1.87,74,14-06-88,Zaporizhya,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+33,33,Kyrylo Lobanov,UKR,D,1.83,74,26-12-85,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+34,34,Serhiy Sydorchuk,UKR,M,1.88,76,02-05-91,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+35,35,Volodymyr Zhuk,UKR,G,1.91,79,30-05-86,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+36,36,Maksym Vorobey,UKR,D,1.77,69,27-02-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+38,38,Fabiano,BRA,F,1.85,82,24-11-85,Campinas,Aris,upl/metzapor.htm,2010,Ukrainian
+39,39,Yevhen Opanasenko,UKR,D,1.72,57,25-08-90,Zaporizhya,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+41,43,Artem Protasevych,UKR,D,1.82,75,05-07-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+42,46,Artur Yahmuryan,UKR,F,1.72,65,04-03-91,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+43,50,Yehor Popovych,UKR,G,1.89,84,07-01-92,,Metalurh Zaporizhya-2,upl/metzapor.htm,2010,Ukrainian
+44,99,Mohamed Arouri,TUN,D,1.82,75,13-05-83,Tunis,Ordabasy,upl/metzapor.htm,2010,Ukrainian
+1,1,Oleksandr Rybka,UKR,G,1.93,92,10-04-87,Kiev,Dynamo Kiev,Obolon Kiev,2010,Ukrainian
+2,2,Yuriy Putrash,UKR,D,1.78,70,29-01-90,Mizhhiria,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+3,3,Vadym Rodina,UKR,D,1.83,77,24-03-88,Kiev,Dynamo Kiev-2,Obolon Kiev,2010,Ukrainian
+4,4,Vadym Sapay,UKR,D,1.78,75,07-02-86,Yuzhnoukrainsk,Stal Alchevsk,Obolon Kiev,2010,Ukrainian
+5,5,Oleksandr Mandzyuk,UKR,F,1.78,72,10-01-83,Vilino,FC Lviv,Obolon Kiev,2010,Ukrainian
+6,6,Hryhoriy Baranets,UKR,M,1.77,70,22-07-86,Lviv,Karpaty Lviv,Obolon Kiev,2010,Ukrainian
+7,7,Yevheniy Lozinskyy,UKR,D,1.88,73,07-02-82,Lviv,Metalurh Zaporizhya,Obolon Kiev,2010,Ukrainian
+8,8,Serhiy Sibiryakov,UKR,M,1.76,70,01-01-82,Kharkiv,Tavryia Simferopol,Obolon Kiev,2010,Ukrainian
+9,9,Ihor Ilkiv,UKR,D,1.82,75,15-03-85,Lviv,FC Lviv,Obolon Kiev,2010,Ukrainian
+10,10,Serhiy Kucherenko,UKR,M,1.70,65,07-01-84,,Krymteplytsia Molodizhne,Obolon Kiev,2010,Ukrainian
+11,11,Vadym Panas,UKR,M,1.77,70,23-05-85,Vilkhivka,FC Lviv,Obolon Kiev,2010,Ukrainian
+14,14,Valentyn Slyusar,UKR,M,1.85,81,15-09-77,Kiev,Metalist Kharkiv,Obolon Kiev,2010,Ukrainian
+15,15,Vladyslav Lupashko,UKR,M,1.78,71,04-12-86,Bilhorod-Dnistrovskyi,FC Lviv,Obolon Kiev,2010,Ukrainian
+17,17,Oleksandr Bondarenko,UKR,F,1.80,77,28-07-89,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+18,18,Oleksandr Tolstyak,UKR,M,1.84,75,04-02-90,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+19,19,Borys Baranets,UKR,M,1.75,69,22-07-86,Lviv,Karpaty Lviv,Obolon Kiev,2010,Ukrainian
+20,20,Vitaliy Sokurenko,UKR,M,1.82,80,13-05-91,Kiev,Dynamo Kiev,Obolon Kiev,2010,Ukrainian
+21,21,Anton Shevchuk,UKR,F,1.82,65,08-02-90,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+22,22,Ihor Berezovskyy,UKR,G,1.94,83,24-08-90,Kirovohrad,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+23,23,Oleh Karamushka,UKR,D,1.87,79,30-04-84,Borispol,Tavriya Simferopol,Obolon Kiev,2010,Ukrainian
+24,24,Ivan Kotenko,UKR,M,1.79,73,28-04-85,Borodyanka,Oleksandria,Obolon Kiev,2010,Ukrainian
+25,25,Oleh Mazurenko,UKR,M,1.78,74,08-11-77,Kiev,Desna Chernihiv,Obolon Kiev,2010,Ukrainian
+27,27,Pavlo Khudzik,UKR,F,1.79,71,29-04-85,Teofipol,FC Lviv,Obolon Kiev,2010,Ukrainian
+29,29,Oleh Leonidov,UKR,M,1.82,73,16-08-85,Dnipropetrovsk,FC Lviv,Obolon Kiev,2010,Ukrainian
+32,32,Ihor Plastun,UKR,M,1.90,70,20-08-90,Kyiv,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+41,42,Mykhaylo Kovalenko,UKR,M,1.78,71,18-03-91,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+42,43,Oleksiy Maydanevych,UKR,D,1.81,70,18-07-91,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+43,45,Irakli Meskhiya,UKR,M,1.81,75,07-01-93,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+44,46,Dmytro Ostapenko,UKR,M,1.82,72,26-01-92,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+45,47,Oleksiy Cheremisin,UKR,M,1.78,67,04-01-91,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+46,50,Kostyantyn Makhnovskyy,UKR,G,1.90,80,01-01-90,Horodysche,Legia Warszawa,Obolon Kiev,2010,Ukrainian
+47,51,Oleksandr Semenov,UKR,M,1.79,68,09-02-93,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+48,54,Vitaliy Onopko,UKR,G,1.87,74,15-07-91,,Vorskla Poltava,Obolon Kiev,2010,Ukrainian
+49,56,Oleksiy Pospyelov,UKR,M,1.75,64,10-09-90,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+50,57,Oleksiy Prylepov,UKR,M,1.86,75,04-02-91,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+51,58,Ivan Shkavron,UKR,D,1.89,84,19-03-92,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+52,72,Vasyl Lytvynenko,UKR,G,1.92,84,03-10-91,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+53,77,Pavlo Kutas,UKR,D,1.74,74,03-09-82,,SKA-Energia,Obolon Kiev,2010,Ukrainian
+54,87,Yuriy Yakovenko,UKR,F,1.94,75,03-09-93,Montbéliard,Arsenal Kiev-2,Obolon Kiev,2010,Ukrainian
+55,88,Valeriy Zavarov,UKR,M,1.75,71,16-08-88,Kyiv,Arsenal Kiev,Obolon Kiev,2010,Ukrainian
+56,90,Kyrylo Silich,UKR,M,1.82,73,03-08-90,,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+57,99,Yevhen Zarichnyuk,UKR,D,1.75,74,03-02-89,Kyiv,Obolon Kiev-2,Obolon Kiev,2010,Ukrainian
+1,1,Oleksandr  Sokorenko,UKR,G,1.85,78,23-02-76,Kharkiv,Krymteplytsia Molodizhne,Sevastopol,2010,Ukrainian
+2,2,Yuriy Pleshakov,UKR,F,1.87,84,29-08-88,Sevastopol,Metalist Kharkiv,Sevastopol,2010,Ukrainian
+3,3,Oleh Shandruk,UKR,D,1.79,72,30-01-83,Smyha,Volyn Lutsk,Sevastopol,2010,Ukrainian
+4,4,Igor Duljaj,SRB,M,1.75,72,29-10-79,Topola,Shakhtar Donetsk,Sevastopol,2010,Ukrainian
+5,5,Oleksandr Shevelyukhin,UKR,D,1.92,85,27-08-82,Uzhgorod,Volyn Lutsk,Sevastopol,2010,Ukrainian
+6,6,Yevhen Bredun,UKR,M,1.81,70,10-09-82,Kramatorsk,Gomel,Sevastopol,2010,Ukrainian
+7,7,Alexander Mladenov,BUL,F,1.88,77,25-06-82,Sofia,Kaliakra,Sevastopol,2010,Ukrainian
+8,8,Roman Voynarovskyy,UKR,M,1.74,70,05-01-80,,Desna Chernihiv,Sevastopol,2010,Ukrainian
+9,9,Andriy  Kyva,UKR,M,1.74,64,21-11-89,Sevastopol,Hazovyk-KhGV Kharkiv,Sevastopol,2010,Ukrainian
+10,10,Oleksandr Zhabokrytskyy,UKR,M,1.74,71,29-01-81,Uman,Slavutych,Sevastopol,2010,Ukrainian
+11,11,Taofik Salhi,TUN,M,1.75,66,21-08-79,Tunis,Ordabasy,Sevastopol,2010,Ukrainian
+13,13,Oleh Polischuk,UKR,D,1.70,60,17-04-91,Igarka,Dynamo Kiev-3,Sevastopol,2010,Ukrainian
+14,14,Andriy Shevchuk,UKR,F,1.78,75,12-08-85,Korosten,Sevastopol-2,Sevastopol,2010,Ukrainian
+15,15,Andriy  Stepanov,UKR,D,1.92,83,11-06-78,Sevastopol,Volyn Lutsk,Sevastopol,2010,Ukrainian
+16,16,Syarhey Vyeramko,BLR,G,1.90,90,16-10-82,Minsk,BATE,Sevastopol,2010,Ukrainian
+17,17,Mariusz Lewandowski,POL,D,1.85,84,18-05-79,Legnica,Shakhtar Donetsk,Sevastopol,2010,Ukrainian
+18,18,Serhiy Ferenchak,UKR,M,1.78,70,27-04-84,Sevastopol,Tavriya Simferopol,Sevastopol,2010,Ukrainian
+20,20,Besart Ibraimi,MKD,F,1.82,76,17-12-86,Kičevo,Schalke,Sevastopol,2010,Ukrainian
+22,22,Oleh Dopilka,UKR,D,1.81,69,12-03-86,Kiev,Dynamo Kiev,Sevastopol,2010,Ukrainian
+23,23,Ihor Khudobyak,UKR,F,1.86,84,05-04-87,Ivano-Frankivsk,Prykarpattya Ivano-Frankivsk,Sevastopol,2010,Ukrainian
+24,24,Serhiy Voronin,UKR,D,1.83,75,24-03-87,Kyiv,Nyva Vinnytsia,Sevastopol,2010,Ukrainian
+28,28,Vitaliy  Charkovskyy,UKR,D,1.87,71,19-01-91,,Sevastopol-2,Sevastopol,2010,Ukrainian
+30,30,Vadim Bolohan,MDA,D,1.86,78,15-08-86,Sîngerei,Zakarpattya Uzhhorod,Sevastopol,2010,Ukrainian
+41,55,Julius Aghahowa,NGA,F,1.79,73,12-02-82,Benin City,Shakhtar Donetsk,Sevastopol,2010,Ukrainian
+42,66,Ivan Shyshkin,UKR,D,1.85,75,16-09-83,Magdeburg,Sevastopol-2,Sevastopol,2010,Ukrainian
+43,72,Ihor Lytovka,UKR,G,1.87,76,05-06-88,Nikopol,Elektrometalurh-NZF Nikopol,Sevastopol,2010,Ukrainian
+44,77,Mate  Ghvinianidze,GEO,D,1.89,81,10-12-86,Tbilisi,1860 Munich,Sevastopol,2010,Ukrainian
+45,88,Ihor Skoba,UKR,M,1.86,83,21-05-82,Kiev,Volyn Lutsk,Sevastopol,2010,Ukrainian
+46,99,Michael Chidi Alozi,NGA,F,1.82,80,16-10-86,Lagos,Metalurh Zaporizhya,Sevastopol,2010,Ukrainian
+3,3,Tomá Hübschman,CZE,D,1.80,74,04-09-81,Prague,Sparta Prague,Shakhtar Donetsk,2010,Ukrainian
+5,5,Oleksandr Kucher,UKR,D,1.84,77,22-10-82,Kiev,Metalist Kharkiv,Shakhtar Donetsk,2010,Ukrainian
+7,7,Fernandinho,BRA,M,1.76,67,04-05-85,Londrina,Atlético Paranaense,Shakhtar Donetsk,2010,Ukrainian
+8,8,Jadson,BRA,M,1.68,67,05-10-83,Londrina,Atlético Paranaense,Shakhtar Donetsk,2010,Ukrainian
+9,9,Luiz Adriano,BRA,F,1.82,71,12-04-87,Porto Alegre,Internacional,Shakhtar Donetsk,2010,Ukrainian
+10,10,Willian,BRA,M,1.74,70,09-08-88,Ribeirão Pires,Corinthians,Shakhtar Donetsk,2010,Ukrainian
+11,11,Eduardo,CRO,F,1.77,70,25-02-83,Rio de Janeiro,Arsenal,Shakhtar Donetsk,2010,Ukrainian
+12,12,Rustam Khudzhamov,UKR,G,1.91,85,05-10-82,Skvyra,FC Kharkiv,Shakhtar Donetsk,2010,Ukrainian
+13,13,Vyacheslav Shevchuk,UKR,D,1.84,82,13-05-79,Lutsk,Dnipro Dnipropetrovsk,Shakhtar Donetsk,2010,Ukrainian
+14,14,Vasyl Kobin,UKR,M,1.78,74,24-05-85,Uzhgorod,Karpaty Lviv,Shakhtar Donetsk,2010,Ukrainian
+15,15,Taras Stepanenko,UKR,M,1.81,75,08-08-89,Velyka Novosilka,Metalurh Zaporizhya,Shakhtar Donetsk,2010,Ukrainian
+19,19,Oleksiy Hay,UKR,M,1.81,73,06-11-82,Zaporozhye,Illichivets Mariupol,Shakhtar Donetsk,2010,Ukrainian
+20,20,Douglas Costa,BRA,M,1.70,63,14-09-90,Sapucaia do Sul,Grêmio,Shakhtar Donetsk,2010,Ukrainian
+22,22,Henrikh Mkhitaryan,ARM,M,1.74,74,21-01-89,Yerevan,Metalurh Donetsk,Shakhtar Donetsk,2010,Ukrainian
+26,26,Răzvan Raţ,ROU,D,1.78,72,26-05-81,Slatina,Rapid Bucureşti,Shakhtar Donetsk,2010,Ukrainian
+27,27,Dmytro Chygrynskiy,UKR,D,1.90,81,07-11-86,Izyaslav,Barcelona,Shakhtar Donetsk,2010,Ukrainian
+29,29,Alex Teixeira,BRA,M,1.73,68,06-01-90,Duque de Caxias,Vasco da Gama,Shakhtar Donetsk,2010,Ukrainian
+30,30,Andriy Pyatov,UKR,G,1.90,78,28-06-84,Kirovohrad,Vorskla Poltava,Shakhtar Donetsk,2010,Ukrainian
+32,32,Mykola Ishchenko,UKR,D,1.82,75,09-03-83,Kiev,Karpaty Lviv,Shakhtar Donetsk,2010,Ukrainian
+33,33,Darijo Srna,CRO,D,1.82,78,01-05-82,Metković,Hajduk Split,Shakhtar Donetsk,2010,Ukrainian
+35,35,Yuriy Virt,UKR,G,1.82,82,04-05-74,Donetsk,Metalurh Donetsk,Shakhtar Donetsk,2010,Ukrainian
+36,36,Oleksandr Chyzhov,UKR,M,1.86,78,10-08-86,Poltava,Vorskla Poltava,Shakhtar Donetsk,2010,Ukrainian
+37,37,Bruno Renan,BRA,M,1.76,71,19-04-91,Porto Alegre,Villarreal B,Shakhtar Donetsk,2010,Ukrainian
+38,38,Serhiy Kryvtsov,UKR,D,1.86,76,15-03-91,Zaporozhye,Metalurh Zaporizhya,Shakhtar Donetsk,2010,Ukrainian
+41,43,Oleksandr Batyshchev,UKR,M,1.74,64,14-09-91,,Zorya Luhansk,Shakhtar Donetsk,2010,Ukrainian
+42,44,Yaroslav Rakytskyy,UKR,D,1.80,70,03-08-89,Pershotravensk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+43,45,Vyacheslav Bazilevych,UKR,G,1.82,74,07-08-90,Simferopol,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+44,46,Oleksiy Chereda,UKR,M,1.82,72,18-04-94,Chernihiv,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+45,47,Maksym Zhychykov,UKR,D,1.78,70,07-11-92,Krasnopavlivka,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+46,48,Maksym Ilyuk,UKR,F,1.80,69,10-11-90,Krasnoyilsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+47,49,Maksym Imerekov,UKR,D,1.85,74,23-01-91,Makiivka,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+48,50,Vladyslav Kulach,UKR,F,1.77,73,07-05-93,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+49,51,Hennadiy Klymenko,UKR,D,1.75,67,03-11-89,Novomoskovsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+50,52,Serhiy Zaika,UKR,M,1.77,65,27-01-91,Izyaslav,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+51,54,Leonid Akulinin,UKR,F,1.94,82,07-03-93,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+52,56,Oleksandr Ovchynnikov,UKR,F,1.67,52,27-01-91,Kherson,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+53,57,Yaroslav Oliynyk,UKR,D,1.81,78,14-03-91,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+54,58,Denys Pshenychnyy,UKR,F,1.81,66,03-01-89,Krasnyy Luch,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+55,59,Oleksandr Karavayev,UKR,F,1.75,68,02-06-92,Kherson,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+56,60,Artem Tetenko,UKR,G,1.93,88,12-02-91,Stakhanov,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+57,62,Mykyta Kryukov,UKR,G,1.97,85,03-04-91,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+58,63,Vladyslav Nekhtiy,UKR,F,1.81,62,19-12-91,Horlivka,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+59,64,Ruslan Kisil,UKR,F,1.85,75,23-10-91,Novodonetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+60,65,Maksym Malyshev,UKR,D,1.81,76,24-12-92,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+61,67,Vyacheslav Churko,UKR,M,1.80,70,10-05-93,Uzhgorod,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+62,68,Ivan Lukanyuk,UKR,F,1.77,68,05-02-93,Ivano-Frankovsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+63,71,Serhiy Harashchenkov,UKR,D,1.84,80,16-05-90,Novohrodivka,Shakhtar Donetsk-2,Shakhtar Donetsk,2010,Ukrainian
+64,90,Vitaliy Vytsenets,UKR,F,1.82,69,03-08-90,Pershotravnevsk,Zorya Luhansk,Shakhtar Donetsk,2010,Ukrainian
+65,99,Marcelo Martins Moreno,BOL,F,1.87,82,18-06-87,Santa Cruz de la Sierra,Cruzeiro,Shakhtar Donetsk,2010,Ukrainian
+1,1,Damir  Kahriman,SRB,G,1.91,83,19-11-84,Belgrade,Javor Ivanjica,Tavriya Simferopol,2010,Ukrainian
+2,2,Leandro Messias,BRA,D,1.82,76,29-12-83,Rio de Janeiro,Zakarpattya Uzhhorod,Tavriya Simferopol,2010,Ukrainian
+3,3,Piotr Klepczarek I,POL,M,1.80,72,13-08-82,Łódź,Jagiellonia Białystok,Tavriya Simferopol,2010,Ukrainian
+4,4,Andriy Donets,UKR,D,1.88,78,03-01-81,Volochisk,Zakarpattya Uzhgorod,Tavriya Simferopol,2010,Ukrainian
+5,5,Slobodan Marković,SRB,M,1.84,78,09-11-78,Zagreb,Vojvodina,Tavriya Simferopol,2010,Ukrainian
+6,6,Saa Djuričić,BIH,D,1.81,80,01-08-79,Sarajevo,Vorskla Poltava,Tavriya Simferopol,2010,Ukrainian
+7,7,Ivan Graf,CRO,D,1.93,83,17-06-87,Zagreb,Primorje,Tavriya Simferopol,2010,Ukrainian
+8,8,Andriy Kornyev,UKR,M,1.80,74,01-11-78,Kiev,Chernomorets Odessa,Tavriya Simferopol,2010,Ukrainian
+9,9,Stanislav Prychynenko,UKR,M,1.79,61,26-06-91,Simferopol,Shakhtar Donetsk-2,Tavriya Simferopol,2010,Ukrainian
+10,10,Isi Lucky Idahor,NGR,F,1.90,82,30-08-80,Benin City,Karpaty Lviv,Tavriya Simferopol,2010,Ukrainian
+11,11,Anton Monakhov,UKR,D,1.94,83,31-01-82,Zaporozhye,Naftovyk-Ukrnafta,Tavriya Simferopol,2010,Ukrainian
+12,12,Dmytro Stoyko,UKR,G,1.92,90,03-02-75,Oleksandria,FC Kharkiv,Tavriya Simferopol,2010,Ukrainian
+14,14,Volodymyr Korobka,UKR,M,1.84,73,22-07-89,Dnipropetrovsk,Dnipro-2,Tavriya Simferopol,2010,Ukrainian
+15,15,Yevhen Lutsenko,UKR,M,1.72,66,10-11-80,Kiev,Chornomorets Odessa,Tavriya Simferopol,2010,Ukrainian
+16,16,Ayodeji Brown,NGA,D,1.82,73,12-09-88,Zaria,Gateway,Tavriya Simferopol,2010,Ukrainian
+17,17,Anton Shynder,UKR,F,1.90,88,13-06-87,Sumy,Jahn Regensburg,Tavriya Simferopol,2010,Ukrainian
+18,18,Ivan Matyazh,UKR,M,1.88,80,15-02-88,Donetsk,Olimpik Donetsk,Tavriya Simferopol,2010,Ukrainian
+19,19,Ilya Haliuza,UKR,M,1.76,72,16-11-79,Arkhangelsk,iauliai,Tavriya Simferopol,2010,Ukrainian
+20,20,Vasil Gigiadze,GEO,F,1.83,77,03-06-77,Batumi,Naftovyk-Ukrnafta,Tavriya Simferopol,2010,Ukrainian
+21,21,Vitaliy Postranskyy,UKR,G,1.90,87,02-08-77,Ivano-Frankivsk,Simurq,Tavriya Simferopol,2010,Ukrainian
+22,22,eljko Ljubenović,SRB,M,1.83,77,09-07-81,Belgrade,Kryvbas Kryvyi Rih,Tavriya Simferopol,2010,Ukrainian
+23,23,Matija pičić,CRO,M,1.73,75,24-02-88,Zagreb,Zagreb,Tavriya Simferopol,2010,Ukrainian
+24,24,Ruslan Platon,UKR,F,1.82,75,12-01-82,Storozhynets,FC Kharkiv,Tavriya Simferopol,2010,Ukrainian
+25,25,Volodymyr Melnychenko,UKR,G,1.86,82,11-02-90,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+27,27,Oleksandr Artemenko,UKR,M,1.81,78,19-01-87,Simferopol,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+28,28,Maksym Feshchuk,UKR,F,1.83,74,25-11-85,Brody,Karpaty Lviv,Tavriya Simferopol,2010,Ukrainian
+29,29,Oleksandr Kablash,UKR,M,1.84,74,05-09-89,Odessa,Ekranas,Tavriya Simferopol,2010,Ukrainian
+30,30,Oleh Humenyuk,UKR,M,1.78,66,03-05-83,Odessa,Bastion Illichivsk,Tavriya Simferopol,2010,Ukrainian
+31,31,Serhiy Sitalo,UKR,G,1.90,87,20-12-86,Kharkiv,Stal Alchevsk,Tavriya Simferopol,2010,Ukrainian
+32,32,Arsentiy Pelyushenko,UKR,D,1.85,80,02-11-90,,Obolon Kiev-2,Tavriya Simferopol,2010,Ukrainian
+33,33,Petro Oparin,UKR,D,1.84,76,13-05-91,Donetsk,Shakhtar Donetsk-2,Tavriya Simferopol,2010,Ukrainian
+34,34,Maksym Prykhodnoy,UKR,F,1.76,70,27-10-92,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+35,35,Ihor Solntsev,UKR,M,1.86,80,08-10-89,Simferopol,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+36,36,Ivan Marchenko,UKR,D,1.73,68,11-05-90,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+37,37,Kyrylo Davydov,UKR,M,1.77,74,06-11-88,Simferopol,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+38,38,Denys Rozum,UKR,D,1.94,83,16-11-90,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+39,39,Aleksandr Honcharenko,UKR,M,1.83,75,04-03-92,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+40,40,Denys Isayev,UKR,M,1.77,72,17-11-93,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+41,41,Andriy Demchevskyy,UKR,G,1.91,79,08-02-90,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+42,42,Volodymyr Nechaev,UKR,M,1.76,72,08-04-94,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+43,43,Ruslan Stepanyuk,UKR,F,1.79,70,16-01-92,Nikopol,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+44,45,Dmitriy Kharchenko,UKR,M,1.75,68,12-05-89,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+45,47,Mykhaylo Barinov,UKR,D,1.84,77,30-10-91,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+46,51,Kyrylo Smihunov,UKR,M,1.87,70,13-10-92,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+47,53,Vladyslav Kobzistyy,UKR,D,1.82,74,03-03-89,Kharkiv,Metalist Kharkiv-2,Tavriya Simferopol,2010,Ukrainian
+48,55,Viktor Horbatko,UKR,M,1.80,70,09-10-90,,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+49,56,Serhiy Melnyk,UKR,F,1.84,75,25-06-93,Simferopol,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+50,57,Dmytro Matviyenko,UKR,D,1.81,71,25-05-92,Saky,Tavriya-2,Tavriya Simferopol,2010,Ukrainian
+51,69,Rollan Pohoreltsev,UKR,D,1.88,80,16-07-90,Saky,Krymteplytsia Molodizhne,Tavriya Simferopol,2010,Ukrainian
+1,1,Issa Ndoye,SEN,G,2.01,98,12-12-85,Thiès,Zob Ahan,Volyn Lutsk,2010,Ukrainian
+3,3,Serhiy Siminin,UKR,D,1.79,75,09-10-87,Prymorsk,Helios Kharkiv,Volyn Lutsk,2010,Ukrainian
+4,4,Bohdan  Karkovskyy,UKR,D,1.89,76,29-01-88,Lviv,Rava Rava-Ruska,Volyn Lutsk,2010,Ukrainian
+5,5,Ramon Lopes,BRA,M,1.85,74,07-08-89,Belo Horizonte,Cruzeiro,Volyn Lutsk,2010,Ukrainian
+7,7,Vitaliy Hoshkoderya,UKR,D,1.84,73,08-01-88,Donetsk,Shakhtar Donetsk,Volyn Lutsk,2010,Ukrainian
+8,8,Oleh Zhenyukh,UKR,M,1.87,77,22-03-87,,Karpaty Lviv,Volyn Lutsk,2010,Ukrainian
+9,9,Oleh Herasymyuk,UKR,M,1.80,72,25-09-86,Volodymyr-Volynskyy,Dynamo Kiev-2,Volyn Lutsk,2010,Ukrainian
+10,10,Volodymyr Lysenko,UKR,F,1.83,77,20-04-88,Kiev,Metalist Kharkiv,Volyn Lutsk,2010,Ukrainian
+14,14,Vladyslav Vashchuk,UKR,D,1.80,72,02-01-75,Kiev,Chernomorets  Odessa,Volyn Lutsk,2010,Ukrainian
+15,15,Roman Maksymyuk,UKR,M,1.88,81,14-06-74,Bytkiv,Chernomorets  Odessa,Volyn Lutsk,2010,Ukrainian
+16,16,Adrian Neaga,ROU,F,1.78,72,04-06-79,Piteşti,Unirea Urziceni,Volyn Lutsk,2010,Ukrainian
+17,17,Yevhen  Pavlov,UKR,F,1.85,67,12-03-91,Sevastopol,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+18,18,Vitaliy  Pryndeta,UKR,M,1.95,76,02-02-93,Dubno,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+21,21,Yaroslav Kinash,UKR,M,1.82,63,16-04-88,Lviv,Galicia Drohobych,Volyn Lutsk,2010,Ukrainian
+23,23,Oleksandr  Markovets,UKR,M,1.89,76,26-12-93,Lutsk,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+24,24,Silviu Izvoranu,ROU,D,1.85,80,02-12-83,Galaţi,Universitatea Cluj,Volyn Lutsk,2010,Ukrainian
+25,25,Anton  Stashevskyy,UKR,D,1.80,68,12-01-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+26,26,Oleksiy Babyr,UKR,F,1.88,78,15-03-90,Simferopol,Krymteplytsia Molodizhne,Volyn Lutsk,2010,Ukrainian
+27,27,Vasyl Zhuk,UKR,M,1.79,61,01-01-91,Sosnivka,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+28,28,Roman Karasyuk,UKR,M,1.84,74,27-03-91,Volodymyr-Volynskyy,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+29,29,Andriy Hrinchenko,UKR,D,1.81,77,23-01-86,Ternopil,Zorya Luhansk,Volyn Lutsk,2010,Ukrainian
+30,30,Serhiy  Podryhulya,UKR,M,1.84,73,05-02-92,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+31,31,Yevhen Pichkur,UKR,M,1.82,75,30-08-79,,Desna Chernihiv,Volyn Lutsk,2010,Ukrainian
+33,33,Pavlo  Tsyrkunenko,UKR,D,1.98,81,10-07-91,Kiev,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+34,34,Sorin Paraschiv,ROU,M,1.76,71,17-06-81,Alexandria,Unirea Urziceni,Volyn Lutsk,2010,Ukrainian
+35,35,Saa Stević,BIH,D,1.90,80,31-05-81,Banja Luka,Ceahlăul Piatra-Neamţ,Volyn Lutsk,2010,Ukrainian
+36,36,Roman Hodovanyy,UKR,D,1.86,75,04-10-90,Ternopil,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+37,37,Bohdan Butko,UKR,D,1.80,68,13-01-91,Donetsk,Shakhtar Donetsk-2,Volyn Lutsk,2010,Ukrainian
+39,39,Maksym  Kostyuchenko,UKR,M,1.87,79,05-08-90,,Zirka Kirovohrad,Volyn Lutsk,2010,Ukrainian
+40,40,Roman Shtohrin,UKR,F,1.90,78,30-06-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+41,42,Vitaliy Nedilko,UKR,G,1.89,81,21-08-82,Sloviansk,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+42,43,Pavlo Kotur,UKR,M,1.82,69,12-07-92,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+43,44,Yevheniy Soslyuk,UKR,G,1.90,76,07-06-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+44,45,Yuriy Krymnyuk,UKR,D,1.81,73,13-05-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+45,46,Petro Petruk,UKR,F,1.86,74,25-01-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+46,47,Andriy Hrysyuk,UKR,D,1.80,69,03-01-92,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+47,48,Viktor Ryashko,UKR,M,1.87,68,27-11-92,,Zakarpattya-2,Volyn Lutsk,2010,Ukrainian
+48,49,Voldymyr  Starosta,UKR,D,1.88,78,24-09-93,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+49,50,Volodymyr  Badenchuk,UKR,M,1.80,70,06-08-92,,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+50,51,Roman Nykytyuk,UKR,D,1.91,83,09-09-93,Lutsk,Volyn Lutsk-2,Volyn Lutsk,2010,Ukrainian
+51,73,Dmytro Zozulya,UKR,D,1.89,80,09-06-88,Kiev,FC Lviv,Volyn Lutsk,2010,Ukrainian
+52,77,Cornel Buta,ROU,D,1.77,70,01-11-77,Găgeşti,Politehnica Iaşi,Volyn Lutsk,2010,Ukrainian
+53,78,Serhiy Litovchenko,UKR,G,1.92,86,04-10-87,Kharkiv,Feniks-Illichovets,Volyn Lutsk,2010,Ukrainian
+54,99,Oleksandr  Pyshchur,UKR,F,1.96,91,26-01-81,Poltava,MFK Ruomberok,Volyn Lutsk,2010,Ukrainian
+1,1,Serhiy Dolhanskyy,UKR,G,1.88,81,15-09-74,Zdolbuniv,Metalurh Donetsk,Vorskla Poltava,2010,Ukrainian
+2,2,Oleksandr Matvyevev,UKR,D,1.81,73,11-02-89,Poltava,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+3,3,Serhiy Vovkodav,UKR,D,1.83,77,02-07-88,Lubny,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+4,4,Armend Dallku,ALB,M,1.87,82,16-06-83,Pritina,KS Elbasani,Vorskla Poltava,2010,Ukrainian
+5,5,Oleh Krasnoperov,UKR,M,1.73,65,25-07-80,Poltava,Illichivets Mariupol,Vorskla Poltava,2010,Ukrainian
+7,7,Jovan Markoski,SRB,M,1.75,65,23-06-80,Belgrade,Zeta Golubovci,Vorskla Poltava,2010,Ukrainian
+8,8,Denys Kulakov,UKR,M,1.82,76,01-05-86,Donetsk,Shakhtar Donetsk,Vorskla Poltava,2010,Ukrainian
+9,9,Roman Bezus,UKR,F,1.85,78,26-09-90,Kremenchuk,Kremin Kremenchuk,Vorskla Poltava,2010,Ukrainian
+12,12,Serhiy Velychko,UKR,G,1.84,70,09-08-76,Simferopol,Naftovyk-Ukrnafta Okhtyrka,Vorskla Poltava,2010,Ukrainian
+13,13,Yevhen Pyeskov,UKR,M,1.86,77,22-09-81,Zaporozhye,Sevastopol,Vorskla Poltava,2010,Ukrainian
+14,14,Dmitry Osipenko,BLR,F,1.70,69,12-12-82,Minsk,FC Minsk,Vorskla Poltava,2010,Ukrainian
+15,15,Vyacheslav Potapenko,UKR,F,1.71,64,16-12-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+16,16,Valentyn Shevchenko,UKR,F,1.76,70,06-08-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+17,17,Vasyl Sachko,UKR,F,1.90,86,03-05-75,Simferopol,Kryvbas Kryvyi Rih,Vorskla Poltava,2010,Ukrainian
+18,18,Oleksiy Chychykov,UKR,F,1.80,70,30-09-87,Poltava,Lokomotiv Moscow,Vorskla Poltava,2010,Ukrainian
+19,19,Artem Hromov,UKR,M,1.78,72,14-01-90,Stryi,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+21,21,Maksym Lavrenyuk,UKR,G,1.96,84,13-01-86,,Naftovyk-Ukrnafta,Vorskla Poltava,2010,Ukrainian
+23,23,Vladyslav Tarhanchuk,UKR,D,1.81,75,04-08-90,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+24,24,Oleh Barannik,UKR,F,1.78,68,20-03-92,Semenivka,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+26,26,Ihor Radchenko,UKR,D,1.75,65,31-07-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+27,27,Ahmed Januzi,ALB,F,1.84,76,08-07-88,Vushtrri,Besa Kavajë,Vorskla Poltava,2010,Ukrainian
+28,28,Oleksandr Vasylenko,UKR,M,1.75,67,19-06-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+29,29,Oleh Fyl,UKR,M,1.79,72,16-02-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+31,31,Oleksandr Pustovit,UKR,M,1.71,61,11-02-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+32,32,Vahe Sarkisyan,UKR,M,1.74,69,23-03-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+33,33,Yevhen Selin,UKR,D,1.85,75,09-05-88,Novoaydar,Metalist Kharkiv,Vorskla Poltava,2010,Ukrainian
+34,34,Yevheniy Tkachuk,UKR,D,1.92,81,27-06-91,Zaporizhya,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+35,35,Pavlo Leshko,UKR,D,1.87,78,08-11-87,Kirovohrad,Stal Dniprodzerzhynsk,Vorskla Poltava,2010,Ukrainian
+36,36,Maksym Iclhysh,UKR,D,1.83,72,05-11-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+38,38,Anton Yaremenko,UKR,F,1.78,74,29-07-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+39,39,Vitaliy Trusevych,UKR,D,1.91,82,16-01-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+40,40,Ihor Perduta,UKR,M,1.76,67,15-11-90,Terebovlia,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+41,41,Maksym Marusych,UKR,M,1.82,77,17-07-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+42,42,Maksym Shmyhol,UKR,M,1.73,62,07-04-93,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+43,43,Vitaliy Ryabushko,UKR,M,1.73,70,24-03-92,Poltava,Dynamo Kiev-2,Vorskla Poltava,2010,Ukrainian
+44,44,Andriy Batsula,UKR,D,1.84,78,06-02-92,Kremenchuk,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+45,45,Valeriy Kurelyekh,UKR,D,1.85,72,12-08-91,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+46,46,Serhiy Kravchenko,UKR,F,1.79,69,23-03-90,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+47,47,Maksym Dulub,UKR,F,1.83,71,24-03-92,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+48,48,Volodymyr Chesnakov,UKR,D,1.82,67,12-11-88,Hlobyne,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+49,51,Oleksiy Kazakov,UKR,G,1.85,70,22-02-90,,Vorskla-2,Vorskla Poltava,2010,Ukrainian
+50,66,Yaroslav Burdeynyy,UKR,G,1.92,86,10-02-92,,Tavriya Simferopol,Vorskla Poltava,2010,Ukrainian
+51,70,Dmytro Yesin,UKR,M,1.72,66,15-04-80,Donetsk,Illichivets Mariupol,Vorskla Poltava,2010,Ukrainian
+52,77,Andriy Oberemko,UKR,M,1.82,73,18-03-84,Zaporozhskaya,Dynamo Kiev,Vorskla Poltava,2010,Ukrainian
+53,78,Oleksiy Kurilov,UKR,D,1.88,80,24-04-88,Kerch,Metalist Kharkiv,Vorskla Poltava,2010,Ukrainian
+54,86,Maksim Karpovich,BLR,M,1.78,74,27-02-86,,Dnepr Mogilev,Vorskla Poltava,2010,Ukrainian
+1,1,Yuriy Martyshchuk,UKR,G,1.88,78,22-04-86,Kolomyya,Karpaty Lviv,Zorya Luhansk,2010,Ukrainian
+2,2,Oleksiy Polyanskyy,UKR,M,1.82,82,12-04-86,Avdeyevka,Shakthar Donetsk,Zorya Luhansk,2010,Ukrainian
+3,3,Luká Tesák,SVK,D,1.75,72,08-03-85,iar nad Hronom,MK ilina,Zorya Luhansk,2010,Ukrainian
+4,4,Maksym Kovalyov,UKR,M,1.84,80,20-03-89,Alchevsk,Shakhtar Donetsk-2,Zorya Luhansk,2010,Ukrainian
+5,5,Voldymyr Yezerskyy,UKR,D,1.83,77,15-11-76,Lviv,Shakhtar Donetsk,Zorya Luhansk,2010,Ukrainian
+6,6,Nikita Kamenyuka,UKR,M,1.72,64,03-06-85,Luhansk,Illichivets Mariupol,Zorya Luhansk,2010,Ukrainian
+7,7,Artem Semenenko,UKR,M,1.75,71,02-09-88,Zaporozhye,Metalurh Zaporizhya,Zorya Luhansk,2010,Ukrainian
+8,8,Mihajlo  Cakić,SRB,M,1.82,77,27-05-90,Leskovac,Čukarički,Zorya Luhansk,2010,Ukrainian
+9,9,Oleksandr Kasyan,UKR,F,1.85,79,27-01-89,Donetsk,Shakhtar Donetsk-2,Zorya Luhansk,2010,Ukrainian
+10,10,Jaba Lipartia,GEO,M,1.74,68,16-11-87,Tbilisi,WIT Georgia,Zorya Luhansk,2010,Ukrainian
+11,11,Serhiy Shevchuk,UKR,M,1.84,75,18-06-85,Makariv,Shakhtar Donetsk,Zorya Luhansk,2010,Ukrainian
+14,14,Parid Xhihani,ALB,M,1.76,71,18-07-83,Kavajë,KS Besa Kavajë,Zorya Luhansk,2010,Ukrainian
+15,15,Roman Emelyanov,RUS,M,1.89,85,08-05-92,Pavlovo,Shakhtar Donetsk,Zorya Luhansk,2010,Ukrainian
+16,16,Hryhoriy Yarmash,UKR,D,1.74,74,04-01-85,Ternopil,Vorskla Poltava,Zorya Luhansk,2010,Ukrainian
+19,19,Ruslan Fomin,UKR,F,1.87,74,02-03-86,Donetsk,Shakhtar Donetsk,Zorya Luhansk,2010,Ukrainian
+20,20,Daniel Addo,GHA,M,1.70,65,06-11-76,Accra,King Faisal Babies,Zorya Luhansk,2010,Ukrainian
+22,22,Vadym Milko,UKR,M,1.83,77,22-08-86,Pervomaysk,Dynamo Kiev-2,Zorya Luhansk,2010,Ukrainian
+27,27,Taras Lazarovych,UKR,F,1.75,70,22-04-82,Chynadiyovo,Metalurh Zaporizhya,Zorya Luhansk,2010,Ukrainian
+33,33,Makysm Bilyy,UKR,F,1.75,68,27-04-89,Novomoskovsk,Metalurh Zaporizhya,Zorya Luhansk,2010,Ukrainian
+36,36,Andriy Poltavtsev,UKR,G,1.91,79,07-12-91,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+37,37,Dmytro Khomchenovskyy,UKR,M,1.80,72,16-04-90,Uhledar,Olimpik Donetsk,Zorya Luhansk,2010,Ukrainian
+39,39,Franck  Madou,CIV,F,1.88,91,15-09-87,Abidjan,APOP Kinyras Peyias,Zorya Luhansk,2010,Ukrainian
+40,40,Dmytro Khovbosha,UKR,D,1.83,79,05-02-89,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+41,41,Illya Ivanov,UKR,F,1.75,63,02-08-93,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+42,42,Anton Rybalchenko,UKR,G,1.91,80,01-05-91,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+43,43,Kostyantyn Ivankevych,UKR,D,1.84,75,01-10-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+44,44,Serhiy Silyuk,UKR,F,1.70,65,05-06-85,Zaporozhye,Metalurh Zaporizhya,Zorya Luhansk,2010,Ukrainian
+45,45,Artem Hordiyenko,UKR,D,1.81,70,04-03-91,Krasnyi Luch,Zorya-2,Zorya Luhansk,2010,Ukrainian
+46,47,Semen Zharyy,UKR,M,1.78,68,04-09-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+47,48,Mykyta Kyslyy,UKR,F,1.73,68,02-03-91,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+48,49,Andriy Kokhman,UKR,F,1.85,76,25-05-90,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+49,50,Valeriy Mazur,UKR,M,1.73,63,06-03-91,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+50,51,Dmytro Tyertyshnyy,UKR,D,1.77,74,01-09-93,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+51,52,Renat Miroshnikov,UKR,M,1.77,64,27-03-93,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+52,53,Pavlo Myahkov,UKR,M,1.78,72,30-12-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+53,54,Serhiy Makarenko,UKR,M,1.78,67,09-06-90,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+54,56,Oleksandr Pyanov,UKR,F,1.71,65,21-04-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+55,57,Oleh Boroday,UKR,M,1.84,71,07-01-93,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+56,58,Roman Tsapenko,UKR,G,1.85,77,20-01-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+57,60,Andriy Kohut,UKR,M,1.68,63,21-01-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+58,61,Oleksandr Ihnatenko,UKR,M,1.75,68,17-04-93,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+59,62,Hiuli Mandzhhaladze,UKR,M,1.74,60,09-09-92,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+60,63,Andriy Hert,UKR,F,1.81,72,02-09-94,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+61,67,Vadym Paramonov,UKR,D,1.84,72,18-03-91,,Zorya-2,Zorya Luhansk,2010,Ukrainian
+62,77,Oleksandr Volkov,UKR,F,1.78,74,07-02-89,Kyiv,Zorya-2,Zorya Luhansk,2010,Ukrainian
+63,99,Ihor Shukhovtsev,UKR,G,1.88,79,13-07-71,Odessa,Illichivets Mariupol,Zorya Luhansk,2010,Ukrainian

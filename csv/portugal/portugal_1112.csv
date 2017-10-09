@@ -1,0 +1,442 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Romuald Peiser,FRA,G,1.87,79,03-08-79,Phalsbourg,Naval,Acadйmica,2011,Portuguese
+2,2,João Dias,POR,D,1.80,70,23-12-86,Braga,Trofense,Acadйmica,2011,Portuguese
+4,4,Flávio Ferreira,POR,M,1.80,75,19-10-91,Oliveira do Hospital,None,Acadйmica,2011,Portuguese
+7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Leixões,Acadйmica,2011,Portuguese
+8,8,Pape Habib Sow,SEN,D,1.80,76,02-12-85,Dakar,Châteauroux,Acadйmica,2011,Portuguese
+9,9,Fábio Luis,BRA,F,1.83,85,02-08-83,Porto Alegre,Porto Alegre,Acadйmica,2011,Portuguese
+10,10,Adrien Silva,POR,M,1.75,75,15-03-89,Angoulême,Sporting CP,Acadйmica,2011,Portuguese
+12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Acadйmica,2011,Portuguese
+13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Acadйmica,2011,Portuguese
+14,14,Paulo Alves,POR,D,1.87,73,19-12-93,Lisbon,None,Acadйmica,2011,Portuguese
+15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Acadйmica,2011,Portuguese
+17,17,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Acadйmica,2011,Portuguese
+18,18,Judikael Magique,CIV,M,1.80,75,21-01-93,Abidjan,None,Acadйmica,2011,Portuguese
+19,19,Rui Miguel,POR,F,1.83,79,30-01-84,Coimbra,Kilmarnock,Acadйmica,2011,Portuguese
+20,20,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Acadйmica,2011,Portuguese
+21,21,Abdoulaye Ba,SEN,D,1.97,79,01-01-91,St. Louis,FC Porto,Acadйmica,2011,Portuguese
+22,22,David Simão,POR,M,1.79,81,15-05-90,Versailles,Benfica,Acadйmica,2011,Portuguese
+23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,Sporting Braga,Acadйmica,2011,Portuguese
+24,24,Fábio Santos,POR,G,1.87,80,14-11-92,Penafiel,None,Acadйmica,2011,Portuguese
+26,26,Nivaldo,CPV,D,1.79,71,10-07-88,São Nicolau,Tourizense,Acadйmica,2011,Portuguese
+28,28,Willian Araújo,BRA,F,1.82,84,11-12-93,Montes Claros,Corinthians Alagoano,Acadйmica,2011,Portuguese
+30,30,Ghislain Mvom,CMR,D,1.85,78,23-10-92,Yaoundé,Fortuna Yaoundé,Acadйmica,2011,Portuguese
+35,35,Reiner Ferreira,BRA,D,1.85,74,17-11-85,São Paulo,Corinthians Alagoano,Acadйmica,2011,Portuguese
+36,36,Edinho,POR,F,1.85,74,07-07-82,Aveiro,Málaga,Acadйmica,2011,Portuguese
+39,39,Babia Issouf,CIV,D,1.85,72,02-01-93,Alépé,None,Acadйmica,2011,Portuguese
+41,41,Cédric Soares,POR,D,1.72,67,31-08-91,Gelsenkirchen,Sporting CP,Acadйmica,2011,Portuguese
+42,50,Diogo Melo,BRA,M,1.82,84,18-04-88,União dos Palmares,Portimonense,Acadйmica,2011,Portuguese
+43,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Acadйmica,2011,Portuguese
+44,82,Saulo,BRA,F,1.76,74,18-02-82,Rio Verde,Rio Ave,Acadйmica,2011,Portuguese
+45,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Acadйmica,2011,Portuguese
+46,99,Danilo,BRA,M,1.76,72,28-05-85,São João da Barra,Macaé,Acadйmica,2011,Portuguese
+1,1,Paes,BRA,G,1.89,87,11-12-82,Rio de Janeiro,Avaí,Beira-Mar,2011,Portuguese
+2,2,Bura,POR,D,1.92,85,17-12-88,Matosinhos,FC Porto,Beira-Mar,2011,Portuguese
+3,3,Édson,BRA,D,1.80,77,17-06-83,São Bernardo do Campo,Vitória Guimarães,Beira-Mar,2011,Portuguese
+4,4,Yohan Tavares,FRA,D,1.88,79,02-03-88,Tours,Le Mans,Beira-Mar,2011,Portuguese
+5,5,Hugo,POR,D,1.82,78,11-08-76,Braga,Vitória Setúbal,Beira-Mar,2011,Portuguese
+6,6,Nuno Coelho,POR,M,1.81,73,23-11-87,Covilhã,Benfica,Beira-Mar,2011,Portuguese
+7,7,Artur,POR,M,1.75,69,18-02-84,Cacia,None,Beira-Mar,2011,Portuguese
+9,9,Élio,POR,F,1.85,73,26-03-85,Machico,Doxa Katokopia,Beira-Mar,2011,Portuguese
+10,10,Cristiano,BRA,M,1.74,67,28-09-83,Manaus,Sporting CP,Beira-Mar,2011,Portuguese
+12,12,Jonas Mendes,GNB,G,1.91,82,20-11-89,Bissau,Amora,Beira-Mar,2011,Portuguese
+14,14,Jaime,POR,D,1.88,80,11-06-89,Santarém,None,Beira-Mar,2011,Portuguese
+16,16,Nildo Petrolina,BRA,M,1.75,62,01-05-86,Petrolina,Trofense,Beira-Mar,2011,Portuguese
+17,17,Atila Turan,FRA,D,1.76,79,10-04-92,Cheny,Sporting CP,Beira-Mar,2011,Portuguese
+18,18,Pedro Moreira,POR,D,1.77,72,23-10-83,Penafiel,Penafiel,Beira-Mar,2011,Portuguese
+20,20,André Marques,POR,D,1.82,78,01-08-87,Viseu,Sporting CP,Beira-Mar,2011,Portuguese
+21,21,Javier Balboa,EQG,M,1.82,74,13-05-85,Madrid,Benfica,Beira-Mar,2011,Portuguese
+23,23,Joãozinho,POR,D,1.85,69,02-07-89,Lisbon,Mafra,Beira-Mar,2011,Portuguese
+24,24,Rui Rego,POR,G,1.76,75,05-07-80,Mujães,Chaves,Beira-Mar,2011,Portuguese
+25,25,Dudu,BRA,F,1.84,76,20-09-91,Guararapes,Corinthians Alagoano,Beira-Mar,2011,Portuguese
+27,27,Dias,POR,M,1.88,78,25-02-91,Aveiro,FC Porto,Beira-Mar,2011,Portuguese
+28,28,Zhang Chengdong,CHN,F,1.84,73,09-02-89,Baoding,Mafra,Beira-Mar,2011,Portuguese
+30,30,Sérginho,POR,F,1.76,72,21-02-90,Trofa,Trofense,Beira-Mar,2011,Portuguese
+33,33,Nuno Lopes,POR,D,1.84,80,19-12-86,Lisbon,Oliveirense,Beira-Mar,2011,Portuguese
+41,77,Abel Camará,POR,F,1.85,81,06-01-90,Bissau,Belenenses,Beira-Mar,2011,Portuguese
+42,89,Tiago Cintra,POR,F,1.85,82,05-07-89,Matosinhos,Leixões,Beira-Mar,2011,Portuguese
+43,99,Cássio,BRA,F,1.86,80,25-11-83,Porto Alegre,Rapid Bucureşti,Beira-Mar,2011,Portuguese
+1,1,Artur,BRA,G,1.92,90,25-01-81,Leme,Sporting Braga,Benfica,2011,Portuguese
+3,3,Emerson Da Conceição,BRA,D,1.85,83,23-02-86,São Paulo,Lille,Benfica,2011,Portuguese
+4,4,Luisão,BRA,D,1.93,95,13-02-81,Amparo,Cruzeiro,Benfica,2011,Portuguese
+6,6,Javi García,ESP,M,1.86,78,08-02-87,Murcia,Real Madrid,Benfica,2011,Portuguese
+7,7,Óscar Cardozo,PAR,F,1.93,87,20-05-83,Campo 9,Newell's Old Boys,Benfica,2011,Portuguese
+8,8,Bruno César,BRA,M,1.78,73,03-11-88,Santa Bárbara d'Oeste,Corinthians,Benfica,2011,Portuguese
+9,9,Nolito,ESP,F,1.72,65,15-10-86,Sanlúcar de Barrameda,Barcelona B,Benfica,2011,Portuguese
+10,10,Pablo Aimar,ARG,M,1.70,68,03-11-79,Rio Cuarto,Zaragoza,Benfica,2011,Portuguese
+12,12,Yannick Djaló,POR,F,1.71,60,05-05-86,Bissau,Sporting CP,Benfica,2011,Portuguese
+14,14,Maximiliano Pereira,URU,D,1.73,70,08-06-84,Montevideo,Defensor Sporting,Benfica,2011,Portuguese
+16,16,Nélson Oliveira,POR,F,1.86,82,08-08-91,Barcelos,None,Benfica,2011,Portuguese
+19,19,Rodrigo Moreno,ESP,F,1.80,74,06-03-91,Rio de Janeiro,Real Madrid B,Benfica,2011,Portuguese
+20,20,Nicolás Gaitán,ARG,M,1.73,67,23-02-88,San Martín,Boca Juniors,Benfica,2011,Portuguese
+21,21,Nemanja Matić,SRB,M,1.94,82,01-08-88,abac,Chelsea,Benfica,2011,Portuguese
+24,24,Ezequiel Garay,ARG,D,1.89,83,10-10-86,Rosario,Real Madrid,Benfica,2011,Portuguese
+27,27,Miguel Vítor,POR,D,1.83,80,30-06-89,Torres Vedras,None,Benfica,2011,Portuguese
+28,28,Axel Witsel,BEL,M,1.86,73,12-01-89,Liège,Standard Liège,Benfica,2011,Portuguese
+30,30,Javier Saviola,ARG,F,1.68,61,11-12-81,Bajo Belgrano,Real Madrid,Benfica,2011,Portuguese
+33,33,Jardel,BRA,D,1.92,85,29-03-86,Florianópolis,Desportivo Brasil,Benfica,2011,Portuguese
+34,34,André Almeida,POR,D,1.86,75,10-09-90,Lisbon,Belenenses,Benfica,2011,Portuguese
+36,36,Luís Martins,POR,D,1.76,65,10-06-92,Lamego,None,Benfica,2011,Portuguese
+37,37,Ruben Pinto,POR,M,1.81,69,24-04-92,Odivelas,None,Benfica,2011,Portuguese
+38,38,Joan Capdevila,ESP,D,1.82,78,03-02-78,Tarrega,Villarreal,Benfica,2011,Portuguese
+39,39,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,União de Leiria,Benfica,2011,Portuguese
+41,47,Eduardo,POR,G,1.87,84,19-09-82,Mirandela,Genoa,Benfica,2011,Portuguese
+42,52,Bruno Varela,POR,G,1.91,84,04-11-94,Lisbon,None,Benfica,2011,Portuguese
+1,1,Paulo Lopes,POR,G,1.84,76,29-06-78,Mirandela,Trofense,Feirense,2011,Portuguese
+2,2,Willian,BRA,D,1.87,83,29-04-87,Marília,Rio Branco,Feirense,2011,Portuguese
+3,3,Jeferson,BRA,D,1.81,71,20-01-86,Salvador,Grêmio Anápolis,Feirense,2011,Portuguese
+4,4,Luciano,BRA,D,1.90,90,12-11-78,Anápolis,Caxias,Feirense,2011,Portuguese
+6,6,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Paços de Ferreira,Feirense,2011,Portuguese
+7,7,Diogo Cunha,POR,M,1.70,60,10-02-86,Guimarães,Mirandela,Feirense,2011,Portuguese
+8,8,Serginho,POR,D,1.73,74,18-02-85,Vila Nova de Famalicão,Tirsense,Feirense,2011,Portuguese
+9,9,Ludovic Ribeiro,POR,M,1.69,58,18-06-90,Paris,FC Porto,Feirense,2011,Portuguese
+10,10,Miguel Pedro,POR,M,1.75,70,11-06-83,Porto,Anorthosis Famagusta,Feirense,2011,Portuguese
+11,11,Thiago Freitas,BRA,M,1.85,83,13-04-87,Vitória,Haldensleber SC,Feirense,2011,Portuguese
+12,12,Pajetat Douglas,CMR,G,1.90,85,17-12-86,Yaoundé,Freamunde,Feirense,2011,Portuguese
+13,13,Mika,POR,D,1.80,75,26-09-87,Lyon,None,Feirense,2011,Portuguese
+14,14,Jonathan,POR,F,1.80,67,10-07-91,Romariz,None,Feirense,2011,Portuguese
+15,15,Uanderson Melo,BRA,F,1.79,69,14-08-90,Iporá,Grêmio Anápolis,Feirense,2011,Portuguese
+17,17,Cris,POR,M,1.78,70,17-01-84,Oliveira de Azemeis,Asteras Tripolis,Feirense,2011,Portuguese
+18,18,Sténio Santos,CPV,M,1.78,72,06-05-88,Mindelo,Mindelense,Feirense,2011,Portuguese
+19,19,Rabiola,POR,M,1.80,69,25-07-89,Guimarães,FC Porto,Feirense,2011,Portuguese
+20,20,Hélder Castro,POR,M,1.74,73,24-01-86,Fiães,Universitatea Cluj,Feirense,2011,Portuguese
+21,21,Fernando Varela,CPV,D,1.82,83,26-11-87,Cascais,Trofense,Feirense,2011,Portuguese
+22,22,Stopira,CPV,D,1.80,74,20-05-88,Praia,Deportivo La Coruña B,Feirense,2011,Portuguese
+23,23,Diogo Rosado,POR,M,1.85,74,21-02-90,Peniche,Sporting CP,Feirense,2011,Portuguese
+24,24,Miguel Assunção,POR,G,1.89,83,12-01-92,Fornos,None,Feirense,2011,Portuguese
+26,26,Siaka Bamba,CIV,M,1.75,72,24-08-89,Abidjan,Vitória Guimarães,Feirense,2011,Portuguese
+27,27,André Fontes,POR,M,1.79,75,27-05-85,Tábua,Académica,Feirense,2011,Portuguese
+29,29,Bédi Buval,BRA,F,1.80,70,16-06-86,Domont,Lechia Gdańsk,Feirense,2011,Portuguese
+30,30,Carlos Fonseca,POR,F,1.80,74,23-08-87,Barcelos,Tirsense,Feirense,2011,Portuguese
+33,33,Henrique,POR,D,1.86,75,19-10-86,Fafe,Sporting Braga,Feirense,2011,Portuguese
+1,1,Adriano Fachini,BRA,G,1.87,78,12-03-83,Xaxim,União da Madeira,Gil Vicente,2011,Portuguese
+2,2,Rodrigo Galo,BRA,D,1.76,66,19-09-86,Rio Branco,Sporting Braga,Gil Vicente,2011,Portuguese
+3,3,João Pedro,POR,D,1.74,71,15-08-80,Famalicão,Ethnikos Achna,Gil Vicente,2011,Portuguese
+4,4,Sandro,POR,D,1.88,80,05-12-82,Fafe,Vizela,Gil Vicente,2011,Portuguese
+5,5,Rui Faria,POR,M,1.88,80,30-05-92,Barcelos,None,Gil Vicente,2011,Portuguese
+6,6,Daniel Faira,POR,D,1.85,78,29-03-87,Braga,None,Gil Vicente,2011,Portuguese
+8,8,Pedro Moreira,POR,M,1.82,75,15-03-89,Lousada,FC Porto,Gil Vicente,2011,Portuguese
+9,9,Tó Barbosa,POR,F,1.85,75,30-09-92,Caxinas,Ninense,Gil Vicente,2011,Portuguese
+10,10,André Cunha,POR,M,1.83,83,16-02-78,Cambeses,Vizela,Gil Vicente,2011,Portuguese
+13,13,Kalidou Coulibaly Yero,SEN,F,1.95,89,19-08-91,Dakar,FC Porto,Gil Vicente,2011,Portuguese
+16,16,Paulão,BRA,D,1.87,80,16-10-85,Florianopólis,Grêmio Anápolis,Gil Vicente,2011,Portuguese
+19,19,Mauro,BRA,M,1.78,73,31-10-90,Livramento,Grêmio Anápolis,Gil Vicente,2011,Portuguese
+20,20,Éder Santana,BRA,D,1.80,80,25-09-85,São Paulo,Ituano,Gil Vicente,2011,Portuguese
+21,21,Jorge Baptista,POR,G,1.86,87,02-04-77,Mafamude,Naval,Gil Vicente,2011,Portuguese
+22,22,Paulo Arantes,POR,D,1.82,78,15-11-86,Carapeços,None,Gil Vicente,2011,Portuguese
+25,25,César Peixoto,POR,M,1.82,73,12-05-80,Guimarães,Benfica,Gil Vicente,2011,Portuguese
+29,29,Roberto,BRA,F,1.90,86,29-07-78,Linhares,Beijing Guo'an,Gil Vicente,2011,Portuguese
+40,40,Guilherme,BRA,M,1.74,70,21-05-91,Três Rios,Sporting Braga,Gil Vicente,2011,Portuguese
+41,44,Cláudio,BRA,D,1.82,79,17-08-77,São Gonçalo,Vizela,Gil Vicente,2011,Portuguese
+42,54,Halisson,BRA,D,1.89,82,28-06-85,Bauru,Noroeste,Gil Vicente,2011,Portuguese
+43,58,Luis Carlos,BRA,F,1.70,63,15-06-87,Itaberaba,Santo André,Gil Vicente,2011,Portuguese
+44,66,Luís Manuel,POR,M,1.83,79,25-06-81,Braga,Lousada,Gil Vicente,2011,Portuguese
+45,70,Hugo Vieira,POR,F,1.78,72,25-07-88,Barcelos,Santa Maria,Gil Vicente,2011,Portuguese
+46,77,João Vilela,POR,M,1.83,78,09-09-85,Lisbon,Fátima,Gil Vicente,2011,Portuguese
+47,79,Murta,POR,G,1.84,87,21-07-79,São Cosme,Vizela,Gil Vicente,2011,Portuguese
+48,80,Júnior Caiçara,BRA,D,1.72,65,27-04-89,Santos,Santo André,Gil Vicente,2011,Portuguese
+49,89,Richard,BRA,M,1.76,68,20-03-89,São Paulo,Santo André,Gil Vicente,2011,Portuguese
+50,99,Zé Luís,CPV,F,1.83,81,24-01-91,Nossa Senhora da Conceição,Sporting Braga,Gil Vicente,2011,Portuguese
+1,1,Peçanha,BRA,G,1.86,79,01-11-80,São Gonçalo,Thrasivoulos,Marítimo,2011,Portuguese
+2,2,Igor,BRA,D,1.89,78,10-03-89,Campinas,Internacional,Marítimo,2011,Portuguese
+3,3,Robson,BRA,D,1.86,80,10-07-83,Recife,Vitória Setúbal,Marítimo,2011,Portuguese
+6,6,Sérgio Marakis,POR,M,1.78,76,11-11-91,Johannesburg,Oeiras,Marítimo,2011,Portuguese
+7,7,Marquinho,BRA,F,1.77,74,08-07-86,Curitiba,Vitória Guimarães,Marítimo,2011,Portuguese
+8,8,Roberto,BRA,M,1.77,75,18-01-85,Goiâna,Celta Vigo,Marítimo,2011,Portuguese
+10,10,Christian Pouga,CMR,F,1.93,90,19-06-86,Douala,FC Vaslui,Marítimo,2011,Portuguese
+11,11,Ibrahim Obayomi,NGA,F,1.86,80,20-01-89,,Dolphins FC,Marítimo,2011,Portuguese
+13,13,Olberdam,BRA,M,1.82,82,06-02-85,João Pessoa,Corinthians Alagoano,Marítimo,2011,Portuguese
+15,15,Edivândio,CPV,F,1.82,76,01-01-91,São Vicente,Batuque,Marítimo,2011,Portuguese
+16,16,Valentin Roberge,FRA,D,1.85,73,09-06-87,Montreuil,Aris,Marítimo,2011,Portuguese
+17,17,Sami,GNB,F,1.84,78,18-12-88,Bissau,Desportivo das Aves,Marítimo,2011,Portuguese
+18,18,Luís Olim,POR,M,1.78,78,27-08-81,Funchal,None,Marítimo,2011,Portuguese
+20,20,Héldon,CPV,F,1.74,68,14-11-88,Ilha do Sal,Fátima,Marítimo,2011,Portuguese
+21,21,Briguel,POR,D,1.74,70,08-03-79,Funchal,None,Marítimo,2011,Portuguese
+22,22,João Diogo,POR,D,1.75,66,28-02-88,Funchal,None,Marítimo,2011,Portuguese
+23,23,Taiwo Hassan,NGA,M,1.70,75,29-01-89,Shaki,Shooting Stars,Marítimo,2011,Portuguese
+24,24,Ruca,POR,G,1.85,83,07-01-90,Touriz,FC Porto,Marítimo,2011,Portuguese
+25,25,Rafael Miranda,BRA,M,1.78,75,11-08-84,Belo Horizonte,Atlético Mineiro,Marítimo,2011,Portuguese
+28,28,João Luiz,BRA,M,1.82,79,24-06-88,São Paulo,Rio Branco,Marítimo,2011,Portuguese
+29,29,Tchô,BRA,M,1.75,70,21-04-87,Belo Horizonte,Atlético Mineiro,Marítimo,2011,Portuguese
+30,30,Danilo Dias,BRA,F,1.74,64,06-11-85,Ceres,Ipatinga,Marítimo,2011,Portuguese
+35,35,Fidélis,BRA,F,1.85,77,14-06-89,Contagem,None,Marítimo,2011,Portuguese
+41,41,Rúben,POR,D,1.83,71,17-02-90,Madeira,None,Marítimo,2011,Portuguese
+42,44,João Guilherme,BRA,D,1.84,76,21-04-86,Bilac,Internacional,Marítimo,2011,Portuguese
+43,46,João Vieira,POR,F,1.89,78,19-12-91,Leiria,União de Leiria,Marítimo,2011,Portuguese
+44,47,Ricardo Ferreira,POR,G,1.88,76,03-12-89,Braga,Olhanense,Marítimo,2011,Portuguese
+45,48,Fábio Felício,POR,F,1.70,60,02-05-82,Faro,Rio Ave,Marítimo,2011,Portuguese
+46,77,Romain Salin,FRA,G,1.85,70,29-07-84,Mayenne,Naval,Marítimo,2011,Portuguese
+47,81,Selim Benachour,TUN,M,1.70,73,08-09-81,Paris,Málaga,Marítimo,2011,Portuguese
+2,2,Claudemir,BRA,D,1.73,72,17-08-84,Cachoeira de Macacu,América-RJ,Nacional,2011,Portuguese
+4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,Paços de Ferreira,Nacional,2011,Portuguese
+6,6,Ivan Todorović,SRB,M,1.84,76,29-07-83,Belgrade,KamAZ,Nacional,2011,Portuguese
+7,7,Rene Mihelič,SVN,M,1.77,70,05-07-88,Maribor,Maribor,Nacional,2011,Portuguese
+8,8,Dejan Skolnik,SVN,M,1.81,73,01-01-89,Maribor,Maribor,Nacional,2011,Portuguese
+9,9,Mateus,ANG,F,1.74,72,19-06-84,Luanda,Boavista,Nacional,2011,Portuguese
+10,10,Diego,BRA,F,1.72,69,05-04-85,Porto Alegre,Marília,Nacional,2011,Portuguese
+11,11,Candeias,POR,F,1.77,77,25-02-88,Fornos de Algodres,FC Porto,Nacional,2011,Portuguese
+12,12,Marcelo Valverde,BRA,G,1.85,75,21-11-89,Rio de Janeiro,Angra dos Reis,Nacional,2011,Portuguese
+14,14,Juliano,BRA,M,1.76,73,14-02-86,Rio de Janeiro,Náutico,Nacional,2011,Portuguese
+15,15,Jota,POR,M,1.76,71,03-07-93,Funchal,None,Nacional,2011,Portuguese
+18,18,Mário Rondon,VEN,F,1.82,71,26-03-86,Caracas,Paços de Ferreira,Nacional,2011,Portuguese
+20,20,Edgar Costa,POR,F,1.80,72,14-04-87,Câmara de Lobos,União da Madeira,Nacional,2011,Portuguese
+21,21,Andrés Madrid,ARG,M,1.83,78,29-07-81,Mar del Plata,Sporting Braga,Nacional,2011,Portuguese
+22,22,João Aurélio,POR,M,1.81,75,17-08-88,Beja,Penalva,Nacional,2011,Portuguese
+23,23,Oliver,BRA,F,1.78,74,29-08-92,Campinas,PSV Eindhoven,Nacional,2011,Portuguese
+24,24,Vladan Giljen,MNE,G,1.88,85,07-12-89,Nikić,Sutjeska Nikić,Nacional,2011,Portuguese
+29,29,Márcio Madeira,POR,M,1.78,73,19-08-85,Sines,Juventude Évora,Nacional,2011,Portuguese
+30,30,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Leicester C,Nacional,2011,Portuguese
+31,31,Deni Pavlović,SRB,D,,,,,None,Nacional,2011,Portuguese
+33,33,Luís Neto,POR,D,1.85,71,26-05-88,Póvoa de Varzim,Varzim,Nacional,2011,Portuguese
+36,36,Igor Rocha,POR,G,1.84,78,04-03-93,Santa Maria da Feira,Sporting Braga,Nacional,2011,Portuguese
+37,37,Nejc Pečnik,SVN,M,1.89,80,03-01-86,Dravograd,Celje,Nacional,2011,Portuguese
+40,40,Mayko,BRA,D,1.85,76,03-02-91,Monte Mor,Palmeiras,Nacional,2011,Portuguese
+41,41,Diogo Coelho,POR,D,1.83,82,14-09-93,Ponta de Sol,None,Nacional,2011,Portuguese
+42,50,Marçal,BRA,D,1.78,72,19-02-89,São Paulo,Torreense,Nacional,2011,Portuguese
+43,55,Danijel Stojanović,CRO,D,1.75,71,18-08-84,Naice,Zrinjski Mostar,Nacional,2011,Portuguese
+44,66,Elizeu,BRA,M,1.83,78,28-05-89,Recife,Botafogo,Nacional,2011,Portuguese
+45,99,Ladji Keita,SEN,F,1.88,84,29-04-83,Dakar,Sporting Braga,Nacional,2011,Portuguese
+1,1,Bruno Verissimo,POR,G,1.73,82,07-04-76,Tavira,Seixal,Olhanense,2011,Portuguese
+3,3,André Micael,POR,D,1.87,80,04-02-89,Guimarães,Moreirense,Olhanense,2011,Portuguese
+4,4,Regula,POR,M,1.84,71,12-03-89,Sarilhos Pequenos,Vitória Setúbal,Olhanense,2011,Portuguese
+5,5,Maurício Fernandes,BRA,D,1.92,89,05-07-76,Passo Fundo,Feirense,Olhanense,2011,Portuguese
+6,6,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Iraklis,Olhanense,2011,Portuguese
+7,7,Ismaily,BRA,M,1.77,78,11-01-90,Ivinhema,Desportivo Brasil,Olhanense,2011,Portuguese
+8,8,Mateus Borges,BRA,M,1.72,71,25-06-83,Ribeirão Preto,Vila Nova,Olhanense,2011,Portuguese
+9,9,Toy,CPV,F,1.75,72,15-06-77,Lisbon,Al-Qadsia,Olhanense,2011,Portuguese
+10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Portimonense,Olhanense,2011,Portuguese
+11,11,Djalmir,BRA,F,1.83,75,22-03-76,Aracajú,Feirense,Olhanense,2011,Portuguese
+12,12,Vítor Vinha,POR,M,1.81,71,11-11-85,Viseu,Desportivo das Aves,Olhanense,2011,Portuguese
+13,13,Jander,BRA,M,1.83,76,08-07-88,Feira de Santana,Juventude,Olhanense,2011,Portuguese
+16,16,Rui Duarte,POR,M,1.73,66,16-09-78,Lisbon,Estrela da Amadora,Olhanense,2011,Portuguese
+17,17,Wilson Eduardo,POR,F,1.76,72,08-07-90,Pedras Rubras,Sporting CP,Olhanense,2011,Portuguese
+18,18,Cauê,BRA,M,1.86,79,24-05-89,São Paulo,Leixões,Olhanense,2011,Portuguese
+19,19,Víctor Meza,ARG,F,1.78,76,28-01-87,Capital Federal,Unión San Felipe,Olhanense,2011,Portuguese
+20,20,Dady,CPV,F,1.90,84,13-08-81,Lisbon,Bucaspor,Olhanense,2011,Portuguese
+21,21,Luís Filipe,POR,D,1.77,75,14-06-79,Cantanhede,Benfica,Olhanense,2011,Portuguese
+22,22,Fabiano,BRA,G,1.97,90,29-02-88,Mundo Novo,São Paulo,Olhanense,2011,Portuguese
+23,23,Salvador Agra,POR,F,1.66,60,11-11-91,Vila do Conde,Varzim,Olhanense,2011,Portuguese
+24,24,Ventura,POR,G,1.86,85,14-01-88,Vila Nova de Gaia,FC Porto,Olhanense,2011,Portuguese
+26,26,André Pinto,POR,D,1.92,85,05-10-89,Vila Nova de Gaia,FC Porto,Olhanense,2011,Portuguese
+28,28,João Gonçalves,POR,D,1.80,66,18-01-88,Amadora,Sporting CP,Olhanense,2011,Portuguese
+30,30,Mexer,MOZ,D,1.81,75,08-09-85,Maputo,Sporting CP,Olhanense,2011,Portuguese
+33,33,Vasco Fernandes,POR,D,1.80,70,13-11-86,Olhão,Beira-Mar,Olhanense,2011,Portuguese
+41,41,Gerson,POR,M,,,20-03-93,São Brás de Alportel,Académica,Olhanense,2011,Portuguese
+42,44,Edinho Júnior,POR,F,1.80,75,07-03-94,Faro,None,Olhanense,2011,Portuguese
+43,46,João Rafael,POR,D,1.83,72,06-10-93,Amadora,None,Olhanense,2011,Portuguese
+44,65,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Sporting Braga,Olhanense,2011,Portuguese
+45,99,Jean Paul Yontcha,CMR,F,1.82,78,18-02-85,Yaoundé,Belenenses,Olhanense,2011,Portuguese
+1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paзos de Ferreira,2011,Portuguese
+2,2,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,FC Vaslui,Paзos de Ferreira,2011,Portuguese
+5,5,Javier Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Sportivo Luqueño,Paзos de Ferreira,2011,Portuguese
+6,6,Vítor,POR,M,1.69,68,07-01-84,Penafiel,Penafiel,Paзos de Ferreira,2011,Portuguese
+7,7,Josué,POR,M,1.74,70,17-09-90,Ermesinde,FC Porto,Paзos de Ferreira,2011,Portuguese
+8,8,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paзos de Ferreira,2011,Portuguese
+9,9,Christian Irobiso,NGA,F,1.90,77,28-05-93,Lagos,None,Paзos de Ferreira,2011,Portuguese
+10,10,Luíz Carlos,BRA,M,1.75,65,05-07-85,Espírito Santo,Freamunde,Paзos de Ferreira,2011,Portuguese
+11,11,Caetano,POR,F,1.65,56,20-04-91,Paredes,FC Porto,Paзos de Ferreira,2011,Portuguese
+12,12,Pedro Guedes,POR,G,1.83,77,03-01-95,Gandra,Benfica,Paзos de Ferreira,2011,Portuguese
+15,15,Luisinho,POR,M,1.72,61,05-05-85,Porto,Desportivo das Aves,Paзos de Ferreira,2011,Portuguese
+16,16,Michel Lugo,BRA,F,1.80,78,09-06-87,Bagé,Guarany de Bagé,Paзos de Ferreira,2011,Portuguese
+17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Santa Clara,Paзos de Ferreira,2011,Portuguese
+18,18,Sassá,BRA,F,1.70,66,18-12-88,Antonio Gonçalves,Ipatinga,Paзos de Ferreira,2011,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paзos de Ferreira,2011,Portuguese
+21,21,Arturo Alvarez,SLV,F,1.75,77,28-06-85,Houston,Chivas USA,Paзos de Ferreira,2011,Portuguese
+24,24,Luís Barros,POR,G,1.82,72,27-09-93,Frazão,None,Paзos de Ferreira,2011,Portuguese
+25,25,Lorenzo Melgarejo,PAR,F,1.78,71,10-08-90,Loma Grande,Benfica,Paзos de Ferreira,2011,Portuguese
+28,28,Julio Aguilar,PAR,F,1.86,80,01-07-86,La Pastora,Independiente FBC,Paзos de Ferreira,2011,Portuguese
+30,30,Michel,BRA,F,1.82,79,22-08-86,Rio de Janeiro,Penafiel,Paзos de Ferreira,2011,Portuguese
+41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paзos de Ferreira,2011,Portuguese
+42,80,Tony,FRA,D,1.75,70,20-12-80,Auxerre,Vitória Guimarães,Paзos de Ferreira,2011,Portuguese
+43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paзos de Ferreira,2011,Portuguese
+44,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paзos de Ferreira,2011,Portuguese
+1,1,Helton,BRA,G,1.89,84,18-05-78,Alcântara,União de Leiria,FC Porto,2011,Portuguese
+2,2,Danilo,BRA,D,1.84,73,15-07-91,Bicas,Santos,FC Porto,2011,Portuguese
+3,3,Lucho González,ARG,M,1.85,75,19-01-81,Buenos Aires,Marseille,FC Porto,2011,Portuguese
+4,4,Maicon,BRA,D,1.90,74,14-09-88,Barretos,Cruzeiro,FC Porto,2011,Portuguese
+5,5,Álvaro Pereira,URU,M,1.85,80,28-11-85,Montevideo,CFR Cluj,FC Porto,2011,Portuguese
+8,8,João Moutinho,POR,M,1.70,61,08-09-86,Portimão,Sporting CP,FC Porto,2011,Portuguese
+10,10,Cristian Rodríguez,URU,M,1.75,72,30-09-85,Montevideo,Paris St-Germain,FC Porto,2011,Portuguese
+11,11,Kléber,BRA,F,1.87,79,02-05-90,Estância Velha,Atlético Mineiro,FC Porto,2011,Portuguese
+12,12,Hulk,BRA,F,1.76,68,25-07-86,Campina Grande,Tokyo Verdy,FC Porto,2011,Portuguese
+14,14,Rolando,POR,D,1.89,77,31-08-85,São Vicente,Belenenses,FC Porto,2011,Portuguese
+15,15,Emídio Rafael,POR,D,1.82,73,24-01-86,Lisbon,Académica,FC Porto,2011,Portuguese
+17,17,Silvestre Varela,POR,F,1.80,75,02-02-85,Almada,Estrela da Amadora,FC Porto,2011,Portuguese
+19,19,James Rodríguez,COL,M,1.80,77,12-07-91,Cúcuta,Banfield,FC Porto,2011,Portuguese
+20,20,Djalma,ANG,M,1.75,72,30-05-87,Luanda,Marítimo,FC Porto,2011,Portuguese
+21,21,Cristian Săpunaru,ROU,D,1.87,81,05-04-84,Bucharest,Rapid Bucureşti,FC Porto,2011,Portuguese
+22,22,Eliaquim Mangala,FRA,D,1.87,74,13-02-91,Colombes,Standard Liège,FC Porto,2011,Portuguese
+25,25,Fernando,BRA,M,1.83,74,25-07-87,Alto Paraíso de Goiás,Vila Nova,FC Porto,2011,Portuguese
+26,26,Alex Sandro,BRA,D,1.77,75,26-01-91,Catanduva,Deportivo Maldonado,FC Porto,2011,Portuguese
+27,27,Juan Manuel Iturbe,ARG,F,1.70,62,04-06-93,Capital Federal,Cerro Porteño,FC Porto,2011,Portuguese
+29,29,Marc Janko,AUT,F,1.96,83,25-06-83,Vienna,FC Twente,FC Porto,2011,Portuguese
+30,30,Nicolás Otamendi,ARG,D,1.78,75,12-02-88,Pacheco,Vélez Sarsfield,FC Porto,2011,Portuguese
+31,31,Rafael Bracali,BRA,G,1.84,76,05-05-81,São Paulo,Nacional [POR],FC Porto,2011,Portuguese
+35,35,Steven Defour,BEL,M,1.73,64,15-04-88,Mechelen,Standard Liège,FC Porto,2011,Portuguese
+41,41,Kadú,ANG,G,1.90,76,30-11-94,Porto Amboim,Belenenses,FC Porto,2011,Portuguese
+42,46,Mikel Agu,NGA,M,1.84,77,27-05-93,Benin City,None,FC Porto,2011,Portuguese
+43,58,Thibaut Vion,FRA,F,1.85,68,11-12-93,Mont-Saint-Martin,Metz,FC Porto,2011,Portuguese
+1,1,Rafa,POR,G,1.83,75,01-03-92,Maia,FC Porto,Rio Ave,2011,Portuguese
+2,2,José Gaspar,POR,D,1.90,78,01-06-75,Santo Tirso,Belenenses,Rio Ave,2011,Portuguese
+4,4,Ricardo Pateiro,POR,M,1.78,72,31-05-80,Setúbal,União de Leiria,Rio Ave,2011,Portuguese
+5,5,Jeferson,BRA,D,1.88,74,15-01-86,São Paulo,Rio Preto,Rio Ave,2011,Portuguese
+6,6,Jean Sony,HAI,M,1.74,73,23-01-86,Port-au-Prince,Leixões,Rio Ave,2011,Portuguese
+7,7,Kelvin,BRA,M,1.75,71,01-06-93,Paraná,FC Porto,Rio Ave,2011,Portuguese
+8,8,Tarantini,POR,M,1.89,76,07-10-83,Baião,Portimonense,Rio Ave,2011,Portuguese
+9,9,João Tomás,POR,F,1.88,80,27-05-75,Oliveira de Bairro,Al-Sharjah,Rio Ave,2011,Portuguese
+10,10,Vítor Gomes,POR,M,1.81,79,25-12-87,Vila do Conde,None,Rio Ave,2011,Portuguese
+11,11,Braga,POR,M,1.79,71,17-06-83,Porto,Leixões,Rio Ave,2011,Portuguese
+13,13,Mendes,POR,M,1.72,67,22-03-88,Valongo,Sporting Braga,Rio Ave,2011,Portuguese
+14,14,Bruno China,POR,M,1.82,75,05-08-82,Matosinhos,Mallorca,Rio Ave,2011,Portuguese
+15,15,Tiago Pinto,POR,D,1.77,75,01-02-88,Porto,Sporting Braga,Rio Ave,2011,Portuguese
+18,18,Zé Gomes,POR,D,1.75,78,04-11-77,Vila do Conde,Marítimo,Rio Ave,2011,Portuguese
+20,20,Christian Atsu,GHA,M,1.72,68,10-01-92,Ada Foah,FC Porto,Rio Ave,2011,Portuguese
+22,22,André Dias,POR,D,1.78,71,18-04-92,Torre de Moncorvo,Benfica,Rio Ave,2011,Portuguese
+23,23,André Vilas Boas,POR,M,1.83,80,04-06-83,Vila do Conde,Marítimo,Rio Ave,2011,Portuguese
+25,25,Jorginho,BRA,M,1.78,72,06-05-77,Goiânia,Gaziantepspor,Rio Ave,2011,Portuguese
+28,28,Huanderson,BRA,G,1.89,83,03-08-83,Goiânia,Goianésia,Rio Ave,2011,Portuguese
+29,29,Anselmo,POR,F,1.82,75,06-01-84,Torres Vedras,Nacional [POR],Rio Ave,2011,Portuguese
+30,30,Wíres,BRA,M,1.77,70,30-12-82,Vitória de Santo Antão,Vera Cruz-PE,Rio Ave,2011,Portuguese
+33,33,Éder,BRA,D,1.83,81,21-09-83,São Paulo,Grêmio Anápolis,Rio Ave,2011,Portuguese
+38,38,Paulo Santos,POR,G,1.86,85,11-12-72,Odivelas,Estoril,Rio Ave,2011,Portuguese
+41,88,Yazalde,POR,F,1.83,79,10-09-88,Vila do Conde,Sporting Braga,Rio Ave,2011,Portuguese
+42,89,Fábio Faria,POR,D,1.85,75,24-04-89,Vila do Conde,Benfica,Rio Ave,2011,Portuguese
+1,1,Quim,POR,G,1.84,79,13-11-75,Famalição,Benfica,Sporting Braga,2011,Portuguese
+4,4,Nuno Coelho,POR,D,1.92,83,07-01-86,Penafiel,Sporting CP,Sporting Braga,2011,Portuguese
+5,5,Ewerton,BRA,D,1.88,81,23-03-89,Penedo,Corinthians Alagoano,Sporting Braga,2011,Portuguese
+6,6,Vinicius,BRA,M,1.86,74,16-05-86,Campo Grande,Olhanense,Sporting Braga,2011,Portuguese
+7,7,Ukra,POR,F,1.75,68,16-03-88,Vila Nova de Famalicão,FC Porto,Sporting Braga,2011,Portuguese
+8,8,Marcio Mossoró,BRA,M,1.70,67,04-07-83,Mossoró,Internacional,Sporting Braga,2011,Portuguese
+9,9,Paulo César,BRA,F,1.75,73,05-01-80,São Luis do Maranhão,União de Leiria,Sporting Braga,2011,Portuguese
+10,10,Hélder Barbosa,POR,M,1.72,67,25-05-87,Paredes,Vitória Setúbal,Sporting Braga,2011,Portuguese
+11,11,Édson Rivera,MEX,F,1.81,80,04-11-91,Guadalajara,Atlas,Sporting Braga,2011,Portuguese
+13,13,Miguel Lopes,POR,D,1.82,72,19-12-86,Lisbon,FC Porto,Sporting Braga,2011,Portuguese
+15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Paços de Ferreira,Sporting Braga,2011,Portuguese
+18,18,Lima,BRA,F,1.79,82,11-05-83,Monte Alegre,Astral,Sporting Braga,2011,Portuguese
+20,20,Elderson Uwa Echiejile,NGA,D,1.84,76,20-01-88,Cotonou,Rennes,Sporting Braga,2011,Portuguese
+21,21,Nuno Gomes,POR,F,1.81,74,05-07-76,Amarante,Benfica,Sporting Braga,2011,Portuguese
+22,22,Djamal Mahamat,LBY,M,1.88,78,26-04-83,Tripoli,Beira-Mar,Sporting Braga,2011,Portuguese
+23,23,Emmanuel Imorou,BEN,D,1.81,69,16-09-88,Bourges,Châteauroux,Sporting Braga,2011,Portuguese
+25,25,Leandro Salino,BRA,M,1.69,64,22-04-85,Juiz de Fora,Nacional [POR],Sporting Braga,2011,Portuguese
+26,26,Paulo Vinícius,BRA,M,1.86,84,12-08-84,Cuiabá,União de Leiria,Sporting Braga,2011,Portuguese
+27,27,Custódio,POR,M,1.80,80,24-05-83,Guimarães,Vitória Guimarães,Sporting Braga,2011,Portuguese
+30,30,Alan,BRA,F,1.80,72,19-09-79,Rio de Janeiro,FC Porto,Sporting Braga,2011,Portuguese
+32,32,Tommaso Berni,ITA,G,1.85,80,06-03-83,Florence,Lazio,Sporting Braga,2011,Portuguese
+41,44,Douglão,BRA,D,1.93,86,15-08-86,Santos,Kavala,Sporting Braga,2011,Portuguese
+42,45,Hugo Viana,POR,M,1.81,73,15-01-83,Barcelos,Valencia,Sporting Braga,2011,Portuguese
+43,46,Palmeira,POR,D,1.87,78,24-09-89,Constantim,None,Sporting Braga,2011,Portuguese
+44,55,Samuel,BRA,D,1.90,83,07-04-86,São Paulo,Anderlecht,Sporting Braga,2011,Portuguese
+45,83,Carlão,BRA,F,1.90,78,01-08-86,Caxias,Kashima Antlers,Sporting Braga,2011,Portuguese
+46,86,Wanderson,BRA,M,1.79,73,02-08-90,Santo Amaro da Imperatriz,Vizela,Sporting Braga,2011,Portuguese
+47,88,Luís Alberto,BRA,M,1.81,67,17-11-83,Salvador,Nacional [POR],Sporting Braga,2011,Portuguese
+48,90,Ruben Amorim,POR,M,1.78,73,27-01-85,Lisbon,Benfica,Sporting Braga,2011,Portuguese
+1,1,Rui Patrício,POR,G,1.88,84,15-02-88,Marrazes,None,Sporting CP,2011,Portuguese
+2,2,Alberto Rodríguez,PER,D,1.82,78,31-01-84,Lima,Sporting Braga,Sporting CP,2011,Portuguese
+3,3,Daniel Carriço,POR,D,1.80,75,04-08-88,Cascais,None,Sporting CP,2011,Portuguese
+4,4,Anderson Polga,BRA,D,1.82,79,09-02-79,Santiago,Grêmio,Sporting CP,2011,Portuguese
+5,5,Oguchi Onyewu,USA,D,1.92,91,13-05-82,Washington,Milan,Sporting CP,2011,Portuguese
+6,6,Evaldo,BRA,D,1.84,80,18-03-82,Rio Piracicaba,Sporting Braga,Sporting CP,2011,Portuguese
+8,8,Stijn Schaars,NED,M,1.77,77,11-01-84,Gendt,AZ Alkmaar,Sporting CP,2011,Portuguese
+9,9,Ricky van Wolfswinkel,NED,F,1.85,69,27-01-89,Amersfoort,FC Utrecht,Sporting CP,2011,Portuguese
+10,10,Marat Izmailov,RUS,M,1.72,70,21-09-82,Moscow,Lokomotiv Moscow,Sporting CP,2011,Portuguese
+11,11,Diego Capel,ESP,M,1.73,67,16-02-88,Albox,Sevilla,Sporting CP,2011,Portuguese
+12,12,Marcelo Boeck,BRA,G,1.91,83,28-11-84,Santa Cruz,Marítimo,Sporting CP,2011,Portuguese
+14,14,Matías Fernández,CHI,M,1.77,75,15-05-86,Merlo,Villarreal,Sporting CP,2011,Portuguese
+16,16,Tiago,POR,G,1.80,72,16-04-75,A-dos-Cunhados,Estrela da Amadora,Sporting CP,2011,Portuguese
+17,17,Jeffrén Suárez,ESP,F,1.76,73,20-01-88,Ciudad Bolivar,Barcelona,Sporting CP,2011,Portuguese
+18,18,André Carrillo,PER,F,1.83,75,14-06-91,Lima,Alianza Lima,Sporting CP,2011,Portuguese
+19,19,Santiago Arias,COL,D,1.70,67,13-01-92,Medellín,La Equidad,Sporting CP,2011,Portuguese
+21,21,Fabián Rinaudo,ARG,M,1.76,75,15-05-87,Armstrong,Gimnasia y Esgrima (LP),Sporting CP,2011,Portuguese
+25,25,Bruno Pereirinha,POR,M,1.73,68,02-03-88,Rio de Mouro,None,Sporting CP,2011,Portuguese
+26,26,André Santos,POR,M,1.76,70,02-03-89,Sobreiro Curvo,None,Sporting CP,2011,Portuguese
+28,28,André Martins,POR,M,1.66,56,21-01-90,Santa Maria da Feira,None,Sporting CP,2011,Portuguese
+31,31,Renato Neto,BRA,F,1.84,75,27-09-91,Camacan,None,Sporting CP,2011,Portuguese
+32,32,Sebastián Ribas,URU,F,1.89,86,11-03-88,Montevideo,Genoa,Sporting CP,2011,Portuguese
+33,33,Diego Rubio,CHI,F,1.80,76,17-05-93,Santiago,Colo-Colo,Sporting CP,2011,Portuguese
+34,34,Tiago Ilori,POR,D,1.90,80,26-02-93,London,None,Sporting CP,2011,Portuguese
+41,47,João Pereira,POR,D,1.72,64,25-02-84,Lisbon,Sporting Braga,Sporting CP,2011,Portuguese
+42,48,Emiliano Insúa,ARG,D,1.73,82,07-01-89,Buenos Aires,Liverpool,Sporting CP,2011,Portuguese
+43,77,Elias,BRA,M,1.73,64,16-05-85,São Paulo,Atlético Madrid,Sporting CP,2011,Portuguese
+44,93,Xandão,BRA,D,1.93,87,23-02-88,Araçatuba,Desportivo Brasil,Sporting CP,2011,Portuguese
+1,1,Eduardo Gottardi,BRA,G,1.93,80,18-10-85,Encantado,Juventude,Uniγo de Leiria,2011,Portuguese
+2,2,Ivo Pinto,POR,D,1.84,73,07-01-90,Lourosa,Rio Ave,Uniγo de Leiria,2011,Portuguese
+4,4,Manuel Curto,POR,M,1.86,83,09-07-86,Torres Vedras,Naval,Uniγo de Leiria,2011,Portuguese
+6,6,Maximilian Haas,GER,M,1.90,74,07-12-85,Freising,Middlesbrough,Uniγo de Leiria,2011,Portuguese
+7,7,Niklas Bärkroth,SWE,F,1.71,70,19-01-92,Gothenburg,IFK Göteborg,Uniγo de Leiria,2011,Portuguese
+8,8,Rúben Brígido,POR,M,1.71,65,23-06-91,Leiria,None,Uniγo de Leiria,2011,Portuguese
+12,12,Luiz Carlos,BRA,G,1.91,87,24-05-88,Porto Alegre,Internacional,Uniγo de Leiria,2011,Portuguese
+15,15,Edson,BRA,D,1.83,84,06-07-87,Itaquitinga,Figueirense,Uniγo de Leiria,2011,Portuguese
+17,17,Djaniny,CPV,F,1.90,78,21-03-91,Santa Cruz,Velense,Uniγo de Leiria,2011,Portuguese
+18,18,Abdullah Alhafith,KSA,D,1.88,75,25-12-92,Dammam,Al-Ettifaq,Uniγo de Leiria,2011,Portuguese
+19,19,Elvis,BRA,M,1.75,73,09-09-90,Janiópolis,Benfica,Uniγo de Leiria,2011,Portuguese
+20,20,Marco Soares,CPV,M,1.80,75,16-06-84,Setúbal,Barreirense,Uniγo de Leiria,2011,Portuguese
+21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,Le Mans,Uniγo de Leiria,2011,Portuguese
+22,22,Pedro Almeida,POR,D,,,05-04-93,,Benfica,Uniγo de Leiria,2011,Portuguese
+25,25,Hugo Gomes,POR,D,1.72,68,11-10-79,Faro,Estrela da Amadora,Uniγo de Leiria,2011,Portuguese
+28,28,Filipe Oliveira,POR,M,1.93,86,21-04-94,Leiria,None,Uniγo de Leiria,2011,Portuguese
+29,29,Cacá,BRA,M,1.71,69,09-10-82,Belo Horizente,Odense,Uniγo de Leiria,2011,Portuguese
+30,30,Jô,BRA,F,1.70,70,19-09-89,Rio Branco,Juventus-RB,Uniγo de Leiria,2011,Portuguese
+35,35,José Shaffer,ARG,D,1.75,70,16-12-85,Córdoba,Benfica,Uniγo de Leiria,2011,Portuguese
+41,41,Robinho,BRA,F,1.76,70,08-09-87,Volta Redonda,Al-Sharjah,Uniγo de Leiria,2011,Portuguese
+42,66,Alphousseyni Keita,MLI,M,1.80,74,13-11-85,Bamako,Nîmes,Uniγo de Leiria,2011,Portuguese
+43,71,Luis Oliviera,POR,D,,,09-01-94,,None,Uniγo de Leiria,2011,Portuguese
+44,72,Miguel Baptista,POR,M,,,10-09-93,Alcobaça,Ginásio de Alcobaça,Uniγo de Leiria,2011,Portuguese
+45,74,Miguel Rodrigues,POR,D,1.88,73,16-03-93,Ourém,None,Uniγo de Leiria,2011,Portuguese
+46,77,Carlos Daniel,POR,F,1.78,72,11-07-94,Figueira da Foz,Benfica,Uniγo de Leiria,2011,Portuguese
+47,80,Patrick,BRA,D,1.80,70,20-08-80,Muriaé,Ituano,Uniγo de Leiria,2011,Portuguese
+48,90,John Ogu,NGA,M,1.92,84,20-04-88,Akwa,Almeríá B,Uniγo de Leiria,2011,Portuguese
+49,93,Jan Oblak,SVN,G,1.85,77,07-01-93,kofja Loka,Benfica,Uniγo de Leiria,2011,Portuguese
+50,95,Rafael Copetti,BRA,G,1.93,87,04-04-91,Chapecó,Internacional,Uniγo de Leiria,2011,Portuguese
+51,99,Bruno Moraes,BRA,F,1.80,72,07-07-84,Santos,Naval,Uniγo de Leiria,2011,Portuguese
+1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitσria Guimarγes,2011,Portuguese
+2,2,Freire,BRA,D,1.86,73,21-08-89,Presidente Prudente,União São João,Vitσria Guimarγes,2011,Portuguese
+3,3,Rodrigo Defendi,BRA,D,1.93,83,16-06-86,Ribeirão Preto,Paraná,Vitσria Guimarγes,2011,Portuguese
+4,4,Pedro Mendes,POR,M,1.77,77,26-02-79,Guimarães,Sporting CP,Vitσria Guimarγes,2011,Portuguese
+5,5,Issam El Adoua,MAR,D,1.89,74,09-12-86,Casablanca,Qadsia SC,Vitσria Guimarγes,2011,Portuguese
+6,6,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Grêmio,Vitσria Guimarγes,2011,Portuguese
+8,8,Marcelo Toscano,BRA,F,1.84,75,12-05-85,Areado,Paraná,Vitσria Guimarγes,2011,Portuguese
+10,10,Nuno Assis,POR,M,1.68,63,25-11-77,Coimbra,Al-Ittihad [KSA],Vitσria Guimarγes,2011,Portuguese
+14,14,Jean Barrientos,URU,M,1.73,69,16-09-90,Montevideo,Racing Club [URU],Vitσria Guimarγes,2011,Portuguese
+16,16,João Amorim,POR,D,1.78,74,26-07-92,Ribeirão,None,Vitσria Guimarγes,2011,Portuguese
+17,17,Jonathan Urretavizcaya,URU,F,1.74,62,19-03-90,Montevideo,Benfica,Vitσria Guimarγes,2011,Portuguese
+18,18,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Paços de Ferreira,Vitσria Guimarγes,2011,Portuguese
+21,21,Ricardo Pereira,POR,F,1.75,70,06-10-93,Lisbon,Naval,Vitσria Guimarγes,2011,Portuguese
+22,22,El Arbi Soudani,ALG,F,1.82,75,25-11-87,Chlef,ASO Chlef,Vitσria Guimarγes,2011,Portuguese
+23,23,Paulo Sérgio,POR,F,1.68,66,24-01-84,Lisbon,Olhanense,Vitσria Guimarγes,2011,Portuguese
+24,24,André Pereira,POR,G,1.80,72,18-04-93,Guimarães,None,Vitσria Guimarγes,2011,Portuguese
+29,29,Edgar,BRA,F,1.91,76,03-01-87,São Carlos,Vasco da Gama,Vitσria Guimarγes,2011,Portuguese
+32,32,Jorge Emanuel Molina,ARG,M,1.82,77,04-03-87,Córdoba,Real Cartagena,Vitσria Guimarγes,2011,Portuguese
+33,33,Anderson Santana,BRA,D,1.84,78,24-04-86,Belo Horizonte,Náutico,Vitσria Guimarγes,2011,Portuguese
+40,40,João Paulo,POR,D,1.82,83,06-06-81,Leiria,Le Mans,Vitσria Guimarγes,2011,Portuguese
+41,44,Mahamadou N'Diaye,MLI,D,1.86,76,21-06-90,Dakar,Wydad Casablanca,Vitσria Guimarγes,2011,Portuguese
+42,79,Alex,POR,D,1.69,69,06-09-79,Guimarães,Wolfsburg,Vitσria Guimarγes,2011,Portuguese
+43,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitσria Guimarγes,2011,Portuguese
+44,83,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitσria Guimarγes,2011,Portuguese
+1,1,Matos,POR,G,1.91,91,15-02-79,Santo Ildefonso,Varzim,Vitória Setúbal,2011,Portuguese
+2,2,Peter Suswam,NGA,D,1.78,74,05-09-91,Kaduna,Lobi Stars,Vitória Setúbal,2011,Portuguese
+3,3,Ricardo Silva,POR,D,1.83,79,26-09-75,Porto,Shinnik,Vitória Setúbal,2011,Portuguese
+5,5,Miguelito,POR,D,1.74,61,04-02-81,Póvoa de Varzim,Marítimo,Vitória Setúbal,2011,Portuguese
+6,6,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,Académica,Vitória Setúbal,2011,Portuguese
+7,7,Bruno Gallo,BRA,M,1.79,74,07-05-88,Niterói,Vasco de Gama,Vitória Setúbal,2011,Portuguese
+8,8,Tengarrinha,POR,D,1.87,72,17-02-89,Sátão,FC Porto,Vitória Setúbal,2011,Portuguese
+9,9,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Varzim,Vitória Setúbal,2011,Portuguese
+10,10,Alex Zahavi,ISR,F,1.73,63,21-01-91,Los Angeles,Maccabi Haifa,Vitória Setúbal,2011,Portuguese
+11,11,José Pedro,POR,M,1.87,79,18-10-78,Montijo,Belenenses,Vitória Setúbal,2011,Portuguese
+13,13,Igor,POR,D,1.84,72,03-05-84,Vila Nova de Gaia,Trofense,Vitória Setúbal,2011,Portuguese
+14,14,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Académica,Vitória Setúbal,2011,Portuguese
+17,17,Mamadou Djikiné,MLI,M,1.88,82,16-05-87,Bamako,Sporting Covilhã,Vitória Setúbal,2011,Portuguese
+18,18,Albert Meyong,CMR,F,1.84,71,19-10-80,Yaoundé,Sporting Braga,Vitória Setúbal,2011,Portuguese
+19,19,Jorge Gonçalves,POR,F,1.78,82,31-10-83,Vila Nova de Gaia,Olhanense,Vitória Setúbal,2011,Portuguese
+20,20,Hugo Leal,POR,M,1.80,84,21-05-80,Cascais,Salamanca,Vitória Setúbal,2011,Portuguese
+25,25,Diego,BRA,G,1.88,88,11-05-79,Itaqui,Leixões,Vitória Setúbal,2011,Portuguese
+28,28,Bruno Severino,POR,F,1.70,61,11-03-86,Barreiro,Gondomar,Vitória Setúbal,2011,Portuguese
+37,37,Bruno Amaro,POR,M,1.81,76,11-01-89,Sarajevo,Nacional [POR],Vitória Setúbal,2011,Portuguese
+41,68,Ney Santos,BRA,D,1.81,81,23-02-81,Mairum,Sporting Braga,Vitória Setúbal,2011,Portuguese
+42,70,Gonçalo Graça,POR,F,1.75,68,28-03-90,Vila do Conde,Varzim,Vitória Setúbal,2011,Portuguese
+43,76,Ricardo,POR,G,1.88,77,11-02-76,Montijo,Leicester C,Vitória Setúbal,2011,Portuguese
+44,86,Tiago Targino,POR,F,1.80,67,06-06-86,Beja,Vitória Guimarães,Vitória Setúbal,2011,Portuguese
+45,91,Kiko,POR,D,1.83,80,20-01-93,Alcacer do Sal,None,Vitória Setúbal,2011,Portuguese
+46,92,Pedro Mendes,POR,F,1.77,66,06-12-93,,None,Vitória Setúbal,2011,Portuguese
+47,93,Gonçalo Reyes,POR,M,1.78,71,30-01-93,Cova da Piedade,Benfica,Vitória Setúbal,2011,Portuguese
+48,94,Rúben Vezo,POR,D,1.84,76,25-04-94,Setúbal,None,Vitória Setúbal,2011,Portuguese
+49,99,Neca,POR,M,1.76,72,31-12-79,Lisbon,Ankaraspor,Vitória Setúbal,2011,Portuguese

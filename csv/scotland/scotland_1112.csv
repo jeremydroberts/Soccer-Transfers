@@ -1,0 +1,497 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,James Langfield,SCO,G,1.93,83,22-12-79,Paisley,Dunfermline Ath,Aberdeen,2011,Scottish
+2,2,Rory McArdle,NIR,D,1.85,72,01-05-87,Doncaster,Rochdale,Aberdeen,2011,Scottish
+3,3,Mark Reynolds,SCO,D,1.80,67,07-05-87,Motherwell,Sheffield W,Aberdeen,2011,Scottish
+4,4,Yoann Folly,TOG,M,1.75,74,06-06-85,Paris,Plymouth Arg,Aberdeen,2011,Scottish
+5,5,Youl Mawene,FRA,D,1.86,83,16-07-79,Caen,Panserraikos,Aberdeen,2011,Scottish
+6,6,Andrew Considine,SCO,D,1.83,75,01-04-87,Aberdeen,None,Aberdeen,2011,Scottish
+7,7,Chris Clark,SCO,M,1.80,64,15-09-80,Aberdeen,Plymouth Arg,Aberdeen,2011,Scottish
+8,8,Robert Milsom,ENG,D,1.78,72,02-01-87,Redhill,Fulham,Aberdeen,2011,Scottish
+9,9,Scott Vernon,ENG,F,1.85,73,13-12-83,Manchester,Colchester U,Aberdeen,2011,Scottish
+10,10,Darren Mackie,SCO,F,1.75,64,05-01-82,Inverurie,Colony Boys Club,Aberdeen,2011,Scottish
+11,11,Kári Árnason,ISL,M,1.90,87,13-10-82,Reykjavík,Plymouth Arg,Aberdeen,2011,Scottish
+13,13,Clark Robertson,SCO,D,1.88,76,05-09-93,Aberdeen,None,Aberdeen,2011,Scottish
+14,14,Rory Fallon,NZL,F,1.88,74,20-03-82,Gisbourne,Yeovil T,Aberdeen,2011,Scottish
+15,15,Peter Pawlett,ENG,M,1.78,68,03-02-91,Hull,None,Aberdeen,2011,Scottish
+16,16,Isaac Osbourne,ENG,M,1.78,76,22-06-86,Birmingham,Coventry C,Aberdeen,2011,Scottish
+17,17,Fraser Fyvie,SCO,M,1.72,60,27-03-93,Aberdeen,None,Aberdeen,2011,Scottish
+18,18,Mohamed Chalali,ALG,F,1.78,79,04-04-89,Montreuil,Panionios,Aberdeen,2011,Scottish
+19,19,Michael Paton,SCO,F,1.78,71,25-03-89,Greenock,None,Aberdeen,2011,Scottish
+20,20,Stephen Hughes,SCO,M,1.80,60,14-11-82,Motherwell,Motherwell,Aberdeen,2011,Scottish
+21,21,Josh Magennis,NIR,F,1.88,82,15-08-90,Bangor,Cardiff C,Aberdeen,2011,Scottish
+22,22,Ryan Jack,SCO,D,1.82,77,27-02-92,Aberdeen,None,Aberdeen,2011,Scottish
+23,23,Mitchel Megginson,SCO,F,1.80,73,27-07-92,Aberdeen,None,Aberdeen,2011,Scottish
+26,26,Jordon Brown,SCO,M,1.68,57,28-11-92,Aberdeen,None,Aberdeen,2011,Scottish
+27,27,Russell Anderson,SCO,D,1.80,68,25-10-78,Aberdeen,Derby Co,Aberdeen,2011,Scottish
+28,28,Gavin Rae,SCO,M,1.80,65,28-11-77,Aberdeen,Dundee,Aberdeen,2011,Scottish
+30,30,Ryan Fraser,SCO,M,1.63,60,24-02-94,Aberdeen,None,Aberdeen,2011,Scottish
+32,32,Jason Brown,WAL,G,1.80,98,18-05-82,Southwark,Blackburn R,Aberdeen,2011,Scottish
+33,33,Jamie Masson,SCO,M,1.70,64,05-04-93,Fraserburgh,None,Aberdeen,2011,Scottish
+34,34,Danny Uchechi,NGA,F,1.83,77,14-09-89,Kaduna,FC Dender,Aberdeen,2011,Scottish
+37,37,Stephen O'Neill,SCO,M,,,07-06-94,,None,Aberdeen,2011,Scottish
+40,40,Przemysław Łukasik,POL,G,,,06-08-93,,None,Aberdeen,2011,Scottish
+41,41,Cammy Smith,SCO,F,1.75,68,24-08-95,Aberdeen,None,Aberdeen,2011,Scottish
+42,47,Declan McManus,SCO,F,1.80,75,03-08-94,Glasgow,None,Aberdeen,2011,Scottish
+43,50,Danny Rogers,IRL,G,1.85,77,23-03-94,Dublin,None,Aberdeen,2011,Scottish
+1,1,Fraser Forster,ENG,G,1.83,76,17-03-88,Hexham,Newcastle U,Celtic,2011,Scottish
+2,2,Adam Matthews,WAL,D,1.78,71,13-01-92,Swansea,Cardiff C,Celtic,2011,Scottish
+3,3,Emilio Izaguirre,HON,D,1.77,77,10-05-86,Tegucigalpa,Motagua,Celtic,2011,Scottish
+4,4,Efrain Juárez,MEX,D,1.72,65,22-02-88,Mexico City,UNAM,Celtic,2011,Scottish
+5,5,Daniel Majstorović,SWE,D,1.90,88,05-05-77,Malmö,AEK,Celtic,2011,Scottish
+6,6,Kelvin Wilson,ENG,D,1.88,77,03-09-85,Nottingham,Nottingham F,Celtic,2011,Scottish
+8,8,Scott Brown,SCO,M,1.75,72,26-06-85,Dunfermline,Hibernian,Celtic,2011,Scottish
+9,9,Giorgos Samaras,GRE,F,1.93,82,21-02-85,Heraklion,Manchester C,Celtic,2011,Scottish
+10,10,Anthony Stokes,IRL,F,1.80,73,25-07-88,Dublin,Hibernian,Celtic,2011,Scottish
+11,11,Cha Du-Ri,KOR,D,1.81,81,25-07-80,Frankfurt am Main,Freiburg,Celtic,2011,Scottish
+12,12,Mark Wilson,SCO,D,1.80,76,05-06-84,Glasgow,Dundee U,Celtic,2011,Scottish
+14,14,Mohamed Bangura,SLE,F,1.77,77,27-07-89,Kambia,AIK,Celtic,2011,Scottish
+15,15,Kris Commons,SCO,M,1.68,61,30-08-83,Nottingham,Derby C,Celtic,2011,Scottish
+16,16,Joe Ledley,WAL,M,1.83,73,23-01-87,Cardiff,Cardiff C,Celtic,2011,Scottish
+17,17,Paweł Brożek,POL,F,1.80,73,21-04-83,Kielce,Trabzonspor,Celtic,2011,Scottish
+18,18,Ki Sung-Yueng,KOR,M,1.87,79,24-01-89,Gwangju,FC Seoul,Celtic,2011,Scottish
+19,19,Morten D Rasmussen,DEN,F,1.85,77,31-01-85,Copenhagen,Brøndby,Celtic,2011,Scottish
+20,20,Patrick McCourt,NIR,M,1.82,70,16-12-83,Derry,Derry C,Celtic,2011,Scottish
+21,21,Charlie Mulgrew,SCO,D,1.91,83,06-03-86,Glasgow,Aberdeen,Celtic,2011,Scottish
+22,22,Glenn Loovens,NED,D,1.77,74,22-09-83,Doetinchem,Cardiff C,Celtic,2011,Scottish
+23,23,Mikael Lustig,SWE,D,1.89,77,13-12-86,Umeå,Rosenborg,Celtic,2011,Scottish
+24,24,Łukasz Załuska,POL,G,1.90,88,16-06-82,Wysokie Mazowieckie,Dundee U,Celtic,2011,Scottish
+25,25,Thomas Rogne,NOR,D,1.93,87,29-06-90,Bærum,Stabæk,Celtic,2011,Scottish
+32,32,Tony Watt,SCO,F,1.73,67,29-12-93,Coatbridge,Airdrie U,Celtic,2011,Scottish
+33,33,Beram Kayal,ISR,M,1.78,74,02-05-88,Jadeidi-Makr,Maccabi Haifa,Celtic,2011,Scottish
+39,39,Andre Blackman,ENG,D,1.80,72,10-11-90,Lambeth,AFC Wimbledon,Celtic,2011,Scottish
+40,40,Rabiu Ibrahim,NGA,M,1.69,60,15-03-91,Kano,PSV Eindhoven,Celtic,2011,Scottish
+41,42,Callum McGregor,SCO,M,1.78,67,14-06-93,Glasgow,None,Celtic,2011,Scottish
+42,43,Joe Chalmers,SCO,D,1.88,80,03-01-94,Glasgow,None,Celtic,2011,Scottish
+43,44,Marcus Fraser,SCO,D,1.78,70,23-06-94,Bishopbriggs,None,Celtic,2011,Scottish
+44,46,Dylan McGeouch,SCO,F,1.78,69,15-01-93,Glasgow,Rangers,Celtic,2011,Scottish
+45,47,Dominic Cervi,USA,G,1.98,93,09-07-86,Norman,Michigan Bucks,Celtic,2011,Scottish
+46,49,James Forrest,SCO,M,1.70,67,07-07-91,Prestwick,None,Celtic,2011,Scottish
+47,50,Paul George,IRL,M,1.73,66,27-01-94,Killough,None,Celtic,2011,Scottish
+48,56,Filip Twardzik,CZE,M,1.80,64,10-02-93,Třinec,Hertha Berlin,Celtic,2011,Scottish
+49,58,Patrik Twardzik,CZE,M,1.80,71,10-02-93,Třinec,Hertha Berlin,Celtic,2011,Scottish
+50,67,Victor Wanyama,KEN,M,1.88,76,25-06-91,Nairobi,Germinal Beerschot,Celtic,2011,Scottish
+51,88,Gary Hooper,ENG,F,1.75,71,26-01-88,Loughton,Scunthorpe U,Celtic,2011,Scottish
+1,1,Duan Perni,SVK,G,1.91,91,28-11-84,Nitra,MK ilina,Dundee United,2011,Scottish
+2,2,Sean Dillon,IRL,D,1.83,79,30-07-83,Dublin,Shelbourne,Dundee United,2011,Scottish
+3,3,Paul Dixon,SCO,D,1.91,71,22-11-86,Aberdeen,Dundee,Dundee United,2011,Scottish
+5,5,Garry Kenneth,SCO,D,1.93,83,21-06-87,Dundee,None,Dundee United,2011,Scottish
+6,6,Willo Flood,IRL,M,1.68,62,10-04-85,Dublin,Middlesbrough,Dundee United,2011,Scottish
+7,7,Richie Ryan,IRL,M,1.78,67,06-01-85,Kilkenny,Sligo R,Dundee United,2011,Scottish
+8,8,Scott Robertson,SCO,M,1.83,72,07-04-85,Dundee,Dundee,Dundee United,2011,Scottish
+9,9,Jonathan Daly,IRL,F,1.91,76,08-01-83,Dublin,Hartlepool U,Dundee United,2011,Scottish
+10,10,Danny Swanson,SCO,M,1.68,59,28-12-86,Edinburgh,Berwick Rangers,Dundee United,2011,Scottish
+11,11,John Rankin,SCO,M,1.73,80,27-06-83,Bellshill,Hibernian,Dundee United,2011,Scottish
+12,12,Keith Watson,SCO,D,1.86,73,14-11-89,Livingston,Livingston Star BC,Dundee United,2011,Scottish
+13,13,Steve Banks,ENG,G,1.80,84,09-02-72,Hillingdon,Hearts,Dundee United,2011,Scottish
+14,14,Barry Douglas,SCO,D,1.78,64,04-09-89,Glasgow,Queen's Park,Dundee United,2011,Scottish
+15,15,Johnny Russell,SCO,F,1.78,67,08-04-90,Glasgow,None,Dundee United,2011,Scottish
+16,16,Stuart Armstrong,SCO,M,1.83,75,30-03-92,Inverness,Inverness CT,Dundee United,2011,Scottish
+17,17,Gary Mackay-Steven,SCO,M,1.75,68,31-08-90,Thurso,Airdrie U,Dundee United,2011,Scottish
+18,18,Gavin Gunning,IRL,D,1.83,80,26-01-91,Cork,Blackburn R,Dundee United,2011,Scottish
+20,20,Milo Lačný,SVK,F,1.84,83,08-03-88,Levoča,Sparta Prague,Dundee United,2011,Scottish
+21,21,Filip Mentel,SVK,G,1.80,76,02-02-90,Bratislava,Manchester C,Dundee United,2011,Scottish
+22,22,Ryan Dow,SCO,F,1.70,67,07-06-91,Dundee,Dundee,Dundee United,2011,Scottish
+23,23,Dale Hilson,SCO,F,1.70,65,23-12-92,Stirling,None,Dundee United,2011,Scottish
+24,24,Ross Smith,SCO,D,1.88,73,21-02-92,Glasgow,None,Dundee United,2011,Scottish
+25,25,Marc McCallum,SCO,G,1.91,80,27-03-93,Forfar,None,Dundee United,2011,Scottish
+26,26,Robbie Neilson,SCO,D,1.73,70,19-06-80,Paisley,Leicester C,Dundee United,2011,Scottish
+31,31,Philip Anderson,SCO,G,1.96,,10-03-94,Aberdeen,Rangers,Dundee United,2011,Scottish
+33,33,James Thomson,SCO,M,1.78,65,07-11-94,Dundee,None,Dundee United,2011,Scottish
+34,34,Willie Robertson,SCO,M,1.78,,14-04-93,London,None,Dundee United,2011,Scottish
+35,35,Bradley Leitch,SCO,D,1.88,74,19-02-93,Dundee,None,Dundee United,2011,Scottish
+36,36,Robert Thomson,SCO,F,1.88,74,28-05-93,Paisley,None,Dundee United,2011,Scottish
+37,37,John Young,SCO,D,1.85,,02-04-93,Dundee,None,Dundee United,2011,Scottish
+38,38,Greg Whyte,SCO,D,1.85,,20-02-93,Dundee,None,Dundee United,2011,Scottish
+39,39,Ryan Ferguson,SCO,M,1.75,68,15-01-94,Dundee,None,Dundee United,2011,Scottish
+40,40,Shane Campbell,NIR,F,1.70,69,03-06-93,Omagh,None,Dundee United,2011,Scottish
+41,41,Glenn Hawe,IRL,M,1.73,69,02-01-93,Waterford,None,Dundee United,2011,Scottish
+42,42,Paddy Barrett,IRL,D,1.82,74,22-07-93,Waterford,Aberdeen,Dundee United,2011,Scottish
+43,43,Michael Noble,SCO,D,1.78,,11-06-95,Edinburgh,Rangers,Dundee United,2011,Scottish
+44,44,Jordan Moore,SCO,F,1.85,78,19-02-94,Glasgow,None,Dundee United,2011,Scottish
+45,45,Ryan Lundie,SCO,D,1.85,,17-03-94,Glasgow,None,Dundee United,2011,Scottish
+46,46,Ryan Gauld,SCO,M,1.68,59,16-12-95,Aberdeen,None,Dundee United,2011,Scottish
+47,47,Scott Smith,SCO,M,1.73,77,21-07-95,Perth,None,Dundee United,2011,Scottish
+48,48,Craig Bell,SCO,D,1.83,75,24-01-94,Forfar,Arbroath,Dundee United,2011,Scottish
+49,49,Darren Petrie,SCO,M,1.80,65,26-07-95,Stirling,Carse Thistle,Dundee United,2011,Scottish
+50,50,Scott Fraser,SCO,M,1.83,69,30-03-95,Dundee,None,Dundee United,2011,Scottish
+51,51,Ross Gilmour,SCO,D,1.80,68,08-07-94,Paisley,None,Dundee United,2011,Scottish
+1,1,Paul Gallacher,SCO,G,1.83,77,16-08-79,Glasgow,St Mirren,Dunfermline Athletic,2011,Scottish
+2,2,Mark Kerr,SCO,M,1.83,65,02-03-82,Bellshill,Asteras Tripolis,Dunfermline Athletic,2011,Scottish
+3,3,Austin McCann,SCO,D,1.75,85,21-01-80,Clydebank,Notts Co,Dunfermline Athletic,2011,Scottish
+4,4,Gary Mason,SCO,M,1.73,64,15-10-79,Edinburgh,Hamilton Academical,Dunfermline Athletic,2011,Scottish
+5,5,Kevin Rutkiewicz,SCO,D,1.81,67,10-05-80,Glasgow,St Johnstone,Dunfermline Athletic,2011,Scottish
+6,6,Alex Keddie,SCO,D,1.88,83,23-01-81,Glasgow,Ross Co,Dunfermline Athletic,2011,Scottish
+7,7,Joe Cardle,ENG,M,1.73,60,07-02-87,Blackpool,Airdrie U,Dunfermline Athletic,2011,Scottish
+8,8,Martin Hardie,SCO,M,1.81,70,22-04-76,Alexandria,St Johnstone,Dunfermline Athletic,2011,Scottish
+9,9,Andrew Barrowman,SCO,F,1.83,80,27-11-84,Wishaw,Ross Co,Dunfermline Athletic,2011,Scottish
+10,10,Andy Kirk,NIR,F,1.78,73,29-05-79,Belfast,Yeovil T,Dunfermline Athletic,2011,Scottish
+11,11,David Graham,SCO,F,1.73,67,01-06-83,Stirling,Hamilton Academical,Dunfermline Athletic,2011,Scottish
+12,12,Steven McDougall,SCO,M,1.80,66,17-06-86,Paisley,Airdrie U,Dunfermline Athletic,2011,Scottish
+13,13,Patrick Boyle,SCO,D,1.78,74,20-03-87,Glasgow,Partick Thistle,Dunfermline Athletic,2011,Scottish
+14,14,Nicky Phinn,SCO,M,1.73,64,14-10-88,Glasgow,None,Dunfermline Athletic,2011,Scottish
+15,15,Andy Dowie,SCO,D,1.88,70,25-03-83,Bellshill,Ross Co,Dunfermline Athletic,2011,Scottish
+17,17,Paul Burns,SCO,M,1.76,64,18-05-84,Irvine,Queen of the South,Dunfermline Athletic,2011,Scottish
+18,18,Steven Bell,SCO,M,1.83,69,24-02-85,Glasgow,Stirling Alb,Dunfermline Athletic,2011,Scottish
+19,19,Liam Buchanan,SCO,F,1.75,65,27-03-85,Edinburgh,Partick Thistle,Dunfermline Athletic,2011,Scottish
+20,20,Chris Smith,SCO,G,1.88,86,05-03-86,Glasgow,St Mirren,Dunfermline Athletic,2011,Scottish
+22,22,Paul Willis,SCO,M,1.85,73,21-08-91,Edinburgh,None,Dunfermline Athletic,2011,Scottish
+23,23,Ryan Thomson,SCO,M,1.83,71,13-04-91,Glasgow,None,Dunfermline Athletic,2011,Scottish
+24,24,Kyle Hutton,SCO,M,1.89,74,05-02-91,Cambuslang,Rangers,Dunfermline Athletic,2011,Scottish
+26,26,Jordan McMillan,SCO,D,1.78,63,16-10-88,Glasgow,Rangers,Dunfermline Athletic,2011,Scottish
+27,27,Bernardo,ESP,G,1.88,87,06-07-79,Zafra,Huesca,Dunfermline Athletic,2011,Scottish
+30,30,Ryan Goodfellow,SCO,G,,,26-05-93,Earlston,None,Dunfermline Athletic,2011,Scottish
+31,31,Steven Leslie,SCO,F,,,08-11-92,Kirkcaldy,None,Dunfermline Athletic,2011,Scottish
+32,32,Conor Schiavone,SCO,F,,,18-07-92,,None,Dunfermline Athletic,2011,Scottish
+33,33,Blair McWhirter,SCO,D,,,,,None,Dunfermline Athletic,2011,Scottish
+34,34,Shaun Byrne,SCO,M,1.78,63,09-06-93,Kirkcaldy,None,Dunfermline Athletic,2011,Scottish
+35,35,Jamie Birnie,SCO,D,,,30-04-93,Kirkcaldy,None,Dunfermline Athletic,2011,Scottish
+36,36,Scott Mackintosh,SCO,F,,,28-05-93,Dunfermline,None,Dunfermline Athletic,2011,Scottish
+37,37,Ben Martin,SCO,M,,,08-08-93,Kirkcaldy,None,Dunfermline Athletic,2011,Scottish
+38,38,Grant Munro,SCO,D,,,26-07-93,Edinburgh,Aberdeen,Dunfermline Athletic,2011,Scottish
+39,39,Kerr Young,SCO,D,,,14-07-93,Edinburgh,Edinburgh C,Dunfermline Athletic,2011,Scottish
+40,40,Ross Drummond,SCO,D,,,20-03-94,,None,Dunfermline Athletic,2011,Scottish
+41,42,Fraser Moncrieff,SCO,F,,,08-08-94,,None,Dunfermline Athletic,2011,Scottish
+42,43,Blair Henderson,SCO,F,,,10-08-94,Melrose,None,Dunfermline Athletic,2011,Scottish
+43,44,Christopher Hackland,SCO,M,,,24-01-94,Perth,None,Dunfermline Athletic,2011,Scottish
+44,45,Ross Millen,SCO,D,,,28-09-94,,St Mirren,Dunfermline Athletic,2011,Scottish
+45,46,Scott Mercer,SCO,D,1.83,75,18-06-95,Kirkcaldy,None,Dunfermline Athletic,2011,Scottish
+46,47,Scott Campbell,SCO,D,,,25-05-94,,Hearts,Dunfermline Athletic,2011,Scottish
+2,2,Jamie Hamill,SCO,D,1.73,71,29-07-86,Irvine,Kilmarnock,Heart of Midlothian,2011,Scottish
+3,3,Danny Grainger,ENG,D,1.83,76,28-07-86,Carlisle,St Johnstone,Heart of Midlothian,2011,Scottish
+4,4,Craig Beattie,SCO,F,1.83,73,16-01-84,Glasgow,Swansea C,Heart of Midlothian,2011,Scottish
+5,5,Darren Barr,SCO,D,1.75,65,17-03-85,Glasgow,Falkirk,Heart of Midlothian,2011,Scottish
+6,6,Andy Webster,SCO,D,1.83,64,23-04-82,Dundee,Rangers,Heart of Midlothian,2011,Scottish
+7,7,Suso,ESP,M,1.74,71,02-03-85,Santa Cruz de Tenerife,Tenerife,Heart of Midlothian,2011,Scottish
+8,8,Ian Black,SCO,M,1.73,63,14-03-85,Edinburgh,Inverness CT,Heart of Midlothian,2011,Scottish
+10,10,Stephen Elliott,IRL,F,1.76,74,06-01-84,Dublin,Preston NE,Heart of Midlothian,2011,Scottish
+11,11,Andrew Driver,ENG,M,1.75,68,12-11-87,Oldham,None,Heart of Midlothian,2011,Scottish
+12,12,David Templeton,SCO,F,1.76,63,07-01-89,Glasgow,Stenhousemuir,Heart of Midlothian,2011,Scottish
+13,13,David Obua,UGA,M,1.84,82,10-04-84,Kampala,Kaizer Chiefs,Heart of Midlothian,2011,Scottish
+17,17,Ryan McGowan,AUS,D,1.88,75,15-08-89,Adelaide,Para Hills,Heart of Midlothian,2011,Scottish
+18,18,Arvydas Novikovas,LTU,F,1.79,76,18-12-90,Vilnius,FK Vilnius,Heart of Midlothian,2011,Scottish
+19,19,Rudi Skácel,CZE,M,1.78,77,17-07-79,Trutnov,Larissa,Heart of Midlothian,2011,Scottish
+20,20,Jason Thomson,SCO,D,1.80,73,26-08-87,Edinburgh,None,Heart of Midlothian,2011,Scottish
+21,21,Mehdi Taouil,MAR,M,1.73,73,20-05-83,Villeneuve St Georges,Kilmarnock,Heart of Midlothian,2011,Scottish
+22,22,Gordon Smith,SCO,F,1.83,70,14-02-91,Edinburgh,Livingston,Heart of Midlothian,2011,Scottish
+23,23,Gary Glen,SCO,F,1.77,79,22-03-90,Livingston,None,Heart of Midlothian,2011,Scottish
+25,25,Marián Kello,SVK,G,1.88,87,05-09-82,Gelnica,FBK Kaunas,Heart of Midlothian,2011,Scottish
+26,26,Marius aliūkas,LTU,M,1.90,84,10-11-83,Kurėnai,FBK Kaunas,Heart of Midlothian,2011,Scottish
+27,27,Scott Robinson,SCO,F,1.68,60,12-03-92,Edinburgh,None,Heart of Midlothian,2011,Scottish
+28,28,Mark Ridgers,SCO,G,1.83,82,09-08-90,Inverness,Ross Co,Heart of Midlothian,2011,Scottish
+30,30,Jamie MacDonald,SCO,G,1.86,71,17-04-86,Broxburn,None,Heart of Midlothian,2011,Scottish
+31,31,Adrian Mrowiec,POL,M,1.90,84,01-12-83,Wałbrzych,FBK Kaunas,Heart of Midlothian,2011,Scottish
+34,34,Jonathan Stewart,SCO,D,,,12-02-90,,None,Heart of Midlothian,2011,Scottish
+35,35,Denys Prychynenko,UKR,M,1.85,78,17-02-92,Potsdam,TeBe Berlin,Heart of Midlothian,2011,Scottish
+38,38,Jordan Morton,SCO,F,1.83,74,25-04-92,Glasgow,Clyde,Heart of Midlothian,2011,Scottish
+40,40,Colin Hamilton,SCO,D,1.88,73,07-05-92,,Stenhousemuir,Heart of Midlothian,2011,Scottish
+41,42,Jason Holt,SCO,M,1.64,65,19-02-93,Edinburgh,None,Heart of Midlothian,2011,Scottish
+42,43,David Smith,SCO,F,1.80,75,01-03-93,Glasgow,None,Heart of Midlothian,2011,Scottish
+43,44,Brad McKay,SCO,D,1.86,75,26-03-93,Edinburgh,None,Heart of Midlothian,2011,Scottish
+44,45,Chris Kane,SCO,M,,,31-05-93,,Hibernian,Heart of Midlothian,2011,Scottish
+45,46,Aaron Murdoch,SCO,M,,,15-04-93,,None,Heart of Midlothian,2011,Scottish
+46,47,Dale O'Hara,SCO,D,,,14-06-93,,None,Heart of Midlothian,2011,Scottish
+47,49,Kevin McHattie,SCO,D,1.81,73,15-07-93,Glenrothes,Dunfermline Ath,Heart of Midlothian,2011,Scottish
+48,50,Ryan Stewart,SCO,M,,,06-10-93,,None,Heart of Midlothian,2011,Scottish
+49,51,Chris Tobin,SCO,M,,,18-10-93,,None,Heart of Midlothian,2011,Scottish
+50,52,Fraser Mullen,SCO,D,1.75,73,08-11-93,Glasgow,None,Heart of Midlothian,2011,Scottish
+51,53,Jack Hamilton,SCO,G,1.90,75,22-03-94,Denny,Stenhousemuir,Heart of Midlothian,2011,Scottish
+52,54,Billy King,SCO,M,1.78,68,12-05-94,Edinburgh,None,Heart of Midlothian,2011,Scottish
+53,55,Callum Paterson,SCO,M,1.83,76,13-10-94,South Queensferry,Tynecastle,Heart of Midlothian,2011,Scottish
+54,56,Michael Thomson,SCO,M,,,12-09-94,,Hamilton Academical,Heart of Midlothian,2011,Scottish
+55,57,George Scott,SCO,M,,,01-04-94,,Rangers,Heart of Midlothian,2011,Scottish
+56,58,Dale Carrick,SCO,M,1.80,75,07-01-94,Edinburgh,None,Heart of Midlothian,2011,Scottish
+57,59,Ewan Sanderson,SCO,M,,,04-01-95,,None,Heart of Midlothian,2011,Scottish
+1,1,Graham Stack,IRL,G,1.88,79,26-09-81,Hampstead,Plymouth Arg,Hibernian,2011,Scottish
+2,2,Matt Doherty,IRL,D,1.82,80,16-01-92,Dublin,Wolverhampton W,Hibernian,2011,Scottish
+3,3,Callum Booth,SCO,D,1.80,75,30-05-91,Stranraer,None,Hibernian,2011,Scottish
+4,4,Paul Hanlon,SCO,D,1.80,64,20-01-90,Edinburgh,None,Hibernian,2011,Scottish
+5,5,Sean O'Hanlon,ENG,D,1.85,79,02-01-83,Southport,MK Dons,Hibernian,2011,Scottish
+6,6,Ian Murray,SCO,M,1.83,72,20-03-81,Edinburgh,Norwich C,Hibernian,2011,Scottish
+7,7,David Wotherspoon,SCO,M,1.81,76,16-01-90,Perth,None,Hibernian,2011,Scottish
+8,8,Jorge Claros,HON,M,1.76,67,08-01-86,La Ceiba,Motagua,Hibernian,2011,Scottish
+9,9,Garry O'Connor,SCO,F,1.86,75,07-05-83,Edinburgh,Barnsley,Hibernian,2011,Scottish
+10,10,Eóin Doyle,IRL,F,1.78,73,12-03-88,Tallaght,Sligo R,Hibernian,2011,Scottish
+11,11,Danny Galbraith,SCO,M,1.75,65,05-03-90,Galashiels,Manchester U,Hibernian,2011,Scottish
+13,13,Tom Soares,ENG,M,1.83,72,10-07-86,Reading,Stoke C,Hibernian,2011,Scottish
+14,14,Martin Scott,SCO,M,1.80,70,15-02-86,Livingston,Ross Co,Hibernian,2011,Scottish
+15,15,James McPake,NIR,D,1.89,80,24-06-84,Bellshill,Coventry C,Hibernian,2011,Scottish
+16,16,Lewis Stevenson,SCO,D,1.70,67,05-01-88,Kirkcaldy,None,Hibernian,2011,Scottish
+17,17,Ivan Sproule,NIR,M,1.73,74,18-02-81,Omagh,Bristol C,Hibernian,2011,Scottish
+18,18,Roy O'Donovan,IRL,F,1.69,64,10-08-85,Cork,Coventry C,Hibernian,2011,Scottish
+19,19,Pa Saikou Kujabi,GAM,M,1.68,72,10-12-86,Serrekunda,FSV Frankfurt,Hibernian,2011,Scottish
+20,20,David Stephens,WAL,D,1.93,92,18-10-91,Welywn Garden City,Norwich C,Hibernian,2011,Scottish
+22,22,George Francomb,ENG,D,1.80,73,08-09-91,Hackney,Norwich C,Hibernian,2011,Scottish
+24,24,Isaiah Osbourne,ENG,M,1.88,79,15-11-87,Birmingham,Aston Villa,Hibernian,2011,Scottish
+25,25,Richie Towell,IRL,M,1.73,66,17-07-91,Dublin,Celtic,Hibernian,2011,Scottish
+26,26,Sean Welsh,SCO,M,1.74,70,15-03-90,Leith,None,Hibernian,2011,Scottish
+28,28,Leigh Griffiths,SCO,F,1.75,64,20-08-90,Edinburgh,Wolverhampton W,Hibernian,2011,Scottish
+29,29,Ross Caldwell,SCO,F,1.75,75,26-10-93,Bellshill,None,Hibernian,2011,Scottish
+31,31,Mark Brown,SCO,G,1.85,84,28-02-81,Motherwell,Celtic,Hibernian,2011,Scottish
+33,33,Sam Stanton,SCO,M,1.80,64,19-04-94,Edinburgh,None,Hibernian,2011,Scottish
+34,34,Scott Smith,SCO,D,,,14-02-92,Edinburgh,None,Hibernian,2011,Scottish
+35,35,Harry Monaghan,SCO,M,1.78,75,24-03-93,Glasgow,None,Hibernian,2011,Scottish
+36,36,Jordon Forster,SCO,D,1.87,76,23-09-93,Edinburgh,Celtic,Hibernian,2011,Scottish
+39,39,Danny Handling,SCO,F,1.80,74,06-02-94,Edinburgh,None,Hibernian,2011,Scottish
+41,41,Paul Grant,SCO,G,1.83,77,23-03-93,Edinburgh,None,Hibernian,2011,Scottish
+1,1,Ryan Esson,SCO,G,1.85,79,19-03-80,Aberdeen,Hereford U,Inverness Caledonian Thistle,2011,Scottish
+2,2,Thomas Piermayr,AUT,M,1.81,74,02-08-89,Linz,LASK Linz,Inverness Caledonian Thistle,2011,Scottish
+3,3,Ross Tokely,SCO,D,1.91,76,08-03-79,Aberdeen,Huntly,Inverness Caledonian Thistle,2011,Scottish
+4,4,Owain Tudur-Jones,WAL,M,1.88,76,15-10-84,Bangor,Norwich C,Inverness Caledonian Thistle,2011,Scottish
+5,5,Chris Hogg,ENG,D,1.83,79,21-03-85,Middlesbrough,Hibernian,Inverness Caledonian Thistle,2011,Scottish
+7,7,Jonathan Hayes,IRL,F,1.70,70,09-07-87,Ballyfermot,Leicester C,Inverness Caledonian Thistle,2011,Scottish
+8,8,Greg Tansey,ENG,M,1.85,78,21-11-88,Huyton,Stockport Co,Inverness Caledonian Thistle,2011,Scottish
+9,9,Richie Foran,IRL,F,1.85,78,16-06-80,Dublin,Southend U,Inverness Caledonian Thistle,2011,Scottish
+10,10,Andrew Shinnie,SCO,M,1.80,70,17-07-89,Aberdeen,Rangers,Inverness Caledonian Thistle,2011,Scottish
+11,11,Nick Ross,SCO,M,1.75,64,11-11-91,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+12,12,Jonathan Tuffey,NIR,G,1.85,80,20-01-87,Newry,Partick Thistle,Inverness Caledonian Thistle,2011,Scottish
+14,14,David Proctor,SCO,D,1.80,72,04-05-84,Bellshill,Dundee U,Inverness Caledonian Thistle,2011,Scottish
+15,15,Grégory Tadé,FRA,F,1.82,78,02-09-86,Nantes,Raith R,Inverness Caledonian Thistle,2011,Scottish
+16,16,Román Golobart,ESP,D,1.93,87,21-03-92,Barcelona,Wigan Ath,Inverness Caledonian Thistle,2011,Scottish
+17,17,Gavin Morrison,SCO,M,1.78,68,03-01-90,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+18,18,Shane Sutherland,SCO,F,1.85,81,23-10-90,Wick,Wick Academy,Inverness Caledonian Thistle,2011,Scottish
+19,19,Graeme Shinnie,SCO,D,1.73,63,04-08-91,Aberdeen,None,Inverness Caledonian Thistle,2011,Scottish
+20,20,Sam Winnall,ENG,F,1.75,72,14-12-91,Wolverhampton,Wolverhampton W,Inverness Caledonian Thistle,2011,Scottish
+21,21,Billy McKay,NIR,F,1.75,64,22-10-88,Corby,Northampton T,Inverness Caledonian Thistle,2011,Scottish
+22,22,Kenny Gillet,FRA,D,1.78,78,03-01-86,Bordeaux,Barnet,Inverness Caledonian Thistle,2011,Scottish
+23,23,Aaron Doran,IRL,M,1.70,76,13-05-91,Dublin,Blackburn R,Inverness Caledonian Thistle,2011,Scottish
+24,24,Steve Williams,ENG,D,1.93,85,24-04-87,Preston,Bradford C,Inverness Caledonian Thistle,2011,Scottish
+25,25,Claude Gnapka,FRA,D,1.83,87,09-06-83,Marseille,Walsall,Inverness Caledonian Thistle,2011,Scottish
+26,26,Josh Meekings,ENG,D,1.83,78,02-09-92,Bury St Edmunds,Ipswich T,Inverness Caledonian Thistle,2011,Scottish
+27,27,Tom Smith,SCO,D,1.80,67,19-02-93,Stirling,None,Inverness Caledonian Thistle,2011,Scottish
+28,28,Jack Sutherland,SCO,D,1.88,67,19-08-93,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+29,29,Martin Laing,SCO,M,1.78,65,02-12-93,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+30,30,Andrew Greig,SCO,M,1.65,64,06-04-93,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+31,31,Liam Polworth,SCO,M,1.78,70,12-10-94,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+32,32,Andrew Skinner,SCO,D,,,,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+33,33,Kyle Whyte,SCO,F,1.78,76,16-03-94,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+34,34,Calum Dingwall,SCO,F,1.83,76,17-02-93,Aberdeen,None,Inverness Caledonian Thistle,2011,Scottish
+35,35,Ryan Watson,SCO,M,,,,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+36,36,Marc Noble,SCO,D,,,,Fraserburgh,Fraserburgh,Inverness Caledonian Thistle,2011,Scottish
+37,37,Harrison Stewart,SCO,M,,,,Aberdeen,Dundee U,Inverness Caledonian Thistle,2011,Scottish
+38,38,Kevin Buchan,SCO,M,,,,Dundee,Dundee,Inverness Caledonian Thistle,2011,Scottish
+39,39,Ryan Christie,SCO,M,1.78,70,28-04-95,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+40,40,Matthew Murphy,SCO,D,,,,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+41,41,Ed Baldy,ENG,G,,,14-01-93,Bath,Bradford T,Inverness Caledonian Thistle,2011,Scottish
+42,42,Stephen Mackenzie,SCO,M,,,,Inverness,None,Inverness Caledonian Thistle,2011,Scottish
+43,43,Scott Mathieson,SCO,G,,,14-05-94,Aberdeen,None,Inverness Caledonian Thistle,2011,Scottish
+1,1,Cameron Bell,SCO,G,1.80,78,18-09-86,Dumfries,Queen of the South,Kilmarnock,2011,Scottish
+2,2,Lewis Toshney,SCO,D,1.91,74,26-04-92,Dundee,Celtic,Kilmarnock,2011,Scottish
+3,3,Garry Hay,SCO,D,1.73,64,07-09-77,Irvine,Kilmarnock BC,Kilmarnock,2011,Scottish
+4,4,James Fowler,SCO,D,1.75,77,26-10-80,Glasgow,Gairdoch BC,Kilmarnock,2011,Scottish
+5,5,Ryan O'Leary,SCO,D,1.83,75,24-08-87,Glasgow,Aberdeen,Kilmarnock,2011,Scottish
+6,6,Michael Nelson,ENG,D,1.88,77,15-03-82,Bishop Auckland,Scunthorpe U,Kilmarnock,2011,Scottish
+7,7,David Silva,CPV,M,1.82,74,11-10-86,Coimbra,CSKA Sofia,Kilmarnock,2011,Scottish
+8,8,Liam Kelly,SCO,M,1.85,70,10-02-90,Milton Keynes,None,Kilmarnock,2011,Scottish
+9,9,Danny Buijs,NED,M,1.82,78,21-06-82,Dordrecht,ADO Den Haag,Kilmarnock,2011,Scottish
+10,10,James Dayton,ENG,F,1.72,64,12-12-88,Enfield,Crystal Palace,Kilmarnock,2011,Scottish
+11,11,Gary Harkins,SCO,M,1.88,81,02-01-85,Greenock,Dundee,Kilmarnock,2011,Scottish
+13,13,Zdeněk Kroča,CZE,D,1.91,89,29-09-80,Zlín,Luton T,Kilmarnock,2011,Scottish
+14,14,Paul Heffernan,IRL,F,1.78,70,29-12-81,Dublin,Sheffield W,Kilmarnock,2011,Scottish
+17,17,Kyle Letheren,WAL,G,1.88,83,26-12-87,Swansea,Motherwell,Kilmarnock,2011,Scottish
+18,18,Lee Johnson,ENG,M,1.68,67,07-06-81,Newmarket,Bristol C,Kilmarnock,2011,Scottish
+19,19,Ben Gordon,ENG,D,1.80,79,02-03-91,Bradford,Chelsea,Kilmarnock,2011,Scottish
+20,20,Dean Shiels,NIR,F,1.80,62,01-02-85,Maghaerafelt,Doncaster R,Kilmarnock,2011,Scottish
+21,21,William Gros,FRA,F,1.74,74,31-03-92,Saint-Pierre,Didier Agathe Academy,Kilmarnock,2011,Scottish
+22,22,Danny Racchi,ENG,D,1.73,66,22-11-87,Halifax,York C,Kilmarnock,2011,Scottish
+23,23,Rory McKeown,NIR,D,1.80,80,08-04-93,Belfast,Ipswich T,Kilmarnock,2011,Scottish
+25,25,Daniel McKay,SCO,F,,,18-02-91,,None,Kilmarnock,2011,Scottish
+26,26,Alex Pursehouse,ENG,D,1.78,71,06-05-92,,Tranmere R,Kilmarnock,2011,Scottish
+27,27,Dieter Van Tornhout,BEL,F,1.90,86,18-03-85,Gent,Nea Salamis,Kilmarnock,2011,Scottish
+28,28,Gary Fisher,SCO,D,,,06-06-92,,None,Kilmarnock,2011,Scottish
+29,29,Manuel Pascali,ITA,M,1.86,78,09-09-81,Milan,Parma,Kilmarnock,2011,Scottish
+31,31,Ross Davidson,SCO,M,1.86,76,28-10-93,Glasgow,None,Kilmarnock,2011,Scottish
+33,33,Matthew Kennedy,SCO,M,1.75,65,01-11-94,Irvine,None,Kilmarnock,2011,Scottish
+34,34,Ross Fisher,SCO,M,,,28-09-92,,None,Kilmarnock,2011,Scottish
+35,35,Lee Ashcroft,SCO,D,1.80,70,29-08-93,Barrhead,None,Kilmarnock,2011,Scottish
+41,44,Jude Winchester,NIR,M,1.78,69,13-04-93,Belfast,Linfield,Kilmarnock,2011,Scottish
+42,45,Chris Johnston,SCO,M,1.64,71,03-09-94,Irvine,None,Kilmarnock,2011,Scottish
+43,46,Ross Barbour,SCO,D,1.77,71,01-02-93,Glasgow,None,Kilmarnock,2011,Scottish
+44,53,Anssi Jaakkola,FIN,G,1.93,88,13-03-87,Kemi,Slavia Prague,Kilmarnock,2011,Scottish
+45,88,Mohamadou Sissoko,FRA,D,1.90,79,08-08-88,Paris,Udinese,Kilmarnock,2011,Scottish
+1,1,Darren Randolph,IRL,G,1.85,78,12-05-87,Dublin,Charlton Ath,Motherwell,2011,Scottish
+2,2,Steven Saunders,SCO,D,1.87,66,23-02-91,Glasgow,Queen's Park,Motherwell,2011,Scottish
+3,3,Steven Hammell,SCO,D,1.78,71,18-02-81,Glasgow,Southend U,Motherwell,2011,Scottish
+4,4,Nicky Law,ENG,M,1.78,73,29-03-88,Nottingham,Rotherham U,Motherwell,2011,Scottish
+5,5,Stephen Craigan,NIR,D,1.85,83,21-10-76,Newtonards,Partick Thistle,Motherwell,2011,Scottish
+6,6,Tom Hateley,ENG,D,1.79,68,12-09-89,Monte Carlo,Reading,Motherwell,2011,Scottish
+7,7,Chris Humphrey,JAM,M,1.80,73,04-03-89,St Catherine,Shrewsbury T,Motherwell,2011,Scottish
+8,8,Steven Jennings,ENG,M,1.70,77,28-10-84,Liverpool,Tranmere R,Motherwell,2011,Scottish
+9,9,Michael Higdon,ENG,F,1.86,80,02-09-83,Liverpool,St Mirren,Motherwell,2011,Scottish
+11,11,Jamie Murphy,SCO,F,1.78,62,28-08-89,Glasgow,None,Motherwell,2011,Scottish
+12,12,Lee Hollis,SCO,G,1.83,70,11-03-86,Bellshill,Airdrie U,Motherwell,2011,Scottish
+14,14,Keith Lasley,SCO,M,1.75,67,21-09-79,Glasgow,Plymouth Arg,Motherwell,2011,Scottish
+15,15,Shaun Hutchinson,ENG,D,1.88,80,23-11-90,Newcastle upon Tyne,None,Motherwell,2011,Scottish
+16,16,Robert McHugh,SCO,F,1.78,74,16-07-91,Glasgow,None,Motherwell,2011,Scottish
+17,17,Omar Daley,JAM,M,1.70,65,25-04-81,Kingston,Bradford C,Motherwell,2011,Scottish
+18,18,Ross Forbes,SCO,M,1.83,66,03-03-89,Glasgow,None,Motherwell,2011,Scottish
+19,19,Gary Smith,SCO,F,1.88,76,28-05-91,Glasgow,Queen's Park,Motherwell,2011,Scottish
+20,20,Jonathan Page,ENG,M,1.85,78,02-08-90,Portsmouth,None,Motherwell,2011,Scottish
+21,21,Jamie Pollock,SCO,F,1.73,67,20-02-92,Glasgow,None,Motherwell,2011,Scottish
+22,22,Tim Clancy,IRL,D,1.80,70,08-06-84,Trim,Kilmarnock,Motherwell,2011,Scottish
+23,23,Jordan Halsman,SCO,D,1.78,69,13-06-91,Glasgow,Aberdeen,Motherwell,2011,Scottish
+24,24,Henrik Ojamaa,EST,F,1.76,75,20-05-91,Tallinn,Rovaniemi PS,Motherwell,2011,Scottish
+25,25,Steven Lawless,SCO,F,1.70,60,12-04-91,Glasgow,None,Motherwell,2011,Scottish
+26,26,Stuart Carswell,SCO,M,1.78,72,09-09-92,Bellshill,None,Motherwell,2011,Scottish
+27,27,Ross McKinnon,SCO,D,1.83,79,09-10-92,Bellshill,None,Motherwell,2011,Scottish
+30,30,Herman Mboa Mekongo,FRA,M,,,24-01-93,Paris,Racing Club de France,Motherwell,2011,Scottish
+31,31,Tom Bradley,WAL,G,1.85,85,20-07-92,,None,Motherwell,2011,Scottish
+32,32,Lee Erwin,SCO,F,1.88,79,19-03-94,Bellshill,None,Motherwell,2011,Scottish
+33,33,Michael Lynch,SCO,D,1.83,74,14-03-93,Glasgow,None,Motherwell,2011,Scottish
+34,34,Keiran McGachie,SCO,F,1.88,80,03-06-93,Edinburgh,None,Motherwell,2011,Scottish
+35,35,Kieran MacDonald,SCO,M,1.80,61,21-07-93,Rutherglen,None,Motherwell,2011,Scottish
+36,36,Dean McLean,SCO,D,1.75,73,13-07-94,Carluke,None,Motherwell,2011,Scottish
+37,37,Euan Murray,SCO,M,1.83,79,20-01-94,Rutherglen,None,Motherwell,2011,Scottish
+38,38,Joshua Watt,SCO,M,1.75,61,31-08-93,Glasgow,None,Motherwell,2011,Scottish
+39,39,Adam Cummins,ENG,D,1.85,78,03-03-93,Maghull,Everton,Motherwell,2011,Scottish
+40,40,Nicky Devlin,SCO,D,1.80,74,17-10-93,Glasgow,Dumbarton,Motherwell,2011,Scottish
+41,41,Willie Muir,SCO,G,1.83,73,16-03-93,Carluke,None,Motherwell,2011,Scottish
+42,42,Dominic Green,SCO,D,1.80,74,17-10-93,Glasgow,None,Motherwell,2011,Scottish
+43,43,Zaine Francis-Angol,ENG,D,1.73,78,30-06-93,Walthamstow,Tottenham H,Motherwell,2011,Scottish
+44,44,Steven Hetherington,ENG,M,1.80,78,04-10-93,Hartlepool,Rangers,Motherwell,2011,Scottish
+45,45,Adam Asghar,SCO,M,1.85,70,26-07-94,Glasgow,Baljaffray,Motherwell,2011,Scottish
+46,46,Darren Brownlie,SCO,D,1.91,84,10-04-94,Bellshill,None,Motherwell,2011,Scottish
+47,47,Jack Leitch,SCO,M,1.73,67,17-07-95,Motherwell,None,Motherwell,2011,Scottish
+48,48,Craig Moore,SCO,F,1.73,67,16-08-94,Glasgow,None,Motherwell,2011,Scottish
+49,49,Ross Stewart,SCO,G,1.88,71,16-04-95,Glasgow,None,Motherwell,2011,Scottish
+1,1,Allan McGregor,SCO,G,1.83,74,31-01-82,Edinburgh,None,Rangers,2011,Scottish
+2,2,Dorin Goian,ROU,D,1.94,83,12-12-80,Suceava,Palermo,Rangers,2011,Scottish
+4,4,Kirk Broadfoot,SCO,D,1.91,89,08-08-84,Irvine,St Mirren,Rangers,2011,Scottish
+5,5,Saa Papac,BIH,D,1.85,78,07-02-80,Mostar,Austria Vienna,Rangers,2011,Scottish
+6,6,Lee McCulloch,SCO,M,1.85,84,14-05-76,Paisley,Wigan Ath,Rangers,2011,Scottish
+7,7,Maurice Edu,USA,M,1.83,77,18-04-86,San Bernardino,Toronto FC,Rangers,2011,Scottish
+8,8,Steven Davis,NIR,M,1.79,72,01-01-85,Ballymena,Fulham,Rangers,2011,Scottish
+11,11,Kyle Lafferty,NIR,F,1.93,70,21-07-87,Enniskillen,Burnley,Rangers,2011,Scottish
+12,12,Lee Wallace,SCO,D,1.85,76,01-08-87,Edinburgh,Hearts,Rangers,2011,Scottish
+14,14,Steven Naismith,SCO,F,1.78,72,14-09-86,Irvine,Kilmarnock,Rangers,2011,Scottish
+15,15,David Healy,NIR,F,1.76,67,05-08-79,Downpatrick,Sunderland,Rangers,2011,Scottish
+16,16,Steven Whittaker,SCO,D,1.85,87,16-06-84,Edinburgh,Hibernian,Rangers,2011,Scottish
+18,18,Carlos Bocanegra,USA,D,1.83,78,25-05-79,Alta Loma,St-Etienne,Rangers,2011,Scottish
+19,19,Sone Aluko,ENG,F,1.73,62,19-02-89,Birmingham,Aberdeen,Rangers,2011,Scottish
+21,21,Alejandro Bedoya,USA,M,1.78,73,29-04-87,Weston,Örebro SK,Rangers,2011,Scottish
+22,22,Kyle Bartley,ENG,D,1.80,70,22-05-91,Manchester,Arsenal,Rangers,2011,Scottish
+25,25,Neil Alexander,SCO,G,1.85,73,10-03-78,Edinburgh,Ipswich T,Rangers,2011,Scottish
+26,26,Jamie Ness,SCO,M,1.77,72,02-03-91,Irvine,None,Rangers,2011,Scottish
+28,28,Salim Kerkar,FRA,F,1.80,62,04-08-87,Givors,Gueugnon,Rangers,2011,Scottish
+30,30,Scott Gallacher,SCO,G,1.88,77,15-07-89,Bellshill,None,Rangers,2011,Scottish
+31,31,Grant Adam,SCO,G,1.76,72,16-04-91,Glasgow,None,Rangers,2011,Scottish
+32,32,Ross Perry,SCO,D,1.88,72,07-02-90,Falkirk,None,Rangers,2011,Scottish
+34,34,Andrew Little,NIR,F,1.83,78,12-05-89,Enniskillen,Ballinamallard U,Rangers,2011,Scottish
+37,37,Christopher Hegarty,NIR,D,1.73,70,13-08-92,Dungannon,Millwall,Rangers,2011,Scottish
+38,38,Kane Hemmings,ENG,F,1.86,78,08-04-91,Burton upon Trent,Tamworth,Rangers,2011,Scottish
+39,39,Gordon Dick,SCO,M,,,26-03-92,,None,Rangers,2011,Scottish
+40,40,Andy Mitchell,NIR,M,1.80,70,06-04-92,Glengormley,Manchester C,Rangers,2011,Scottish
+41,41,Rhys McCabe,SCO,M,1.77,74,24-07-92,Polbeth,None,Rangers,2011,Scottish
+42,46,Kamil Wiktorski,POL,M,1.88,,12-03-93,Bydgoszcz,Zawisza Bydgoszcz,Rangers,2011,Scottish
+43,47,Tom Skogsrud,NOR,D,,,14-04-93,,Manchester C,Rangers,2011,Scottish
+44,48,Kim Skogsrud,NOR,D,,,14-04-93,,Manchester C,Rangers,2011,Scottish
+45,49,Kyle McAusland,SCO,D,1.88,81,19-01-93,Cumnock,None,Rangers,2011,Scottish
+46,50,Alan Smith,IRL,G,1.85,78,25-05-93,Cobh,Crumlin U,Rangers,2011,Scottish
+47,52,Ewan McNeil,SCO,M,,,19-02-94,,None,Rangers,2011,Scottish
+48,53,Anthony Marenghi,SCO,D,,,11-06-93,,None,Rangers,2011,Scottish
+49,54,Robbie Crawford,SCO,M,1.80,70,19-03-93,Greenock,None,Rangers,2011,Scottish
+50,55,Adam Hunter,SCO,D,,,15-01-93,,None,Rangers,2011,Scottish
+51,56,Adel Gafaiti,ALG,D,1.85,76,13-09-94,Paris,None,Rangers,2011,Scottish
+52,57,Gregor Fotheringham,SCO,D,,,09-06-94,,None,Rangers,2011,Scottish
+53,58,Lewis MacLeod,SCO,M,1.75,72,16-06-94,Wishaw,None,Rangers,2011,Scottish
+54,60,Josh Robinson,NIR,D,,,30-06-93,,Linfield,Rangers,2011,Scottish
+55,61,Jack Werndley,ENG,M,,,25-02-93,,Norwich C,Rangers,2011,Scottish
+56,62,Callum Wyllie,SCO,F,,,01-11-94,,Alloa Ath,Rangers,2011,Scottish
+57,63,Freddie Espling,SWE,F,,,13-09-94,,Bodens BK,Rangers,2011,Scottish
+58,65,Robbie McIntyre,SCO,D,1.86,64,17-04-94,Edinburgh,None,Rangers,2011,Scottish
+59,66,Matthew Clarke,NIR,M,,,03-03-94,,None,Rangers,2011,Scottish
+60,67,Aaron McGregor,NIR,M,,,,,Ballymena U,Rangers,2011,Scottish
+61,68,Callum Gallagher,SCO,M,,,13-09-94,,None,Rangers,2011,Scottish
+62,69,Barrie McKay,SCO,M,1.75,67,31-12-94,Paisley,Kilmarnock,Rangers,2011,Scottish
+63,70,Jordan Wilson,SCO,D,,,12-04-95,,Falkirk,Rangers,2011,Scottish
+64,71,Stuart Urquhart,SCO,D,1.90,83,26-03-95,Glasgow,Hamilton Academical,Rangers,2011,Scottish
+65,72,Glody Ntumba,COD,F,,,,,None,Rangers,2011,Scottish
+66,73,Kristian Gibson,NIR,D,,,,,None,Rangers,2011,Scottish
+67,74,Andy Murdoch,SCO,M,1.75,77,30-01-95,Paisley,None,Rangers,2011,Scottish
+68,75,Fraser Aird,CAN,M,1.73,70,02-02-95,Toronto,None,Rangers,2011,Scottish
+69,76,Darren Ramsay,SCO,M,,,07-08-95,,None,Rangers,2011,Scottish
+70,77,Liam Kelly,SCO,G,1.89,77,23-01-95,Glasgow,None,Rangers,2011,Scottish
+71,78,Sam George,SCO,G,,,06-03-95,,None,Rangers,2011,Scottish
+72,79,Jamie Burrows,ENG,F,1.82,75,24-03-95,,St Paul's,Rangers,2011,Scottish
+1,1,Peter Enckelman,FIN,G,1.89,90,10-03-77,Turku,Cardiff C,St Johnstone,2011,Scottish
+2,2,David Mackay,SCO,D,1.86,83,02-05-80,Rutherglen,Livingston,St Johnstone,2011,Scottish
+3,3,Callum Davidson,SCO,D,1.77,84,26-06-76,Stirling,Preston NE,St Johnstone,2011,Scottish
+4,4,Jody Morris,ENG,M,1.65,68,22-12-78,Hammersmith,Millwall,St Johnstone,2011,Scottish
+5,5,Frazer Wright,SCO,D,1.78,74,23-12-79,East Kilbride,Kilmarnock,St Johnstone,2011,Scottish
+6,6,Steven Anderson,SCO,D,1.80,72,19-12-85,Edinburgh,Dundee U,St Johnstone,2011,Scottish
+7,7,Chris Millar,SCO,M,1.75,68,30-03-83,Glasgow,Greenock Morton,St Johnstone,2011,Scottish
+8,8,Murray Davidson,SCO,M,1.86,63,07-03-88,Edinburgh,Livingston,St Johnstone,2011,Scottish
+9,9,Lee Croft,ENG,M,1.75,81,21-06-85,Wigan,Derby Co,St Johnstone,2011,Scottish
+10,10,Liam Craig,SCO,M,1.83,82,27-12-86,Edinburgh,Falkirk,St Johnstone,2011,Scottish
+11,11,Cillian Sheridan,IRL,F,1.96,87,23-02-89,Bailieborough,CSKA Sofia,St Johnstone,2011,Scottish
+12,12,Alan Maybury,IRL,D,1.80,73,08-08-78,Dublin,Colchester U,St Johnstone,2011,Scottish
+14,14,Kevin Moon,SCO,M,1.70,56,08-06-87,Perth,None,St Johnstone,2011,Scottish
+15,15,Alan Mannus,NIR,G,1.88,94,19-05-82,Toronto,Shamrock R,St Johnstone,2011,Scottish
+16,16,David Robertson,SCO,M,1.78,64,23-09-86,Bangour,Dundee U,St Johnstone,2011,Scottish
+18,18,David McCracken,SCO,D,1.88,73,16-10-81,Glasgow,Brentford,St Johnstone,2011,Scottish
+19,19,Carl Finnigan,ENG,F,1.79,70,01-10-86,Jarrow,Falkirk,St Johnstone,2011,Scottish
+20,20,Jamie Adams,SCO,M,1.85,73,26-08-87,Stranraer,Kilmarnock,St Johnstone,2011,Scottish
+21,21,Fran Sandaza,ESP,F,1.87,80,30-11-84,Toledo,Brighton & HA,St Johnstone,2011,Scottish
+22,22,Kudus Oyenuga,ENG,F,1.76,77,18-03-93,Walthamstow,Tottenham H,St Johnstone,2011,Scottish
+23,23,Marcus Haber,CAN,F,1.91,85,11-01-89,Vancouver,WBA,St Johnstone,2011,Scottish
+24,24,Jack Compton,WAL,M,1.73,67,02-09-88,Cardiff,Falkirk,St Johnstone,2011,Scottish
+25,25,Mark Durnan,SCO,D,1.85,70,28-11-92,Glasgow,Clyde,St Johnstone,2011,Scottish
+26,26,Liam Caddis,SCO,M,1.73,72,20-09-93,Irvine,None,St Johnstone,2011,Scottish
+27,27,Stevie May,SCO,F,1.78,67,03-11-92,Perth,None,St Johnstone,2011,Scottish
+29,29,Richard McIntosh,SCO,M,1.73,65,26-02-93,Glasgow,None,St Johnstone,2011,Scottish
+31,31,Christopher Moffat,SCO,D,1.85,68,02-02-94,Edinburgh,None,St Johnstone,2011,Scottish
+32,32,Callum McConnell,SCO,M,1.78,,02-01-95,Perth,Rangers,St Johnstone,2011,Scottish
+33,33,Andrew Steeves,SCO,M,1.78,,25-07-94,Perth,None,St Johnstone,2011,Scottish
+34,34,Kieran Stewart,SCO,M,1.88,,20-05-94,Melrose,None,St Johnstone,2011,Scottish
+35,35,Craig Reid,SCO,G,1.80,,27-02-95,,None,St Johnstone,2011,Scottish
+36,36,Greg Mitchell,SCO,M,1.73,,01-07-95,Aberdeen,Aberdeen,St Johnstone,2011,Scottish
+37,37,Ross Still,SCO,D,1.78,,16-04-95,Aberdeen,Aberdeen,St Johnstone,2011,Scottish
+38,38,Ally Gilchrist,SCO,D,1.75,70,03-03-95,Edinburgh,None,St Johnstone,2011,Scottish
+39,39,Scott Gray,SCO,M,1.68,,22-07-94,Edinburgh,None,St Johnstone,2011,Scottish
+40,40,Aiden Hendry,SCO,D,1.80,,03-08-93,Kirkcaldy,None,St Johnstone,2011,Scottish
+41,41,Chris Kane,SCO,F,1.80,76,05-09-94,Edinburgh,None,St Johnstone,2011,Scottish
+42,42,Ryan Hutchinson,ENG,M,1.85,,08-02-93,Newcastle upon Tyne,Celtic,St Johnstone,2011,Scottish
+43,43,Gareth Rodger,SCO,D,1.83,71,22-02-94,Edinburgh,None,St Johnstone,2011,Scottish
+44,44,Craig Thomson,SCO,M,1.73,69,10-03-95,Kirkcaldy,None,St Johnstone,2011,Scottish
+45,46,James Keatings,SCO,F,1.77,63,20-01-92,Glasgow,Celtic,St Johnstone,2011,Scottish
+46,47,Derek Riordan,SCO,F,1.81,65,16-01-83,Edinburgh,Shaanxi Chanba,St Johnstone,2011,Scottish
+47,,Michael Hart,SCO,D,1.78,73,10-02-80,Bellshill,Hibernian,St Johnstone,2011,Scottish
+1,1,Craig Samson,SCO,G,1.88,80,01-04-84,Irvine,Ayr U,St Mirren,2011,Scottish
+2,2,David van Zanten,IRL,D,1.78,70,08-05-82,Dublin,Hamilton Academical,St Mirren,2011,Scottish
+3,3,David Barron,SCO,M,1.78,80,10-09-87,Greenock,None,St Mirren,2011,Scottish
+4,4,Darren McGregor,SCO,D,1.83,87,07-08-85,Edinburgh,Cowdenbeath,St Mirren,2011,Scottish
+5,5,Lee Mair,SCO,D,1.83,71,09-12-80,Aberdeen,Aberdeen,St Mirren,2011,Scottish
+6,6,Jim Goodwin,IRL,M,1.75,77,20-11-81,Waterford,Hamilton Academical,St Mirren,2011,Scottish
+7,7,Hugh Murray,SCO,M,1.78,67,08-01-79,Bellshill,None,St Mirren,2011,Scottish
+8,8,Steven Thomson,SCO,M,1.73,68,23-01-78,Glasgow,Brighton & HA,St Mirren,2011,Scottish
+9,9,Steven Thompson,SCO,F,1.88,79,14-10-78,Paisley,Burnley,St Mirren,2011,Scottish
+10,10,Paul McGowan,SCO,F,1.70,65,07-10-87,Bellshill,Celtic,St Mirren,2011,Scottish
+11,11,Nigel Hasselbaink,NED,F,1.68,60,21-11-90,Amsterdam,Hamilton Academical,St Mirren,2011,Scottish
+12,12,Graeme Smith,SCO,G,1.91,83,03-10-82,Bellshill,St Johnstone,St Mirren,2011,Scottish
+14,14,Mark McAusland,SCO,D,1.82,64,13-08-88,Paisley,Queen of the South,St Mirren,2011,Scottish
+15,15,Aaron Mooy,AUS,M,1.73,68,15-09-90,Sydney,Bolton W,St Mirren,2011,Scottish
+17,17,Kenny McLean,SCO,M,1.83,70,08-01-92,Rutherglen,None,St Mirren,2011,Scottish
+18,18,Jamie McKernon,SCO,M,1.75,74,01-04-92,Irvine,None,St Mirren,2011,Scottish
+20,20,Dominic Kennedy,SCO,D,,,14-05-92,Paisley,None,St Mirren,2011,Scottish
+21,21,Gary Teale,SCO,M,1.75,72,21-07-78,Glasgow,Sheffield W,St Mirren,2011,Scottish
+22,22,Jeroen Tesselaar,NED,D,1.83,74,16-01-89,Wognum,AZ Alkmaar,St Mirren,2011,Scottish
+23,23,Graham Carey,IRL,M,1.83,69,02-05-89,Dublin,Celtic,St Mirren,2011,Scottish
+25,25,Adam McHugh,ENG,G,1.85,82,29-05-92,Bishop Auckland,None,St Mirren,2011,Scottish
+26,26,Anthony Brady,SCO,M,,,,,None,St Mirren,2011,Scottish
+27,27,Dougie Imrie,SCO,F,1.78,74,03-08-83,Lanark,Hamilton Academical,St Mirren,2011,Scottish
+28,28,Hashim Cole,SCO,D,,,07-07-93,Glasgow,None,St Mirren,2011,Scottish
+29,29,Bradley Coyne,SCO,F,,,10-04-93,Glasgow,None,St Mirren,2011,Scottish
+30,30,Michael Fulton,SCO,F,,,,,Celtic,St Mirren,2011,Scottish
+31,31,Declan Hughes,SCO,M,1.78,69,14-09-95,Glasgow,None,St Mirren,2011,Scottish
+32,32,Mark Lamont,SCO,M,1.79,70,04-02-93,Paisley,None,St Mirren,2011,Scottish
+33,33,David McAlinden,SCO,M,,,,,None,St Mirren,2011,Scottish
+34,34,John McGinn,SCO,M,1.75,68,18-10-94,Glasgow,None,St Mirren,2011,Scottish
+35,35,Michael McKinven,SCO,G,,,09-06-93,Glasgow,None,St Mirren,2011,Scottish
+36,36,Ross Meechan,SCO,M,1.83,72,10-11-94,,None,St Mirren,2011,Scottish
+37,37,Jason Naismith,SCO,D,1.69,68,25-06-94,Paisley,None,St Mirren,2011,Scottish
+38,38,Francis Owens,SCO,M,,,,,None,St Mirren,2011,Scottish
+39,39,Thomas Reilly,SCO,F,1.67,61,15-09-94,Irvine,None,St Mirren,2011,Scottish
+40,40,Jon Scullion,SCO,F,1.64,63,16-03-95,Glasgow,None,St Mirren,2011,Scottish
+41,41,Craig Slater,SCO,M,1.78,74,26-04-94,Glasgow,None,St Mirren,2011,Scottish
+42,42,Jack Smith,SCO,F,1.75,71,27-12-94,Bellshill,None,St Mirren,2011,Scottish
+43,43,Alan Cairns,SCO,M,1.81,,18-03-92,,Kilmarnock,St Mirren,2011,Scottish
+44,44,Sean Kelly,SCO,D,1.91,76,01-11-93,Glasgow,None,St Mirren,2011,Scottish

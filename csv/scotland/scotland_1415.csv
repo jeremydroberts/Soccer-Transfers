@@ -1,0 +1,431 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,James Langfield,SCO,G,1.93,83,22-12-79,Paisley,Dunfermline Ath,Aberdeen,2014,Scottish
+2,2,Shaleum Logan,ENG,D,1.85,79,06-11-88,Manchester,Brentford,Aberdeen,2014,Scottish
+3,3,Andrew Considine,SCO,D,1.83,75,01-04-87,Aberdeen,None,Aberdeen,2014,Scottish
+4,4,Russell Anderson,SCO,D,1.80,68,25-10-78,Aberdeen,Derby Co,Aberdeen,2014,Scottish
+5,5,Ash Taylor,WAL,D,1.83,76,02-09-89,Bromborough,Tranmere R,Aberdeen,2014,Scottish
+6,6,Mark Reynolds,SCO,D,1.80,67,07-05-87,Motherwell,Sheffield W,Aberdeen,2014,Scottish
+7,7,Kenny McLean,SCO,M,1.83,70,08-01-92,Rutherglen,St Mirren,Aberdeen,2014,Scottish
+8,8,Willo Flood,IRL,M,1.68,62,10-04-85,Dublin,Dundee U,Aberdeen,2014,Scottish
+9,9,Adam Rooney,IRL,F,1.78,78,21-04-88,Dublin,Oldham Ath,Aberdeen,2014,Scottish
+10,10,Niall McGinn,NIR,F,1.83,83,20-07-87,Dungannon,Celtic,Aberdeen,2014,Scottish
+11,11,Jonathan Hayes,IRL,M,1.70,70,09-07-87,Ballyfermot,Inverness CT,Aberdeen,2014,Scottish
+14,14,Cammy Smith,SCO,F,1.75,68,24-08-95,Aberdeen,None,Aberdeen,2014,Scottish
+15,15,Barry Robson,SCO,M,1.80,70,07-11-78,Aberdeen,Sheffield U,Aberdeen,2014,Scottish
+16,16,Peter Pawlett,SCO,M,1.78,68,03-02-91,Hull,None,Aberdeen,2014,Scottish
+17,17,David Goodwillie,SCO,F,1.75,71,28-03-89,Stirling,Blackburn R,Aberdeen,2014,Scottish
+18,18,Nicky Low,SCO,M,1.68,64,06-01-92,Greenock,None,Aberdeen,2014,Scottish
+19,19,Clark Robertson,SCO,D,1.88,76,05-09-93,Aberdeen,None,Aberdeen,2014,Scottish
+20,20,Scott Brown,ENG,G,1.84,96,26-04-85,Wolverhampton,Cheltenham T,Aberdeen,2014,Scottish
+21,21,Joe Shaughnessy,IRL,D,1.83,69,06-07-92,Oughterard,Salthill Devon,Aberdeen,2014,Scottish
+22,22,Ryan Jack,SCO,M,1.82,77,27-02-92,Aberdeen,None,Aberdeen,2014,Scottish
+23,23,Jamie Masson,SCO,M,1.70,64,05-04-93,Fraserburgh,None,Aberdeen,2014,Scottish
+25,25,Lawrence Shankland,SCO,F,1.85,75,10-08-95,Glasgow,Queen's Park,Aberdeen,2014,Scottish
+28,28,Donervon Daniels,MSR,D,1.86,91,24-11-93,Montserrat,WBA,Aberdeen,2014,Scottish
+29,29,Andrew Driver,ENG,M,1.75,68,12-11-87,Oldham,Houston Dynamo,Aberdeen,2014,Scottish
+31,31,Michael Rose,SCO,D,1.81,70,11-10-95,Aberdeen,None,Aberdeen,2014,Scottish
+32,32,Kieran Gibbons,SCO,M,,,06-02-95,,Hamilton Academical,Aberdeen,2014,Scottish
+33,33,Marcus Campanile,SCO,M,,,16-03-96,Edinburgh,None,Aberdeen,2014,Scottish
+34,34,Kalvin Orsi,SCO,M,1.78,73,15-04-97,Glasgow,None,Aberdeen,2014,Scottish
+35,35,Michael Kelly,SCO,D,,,03-11-97,Kilmarnock,None,Aberdeen,2014,Scottish
+37,37,Daniel Harvie,SCO,D,1.70,62,14-07-98,Drumchapel,None,Aberdeen,2014,Scottish
+38,38,Frank Ross,SCO,M,1.72,68,18-02-98,Aberdeen,None,Aberdeen,2014,Scottish
+39,39,Scott Wright,SCO,F,1.75,65,08-08-97,Aberdeen,None,Aberdeen,2014,Scottish
+41,44,Michael Jones,SCO,F,,,13-06-97,Glasgow,None,Aberdeen,2014,Scottish
+42,46,Scott McKenna,SCO,D,1.88,73,12-11-96,Dundee,None,Aberdeen,2014,Scottish
+43,47,Cem Felek,AZE,M,1.78,65,12-05-96,Buchen,Bochum,Aberdeen,2014,Scottish
+2,2,Adam Matthews,WAL,D,1.78,71,13-01-92,Swansea,Cardiff C,Celtic,2014,Scottish
+3,3,Emilio Izaguirre,HON,D,1.77,77,10-05-86,Tegucigalpa,Motagua,Celtic,2014,Scottish
+4,4,Efe Ambrose,NGA,D,1.90,70,18-10-88,Kaduna,Ashdod,Celtic,2014,Scottish
+5,5,Virgil van Dijk,NED,D,1.93,92,08-07-91,Breda,FC Groningen,Celtic,2014,Scottish
+6,6,Nir Bitton,ISR,M,1.96,80,30-10-91,Ashdod,Ashdod,Celtic,2014,Scottish
+8,8,Scott Brown,SCO,M,1.75,72,26-06-85,Dunfermline,Hibernian,Celtic,2014,Scottish
+9,9,John Guidetti,SWE,F,1.81,79,15-04-92,Stockholm,Manchester C,Celtic,2014,Scottish
+10,10,Anthony Stokes,IRL,F,1.80,73,25-07-88,Dublin,Hibernian,Celtic,2014,Scottish
+11,11,Derk Boerrigter,NED,M,1.85,78,16-10-86,Oldenzaal,Ajax,Celtic,2014,Scottish
+12,12,Stefan ćepović,SRB,F,1.86,79,10-01-90,Belgrade,Sporting Gijón,Celtic,2014,Scottish
+14,14,Stuart Armstrong,SCO,M,1.83,75,30-03-92,Inverness,Dundee U,Celtic,2014,Scottish
+15,15,Kris Commons,SCO,M,1.68,61,30-08-83,Nottingham,Derby C,Celtic,2014,Scottish
+16,16,Gary Mackay-Steven,SCO,M,1.75,68,31-08-90,Thurso,Dundee U,Celtic,2014,Scottish
+18,18,Tomas Rogić,AUS,M,1.89,85,16-12-92,Griffith,Central Coast Mariners,Celtic,2014,Scottish
+21,21,Charlie Mulgrew,SCO,D,1.91,83,06-03-86,Glasgow,Aberdeen,Celtic,2014,Scottish
+22,22,Jason Denayer,BEL,D,1.84,70,28-06-95,Brussels,Manchester C,Celtic,2014,Scottish
+23,23,Mikael Lustig,SWE,D,1.89,77,13-12-86,Umeå,Rosenborg,Celtic,2014,Scottish
+24,24,Łukasz Załuska,POL,G,1.90,88,16-06-82,Wysokie Mazowieckie,Dundee U,Celtic,2014,Scottish
+25,25,Stefan Johansen,NOR,M,1.82,78,08-01-91,Vardø,Strømsgodset,Celtic,2014,Scottish
+26,26,Craig Gordon,SCO,G,1.93,77,31-12-82,Edinburgh,Sunderland,Celtic,2014,Scottish
+27,27,Aleksander Tonev,BUL,M,1.76,70,03-02-90,Elin Pelin,Aston Villa,Celtic,2014,Scottish
+28,28,Leigh Griffiths,SCO,F,1.75,64,20-08-90,Edinburgh,Wolverhampton W,Celtic,2014,Scottish
+29,29,Michael Duffy,IRL,M,1.78,68,28-07-94,Derry,Derry C,Celtic,2014,Scottish
+32,32,Wakaso Mubarak,GHA,M,1.65,79,25-07-90,Tamale,Rubin Kazan,Celtic,2014,Scottish
+34,34,Eoghan O'Connell,IRL,D,1.85,80,13-08-95,Cork,Avondale U,Celtic,2014,Scottish
+38,38,Leonardo Fasan,ITA,G,1.88,82,04-01-94,San Vito al Tagliamento,None,Celtic,2014,Scottish
+41,41,Darnell Fisher,ENG,D,1.75,70,04-04-94,Reading,Farnborough,Celtic,2014,Scottish
+42,42,Callum McGregor,SCO,M,1.78,67,14-06-93,Glasgow,None,Celtic,2014,Scottish
+43,43,Joe Chalmers,SCO,D,1.88,80,03-01-94,Glasgow,None,Celtic,2014,Scottish
+44,49,James Forrest,SCO,M,1.70,67,07-07-91,Prestwick,None,Celtic,2014,Scottish
+45,51,Conor McManus,SCO,M,1.85,79,29-02-96,,None,Celtic,2014,Scottish
+46,52,Joe Thomson,SCO,M,1.77,68,14-01-97,Paisley,None,Celtic,2014,Scottish
+47,54,Jamie Lindsay,SCO,M,1.77,67,11-10-95,Glasgow,Motherwell,Celtic,2014,Scottish
+48,59,Calum Waters,SCO,D,1.73,78,10-03-96,Glasgow,None,Celtic,2014,Scottish
+49,63,Kieran Tierney,SCO,M,1.78,70,05-06-97,Douglas,None,Celtic,2014,Scottish
+50,64,Aidan Nesbitt,SCO,M,1.74,65,05-02-97,Johnstone,None,Celtic,2014,Scottish
+1,1,Kyle Letheren,WAL,G,1.88,83,26-12-87,Swansea,Kilmarnock,Dundee,2014,Scottish
+2,2,Gary Irvine,SCO,D,1.81,76,17-03-85,Bellshill,St Johnstone,Dundee,2014,Scottish
+3,3,Willie Dyer,SCO,D,1.78,63,25-02-87,Glasgow,Greenock Morton,Dundee,2014,Scottish
+4,4,Thomas Konrad,GER,D,1.83,76,05-11-89,Bruchsal,Eintracht Trier,Dundee,2014,Scottish
+5,5,James McPake,NIR,D,1.89,80,24-06-84,Bellshill,Hibernian,Dundee,2014,Scottish
+6,6,Iain Davidson,SCO,D,1.83,67,14-01-84,Kirkcaldy,Raith R,Dundee,2014,Scottish
+8,8,Kevin McBride,SCO,M,1.78,66,14-06-81,Bellshill,Hamilton Academical,Dundee,2014,Scottish
+10,10,Kevin Thomson,SCO,M,1.88,72,14-10-84,Edinburgh,Hibernian,Dundee,2014,Scottish
+11,11,Simon Ferry,SCO,M,1.73,70,11-01-88,Dundee,Portsmouth,Dundee,2014,Scottish
+12,12,Scott Bain,SCO,G,1.83,70,22-11-91,Edinburgh,Alloa Ath,Dundee,2014,Scottish
+15,15,Greg Stewart,SCO,F,1.77,73,17-03-90,Stirling,Cowdenbeath,Dundee,2014,Scottish
+16,16,David Clarkson,SCO,F,1.78,63,10-09-85,Bellshill,Bristol R,Dundee,2014,Scottish
+18,18,Paul McGowan,SCO,F,1.70,65,07-10-87,Bellshill,St Mirren,Dundee,2014,Scottish
+19,19,Paul McGinn,SCO,D,1.75,66,22-10-90,Glasgow,Dumbarton,Dundee,2014,Scottish
+20,20,Jim McAlister,SCO,M,1.80,75,02-11-85,Rothesay,Hamilton Academical,Dundee,2014,Scottish
+21,21,Luka Tankulić,GER,F,1.85,75,21-06-91,Ahlen,Wolfsburg II,Dundee,2014,Scottish
+24,24,Andy Black,SCO,D,1.78,75,20-09-95,Livingston,Hibernian,Dundee,2014,Scottish
+26,26,Kostadin Gadzhalov,BUL,D,1.84,75,20-07-89,Plovdiv,Dobrudzha Dobrich,Dundee,2014,Scottish
+29,29,Gary Harkins,SCO,M,1.88,81,02-01-85,Greenock,St Mirren,Dundee,2014,Scottish
+31,31,Calum Brodie,SCO,G,,,21-08-97,,None,Dundee,2014,Scottish
+32,32,John Bonnar,SCO,G,,,,,None,Dundee,2014,Scottish
+33,33,Craig Wighton,SCO,F,1.85,72,27-07-97,Dundee,None,Dundee,2014,Scottish
+34,34,Matty Allan,SCO,D,1.80,69,17-01-96,,None,Dundee,2014,Scottish
+35,35,Calvin Colquhoun,SCO,M,1.83,76,25-07-96,Dundee,None,Dundee,2014,Scottish
+36,36,Dale Davidson,SCO,M,,,17-01-97,,None,Dundee,2014,Scottish
+37,37,Lee Cameron,SCO,F,,,08-07-96,,None,Dundee,2014,Scottish
+38,38,Ben Sivewright,SCO,D,,,01-11-96,,None,Dundee,2014,Scottish
+39,39,Connor Macleod,SCO,F,,,,,None,Dundee,2014,Scottish
+41,41,Thomas Carberry,SCO,F,,,26-11-96,,None,Dundee,2014,Scottish
+42,42,Josh Skelly,SCO,F,1.78,64,11-04-97,Dundee,None,Dundee,2014,Scottish
+43,46,Kyle Gourlay,SCO,G,1.83,71,01-09-98,Dundee,None,Dundee,2014,Scottish
+44,47,Alex Harris,SCO,M,1.77,69,31-08-94,Edinburgh,Hibernian,Dundee,2014,Scottish
+45,48,Stephen McGinn,SCO,M,1.75,64,02-12-88,Glasgow,Sheffield U,Dundee,2014,Scottish
+46,49,Paul Heffernan,IRL,F,1.78,70,29-12-81,Dublin,Hibernian,Dundee,2014,Scottish
+47,50,Ben Priest,ENG,D,,,29-09-96,Kidderminster,Wolverhampton W,Dundee,2014,Scottish
+1,1,Radosław Cierzniak,POL,G,1.87,81,24-04-83,Szamocin,Cracovia Kraków,Dundee United,2014,Scottish
+2,2,Sean Dillon,IRL,D,1.83,79,30-07-83,Dublin,Shelbourne,Dundee United,2014,Scottish
+3,3,Paul Dixon,SCO,D,1.91,71,22-11-86,Aberdeen,Huddersfield T,Dundee United,2014,Scottish
+4,4,John Souttar,SCO,D,1.85,75,25-09-96,Aberdeen,None,Dundee United,2014,Scottish
+5,5,Jarosław Fojut,POL,D,1.88,83,17-10-87,Legionowo,Tromsø,Dundee United,2014,Scottish
+6,6,Paul Paton,SCO,M,1.78,67,18-04-87,Paisley,Partick Thistle,Dundee United,2014,Scottish
+7,7,Nadir Çiftçi,NED,F,1.83,77,12-02-92,Den Haag,NAC Breda,Dundee United,2014,Scottish
+8,8,John Rankin,SCO,M,1.73,80,27-06-83,Bellshill,Hibernian,Dundee United,2014,Scottish
+10,10,Robbie Muirhead,SCO,F,1.77,71,08-03-96,Irvine,Kilmarnock,Dundee United,2014,Scottish
+13,13,Marc McCallum,SCO,G,1.91,80,27-03-93,Forfar,None,Dundee United,2014,Scottish
+14,14,Callum Morris,ENG,D,1.87,78,03-02-90,Newcastle upon Tyne,Dunfermline Ath,Dundee United,2014,Scottish
+16,16,Ryan McGowan,AUS,D,1.88,75,15-08-89,Adelaide,Shandong Luneng,Dundee United,2014,Scottish
+17,17,Chris Erskine,SCO,M,1.85,76,08-02-87,Rutherglen,Partick Thistle,Dundee United,2014,Scottish
+18,18,Ryan Dow,SCO,F,1.70,67,07-06-91,Dundee,Dundee,Dundee United,2014,Scottish
+19,19,Mario Bilate,NED,F,1.91,87,16-07-91,Moscow,Sparta Rotterdam,Dundee United,2014,Scottish
+20,20,Calum Butcher,ENG,D,1.82,82,26-02-91,Rochford,Hayes & Yeading U,Dundee United,2014,Scottish
+21,21,Charlie Telfer,SCO,F,1.75,74,04-07-95,Carluke,Rangers,Dundee United,2014,Scottish
+22,22,Aidan Connolly,SCO,F,1.65,65,15-08-95,Dundee,Queen's Park,Dundee United,2014,Scottish
+23,23,Scott Smith,SCO,M,1.73,77,21-07-95,Perth,None,Dundee United,2014,Scottish
+24,24,Blair Spittal,SCO,M,1.83,74,19-12-95,Erskine,Queen's Park,Dundee United,2014,Scottish
+26,26,Michał Szromnik,POL,G,1.90,80,04-03-93,Gdańsk,Arka Gdynia,Dundee United,2014,Scottish
+30,30,Henri Anier,EST,F,1.81,80,17-12-90,Tallinn,Erzgebirge Aue,Dundee United,2014,Scottish
+31,31,Ryan Booth,SCO,G,1.85,,13-03-98,Aberdeen,None,Dundee United,2014,Scottish
+32,32,Joe McGovern,NIR,G,1.78,72,02-03-94,Eniskillen,Eniskillen T,Dundee United,2014,Scottish
+33,33,Euan Spark,SCO,D,1.78,70,29-11-96,Dundee,None,Dundee United,2014,Scottish
+34,34,Adam Harwood,NIR,D,1.86,78,17-01-95,Belfast,Portadown,Dundee United,2014,Scottish
+35,35,Jamie Montgomery,SCO,M,1.78,,18-01-96,Dundee,None,Dundee United,2014,Scottish
+36,36,Reghan Tumilty,SCO,D,1.78,70,26-02-97,Glasgow,None,Dundee United,2014,Scottish
+37,37,Brad Smith,SCO,M,1.83,,23-04-97,Dundee,None,Dundee United,2014,Scottish
+38,38,Cameron Ballantyne,SCO,D,1.76,70,13-04-97,Glasgow,None,Dundee United,2014,Scottish
+39,39,Jordan Garden,SCO,F,1.85,,20-06-97,Dundee,None,Dundee United,2014,Scottish
+40,40,Chris McLaughlin,SCO,D,1.78,70,05-03-96,Glasgow,None,Dundee United,2014,Scottish
+41,41,Rafa Málaga,ESP,M,1.84,70,09-10-95,Santiago,Real Madrid,Dundee United,2014,Scottish
+42,42,Harry Souttar,SCO,D,1.98,80,22-10-98,Aberdeen,None,Dundee United,2014,Scottish
+43,43,Ali Coote,SCO,M,1.70,65,11-06-98,Bedford,None,Dundee United,2014,Scottish
+44,44,Greig McNaughton,SCO,D,1.85,,22-03-98,Dundee,None,Dundee United,2014,Scottish
+45,45,Jamie Robson,SCO,D,1.73,68,19-12-97,Perth,None,Dundee United,2014,Scottish
+46,46,Scott Allardice,SCO,M,1.80,,31-03-98,Dundee,None,Dundee United,2014,Scottish
+47,47,Matthew Smith,SCO,F,1.80,,13-03-97,Dundee,St Johnstone,Dundee United,2014,Scottish
+48,48,Aaron Duke,NIR,F,1.93,80,21-02-96,Lisburn,Dollingstown,Dundee United,2014,Scottish
+49,50,Evan Horne,SCO,M,1.80,,07-06-98,Glasgow,Hearts,Dundee United,2014,Scottish
+50,51,Luis Zwick,GER,G,1.90,75,24-05-94,Berlin,Hertha Zehlendorf,Dundee United,2014,Scottish
+51,52,Scott Lochhead,SCO,M,1.73,70,23-01-97,Glasgow,Celtic,Dundee United,2014,Scottish
+52,53,Justin Johnson,NED,F,1.70,70,27-08-96,Den Haag,FCUM,Dundee United,2014,Scottish
+1,1,Michael McGovern,NIR,G,1.91,89,12-07-84,Enniskillen,Falkirk,Hamilton Academical,2014,Scottish
+2,2,Ziggy Gordon,SCO,D,1.80,77,23-04-93,Glasgow,None,Hamilton Academical,2014,Scottish
+3,3,Stephen Hendrie,SCO,D,1.78,70,08-01-95,Glasgow,None,Hamilton Academical,2014,Scottish
+4,4,Mikey Devlin,SCO,D,1.88,79,03-10-93,Motherwell,Celtic,Hamilton Academical,2014,Scottish
+5,5,Martin Canning,SCO,D,1.88,75,03-12-81,Stirling,Hibernian,Hamilton Academical,2014,Scottish
+6,6,Grant Gillespie,SCO,M,1.76,75,02-07-91,Bellshill,None,Hamilton Academical,2014,Scottish
+7,7,Dougie Imrie,SCO,F,1.78,74,03-08-83,Lanark,Greenock Morton,Hamilton Academical,2014,Scottish
+9,9,Jason Scotland,TRI,F,1.73,73,18-02-79,Morvant,Barnsley,Hamilton Academical,2014,Scottish
+11,11,Ali Crawford,SCO,M,1.73,63,30-07-91,Lanark,None,Hamilton Academical,2014,Scottish
+12,12,Darren Lyon,SCO,M,1.85,76,08-06-95,,Rangers,Hamilton Academical,2014,Scottish
+14,14,Nigel Hasselbaink,NED,F,1.68,60,21-11-90,Amsterdam,Veria,Hamilton Academical,2014,Scottish
+15,15,Kieran MacDonald,SCO,M,1.80,61,21-07-93,Rutherglen,Clyde,Hamilton Academical,2014,Scottish
+16,16,Craig Watson,SCO,M,1.83,71,13-02-95,Fraserburgh,None,Hamilton Academical,2014,Scottish
+17,17,Louis Longridge,SCO,F,1.75,72,05-07-91,Glasgow,Bo'ness U,Hamilton Academical,2014,Scottish
+18,18,Darian MacKinnon,SCO,F,1.55,63,09-10-85,Dumbarton,Clydebank,Hamilton Academical,2014,Scottish
+19,19,Blair Currie,SCO,G,1.85,83,19-02-94,Glasgow,Rangers,Hamilton Academical,2014,Scottish
+20,20,Eamonn Brophy,SCO,F,1.74,68,10-03-96,Bellshill,Hibernian,Hamilton Academical,2014,Scottish
+21,21,Greg Docherty,SCO,M,1.77,72,10-09-96,,None,Hamilton Academical,2014,Scottish
+23,23,Scott McMann,SCO,D,1.80,70,09-07-96,,None,Hamilton Academical,2014,Scottish
+24,24,Jesús García Tena,ESP,D,1.88,78,07-06-90,Terrassa,Livingston,Hamilton Academical,2014,Scottish
+25,25,Danny Armstrong,SCO,M,1.75,64,11-10-97,,None,Hamilton Academical,2014,Scottish
+26,26,Aldin El Zubaidi,SCO,D,1.78,74,07-03-95,Baghdad,None,Hamilton Academical,2014,Scottish
+27,27,Jack Harrison,SCO,D,1.85,78,08-05-97,,None,Hamilton Academical,2014,Scottish
+28,28,Daniel Redmond,ENG,M,1.60,67,02-03-91,Liverpool,Wigan Ath,Hamilton Academical,2014,Scottish
+29,29,Darren Hill,SCO,G,1.88,89,03-12-81,Falkirk,Forfar Ath,Hamilton Academical,2014,Scottish
+31,31,Darren Smith,SCO,M,,,18-09-97,Larkhall,None,Hamilton Academical,2014,Scottish
+32,32,Andy Ryan,SCO,F,1.73,61,29-09-94,Hamilton,None,Hamilton Academical,2014,Scottish
+33,33,Ronan Hughes,SCO,M,1.78,64,15-12-98,,None,Hamilton Academical,2014,Scottish
+34,34,Ben Reilly,SCO,M,1.70,63,20-08-97,Bellshill,Rangers,Hamilton Academical,2014,Scottish
+36,36,Shaun Want,SCO,M,1.80,70,09-02-97,Rutherglen,None,Hamilton Academical,2014,Scottish
+37,37,Ross Cunningham,SCO,M,1.78,70,23-05-98,,None,Hamilton Academical,2014,Scottish
+38,38,Ryan Tierney,SCO,F,1.78,70,30-01-98,,None,Hamilton Academical,2014,Scottish
+39,39,Jack Simpson,SCO,M,,,08-01-97,,Hearts,Hamilton Academical,2014,Scottish
+40,40,Colin Granger,SCO,D,,,11-01-97,Ayr,None,Hamilton Academical,2014,Scottish
+41,41,Victor Gutsul,RUS,M,,,13-05-97,Moscow,None,Hamilton Academical,2014,Scottish
+42,42,Steven Boyd,SCO,F,1.75,64,12-04-97,Paisley,None,Hamilton Academical,2014,Scottish
+43,44,Lucas Tagliapietra,BRA,D,1.94,90,05-11-90,Alegrete,FC Milsami,Hamilton Academical,2014,Scottish
+44,45,Nicolas umský,CZE,M,1.70,67,13-11-93,,Dukla Banská Bystrica,Hamilton Academical,2014,Scottish
+1,1,Ryan Esson,SCO,G,1.85,79,19-03-80,Aberdeen,Hereford U,Inverness Caledonian Thistle,2014,Scottish
+2,2,David Raven,ENG,D,1.83,72,10-03-85,Birkenhead,Tranmere R,Inverness Caledonian Thistle,2014,Scottish
+3,3,Graeme Shinnie,SCO,D,1.73,63,04-08-91,Aberdeen,None,Inverness Caledonian Thistle,2014,Scottish
+4,4,James Vincent,ENG,M,1.80,70,27-09-89,Glossop,Kidderminster H,Inverness Caledonian Thistle,2014,Scottish
+5,5,Gary Warren,ENG,D,1.84,75,16-08-84,Bristol,Newport Co,Inverness Caledonian Thistle,2014,Scottish
+6,6,Josh Meekings,ENG,D,1.83,78,02-09-92,Bury St Edmunds,Ipswich T,Inverness Caledonian Thistle,2014,Scottish
+7,7,Edward Ofere,NGA,F,1.90,80,28-03-86,Enugu,Sogndal,Inverness Caledonian Thistle,2014,Scottish
+8,8,Ross Draper,ENG,M,1.85,79,20-10-88,Wolverhampton,Macclesfield T,Inverness Caledonian Thistle,2014,Scottish
+9,9,Richie Foran,IRL,F,1.85,78,16-06-80,Dublin,Southend U,Inverness Caledonian Thistle,2014,Scottish
+10,10,Aaron Doran,IRL,M,1.70,76,13-05-91,Dublin,Blackburn R,Inverness Caledonian Thistle,2014,Scottish
+11,11,Nick Ross,SCO,M,1.75,64,11-11-91,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+12,12,Dean Brill,ENG,G,1.88,78,10-02-85,Luton,Luton T,Inverness Caledonian Thistle,2014,Scottish
+14,14,Daniel Devine,NIR,D,1.83,70,07-09-92,Belfast,Fleetwood T,Inverness Caledonian Thistle,2014,Scottish
+15,15,Marley Watkins,ENG,M,1.78,65,17-10-90,Lewisham,Hereford U,Inverness Caledonian Thistle,2014,Scottish
+16,16,Greg Tansey,ENG,M,1.85,78,21-11-88,Huyton,Stevenage,Inverness Caledonian Thistle,2014,Scottish
+17,17,Lewis Horner,ENG,M,1.80,75,01-02-92,Newcastle upon Tyne,Blyth Spartans,Inverness Caledonian Thistle,2014,Scottish
+18,18,Carl Tremarco,ENG,D,1.80,78,11-10-85,Liverpool,Macclesfield T,Inverness Caledonian Thistle,2014,Scottish
+19,19,Danny Williams,ENG,M,1.75,69,25-01-88,Wigan,Kendal T,Inverness Caledonian Thistle,2014,Scottish
+20,20,Liam Polworth,SCO,M,1.78,70,12-10-94,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+22,22,Ryan Christie,SCO,M,1.78,70,28-04-95,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+25,25,Tarmo Kink,EST,F,1.83,74,06-10-85,Tallinn,Kaposvár,Inverness Caledonian Thistle,2014,Scottish
+31,31,Cameron Mackay,SCO,G,1.88,75,09-12-96,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+32,32,Christopher Brown,SCO,D,1.84,75,06-02-97,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+33,33,Kane Hull,SCO,D,,,19-04-97,,None,Inverness Caledonian Thistle,2014,Scottish
+34,34,Jason Brown,SCO,M,1.83,75,07-06-96,Aberdeen,None,Inverness Caledonian Thistle,2014,Scottish
+35,35,Calum Howarth,SCO,D,,,01-09-94,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+36,36,Struan McArthur,SCO,M,,,04-04-97,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+37,37,Alasdair Sutherland,SCO,F,1.80,68,19-09-96,Wick,None,Inverness Caledonian Thistle,2014,Scottish
+38,38,Blair MacLennan,SCO,M,1.80,70,05-05-97,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+39,39,Calum Ferguson,SCO,F,1.78,64,30-03-95,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+40,40,Jamie Wilson,SCO,F,,,17-01-97,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+41,41,Stephen Rennie,SCO,M,1.80,70,31-03-97,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+42,42,Daniel Hoban,SCO,G,1.83,70,05-04-98,Inverness,None,Inverness Caledonian Thistle,2014,Scottish
+43,44,Ryan Baptie,SCO,D,,,18-03-95,,None,Inverness Caledonian Thistle,2014,Scottish
+44,46,Christopher Blackett,SCO,F,,,18-04-97,Aberdeen,None,Inverness Caledonian Thistle,2014,Scottish
+1,1,Craig Samson,SCO,G,1.88,80,01-04-84,Irvine,St Mirren,Kilmarnock,2014,Scottish
+2,2,Ross Barbour,SCO,D,1.77,71,01-02-93,Glasgow,None,Kilmarnock,2014,Scottish
+4,4,Jamie Hamill,SCO,M,1.73,71,29-07-86,Irvine,Hearts,Kilmarnock,2014,Scottish
+6,6,Mark Connolly,IRL,D,1.83,77,16-12-91,Monaghan,Crawley T,Kilmarnock,2014,Scottish
+7,7,Rory McKenzie,SCO,F,1.75,75,07-10-93,Irvine,None,Kilmarnock,2014,Scottish
+8,8,Sammy Clingan,NIR,M,1.80,73,13-01-84,Belfast,Doncaster R,Kilmarnock,2014,Scottish
+9,9,Lee Miller,SCO,F,1.88,73,18-05-83,Lanark,Carlisle U,Kilmarnock,2014,Scottish
+10,10,Chris Johnston,SCO,F,1.64,71,03-09-94,Irvine,None,Kilmarnock,2014,Scottish
+11,11,Paul Cairney,SCO,M,1.75,68,29-08-87,Glasgow,Hibernian,Kilmarnock,2014,Scottish
+13,13,Conor Brennan,NIR,G,1.85,90,30-03-94,Crossgar,Leicester C,Kilmarnock,2014,Scottish
+14,14,Nathan Eccleston,ENG,F,1.78,66,30-12-90,Manchester,Partick Thistle,Kilmarnock,2014,Scottish
+15,15,Euan Smith,SCO,M,1.78,74,29-01-94,Edinburgh,Hibernian,Kilmarnock,2014,Scottish
+16,16,Temitope Obadeyi,ENG,M,1.90,87,29-10-89,Birmingham,Bury,Kilmarnock,2014,Scottish
+18,18,Lee Ashcroft,SCO,D,1.80,70,29-08-93,Barrhead,None,Kilmarnock,2014,Scottish
+19,19,Craig Slater,SCO,M,1.78,74,26-04-94,Glasgow,St Mirren,Kilmarnock,2014,Scottish
+20,20,Alexei Eremenko,FIN,M,1.83,84,24-03-83,Rostov-on-Don,Kairat Almaty,Kilmarnock,2014,Scottish
+21,21,Michael Ngoo,ENG,F,1.94,76,23-10-92,Walthamstow,Liverpool,Kilmarnock,2014,Scottish
+22,22,Darryl Westlake,ENG,D,1.75,70,01-03-91,Sutton Coldfield,Sheffield U,Kilmarnock,2014,Scottish
+23,23,Chris Chantler,ENG,D,1.73,70,16-12-90,Cheadle Hulme,Carlisle U,Kilmarnock,2014,Scottish
+26,26,Mark O'Hara,SCO,D,1.83,73,12-12-95,Barrhead,None,Kilmarnock,2014,Scottish
+28,28,Josh Magennis,NIR,F,1.88,82,15-08-90,Bangor,Aberdeen,Kilmarnock,2014,Scottish
+29,29,Manuel Pascali,ITA,M,1.86,78,09-09-81,Milan,Parma,Kilmarnock,2014,Scottish
+30,30,Greg Kiltie,SCO,F,1.78,70,18-01-97,Irvine,None,Kilmarnock,2014,Scottish
+31,31,Devlin Mackay,SCO,G,1.91,75,23-01-97,Irvine,None,Kilmarnock,2014,Scottish
+34,34,Mark Thomson,SCO,F,,,22-10-95,,None,Kilmarnock,2014,Scottish
+35,35,Adam Hodge,SCO,D,,,31-01-97,,None,Kilmarnock,2014,Scottish
+36,36,David Syme,SCO,D,1.90,86,23-06-97,Kilbirnie,None,Kilmarnock,2014,Scottish
+37,37,Aaron Splaine,SCO,M,1.73,74,13-10-96,Newton Stewart,None,Kilmarnock,2014,Scottish
+38,38,Dean Hawkshaw,SCO,D,1.66,60,24-04-97,Kilmarnock,None,Kilmarnock,2014,Scottish
+39,39,Jack Whittaker,SCO,M,,,08-09-97,Irvine,None,Kilmarnock,2014,Scottish
+40,40,Dylan Pooler,SCO,F,,,23-04-97,Irvine,None,Kilmarnock,2014,Scottish
+41,41,Greg Taylor,SCO,M,1.74,62,05-11-97,Greenock,Rangers,Kilmarnock,2014,Scottish
+42,42,Scott McLean,SCO,F,1.78,70,30-08-97,Irvine,None,Kilmarnock,2014,Scottish
+43,43,Sam Lidington,SCO,D,1.70,63,04-03-97,Irvine,None,Kilmarnock,2014,Scottish
+1,1,George Long,ENG,G,1.93,93,05-11-93,Sheffield,Sheffield U,Motherwell,2014,Scottish
+2,2,Craig Reid,SCO,D,1.83,72,26-02-86,Irvine,Greenock Morton,Motherwell,2014,Scottish
+3,3,Steven Hammell,SCO,D,1.78,71,18-02-81,Glasgow,Southend U,Motherwell,2014,Scottish
+4,4,Stuart Carswell,SCO,M,1.78,72,09-09-92,Bellshill,None,Motherwell,2014,Scottish
+5,5,Simon Ramsden,ENG,D,1.83,79,17-12-81,Bishop Auckland,Bradford C,Motherwell,2014,Scottish
+6,6,Stephen McManus,SCO,D,1.88,83,10-09-82,Lanark,Middlesbrough,Motherwell,2014,Scottish
+7,7,Lionel Ainsworth,ENG,M,1.75,61,01-10-87,Nottingham,Rotherham U,Motherwell,2014,Scottish
+8,8,Paul Lawson,SCO,M,1.75,75,15-05-84,Aberdeen,Ross Co,Motherwell,2014,Scottish
+9,9,John Sutton,ENG,F,1.83,89,26-12-83,Norwich,Hearts,Motherwell,2014,Scottish
+11,11,Iain Vigurs,SCO,M,1.78,73,07-05-88,Aberdeen,Ross Co,Motherwell,2014,Scottish
+12,12,Dan Twardzik,GER,G,1.83,77,13-04-91,Třinec,Dundee,Motherwell,2014,Scottish
+13,13,Gunnar Nielsen,FRO,G,1.91,89,07-10-86,Tórshavn,Silkeborg,Motherwell,2014,Scottish
+14,14,Keith Lasley,SCO,M,1.75,67,21-09-79,Glasgow,Plymouth Arg,Motherwell,2014,Scottish
+15,15,Mark O'Brien,IRL,D,1.80,77,20-11-92,Dublin,Derby Co,Motherwell,2014,Scottish
+16,16,Robert McHugh,SCO,F,1.78,74,16-07-91,Glasgow,None,Motherwell,2014,Scottish
+17,17,Zaine Francis-Angol,ATG,D,1.73,78,30-06-93,Walthamstow,Tottenham H,Motherwell,2014,Scottish
+18,18,Josh Law,ENG,M,1.81,70,19-08-89,Nottingham,Alfreton T,Motherwell,2014,Scottish
+19,19,Lee Erwin,SCO,F,1.88,79,19-03-94,Bellshill,None,Motherwell,2014,Scottish
+20,20,Fraser Kerr,SCO,D,1.91,84,17-01-93,Rutherglen,Birmingham C,Motherwell,2014,Scottish
+21,21,Jack Leitch,SCO,M,1.73,67,17-07-95,Motherwell,None,Motherwell,2014,Scottish
+22,22,Craig Moore,SCO,F,1.73,67,16-08-94,Glasgow,None,Motherwell,2014,Scottish
+23,23,Adam Cummins,ENG,D,1.85,78,03-03-93,Maghull,Everton,Motherwell,2014,Scottish
+24,24,Marvin Johnson,ENG,M,1.78,74,01-12-90,Birmingham,Kidderminster H,Motherwell,2014,Scottish
+25,25,Ross Stewart,SCO,G,1.88,71,16-04-95,Glasgow,None,Motherwell,2014,Scottish
+26,26,Dominic Thomas,SCO,M,1.70,59,14-02-96,Glasgow,None,Motherwell,2014,Scottish
+27,27,Steven Higgins,SCO,F,1.75,72,05-05-96,Bellshill,None,Motherwell,2014,Scottish
+29,29,Chris Cadden,SCO,M,1.83,67,19-09-96,Bellshill,None,Motherwell,2014,Scottish
+30,30,David Ferguson,SCO,D,1.83,70,24-03-96,Law,None,Motherwell,2014,Scottish
+31,31,Max Currie,SCO,G,1.78,64,03-03-97,Glasgow,None,Motherwell,2014,Scottish
+32,32,Craig McCall,SCO,M,1.65,68,19-07-96,Glasgow,None,Motherwell,2014,Scottish
+33,33,Liam Anderson,SCO,M,1.73,64,28-04-96,Glasgow,None,Motherwell,2014,Scottish
+34,34,Dylan Mackin,SCO,F,1.85,90,15-01-97,Irvine,None,Motherwell,2014,Scottish
+35,35,Danny McNulty,SCO,D,1.83,72,10-08-96,Bellshill,None,Motherwell,2014,Scottish
+36,36,Robbie Leitch,SCO,M,,,01-04-98,Swindon,None,Motherwell,2014,Scottish
+37,37,Ben Hall,NIR,D,1.85,79,16-01-97,Enniskillen,Dungannon Swifts,Motherwell,2014,Scottish
+38,38,Luke Watt,SCO,D,1.80,74,20-06-97,Glasgow,None,Motherwell,2014,Scottish
+39,39,Ross McLean,SCO,M,1.72,60,13-03-97,Bellshill,None,Motherwell,2014,Scottish
+40,40,Allan Campbell,SCO,M,1.73,67,04-07-98,Glasgow,None,Motherwell,2014,Scottish
+41,41,Brett Long,NIR,G,1.85,80,11-04-97,Belfast,Cliftonville,Motherwell,2014,Scottish
+42,42,Ryan Watters,SCO,F,,,12-05-98,Rutherglen,None,Motherwell,2014,Scottish
+43,43,Jack McMillan,SCO,D,1.83,77,18-12-97,Livingston,None,Motherwell,2014,Scottish
+44,44,Anthony Straker,GRN,M,1.75,75,23-09-88,Ealing,York C,Motherwell,2014,Scottish
+45,45,Louis Laing,ENG,D,1.81,76,06-03-93,Newcastle upon Tyne,Nottingham F,Motherwell,2014,Scottish
+46,46,Nathan Thomas,ENG,M,1.78,80,27-09-94,Ingleby Barwick,Plymouth Arg,Motherwell,2014,Scottish
+47,47,Conor Grant,ENG,M,1.76,80,18-04-95,Fazakerley,Everton,Motherwell,2014,Scottish
+48,48,Stephen Pearson,SCO,M,1.85,70,02-10-82,Lanark,Kerala Blasters,Motherwell,2014,Scottish
+49,77,Scott McDonald,AUS,F,1.73,78,21-08-83,Melbourne,Millwall,Motherwell,2014,Scottish
+1,1,Scott Fox,SCO,G,1.83,77,28-06-87,Bellshill,Dundee,Partick Thistle,2014,Scottish
+2,2,Stephen O'Donnell,SCO,D,1.83,74,11-05-92,Aberdeen,Celtic,Partick Thistle,2014,Scottish
+3,3,Daniel Seaborne,ENG,D,1.83,74,05-03-87,Barnstaple,Coventry C,Partick Thistle,2014,Scottish
+4,4,Sean Welsh,SCO,M,1.74,70,15-03-90,Leith,Hibernian,Partick Thistle,2014,Scottish
+5,5,Callum Booth,SCO,D,1.80,75,30-05-91,Stranraer,Hibernian,Partick Thistle,2014,Scottish
+6,6,Conrad Balatoni,ENG,D,1.83,83,27-01-91,Leeds,Hearts,Partick Thistle,2014,Scottish
+7,7,James Craigen,ENG,M,1.83,73,28-03-91,Preston,Edinburgh Univ,Partick Thistle,2014,Scottish
+8,8,Stuart Bannigan,SCO,M,1.75,60,17-09-92,Bishopbriggs,None,Partick Thistle,2014,Scottish
+9,9,Kris Doolan,SCO,F,1.78,70,11-12-86,Irvine,Auchinleck Talbot,Partick Thistle,2014,Scottish
+10,10,Ryan Stevenson,SCO,M,1.80,86,24-08-84,Irvine,Hearts,Partick Thistle,2014,Scottish
+11,11,Steven Lawless,SCO,F,1.70,60,12-04-91,Glasgow,Motherwell,Partick Thistle,2014,Scottish
+12,12,Paul Gallacher,SCO,G,1.83,77,16-08-79,Glasgow,Ross Co,Partick Thistle,2014,Scottish
+13,13,Frédéric Frans,BEL,D,1.93,85,03-01-89,Wespelaar,Lierse,Partick Thistle,2014,Scottish
+14,14,Christie Elliott,ENG,F,1.88,79,26-05-91,Jarrow,Whitley Bay,Partick Thistle,2014,Scottish
+15,15,Kallum Higginbotham,ENG,F,1.80,68,15-06-89,Manchester,Huddersfield T,Partick Thistle,2014,Scottish
+17,17,Ryan Finnie,SCO,D,1.80,70,19-02-95,Law,Rangers,Partick Thistle,2014,Scottish
+18,18,Abdul Osman,ENG,M,1.83,70,27-02-87,Accra,Crewe Alex,Partick Thistle,2014,Scottish
+20,20,Marc Waters,SCO,G,1.80,76,30-08-96,,None,Partick Thistle,2014,Scottish
+21,21,Ben Richards-Everton,ENG,D,1.90,89,17-10-91,Birmingham,Tamworth,Partick Thistle,2014,Scottish
+22,22,Gary Fraser,SCO,M,1.78,70,02-07-94,Dundee,Bolton W,Partick Thistle,2014,Scottish
+23,23,David Wilson,SCO,M,1.80,74,06-09-94,Glasgow,Raith R,Partick Thistle,2014,Scottish
+24,24,Jack Hendry,SCO,D,1.88,76,07-05-95,Glasgow,Dundee U,Partick Thistle,2014,Scottish
+25,25,Jordan Leyden,SCO,F,1.85,79,09-03-96,,None,Partick Thistle,2014,Scottish
+27,27,Jonathon Black,SCO,F,1.75,66,09-11-94,,Motherwell,Partick Thistle,2014,Scottish
+28,28,Declan McDaid,SCO,M,1.79,60,22-11-95,Greenock,Greenock Morton,Partick Thistle,2014,Scottish
+29,29,Lyle Taylor,ENG,F,1.88,81,29-03-90,Staines,Scunthorpe U,Partick Thistle,2014,Scottish
+30,30,Dale Keenan,SCO,D,1.83,73,27-06-94,Glasgow,Celtic,Partick Thistle,2014,Scottish
+32,32,Michael McMullin,SCO,D,1.77,73,10-02-97,Glasgow,None,Partick Thistle,2014,Scottish
+33,33,Neil McLaughlin,SCO,F,,,06-11-98,Glasgow,None,Partick Thistle,2014,Scottish
+34,34,Kevin Nisbet,SCO,F,1.80,77,08-03-97,Glasgow,None,Partick Thistle,2014,Scottish
+35,35,Matthew McInally,SCO,D,1.85,75,02-08-97,Glasgow,None,Partick Thistle,2014,Scottish
+40,40,Scott Basalaj,NZL,G,1.84,85,19-04-94,Lower Hutt,Team Wellington,Partick Thistle,2014,Scottish
+1,1,Antonio Reguero,ESP,G,1.87,84,04-07-82,Madrid,Kilmarnock,Ross County,2014,Scottish
+3,3,Abdoulaye Méité,CIV,D,1.85,82,06-10-80,Paris,OFI,Ross County,2014,Scottish
+4,4,Rocco Quinn,SCO,M,1.81,76,07-09-86,Glasgow,Queen of the South,Ross County,2014,Scottish
+5,5,Scott Boyd,SCO,D,1.88,75,04-06-86,Whitburn,Partick Thistle,Ross County,2014,Scottish
+6,6,Steven Saunders,SCO,D,1.87,66,23-02-91,Glasgow,Motherwell,Ross County,2014,Scottish
+7,7,Joe Cardle,ENG,M,1.73,60,07-02-87,Blackpool,Raith R,Ross County,2014,Scottish
+8,8,Richard Brittain,SCO,M,1.75,67,24-09-83,Bangour,St Mirren,Ross County,2014,Scottish
+9,9,Jake Jervis,ENG,F,1.93,82,17-09-91,Birmingham,Portsmouth,Ross County,2014,Scottish
+10,10,Filip Kiss,SVK,M,1.86,75,13-10-90,Dunajská Streda,Cardiff C,Ross County,2014,Scottish
+11,11,Craig Curran,ENG,F,1.75,74,23-08-89,Liverpool,Nuneaton T,Ross County,2014,Scottish
+12,12,Jamie Reckord,ENG,D,1.78,75,09-03-92,Wolverhampton,Wolverhampton W,Ross County,2014,Scottish
+13,13,Darren Barr,SCO,D,1.75,65,17-03-85,Glasgow,Kilmarnock,Ross County,2014,Scottish
+16,16,Liam Boyce,NIR,F,1.84,85,08-04-91,Belfast,Cliftonville,Ross County,2014,Scottish
+17,17,Steven Ross,SCO,F,1.83,70,29-08-93,Inverness,None,Ross County,2014,Scottish
+18,18,Ben Frempah,GHA,D,1.88,83,29-01-96,Sassuolo,Leicester C,Ross County,2014,Scottish
+20,20,Darvydas ernas,LTU,M,1.80,75,22-07-84,Alytus,Wigry Suwałki,Ross County,2014,Scottish
+21,21,Mark Brown,SCO,G,1.85,84,28-02-81,Motherwell,Hibernian,Ross County,2014,Scottish
+22,22,Rubén Palazuelos,ESP,D,1.87,75,11-04-83,Santander,Ermis Aradippou,Ross County,2014,Scottish
+23,23,Graham Carey,IRL,M,1.83,69,02-05-89,Dublin,St Mirren,Ross County,2014,Scottish
+24,24,Raffaele De Vita,ITA,F,1.80,77,23-09-87,Rome,Cheltenham T,Ross County,2014,Scottish
+26,26,Martin Woods,SCO,M,1.75,68,01-01-86,Bellshill,Barnsley,Ross County,2014,Scottish
+28,28,Stephen Miller,SCO,D,,,23-02-96,,None,Ross County,2014,Scottish
+29,29,Kyle Macleod,SCO,F,1.81,70,07-06-95,Fortrose,None,Ross County,2014,Scottish
+30,30,Tony Dingwall,SCO,M,1.70,64,25-07-94,Dingwall,None,Ross County,2014,Scottish
+31,31,Terry Dunfield,CAN,M,1.70,65,20-02-82,Vancouver,Oldham Ath,Ross County,2014,Scottish
+33,33,Peter Tait,SCO,G,,,07-07-97,Peterhead,Aberdeen,Ross County,2014,Scottish
+36,36,Jackson Irvine,AUS,M,1.79,70,07-03-93,Melbourne,Celtic,Ross County,2014,Scottish
+38,38,Cameron Burgess,AUS,D,1.94,81,21-10-95,Aberdeen,Fulham,Ross County,2014,Scottish
+40,40,Michael Gardyne,SCO,F,1.70,64,23-01-86,Dundee,Dundee U,Ross County,2014,Scottish
+41,43,Paul Quinn,SCO,D,1.83,71,21-07-85,Wishaw,Doncaster R,Ross County,2014,Scottish
+42,44,Marcus Fraser,SCO,D,1.78,70,23-06-94,Bishopbriggs,Celtic,Ross County,2014,Scottish
+1,1,Alan Mannus,NIR,G,1.88,94,19-05-82,Toronto,Shamrock R,St Johnstone,2014,Scottish
+2,2,David Mackay,SCO,D,1.86,83,02-05-80,Rutherglen,Livingston,St Johnstone,2014,Scottish
+3,3,Thomas Scobbie,SCO,D,1.83,70,31-03-88,Falkirk,Falkirk,St Johnstone,2014,Scottish
+4,4,Simon Lappin,SCO,M,1.80,60,25-01-83,Glasgow,Cardiff C,St Johnstone,2014,Scottish
+5,5,Frazer Wright,SCO,D,1.78,74,23-12-79,East Kilbride,Kilmarnock,St Johnstone,2014,Scottish
+6,6,Steven Anderson,SCO,D,1.80,72,19-12-85,Edinburgh,Dundee U,St Johnstone,2014,Scottish
+7,7,Chris Millar,SCO,M,1.75,68,30-03-83,Glasgow,Greenock Morton,St Johnstone,2014,Scottish
+9,9,Steven MacLean,SCO,F,1.80,79,23-08-82,Edinburgh,Yeovil T,St Johnstone,2014,Scottish
+10,10,David Wotherspoon,SCO,M,1.81,76,16-01-90,Perth,Hibernian,St Johnstone,2014,Scottish
+11,11,Danny Swanson,SCO,M,1.68,59,28-12-86,Edinburgh,Coventry C,St Johnstone,2014,Scottish
+14,14,Brian Graham,SCO,F,1.88,70,23-11-87,Glasgow,Dundee U,St Johnstone,2014,Scottish
+15,15,Steve Banks,ENG,G,1.80,84,09-02-72,Hillingdon,Dundee U,St Johnstone,2014,Scottish
+16,16,Liam Caddis,SCO,M,1.73,72,20-09-93,Irvine,None,St Johnstone,2014,Scottish
+17,17,James McFadden,SCO,F,1.78,75,14-04-83,Glasgow,Motherwell,St Johnstone,2014,Scottish
+18,18,Murray Davidson,SCO,M,1.86,63,07-03-88,Edinburgh,Livingston,St Johnstone,2014,Scottish
+19,19,Gary Miller,SCO,D,1.82,71,15-04-87,Glasgow,Ross Co,St Johnstone,2014,Scottish
+20,20,Scott Brown,SCO,M,1.83,77,25-11-94,Glasgow,Bradford C,St Johnstone,2014,Scottish
+22,22,Lee Croft,ENG,M,1.75,81,21-06-85,Wigan,Oldham Ath,St Johnstone,2014,Scottish
+23,23,Gareth Rodger,SCO,D,1.83,71,22-02-94,Edinburgh,None,St Johnstone,2014,Scottish
+24,24,Brian Easton,SCO,D,1.83,76,05-03-88,Glasgow,Dundee,St Johnstone,2014,Scottish
+25,25,Chris Kane,SCO,F,1.80,76,05-09-94,Edinburgh,None,St Johnstone,2014,Scottish
+26,26,Scott Wilson,SCO,M,,,25-04-95,,None,St Johnstone,2014,Scottish
+29,29,Michael O'Halloran,SCO,F,1.88,79,06-01-91,Glasgow,Bolton W,St Johnstone,2014,Scottish
+30,30,Matthew Buchanan,NIR,D,,,17-11-95,,WBA,St Johnstone,2014,Scottish
+32,32,Kyle Lander,SCO,F,,,21-01-96,,Livingston,St Johnstone,2014,Scottish
+33,33,Connor McLaren,SCO,M,1.75,64,20-02-97,Perth,Celtic,St Johnstone,2014,Scottish
+34,34,Jason Kerr,SCO,D,,,06-02-97,Edinburgh,None,St Johnstone,2014,Scottish
+35,35,Mark Hurst,SCO,G,1.85,78,21-10-95,Edinburgh,Livingston,St Johnstone,2014,Scottish
+41,42,Robbie Norrie,SCO,F,1.75,,04-08-96,Dundee,None,St Johnstone,2014,Scottish
+42,45,Alex Kitchen,SCO,D,,,10-07-95,,None,St Johnstone,2014,Scottish
+43,49,Scott-Taylor MacKenzie,SCO,M,,,13-09-96,,Livingston,St Johnstone,2014,Scottish
+2,2,Jason Naismith,SCO,D,1.69,68,25-06-94,Paisley,None,St Mirren,2014,Scottish
+3,3,Sean Kelly,SCO,D,1.91,76,01-11-93,Glasgow,None,St Mirren,2014,Scottish
+4,4,Mark McAusland,SCO,D,1.82,64,13-08-88,Paisley,Queen of the South,St Mirren,2014,Scottish
+6,6,Jim Goodwin,IRL,M,1.75,77,20-11-81,Waterford,Hamilton Academical,St Mirren,2014,Scottish
+7,7,John McGinn,SCO,M,1.75,68,18-10-94,Glasgow,None,St Mirren,2014,Scottish
+8,8,Alan Gow,SCO,M,1.83,70,09-10-82,Glasgow,Exeter C,St Mirren,2014,Scottish
+9,9,Steven Thompson,SCO,F,1.88,79,14-10-78,Paisley,Burnley,St Mirren,2014,Scottish
+10,10,Kieran Sadlier,IRL,M,1.78,66,14-09-94,Haywards Heath,West Ham U,St Mirren,2014,Scottish
+11,11,Gregg Wylde,SCO,M,1.78,72,23-03-91,Kirkintilloch,Aberdeen,St Mirren,2014,Scottish
+12,12,Mark Ridgers,SCO,G,1.83,82,09-08-90,Inverness,Hearts,St Mirren,2014,Scottish
+13,13,Isaac Osbourne,ENG,M,1.78,76,22-06-86,Birmingham,Partick Thistle,St Mirren,2014,Scottish
+14,14,Thomas Reilly,SCO,F,1.67,61,15-09-94,Irvine,None,St Mirren,2014,Scottish
+15,15,Yoann Arquin,FRA,F,1.89,85,15-04-88,Le Havre,Ross Co,St Mirren,2014,Scottish
+16,16,Callum Ball,ENG,F,1.85,66,08-10-92,Leicester,Derby Co,St Mirren,2014,Scottish
+17,17,James Dayton,ENG,M,1.72,64,12-12-88,Enfield,Oldham Ath,St Mirren,2014,Scottish
+18,18,Mo Yaqub,SCO,D,1.83,75,07-01-94,Glasgow,Celtic,St Mirren,2014,Scottish
+19,19,Adam Brown,SCO,M,1.77,64,09-06-95,Falkirk,None,St Mirren,2014,Scottish
+20,20,Mark Williams,SCO,D,1.86,74,15-05-95,Alexandria,None,St Mirren,2014,Scottish
+21,21,Gary Teale,SCO,M,1.75,72,21-07-78,Glasgow,Sheffield W,St Mirren,2014,Scottish
+22,22,Jeroen Tesselaar,NED,D,1.83,74,16-01-89,Wognum,Kilmarnock,St Mirren,2014,Scottish
+25,25,Emmanuel Sonupe,ENG,M,1.80,70,21-03-96,Denmark Hill,Tottenham H,St Mirren,2014,Scottish
+28,28,Marián Kello,SVK,G,1.88,87,05-09-82,Gelnica,Wolverhampton W,St Mirren,2014,Scottish
+30,30,Jack Baird,SCO,D,1.83,68,07-02-96,Glasgow,None,St Mirren,2014,Scottish
+31,31,Stevie Mallan,SCO,M,1.80,78,25-03-96,Glasgow,None,St Mirren,2014,Scottish
+32,32,Lewis McLear,SCO,M,1.75,69,26-05-96,Bellshill,None,St Mirren,2014,Scottish
+34,34,Lewis Morgan,SCO,M,1.78,75,30-09-96,Paisley,Rangers,St Mirren,2014,Scottish
+35,35,Danny McDonald,SCO,M,,,04-06-96,Glasgow,None,St Mirren,2014,Scottish
+36,36,Barry Cuddihy,SCO,M,1.81,70,19-12-96,Glasgow,None,St Mirren,2014,Scottish
+38,38,Connor Murray,SCO,F,1.83,70,24-04-97,Glasgow,None,St Mirren,2014,Scottish
+41,45,Jordan Stewart,SCO,M,1.75,67,05-03-96,Glasgow,None,St Mirren,2014,Scottish
+42,46,Dan Wilks,ENG,G,1.81,69,08-06-96,Watford,Watford,St Mirren,2014,Scottish
+43,52,Viktor Genev,BUL,D,1.80,75,27-10-88,Sofia,Spartak Semey,St Mirren,2014,Scottish

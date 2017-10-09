@@ -1,0 +1,514 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Martin Hansen,ENG,G,1.88,80,15-06-90,Glostrup,FC Nordsjælland,ADO Den Haag,2014,Dutch
+2,2,Dione Malone,NED,D,1.85,76,13-02-89,Paramaribo,Almere C,ADO Den Haag,2014,Dutch
+3,3,Vito Wormgoor,NED,D,1.88,81,16-11-88,Leersum,De Graafschap,ADO Den Haag,2014,Dutch
+4,4,Timothy Derijck,BEL,D,1.85,77,25-05-87,Liedekerke,PSV Eindhoven,ADO Den Haag,2014,Dutch
+5,5,Wilfried Kanon,CIV,D,1.90,85,06-07-93,Abidjan,Corona Braşov,ADO Den Haag,2014,Dutch
+6,6,Thomas Kristensen,DEN,M,1.88,79,17-04-83,Virum,FC København,ADO Den Haag,2014,Dutch
+7,7,Kevin Jansen,NED,M,1.83,77,08-04-92,Ridderkerk,Feyenoord,ADO Den Haag,2014,Dutch
+8,8,Aaron Meijers,NED,D,1.76,77,28-10-87,Delft,RKC Waalwijk,ADO Den Haag,2014,Dutch
+9,9,Mike van Duinen,NED,F,1.83,74,06-11-91,Den Haag,None,ADO Den Haag,2014,Dutch
+10,10,Mathias Gehrt,DEN,M,1.74,75,07-06-92,Copenhagen,Brøndby,ADO Den Haag,2014,Dutch
+11,11,Wilson Eduardo,POR,F,1.76,72,08-07-90,Pedras Rubras,Sporting CP,ADO Den Haag,2014,Dutch
+17,17,Danny Bakker,NED,M,1.78,70,16-01-95,Voorburg,None,ADO Den Haag,2014,Dutch
+18,18,Tim Coremans,NED,G,1.86,75,10-04-91,Breda,SC Cambuur,ADO Den Haag,2014,Dutch
+19,19,Mitchell Schet,NED,F,1.86,75,28-01-88,Amsterdam,FC Groningen,ADO Den Haag,2014,Dutch
+21,21,Oleksandr Iakovenko,UKR,M,1.83,74,23-06-87,Kyiv,Fiorentina,ADO Den Haag,2014,Dutch
+22,22,Robert Zwinkels,NED,G,1.88,75,04-05-83,Wateringen,Ajax,ADO Den Haag,2014,Dutch
+23,23,Roland Alberg,NED,M,1.80,72,06-08-90,Hoorn,Elazığspor,ADO Den Haag,2014,Dutch
+24,24,Rody de Boer,NED,G,1.88,80,22-08-97,Den Haag,None,ADO Den Haag,2014,Dutch
+25,25,Mitchell de Vlugt,NED,M,1.80,70,11-03-94,Den Haag,None,ADO Den Haag,2014,Dutch
+26,26,Xander Houtkoop,NED,F,1.75,71,26-03-89,Almere,Go Ahead Eagles,ADO Den Haag,2014,Dutch
+27,27,Richelo Fecunda,NED,D,1.67,67,06-06-96,Willemstad,None,ADO Den Haag,2014,Dutch
+28,28,Tyronne Ebuehi,NED,D,1.87,72,16-12-95,Haarlem,None,ADO Den Haag,2014,Dutch
+29,29,Michiel Kramer,NED,F,1.95,80,03-12-88,Rotterdam,FC Volendam,ADO Den Haag,2014,Dutch
+30,30,Segun Owobowale,NED,F,1.82,72,17-08-97,Leiden,None,ADO Den Haag,2014,Dutch
+31,31,Hector Hevel,NED,M,1.72,64,15-05-96,Voorschoten,None,ADO Den Haag,2014,Dutch
+32,32,Guy Smith,NED,M,1.82,75,08-03-96,,None,ADO Den Haag,2014,Dutch
+33,33,Gervane Kastaneer,NED,F,1.76,80,09-06-96,Rotterdam,FC Dordrecht,ADO Den Haag,2014,Dutch
+34,34,Dylan Nieuwenhuijs,NED,M,1.83,75,27-01-95,Amsterdam,None,ADO Den Haag,2014,Dutch
+37,37,Papito Merencia,CUW,M,1.77,74,04-03-94,Willemstad,Spartaan'20,ADO Den Haag,2014,Dutch
+41,51,Gianni Zuiverloon,NED,D,1.78,70,30-12-86,Rotterdam,Mallorca,ADO Den Haag,2014,Dutch
+1,1,Jasper Cillessen,NED,G,1.87,82,22-04-89,Groesbeek,NEC Nijmegen,Ajax,2014,Dutch
+2,2,Ricardo van Rhijn,NED,D,1.76,79,13-06-91,Leiden,None,Ajax,2014,Dutch
+3,3,Joël Veltman,NED,D,1.84,75,15-01-92,IJmuiden,None,Ajax,2014,Dutch
+4,4,Niklas Moisander,FIN,D,1.82,74,29-09-85,Turku,AZ Alkmaar,Ajax,2014,Dutch
+5,5,Nicolai Boilesen,DEN,D,1.85,75,16-02-92,Ballerup,Brøndby,Ajax,2014,Dutch
+6,6,Mike van der Hoorn,NED,D,1.90,81,15-10-92,Almere,FC Utrecht,Ajax,2014,Dutch
+7,7,Viktor Fischer,DEN,F,1.79,71,09-06-94,Aarhus,FC Midtjylland,Ajax,2014,Dutch
+8,8,Daley Sinkgraven,NED,M,1.79,66,04-07-95,Assen,SC Heerenveen,Ajax,2014,Dutch
+9,9,Kolbeinn Sigþórsson,ISL,F,1.81,76,14-03-90,Reykjavík,AZ Alkmaar,Ajax,2014,Dutch
+10,10,Davy Klaassen,NED,M,1.85,76,21-02-93,Hilversum,None,Ajax,2014,Dutch
+11,11,Ricardo Kishna,NED,F,1.83,77,04-01-95,Den Haag,None,Ajax,2014,Dutch
+12,12,Jaïro Riedewald,NED,D,1.86,77,09-09-96,Amsterdam,None,Ajax,2014,Dutch
+16,16,Lucas Andersen,DEN,M,1.85,72,13-09-94,Aalborg,Aalborg,Ajax,2014,Dutch
+18,18,Robert Murić,CRO,F,1.82,75,12-03-96,Varadin,Dinamo Zagreb,Ajax,2014,Dutch
+19,19,Arkadiusz Milik,POL,F,1.83,73,28-02-94,Tychy,Bayer Leverkusen,Ajax,2014,Dutch
+20,20,Lasse Schøne,DEN,M,1.77,73,27-05-86,Glostrup,NEC Nijmegen,Ajax,2014,Dutch
+21,21,Anwar El Ghazi,NED,F,1.88,76,03-05-95,Barendrecht,Sparta Rotterdam,Ajax,2014,Dutch
+23,23,Kenny Tete,NED,D,1.75,70,09-10-95,Amsterdam,None,Ajax,2014,Dutch
+24,24,André Onana,CMR,G,1.90,82,02-04-96,Nkol Ngok,Barcelona,Ajax,2014,Dutch
+25,25,Thulani Serero,RSA,M,1.70,68,11-04-90,Soweto,Ajax Cape Town,Ajax,2014,Dutch
+26,26,Nick Viergever,NED,D,1.82,72,03-08-89,Capelle aan den IJssel,AZ Alkmaar,Ajax,2014,Dutch
+27,27,Riechedly Bazoer,NED,M,1.85,81,12-10-96,Utrecht,PSV Eindhoven,Ajax,2014,Dutch
+30,30,Richairo ivković,NED,F,1.87,73,05-09-96,Assen,FC Groningen,Ajax,2014,Dutch
+31,31,Peter Leeuwenburgh,NED,G,1.96,87,23-03-94,Heinenoord,None,Ajax,2014,Dutch
+32,32,Niki Zimling,DEN,M,1.75,73,19-04-85,Tårnby,Mainz,Ajax,2014,Dutch
+33,33,Diederik Boer,NED,G,1.94,84,24-09-80,Emmeloord,PEC Zwolle,Ajax,2014,Dutch
+34,34,Queensy Menig,NED,F,1.74,69,19-08-95,Amsterdam,None,Ajax,2014,Dutch
+35,35,Norbert Alblas,NED,G,1.85,80,12-12-94,Amstelveen,None,Ajax,2014,Dutch
+37,37,Donny van de Beek,NED,M,1.87,73,18-04-97,Nijkerkerveen,None,Ajax,2014,Dutch
+40,40,Fabian Sporkslede,NED,M,1.80,75,03-08-93,Amstelveen,None,Ajax,2014,Dutch
+1,1,Esteban Alvarado,CRC,G,1.93,83,28-04-89,Siquirres,Deportivo Saprissa,AZ Alkmaar,2014,Dutch
+2,2,Mattias Johansson,SWE,D,1.71,64,16-02-92,Jönköping,Kalmar FF,AZ Alkmaar,2014,Dutch
+3,3,Jeffrey Gouweleeuw,NED,D,1.87,73,10-07-91,Heemskerk,SC Heerenveen,AZ Alkmaar,2014,Dutch
+4,4,Jan Wuytens,BEL,D,1.89,77,09-06-85,Hasselt,FC Utrecht,AZ Alkmaar,2014,Dutch
+6,6,Celso Ortíz,PAR,M,1.75,70,26-01-89,Asunción,Cerro Porteño,AZ Alkmaar,2014,Dutch
+7,7,Guus Hupperts,NED,F,1.84,79,25-04-92,Heerlen,Roda JC,AZ Alkmaar,2014,Dutch
+8,8,Nemanja Gudelj,SRB,M,1.77,73,16-11-91,Belgrade,NAC Breda,AZ Alkmaar,2014,Dutch
+9,9,Aron Jóhannsson,USA,F,1.84,70,10-11-90,Mobile,Aarhus,AZ Alkmaar,2014,Dutch
+10,10,Markus Henriksen,NOR,M,1.87,85,25-07-92,Trondheim,Rosenborg,AZ Alkmaar,2014,Dutch
+11,11,Muamer Tanković,SWE,F,1.79,74,22-02-95,Tingstad,Fulham,AZ Alkmaar,2014,Dutch
+14,14,Wesley Hoedt,NED,D,1.92,82,06-03-94,Alkmaar,None,AZ Alkmaar,2014,Dutch
+15,15,Simon Poulsen,DEN,D,1.84,76,07-10-84,Sønderborg,Sampdoria,AZ Alkmaar,2014,Dutch
+16,16,Yves De Winter,BEL,G,1.88,75,25-05-87,Lier,De Graafschap,AZ Alkmaar,2014,Dutch
+17,17,Djavan Anderson,NED,D,1.74,76,21-04-95,Amsterdam,Ajax,AZ Alkmaar,2014,Dutch
+19,19,Dabney dos Santos,NED,M,1.72,69,31-07-96,Amsterdam,None,AZ Alkmaar,2014,Dutch
+20,20,Thom Haye,NED,M,1.77,74,09-02-95,Amsterdam,None,AZ Alkmaar,2014,Dutch
+21,21,Robert Mühren,NED,F,1.80,78,18-05-89,Volendam,FC Volendam,AZ Alkmaar,2014,Dutch
+22,22,Steven Berghuis,NED,F,1.80,75,19-12-91,Apeldoorn,FC Twente,AZ Alkmaar,2014,Dutch
+23,23,Derrick Luckassen,NED,D,1.86,78,03-07-95,Amsterdam,None,AZ Alkmaar,2014,Dutch
+24,24,Ridgeciano Haps,NED,D,1.75,66,12-06-93,Utrecht,None,AZ Alkmaar,2014,Dutch
+25,25,Sergio Rochet,URU,G,1.90,82,23-03-93,Nueva Palmira,Danubio,AZ Alkmaar,2014,Dutch
+32,32,Nick Olij,NED,G,1.85,74,01-08-95,Haarlem,None,AZ Alkmaar,2014,Dutch
+40,40,Stijn Spierings,NED,M,1.88,72,12-03-96,Alkmaar,None,AZ Alkmaar,2014,Dutch
+41,44,Joris Kramer,NED,D,1.90,76,02-08-96,Heiloo,None,AZ Alkmaar,2014,Dutch
+2,2,Wout Droste,NED,D,1.79,72,20-05-89,Oldenzaal,Go Ahead Eagles,SC Cambuur,2014,Dutch
+3,3,Etiënne Reijnen,NED,D,1.89,80,05-04-87,Zwolle,AZ Alkmaar,SC Cambuur,2014,Dutch
+4,4,Vytautas Andriukevičius,LTU,D,1.88,80,08-10-90,Alytus,Djurgårdens IF,SC Cambuur,2014,Dutch
+5,5,Marlon Pereira,NED,D,1.78,84,26-03-87,Rotterdam,Botev Plovdiv,SC Cambuur,2014,Dutch
+6,6,Erik Bakker,NED,M,1.77,77,21-03-90,Hoogeveen,FC Zwolle,SC Cambuur,2014,Dutch
+7,7,Furdjel Narsingh,NED,F,1.75,71,13-03-88,Amsterdam,PEC Zwolle,SC Cambuur,2014,Dutch
+8,8,Daniël de Ridder,NED,F,1.80,69,06-03-84,Amsterdam,RKC Waalwijk,SC Cambuur,2014,Dutch
+9,9,Martijn Barto,NED,F,1.86,80,23-08-84,Spijkenisse,Harkemase Boys,SC Cambuur,2014,Dutch
+11,11,Sinan Bytyqi,AUT,M,1.85,82,15-01-95,Prizren,Manchester C,SC Cambuur,2014,Dutch
+12,12,Michiel Hemmen,NED,F,1.93,85,28-06-87,Koog aan de Zaan,KVC Westerlo,SC Cambuur,2014,Dutch
+14,14,Mikhail Rosheuvel,NED,F,1.76,71,10-08-90,Amsterdam,AZ Alkmaar,SC Cambuur,2014,Dutch
+15,15,Mart Dijkstra,NED,D,1.83,83,09-08-90,Delfzijl,Harkemase Boys,SC Cambuur,2014,Dutch
+17,17,Lucas Bijker,NED,D,1.74,74,04-03-93,São Paulo,RJO FC Groningen/Cambuur,SC Cambuur,2014,Dutch
+18,18,Bartholomew Ogbeche,NGA,F,1.77,78,01-10-84,Ogija,Xerez,SC Cambuur,2014,Dutch
+19,19,Damiano Schet,NED,F,1.78,65,08-04-90,Amsterdam,AEK Larnaca,SC Cambuur,2014,Dutch
+20,20,Sander van der Streek,NED,M,1.80,74,24-03-93,Barneveld,Vitesse,SC Cambuur,2014,Dutch
+21,21,Mohammed El Makrini,NED,M,1.70,74,06-07-87,Wijk Bij Duurstede,FC Den Bosch,SC Cambuur,2014,Dutch
+22,22,Leonard Nienhuis,NED,G,1.84,90,16-03-90,Groningen,FC Groningen,SC Cambuur,2014,Dutch
+23,23,Ron Janzen,NED,D,1.90,81,05-01-94,Beilen,FC Groningen,SC Cambuur,2014,Dutch
+24,24,Sebastian Steblecki,POL,M,1.86,70,16-01-92,Kraków,Cracovia Kraków,SC Cambuur,2014,Dutch
+25,25,Berend Schootstra,NED,M,1.79,69,11-03-95,Leeuwarden,SC Heerenveen,SC Cambuur,2014,Dutch
+26,26,Harm Zeinstra,NED,G,1.90,82,21-07-89,Leeuwarden,FC Emmen,SC Cambuur,2014,Dutch
+27,27,Bob Schepers,NED,F,1.83,75,30-03-92,Enschede,FC Utrecht,SC Cambuur,2014,Dutch
+28,28,Jurjan Wouda,NED,G,1.83,74,02-04-91,Westerbork,RKC Waalwijk,SC Cambuur,2014,Dutch
+30,30,Calvin MacIntosh,NED,D,1.81,78,09-08-89,Amsterdam,Telstar,SC Cambuur,2014,Dutch
+31,31,Donovan Slijngard,NED,D,1.74,67,28-08-87,Amsterdam,Sparta Rotterdam,SC Cambuur,2014,Dutch
+1,1,Filip Kurto,POL,G,1.91,82,14-06-91,Olsztyn,Roda JC,FC Dordrecht,2014,Dutch
+2,2,Jeffrey Fortes,CPV,D,1.82,75,22-03-89,Rotterdam,FC Den Bosch,FC Dordrecht,2014,Dutch
+3,3,Ilias Haddad,NED,D,1.87,81,01-03-89,Dordrecht,CSKA Sofia,FC Dordrecht,2014,Dutch
+4,4,William Ekong,NED,D,1.91,74,01-09-93,Haarlem,FC Groningen,FC Dordrecht,2014,Dutch
+5,5,Marvin Peersman,NED,D,1.84,78,10-02-91,Wilrijk,Royal Antwerp,FC Dordrecht,2014,Dutch
+6,6,Funso Ojo,BEL,M,1.77,71,28-08-91,Antwerp,Royal Antwerp,FC Dordrecht,2014,Dutch
+7,7,Fernando Lewis,NED,F,1.80,75,31-01-93,Den Haag,AZ Alkmaar,FC Dordrecht,2014,Dutch
+8,8,Robin Gosens,GER,M,1.81,68,05-07-94,Emmerich,Vitesse,FC Dordrecht,2014,Dutch
+9,9,Mart Lieder,NED,F,1.80,75,01-05-90,Purmerend,RKC Waalwijk,FC Dordrecht,2014,Dutch
+10,10,Adnan Alisic,NED,M,1.80,73,10-02-84,Rotterdam,Debrecen,FC Dordrecht,2014,Dutch
+11,11,Giovanni Korte,NED,F,1.70,68,01-08-93,Den Haag,ADO Den Haag,FC Dordrecht,2014,Dutch
+12,12,Rick ten Voorde,NED,F,1.87,83,20-06-91,Emmen,SC Paderborn,FC Dordrecht,2014,Dutch
+13,13,Robbert Te Loeke,NED,G,1.93,87,01-12-88,Arnhem,SC Veendam,FC Dordrecht,2014,Dutch
+14,14,Joris van Overeem,NED,M,1.81,71,01-06-94,Amsterdam,AZ Alkmaar,FC Dordrecht,2014,Dutch
+15,15,Noël Goossens,NED,M,1.76,75,17-06-94,Dordrecht,None,FC Dordrecht,2014,Dutch
+16,16,Quincy Boogers,NED,M,1.82,78,28-12-95,,None,FC Dordrecht,2014,Dutch
+17,17,Sean Klaiber,NED,M,1.84,75,31-07-94,Nieuwegein,FC Utrecht,FC Dordrecht,2014,Dutch
+18,18,Andwelé Slory,NED,F,1.70,59,27-09-82,Paramaribo,Adelaide U,FC Dordrecht,2014,Dutch
+19,19,Sai van Wermeskerken,JPN,F,,,28-06-94,Maastricht,Ventforet Kofu,FC Dordrecht,2014,Dutch
+20,20,Everon Pisas,NED,F,1.83,80,13-10-94,Willemstad,None,FC Dordrecht,2014,Dutch
+21,21,Rick van Haaren,NED,M,1.78,77,21-06-91,Rotterdam,ADO Den Haag,FC Dordrecht,2014,Dutch
+22,22,Matthew Steenvoorden,NED,M,1.89,81,09-01-93,Leidschendam,Feyenoord,FC Dordrecht,2014,Dutch
+23,23,Josimar Lima,CPV,D,1.89,80,02-08-89,São Vicente,Al-Shaab,FC Dordrecht,2014,Dutch
+24,24,Ibrahima Touré,NED,M,1.86,77,01-01-95,,None,FC Dordrecht,2014,Dutch
+25,25,Anthony Biekman,NED,F,1.81,74,16-05-94,Zoetermeer,RKC Waalwijk,FC Dordrecht,2014,Dutch
+26,26,Virgil Deen,NED,G,1.86,76,10-06-96,,HFC EDO,FC Dordrecht,2014,Dutch
+31,31,Brian Meulmeester,NED,G,1.87,78,21-01-95,,None,FC Dordrecht,2014,Dutch
+1,1,Jordy Deckers,NED,G,1.90,84,20-06-89,Amsterdam,Ajax,Excelsior,2014,Dutch
+2,2,Khalid Karami,NED,D,1.75,73,29-12-89,Amsterdam,Go Ahead Eagles,Excelsior,2014,Dutch
+3,3,Kevin van Diermen,NED,D,1.86,81,03-07-89,Spakenburg,Vitesse,Excelsior,2014,Dutch
+4,4,Rick Kruys,NED,M,1.77,71,09-05-85,Utrecht,Malmö FF,Excelsior,2014,Dutch
+5,5,Bas Kuipers,NED,D,1.80,72,17-08-94,Amsterdam,Ajax,Excelsior,2014,Dutch
+6,6,Sander Fischer,NED,D,1.87,72,03-09-88,Rhoon,AGOVV Apeldoorn,Excelsior,2014,Dutch
+7,7,Jordan Botaka,COD,F,1.84,76,24-06-93,Kinshasa,Club Brugge,Excelsior,2014,Dutch
+8,8,Adil Auassar,NED,M,1.87,85,06-10-86,Dordrecht,De Graafschap,Excelsior,2014,Dutch
+9,9,Tom van Weert,NED,F,1.80,73,07-06-90,Sint Michielsgestel,FC Den Bosch,Excelsior,2014,Dutch
+10,10,Jeff Stans,NED,M,1.82,72,20-03-90,Vlaardingen,RKC Waalwijk,Excelsior,2014,Dutch
+11,11,Daryl van Mieghem,NED,F,1.70,70,05-12-89,Amsterdam,Telstar,Excelsior,2014,Dutch
+12,12,Jurgen Mattheij,NED,D,1.91,84,01-04-93,Rotterdam,Feyenoord,Excelsior,2014,Dutch
+14,14,Cedric Badjeck,CMR,F,1.78,75,25-01-95,,FC Utrecht,Excelsior,2014,Dutch
+15,15,Richard Stolte,NED,M,1.82,75,08-01-90,Emmeloord,SC Heerenveen,Excelsior,2014,Dutch
+16,16,Alessandro Damen,NED,G,1.85,75,17-05-90,Nieuwegein,De Meern,Excelsior,2014,Dutch
+17,17,Ninos Gouriye,NED,F,1.75,80,14-01-91,Hengelo,ADO Den Haag,Excelsior,2014,Dutch
+18,18,Kevin Vermeulen,NED,M,1.87,70,20-11-90,Zwijndrecht,XerxesDZB,Excelsior,2014,Dutch
+19,19,Daan Blij,NED,F,1.80,74,25-09-93,Rotterdam,Feyenoord,Excelsior,2014,Dutch
+20,20,Elso Brito,NED,D,1.78,70,02-04-94,Rotterdam,None,Excelsior,2014,Dutch
+21,21,Carlo de Reuver,NED,F,1.86,72,29-01-95,Rotterdam,None,Excelsior,2014,Dutch
+22,22,Toni Varela,CPV,M,1.80,69,13-06-86,Santa Catarina,Levadiakos,Excelsior,2014,Dutch
+23,23,Luigi Bruins,NED,M,1.80,75,09-03-87,Rotterdam,Nice,Excelsior,2014,Dutch
+24,24,Daan Bovenberg,NED,D,1.83,74,25-10-88,Utrecht,NEC Nijmegen,Excelsior,2014,Dutch
+25,25,Marko Maletić,BIH,F,1.93,88,25-10-93,Belgrade,Stuttgart II,Excelsior,2014,Dutch
+26,26,Gino Coutinho,NED,G,1.80,78,05-08-82,Den Bosch,ADO Den Haag,Excelsior,2014,Dutch
+27,27,Justin Bijlow,NED,G,1.79,73,22-01-98,,None,Excelsior,2014,Dutch
+33,33,Kenzo Abel,NED,G,1.87,78,06-03-96,,None,Excelsior,2014,Dutch
+1,1,Erwin Mulder,NED,G,1.93,88,03-03-89,Zevenaar,Vitesse,Feyenoord,2014,Dutch
+2,2,Luke Wilkshire,AUS,D,1.76,75,02-10-81,Wollongong,Dynamo Moscow,Feyenoord,2014,Dutch
+4,4,Joris Mathijsen,NED,D,1.83,82,05-04-80,Goirle,Málaga,Feyenoord,2014,Dutch
+5,5,Terence Kongolo,NED,D,1.83,70,14-02-94,Rotterdam,None,Feyenoord,2014,Dutch
+6,6,Jordy Clasie,NED,M,1.69,68,27-06-91,Haarlem,None,Feyenoord,2014,Dutch
+7,7,Jean-Paul Boëtius,NED,F,1.82,74,22-03-94,Rotterdam,None,Feyenoord,2014,Dutch
+8,8,Karim El Ahmadi,MAR,M,1.85,78,27-01-85,Enschede,Aston Villa,Feyenoord,2014,Dutch
+10,10,Lex Immers,NED,M,1.87,78,08-06-86,Den Haag,ADO Den Haag,Feyenoord,2014,Dutch
+13,13,Ronald Graafland,NED,G,1.90,71,30-04-79,Rotterdam,VV Capelle,Feyenoord,2014,Dutch
+14,14,Bilal Başacıkoğlu,NED,F,1.79,64,26-03-95,Zaanstad,SC Heerenveen,Feyenoord,2014,Dutch
+15,15,Colin Kazim-Richards,TUR,F,1.85,68,26-08-86,Leyton,Bursaspor,Feyenoord,2014,Dutch
+16,16,Kenneth Vermeer,NED,G,1.82,78,10-01-86,Amsterdam,Ajax,Feyenoord,2014,Dutch
+17,17,Elvis Manu,NED,M,1.73,64,13-08-93,Rotterdam,None,Feyenoord,2014,Dutch
+18,18,Miquel Nelom,NED,D,1.74,69,22-09-90,Rotterdam,Spijkernisse,Feyenoord,2014,Dutch
+19,19,Mitchell te Vrede,NED,F,1.91,84,07-08-91,Amstelveen,Excelsior,Feyenoord,2014,Dutch
+20,20,Jari Schuurman,NED,M,1.78,65,22-02-97,Gorcum,None,Feyenoord,2014,Dutch
+21,21,Tonny Vilhena,NED,M,1.75,70,03-01-95,Maassluis,None,Feyenoord,2014,Dutch
+22,22,Sven van Beek,NED,D,1.88,76,28-07-94,Gouda,None,Feyenoord,2014,Dutch
+23,23,Khalid Boulahrouz,NED,D,1.83,74,28-12-81,Maassluis,Brøndby,Feyenoord,2014,Dutch
+24,24,Bart Nieuwkoop,NED,M,1.80,72,07-03-96,Tholen,None,Feyenoord,2014,Dutch
+25,25,Lucas Woudenberg,NED,D,1.79,74,25-04-94,Woerden,None,Feyenoord,2014,Dutch
+26,26,Rick Karsdorp,NED,D,1.82,80,11-02-95,Schoonhoven,None,Feyenoord,2014,Dutch
+28,28,Jens Toornstra,NED,M,1.78,74,01-01-89,Ter Aar,FC Utrecht,Feyenoord,2014,Dutch
+29,29,Anass Achahbar,NED,F,1.71,64,13-01-94,Den Haag,None,Feyenoord,2014,Dutch
+31,31,Wessel Dammers,NED,F,1.85,68,01-03-95,Ouderkerk aan den IJssel,None,Feyenoord,2014,Dutch
+32,32,Rodny Lopes Cabral,NED,D,1.75,64,28-01-95,Rotterdam,None,Feyenoord,2014,Dutch
+33,33,Stef Gronsveld,NED,D,1.71,60,11-01-96,Delft,None,Feyenoord,2014,Dutch
+34,34,Calvin Verdonk,NED,D,1.74,70,26-04-97,Dordrecht,None,Feyenoord,2014,Dutch
+1,1,Mickey van der Hart,NED,G,1.88,87,13-06-94,Amstelveen,Ajax,Go Ahead Eagles,2014,Dutch
+3,3,Bart Vriends,NED,D,1.88,81,09-05-91,Amersfoort,FC Utrecht,Go Ahead Eagles,2014,Dutch
+4,4,Jop van der Linden,NED,D,1.88,74,17-07-90,Apeldoorn,Helmond Sport,Go Ahead Eagles,2014,Dutch
+5,5,Xandro Schenk,NED,D,1.88,79,28-04-93,Almere,Ajax,Go Ahead Eagles,2014,Dutch
+6,6,Sjoerd Overgoor,NED,M,1.80,73,06-09-88,Borculo,De Graafschap,Go Ahead Eagles,2014,Dutch
+7,7,Alex Schalk,NED,F,1.74,72,07-08-92,Breda,NAC Breda,Go Ahead Eagles,2014,Dutch
+8,8,Deniz Türüç,TUR,M,1.77,79,29-01-93,Enschede,De Graafschap,Go Ahead Eagles,2014,Dutch
+9,9,Marnix Kolder,NED,F,1.90,85,31-01-81,Winschoten,BV Veendam,Go Ahead Eagles,2014,Dutch
+10,10,Jeffrey Rijsdijk,NED,M,1.76,74,12-09-87,Rotterdam,FC Dordrecht,Go Ahead Eagles,2014,Dutch
+11,11,Lesley de Sa,NED,F,1.70,69,02-04-93,Mijdrecht,Ajax,Go Ahead Eagles,2014,Dutch
+13,13,Maurits Schmitz,NED,G,1.85,80,31-03-93,Nieuwegein,Ajax,Go Ahead Eagles,2014,Dutch
+14,14,Mawouna Amevor,TOG,D,1.91,75,16-12-91,Rotterdam,FC Dordrecht,Go Ahead Eagles,2014,Dutch
+15,15,Sander Duits,NED,M,1.83,78,29-08-83,Putten,RKC Waalwijk,Go Ahead Eagles,2014,Dutch
+16,16,Erik Cummins,NED,G,1.83,84,10-08-88,Rotterdam,FC Utrecht,Go Ahead Eagles,2014,Dutch
+17,17,Sven Nieuwpoort,NED,D,1.84,77,13-04-93,Den Helder,Ajax,Go Ahead Eagles,2014,Dutch
+18,18,Lars Lambooij,NED,M,1.77,75,16-04-88,Tilburg,SC Veendam,Go Ahead Eagles,2014,Dutch
+20,20,Peter van Ooijen,NED,M,1.79,67,16-02-92,Rosmalen,PSV Eindhoven,Go Ahead Eagles,2014,Dutch
+21,21,Nick de Bondt,NED,F,1.79,78,21-04-94,Ede,Ajax,Go Ahead Eagles,2014,Dutch
+22,22,Jules Reimerink,NED,F,1.85,77,30-09-89,Oldenzaal,VVV Venlo,Go Ahead Eagles,2014,Dutch
+23,23,Robin van der Meer,NED,D,1.98,80,21-02-95,Voorburg,ADO Den Haag,Go Ahead Eagles,2014,Dutch
+25,25,Giliano Wijnaldum,NED,D,1.81,75,31-08-92,Rotterdam,FC Groningen,Go Ahead Eagles,2014,Dutch
+27,27,Puck Postma,NED,F,1.78,76,18-02-97,Haarlem,FC Volendam,Go Ahead Eagles,2014,Dutch
+28,28,Wesley Verhoek,NED,F,1.88,80,25-09-86,Leidschendam,Feyenoord,Go Ahead Eagles,2014,Dutch
+29,29,Glynor Plet,NED,F,1.94,83,30-01-87,Amsterdam,Zulte-Waregem,Go Ahead Eagles,2014,Dutch
+40,40,Jordy Rondeel,NED,G,1.84,76,04-08-94,,None,Go Ahead Eagles,2014,Dutch
+1,1,Sergio Padt,NED,G,1.97,82,06-06-90,Amsterdam,KAA Gent,FC Groningen,2014,Dutch
+2,2,Johan Kappelhof,NED,D,1.80,70,05-08-90,Amsterdam,Ajax,FC Groningen,2014,Dutch
+3,3,Eric Fernando Botteghin,BRA,D,1.93,86,31-08-87,São Paulo,NAC Breda,FC Groningen,2014,Dutch
+4,4,Martijn van der Laan,NED,D,1.75,74,29-07-88,Groningen,SC Cambuur,FC Groningen,2014,Dutch
+5,5,Lorenzo Burnet,NED,D,1.82,80,11-01-91,Amsterdam,Ajax,FC Groningen,2014,Dutch
+6,6,Maikel Kieftenbeld,NED,M,1.79,75,26-06-90,Dalfsen,Go Ahead Eagles,FC Groningen,2014,Dutch
+7,7,Jarchinio Antonia,NED,F,1.69,65,27-12-90,Amsterdam,Go Ahead Eagles,FC Groningen,2014,Dutch
+8,8,Michael de Leeuw,NED,M,1.78,67,07-10-86,Goirle,De Graafschap,FC Groningen,2014,Dutch
+9,9,Danny Hoesen,NED,F,1.86,75,15-01-91,Kerkrade,Ajax,FC Groningen,2014,Dutch
+10,10,Tjaronn Chery,NED,M,1.70,68,04-06-88,Den Haag,ADO Den Haag,FC Groningen,2014,Dutch
+11,11,Albert Rusnák,SVK,M,1.75,61,07-07-94,Koice,Manchester C,FC Groningen,2014,Dutch
+14,14,Mimoun Mahi,NED,F,1.74,69,13-03-94,Den Haag,Sparta Rotterdam,FC Groningen,2014,Dutch
+15,15,Nick Bakker,NED,D,1.89,76,21-07-92,Groningen,None,FC Groningen,2014,Dutch
+16,16,Hilal Ben Moussa,NED,M,1.76,72,22-05-92,Utrecht,Elinkwijk,FC Groningen,2014,Dutch
+19,19,Dino Islamović,SWE,F,1.89,87,17-01-94,Hudiksvall,Fulham,FC Groningen,2014,Dutch
+20,20,Yoëll van Nieff,NED,M,1.80,78,17-06-93,Groningen,None,FC Groningen,2014,Dutch
+21,21,Rasmus Lindgren,SWE,M,1.80,69,29-11-84,Landskrona,Red Bull Salzburg,FC Groningen,2014,Dutch
+22,22,Simon Tibbling,SWE,M,1.71,67,07-09-94,Stockholm,Djurgårdens IF,FC Groningen,2014,Dutch
+23,23,Nick van der Velden,NED,M,1.87,78,16-12-84,Amsterdam,NEC Nijmegen,FC Groningen,2014,Dutch
+24,24,Tom Hiariej,NED,M,1.71,72,25-07-88,Winschoten,GRC,FC Groningen,2014,Dutch
+25,25,Stephan van der Lei,NED,G,1.90,80,05-03-93,Groningen,None,FC Groningen,2014,Dutch
+26,26,Peter van der Vlag,NED,G,1.85,76,05-12-77,Leeuwarden,FC Emmen,FC Groningen,2014,Dutch
+27,27,Hristijan Denkovski,MKD,M,1.76,72,15-04-94,,Triglav,FC Groningen,2014,Dutch
+32,32,Burak Saban,NED,M,1.77,82,20-04-94,Hoorn,None,FC Groningen,2014,Dutch
+33,33,Hans Hateboer,NED,D,1.85,72,09-01-94,Beerta,None,FC Groningen,2014,Dutch
+34,34,Roland Baas,NED,D,1.74,69,02-03-96,,None,FC Groningen,2014,Dutch
+35,35,Glenn Bijl,NED,M,1.84,76,13-07-95,Stadskanaal,None,FC Groningen,2014,Dutch
+37,37,Desevio Payne,USA,D,1.75,70,30-11-95,Greenwood,None,FC Groningen,2014,Dutch
+38,38,Juninho Bacuna,NED,F,1.85,78,07-08-97,Groningen,None,FC Groningen,2014,Dutch
+39,39,Jafar Arias,NED,F,1.87,80,16-06-95,Apeldoorn,None,FC Groningen,2014,Dutch
+1,1,Kristoffer Nordfeldt,SWE,G,1.90,85,23-06-89,Stockholm,IF Brommapojkarna,SC Heerenveen,2014,Dutch
+2,2,Kenny Otigba,HUN,D,1.90,84,29-08-92,Kaduna,None,SC Heerenveen,2014,Dutch
+4,4,Robert van Koesveld,NED,D,1.84,78,24-01-95,Den Haag,Ajax,SC Heerenveen,2014,Dutch
+5,5,Pele van Anholt,NED,D,1.70,71,23-04-91,Bolsward,None,SC Heerenveen,2014,Dutch
+6,6,Stefano Marzo,BEL,D,1.74,63,22-03-91,Lommel,Beerschot AC,SC Heerenveen,2014,Dutch
+7,7,Simon Thern,SWE,M,1.78,73,18-09-92,Naples,Malmö FF,SC Heerenveen,2014,Dutch
+8,8,Morten Thorsby,NOR,M,1.86,72,05-05-96,Oslo,Stabæk,SC Heerenveen,2014,Dutch
+10,10,Lerin Duarte,NED,M,1.68,65,11-08-90,Rotterdam,Ajax,SC Heerenveen,2014,Dutch
+11,11,Sam Larsson,SWE,F,1.79,75,10-04-93,Gothenburg,IFK Göteborg,SC Heerenveen,2014,Dutch
+12,12,Doke Schmidt,NED,D,1.77,73,07-04-92,Heerenveen,None,SC Heerenveen,2014,Dutch
+14,14,Joost van Aken,NED,D,1.78,75,13-05-94,Haarlem,Haarlem,SC Heerenveen,2014,Dutch
+15,15,Marten de Roon,NED,M,1.85,76,29-03-91,Zwijndrecht,Sparta Rotterdam,SC Heerenveen,2014,Dutch
+17,17,Luciano Slagveer,NED,F,1.78,73,05-10-93,Emmen,FC Emmen,SC Heerenveen,2014,Dutch
+19,19,Mark Uth,GER,F,1.85,68,24-08-91,Cologne,Köln,SC Heerenveen,2014,Dutch
+20,20,Henk Veerman,NED,F,1.99,90,30-06-93,Volendam,FC Volendam,SC Heerenveen,2014,Dutch
+21,21,Joey van den Berg,NED,M,1.82,84,13-02-86,Nijeveen,PEC Zwolle,SC Heerenveen,2014,Dutch
+22,22,Stephen Warmolts,NED,D,1.75,70,10-04-94,Emmen,None,SC Heerenveen,2014,Dutch
+23,23,Jordy Buijs,NED,D,1.82,80,28-12-88,Ridderkerk,NAC Breda,SC Heerenveen,2014,Dutch
+24,24,Szabolcs Varga,HUN,F,1.85,79,17-03-95,Budapest,MTK,SC Heerenveen,2014,Dutch
+25,25,Willem Huizing,NED,D,1.80,74,01-02-95,Drachten,None,SC Heerenveen,2014,Dutch
+26,26,Janio Bikel,GNB,M,1.74,65,28-06-95,Bissau,None,SC Heerenveen,2014,Dutch
+27,27,Michael Chacon,COL,M,1.75,72,11-04-94,Palmira,None,SC Heerenveen,2014,Dutch
+29,29,Younes Namli,DEN,M,1.80,69,20-06-94,Copenhagen,AB København,SC Heerenveen,2014,Dutch
+30,30,Robin Kist,NED,G,1.81,76,10-03-95,Heerenveen,None,SC Heerenveen,2014,Dutch
+31,31,Viktor Noring,SWE,G,1.94,90,03-02-91,Malmö,Bodø/Glimt,SC Heerenveen,2014,Dutch
+32,32,Joris Voest,NED,D,1.76,71,08-01-95,Terschelling,None,SC Heerenveen,2014,Dutch
+33,33,Maarten de Fockert,NED,G,1.89,88,20-03-95,Maasland,None,SC Heerenveen,2014,Dutch
+36,36,Tarik Kada,NED,F,1.70,73,26-05-96,Nador,None,SC Heerenveen,2014,Dutch
+39,39,Jerry St. Juste,NED,D,1.85,71,19-10-96,Groningen,None,SC Heerenveen,2014,Dutch
+40,40,Pelle van Amersfoort,NED,F,1.93,77,01-04-96,Heemskerk,None,SC Heerenveen,2014,Dutch
+1,1,Dennis Telgenkamp,NED,G,1.87,75,09-05-87,Hengelo,None,Heracles Almelo,2014,Dutch
+2,2,Milano Koenders,NED,D,1.83,81,31-07-86,Amsterdam,AZ Alkmaar,Heracles Almelo,2014,Dutch
+3,3,Bart Schenkeveld,NED,D,1.84,80,28-08-91,Den Hoorn,Feyenoord,Heracles Almelo,2014,Dutch
+4,4,Jeroen Veldmate,NED,D,1.87,77,08-01-88,Groningen,Sparta Rotterdam,Heracles Almelo,2014,Dutch
+5,5,Fahd Aktaou,MAR,D,1.82,71,13-01-93,Amsterdam,SC Heerenveen,Heracles Almelo,2014,Dutch
+6,6,Bas Sibum,NED,M,1.80,79,26-12-82,Nieuw-Amsterdam,Waasland-Beveren,Heracles Almelo,2014,Dutch
+7,7,Brahim Darri,NED,F,1.77,70,14-09-94,Amersfoort,Vitesse,Heracles Almelo,2014,Dutch
+8,8,Iliass Bel Hassani,NED,M,1.73,72,16-09-92,Rotterdam,Sparta Rotterdam,Heracles Almelo,2014,Dutch
+9,9,Denni Avdić,SWE,F,1.90,80,05-09-88,Huskvarna,AZ Alkmaar,Heracles Almelo,2014,Dutch
+10,10,Thomas Bruns,NED,M,1.77,67,07-01-92,Wierden,FC Twente,Heracles Almelo,2014,Dutch
+11,11,Bryan Linssen,NED,F,1.70,64,08-10-90,Neeritter,VVV Venlo,Heracles Almelo,2014,Dutch
+14,14,Joey Pelupessy,NED,M,1.72,63,15-05-93,Nijverdal,FC Twente,Heracles Almelo,2014,Dutch
+15,15,Jaroslav Navrátil,CZE,F,1.85,77,30-12-91,Hustopeče,Viktoria ikov,Heracles Almelo,2014,Dutch
+16,16,Bram Castro,BEL,G,1.90,80,30-09-82,Hasselt,MVV Maastricht,Heracles Almelo,2014,Dutch
+17,17,Dario Vujičević,CRO,M,1.80,72,01-04-90,Sarajevo,FC Twente,Heracles Almelo,2014,Dutch
+18,18,Ramon Zomer,NED,D,1.84,75,13-04-83,Almelo,SC Heerenveen,Heracles Almelo,2014,Dutch
+19,19,Wout Weghorst,NED,F,1.97,82,07-08-92,Borne,FC Emmen,Heracles Almelo,2014,Dutch
+20,20,Tim Breukers,NED,M,1.78,76,04-11-87,Oldenzaal,FC Twente,Heracles Almelo,2014,Dutch
+21,21,Simon Cziommer,GER,M,1.78,69,06-11-80,Nordhorn,Vitesse,Heracles Almelo,2014,Dutch
+22,22,Oussama Tannane,NED,F,1.78,80,23-03-94,Tétouan,SC Heerenveen,Heracles Almelo,2014,Dutch
+23,23,Mark-Jan Fledderus,NED,M,1.78,71,14-12-82,Coevorden,Roda JC,Heracles Almelo,2014,Dutch
+24,24,Menno Heerkes,NED,M,1.80,67,22-07-93,Hardenberg,SC Heerenveen,Heracles Almelo,2014,Dutch
+25,25,Renze Fij,NED,G,1.87,81,26-09-92,Enschede,FC Groningen,Heracles Almelo,2014,Dutch
+26,26,Michael Brouwer,NED,G,1.87,83,21-01-93,Apeldoorn,AGOVV Apeldoorn,Heracles Almelo,2014,Dutch
+27,27,Joonas Vanhanen,FIN,D,1.85,82,09-09-97,Lahti,FC Kuusysi Lahti,Heracles Almelo,2014,Dutch
+28,28,Travis Brent,USA,D,1.76,70,17-02-92,Landstown,Marshall Univ,Heracles Almelo,2014,Dutch
+29,29,Coen Gortemaker,NED,D,1.85,76,29-01-94,Enschede,FC Twente,Heracles Almelo,2014,Dutch
+30,30,Mark Engberink,NED,D,1.76,69,12-08-92,Enschede,FC Twente,Heracles Almelo,2014,Dutch
+31,31,Daan Rienstra,NED,M,1.75,65,06-10-92,Alkmaar,ADO '20,Heracles Almelo,2014,Dutch
+32,32,Mike te Wierik,NED,D,1.91,73,08-06-92,Hengevelde,None,Heracles Almelo,2014,Dutch
+35,35,Rick Hemmink,NED,M,1.84,78,14-02-93,Vriezenveen,FC Twente,Heracles Almelo,2014,Dutch
+1,1,Jelle ten Rouwelaar,NED,G,1.86,85,24-12-80,Joure,Austria Vienna,NAC Breda,2014,Dutch
+2,2,Sepp De Roover,BEL,D,1.80,75,12-10-84,Geel,Lokeren,NAC Breda,2014,Dutch
+3,3,Henrico Drost,NED,D,1.83,80,21-01-87,Kampen,RKC Waalwijk,NAC Breda,2014,Dutch
+4,4,Aleksandar Damcevksi,MKD,D,1.93,85,21-11-92,Strasbourg,Chernomorets Burgas,NAC Breda,2014,Dutch
+5,5,Rémi Amieux,FRA,D,1.70,70,05-09-86,Vienne,RKC Waalwijk,NAC Breda,2014,Dutch
+6,6,Joeri de Kamps,NED,M,1.83,74,10-02-92,Amsterdam,Ajax,NAC Breda,2014,Dutch
+7,7,Hakim Borahsasar,BEL,F,1.81,73,14-01-95,Edegem,Club Brugge,NAC Breda,2014,Dutch
+8,8,Jeffrey Sarpong,NED,M,1.76,65,03-08-88,Amsterdam,Real Sociedad,NAC Breda,2014,Dutch
+9,9,Guyon Fernández,NED,F,1.84,76,18-04-86,Den Haag,Feyenoord,NAC Breda,2014,Dutch
+10,10,Uro Matić,SRB,M,1.84,73,23-05-90,abac,Benfica,NAC Breda,2014,Dutch
+11,11,Adnane Tighadouini,NED,F,1.79,76,30-10-92,Ede,Vitesse,NAC Breda,2014,Dutch
+12,12,Andries Noppert,NED,G,1.96,87,07-04-94,Heerenveen,SC Heerenveen,NAC Breda,2014,Dutch
+14,14,Joey Suk,NED,M,1.85,82,08-07-89,Deventer,Beerschot AC,NAC Breda,2014,Dutch
+15,15,Jesse van Bezooijen,NED,D,1.83,78,28-04-94,Bavel,None,NAC Breda,2014,Dutch
+16,16,Demy de Zeeuw,NED,M,1.74,71,26-05-83,Apeldoorn,Spartak Moscow,NAC Breda,2014,Dutch
+17,17,Erik Falkenburg,NED,M,1.87,84,05-05-88,Leiden,AZ Alkmaar,NAC Breda,2014,Dutch
+18,18,Milo Zukanović,SRB,F,1.89,80,08-02-96,Split,Crvena Zvezda,NAC Breda,2014,Dutch
+19,19,Felitciano Zschusschen,NED,F,1.80,70,24-01-92,Breda,FC Twente,NAC Breda,2014,Dutch
+20,20,Mats Seuntjens,NED,F,1.84,81,17-04-92,Breda,None,NAC Breda,2014,Dutch
+21,21,Gábor Babos,HUN,G,1.96,92,24-10-74,Sopron,NEC Nijmegen,NAC Breda,2014,Dutch
+22,22,Gill Swerts,BEL,D,1.79,75,23-09-82,Brasschaat,SønderjyskE,NAC Breda,2014,Dutch
+23,23,Divine Naah,GHA,M,1.80,68,20-04-96,Obuasi,Manchester C,NAC Breda,2014,Dutch
+24,24,Dirk Marcellis,NED,D,1.78,74,13-04-88,Horst,AZ Alkmaar,NAC Breda,2014,Dutch
+25,25,Menno Koch,NED,D,1.95,78,02-07-94,Heeze,PSV Eindhoven,NAC Breda,2014,Dutch
+27,27,Brandon Robinson,NED,F,1.80,75,25-02-95,Rotterdam,Feyenoord,NAC Breda,2014,Dutch
+28,28,Kenny van der Weg,NED,D,1.87,79,19-02-91,Rotterdam,Spartaan'20,NAC Breda,2014,Dutch
+29,29,Ruben Ligeon,NED,D,1.68,65,24-05-92,Amsterdam,Ajax,NAC Breda,2014,Dutch
+1,1,Warner Hahn,NED,G,1.98,96,15-06-92,Rotterdam,Feyenoord,PEC Zwolle,2014,Dutch
+2,2,Bram van Polen,NED,D,1.79,73,11-10-85,Nijkerk,Vitesse,PEC Zwolle,2014,Dutch
+3,3,Trent Sainsbury,AUS,D,1.78,61,05-01-92,Perth [AUS],Central Coast Mariners,PEC Zwolle,2014,Dutch
+4,4,Maikel van der Werff,NED,D,1.85,81,22-04-89,Hoorn,FC Volendam,PEC Zwolle,2014,Dutch
+5,5,Bart van Hintum,NED,D,1.77,75,16-01-87,Oss,FC Dordrecht,PEC Zwolle,2014,Dutch
+6,6,Mustafa Saymak,NED,M,1.69,63,11-02-93,Deventer,SV Schalkhaar,PEC Zwolle,2014,Dutch
+7,7,Jody Lukoki,NED,M,1.73,61,15-11-92,Kinshasa,Ajax,PEC Zwolle,2014,Dutch
+8,8,Thanassis Karagounis,GRE,F,1.79,69,25-09-91,Ptolemaida,Atromitos,PEC Zwolle,2014,Dutch
+9,9,Eli Babalj,AUS,F,1.89,72,21-02-92,Sarajevo,AZ Alkmaar,PEC Zwolle,2014,Dutch
+10,10,Stefan Nijland,NED,M,1.87,77,10-08-88,Hoogezand- Sappermeer,PSV Eindhoven,PEC Zwolle,2014,Dutch
+11,11,Jesper Drost,NED,M,1.75,75,11-01-93,Nunspeet,Nunspeet,PEC Zwolle,2014,Dutch
+14,14,Joost Broerse,NED,D,1.84,83,08-05-79,De Blit,Excelsior,PEC Zwolle,2014,Dutch
+15,15,Tomá Necid,CZE,F,1.90,81,13-08-89,Prague,CSKA Moscow,PEC Zwolle,2014,Dutch
+16,16,Kevin Begois,BEL,G,1.85,78,13-05-82,Antwerp,FC Den Bosch,PEC Zwolle,2014,Dutch
+17,17,Sheraldo Becker,NED,M,1.80,72,09-02-95,Amsterdam,Ajax,PEC Zwolle,2014,Dutch
+18,18,Wouter Marinus,NED,M,1.77,73,18-02-95,Zuidwolde,SC Heerenveen,PEC Zwolle,2014,Dutch
+19,19,Rick Dekker,NED,M,1.74,65,15-03-95,Lekkerkerk,Feyenoord,PEC Zwolle,2014,Dutch
+20,20,Soufian Moro,NED,F,1.74,71,21-02-93,Amsterdam,FC Utrecht,PEC Zwolle,2014,Dutch
+21,21,Wout Brama,NED,M,1.76,71,21-08-86,Almelo,FC Twente,PEC Zwolle,2014,Dutch
+22,22,Aleksandar Bjelica,SRB,D,1.84,80,07-01-94,Vrbas,FC Utrecht,PEC Zwolle,2014,Dutch
+23,23,Ben Rienstra,NED,M,1.82,67,05-06-90,Akersloot,Heracles Almelo,PEC Zwolle,2014,Dutch
+24,24,Steven Fernandes Pereira,NED,D,1.84,75,13-04-94,Rotterdam,Spartaan'20,PEC Zwolle,2014,Dutch
+25,25,Boy de Jong,NED,G,1.82,76,10-04-94,Voorburg,Feyenoord,PEC Zwolle,2014,Dutch
+26,26,Kingsley Ehizibue,NED,D,1.87,82,25-05-95,,None,PEC Zwolle,2014,Dutch
+28,28,Thomas Lam,FIN,D,1.88,76,18-12-93,Amsterdam,AZ Alkmaar,PEC Zwolle,2014,Dutch
+30,30,Ryan Thomas,NZL,M,1.74,70,20-12-94,Auckland,Western Suburbs,PEC Zwolle,2014,Dutch
+39,39,Max de Boom,NED,F,1.75,70,17-02-96,Utrecht,SC Heerenveen,PEC Zwolle,2014,Dutch
+41,44,Dimitrios Ferfelis,GRE,F,1.92,82,05-04-93,Delmenhorst,Koblenz,PEC Zwolle,2014,Dutch
+1,1,Jeroen Zoet,NED,G,1.86,76,06-01-91,Veendam,BV Veendam,PSV Eindhoven,2014,Dutch
+2,2,Nicolas Isimat-Mirin,FRA,D,1.87,83,15-11-91,Meudon-la-Forêt,Monaco,PSV Eindhoven,2014,Dutch
+3,3,Karim Rekik,NED,D,1.83,76,02-12-94,Den Haag,Manchester C,PSV Eindhoven,2014,Dutch
+4,4,Santiago Arias,COL,D,1.70,67,13-01-92,Medellín,Sporting CP,PSV Eindhoven,2014,Dutch
+5,5,Jeffrey Bruma,NED,D,1.86,83,13-11-91,Rotterdam,Chelsea,PSV Eindhoven,2014,Dutch
+6,6,Adam Maher,NED,M,1.74,76,20-07-93,Amsterdam,AZ Alkmaar,PSV Eindhoven,2014,Dutch
+7,7,Memphis Depay,NED,F,1.70,65,13-02-94,Moordrecht,Sparta Rotterdam,PSV Eindhoven,2014,Dutch
+8,8,Stijn Schaars,NED,M,1.77,77,11-01-84,Gendt,Sporting CP,PSV Eindhoven,2014,Dutch
+9,9,Luuk de Jong,NED,F,1.88,80,27-08-90,Aigle,B Mönchengladbach,PSV Eindhoven,2014,Dutch
+10,10,Georginio Wijnaldum,NED,M,1.72,69,11-11-90,Rotterdam,Feyenoord,PSV Eindhoven,2014,Dutch
+11,11,Luciano Narsingh,NED,F,1.78,69,13-09-90,Amsterdam,SC Heerenveen,PSV Eindhoven,2014,Dutch
+14,14,Florian Jozefzoon,NED,F,1.73,70,09-02-91,Amsterdam,RKC Waalwijk,PSV Eindhoven,2014,Dutch
+15,15,Jetro Willems,NED,D,1.69,66,30-03-94,Rotterdam,Sparta Rotterdam,PSV Eindhoven,2014,Dutch
+17,17,Jürgen Locadia,NED,F,1.91,79,07-11-93,Emmen,Willem II/RKC,PSV Eindhoven,2014,Dutch
+18,18,Andrés Guardado,MEX,M,1.69,60,28-09-86,Guadalajara,Valencia,PSV Eindhoven,2014,Dutch
+20,20,Joshua Brenet,NED,D,1.81,74,20-03-94,Almere,None,PSV Eindhoven,2014,Dutch
+21,21,Danny Wintjens,NED,G,2.00,76,30-09-83,Maastricht,VVV Venlo,PSV Eindhoven,2014,Dutch
+22,22,Remko Pasveer,NED,G,1.88,88,18-11-83,Enschede,Heracles Almelo,PSV Eindhoven,2014,Dutch
+23,23,Rai Vloet,NED,M,1.87,76,08-05-95,Schijndel,None,PSV Eindhoven,2014,Dutch
+24,24,Marcel Ritzmaier,AUT,M,1.81,79,22-04-93,Knittelfeld,Austria Kärnten,PSV Eindhoven,2014,Dutch
+26,26,Clint Leemans,NED,M,1.86,74,15-09-95,Veldhoven,None,PSV Eindhoven,2014,Dutch
+27,27,Oscar Hiljemark,SWE,M,1.84,73,28-06-92,Värnamo,IF Elfsborg,PSV Eindhoven,2014,Dutch
+28,28,Abel Tamata,NED,D,1.79,75,05-12-90,Bergen op Zoom,NAC Breda,PSV Eindhoven,2014,Dutch
+29,29,Jorrit Hendrix,NED,D,1.82,70,06-02-95,Panningen,None,PSV Eindhoven,2014,Dutch
+30,30,Jordy de Wijs,NED,D,1.89,84,08-01-95,Vlijmen,None,PSV Eindhoven,2014,Dutch
+31,31,Nigel Bertrams,NED,G,1.89,81,08-01-93,Best,Best Vooruit,PSV Eindhoven,2014,Dutch
+32,32,Aleksandar Boljević,MNE,F,1.83,72,12-12-95,Podgorica,Zeta Golubovac,PSV Eindhoven,2014,Dutch
+35,35,Hjörtur Hermannsson,ISL,D,1.89,81,08-02-95,Reykjavík,Fylkir,PSV Eindhoven,2014,Dutch
+39,39,Zakaria Bakkali,BEL,F,1.64,59,26-01-96,Liège,None,PSV Eindhoven,2014,Dutch
+41,43,Boris Cmiljanić,MNE,F,1.84,76,17-03-96,Bijelo Polje,Budućnost Podgorica,PSV Eindhoven,2014,Dutch
+42,47,Kenneth Paal,NED,M,1.75,70,24-06-97,Arnhem,NEC Nijmegen,PSV Eindhoven,2014,Dutch
+43,48,Suently Alberto,NED,D,1.90,80,09-06-96,Rotterdam,Sparta Rotterdam,PSV Eindhoven,2014,Dutch
+44,49,Steven Bergwijn,NED,F,1.78,74,08-10-97,Amsterdam,Ajax,PSV Eindhoven,2014,Dutch
+1,1,Nick Marsman,NED,G,1.81,78,01-10-90,Zwolle,Heracles Almelo,FC Twente,2014,Dutch
+2,2,Cuco Martina,CUW,D,1.85,70,25-09-89,Rotterdam,RKC Waalwijk,FC Twente,2014,Dutch
+3,3,Andreas Bjelland,DEN,D,1.88,85,11-07-88,Fredensborg,FC Nordsjælland,FC Twente,2014,Dutch
+4,4,Darryl Lachman,NED,D,1.89,75,11-11-89,Zaanstad,PEC Zwolle,FC Twente,2014,Dutch
+5,5,Robbert Schilder,NED,M,1.78,78,18-04-86,Amstelveen,NAC Breda,FC Twente,2014,Dutch
+6,6,Felipe Gutiérrez,CHI,M,1.70,64,08-10-90,Valparaíso,Universidad Católica,FC Twente,2014,Dutch
+7,7,Youness Mokhtar,NED,M,1.75,68,29-08-91,Utrecht,PEC Zwolle,FC Twente,2014,Dutch
+8,8,Kyle Ebecilio,NED,M,1.80,77,17-02-94,Rotterdam,Arsenal,FC Twente,2014,Dutch
+9,9,Torgeir Børven,NOR,F,1.85,70,03-12-91,Bergen,Vålerenga,FC Twente,2014,Dutch
+10,10,Hakim Ziyech,NED,M,1.80,70,19-03-93,Dronten,SC Heerenveen,FC Twente,2014,Dutch
+11,11,Jesús Manuel Corona,MEX,F,1.73,73,06-01-93,Hermosillo,Monterrey,FC Twente,2014,Dutch
+13,13,Joël Drommel,NED,G,1.89,80,16-11-96,Bussum,IJsselmeervogels,FC Twente,2014,Dutch
+14,14,Ryo Miyaichi,JPN,F,1.83,71,14-12-92,Okazaki,Arsenal,FC Twente,2014,Dutch
+15,15,Dico Koppers,NED,D,1.79,67,31-01-92,Harmelen,Ajax,FC Twente,2014,Dutch
+16,16,Chris David,NED,M,1.70,71,06-03-93,Amsterdam,Fulham,FC Twente,2014,Dutch
+18,18,Hidde ter Avest,NED,D,1.83,74,20-05-97,Wierden,None,FC Twente,2014,Dutch
+19,19,Shadrach Eghan,GHA,M,1.65,70,04-07-94,Akosombo,Golden Boot Academy,FC Twente,2014,Dutch
+20,20,Sonny Stevens,NED,G,1.93,94,22-06-92,Hoorn,FC Volendam,FC Twente,2014,Dutch
+22,22,Kamohelo Mokotjo,RSA,M,1.67,63,11-03-91,Odendaalrus,PEC Zwolle,FC Twente,2014,Dutch
+23,23,Joachim Andersen,DEN,D,1.88,90,31-05-96,Frederiksberg,FC Midtjylland,FC Twente,2014,Dutch
+24,24,Orlando Engelaar,NED,M,1.98,88,24-08-79,Rotterdam,Melbourne Heart,FC Twente,2014,Dutch
+25,25,Bilal Ould-Chikh,NED,F,1.67,63,28-07-97,Roosendaal,None,FC Twente,2014,Dutch
+26,26,Renato Tapia,PER,D,1.85,80,28-07-95,Lima,Esther Grande,FC Twente,2014,Dutch
+28,28,Jelle van der Heyden,NED,M,1.80,80,31-08-95,Arnhem,None,FC Twente,2014,Dutch
+29,29,Jari Oosterwijk,NED,F,1.94,81,03-03-95,Lettele,Go Ahead Eagles,FC Twente,2014,Dutch
+30,30,Luc Castaignos,NED,F,1.88,78,27-02-92,Rotterdam,Internazionale,FC Twente,2014,Dutch
+31,31,Peet Bijen,NED,D,1.80,70,28-01-95,Hengelo,None,FC Twente,2014,Dutch
+33,33,Kasper Kusk,DEN,M,1.80,67,10-11-91,Aalborg,Aalborg,FC Twente,2014,Dutch
+34,34,Andrej Rendla,SVK,F,1.88,78,13-10-90,Banská Bystrica,Dukla Banská Bystrica,FC Twente,2014,Dutch
+35,35,Filip Bednarek,POL,G,1.88,81,26-09-92,Kleczew,Amica Wronki,FC Twente,2014,Dutch
+37,37,Tim Hölscher,GER,M,1.85,78,21-02-95,Gronau,None,FC Twente,2014,Dutch
+1,1,Robbin Ruiter,NED,G,1.96,78,25-03-87,Amsterdam,FC Volendam,FC Utrecht,2014,Dutch
+2,2,Mark van der Maarel,NED,D,1.86,78,12-08-89,Arnhem,Haarlem,FC Utrecht,2014,Dutch
+3,3,Ramon Leeuwin,NED,D,1.87,72,01-09-87,Amsterdam,SC Cambuur,FC Utrecht,2014,Dutch
+5,5,Christiaan Kum,NED,D,1.82,70,13-09-85,Frankfurt am Main,SC Heerenveen,FC Utrecht,2014,Dutch
+7,7,Édouard Duplan,FRA,F,1.80,75,13-05-83,Athis-Mons,Sparta Rotterdam,FC Utrecht,2014,Dutch
+8,8,Willem Janssen,NED,M,1.86,75,04-07-86,Nijmegen,FC Twente,FC Utrecht,2014,Dutch
+9,9,Ruud Boymans,NED,F,1.88,88,28-04-89,Born,AZ Alkmaar,FC Utrecht,2014,Dutch
+10,10,Nacer Barazite,NED,M,1.88,83,27-05-90,Arnhem,Monaco,FC Utrecht,2014,Dutch
+11,11,Tommy Oar,AUS,M,1.70,64,10-12-91,Southport [AUS],Brisbane Roar,FC Utrecht,2014,Dutch
+13,13,Gévero Markiet,NED,D,1.83,90,08-04-91,Amsterdam,FC Omniworld,FC Utrecht,2014,Dutch
+14,14,Kai Heerings,NED,D,1.91,81,12-01-90,Amsterdam,Ajax,FC Utrecht,2014,Dutch
+15,15,Mark Diemers,NED,M,1.75,70,11-10-93,Leeuwarden,FC Groningen,FC Utrecht,2014,Dutch
+16,16,Yassin Ayoub,NED,M,1.69,67,06-03-94,Amsterdam,None,FC Utrecht,2014,Dutch
+17,17,Michael Zullo,AUS,D,1.70,62,11-09-88,Brisbane,Brisbane Roar,FC Utrecht,2014,Dutch
+20,20,Danny Verbeek,NED,F,1.82,65,15-08-90,Den Bosch,Standard Liège,FC Utrecht,2014,Dutch
+21,21,Kristoffer Peterson,SWE,M,1.80,70,28-11-94,Gothenburg,Liverpool,FC Utrecht,2014,Dutch
+22,22,Sébastien Haller,FRA,F,1.87,75,22-06-94,Ris-Orangis,Auxerre,FC Utrecht,2014,Dutch
+24,24,Yannick Cortie,NED,D,1.83,74,07-05-93,Amsterdam,None,FC Utrecht,2014,Dutch
+25,25,Timo Letschert,NED,D,1.79,70,25-05-93,Purmerend,Roda JC,FC Utrecht,2014,Dutch
+27,27,Gyliano van Velzen,NED,F,1.86,72,14-04-94,Amsterdam,Manchester U,FC Utrecht,2014,Dutch
+30,30,Jeroen Verhoeven,NED,G,1.94,99,30-04-80,Naarden,Ajax,FC Utrecht,2014,Dutch
+34,34,Jeff Hardeveld,NED,D,1.84,73,27-02-95,Delft,Feyenoord,FC Utrecht,2014,Dutch
+35,35,Jordy van der Winden,NED,D,1.80,74,04-03-94,,ADO Den Haag,FC Utrecht,2014,Dutch
+37,37,Gyrano Kerk,NED,F,1.83,82,02-12-95,,None,FC Utrecht,2014,Dutch
+38,38,Darren Rosheuvel,NED,M,1.80,70,15-05-94,Amsterdam,Ajax,FC Utrecht,2014,Dutch
+40,40,Erwin de Groot,NED,M,1.84,81,19-06-95,,Excelsior,FC Utrecht,2014,Dutch
+41,41,Hamza Boukhari,NED,F,1.78,74,28-03-95,,None,FC Utrecht,2014,Dutch
+42,44,Sofyan Amrabat,MAR,M,1.73,70,21-08-96,Huizen,None,FC Utrecht,2014,Dutch
+43,45,Rubio Rubin,USA,F,1.78,74,01-03-96,Beaverton,None,FC Utrecht,2014,Dutch
+44,46,Menno Heus,NED,G,1.88,80,17-12-95,,None,FC Utrecht,2014,Dutch
+45,47,Rodney Antwi,NED,F,1.76,72,03-11-95,,None,FC Utrecht,2014,Dutch
+46,48,Bart Ramselaar,NED,M,1.80,69,29-06-96,Amersfoort,None,FC Utrecht,2014,Dutch
+47,49,Issa Kallon,NED,F,1.63,66,03-01-96,Zeist,Vitesse,FC Utrecht,2014,Dutch
+48,50,Jelle de Lange,NED,D,1.88,80,30-01-98,Amsterdam,None,FC Utrecht,2014,Dutch
+49,51,Giovanni Troupée,NED,D,1.80,72,20-03-98,,None,FC Utrecht,2014,Dutch
+1,1,Eloy Room,NED,G,1.89,79,06-02-89,Nijmegen,Union,Vitesse,2014,Dutch
+2,2,Wallace,BRA,D,1.75,72,01-05-94,Rio de Janeiro,Chelsea,Vitesse,2014,Dutch
+3,3,Dan Mori,ISR,D,1.86,78,08-11-88,Tel Aviv,Bnei Yehuda Tel Aviv,Vitesse,2014,Dutch
+5,5,Kelvin Leerdam,NED,D,1.78,70,24-06-90,Paramaribo,Feyenoord,Vitesse,2014,Dutch
+6,6,Josh McEachran,ENG,M,1.78,65,01-03-93,Oxford,Chelsea,Vitesse,2014,Dutch
+7,7,Marko Vejinović,NED,M,1.86,67,03-02-90,Amsterdam,Heracles Almelo,Vitesse,2014,Dutch
+8,8,Valeri Kazaishvili,GEO,F,1.83,74,29-01-93,Ozurgeti,Olimpi Rustavi,Vitesse,2014,Dutch
+9,9,Uro Djurdjević,SRB,F,1.75,70,02-03-94,Belgrade,Rad,Vitesse,2014,Dutch
+10,10,Davy Pröpper,NED,M,1.85,72,02-09-91,Arnhem,None,Vitesse,2014,Dutch
+11,11,Denys Oliynyk,UKR,F,1.72,69,16-06-87,Zaporizhia,Dnipro Dnipropetrovsk,Vitesse,2014,Dutch
+14,14,Abiola Dauda,NGA,F,1.80,72,03-02-88,Lagos,Crvena Zvezda,Vitesse,2014,Dutch
+15,15,Arnold Kruiswijk,NED,D,1.82,73,02-11-84,Groningen,SC Heerenveen,Vitesse,2014,Dutch
+16,16,Mohamed Hamdaoui,NED,F,1.68,61,10-06-93,Amsterdam,Ajax,Vitesse,2014,Dutch
+18,18,Marvelous Nakamba,ZIM,M,1.77,71,19-01-94,Hwange,Nancy,Vitesse,2014,Dutch
+20,20,Zakaria Labyad,MAR,M,1.70,65,09-03-93,Utrecht,Sporting CP,Vitesse,2014,Dutch
+22,22,Piet Velthuizen,NED,G,1.89,88,03-11-86,Nijmegen,Hércules,Vitesse,2014,Dutch
+23,23,Jan-Arie van der Heijden,NED,D,1.82,70,03-03-88,Schoonhoven,Ajax,Vitesse,2014,Dutch
+25,25,Gino Bosz,NED,M,1.80,70,23-04-93,Rotterdam,None,Vitesse,2014,Dutch
+27,27,Bertrand Traoré,BFA,M,1.80,72,06-09-95,Bobo-Dioulasso,Chelsea,Vitesse,2014,Dutch
+30,30,Renato Ibarra,ECU,M,1.80,70,20-01-91,Ambuquí,El Nacional,Vitesse,2014,Dutch
+35,35,Rochdi Achenteh,NED,D,1.71,69,07-03-88,Eindhoven,PEC Zwolle,Vitesse,2014,Dutch
+37,37,Guram Kashia,GEO,D,1.86,78,04-07-87,Tbilisi,Dinamo Tbilisi,Vitesse,2014,Dutch
+40,40,Kevin Diks,NED,D,1.82,84,06-10-96,Apeldoorn,None,Vitesse,2014,Dutch
+41,41,Joris Klein-Holte,NED,D,1.86,79,04-01-97,Velp,None,Vitesse,2014,Dutch
+42,48,Jeroen Houwen,NED,G,1.88,79,18-02-96,Venray,None,Vitesse,2014,Dutch
+1,1,Kostas Lamprou,GRE,G,1.76,64,18-09-91,Athens,Feyenoord,Willem II,2014,Dutch
+3,3,Freek Heerkens,NED,D,1.85,76,13-09-89,Heeswijk-Dinther,Go Ahead Eagles,Willem II,2014,Dutch
+4,4,Jordens Peters,NED,D,1.82,78,03-05-87,Nijmegen,FC Den Bosch,Willem II,2014,Dutch
+5,5,Frank van der Struijk,NED,D,1.83,69,28-03-85,Boxtel,Vitesse,Willem II,2014,Dutch
+7,7,Terrel Ondaan,NED,F,1.75,67,09-09-93,Amsterdam,Telstar,Willem II,2014,Dutch
+8,8,Robbie Haemhouts,NED,M,1.74,63,09-12-83,Brasschaat,Helmond Sport,Willem II,2014,Dutch
+9,9,Samuel Armenteros,SWE,F,1.81,80,27-05-90,Masthugg,Anderlecht,Willem II,2014,Dutch
+10,10,Ali Messaoud,NED,M,1.83,76,13-04-91,Amsterdam,AZ Alkmaar,Willem II,2014,Dutch
+11,11,Bruno Andrade,BRA,F,1.75,74,02-03-89,São Bernardo do Campo,Audax-SP,Willem II,2014,Dutch
+12,12,Ricardo Ippel,NED,M,1.76,74,31-08-90,Hank,None,Willem II,2014,Dutch
+14,14,Ben Sahar,ISR,F,1.78,79,10-08-89,Holon,Hertha Berlin,Willem II,2014,Dutch
+15,15,Dries Wuytens,BEL,D,1.83,73,18-03-91,Eksel,Beerschot AC,Willem II,2014,Dutch
+17,17,Robert Braber,NED,F,1.93,77,09-11-82,Rotterdam,RKC Waalwijk,Willem II,2014,Dutch
+19,19,Jonas Heymans,BEL,D,1.80,79,06-02-93,Liedekerke,AZ Alkmaar,Willem II,2014,Dutch
+20,20,Jerson Cabral,NED,F,1.77,69,03-01-91,Rotterdam,FC Twente,Willem II,2014,Dutch
+21,21,David Meul,BEL,G,1.94,83,07-03-81,Melsele,SC Cambuur,Willem II,2014,Dutch
+23,23,Wiljan Pluim,NED,F,1.90,85,04-01-89,Zwolle,Roda JC,Willem II,2014,Dutch
+24,24,Frenkie de Jong,NED,M,1.79,69,12-05-97,Arkel,None,Willem II,2014,Dutch
+25,25,Larbi El Harouchi,NED,M,1.73,70,11-12-93,Rotterdam,Feyenoord,Willem II,2014,Dutch
+28,28,Tim Cornelisse,NED,D,1.84,73,03-04-78,Alkmaar,FC Twente,Willem II,2014,Dutch
+29,29,Stijn Wuytens,BEL,M,1.83,74,08-10-89,Eksel,Beerschot AC,Willem II,2014,Dutch
+30,30,Jordy Vleugels,NED,M,1.75,64,17-05-96,Mol,None,Willem II,2014,Dutch
+31,31,Mattijs Branderhorst,NED,G,1.92,87,31-12-93,Tiel,None,Willem II,2014,Dutch
+35,35,Mitchell Dijks,NED,D,1.93,90,09-02-93,Purmerend,Ajax,Willem II,2014,Dutch
+36,36,Charlton Vicento,NED,F,1.81,75,19-01-91,Zoetermeer,PAS Giannina,Willem II,2014,Dutch
+39,39,Stijn Derkx,NED,F,1.80,75,03-02-95,Heeze,None,Willem II,2014,Dutch

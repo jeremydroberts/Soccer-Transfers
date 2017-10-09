@@ -1,0 +1,551 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Gino Coutinho,NED,G,1.80,78,05-08-82,Den Bosch,FC Den Bosch,ADO Den Haag,2012,Dutch
+2,2,Dico Koppers,NED,D,1.79,67,31-01-92,Harmelen,Ajax,ADO Den Haag,2012,Dutch
+3,3,Vito Wormgoor,NED,D,1.88,81,16-11-88,Leersum,De Graafschap,ADO Den Haag,2012,Dutch
+4,4,Kenneth Omeruo,NGA,D,1.85,79,17-10-93,Kaduna,Chelsea,ADO Den Haag,2012,Dutch
+5,5,Christian Supusepa,NED,D,1.83,74,02-04-89,Zaanstad,Ajax,ADO Den Haag,2012,Dutch
+6,6,Danny Holla,NED,M,1.78,74,31-12-87,Almere,FC Groningen,ADO Den Haag,2012,Dutch
+7,7,Kevin Jansen,NED,M,1.83,77,08-04-92,Ridderkerk,Feyenoord,ADO Den Haag,2012,Dutch
+8,8,Aaron Meijers,NED,D,1.76,77,28-10-87,Delft,RKC Waalwijk,ADO Den Haag,2012,Dutch
+9,9,Rydell Poepon,NED,F,1.81,79,28-08-87,Amsterdam,De Graafschap,ADO Den Haag,2012,Dutch
+11,11,Tjaronn Chery,NED,M,1.70,68,04-06-88,Den Haag,Emmen,ADO Den Haag,2012,Dutch
+12,12,Santi Kolk,NED,F,1.80,72,02-10-81,Den Haag,Union Berlin,ADO Den Haag,2012,Dutch
+13,13,Bas Meeuwissen,NED,G,,,25-04-94,,None,ADO Den Haag,2012,Dutch
+14,14,Kevin Visser,NED,M,1.82,74,19-07-88,Delft,RKC Waalwijk,ADO Den Haag,2012,Dutch
+15,15,Dione Malone,NED,D,1.85,76,13-02-89,Paramaribo,Almere C,ADO Den Haag,2012,Dutch
+17,17,Stanley Elbers,NED,F,1.72,68,14-05-92,Wassenaar,None,ADO Den Haag,2012,Dutch
+18,18,Tom Beugelsdijk,NED,D,1.92,79,07-08-90,Den Haag,None,ADO Den Haag,2012,Dutch
+19,19,Mike van Duinen,NED,F,1.83,74,06-11-91,Den Haag,None,ADO Den Haag,2012,Dutch
+20,20,Ramon Leeuwin,NED,M,1.87,72,01-09-87,Amsterdam,AGOVV Apeldoorn,ADO Den Haag,2012,Dutch
+22,22,Robert Zwinkels,NED,G,1.88,75,04-05-83,Wateringen,Ajax,ADO Den Haag,2012,Dutch
+23,23,Giovanni Korte,NED,F,1.70,68,01-08-93,Den Haag,None,ADO Den Haag,2012,Dutch
+24,24,Martijn de Zwart,NED,G,1.81,87,08-11-90,Valkenburg,Quick Boys,ADO Den Haag,2012,Dutch
+26,26,Robin Buwalda,NED,D,1.88,82,17-08-94,Leidschendam,None,ADO Den Haag,2012,Dutch
+27,27,Danny Bakker,NED,M,1.78,70,16-01-95,Voorburg,None,ADO Den Haag,2012,Dutch
+28,28,Adil Tihouna,NED,M,,,29-12-92,Zeist,RKC Waalwijk,ADO Den Haag,2012,Dutch
+29,29,Tom Broekhuizen,NED,M,1.84,76,30-11-91,Den Haag,None,ADO Den Haag,2012,Dutch
+33,33,Gábor Horváth,HUN,D,1.88,84,04-07-85,Székesfehérvár,Videoton,ADO Den Haag,2012,Dutch
+36,36,Charlton Vicento,NED,F,1.81,75,19-01-91,Zoetermeer,None,ADO Den Haag,2012,Dutch
+37,37,Papito Merencia,CUW,M,1.77,74,04-03-94,Willemstad,Spartaan'20,ADO Den Haag,2012,Dutch
+1,1,Kenneth Vermeer,NED,G,1.82,78,10-01-86,Amsterdam,None,Ajax,2012,Dutch
+2,2,Ricardo van Rhijn,NED,D,1.76,79,13-06-91,Leiden,None,Ajax,2012,Dutch
+3,3,Toby Alderweireld,BEL,D,1.85,75,02-03-89,Wilrijk,Germinal Beerschot,Ajax,2012,Dutch
+4,4,Niklas Moisander,FIN,D,1.82,74,29-09-85,Turku,AZ Alkmaar,Ajax,2012,Dutch
+5,5,Christian Poulsen,DEN,M,1.82,76,28-02-80,Asnaes,Évian TG,Ajax,2012,Dutch
+7,7,Miralem Sulejmani,SRB,F,1.78,68,05-12-88,Belgrade,SC Heerenveen,Ajax,2012,Dutch
+8,8,Christian Eriksen,DEN,M,1.75,65,14-02-92,Middelfart,Odense,Ajax,2012,Dutch
+9,9,Kolbeinn Sigþórsson,ISL,F,1.81,76,14-03-90,Reykjavík,AZ Alkmaar,Ajax,2012,Dutch
+10,10,Siem de Jong,NED,M,1.85,76,28-01-89,Aigle,None,Ajax,2012,Dutch
+11,11,Isaac Cuenca,ESP,F,1.81,74,27-04-91,Reus,Barcelona,Ajax,2012,Dutch
+15,15,Nicolai Boilesen,DEN,D,1.85,75,16-02-92,Ballerup,Brøndby,Ajax,2012,Dutch
+16,16,Lucas Andersen,DEN,M,1.85,72,13-09-94,Aalborg,Aalborg,Ajax,2012,Dutch
+17,17,Daley Blind,NED,M,1.82,68,09-03-90,Amsterdam,None,Ajax,2012,Dutch
+18,18,Davy Klaassen,NED,F,1.85,76,21-02-93,Hilversum,None,Ajax,2012,Dutch
+19,19,Tobias Sana,SWE,M,1.73,63,11-07-89,Gothenburg,IFK Göteborg,Ajax,2012,Dutch
+20,20,Lasse Schøne,DEN,M,1.77,73,27-05-86,Glostrup,NEC Nijmegen,Ajax,2012,Dutch
+21,21,Derk Boerrigter,NED,F,1.85,78,16-10-86,Oldenzaal,RKC Waalwijk,Ajax,2012,Dutch
+22,22,Jasper Cillessen,NED,G,1.87,82,22-04-89,Groesbeek,NEC Nijmegen,Ajax,2012,Dutch
+23,23,Danny Hoesen,NED,F,1.86,75,15-01-91,Kerkrade,Fulham,Ajax,2012,Dutch
+25,25,Thulani Serero,RSA,M,1.70,68,11-04-90,Soweto,Ajax Cape Town,Ajax,2012,Dutch
+27,27,Jody Lukoki,NED,M,1.73,61,15-11-92,Kinshasa,None,Ajax,2012,Dutch
+30,30,Mickey van der Hart,NED,G,1.88,87,13-06-94,Amstelveen,None,Ajax,2012,Dutch
+32,32,Ruben Ligeon,NED,D,1.68,65,24-05-92,Amsterdam,OSV,Ajax,2012,Dutch
+33,33,Joël Veltman,NED,D,1.84,75,15-01-92,IJmuiden,None,Ajax,2012,Dutch
+34,34,Stefano Denswil,NED,D,1.85,76,07-05-93,Zaandam,None,Ajax,2012,Dutch
+35,35,Mitchell Dijks,NED,D,1.93,90,09-02-93,Purmerend,None,Ajax,2012,Dutch
+37,37,Lesley de Sa,NED,F,1.70,69,02-04-93,Mijdrecht,None,Ajax,2012,Dutch
+39,39,Viktor Fischer,DEN,F,1.79,71,09-06-94,Aarhus,FC Midtjylland,Ajax,2012,Dutch
+40,40,Fabian Sporkslede,NED,D,1.80,75,03-08-93,Amstelveen,None,Ajax,2012,Dutch
+41,43,Ilan Boccara,NED,M,1.78,68,14-05-93,Boulogne-Billancourt,Paris St-Germain,Ajax,2012,Dutch
+42,45,Chiel Kramer,NED,G,,,03-01-92,Heemskerk,None,Ajax,2012,Dutch
+43,49,Ryan Babel,NED,F,1.85,78,19-12-86,Amsterdam,1899 Hoffenheim,Ajax,2012,Dutch
+1,1,Esteban Alvarado,CRC,G,1.93,83,28-04-89,Siquirres,Deportivo Saprissa,AZ Alkmaar,2012,Dutch
+2,2,Mattias Johansson,SWE,D,1.71,64,16-02-92,Jönköping,Kalmar FF,AZ Alkmaar,2012,Dutch
+3,3,Dirk Marcellis,NED,D,1.78,74,13-04-88,Horst,PSV Eindhoven,AZ Alkmaar,2012,Dutch
+4,4,Nick Viergever,NED,D,1.82,72,03-08-89,Capelle aan den IJssel,Sparta Rotterdam,AZ Alkmaar,2012,Dutch
+5,5,Donny Gorter,NED,M,1.75,70,15-06-88,Sint-Willebrord,NAC Breda,AZ Alkmaar,2012,Dutch
+6,6,Etiënne Reijnen,NED,M,1.89,80,05-04-87,Zwolle,FC Zwolle,AZ Alkmaar,2012,Dutch
+7,7,Jóhann Guðmundsson,ISL,M,1.86,79,27-10-90,Reykjavík,Breiðablik,AZ Alkmaar,2012,Dutch
+8,8,Adam Maher,NED,M,1.74,76,20-07-93,Amsterdam,Zeeburgia,AZ Alkmaar,2012,Dutch
+10,10,Willy Overtoom,CMR,F,1.70,67,02-09-86,Bertoua,Heracles Almelo,AZ Alkmaar,2012,Dutch
+11,11,Maarten Martens,BEL,M,1.76,59,02-07-84,Eeklo,RKC Waalwijk,AZ Alkmaar,2012,Dutch
+12,12,Viktor Elm,SWE,M,1.92,87,13-11-85,Kalmar,SC Heerenveen,AZ Alkmaar,2012,Dutch
+16,16,Yves De Winter,BEL,G,1.88,75,25-05-87,Lier,De Graafschap,AZ Alkmaar,2012,Dutch
+17,17,Jozy Altidore,USA,F,1.82,78,06-11-89,Boca Raton,Villarreal,AZ Alkmaar,2012,Dutch
+18,18,Mikhail Rosheuvel,NED,F,1.76,71,10-08-90,Amsterdam,Almere C,AZ Alkmaar,2012,Dutch
+19,19,Markus Henriksen,NOR,M,1.87,85,25-07-92,Trondheim,Rosenborg,AZ Alkmaar,2012,Dutch
+20,20,Aron Jóhannsson,ISL,F,1.84,70,10-11-90,Mobile,Aarhus,AZ Alkmaar,2012,Dutch
+21,21,Erik Heijblok,NED,G,1.96,93,29-06-77,Wieringen,De Graafschap,AZ Alkmaar,2012,Dutch
+22,22,Steven Berghuis,NED,M,1.80,75,19-12-91,Apeldoorn,FC Twente,AZ Alkmaar,2012,Dutch
+23,23,Roy Beerens,NED,F,1.73,64,22-12-87,Bladel,SC Heerenveen,AZ Alkmaar,2012,Dutch
+24,24,Jeffrey Ket,NED,D,,,06-04-93,Hoofddorp,Haarlem,AZ Alkmaar,2012,Dutch
+25,25,Jonas Heymans,BEL,D,1.80,79,06-02-93,Liedekerke,Lierse,AZ Alkmaar,2012,Dutch
+26,26,Celso Ortíz,PAR,M,1.75,70,26-01-89,Asunción,Cerro Porteño,AZ Alkmaar,2012,Dutch
+28,28,Thomas Lam,FIN,D,1.88,76,18-12-93,Amsterdam,Ajax,AZ Alkmaar,2012,Dutch
+29,29,Robert Klaasen,NED,M,1.77,74,06-09-93,Amsterdam,Feyenoord,AZ Alkmaar,2012,Dutch
+30,30,Ridgeciano Haps,NED,D,1.75,66,12-06-93,Utrecht,None,AZ Alkmaar,2012,Dutch
+31,31,Joris van Overeem,NED,M,1.81,71,01-06-94,Amsterdam,None,AZ Alkmaar,2012,Dutch
+32,32,Giliano Wijnaldum,NED,D,1.81,75,31-08-92,Rotterdam,Sparta Rotterdam,AZ Alkmaar,2012,Dutch
+33,33,Thom Haye,NED,M,1.77,74,09-02-95,Amsterdam,None,AZ Alkmaar,2012,Dutch
+36,36,Ali Messaoud,NED,F,1.83,76,13-04-91,Amsterdam,None,AZ Alkmaar,2012,Dutch
+37,37,Hobie Verhulst,NED,G,1.89,78,02-04-93,Amsterdam,KFC,AZ Alkmaar,2012,Dutch
+38,38,Terrel Ondaan,NED,F,1.75,67,09-09-93,Amsterdam,Ajax,AZ Alkmaar,2012,Dutch
+39,39,Milan Hoek,NED,D,1.72,65,08-09-91,Zwanenburg,AFC '34,AZ Alkmaar,2012,Dutch
+40,40,Fernando Lewis,NED,F,1.80,75,31-01-93,Den Haag,Haarlem,AZ Alkmaar,2012,Dutch
+41,41,Paul Kok,NED,D,,,21-12-94,Hoorn,De Zouaven,AZ Alkmaar,2012,Dutch
+42,42,Kevin Luckassen,NED,F,1.85,80,27-07-93,Eindhoven,AFC,AZ Alkmaar,2012,Dutch
+1,1,Erwin Mulder,NED,G,1.93,88,03-03-89,Zevenaar,Vitesse,Feyenoord,2012,Dutch
+2,2,Daryl Janmaat,NED,D,1.76,65,22-07-89,Leidschendam,SC Heerenveen,Feyenoord,2012,Dutch
+3,3,Stefan de Vrij,NED,D,1.88,78,05-02-92,Ouderkerk aan den IJssel,None,Feyenoord,2012,Dutch
+4,4,Joris Mathijsen,NED,D,1.83,82,05-04-80,Goirle,Málaga,Feyenoord,2012,Dutch
+5,5,Bruno Martins Indi,NED,D,1.85,76,08-02-92,Barreiro,Spartaan'20,Feyenoord,2012,Dutch
+6,6,Jordy Clasie,NED,M,1.69,68,27-06-91,Haarlem,None,Feyenoord,2012,Dutch
+7,7,Kelvin Leerdam,NED,M,1.78,70,24-06-90,Paramaribo,Elinkwijk,Feyenoord,2012,Dutch
+8,8,Ruud Vormer,NED,M,1.76,76,11-05-88,Hoorn,Roda JC,Feyenoord,2012,Dutch
+9,9,Guyon Fernández,NED,F,1.84,76,18-04-86,Den Haag,Excelsior,Feyenoord,2012,Dutch
+10,10,Lex Immers,NED,M,1.87,78,08-06-86,Den Haag,ADO Den Haag,Feyenoord,2012,Dutch
+11,11,Wesley Verhoek,NED,F,1.88,80,25-09-86,Leidschendam,FC Twente,Feyenoord,2012,Dutch
+13,13,Ronald Graafland,NED,G,1.90,71,30-04-79,Rotterdam,VV Capelle,Feyenoord,2012,Dutch
+15,15,Kamohelo Mokotjo,RSA,M,1.67,63,11-03-91,Odendaalrus,SuperSport U,Feyenoord,2012,Dutch
+16,16,Harmeet Singh,NOR,M,1.80,72,12-11-90,Oslo,Vålerenga,Feyenoord,2012,Dutch
+18,18,Miquel Nelom,NED,D,1.74,69,22-09-90,Rotterdam,Spijkernisse,Feyenoord,2012,Dutch
+19,19,Graziano Pellè,ITA,F,1.93,89,15-07-85,San Cesario,Parma,Feyenoord,2012,Dutch
+20,20,John Goossens,NED,M,1.74,68,25-07-88,Heemstede,NEC Nijmegen,Feyenoord,2012,Dutch
+21,21,Tonny Vilhena,NED,M,1.75,70,03-01-95,Maassluis,None,Feyenoord,2012,Dutch
+22,22,Mitchell te Vrede,NED,F,1.91,84,07-08-91,Amstelveen,Excelsior,Feyenoord,2012,Dutch
+23,23,Sekou Cissé,CIV,F,1.84,78,23-05-85,Dabou,Roda JC,Feyenoord,2012,Dutch
+25,25,Terence Kongolo,NED,D,1.83,70,14-02-94,Rotterdam,None,Feyenoord,2012,Dutch
+27,27,Ruben Schaken,NED,F,1.72,74,03-04-82,Amsterdam,VVV Venlo,Feyenoord,2012,Dutch
+28,28,Jean-Paul Boëtius,NED,F,1.82,74,22-03-94,Rotterdam,None,Feyenoord,2012,Dutch
+29,29,Anass Achahbar,NED,F,1.71,64,13-01-94,Den Haag,None,Feyenoord,2012,Dutch
+31,31,Michel Franken,NED,G,,,26-01-94,,None,Feyenoord,2012,Dutch
+32,32,Sven van Beek,NED,D,1.88,76,28-07-94,Gouda,None,Feyenoord,2012,Dutch
+33,33,Kostas Lamprou,GRE,G,1.76,64,18-09-91,Athens,None,Feyenoord,2012,Dutch
+1,1,Marco Bizot,NED,G,1.84,85,10-03-91,Zwaag,Ajax,FC Groningen,2012,Dutch
+2,2,Johan Kappelhof,NED,D,1.80,70,05-08-90,Amsterdam,Ajax,FC Groningen,2012,Dutch
+4,4,Virgil van Dijk,NED,D,1.93,92,08-07-91,Breda,Willem II/RKC,FC Groningen,2012,Dutch
+5,5,Emil Johansson,SWE,D,1.72,67,11-08-86,Karlskoga,Molde,FC Groningen,2012,Dutch
+6,6,Maikel Kieftenbeld,NED,M,1.79,75,26-06-90,Dalfsen,Go Ahead Eagles,FC Groningen,2012,Dutch
+7,7,Leandro Bacuna,NED,F,1.87,77,21-08-91,Groningen,None,FC Groningen,2012,Dutch
+8,8,Tim Sparv,FIN,M,1.94,86,20-02-87,Vaasa,Halmstads BK,FC Groningen,2012,Dutch
+9,9,David Texeira,URU,F,1.81,82,27-02-91,Salto,Defensor Sporting,FC Groningen,2012,Dutch
+10,10,Filip Kostić,SRB,M,1.80,68,01-11-92,Kragujevac,Radnički 1923,FC Groningen,2012,Dutch
+14,14,Kees Kwakman,NED,D,1.87,78,10-06-83,Purmerend,Augsburg,FC Groningen,2012,Dutch
+15,15,Oluwafemi Ajilore,NGA,M,1.82,73,18-01-85,Lagos,FC Midtylland,FC Groningen,2012,Dutch
+17,17,Andra Kirm,SVN,M,1.83,73,06-09-84,Ljubljana,Wisła Kraków,FC Groningen,2012,Dutch
+18,18,Lorenzo Burnet,NED,D,1.82,80,11-01-91,Amsterdam,Ajax,FC Groningen,2012,Dutch
+19,19,Mitchell Schet,NED,F,1.86,75,28-01-88,Amsterdam,RKC Waalwijk,FC Groningen,2012,Dutch
+20,20,Paco van Moorsel,NED,M,1.85,74,15-12-89,Boxtel,FC Den Bosch,FC Groningen,2012,Dutch
+21,21,Michael de Leeuw,NED,M,1.78,67,07-10-86,Goirle,De Graafschap,FC Groningen,2012,Dutch
+23,23,Rasmus Lindgren,SWE,M,1.80,69,29-11-84,Landskrona,Red Bull Salzburg,FC Groningen,2012,Dutch
+26,26,Luciano da Silva,BRA,G,1.74,74,16-03-80,Rio Branco,Germinal Beerschot,FC Groningen,2012,Dutch
+27,27,Henk Bos,NED,M,1.72,71,12-11-92,Stadskanaal,None,FC Groningen,2012,Dutch
+29,29,Stefano Magnasco,CHI,D,1.75,72,28-09-92,Santiago,Universidad Católica,FC Groningen,2012,Dutch
+30,30,Richairo ivković,NED,F,1.87,73,05-09-96,Assen,None,FC Groningen,2012,Dutch
+32,32,Timo Letschert,NED,D,1.79,70,25-05-93,Purmerend,SC Heerenveen,FC Groningen,2012,Dutch
+33,33,Atilay Batbay,GER,M,1.74,69,01-05-92,Emden,Kickers Emden,FC Groningen,2012,Dutch
+34,34,Nick Bakker,NED,D,1.89,76,21-07-92,Groningen,None,FC Groningen,2012,Dutch
+35,35,Paulo Francisco,NED,F,,,12-04-93,,None,FC Groningen,2012,Dutch
+36,36,Género Zeefuik,NED,F,1.78,82,05-04-90,Amsterdam,PSV Eindhoven,FC Groningen,2012,Dutch
+37,37,Joey Potveer,NED,G,,,01-04-93,Obdam,AZ Alkmaar,FC Groningen,2012,Dutch
+38,38,Stephan van der Lei,NED,G,1.90,80,05-03-93,Groningen,None,FC Groningen,2012,Dutch
+39,39,Hilal Ben Moussa,NED,M,1.76,72,22-05-92,Utrecht,Elinkwijk,FC Groningen,2012,Dutch
+41,41,Yoëll van Nieff,NED,M,1.80,78,17-06-93,Groningen,None,FC Groningen,2012,Dutch
+42,42,Alexander Christovao,ANG,F,1.86,85,14-03-93,Landana,None,FC Groningen,2012,Dutch
+1,1,Kristoffer Nordfeldt,SWE,G,1.90,85,23-06-89,Stockholm,IF Brommapojkarna,SC Heerenveen,2012,Dutch
+2,2,Gianni Zuiverloon,NED,D,1.78,70,30-12-86,Rotterdam,Mallorca,SC Heerenveen,2012,Dutch
+3,3,Jeffrey Gouweleeuw,NED,D,1.87,73,10-07-91,Heemskerk,None,SC Heerenveen,2012,Dutch
+4,4,Christiaan Kum,NED,D,1.82,70,13-09-85,Frankfurt am Main,ADO Den Haag,SC Heerenveen,2012,Dutch
+6,6,Daniël de Ridder,NED,F,1.80,69,06-03-84,Amsterdam,Grasshoppers,SC Heerenveen,2012,Dutch
+7,7,Rajiv Van La Parra,NED,M,1.81,72,04-06-91,Rotterdam,Caen,SC Heerenveen,2012,Dutch
+8,8,Arnold Kruiswijk,NED,D,1.82,73,02-11-84,Groningen,Anderlecht,SC Heerenveen,2012,Dutch
+9,9,Filip Djuričić,SRB,M,1.76,72,30-01-92,Obrenovac,Olympiakos,SC Heerenveen,2012,Dutch
+10,10,Sven Kums,BEL,M,1.76,63,26-02-88,Asse,Kortrijk,SC Heerenveen,2012,Dutch
+11,11,Alfreð Finnbogason,ISL,F,1.84,78,01-02-89,Reykjavík,Lokeren,SC Heerenveen,2012,Dutch
+12,12,Yassine El Ghanassy,MAR,M,1.75,69,12-07-90,La Louvière,KAA Gent,SC Heerenveen,2012,Dutch
+14,14,Matthew Amoah,GHA,F,1.75,66,24-10-80,Tema,Mersin İdman Yurdu,SC Heerenveen,2012,Dutch
+15,15,Marten de Roon,NED,M,1.85,76,29-03-91,Zwijndrecht,Sparta Rotterdam,SC Heerenveen,2012,Dutch
+16,16,Marco Pappa,GUA,M,1.78,70,15-11-87,Guatemala City,Chicago Fire,SC Heerenveen,2012,Dutch
+17,17,Doke Schmidt,NED,D,1.77,73,07-04-92,Heerenveen,None,SC Heerenveen,2012,Dutch
+18,18,Luká Mareček,CZE,M,1.82,69,17-04-90,Ivančice,Anderlecht,SC Heerenveen,2012,Dutch
+20,20,Jukka Raitala,FIN,D,1.80,77,15-09-88,Kerava,1899 Hoffenheim,SC Heerenveen,2012,Dutch
+21,21,Joey van den Berg,NED,M,1.82,84,13-02-86,Nijeveen,PEC Zwolle,SC Heerenveen,2012,Dutch
+23,23,Ramon Zomer,NED,D,1.84,75,13-04-83,Almelo,NEC Nijmegen,SC Heerenveen,2012,Dutch
+25,25,Brian Vandenbussche,BEL,G,1.96,84,24-09-81,Blankenberge,Sparta Rotterdam,SC Heerenveen,2012,Dutch
+26,26,Kenny Steppe,BEL,G,1.82,67,14-11-88,Antwerp,Germinal Beerschot,SC Heerenveen,2012,Dutch
+28,28,Jurjan Wouda,NED,G,1.83,74,02-04-91,Westerbork,None,SC Heerenveen,2012,Dutch
+30,30,Oussama Tannane,NED,F,1.78,80,23-03-94,Tétouan,None,SC Heerenveen,2012,Dutch
+31,31,Mark Uth,GER,F,1.85,68,24-08-91,Cologne,Köln,SC Heerenveen,2012,Dutch
+32,32,Jens Jurn Streutker,NED,D,1.96,75,23-02-93,Hoogeveen,None,SC Heerenveen,2012,Dutch
+33,33,Hakim Ziyech,NED,M,1.80,70,19-03-93,Dronten,None,SC Heerenveen,2012,Dutch
+34,34,Kenny Otigba,HUN,D,1.90,84,29-08-92,Kaduna,None,SC Heerenveen,2012,Dutch
+35,35,Fahd Aktaou,MAR,D,1.82,71,13-01-93,Amsterdam,None,SC Heerenveen,2012,Dutch
+36,36,Menno Heerkes,NED,M,1.80,67,22-07-93,Hardenberg,None,SC Heerenveen,2012,Dutch
+37,37,Luciano Slagveer,NED,F,1.78,73,05-10-93,Emmen,FC Emmen,SC Heerenveen,2012,Dutch
+38,38,Youssef Fennich,NED,M,1.75,70,12-02-93,Amsterdam,Ajax,SC Heerenveen,2012,Dutch
+41,46,Pele van Anholt,NED,M,1.70,71,23-04-91,Bolsward,None,SC Heerenveen,2012,Dutch
+2,2,Milano Koenders,NED,D,1.83,81,31-07-86,Amsterdam,AZ Alkmaar,Heracles Almelo,2012,Dutch
+3,3,Bart Schenkeveld,NED,D,1.84,80,28-08-91,Den Hoorn,Feyenoord,Heracles Almelo,2012,Dutch
+4,4,Jeroen Veldmate,NED,D,1.87,77,08-01-88,Groningen,Sparta Rotterdam,Heracles Almelo,2012,Dutch
+5,5,Christian Dorda,GER,D,1.82,75,06-12-88,Mönchengladbach,Greuther Fürth,Heracles Almelo,2012,Dutch
+6,6,Dario Vujičević,CRO,M,1.80,72,01-04-90,Sarajevo,FC Twente,Heracles Almelo,2012,Dutch
+7,7,Ninos Gouriye,NED,F,1.75,80,14-01-91,Hengelo,FC Twente,Heracles Almelo,2012,Dutch
+8,8,Lerin Duarte,NED,M,1.68,65,11-08-90,Rotterdam,Sparta Rotterdam,Heracles Almelo,2012,Dutch
+10,10,Marko Vejinović,NED,M,1.86,67,03-02-90,Amsterdam,AZ Alkmaar,Heracles Almelo,2012,Dutch
+11,11,Everton,BRA,F,1.77,74,08-06-83,São Paulo,Grêmio Barueri,Heracles Almelo,2012,Dutch
+13,13,Dragan Paljić,GER,M,1.74,70,08-04-83,Starnberg,Wisła Kraków,Heracles Almelo,2012,Dutch
+14,14,Ben Rienstra,NED,M,1.82,67,05-06-90,Akersloot,AZ Alkmaar,Heracles Almelo,2012,Dutch
+15,15,Jaroslav Navrátil,CZE,F,1.85,77,30-12-91,Hustopeče,Viktoria ikov,Heracles Almelo,2012,Dutch
+16,16,Brian van Loo,NED,G,1.98,93,02-04-75,Almelo,FC Groningen,Heracles Almelo,2012,Dutch
+17,17,Kwame Quansah,GHA,M,1.72,66,24-11-82,Tema,Ajax,Heracles Almelo,2012,Dutch
+18,18,Mathias Schamp,BEL,F,1.78,70,18-06-88,Zottegem,Oudenaarde,Heracles Almelo,2012,Dutch
+20,20,Thomas Bruns,NED,M,1.77,67,07-01-92,Wierden,FC Twente,Heracles Almelo,2012,Dutch
+21,21,Geoffrey Castillion,NED,F,1.91,78,25-05-91,Amsterdam,Ajax,Heracles Almelo,2012,Dutch
+22,22,Remko Pasveer,NED,G,1.88,88,18-11-83,Enschede,FC Twente,Heracles Almelo,2012,Dutch
+25,25,Renze Fij,NED,G,1.87,81,26-09-92,Enschede,FC Groningen,Heracles Almelo,2012,Dutch
+27,27,Daryl van Mieghem,NED,F,1.70,70,05-12-89,Amsterdam,AFC,Heracles Almelo,2012,Dutch
+29,29,Jason Davidson,AUS,D,1.80,72,29-06-91,Melbourne,Paços de Ferreira,Heracles Almelo,2012,Dutch
+30,30,Leon van Dijk,NED,D,1.78,65,09-03-92,Enschede,FC Twente,Heracles Almelo,2012,Dutch
+32,32,Mike te Wierik,NED,D,1.91,73,08-06-92,Hengevelde,None,Heracles Almelo,2012,Dutch
+33,33,Joey Belterman,NED,M,1.70,66,18-03-93,Ruurlo,FC Twente,Heracles Almelo,2012,Dutch
+1,1,Jelle ten Rouwelaar,NED,G,1.86,85,24-12-80,Joure,Austria Vienna,NAC Breda,2012,Dutch
+2,2,Sepp De Roover,BEL,D,1.80,75,12-10-84,Geel,Lokeren,NAC Breda,2012,Dutch
+3,3,Eric Fernando Botteghin,BRA,D,1.93,86,31-08-87,São Paulo,FC Zwolle,NAC Breda,2012,Dutch
+4,4,Mark Looms,NED,D,1.92,73,24-03-81,Almelo,Heracles Almelo,NAC Breda,2012,Dutch
+5,5,Gautam Kalpoe,NED,D,,,19-09-91,,Sparta Rotterdam,NAC Breda,2012,Dutch
+6,6,Tim Gilissen,NED,M,1.75,77,04-06-82,Enschede,Go Ahead Eagles,NAC Breda,2012,Dutch
+7,7,Kees Luijckx,NED,M,1.90,83,11-02-86,Castricum,AZ Alkmaar,NAC Breda,2012,Dutch
+8,8,Thilo Leugers,GER,D,1.84,77,09-01-91,Lingen,FC Twente,NAC Breda,2012,Dutch
+9,9,Alex Schalk,NED,F,1.74,72,07-08-92,Breda,None,NAC Breda,2012,Dutch
+10,10,Anthony Lurling,NED,M,1.73,73,22-04-77,Den Bosch,Köln,NAC Breda,2012,Dutch
+11,11,Jens Janse,NED,D,1.83,75,01-07-86,Venlo,Willem II,NAC Breda,2012,Dutch
+12,12,Rick Stuij van den Herik,NED,M,,,19-06-93,,Sparta Rotterdam,NAC Breda,2012,Dutch
+14,14,Rick ten Voorde,NED,F,1.87,83,20-06-91,Emmen,NEC Nijmegen,NAC Breda,2012,Dutch
+15,15,Danny Verbeek,NED,F,1.82,65,15-08-90,Den Bosch,Standard Liège,NAC Breda,2012,Dutch
+16,16,Nemanja Gudelj,SRB,D,1.77,73,16-11-91,Belgrade,None,NAC Breda,2012,Dutch
+17,17,Anouar Hadouir,NED,F,1.70,68,14-09-82,Den Bosch,Alemannia Aachen,NAC Breda,2012,Dutch
+18,18,Nadir Çiftçi,NED,F,1.83,77,12-02-92,Den Haag,Kayserispor,NAC Breda,2012,Dutch
+19,19,Junior Ebobo,NGA,F,,,03-04-93,,None,NAC Breda,2012,Dutch
+20,20,Mats Seuntjens,NED,F,1.84,81,17-04-92,Breda,None,NAC Breda,2012,Dutch
+21,21,Tim Coremans,NED,G,1.86,75,10-04-91,Breda,None,NAC Breda,2012,Dutch
+22,22,Steven Edwards,NED,M,1.85,74,15-01-91,Breda,None,NAC Breda,2012,Dutch
+23,23,Jordy Buijs,NED,D,1.82,80,28-12-88,Ridderkerk,De Graafschap,NAC Breda,2012,Dutch
+24,24,Peter Gommeren,NED,M,,,09-03-92,,None,NAC Breda,2012,Dutch
+25,25,Elson Hooi,CUW,F,1.69,68,01-10-91,Willemstad,None,NAC Breda,2012,Dutch
+27,27,Yousouf Zinga,NED,D,,,07-05-91,,FC Groningen,NAC Breda,2012,Dutch
+28,28,Kenny van der Weg,NED,D,1.87,79,19-02-91,Rotterdam,Spartaan'20,NAC Breda,2012,Dutch
+30,30,Bryan Struis,NED,G,,,11-06-93,,Feyenoord,NAC Breda,2012,Dutch
+31,31,Wilko de Vogt,NED,G,1.87,81,17-09-75,Breda,VVV Venlo,NAC Breda,2012,Dutch
+1,1,Gábor Babos,HUN,G,1.96,92,24-10-74,Sopron,Feyenoord,NEC Nijmegen,2012,Dutch
+2,2,Nathaniël Will,NED,D,1.77,70,16-02-89,Lelystad,Ajax,NEC Nijmegen,2012,Dutch
+3,3,Rens van Eijden,NED,D,1.88,81,03-03-88,Oss,PSV Eindhoven,NEC Nijmegen,2012,Dutch
+4,4,Daan Bovenberg,NED,D,1.83,74,25-10-88,Utrecht,FC Utrecht,NEC Nijmegen,2012,Dutch
+5,5,Rémi Amieux,FRA,D,1.70,70,05-09-86,Vienne,FC Eindhoven,NEC Nijmegen,2012,Dutch
+6,6,Evander Sno,NED,M,1.86,80,09-04-87,Dordrecht,RKC Waalwijk,NEC Nijmegen,2012,Dutch
+7,7,Leroy George,NED,F,1.75,67,21-04-87,Paramaribo,FC Utrecht,NEC Nijmegen,2012,Dutch
+8,8,Ryan Koolwijk,NED,M,1.95,76,08-08-85,Rotterdam,Excelsior,NEC Nijmegen,2012,Dutch
+10,10,Geert-Arend Roorda,NED,M,1.90,86,02-03-88,Heerenveen,SC Heerenveen,NEC Nijmegen,2012,Dutch
+11,11,Melvin Platje,NED,F,1.77,79,16-12-88,Naarden,FC Volendam,NEC Nijmegen,2012,Dutch
+13,13,Erik Falkenburg,NED,M,1.87,84,05-05-88,Leiden,AZ Alkmaar,NEC Nijmegen,2012,Dutch
+14,14,Kevin Conboy,DEN,D,1.85,77,15-10-87,Esbjerg,Esbjerg,NEC Nijmegen,2012,Dutch
+15,15,Danny van den Meiracker,NED,F,1.84,77,27-03-89,Baarn,Spakenburg,NEC Nijmegen,2012,Dutch
+17,17,Pavel Čmov,CZE,D,1.89,81,29-06-90,Plzeň,Slavia Prague,NEC Nijmegen,2012,Dutch
+18,18,Youri Loen,NED,M,1.77,73,27-01-91,Nijmegen,None,NEC Nijmegen,2012,Dutch
+19,19,Victor Pálsson,ISL,M,1.85,75,30-04-91,Reykjavik,New York Red Bulls,NEC Nijmegen,2012,Dutch
+20,20,Stijn de Looijer,NED,M,1.89,78,31-03-92,Schaijk,FC Den Bosch,NEC Nijmegen,2012,Dutch
+21,21,Michel Breuer,NED,D,1.83,72,25-05-80,Gouda,SC Heerenveen,NEC Nijmegen,2012,Dutch
+22,22,Khalid Sinouh,MAR,G,1.90,86,02-05-75,Amsterdam,PSV Eindhoven,NEC Nijmegen,2012,Dutch
+23,23,Nick van der Velden,NED,M,1.87,78,16-12-84,Amsterdam,AZ Alkmaar,NEC Nijmegen,2012,Dutch
+24,24,Admir Bajrovic,SWE,F,1.76,71,06-08-95,Alvesta,FC Trollhättan,NEC Nijmegen,2012,Dutch
+25,25,Navarone Foor,NED,M,1.70,61,04-02-92,Opheusden,None,NEC Nijmegen,2012,Dutch
+26,26,Ruud Boymans,NED,F,1.88,88,28-04-89,Born,AZ Alkmaar,NEC Nijmegen,2012,Dutch
+27,27,Marcel Stutter,GER,M,1.85,84,06-03-88,Kamen,Holzwickede,NEC Nijmegen,2012,Dutch
+28,28,Jordi Tutuarima,NED,F,1.69,67,28-04-93,Velp,None,NEC Nijmegen,2012,Dutch
+29,29,Kelle Roos,NED,G,1.93,90,31-05-92,Rijkevoort,Willem II,NEC Nijmegen,2012,Dutch
+30,30,Daan Disveld,NED,D,1.77,80,20-01-94,Lent,None,NEC Nijmegen,2012,Dutch
+31,31,Søren Rieks,DEN,M,1.84,74,07-04-87,Esbjerg,Esbjerg,NEC Nijmegen,2012,Dutch
+32,32,Karl-Johan Johnsson,SWE,G,1.87,83,28-01-90,Ränneslöv,Halmstads BK,NEC Nijmegen,2012,Dutch
+33,33,Kevin Wattamaleo,NED,M,1.74,73,25-01-89,Rotterdam,Excelsior,NEC Nijmegen,2012,Dutch
+1,1,Diederik Boer,NED,G,1.94,84,24-09-80,Emmeloord,Flevo Boys,PEC Zwolle,2012,Dutch
+2,2,Bram van Polen,NED,F,1.79,73,11-10-85,Nijkerk,Vitesse,PEC Zwolle,2012,Dutch
+3,3,Darryl Lachman,NED,D,1.89,75,11-11-89,Zaanstad,FC Groningen,PEC Zwolle,2012,Dutch
+4,4,Maikel van der Werff,NED,D,1.85,81,22-04-89,Hoorn,FC Volendam,PEC Zwolle,2012,Dutch
+5,5,Bart van Hintum,NED,D,1.77,75,16-01-87,Oss,FC Dordrecht,PEC Zwolle,2012,Dutch
+6,6,Frank Olijve,NED,M,1.76,63,07-03-89,Amsterdam,FC Groningen,PEC Zwolle,2012,Dutch
+7,7,Furdjel Narsingh,NED,F,1.75,71,13-03-88,Amsterdam,AZ Alkmaar,PEC Zwolle,2012,Dutch
+8,8,Rochdi Achenteh,NED,M,1.71,69,07-03-88,Eindhoven,FC Eindhoven,PEC Zwolle,2012,Dutch
+9,9,Fred Benson,NED,F,1.79,79,10-04-84,Accra,Lechia Gdańsk,PEC Zwolle,2012,Dutch
+10,10,Arne Slot,NED,M,1.84,76,17-09-78,Bergentheim,Sparta Rotterdam,PEC Zwolle,2012,Dutch
+11,11,Jesper Drost,NED,F,1.75,75,11-01-93,Nunspeet,Nunspeet,PEC Zwolle,2012,Dutch
+13,13,Djeremy Zandvliet,NED,F,1.81,72,01-04-94,Deventer,None,PEC Zwolle,2012,Dutch
+14,14,Joost Broerse,NED,D,1.84,83,08-05-79,De Blit,Excelsior,PEC Zwolle,2012,Dutch
+15,15,Ronnie Reniers,NED,F,1.82,76,08-11-87,Tilburg,FC Den Bosch,PEC Zwolle,2012,Dutch
+16,16,Simon IJzerman,NED,D,1.76,71,13-03-92,Schoonoord,FC Emmen,PEC Zwolle,2012,Dutch
+17,17,Norichio Nieveld,NED,D,1.89,80,25-04-89,Den Bosch,Excelsior,PEC Zwolle,2012,Dutch
+18,18,Mimoun Eloisghiri,NED,F,1.81,74,15-09-89,Rotterdam,FC Presikhaaf,PEC Zwolle,2012,Dutch
+19,19,Arsenio Valpoort,NED,F,1.93,90,05-08-92,Amsterdam,SC Heerenveen,PEC Zwolle,2012,Dutch
+20,20,Mustafa Saymak,NED,F,1.69,63,11-02-93,Deventer,SV Schalkhaar,PEC Zwolle,2012,Dutch
+21,21,Leon ter Wielen,NED,G,1.95,95,31-08-88,Raalte,FC Groningen,PEC Zwolle,2012,Dutch
+22,22,Sherwin Grot,NED,F,1.88,74,27-07-90,Arnhem,FC Presikhaaf,PEC Zwolle,2012,Dutch
+23,23,Wiljan Pluim,NED,F,1.90,85,04-01-89,Zwolle,Roda JC,PEC Zwolle,2012,Dutch
+24,24,Ricardo Talu,NED,D,1.80,77,01-04-94,Luanda,None,PEC Zwolle,2012,Dutch
+25,25,Ricardo Malaihollo,NED,M,1.78,72,21-09-93,Hengelo,None,PEC Zwolle,2012,Dutch
+26,26,Ibrahim Ikililou,NED,F,1.78,74,01-07-93,Aledjo-Koura,None,PEC Zwolle,2012,Dutch
+27,27,Mike Koenders,GER,D,,,09-05-92,Nordhorn,FC Emmen,PEC Zwolle,2012,Dutch
+28,28,Haico Epe,NED,D,1.73,61,27-06-95,Harderwijk,None,PEC Zwolle,2012,Dutch
+30,30,Gerard Aafjes,NED,D,1.81,79,27-01-85,Mijdrecht,MVV Maastricht,PEC Zwolle,2012,Dutch
+32,32,Christiaan Cicek,NED,F,1.85,81,03-12-88,Hengelo,Excelsior '31,PEC Zwolle,2012,Dutch
+33,33,Danny Wintjens,NED,G,2.00,76,30-09-83,Maastricht,Fortuna Sittard,PEC Zwolle,2012,Dutch
+35,35,Rodney Geerlinks,NED,G,1.80,70,27-02-95,,None,PEC Zwolle,2012,Dutch
+36,36,Youness Mokhtar,NED,M,1.75,68,29-08-91,Utrecht,PSV Eindhoven,PEC Zwolle,2012,Dutch
+38,38,Giovanni Gravenbeek,NED,D,1.74,72,11-05-88,Utrecht,Willem II,PEC Zwolle,2012,Dutch
+40,40,Rúnar Már Sigurjónsson,ISL,M,1.78,80,30-11-89,Sauðárkrókur,Valur,PEC Zwolle,2012,Dutch
+41,43,Mateusz Klich,POL,M,1.80,67,13-06-90,Tarnów,Wolfsburg,PEC Zwolle,2012,Dutch
+42,44,Denni Avdić,SWE,F,1.90,80,05-09-88,Huskvarna,Werder Bremen,PEC Zwolle,2012,Dutch
+43,46,Djarno Hofland,NED,F,1.73,66,17-03-93,Woerden,AGOVV Apeldoorn,PEC Zwolle,2012,Dutch
+1,1,Przemysław Tytoń,POL,G,1.95,80,04-01-87,Zamość,Roda JC,PSV Eindhoven,2012,Dutch
+2,2,Mathias Zanka Jørgensen,DEN,D,1.91,79,23-04-90,Copenhagen,FC København,PSV Eindhoven,2012,Dutch
+3,3,Wilfred Bouma,NED,D,1.79,83,15-06-78,Helmond,Aston Villa,PSV Eindhoven,2012,Dutch
+4,4,Marcelo,BRA,D,1.91,88,20-05-87,São Vicente,Wisła Kraków,PSV Eindhoven,2012,Dutch
+5,5,Erik Pieters,NED,D,1.86,82,07-08-88,Tiel,FC Utrecht,PSV Eindhoven,2012,Dutch
+6,6,Mark van Bommel,NED,M,1.87,85,22-04-77,Maasbracht,Milan,PSV Eindhoven,2012,Dutch
+7,7,Ola Toivonen,SWE,F,1.90,74,03-07-86,Degerfors,Malmö FF,PSV Eindhoven,2012,Dutch
+8,8,Kevin Strootman,NED,M,1.86,78,13-02-90,Ridderkerk,FC Utrecht,PSV Eindhoven,2012,Dutch
+9,9,Tim Matav,SVN,F,1.88,74,13-01-89,empeter pri Gorici,FC Groningen,PSV Eindhoven,2012,Dutch
+10,10,Georginio Wijnaldum,NED,M,1.72,69,11-11-90,Rotterdam,Feyenoord,PSV Eindhoven,2012,Dutch
+11,11,Jeremain Lens,NED,F,1.78,80,24-11-87,Amsterdam,AZ Alkmaar,PSV Eindhoven,2012,Dutch
+13,13,Atiba Hutchinson,CAN,M,1.87,72,08-02-83,North York,FC København,PSV Eindhoven,2012,Dutch
+14,14,Dries Mertens,BEL,F,1.69,61,06-05-87,Leuven,FC Utrecht,PSV Eindhoven,2012,Dutch
+15,15,Jetro Willems,NED,D,1.69,66,30-03-94,Rotterdam,Sparta Rotterdam,PSV Eindhoven,2012,Dutch
+16,16,Orlando Engelaar,NED,M,1.98,88,24-08-79,Rotterdam,Schalke,PSV Eindhoven,2012,Dutch
+17,17,Luciano Narsingh,NED,M,1.78,69,13-09-90,Amsterdam,SC Heerenveen,PSV Eindhoven,2012,Dutch
+18,18,Timothy Derijck,BEL,D,1.85,77,25-05-87,Liedekerke,ADO Den Haag,PSV Eindhoven,2012,Dutch
+19,19,Jürgen Locadia,NED,F,1.91,79,07-11-93,Emmen,Willem II/RKC,PSV Eindhoven,2012,Dutch
+20,20,Peter van Ooijen,NED,M,1.79,67,16-02-92,Rosmalen,FC Den Bosch,PSV Eindhoven,2012,Dutch
+21,21,Boy Waterman,NED,G,1.88,83,24-01-84,Lelystad,Alemannia Aachen,PSV Eindhoven,2012,Dutch
+22,22,Memphis Depay,NED,F,1.70,65,13-02-94,Moordrecht,Sparta Rotterdam,PSV Eindhoven,2012,Dutch
+24,24,Marcel Ritzmaier,AUT,M,1.81,79,22-04-93,Knittelfeld,Austria Kärnten,PSV Eindhoven,2012,Dutch
+25,25,Menno Koch,NED,D,1.95,78,02-07-94,Heeze,None,PSV Eindhoven,2012,Dutch
+27,27,Oscar Hiljemark,SWE,M,1.84,73,28-06-92,Värnamo,IF Elfsborg,PSV Eindhoven,2012,Dutch
+33,33,Zakaria Bakkali,BEL,F,1.64,59,26-01-96,Liège,None,PSV Eindhoven,2012,Dutch
+37,37,Joshua Brenet,NED,D,1.81,74,20-03-94,Almere,None,PSV Eindhoven,2012,Dutch
+41,41,Nigel Bertrams,NED,G,1.89,81,08-01-93,Best,Best Vooruit,PSV Eindhoven,2012,Dutch
+1,1,Jeroen Zoet,NED,G,1.86,76,06-01-91,Veendam,PSV Eindhoven,RKC Waalwijk,2012,Dutch
+2,2,Sigourney Bandjar,NED,D,1.75,78,18-08-84,Paramaribo,Excelsior,RKC Waalwijk,2012,Dutch
+3,3,Henrico Drost,NED,D,1.83,80,21-01-87,Kampen,SC Heerenveen,RKC Waalwijk,2012,Dutch
+4,4,Frank van Mosselveld,NED,D,1.84,74,02-01-84,Waalwijk,Willem II,RKC Waalwijk,2012,Dutch
+5,5,Ard van Peppen,NED,D,1.82,77,26-06-85,Delft,Excelsior,RKC Waalwijk,2012,Dutch
+6,6,Peter Jungschläger,NED,M,1.82,81,22-05-84,Voorburg,Gold Coast U,RKC Waalwijk,2012,Dutch
+7,7,Florian Jozefzoon,NED,F,1.73,70,09-02-91,Amsterdam,Ajax,RKC Waalwijk,2012,Dutch
+8,8,Rodney Sneijder,NED,M,1.70,65,31-03-91,Utrecht,Ajax,RKC Waalwijk,2012,Dutch
+9,9,Teddy Chevalier,FRA,F,1.80,70,28-06-87,Denain,Zulte-Waregem,RKC Waalwijk,2012,Dutch
+10,10,Robert Braber,NED,F,1.93,77,09-11-82,Rotterdam,Ingolstadt,RKC Waalwijk,2012,Dutch
+11,11,Mart Lieder,NED,F,1.80,75,01-05-90,Purmerend,Vitesse,RKC Waalwijk,2012,Dutch
+12,12,Cuco Martina,CUW,D,1.85,70,25-09-89,Rotterdam,RBC Roosendaal,RKC Waalwijk,2012,Dutch
+14,14,Denzel Slager,NED,F,1.84,81,02-05-93,Amsterdam,FC Utrecht,RKC Waalwijk,2012,Dutch
+15,15,Furhgill Zeldenrust,NED,F,1.75,75,21-07-89,,Texas Dutch Lions,RKC Waalwijk,2012,Dutch
+16,16,Jeff Stans,NED,M,1.82,72,20-03-90,Vlaardingen,Excelsior Maassluis,RKC Waalwijk,2012,Dutch
+17,17,Sander Duits,NED,M,1.83,78,29-08-83,Putten,FC Omniworld,RKC Waalwijk,2012,Dutch
+18,18,Guy Ramos,CPV,M,1.84,83,16-08-86,Rotterdam,FC Dordrecht,RKC Waalwijk,2012,Dutch
+19,19,Mark Janssen,NED,F,1.84,75,10-05-92,Eindhoven,Willem II/RKC,RKC Waalwijk,2012,Dutch
+20,20,Dennis Lemke,GER,F,1.74,75,08-03-89,Berlin,Babelsberg,RKC Waalwijk,2012,Dutch
+21,21,Imad Najah,MAR,D,1.74,70,19-02-91,Utrecht,PSV Eindhoven,RKC Waalwijk,2012,Dutch
+22,22,Arjan van Dijk,NED,G,1.89,78,17-01-87,Utrecht,Excelsior,RKC Waalwijk,2012,Dutch
+23,23,Nourdin Boukhari,MAR,M,1.84,78,30-06-80,Rotterdam,NAC Breda,RKC Waalwijk,2012,Dutch
+24,24,Maik van den Kieboom,NED,G,1.82,84,29-07-91,Breda,None,RKC Waalwijk,2012,Dutch
+25,25,Rewien Ramlal,NED,D,1.70,65,07-03-94,,Willem II/RKC,RKC Waalwijk,2012,Dutch
+26,26,Richard Barroilhet,FRA,M,1.87,80,29-08-92,Westminster,Fulham,RKC Waalwijk,2012,Dutch
+28,28,Thomas Huijben,NED,D,,,14-01-93,,Willem II/RKC,RKC Waalwijk,2012,Dutch
+29,29,Michael Lamey,NED,D,1.86,79,29-11-79,Amsterdam,Wisła Kraków,RKC Waalwijk,2012,Dutch
+32,32,Kenny Anderson,SCO,D,1.80,75,14-02-92,Gorinchem,Willem II/RKC,RKC Waalwijk,2012,Dutch
+33,33,Hafid Sahli,MAR,M,,,,,None,RKC Waalwijk,2012,Dutch
+41,,Jos Peltzer,NED,F,1.88,73,08-04-92,Tiel,Willem II,RKC Waalwijk,2012,Dutch
+1,1,Filip Kurto,POL,G,1.91,82,14-06-91,Olsztyn,Wisła Kraków,Roda JC,2012,Dutch
+2,2,Martijn Monteyne,BEL,D,1.75,69,12-11-84,Roeselare,Germinal Beerschot,Roda JC,2012,Dutch
+3,3,Bart Biemans,BEL,D,1.83,76,14-03-88,Hamont,Willem II,Roda JC,2012,Dutch
+4,4,Rob Wielaert,NED,D,1.78,72,29-12-78,Emmeloord,Ajax,Roda JC,2012,Dutch
+5,5,Abel Tamata,NED,M,1.79,75,05-12-90,Bergen op Zoom,PSV Eindhoven,Roda JC,2012,Dutch
+6,6,Danilo Pereira,POR,M,1.87,60,09-09-91,Bissau,Parma,Roda JC,2012,Dutch
+8,8,Mark-Jan Fledderus,NED,M,1.78,71,14-12-82,Coevorden,Heracles Almelo,Roda JC,2012,Dutch
+9,9,Krisztián Németh,HUN,F,1.79,70,05-01-89,Győr,RKC Waalwijk,Roda JC,2012,Dutch
+10,10,Davy De Beule,BEL,M,1.80,74,07-11-81,Hamme,Kortrijk,Roda JC,2012,Dutch
+11,11,Adil Ramzi,MAR,M,1.79,73,14-07-77,Marrakech,Al-Wakrah,Roda JC,2012,Dutch
+12,12,Frank Demouge,NED,F,1.80,78,25-06-82,Nijmegen,Bournemouth,Roda JC,2012,Dutch
+14,14,Mitchell Donald,NED,M,1.83,80,10-12-88,Amsterdam,Ajax,Roda JC,2012,Dutch
+15,15,Jimmy Hempte,BEL,D,1.80,74,24-03-82,Tournai,Kortrijk,Roda JC,2012,Dutch
+16,16,Sanharib Malki,SYR,F,1.80,76,01-03-84,Al-Qamishli,Lokeren,Roda JC,2012,Dutch
+17,17,Mikołaj Lebedyński,POL,F,1.85,80,14-10-90,Szczecin,Pogoń Szczecin,Roda JC,2012,Dutch
+18,18,Arnaud Djoum,CMR,M,1.83,78,02-05-89,Yaoundé,Anderlecht,Roda JC,2012,Dutch
+19,19,Amin Affane,SWE,M,1.68,63,21-01-94,Angered,Chelsea,Roda JC,2012,Dutch
+20,20,Guus Hupperts,NED,F,1.84,79,25-04-92,Heerlen,None,Roda JC,2012,Dutch
+21,21,Mateusz Prus,POL,G,1.87,78,09-03-90,Zamość,Zagłębie Sosnowiec,Roda JC,2012,Dutch
+26,26,Laurent Delorge,BEL,F,1.79,77,21-09-79,Leuven,Ajax,Roda JC,2012,Dutch
+28,28,Roly Bonevacia,NED,M,1.71,65,08-10-91,Lelystad,Ajax,Roda JC,2012,Dutch
+29,29,Bryan Roox,NED,G,1.85,81,05-11-92,Venlo,VVV Venlo,Roda JC,2012,Dutch
+30,30,Geoffrey Jacobs,NED,G,,,29-09-94,,None,Roda JC,2012,Dutch
+31,31,Dylan Zwartjes,NED,D,,,06-06-93,,None,Roda JC,2012,Dutch
+32,32,Kai Bösing,NED,M,,,07-03-94,,None,Roda JC,2012,Dutch
+33,33,Marvin Novotny,NED,M,,,19-03-93,,RKTSV,Roda JC,2012,Dutch
+34,34,Michel van Veen,NED,F,,,21-02-93,,KRC Genk,Roda JC,2012,Dutch
+35,35,Mitchell Paulissen,NED,M,1.83,74,21-04-93,Kerkrade,None,Roda JC,2012,Dutch
+36,36,Samy Sampaio Gomes,NED,F,,,15-06-93,,None,Roda JC,2012,Dutch
+37,37,Thorben Jansen,BEL,F,,,12-04-94,,None,Roda JC,2012,Dutch
+38,38,Salaheddine Saadan,NED,F,,,17-01-92,,None,Roda JC,2012,Dutch
+39,39,Amin Elalji,NED,F,,,13-12-93,,None,Roda JC,2012,Dutch
+40,40,Randy van Goetham,NED,G,,,14-03-93,,None,Roda JC,2012,Dutch
+41,41,Mateusz Kuzmicki,BEL,D,1.83,72,08-03-93,Olsztyn,None,Roda JC,2012,Dutch
+42,42,Daryl Werker,NED,D,1.90,80,27-06-94,Mechelen,None,Roda JC,2012,Dutch
+43,43,Keverly Albertus,NED,D,,,11-04-90,,RKHVV,Roda JC,2012,Dutch
+44,45,Adnan Sečerović,BIH,M,1.80,74,01-12-91,ivinice,Slaven ivinice,Roda JC,2012,Dutch
+45,47,Jesse Wijnen,NED,D,1.82,,15-12-94,,None,Roda JC,2012,Dutch
+1,1,Sander Boschker,NED,G,1.86,87,20-10-70,Lichtenvoorde,Ajax,FC Twente,2012,Dutch
+2,2,Andreas Bjelland,DEN,D,1.88,85,11-07-88,Fredensborg,FC Nordsjælland,FC Twente,2012,Dutch
+4,4,Peter Wisgerhof,NED,D,1.81,84,19-11-79,Wageningen,NEC Nijmegen,FC Twente,2012,Dutch
+5,5,Robbert Schilder,NED,M,1.78,78,18-04-86,Amstelveen,NAC Breda,FC Twente,2012,Dutch
+6,6,Wout Brama,NED,M,1.76,71,21-08-86,Almelo,PH Almelo,FC Twente,2012,Dutch
+7,7,Denny Landzaat,NED,M,1.78,70,06-05-76,Amsterdam,Feyenoord,FC Twente,2012,Dutch
+8,8,Leroy Fer,NED,M,1.88,79,05-01-90,Zoetermeer,Feyenoord,FC Twente,2012,Dutch
+9,9,Dmitriy Bulikin,RUS,F,1.92,92,20-11-79,Moscow,Ajax,FC Twente,2012,Dutch
+10,10,Duan Tadić,SRB,M,1.81,76,20-11-88,Bačka Topola,FC Groningen,FC Twente,2012,Dutch
+11,11,Jerson Cabral,NED,F,1.77,69,03-01-91,Rotterdam,Feyenoord,FC Twente,2012,Dutch
+13,13,Nikolay Mihaylov,BUL,G,1.94,85,28-06-88,Sofia,Liverpool,FC Twente,2012,Dutch
+14,14,Willem Janssen,NED,M,1.86,75,04-07-86,Nijmegen,Roda JC,FC Twente,2012,Dutch
+15,15,Roberto Rosales,VEN,D,1.74,73,20-11-88,Caracas,KAA Gent,FC Twente,2012,Dutch
+16,16,Tim Breukers,NED,M,1.78,76,04-11-87,Oldenzaal,Heracles Almelo,FC Twente,2012,Dutch
+17,17,Rasmus Bengtsson,SWE,D,1.86,80,26-06-86,Malmö,Hertha Berlin,FC Twente,2012,Dutch
+19,19,Douglas,NED,D,1.92,80,12-01-88,São Paulo,Joinville,FC Twente,2012,Dutch
+20,20,Edson Braafheid,NED,D,1.76,71,08-04-83,Paramaribo,1899 Hoffenheim,FC Twente,2012,Dutch
+21,21,Felipe Gutiérrez,CHI,M,1.70,64,08-10-90,Valparaíso,Universidad Católica,FC Twente,2012,Dutch
+22,22,Nacer Chadli,BEL,M,1.87,80,02-08-89,Liège,AGOVV Apeldoorn,FC Twente,2012,Dutch
+25,25,Daniel Fernandes,POR,G,1.93,99,25-09-83,Edmonton [CAN],CFR Cluj,FC Twente,2012,Dutch
+26,26,Shadrach Eghan,GHA,M,1.65,70,04-07-94,Akosombo,Golden Boot Academy,FC Twente,2012,Dutch
+30,30,Luc Castaignos,NED,F,1.88,78,27-02-92,Rotterdam,Internazionale,FC Twente,2012,Dutch
+31,31,Filip Bednarek,POL,G,1.88,81,26-09-92,Kleczew,Amica Wronki,FC Twente,2012,Dutch
+34,34,Andrej Rendla,SVK,F,1.88,78,13-10-90,Banská Bystrica,Dukla Banská Bystrica,FC Twente,2012,Dutch
+35,35,Timo Plattel,NED,G,1.90,78,12-03-94,Apeldoorn,None,FC Twente,2012,Dutch
+37,37,Tim Hölscher,GER,M,1.85,78,21-02-95,Gronau,None,FC Twente,2012,Dutch
+38,38,Mirco Born,GER,F,1.75,69,28-06-94,Haren (Ems),Meppen,FC Twente,2012,Dutch
+39,39,Joey Pelupessy,NED,D,1.72,63,15-05-93,Nijverdal,None,FC Twente,2012,Dutch
+40,40,Wouter Dronkers,NED,G,,,03-05-93,,None,FC Twente,2012,Dutch
+41,41,Coen Gortemaker,NED,D,1.85,76,29-01-94,Enschede,None,FC Twente,2012,Dutch
+42,42,Abdul Nury,NED,M,,,01-06-95,,None,FC Twente,2012,Dutch
+43,43,Mark Engberink,NED,D,1.76,69,12-08-92,Enschede,None,FC Twente,2012,Dutch
+44,44,Kris Fillinger,GER,D,,,22-03-93,,None,FC Twente,2012,Dutch
+45,45,Edwin Gyasi,NED,F,1.82,75,01-07-91,Amsterdam,De Graafschap,FC Twente,2012,Dutch
+46,46,Felitciano Zschusschen,NED,F,1.80,70,24-01-92,Breda,NAC Breda,FC Twente,2012,Dutch
+1,1,Robbin Ruiter,NED,G,1.96,78,25-03-87,Amsterdam,FC Volendam,FC Utrecht,2012,Dutch
+3,3,Mike van der Hoorn,NED,D,1.90,81,15-10-92,Almere,None,FC Utrecht,2012,Dutch
+5,5,Michael Zullo,AUS,D,1.70,62,11-09-88,Brisbane,Brisbane Roar,FC Utrecht,2012,Dutch
+6,6,Johan Mårtensson,SWE,M,1.80,72,16-02-89,Skövde,GAIS,FC Utrecht,2012,Dutch
+7,7,Édouard Duplan,FRA,F,1.80,75,13-05-83,Athis-Mons,Sparta Rotterdam,FC Utrecht,2012,Dutch
+8,8,Jacob Mulenga,ZAM,F,1.86,80,12-02-84,Kitwe,Châteauroux,FC Utrecht,2012,Dutch
+10,10,Tommy Oar,AUS,M,1.70,64,10-12-91,Southport [AUS],Brisbane Roar,FC Utrecht,2012,Dutch
+11,11,Cedric van der Gun,NED,F,1.78,75,05-05-79,Den Haag,Swansea C,FC Utrecht,2012,Dutch
+12,12,Leon de Kogel,NED,F,1.94,90,13-11-91,Alphen aan den Rijn,Houten,FC Utrecht,2012,Dutch
+13,13,Erik Cummins,NED,G,1.83,84,10-08-88,Rotterdam,Feyenoord,FC Utrecht,2012,Dutch
+14,14,Mark van der Maarel,NED,D,1.86,78,12-08-89,Arnhem,Haarlem,FC Utrecht,2012,Dutch
+15,15,Nana Asare,GHA,M,1.75,65,11-07-86,Kumasi,Mechelen,FC Utrecht,2012,Dutch
+16,16,Yassin Ayoub,NED,M,1.69,67,06-03-94,Amsterdam,None,FC Utrecht,2012,Dutch
+18,18,Yoshiaki Takagi,JPN,M,1.67,67,09-12-92,Yokohama,Tokyo Verdy,FC Utrecht,2012,Dutch
+19,19,Adam Sarota,AUS,M,1.80,72,28-12-88,Gordonvale,Brisbane Roar,FC Utrecht,2012,Dutch
+20,20,Anouar Kali,NED,M,1.67,65,03-06-91,Utrecht,Ajax,FC Utrecht,2012,Dutch
+21,21,Kai Heerings,NED,D,1.91,81,12-01-90,Amsterdam,Ajax,FC Utrecht,2012,Dutch
+22,22,Jens Toornstra,NED,M,1.78,74,01-01-89,Ter Aar,ADO Den Haag,FC Utrecht,2012,Dutch
+23,23,Marcus Nilsson,SWE,D,1.94,82,26-02-88,Helsingborg,Helsingborgs IF,FC Utrecht,2012,Dutch
+24,24,Bob Schepers,NED,F,1.83,75,30-03-92,Enschede,Cambuur Leeuwarden,FC Utrecht,2012,Dutch
+26,26,Jeroen Verhoeven,NED,G,1.94,99,30-04-80,Naarden,Ajax,FC Utrecht,2012,Dutch
+28,28,Dave Bulthuis,NED,D,1.89,82,28-06-90,Purmerend,FC Volendam,FC Utrecht,2012,Dutch
+29,29,Jan Wuytens,BEL,D,1.89,77,09-06-85,Hasselt,Heracles Almelo,FC Utrecht,2012,Dutch
+31,31,Gévero Markiet,NED,D,1.83,90,08-04-91,Amsterdam,FC Omniworld,FC Utrecht,2012,Dutch
+33,33,Kenny Teijsse,NED,M,1.83,80,12-07-92,Amsterdam,None,FC Utrecht,2012,Dutch
+34,34,Thijs van Hofwegen,NED,D,,,13-04-92,,AZ Alkmaar,FC Utrecht,2012,Dutch
+38,38,Yannick Cortie,NED,D,1.83,74,07-05-93,Amsterdam,None,FC Utrecht,2012,Dutch
+40,40,Elroy Pappot,NED,M,1.80,70,20-04-93,Blaricum,None,FC Utrecht,2012,Dutch
+41,41,Soufian Moro,NED,F,1.74,71,21-02-93,Amsterdam,FC Volendam,FC Utrecht,2012,Dutch
+42,48,Romano van der Stoep,NED,F,,,11-11-94,,VV Haaglandia/Sir Winston,FC Utrecht,2012,Dutch
+43,49,Cedric Badjeck,CMR,F,1.78,75,25-01-95,,None,FC Utrecht,2012,Dutch
+1,1,Eloy Room,NED,G,1.89,79,06-02-89,Nijmegen,Union,Vitesse,2012,Dutch
+2,2,Tomá Kalas,CZE,D,1.84,71,15-05-93,Olomouc,Chelsea,Vitesse,2012,Dutch
+3,3,Dan Mori,ISR,D,1.86,78,08-11-88,Tel Aviv,Bnei Yehuda Tel Aviv,Vitesse,2012,Dutch
+5,5,Theo Janssen,NED,M,1.80,80,27-07-81,Arnhem,Ajax,Vitesse,2012,Dutch
+6,6,Frank van der Struijk,NED,D,1.83,69,28-03-85,Boxtel,Willem II,Vitesse,2012,Dutch
+8,8,Marco van Ginkel,NED,M,1.80,67,01-12-92,Amersfoort,None,Vitesse,2012,Dutch
+9,9,Wilfried Bony,CIV,F,1.82,80,10-12-88,Bingerville,Sparta Prague,Vitesse,2012,Dutch
+10,10,Davy Pröpper,NED,M,1.85,72,02-09-91,Arnhem,None,Vitesse,2012,Dutch
+13,13,Jonathan Reis,BRA,F,1.82,82,06-06-89,Contagem,PSV Eindhoven,Vitesse,2012,Dutch
+14,14,Mike Havenaar,JPN,F,1.94,81,20-05-87,Hiroshima,Ventforet Kofu,Vitesse,2012,Dutch
+15,15,Simon Cziommer,GER,M,1.78,69,06-11-80,Nordhorn,Red Bull Salzburg,Vitesse,2012,Dutch
+16,16,Michihiro Yasuda,JPN,M,1.73,65,20-12-87,Osaka,Gamba Osaka,Vitesse,2012,Dutch
+18,18,Valeri Kazaishvili,GEO,F,1.83,74,29-01-93,Ozurgeti,Olimpi Rustavi,Vitesse,2012,Dutch
+20,20,Gaël Kakuta,FRA,F,1.73,65,21-06-91,Lille,Chelsea,Vitesse,2012,Dutch
+21,21,Marko Meerits,EST,G,1.86,84,26-04-92,Tallinn,Flora Tallinn,Vitesse,2012,Dutch
+22,22,Piet Velthuizen,NED,G,1.89,88,03-11-86,Nijmegen,Hércules,Vitesse,2012,Dutch
+23,23,Jan-Arie van der Heijden,NED,M,1.82,70,03-03-88,Schoonhoven,Ajax,Vitesse,2012,Dutch
+25,25,Nikola Aksentijević,SRB,D,1.79,72,09-03-93,Kragujevac,Chelsea,Vitesse,2012,Dutch
+28,28,Sebastiaan van der Sman,NED,G,1.88,86,23-07-88,Arnhem,ESA,Vitesse,2012,Dutch
+30,30,Renato Ibarra,ECU,M,1.80,70,20-01-91,Ambuquí,El Nacional,Vitesse,2012,Dutch
+32,32,Just Berends,NED,D,1.84,74,24-04-92,Vaassen,None,Vitesse,2012,Dutch
+33,33,Anderson,BRA,D,1.78,72,10-06-92,Rio de Janeiro,Flamengo,Vitesse,2012,Dutch
+34,34,Sander van der Streek,NED,M,1.80,74,24-03-93,Barneveld,SDV Barneveld,Vitesse,2012,Dutch
+37,37,Guram Kashia,GEO,D,1.86,78,04-07-87,Tbilisi,Dinamo Tbilisi,Vitesse,2012,Dutch
+38,38,Patrick van Aanholt,NED,D,1.75,67,29-08-90,'s-Hertogenbosch,Chelsea,Vitesse,2012,Dutch
+39,39,Wimilio Vink,NED,M,1.73,68,13-09-93,Tiel,None,Vitesse,2012,Dutch
+41,41,Nando Wormgoor,NED,D,1.83,79,17-02-92,Leersum,None,Vitesse,2012,Dutch
+42,44,Brahim Darri,NED,F,1.77,70,14-09-94,Amersfoort,None,Vitesse,2012,Dutch
+43,49,Mathew Morais,NED,D,,,17-02-92,Rotterdam,FC Dordrecht,Vitesse,2012,Dutch
+1,1,Niclas Heimann,GER,G,1.94,84,12-03-91,Engelskirchen,Red Bull Salzburg,VVV Venlo,2012,Dutch
+2,2,Ahmed Ammi,NED,D,1.79,73,19-01-81,Temsaman,ADO Den Haag,VVV Venlo,2012,Dutch
+3,3,Nils Röseler,GER,D,1.92,84,10-02-92,Bad Bentheim,FC Twente,VVV Venlo,2012,Dutch
+4,4,Ismo Vorstermans,NED,D,1.84,77,30-03-89,Almere,FC Utrecht,VVV Venlo,2012,Dutch
+5,5,Niels Fleuren,NED,D,1.76,71,01-11-86,Boxmeer,None,VVV Venlo,2012,Dutch
+6,6,Aleksandar Radosavljevič,SVN,M,1.82,77,25-04-79,Kranj,ADO Den Haag,VVV Venlo,2012,Dutch
+7,7,Jules Reimerink,NED,F,1.85,77,30-09-89,Oldenzaal,Energie Cottbus,VVV Venlo,2012,Dutch
+9,9,Uche Nwofor,NGA,F,1.84,78,17-09-91,Onitsha,Enugu Rangers,VVV Venlo,2012,Dutch
+10,10,Robert Cullen,JPN,F,1.80,75,07-06-85,Ibaraki,Roasso Kumamoto,VVV Venlo,2012,Dutch
+11,11,Bryan Linssen,NED,M,1.70,64,08-10-90,Neeritter,MVV Maastricht,VVV Venlo,2012,Dutch
+12,12,Niki Mäenpää,FIN,G,1.92,92,23-01-85,Espoo,AZ Alkmaar,VVV Venlo,2012,Dutch
+14,14,Oguzhan Türk,NED,M,1.73,72,17-05-86,Kampen,Cambuur Leeuwarden,VVV Venlo,2012,Dutch
+15,15,Roland Bergkamp,NED,F,1.94,84,03-04-91,Amstelveen,Brighton & HA,VVV Venlo,2012,Dutch
+17,17,Yuki Otsu,JPN,M,1.80,73,24-03-90,Ibaraki,B Mönchengladbach,VVV Venlo,2012,Dutch
+18,18,Barry Maguire,NED,D,1.80,80,27-10-89,Tiel,FC Utrecht,VVV Venlo,2012,Dutch
+19,19,Marcel Seip,NED,D,1.82,78,05-04-82,Winschoten,Bradford C,VVV Venlo,2012,Dutch
+20,20,Kaj Ramsteijn,NED,D,1.87,80,17-01-90,Zoetermeer,Feyenoord,VVV Venlo,2012,Dutch
+21,21,Rick van Haaren,NED,M,1.78,77,21-06-91,Rotterdam,Feyenoord,VVV Venlo,2012,Dutch
+22,22,Robin Udegbe,GER,G,1.91,90,20-03-91,Kiel,Düsseldorf-West,VVV Venlo,2012,Dutch
+23,23,Travis Cooper,AUS,F,1.84,79,21-12-93,Buderim,Central Coast Mariners,VVV Venlo,2012,Dutch
+24,24,Guus Joppen,NED,D,1.80,80,14-11-89,Eindhoven,Helmond Sport,VVV Venlo,2012,Dutch
+25,25,Jeffrey Altheer,NED,D,1.78,78,09-03-87,Rotterdam,Helmond Sport,VVV Venlo,2012,Dutch
+26,26,Jeffrey Leiwakabessy,NED,D,1.72,65,23-02-81,Arnhem,Anorthosis Famagusta,VVV Venlo,2012,Dutch
+30,30,Yanic Wildschut,NED,F,1.87,86,01-11-91,Amsterdam,FC Zwolle,VVV Venlo,2012,Dutch
+32,32,Aaron Gielen,NED,M,1.75,73,06-02-93,Heythuysen,None,VVV Venlo,2012,Dutch
+1,1,David Meul,BEL,G,1.94,83,07-03-81,Melsele,Cambuur Leeuwarden,Willem II,2012,Dutch
+2,2,Kees van Buuren,NED,D,1.71,71,27-07-86,Lopik,FC Den Bosch,Willem II,2012,Dutch
+3,3,Ruud van der Rijt,NED,D,1.81,81,17-11-88,Nijnsel,FC Eindhoven,Willem II,2012,Dutch
+4,4,Jordens Peters,NED,D,1.82,78,03-05-87,Nijmegen,FC Den Bosch,Willem II,2012,Dutch
+5,5,Mitchell Piqué,NED,D,1.74,65,20-11-79,Amsterdam,ADO Den Haag,Willem II,2012,Dutch
+6,6,Hans Mulder,NED,M,1.80,76,27-04-87,Amsterdam,RKC Waalwijk,Willem II,2012,Dutch
+7,7,Genaro Snijders,NED,F,1.76,69,29-07-89,Amsterdam,Vitesse,Willem II,2012,Dutch
+8,8,Robbie Haemhouts,NED,M,1.74,63,09-12-83,Brasschaat,Helmond Sport,Willem II,2012,Dutch
+9,9,Aurélien Joachim,LUX,F,1.85,82,10-08-86,Luxembourg,F91 Dudelange,Willem II,2012,Dutch
+10,10,Marc Höcher,NED,F,1.80,70,09-09-84,Almelo,ADO Den Haag,Willem II,2012,Dutch
+11,11,Virgil Misidjan,NED,F,1.73,68,24-07-93,Tilburg,None,Willem II,2012,Dutch
+12,12,Ricardo Ippel,NED,M,1.76,74,31-08-90,Hank,None,Willem II,2012,Dutch
+13,13,Tim Cornelisse,NED,D,1.84,73,03-04-78,Alkmaar,FC Twente,Willem II,2012,Dutch
+14,14,Philipp Haastrup,GER,D,1.88,76,05-03-82,Münster,Helmond Sport,Willem II,2012,Dutch
+15,15,Niek Vossebelt,NED,M,1.84,80,07-08-91,Harderwijk,FC Zwolle,Willem II,2012,Dutch
+16,16,Danny Guijt,NED,M,1.86,77,07-02-81,Leiden,Cambuur Leeuwarden,Willem II,2012,Dutch
+17,17,Jeroen Lumu,NED,F,1.78,73,27-05-95,Breda,None,Willem II,2012,Dutch
+18,18,Sofian Akouili,MAR,M,1.81,81,28-02-89,Nador,SC Heerenveen,Willem II,2012,Dutch
+19,19,Simon van Zeelst,NED,M,1.81,72,23-02-94,'s-Hertogenbosch,None,Willem II,2012,Dutch
+20,20,Kevin Brands,NED,M,1.85,82,23-03-88,Waalwijk,Telstar,Willem II,2012,Dutch
+21,21,Arjan Christianen,NED,G,1.88,79,19-12-82,Oud Gastel,RBC Roosendaal,Willem II,2012,Dutch
+22,22,Jens Podevijn,BEL,M,1.76,68,18-07-89,Aalst,Eendracht Aalst,Willem II,2012,Dutch
+23,23,Gaby Jallo,NED,D,1.78,71,01-01-89,Kamechle,Heracles Almelo,Willem II,2012,Dutch
+24,24,Ryan Sanusi,BEL,M,1.81,76,05-01-92,Borgerhout,Beerschot AC,Willem II,2012,Dutch
+25,25,Larbi El Harouchi,NED,M,1.73,70,11-12-93,Rotterdam,Feyenoord,Willem II,2012,Dutch
+26,26,Jonas van Kerckhoven,BEL,M,,,04-02-94,Bornem,Club Brugge,Willem II,2012,Dutch
+27,27,Maxim Deckers,BEL,M,1.80,75,24-01-94,Kalmthout,None,Willem II,2012,Dutch
+28,28,Donny van der Wal,NED,D,,,29-04-93,Amsterdam,None,Willem II,2012,Dutch
+29,29,Stijn Derkx,NED,F,1.80,75,03-02-95,Heeze,None,Willem II,2012,Dutch
+30,30,Nicky Hofs,NED,M,1.70,70,17-05-83,Arnhem,Vitesse,Willem II,2012,Dutch
+31,31,Mattijs Branderhorst,NED,G,1.92,87,31-12-93,Tiel,None,Willem II,2012,Dutch

@@ -1,0 +1,503 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,João Gomes,POR,G,1.89,79,29-04-97,Castelo Branco,None,Acadйmica,2015,Portuguese
+2,2,Aderlan,BRA,D,1.80,69,18-08-90,Campina Grande,Corinthians Alagoano,Acadйmica,2015,Portuguese
+3,3,Emídio Rafael,POR,D,1.82,73,24-01-86,Lisbon,Estoril,Acadйmica,2015,Portuguese
+4,4,Nwankwo Obiora,NGA,M,1.83,77,12-07-91,Kaduna,Córdoba,Acadйmica,2015,Portuguese
+5,5,Ricardo Nascimento,BRA,D,1.91,80,07-02-87,Ilhéus,Olé Brasil,Acadйmica,2015,Portuguese
+6,6,Tripy Makonda,FRA,D,1.80,70,24-01-90,Ivry-sur-Seine,Brest,Acadйmica,2015,Portuguese
+7,7,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Acadйmica,2015,Portuguese
+8,8,Selim Bouadla,FRA,M,1.71,67,26-08-88,Rosny-sous-Bois,Debrecen,Acadйmica,2015,Portuguese
+9,9,Rabiola,POR,F,1.80,69,25-07-89,Guimarães,Penafiel,Acadйmica,2015,Portuguese
+10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Olhanense,Acadйmica,2015,Portuguese
+13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Acadйmica,2015,Portuguese
+14,14,Iago,BRA,D,1.88,78,22-05-92,Itaboraí,Duque de Caxias,Acadйmica,2015,Portuguese
+17,17,Inters Gui,CIV,F,1.73,68,08-08-93,Bingerville,Vitória Guimarães,Acadйmica,2015,Portuguese
+19,19,Gonçalo Paciência,POR,F,1.84,78,01-08-94,Porto,FC Porto,Acadйmica,2015,Portuguese
+20,20,Rui Pedro,POR,F,1.80,73,02-07-88,VIla Nova de Gaia,CFR Cluj,Acadйmica,2015,Portuguese
+21,21,Leandro Silva,POR,M,1.73,71,04-05-94,Castelo de Paiva,FC Porto,Acadйmica,2015,Portuguese
+22,22,Christopher Oualembo,COD,D,1.78,70,31-01-87,St-Germain-en-Laye,Lechia Gdańsk,Acadйmica,2015,Portuguese
+23,23,William Gustavo,BRA,D,1.93,79,09-01-92,São Paulo,Grêmio Anápolis,Acadйmica,2015,Portuguese
+24,24,Ki Hwang-Mun,KOR,M,1.76,75,08-12-96,Seoul,None,Acadйmica,2015,Portuguese
+27,27,Pedro Nuno,POR,M,1.74,69,13-01-95,Buarcos,None,Acadйmica,2015,Portuguese
+28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Olhanense,Acadйmica,2015,Portuguese
+30,30,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Penafiel,Acadйmica,2015,Portuguese
+32,32,Lee,BRA,G,1.88,86,09-03-88,São Paulo,Atlético Mineiro,Acadйmica,2015,Portuguese
+37,37,Richard Ofori,GHA,D,1.81,65,24-04-93,Accra,Tudu Mighty Jets,Acadйmica,2015,Portuguese
+41,43,Nii Plange,GHA,D,1.75,70,26-06-89,Accra,Vitória Guimarães,Acadйmica,2015,Portuguese
+42,48,Artur Taborda,POR,M,1.81,77,12-07-96,Coimbra,None,Acadйmica,2015,Portuguese
+43,55,Rafa Soares,POR,D,1.82,75,09-05-95,Marco de Canaveses,FC Porto,Acadйmica,2015,Portuguese
+44,65,Fernando Alexandre,POR,M,1.76,76,02-08-85,Lourinhã,Olhanense,Acadйmica,2015,Portuguese
+45,77,Hugo Sêco,BRA,F,1.78,72,17-06-88,Lousã,Benfica Castelo Branco,Acadйmica,2015,Portuguese
+46,88,Pedro Trigueira,POR,G,1.92,91,04-01-88,Baltar,União da Madeira,Acadйmica,2015,Portuguese
+1,1,Rafael Bracali,BRA,G,1.84,76,05-05-81,São Paulo,Panetolikos,Arouca,2015,Portuguese
+3,3,Hugo Basto,POR,D,1.88,81,14-05-93,Porto,Sporting Braga,Arouca,2015,Portuguese
+4,4,José Manuel Velázquez,VEN,D,1.82,70,08-09-90,Ciudad Bolívar,Mineros de Guayana,Arouca,2015,Portuguese
+6,6,Lima,BRA,D,1.78,72,10-10-91,Estação,ABC,Arouca,2015,Portuguese
+7,7,Artur,POR,M,1.75,69,18-02-84,Cacia,Chornomorets Odessa,Arouca,2015,Portuguese
+8,8,David Simão,POR,M,1.79,81,15-05-90,Versailles,Benfica,Arouca,2015,Portuguese
+10,10,Carlos Pintassilgo,POR,M,1.68,68,30-06-85,Felgueiras,Moreirense,Arouca,2015,Portuguese
+11,11,Ivo Rodrigues,POR,F,1.79,73,30-03-95,Baguim do Monte,FC Porto,Arouca,2015,Portuguese
+12,12,Mateus,ANG,F,1.74,72,19-06-84,Luanda,1º de Agosto,Arouca,2015,Portuguese
+13,13,Jaílson,BRA,D,1.70,67,21-01-91,João Pessoa,Grêmio Anápolis,Arouca,2015,Portuguese
+14,14,Gegé,CPV,D,1.83,81,24-02-88,Praia,Marítimo,Arouca,2015,Portuguese
+16,16,Tomás Dabó,POR,D,1.73,71,20-10-93,Bissau,Sporting Braga,Arouca,2015,Portuguese
+17,17,Roberto,POR,F,1.80,75,28-11-88,Porto,FC Tosno,Arouca,2015,Portuguese
+21,21,Jorginho,POR,M,1.69,68,21-09-95,Bissau,Manchester C,Arouca,2015,Portuguese
+22,22,Adilson,BRA,M,1.80,76,09-02-88,Goiânia,Bragantino,Arouca,2015,Portuguese
+24,24,Emiliano Albín,URU,D,1.76,75,24-01-89,Sauce,Peñarol,Arouca,2015,Portuguese
+28,28,Alex,POR,M,1.78,72,28-01-97,Arouca,None,Arouca,2015,Portuguese
+33,33,Jubal,BRA,D,1.90,79,29-08-93,Inhuma,Santos,Arouca,2015,Portuguese
+37,37,Igor Rocha,POR,G,1.84,78,04-03-93,Santa Maria da Feira,Nacional [POR],Arouca,2015,Portuguese
+41,50,Nuno Valente,POR,M,1.74,70,22-11-91,Adaúfe,Sporting Braga,Arouca,2015,Portuguese
+42,55,Nelsinho,BRA,D,1.76,67,01-01-88,Cruz das Almas,Portimonense,Arouca,2015,Portuguese
+43,66,Nuno Coelho,POR,D,1.81,73,23-11-87,Covilhã,Benfica,Arouca,2015,Portuguese
+44,85,Rui Sacramento,POR,G,1.84,84,31-01-85,Matosinhos,Leixões,Arouca,2015,Portuguese
+45,87,Zequinha,POR,F,1.83,74,07-01-87,Setúbal,Vitória Setúbal,Arouca,2015,Portuguese
+46,95,Walter González,PAR,F,1.85,79,21-05-95,Doctor Juan León Mallorquín,Olimpia [PAR],Arouca,2015,Portuguese
+47,99,Maurides,BRA,F,1.87,80,10-03-94,Colombia,Internacional,Arouca,2015,Portuguese
+1,1,Ricardo Ribeiro,POR,G,1.83,73,27-01-90,Moreira de Cónegos,Olhanense,Belenenses,2015,Portuguese
+2,2,João Amorim,POR,D,1.78,74,26-07-92,Ribeirão,Académico Viseu,Belenenses,2015,Portuguese
+4,4,Tonel,POR,D,1.84,79,13-04-80,Lourosa,Feirense,Belenenses,2015,Portuguese
+6,6,Ruben Pinto,POR,M,1.81,69,24-04-92,Odivelas,Benfica,Belenenses,2015,Portuguese
+7,7,Miguel Rosa,POR,M,1.78,67,13-01-89,Lisbon,Benfica,Belenenses,2015,Portuguese
+8,8,André Sousa,POR,M,1.81,78,09-07-90,Lisbon,Académico Viseu,Belenenses,2015,Portuguese
+9,9,Tiago Caeiro,POR,F,1.92,82,29-03-84,Vila Franca de Xira,Atlético CP,Belenenses,2015,Portuguese
+10,10,Tiago Silva,POR,M,1.70,71,02-06-93,Lisbon,None,Belenenses,2015,Portuguese
+17,17,Fábio Sturgeon,POR,M,1.83,78,04-02-94,Almada,None,Belenenses,2015,Portuguese
+18,18,Dias,POR,M,1.88,78,25-02-91,Aveiro,Beira-Mar,Belenenses,2015,Portuguese
+19,19,Geraldes,POR,D,1.81,70,02-05-91,Maia,Sporting CP,Belenenses,2015,Portuguese
+20,20,Filipe Ferreira,POR,D,1.78,70,27-09-90,Lisbon,Atlético CP,Belenenses,2015,Portuguese
+21,21,Tiago Almeida,POR,D,1.82,78,13-09-90,Lisbon,None,Belenenses,2015,Portuguese
+22,22,Carlos Martins,POR,M,1.72,72,29-04-82,Lisbon,Benfica,Belenenses,2015,Portuguese
+23,23,Juanto,ESP,F,1.77,70,11-02-92,Yecla,Llagostera,Belenenses,2015,Portuguese
+24,24,Ventura,POR,G,1.86,85,14-01-88,Vila Nova de Gaia,Rio Ave,Belenenses,2015,Portuguese
+26,26,Abel Aguilar,COL,M,1.85,82,06-01-85,Santa Fe de Bogota,Toulouse,Belenenses,2015,Portuguese
+28,28,Gonçalo Brandão,POR,D,1.82,72,09-10-86,Lisbon,Parma,Belenenses,2015,Portuguese
+36,36,Lucas Pugh,ARG,F,1.80,71,01-01-94,Avellaneda,Arsenal [ARG],Belenenses,2015,Portuguese
+37,37,Gonçalo Silva,POR,D,1.86,76,04-06-91,Barreiro,Sporting Braga,Belenenses,2015,Portuguese
+41,44,Rafael Amorim,BRA,D,1.94,90,30-07-87,Bilac,Al-Mesaimeer,Belenenses,2015,Portuguese
+42,47,Palmeira,POR,D,1.87,78,24-09-89,Constantim,Tondela,Belenenses,2015,Portuguese
+43,77,Filipe Mendes,POR,G,1.84,78,17-06-85,Lisbon,Lousada,Belenenses,2015,Portuguese
+44,88,Marko Bakić,MNE,M,1.87,73,01-11-93,Budva,Fiorentina,Belenenses,2015,Portuguese
+45,92,Fábio Nunes,POR,M,1.76,75,24-07-92,Portimão,Latina,Belenenses,2015,Portuguese
+1,1,Ederson,BRA,G,1.88,89,17-08-93,Osasco,Rio Ave,Benfica,2015,Portuguese
+2,2,Lisandro López,ARG,D,1.87,79,01-09-89,Villa Constitución,Arsenal [ARG],Benfica,2015,Portuguese
+3,3,Alex Grimaldo,ESP,D,1.70,60,20-09-95,Valencia,Barcelona B,Benfica,2015,Portuguese
+4,4,Luisão,BRA,D,1.93,95,13-02-81,Amparo,Cruzeiro,Benfica,2015,Portuguese
+5,5,Ljubomir Fejsa,SRB,M,1.85,78,14-08-88,Belgrade,Olympiakos,Benfica,2015,Portuguese
+7,7,Andreas Samaris,GRE,M,1.89,80,13-06-89,Patras,Olympiakos,Benfica,2015,Portuguese
+8,8,Bilal Ould-Chikh,NED,F,1.67,63,28-07-97,Roosendaal,FC Twente,Benfica,2015,Portuguese
+9,9,Raúl Jiménez,MEX,F,1.90,76,05-05-91,Tepeji,Atlético Madrid,Benfica,2015,Portuguese
+10,10,Nicolás Gaitán,ARG,M,1.73,67,23-02-88,San Martín,Boca Juniors,Benfica,2015,Portuguese
+11,11,Kostas Mitroglou,GRE,F,1.88,85,12-03-88,Kavala,Fulham,Benfica,2015,Portuguese
+12,12,Júlio César,BRA,G,1.86,79,03-09-79,Rio de Janeiro,QPR,Benfica,2015,Portuguese
+13,13,Paulo Lopes,POR,G,1.84,76,29-06-78,Mirandela,Feirense,Benfica,2015,Portuguese
+14,14,Victor Lindelöf,SWE,D,1.87,82,17-07-94,Västerås,Västerås SK,Benfica,2015,Portuguese
+17,17,Jonas,BRA,F,1.83,73,01-04-84,Bebedouro,Valencia,Benfica,2015,Portuguese
+18,18,Eduardo Salvio,ARG,M,1.73,76,13-05-90,Avellaneda,Atlético Madrid,Benfica,2015,Portuguese
+19,19,Eliseu,POR,D,1.75,75,01-10-83,Acoras,Málaga,Benfica,2015,Portuguese
+20,20,Gonçalo Guedes,POR,F,1.75,68,29-11-96,Benavente,None,Benfica,2015,Portuguese
+21,21,Pizzi,POR,M,1.77,69,06-10-89,Bragança,Atlético Madrid,Benfica,2015,Portuguese
+23,23,Adel Taarabt,MAR,M,1.80,76,24-05-89,Taza,QPR,Benfica,2015,Portuguese
+28,28,Sílvio,POR,D,1.78,72,28-09-87,Lisbon,Atlético Madrid,Benfica,2015,Portuguese
+30,30,Anderson Talisca,BRA,M,1.88,72,01-02-94,Feira de Santana,Bahía,Benfica,2015,Portuguese
+33,33,Jardel,BRA,D,1.92,85,29-03-86,Florianópolis,Desportivo Brasil,Benfica,2015,Portuguese
+34,34,André Almeida,POR,D,1.86,75,10-09-90,Lisbon,Belenenses,Benfica,2015,Portuguese
+35,35,Luka Jović,SRB,F,1.81,79,23-12-97,Bijeljina,Crvena Zvezda,Benfica,2015,Portuguese
+38,38,Nuno Santos,POR,F,1.76,73,13-02-95,Trofa,Rio Ave,Benfica,2015,Portuguese
+39,39,Mehdi Carcela-Gonzalez,MAR,M,1.76,67,01-07-89,Liège,Standard Liège,Benfica,2015,Portuguese
+41,50,Nélson Semedo,POR,D,1.77,67,16-11-93,Lisbon,Sintrense,Benfica,2015,Portuguese
+42,85,Renato Sanches,POR,M,1.76,75,18-08-97,Lisbon,None,Benfica,2015,Portuguese
+1,1,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,Atlético CP,Boavista,2015,Portuguese
+3,3,Fábio Ervões,POR,D,1.85,81,26-02-87,Valpaços,Penafiel,Boavista,2015,Portuguese
+4,4,Reuben Gabriel,NGA,M,1.95,86,25-09-90,Kaduna,Waasland-Beveren,Boavista,2015,Portuguese
+5,5,Paulo Vinícius,BRA,D,1.86,84,12-08-84,Cuiabá,Operário,Boavista,2015,Portuguese
+6,6,Anderson Correia,BRA,D,1.77,68,06-05-91,São Paulo,São Paulo-RS,Boavista,2015,Portuguese
+7,7,Rúben Ribeiro,POR,M,1.75,67,01-08-87,Ramalde,Paços de Ferreira,Boavista,2015,Portuguese
+8,8,Tengarrinha,POR,M,1.87,72,17-02-89,Sátão,Chaves,Boavista,2015,Portuguese
+9,9,Uche Nwofor,NGA,F,1.84,78,17-09-91,Onitsha,Lierse,Boavista,2015,Portuguese
+11,11,Mario Martínez,ESP,M,1.73,67,25-03-85,Soria,Blooming,Boavista,2015,Portuguese
+12,12,Gideão,BRA,G,1.91,89,19-12-87,Vitória,Náutico,Boavista,2015,Portuguese
+14,14,Emmanuel Hackman,GHA,D,1.87,71,14-05-95,Accra,Vila Real,Boavista,2015,Portuguese
+15,15,Douglas Abner,BRA,F,1.75,63,30-01-96,Brasília,Corinthians,Boavista,2015,Portuguese
+17,17,Renato Santos,POR,F,1.70,76,05-10-91,Pardilhó,Rio Ave,Boavista,2015,Portuguese
+21,21,Aymen Tahar,ALG,M,1.78,78,02-10-89,Algiers,Steaua București,Boavista,2015,Portuguese
+22,22,Carlos Santos,POR,D,1.88,93,31-03-89,Barroselas,Coimbrões,Boavista,2015,Portuguese
+23,23,Henrique,POR,D,1.86,75,19-10-86,Fafe,Feirense,Boavista,2015,Portuguese
+25,25,Afonso Figueiredo,POR,D,1.69,63,06-01-93,Oeiras,Sporting Braga,Boavista,2015,Portuguese
+27,27,Anderson Carvalho,BRA,M,1.76,74,20-05-90,Cubatão,Santos,Boavista,2015,Portuguese
+28,28,Tiago Mesquita,POR,D,1.80,74,23-11-90,Vila Nova de Famalicão,Freamunde,Boavista,2015,Portuguese
+29,29,Mamadou Ba,SEN,G,1.98,86,08-05-85,Dakar,Oliveirense,Boavista,2015,Portuguese
+30,30,Ancelmo,BRA,M,1.80,75,03-04-90,Rio Branco,Bragantino,Boavista,2015,Portuguese
+41,42,Idris Mandiang,SEN,M,1.89,80,27-12-84,Dakar,Moreirense,Boavista,2015,Portuguese
+42,70,Zé Manuel,POR,F,1.78,65,23-10-90,Nogueira,Sporting Braga,Boavista,2015,Portuguese
+43,71,Ibrahima Faye,SEN,F,1.70,65,13-12-92,,Oliveirense,Boavista,2015,Portuguese
+44,75,Michael Okechukwu Uchebo,NGA,F,1.94,86,27-09-90,Enugu,Cercle Brugge,Boavista,2015,Portuguese
+45,77,Luisinho,POR,F,1.70,60,27-03-90,Fornos de Algodres,Académico Viseu,Boavista,2015,Portuguese
+46,79,Imanol Iriberri,ARG,F,1.80,78,04-03-87,Mar del Plata,Jorge Wilstermann,Boavista,2015,Portuguese
+47,88,Samu,POR,M,1.70,66,21-04-96,São Paio de Oleiros,FC Porto,Boavista,2015,Portuguese
+48,94,Philipe Sampaio,BRA,D,1.91,89,11-11-94,São Paulo,Paulista,Boavista,2015,Portuguese
+49,95,André Bukia,CGO,F,1.73,65,03-03-95,Kinshasa,Vila Real,Boavista,2015,Portuguese
+50,99,Cristian Cangá,COL,F,1.83,80,23-02-91,Buenaventura,Atlético Huila,Boavista,2015,Portuguese
+1,1,Paweł Kieszek,POL,G,1.82,82,16-04-84,Warsaw,Vitória Setúbal,Estoril,2015,Portuguese
+2,2,Yohan Tavares,FRA,D,1.88,79,02-03-88,Tours,Standard Liège,Estoril,2015,Portuguese
+4,4,Bruno Miguel,POR,D,1.88,84,24-09-82,São João da Madeira,Astra Ploieşti,Estoril,2015,Portuguese
+5,5,Anderson Luis,BRA,D,1.75,71,31-07-88,Mesópolis,Figueirense,Estoril,2015,Portuguese
+6,6,Afonso Taira,POR,M,1.77,67,17-06-92,Cascais,Atlético CP,Estoril,2015,Portuguese
+7,7,Mano,POR,D,1.68,60,09-04-87,Lisbon,Levadiakos,Estoril,2015,Portuguese
+9,9,Léo Bonatini,BRA,F,1.85,80,28-03-94,Belo Horizonte,Cruzeiro,Estoril,2015,Portuguese
+10,10,Gerso,GNB,F,1.74,67,23-02-91,Bissau,Académica,Estoril,2015,Portuguese
+11,11,Tijane Reis,POR,M,1.81,76,28-06-91,Canchungo,Swindon T,Estoril,2015,Portuguese
+12,12,Georgemy,BRA,G,1.95,89,15-08-95,Americana,Cruzeiro,Estoril,2015,Portuguese
+13,13,Anderson Esitia,NGA,M,1.89,82,24-05-94,Warri,Leixões,Estoril,2015,Portuguese
+14,14,Michael,BRA,F,1.86,80,19-04-93,São Francisco de Sales,Fluminense,Estoril,2015,Portuguese
+15,15,Oumar Diakhité,SEN,D,1.80,85,09-12-93,Dakar,Olhanense,Estoril,2015,Portuguese
+21,21,Frédéric Mendy,GNB,F,1.94,80,18-09-88,Paris,Home U,Estoril,2015,Portuguese
+22,22,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,Atlético Mineiro,Estoril,2015,Portuguese
+23,23,Lucas Farias,BRA,D,1.74,64,18-08-94,São Paulo,São Paulo,Estoril,2015,Portuguese
+25,25,Diogo Amado,POR,M,1.77,72,21-01-90,Lagos [POR],Sheffield W,Estoril,2015,Portuguese
+26,26,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Estoril,2015,Portuguese
+27,27,Mattheus,BRA,M,1.82,70,07-07-94,Rio de Janeiro,Flamengo,Estoril,2015,Portuguese
+30,30,Dieguinho,BRA,F,1.78,65,07-06-92,Bebedouro,Desportivo Brasil,Estoril,2015,Portuguese
+33,33,Dankler,BRA,D,1.87,80,24-01-92,Salvador,Botafogo,Estoril,2015,Portuguese
+34,34,Diego Carlos,BRA,D,1.84,79,15-03-93,Barra Bonita,Madureira,Estoril,2015,Portuguese
+37,37,Rúben,POR,G,1.78,72,07-07-95,,None,Estoril,2015,Portuguese
+41,55,Babanco,CPV,M,1.80,74,27-07-85,Praia,Olhanense,Estoril,2015,Portuguese
+42,91,Leandro Chaparro,ARG,M,1.73,65,07-01-91,La Tablada,Beira-Mar,Estoril,2015,Portuguese
+43,92,Felipe Augusto,BRA,F,1.83,77,06-03-92,Governador Valadares,Tupi,Estoril,2015,Portuguese
+44,93,Matheus,BRA,M,1.70,61,21-02-93,Lins,Audax-SP,Estoril,2015,Portuguese
+1,1,Wellington Lima,BRA,G,1.91,86,21-04-90,Recife,ABC,Marítimo,2015,Portuguese
+2,2,João Diogo,POR,D,1.75,66,28-02-88,Funchal,None,Marítimo,2015,Portuguese
+3,3,Diney,POR,D,1.85,79,17-01-95,Arrentela,Vitória Setúbal,Marítimo,2015,Portuguese
+4,4,Deyvison,BRA,D,1.86,81,18-10-88,Minas Gerais,Tondela,Marítimo,2015,Portuguese
+5,5,Direcu,BRA,D,1.91,90,05-01-88,Ibaiti,Londrina,Marítimo,2015,Portuguese
+7,7,Alex Soares,POR,M,1.79,68,01-03-91,Lisbon,Panserraikos,Marítimo,2015,Portuguese
+9,9,Dyego Sousa,BRA,F,1.90,82,14-09-89,São José de Ribamar,Portimonense,Marítimo,2015,Portuguese
+10,10,Gevorg Ghazaryan,ARM,F,1.80,75,05-04-88,Yerevan,Kerkyra,Marítimo,2015,Portuguese
+11,11,Éber Bessa,BRA,M,1.67,72,21-03-92,Belo Horizonte,Cruzeiro,Marítimo,2015,Portuguese
+12,12,Edgar Costa,POR,F,1.80,72,14-04-87,Câmara de Lobos,Nacional [POR],Marítimo,2015,Portuguese
+14,14,Fernando Ferreira,POR,M,1.83,78,20-11-86,Viseu,Belenenses,Marítimo,2015,Portuguese
+15,15,Lassina Touré,BFA,D,1.84,76,18-02-92,Bobo-Dioulasso,Vitória Guimarães,Marítimo,2015,Portuguese
+17,17,Gevaro Nepomuceno,CUW,F,1.74,67,10-11-92,Tilburg,Petrolul Ploiești,Marítimo,2015,Portuguese
+21,21,Briguel,POR,D,1.74,70,08-03-79,Funchal,None,Marítimo,2015,Portuguese
+22,22,Ulysse Diallo,MLI,F,1.82,77,26-10-92,Bamako,Académica,Marítimo,2015,Portuguese
+23,23,Damien Plessis,FRA,M,1.92,76,05-03-88,Neuville-aux-Bois,Châteauroux,Marítimo,2015,Portuguese
+26,26,Romário,BRA,D,1.83,81,28-06-92,Porto Alegre,Internacional,Marítimo,2015,Portuguese
+29,29,Tiago Rodrigues,POR,M,1.77,69,29-01-92,Vila Real,FC Porto,Marítimo,2015,Portuguese
+35,35,Fransérgio,BRA,M,1.86,76,18-10-90,Rondonópolis,Internacional,Marítimo,2015,Portuguese
+41,41,Rúben,POR,D,1.83,71,17-02-90,Madeira,None,Marítimo,2015,Portuguese
+42,42,Marcos Barbeiro,STP,F,1.73,63,29-07-95,Água Grande,Sporting CP,Marítimo,2015,Portuguese
+43,50,António Xavier,POR,F,1.81,73,06-07-92,Guimarães,Sporting Braga,Marítimo,2015,Portuguese
+44,60,Donald Djoussé,CMR,F,1.83,81,18-03-90,Douala,Olimpia Grudziądz,Marítimo,2015,Portuguese
+45,62,Maurício Antônio,BRA,D,1.83,82,06-02-92,São Paulo,Portimonense,Marítimo,2015,Portuguese
+46,78,Romain Salin,FRA,G,1.85,70,29-07-84,Mayenne,Rio Ave,Marítimo,2015,Portuguese
+47,80,Alireza Haghighi,IRN,G,1.93,80,02-05-88,Tehran,Rubin Kazan,Marítimo,2015,Portuguese
+48,90,Baba Diawara,SEN,F,1.85,79,05-01-88,Dakar,Sevilla,Marítimo,2015,Portuguese
+49,91,Patrick,BRA,D,1.78,73,22-01-91,Machado,América Mineiro,Marítimo,2015,Portuguese
+50,99,Lynneeker,BRA,M,1.71,72,11-01-94,Lapa,Cruzeiro,Marítimo,2015,Portuguese
+1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Persepolis,Moreirense,2015,Portuguese
+3,3,André Micael,POR,D,1.87,80,04-02-89,Guimarães,Zawisza Bydgoszcz,Moreirense,2015,Portuguese
+4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,Gil Vicente,Moreirense,2015,Portuguese
+5,5,André Marques,POR,D,1.82,78,01-08-87,Viseu,Sion,Moreirense,2015,Portuguese
+6,6,Evaldo,BRA,D,1.84,80,18-03-82,Rio Piracicaba,Gil Vicente,Moreirense,2015,Portuguese
+7,7,Alan Schons,BRA,M,1.80,74,24-05-93,Bom Principio,Juventude,Moreirense,2015,Portuguese
+9,9,Ramón Cardozo,PAR,F,1.89,80,21-04-86,Presidente Franco,Nacional [PAR],Moreirense,2015,Portuguese
+10,10,Fábio Espinho,POR,M,1.71,64,18-08-85,Espinho,Málaga,Moreirense,2015,Portuguese
+11,11,Ernest Ohemeng,GHA,F,1.75,65,17-01-96,Accra,Rio Ave,Moreirense,2015,Portuguese
+12,12,Pedro Coronas,POR,D,1.76,74,19-09-90,Rans,Vitória Setúbal,Moreirense,2015,Portuguese
+13,13,João Sousa,POR,D,1.90,78,13-05-94,Lisbon,Real Massamá,Moreirense,2015,Portuguese
+16,16,Nildo Petrolina,BRA,M,1.75,62,01-05-86,Petrolina,Arouca,Moreirense,2015,Portuguese
+17,17,Ença Fati,GNB,F,1.80,68,11-08-93,Bissau,Real Massamá,Moreirense,2015,Portuguese
+23,23,Vítor Gomes,POR,M,1.81,79,25-12-87,Vila do Conde,Videoton,Moreirense,2015,Portuguese
+26,26,Marcelo Oliveira,BRA,M,1.86,78,05-09-81,Santa Rita do Sapucaí,APOEL,Moreirense,2015,Portuguese
+27,27,Patrick Andrade,CPV,M,1.76,70,09-02-93,Praia,Ribeirão,Moreirense,2015,Portuguese
+29,29,Emmanuel Boateng,GHA,F,1.75,62,23-05-96,Accra,Rio Ave,Moreirense,2015,Portuguese
+30,30,Rafa Sousa,POR,M,1.86,78,26-08-88,Cete,Penafiel,Moreirense,2015,Portuguese
+41,45,Iuri Medeiros,POR,F,1.68,58,10-07-94,Horta,Sporting CP,Moreirense,2015,Portuguese
+42,51,Igor Stefanović,SRB,G,1.92,88,17-07-87,Svrljig,Chaves,Moreirense,2015,Portuguese
+43,60,João Palhinha,POR,M,1.90,82,09-07-95,Lisbon,Sporting CP,Moreirense,2015,Portuguese
+44,66,Filipe Gonçalves,POR,M,1.85,71,12-08-84,Espinho,Estoril,Moreirense,2015,Portuguese
+45,72,Ricardo Almeida,POR,F,1.84,75,09-05-97,Guimarães,None,Moreirense,2015,Portuguese
+46,92,Victor Braga,BRA,G,1.83,85,17-02-92,Salvador,União de Leiria,Moreirense,2015,Portuguese
+47,95,Pierre Sagna,SEN,D,1.83,76,21-08-90,Valenciennes,Chaves,Moreirense,2015,Portuguese
+48,99,Rafael Martins,BRA,F,1.75,78,17-03-89,Santos,Levante,Moreirense,2015,Portuguese
+1,1,Eduardo Gottardi,BRA,G,1.93,80,18-10-85,Encantado,União de Leiria,Nacional,2015,Portuguese
+2,2,João Aurélio,POR,D,1.81,75,17-08-88,Beja,Penalva,Nacional,2015,Portuguese
+4,4,Alan Henrique,BRA,D,1.89,84,19-06-91,Belo Horizonte,Vitória,Nacional,2015,Portuguese
+5,5,Nuno Sequeira,BRA,D,1.84,82,19-08-90,Porto,Leixões,Nacional,2015,Portuguese
+6,6,Ali Ghazal,EGY,M,1.90,82,01-02-92,Maadi,Wadi Degla,Nacional,2015,Portuguese
+7,7,Salvador Agra,POR,F,1.66,60,11-11-91,Vila do Conde,Betis,Nacional,2015,Portuguese
+8,8,Nenê Bonilha,BRA,M,1.75,70,17-02-92,São João da Boa Vista,Corinthians,Nacional,2015,Portuguese
+12,12,Rui Silva,POR,G,1.89,85,07-02-94,Águas Santas,Maia Lidador,Nacional,2015,Portuguese
+17,17,Boubacar Fofana,GUI,M,1.93,82,06-11-89,Conakry,Tondela,Nacional,2015,Portuguese
+18,18,Soares,BRA,F,1.87,89,17-01-91,Sousa,Veranópolis,Nacional,2015,Portuguese
+19,19,Joan Román,ESP,M,1.75,65,18-05-93,Reus,Sporting Braga,Nacional,2015,Portuguese
+20,20,Jota,POR,M,1.76,71,03-07-93,Funchal,None,Nacional,2015,Portuguese
+22,22,Nuno Campos,POR,D,1.76,71,13-06-93,Funchal,None,Nacional,2015,Portuguese
+24,24,Kevin Sousa,CPV,G,1.88,78,06-06-94,Praia,Alcanenense,Nacional,2015,Portuguese
+27,27,Ricardo,CPV,F,1.88,89,18-12-91,Praia,Vitória Guimarães,Nacional,2015,Portuguese
+28,28,Willyan Barbosa,BRA,M,1.79,69,17-02-94,Altamira,Beira-Mar,Nacional,2015,Portuguese
+30,30,Luís Aurélio,POR,M,1.79,70,17-08-88,Beja,Moreirense,Nacional,2015,Portuguese
+31,31,Hicham Belkaroui,ALG,D,1.95,87,24-08-90,Oran,Club Africain,Nacional,2015,Portuguese
+33,33,Rui Correia,POR,D,1.88,75,23-08-90,Chaves,Portimonense,Nacional,2015,Portuguese
+34,34,Miguel Rodrigues,POR,D,1.88,73,16-03-93,Ourém,União de Leiria,Nacional,2015,Portuguese
+36,36,Duarte Nuno,POR,G,1.80,78,28-05-98,Funchal,None,Nacional,2015,Portuguese
+41,52,Paulinho,BRA,M,1.73,71,07-01-93,Belo Horizonte,América Mineiro,Nacional,2015,Portuguese
+42,55,Mauro Cerqueira,POR,D,1.81,74,20-08-92,Lisbon,Moura,Nacional,2015,Portuguese
+43,73,Filipe Ferreira,POR,G,1.93,93,20-09-96,Santo Tirso,FC Porto,Nacional,2015,Portuguese
+44,81,Witiness Quembo,MOZ,F,1.78,65,26-08-96,Beira,Liga Muçulmana,Nacional,2015,Portuguese
+45,89,Washington Santana,BRA,M,1.83,72,20-01-89,São Paulo,Penapolense,Nacional,2015,Portuguese
+46,91,Rodrigo Pinho,BRA,F,1.85,79,30-05-91,Henstedt-Ulzburg,Sporting Braga,Nacional,2015,Portuguese
+1,1,Rafael Defendi,BRA,G,1.91,88,22-12-83,Ribeirão Preto,Bragantino,Paços de Ferreira,2015,Portuguese
+2,2,Marco Baixinho,POR,D,1.86,80,11-07-89,Arruda dos Vinhos,Mafra,Paços de Ferreira,2015,Portuguese
+4,4,Romeu,POR,M,1.85,72,17-02-86,Paredes,Desportivo das Aves,Paços de Ferreira,2015,Portuguese
+5,5,Hélder Lopes,POR,D,1.79,66,04-01-89,Vila Nova de Gaia,Beira-Mar,Paços de Ferreira,2015,Portuguese
+6,6,Fábio Cardoso,POR,D,1.86,75,19-04-94,Águeda,Benfica,Paços de Ferreira,2015,Portuguese
+7,7,Roniel,BRA,F,1.77,70,02-06-94,Guadalajara,Grêmio Anápolis,Paços de Ferreira,2015,Portuguese
+8,8,Christian,BRA,M,1.83,83,14-06-89,,CFR Cluj,Paços de Ferreira,2015,Portuguese
+9,9,Cícero,GNB,F,1.85,89,08-05-86,Seia,Şanlıurfaspor,Paços de Ferreira,2015,Portuguese
+10,10,Minhoca,POR,M,1.75,66,29-04-88,Ponta Delgada,Santa Clara,Paços de Ferreira,2015,Portuguese
+11,11,Bruno Moreira,POR,F,1.85,78,06-09-87,Famalicão,Chaves,Paços de Ferreira,2015,Portuguese
+12,12,Paraíba,BRA,F,1.82,76,12-01-92,Juazeiro Do Norte,Videoton,Paços de Ferreira,2015,Portuguese
+13,13,João Góis,POR,D,1.74,66,05-05-90,Camacha,Chaves,Paços de Ferreira,2015,Portuguese
+14,14,Carlos Ponck,CPV,M,1.83,84,13-01-95,Mindelo,Benfica,Paços de Ferreira,2015,Portuguese
+16,16,Barnes Osei,GHA,F,1.79,66,08-01-95,,None,Paços de Ferreira,2015,Portuguese
+18,18,Diogo Jota,POR,F,1.78,70,04-12-96,Massarelos,Gondomar,Paços de Ferreira,2015,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paços de Ferreira,2015,Portuguese
+20,20,André,POR,M,1.74,64,06-08-95,Vila Cova,Rio Ave,Paços de Ferreira,2015,Portuguese
+22,22,Miguel Vieria,POR,D,1.90,80,08-10-90,Amarante,Desportivo das Aves,Paços de Ferreira,2015,Portuguese
+23,23,Paulo Henrique,POR,D,1.82,76,23-10-96,Fenais da Luz,Santa Clara,Paços de Ferreira,2015,Portuguese
+24,24,Flávio Brandão,POR,G,1.80,70,04-07-98,Paços de Ferreira,None,Paços de Ferreira,2015,Portuguese
+25,25,Pelé,POR,M,1.82,75,29-09-91,Cacém,Benfica,Paços de Ferreira,2015,Portuguese
+27,27,Rodrigo Antônio,BRA,D,1.81,79,27-07-87,Rio de Janeiro,Marítimo,Paços de Ferreira,2015,Portuguese
+41,47,Fábio Martins,POR,F,1.78,70,24-07-93,Mafamude,Sporting Braga,Paços de Ferreira,2015,Portuguese
+42,50,Marco,POR,G,1.85,68,29-01-95,Porto,Salgueiros,Paços de Ferreira,2015,Portuguese
+43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paços de Ferreira,2015,Portuguese
+44,86,Mário Felgueiras,POR,G,1.87,84,12-12-86,Viana do Castelo,Konyaspor,Paços de Ferreira,2015,Portuguese
+45,94,Bruno Santos,BRA,D,1.83,79,07-02-93,Rio de Janeiro,Freamunde,Paços de Ferreira,2015,Portuguese
+1,1,Helton,BRA,G,1.89,84,18-05-78,Alcântara,União de Leiria,FC Porto,2015,Portuguese
+2,2,Maximiliano Pereira,URU,D,1.73,70,08-06-84,Montevideo,Benfica,FC Porto,2015,Portuguese
+3,3,Bruno Martins Indi,NED,D,1.85,76,08-02-92,Barreiro,Feyenoord,FC Porto,2015,Portuguese
+5,5,Iván Marcano,ESP,D,1.77,77,23-06-87,Santander,Rubin Kazan,FC Porto,2015,Portuguese
+6,6,Rubén Neves,POR,M,1.80,80,13-03-97,Mozelos,None,FC Porto,2015,Portuguese
+7,7,Silvestre Varela,POR,F,1.80,75,02-02-85,Almada,Estrela da Amadora,FC Porto,2015,Portuguese
+8,8,Yacine Brahimi,ALG,M,1.75,65,08-02-90,Paris,Granada,FC Porto,2015,Portuguese
+9,9,Vincent Aboubakar,CMR,F,1.82,78,22-01-92,Garoua,Lorient,FC Porto,2015,Portuguese
+11,11,Moussa Marega,MLI,F,1.86,83,14-04-91,Les Ulis,Marítimo,FC Porto,2015,Portuguese
+12,12,Iker Casillas,ESP,G,1.85,79,20-05-81,Madrid,Real Madrid,FC Porto,2015,Portuguese
+13,13,Sérgio Oliveira,POR,M,1.79,71,02-06-92,Paços de Brandão,Paços de Ferreira,FC Porto,2015,Portuguese
+14,14,José Ángel,ESP,D,1.82,77,05-09-89,Gijón,Roma,FC Porto,2015,Portuguese
+15,15,Evandro Goebel,BRA,M,1.79,65,23-08-86,Blumenau,Estoril,FC Porto,2015,Portuguese
+16,16,Héctor Herrera,MEX,M,1.82,70,19-04-90,Tijuana,Pachuca,FC Porto,2015,Portuguese
+17,17,Jesús Manuel Corona,MEX,F,1.73,73,06-01-93,Hermosillo,FC Twente,FC Porto,2015,Portuguese
+19,19,André Silva,POR,F,1.85,79,06-11-95,Baguim do Monte,None,FC Porto,2015,Portuguese
+20,20,André André,POR,M,1.77,65,26-08-89,Vila do Conde,Vitória Guimarães,FC Porto,2015,Portuguese
+21,21,Miguel Layún,MEX,D,1.78,61,25-06-88,Córdoba,Watford,FC Porto,2015,Portuguese
+22,22,Danilo Pereira,POR,M,1.87,60,09-09-91,Bissau,Marítimo,FC Porto,2015,Portuguese
+23,23,Alberto Bueno,ESP,F,1.78,65,20-03-88,Madrid,Rayo Vallecano,FC Porto,2015,Portuguese
+24,24,José Sá,POR,G,1.92,84,17-01-93,Braga,Marítimo,FC Porto,2015,Portuguese
+39,39,Suk Hyun-Jun,KOR,F,1.89,81,29-06-91,Chungju,Vitória Setúbal,FC Porto,2015,Portuguese
+41,63,Chidozie Awaziem,NGA,D,1.89,82,01-01-97,Enugu,El-Kanemi Warriors,FC Porto,2015,Portuguese
+1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Arouca,Rio Ave,2015,Portuguese
+3,3,Aníbal,POR,D,1.88,84,08-05-91,Vila Verde,Sporting Braga,Rio Ave,2015,Portuguese
+7,7,Hélder Guedes,POR,F,1.82,76,07-05-87,Penafiel,Penafiel,Rio Ave,2015,Portuguese
+8,8,Tarantini,POR,M,1.89,76,07-10-83,Baião,Portimonense,Rio Ave,2015,Portuguese
+9,9,Hélder Postiga,POR,F,1.82,79,02-08-82,Vila do Conde,Atlético de Kolkata,Rio Ave,2015,Portuguese
+10,10,Kuca,CPV,M,1.81,63,02-08-89,Praia,Karabükspor,Rio Ave,2015,Portuguese
+11,11,Renan Bressan,BLR,M,1.82,77,03-11-88,Tubarão,Astana,Rio Ave,2015,Portuguese
+12,12,Lionn,BRA,D,1.77,67,29-01-89,Fortaleza,CFR Cluj,Rio Ave,2015,Portuguese
+14,14,André Vilas Boas,POR,M,1.83,80,04-06-83,Vila do Conde,Marítimo,Rio Ave,2015,Portuguese
+16,16,Edimar,BRA,D,1.80,70,21-05-86,Cachoeiro de Itapemirim,Chievo Verona,Rio Ave,2015,Portuguese
+17,17,Ukra,POR,F,1.75,68,16-03-88,Vila Nova de Famalicão,FC Porto,Rio Ave,2015,Portuguese
+20,20,Pedro Moreira,POR,M,1.82,75,15-03-89,Lousada,FC Porto,Rio Ave,2015,Portuguese
+23,23,Filip Krovinović,CRO,M,1.75,70,29-08-95,Zagreb,Zagreb,Rio Ave,2015,Portuguese
+24,24,Héldon,CPV,F,1.74,68,14-11-88,Ilha do Sal,Sporting CP,Rio Ave,2015,Portuguese
+25,25,Roderick Miranda,POR,D,1.93,85,30-03-91,Odivelas,Benfica,Rio Ave,2015,Portuguese
+26,26,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Lorient,Rio Ave,2015,Portuguese
+27,27,João Novais,POR,M,1.79,70,10-07-93,Vila Nova de Gaia,Leixões,Rio Ave,2015,Portuguese
+29,29,Zé Paulo,BRA,M,1.88,78,26-03-94,Rio de Janeiro,Corinthians,Rio Ave,2015,Portuguese
+30,30,Alhassan Wakaso,GHA,M,1.80,80,07-01-92,Tamale,Portimonense,Rio Ave,2015,Portuguese
+41,44,Nélson Monte,POR,D,1.87,71,30-07-95,Vila do Conde,Benfica,Rio Ave,2015,Portuguese
+42,46,Marcelo,BRA,D,1.82,74,27-07-89,São Carlos,Ribeirão,Rio Ave,2015,Portuguese
+43,50,Vitó,POR,M,1.80,70,18-09-97,Negreiros,FC Porto,Rio Ave,2015,Portuguese
+44,55,Tiago André,POR,D,,,18-01-97,Vila do Conde,None,Rio Ave,2015,Portuguese
+45,70,Jaime,POR,F,,,28-09-97,Vila do Conde,None,Rio Ave,2015,Portuguese
+46,71,Rui Vieira,POR,G,1.89,80,13-11-91,Braga,Marítimo,Rio Ave,2015,Portuguese
+47,77,Joris Kayembe,BEL,M,1.82,73,08-08-94,Brussels,FC Porto,Rio Ave,2015,Portuguese
+48,88,Yazalde,POR,F,1.83,79,10-09-88,Vila do Conde,Sporting Braga,Rio Ave,2015,Portuguese
+49,98,Carlos Alves,POR,G,1.87,80,18-02-98,Vila do Conde,None,Rio Ave,2015,Portuguese
+50,99,Ronan,BRA,F,1.95,87,22-04-95,Piraúba,Sanjoanense,Rio Ave,2015,Portuguese
+4,4,Alef,BRA,M,1.86,71,28-01-95,Nova Odessa,Ponte Preta,Sporting Braga,2015,Portuguese
+5,5,Willy Boly,FRA,D,1.85,81,03-02-91,Melun,Auxerre,Sporting Braga,2015,Portuguese
+6,6,André Pinto,POR,D,1.92,85,05-10-89,Vila Nova de Gaia,Panathinaikos,Sporting Braga,2015,Portuguese
+7,7,Wilson Eduardo,POR,F,1.76,72,08-07-90,Pedras Rubras,Sporting CP,Sporting Braga,2015,Portuguese
+8,8,Luíz Carlos,BRA,M,1.75,65,05-07-85,Espírito Santo,Paços de Ferreira,Sporting Braga,2015,Portuguese
+9,9,Crislan,BRA,F,1.86,73,13-03-92,Teresina,Penapolense,Sporting Braga,2015,Portuguese
+14,14,Aarón,ESP,F,1.70,69,26-04-89,Elche,Elche,Sporting Braga,2015,Portuguese
+15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Paços de Ferreira,Sporting Braga,2015,Portuguese
+16,16,Djavan,BRA,D,1.84,72,31-12-87,Serrinha,Corinthians Alagoano,Sporting Braga,2015,Portuguese
+17,17,Rui Fonte,POR,F,1.81,73,23-03-90,Lisbon,Benfica,Sporting Braga,2015,Portuguese
+18,18,Rafa,POR,M,1.70,66,17-05-93,Barreiro,Feirense,Sporting Braga,2015,Portuguese
+19,19,Nikola Stojiljković,SRB,F,1.82,75,17-08-92,Belgrade,Čukarički,Sporting Braga,2015,Portuguese
+20,20,Ahmed Hassan,EGY,F,1.91,80,05-03-93,Cairo,Rio Ave,Sporting Braga,2015,Portuguese
+21,21,Filipe Augusto,BRA,M,1.82,77,12-08-93,Bahia,Rio Ave,Sporting Braga,2015,Portuguese
+23,23,Pedro Santos,POR,F,1.73,65,22-04-88,Lisbon,Vitória Setúbal,Sporting Braga,2015,Portuguese
+24,24,Ricardo Ferreira,POR,D,1.90,85,25-11-92,Mississisauga,Olhanense,Sporting Braga,2015,Portuguese
+25,25,Stian Ringstad,NOR,D,1.82,75,29-08-91,Bodding,Lillestrøm,Sporting Braga,2015,Portuguese
+27,27,Josué,POR,M,1.74,70,17-09-90,Ermesinde,FC Porto,Sporting Braga,2015,Portuguese
+28,28,Marafona,POR,G,1.90,86,08-05-87,Vila do Conde,Paços de Ferreira,Sporting Braga,2015,Portuguese
+30,30,Alan,BRA,F,1.80,72,19-09-79,Rio de Janeiro,FC Porto,Sporting Braga,2015,Portuguese
+32,32,Arghus,BRA,D,1.89,83,19-01-88,Alegrete,Maribor,Sporting Braga,2015,Portuguese
+35,35,Nikola Vukčević,MNE,M,1.84,74,13-12-91,Podgorica,Budućnost Podgorica,Sporting Braga,2015,Portuguese
+41,63,Mauro,BRA,M,1.78,73,31-10-90,Livramento,Grêmio Anápolis,Sporting Braga,2015,Portuguese
+42,76,Tiago Sá,POR,G,1.85,78,11-01-95,Braga,None,Sporting Braga,2015,Portuguese
+43,87,Marcelo Goiano,BRA,D,1.74,66,13-10-87,Goiânia,Grêmio Anápolis,Sporting Braga,2015,Portuguese
+44,92,Matheus Magalhães,BRA,G,1.87,76,29-03-92,Belo Horizonte,América Mineiro,Sporting Braga,2015,Portuguese
+1,1,Rui Patrício,POR,G,1.88,84,15-02-88,Marrazes,None,Sporting CP,2015,Portuguese
+2,2,Matiás Ezequiel Schelotto,ITA,D,1.87,76,23-05-89,Buenos Aires,Internazionale,Sporting CP,2015,Portuguese
+4,4,Jefferson,BRA,D,1.76,72,05-07-88,Bahia,Desportivo Brasil,Sporting CP,2015,Portuguese
+5,5,Ewerton,BRA,D,1.88,81,23-03-89,Penedo,Anzhi Makhachkala,Sporting CP,2015,Portuguese
+6,6,Alberto Aquilani,ITA,M,1.86,77,07-07-84,Rome,Fiorentina,Sporting CP,2015,Portuguese
+9,9,Islam Slimani,ALG,F,1.86,75,18-06-88,Algiers,CR Belouizdad,Sporting CP,2015,Portuguese
+11,11,Bruno César,BRA,M,1.78,73,03-11-88,Santa Bárbara d'Oeste,Estoril,Sporting CP,2015,Portuguese
+13,13,Sebastián Coates,URU,D,1.96,88,07-10-90,Montevideo,Sunderland,Sporting CP,2015,Portuguese
+14,14,William Carvalho,POR,M,1.87,79,07-04-92,Luanda,None,Sporting CP,2015,Portuguese
+15,15,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,Vitória Guimarães,Sporting CP,2015,Portuguese
+17,17,João Mário,POR,M,1.78,67,19-01-93,Porto,None,Sporting CP,2015,Portuguese
+18,18,André Carrillo,PER,F,1.83,75,14-06-91,Lima,Alianza Lima,Sporting CP,2015,Portuguese
+19,19,Téofilo Gutiérrez,COL,F,1.78,70,27-05-85,Barranquilla,River Plate,Sporting CP,2015,Portuguese
+20,20,Bryan Ruiz,CRC,F,1.88,78,18-08-85,San José [CRC],Fulham,Sporting CP,2015,Portuguese
+21,21,João Pereira,POR,D,1.72,64,25-02-84,Lisbon,Hannover 96,Sporting CP,2015,Portuguese
+23,23,Adrien Silva,POR,M,1.75,75,15-03-89,Angoulême,None,Sporting CP,2015,Portuguese
+26,26,Abe Jug,SVN,G,1.92,91,03-03-92,Maribor,Bordeaux,Sporting CP,2015,Portuguese
+28,28,André Martins,POR,M,1.66,56,21-01-90,Santa Maria da Feira,None,Sporting CP,2015,Portuguese
+29,29,Hernán Barcos,ARG,F,1.88,75,11-04-84,Bell Ville,Tianjin Teda,Sporting CP,2015,Portuguese
+30,30,Bruno Paulista,BRA,M,1.89,81,21-08-95,Nova Odessa,Bahia,Sporting CP,2015,Portuguese
+31,31,Marvin Zeegelaar,NED,D,1.86,84,12-08-90,Amsterdam,Rio Ave,Sporting CP,2015,Portuguese
+35,35,Rúben Semedo,POR,D,1.89,85,04-04-94,Amadora,None,Sporting CP,2015,Portuguese
+36,36,Carlos Mané,POR,F,1.72,66,11-03-94,Lisbon,None,Sporting CP,2015,Portuguese
+41,44,Naldo,BRA,D,1.88,88,25-08-88,Santo André,Udinese,Sporting CP,2015,Portuguese
+42,47,Ricardo Esgaio,POR,D,1.71,66,16-05-93,Nazaré,None,Sporting CP,2015,Portuguese
+43,55,Tobias Figueiredo,POR,D,1.88,84,02-02-94,Sátão,None,Sporting CP,2015,Portuguese
+44,60,Gelson Martins,POR,F,1.73,66,11-05-95,Praia,None,Sporting CP,2015,Portuguese
+45,73,Matheus Pereira,BRA,F,1.75,67,05-05-96,Belo Horizonte,None,Sporting CP,2015,Portuguese
+1,1,Cláudio Ramos,POR,G,1.83,83,16-11-91,Viseu,Vitória Guimarães,Tondela,2015,Portuguese
+2,2,Bruno Nascimento,BRA,D,1.88,72,30-05-91,Caçapava,Köln,Tondela,2015,Portuguese
+3,3,João Pica,POR,D,1.85,79,08-04-86,Beja,Moreirense,Tondela,2015,Portuguese
+4,4,Kaká,BRA,D,1.87,81,16-05-81,São José do Belmonte,APOEL,Tondela,2015,Portuguese
+5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,Gil Vicente,Tondela,2015,Portuguese
+6,6,Lucas Souza,BRA,M,1.86,80,04-06-90,Santo André,Parma,Tondela,2015,Portuguese
+8,8,João Jaquité,GNB,M,1.72,68,22-02-96,Bissau,Atlético Povoense,Tondela,2015,Portuguese
+9,9,Piojo,ARG,F,1.84,78,07-06-85,Puerto Iguazú,Castelo Branco,Tondela,2015,Portuguese
+11,11,Nathan Júnior,BRA,F,1.85,80,10-03-89,Rio de Janeiro,SKA-Energia,Tondela,2015,Portuguese
+13,13,Eñaut Zubikarai,ESP,G,1.85,73,26-02-84,Ondarroa,Real Sociedad,Tondela,2015,Portuguese
+14,14,Steven Thicot,FRA,D,1.86,80,14-02-87,Montrieul-sous-Bois,Belenenses,Tondela,2015,Portuguese
+15,15,Jhon Murillo,VEN,M,1.70,65,21-11-95,El Nula,Benfica,Tondela,2015,Portuguese
+16,16,Erick Moreno,COL,F,1.83,79,24-11-91,Bagadó,Sporting Braga,Tondela,2015,Portuguese
+17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Paços de Ferreira,Tondela,2015,Portuguese
+18,18,Bilal Sebaihi,FRA,M,1.79,72,31-05-92,Lyon,Estoril,Tondela,2015,Portuguese
+20,20,Luís Alberto,BRA,M,1.81,67,17-11-83,Salvador,Kashima Antlers,Tondela,2015,Portuguese
+22,22,Miguel Batista,POR,G,1.80,76,06-08-95,Santa Comba Dão,Tourizense,Tondela,2015,Portuguese
+24,24,Tinoco,POR,D,1.86,75,17-10-86,Barcelos,Arouca,Tondela,2015,Portuguese
+27,27,Bruno Monteiro,POR,M,1.79,67,05-10-84,Fafe,Freamunde,Tondela,2015,Portuguese
+28,28,Wagner,BRA,F,1.79,67,03-04-87,São José de Campos,Nacional [POR],Tondela,2015,Portuguese
+41,41,Hélder Tavares,POR,M,1.80,74,26-12-89,Olivais,Oțelul Galați,Tondela,2015,Portuguese
+42,42,Randal Oto'o,GAB,D,1.82,72,23-05-94,Libreville,Sporting Braga,Tondela,2015,Portuguese
+43,45,Romário Baldé,POR,F,1.77,72,25-12-96,Bissau,Benfica,Tondela,2015,Portuguese
+44,48,Wanderson Lima,BRA,D,1.70,63,09-02-95,Campos Belos,Grêmio Anápolis,Tondela,2015,Portuguese
+45,70,Dolly Menga,BEL,F,1.82,74,02-05-93,Verviers,Sporting Braga,Tondela,2015,Portuguese
+46,77,Karl,BRA,M,1.82,74,07-04-93,Tubarão,Arouca,Tondela,2015,Portuguese
+1,1,Ricardo Campos,MOZ,G,1.88,82,14-04-85,Caldas da Raínha,Torreense,Uniăo da Madeira,2015,Portuguese
+2,2,Paulinho,POR,D,1.75,68,13-07-91,Santa Marinha,Moreirense,Uniăo da Madeira,2015,Portuguese
+3,3,Soares,BRA,M,1.81,76,30-12-88,Goiânia,Rio Ave,Uniăo da Madeira,2015,Portuguese
+5,5,Joãozinho,POR,D,1.85,69,02-07-89,Lisbon,Sporting Braga,Uniăo da Madeira,2015,Portuguese
+6,6,Tiago Ferreira,POR,D,1.83,76,10-07-93,Porto,Zulte-Waregem,Uniăo da Madeira,2015,Portuguese
+7,7,Rúben Andrade,POR,M,1.76,69,07-06-82,Funchal,None,Uniăo da Madeira,2015,Portuguese
+8,8,Carlos Manuel,VEN,D,1.75,69,24-11-85,Caracas,Camacha,Uniăo da Madeira,2015,Portuguese
+9,9,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Vitória Setúbal,Uniăo da Madeira,2015,Portuguese
+10,10,Breitner da Silva,VEN,M,1.70,63,09-11-89,Barcelona [VEN],Mineros de Guayana,Uniăo da Madeira,2015,Portuguese
+12,12,Rafa Alves,POR,G,1.89,82,04-01-94,Braga,Sporting Braga,Uniăo da Madeira,2015,Portuguese
+14,14,Shehu Abdullahi,NGA,M,1.81,72,12-03-93,Kano,Qadsia SC,Uniăo da Madeira,2015,Portuguese
+15,15,Danilo Dias,BRA,F,1.74,64,06-11-85,Ceres,Qarabağ,Uniăo da Madeira,2015,Portuguese
+16,16,Nilson,CPV,D,1.76,64,05-08-87,Ilha de Santiago,Doxa Katokopia,Uniăo da Madeira,2015,Portuguese
+18,18,Jhonder Cádiz,VEN,F,1.91,83,29-07-95,Caracas,Caracas,Uniăo da Madeira,2015,Portuguese
+19,19,Rúben Lima,POR,D,1.76,72,03-10-89,Lisbon,Dinamo Zagreb,Uniăo da Madeira,2015,Portuguese
+20,20,Toni Silva,GNB,M,1.79,74,15-09-93,Bissau,Şanlıurfaspor,Uniăo da Madeira,2015,Portuguese
+21,21,Gensérix Kusunga,ANG,D,1.86,76,12-03-88,Geneva,Oldham Ath,Uniăo da Madeira,2015,Portuguese
+23,23,Amilton,BRA,F,1.72,66,12-08-89,Pernambuco,Varzim,Uniăo da Madeira,2015,Portuguese
+25,25,Miguel Cardoso,POR,F,1.76,71,19-06-94,Lisbon,Deportivo La Coruña,Uniăo da Madeira,2015,Portuguese
+27,27,Edder Farías,VEN,F,1.84,83,12-04-88,Monagas,Caracas,Uniăo da Madeira,2015,Portuguese
+28,28,Marco Túlio,BRA,M,1.86,85,30-04-92,São Paulo,Grêmio Anápolis,Uniăo da Madeira,2015,Portuguese
+29,29,Élio,POR,F,1.85,73,26-03-85,Machico,Beroe Stara Zagora,Uniăo da Madeira,2015,Portuguese
+37,37,Paulo Monteiro,POR,D,1.92,85,21-01-85,Guimarães,Concordia Chiajna,Uniăo da Madeira,2015,Portuguese
+41,44,Diego Galo,BRA,D,1.85,79,14-01-84,Diadema,Arouca,Uniăo da Madeira,2015,Portuguese
+42,71,Raúl Gudiño,MEX,G,1.95,89,29-04-96,Guadalajara,FC Porto,Uniăo da Madeira,2015,Portuguese
+43,77,Wanderson,BRA,M,1.79,73,02-08-90,Santo Amaro da Imperatriz,Dinamo București,Uniăo da Madeira,2015,Portuguese
+44,88,Gian Martins,BRA,M,1.84,77,02-04-93,Porto Alegre,Sanjoanense,Uniăo da Madeira,2015,Portuguese
+45,90,Kisley,CPV,F,1.88,81,22-11-90,Santo Amaro Abade,Felgueiras,Uniăo da Madeira,2015,Portuguese
+46,95,André Moreira,POR,G,1.95,85,02-12-95,Ribeirão,Atlético Madrid,Uniăo da Madeira,2015,Portuguese
+1,1,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitףria Guimarדes,2015,Portuguese
+2,2,Pedro Henrique,BRA,D,1.90,87,18-12-92,Goiânia,Goiás,Vitףria Guimarדes,2015,Portuguese
+3,3,Josué,POR,D,1.86,75,17-06-92,Lisbon,Sporting CP,Vitףria Guimarדes,2015,Portuguese
+5,5,Luís Rocha,POR,D,1.74,70,27-06-93,Vila Nova de Famalicão,None,Vitףria Guimarדes,2015,Portuguese
+6,6,Moreno,POR,D,1.86,81,19-08-81,Urgeses,Nacional [POR],Vitףria Guimarדes,2015,Portuguese
+7,7,Ricardo Valente,POR,F,1.81,76,03-04-91,Porto,Leixões,Vitףria Guimarדes,2015,Portuguese
+10,10,Santiago Montoya,COL,M,1.73,63,15-09-91,Medellín,Vasco da Gama,Vitףria Guimarדes,2015,Portuguese
+11,11,Licá,POR,M,1.80,71,08-09-88,Castro Daire,FC Porto,Vitףria Guimarדes,2015,Portuguese
+13,13,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,Belenenses,Vitףria Guimarדes,2015,Portuguese
+14,14,Alex,POR,F,1.74,65,27-08-91,Funchal,Santa Clara,Vitףria Guimarדes,2015,Portuguese
+15,15,João Afonso,POR,D,1.88,80,28-05-90,Castelo Branco,Benfica Castelo Branco,Vitףria Guimarדes,2015,Portuguese
+16,16,Paolo Hurtado,PER,M,1.77,67,27-07-90,Callao,Reading,Vitףria Guimarדes,2015,Portuguese
+23,23,Pedro Correia,POR,D,1.78,68,27-03-87,Oeiras,Crotone,Vitףria Guimarדes,2015,Portuguese
+24,24,João Teixeira,POR,M,1.78,70,06-02-94,Amora,Benfica,Vitףria Guimarדes,2015,Portuguese
+25,25,Oriol Rosell,ESP,M,1.83,76,07-07-92,Puig-reig,Sporting CP,Vitףria Guimarדes,2015,Portuguese
+26,26,Cafú,POR,M,1.83,84,26-02-93,Guimarães,Benfica,Vitףria Guimarדes,2015,Portuguese
+28,28,Victor Andrade,BRA,F,1.71,60,30-09-95,Aracajú,Benfica,Vitףria Guimarדes,2015,Portuguese
+29,29,Alvin Arrondel,FRA,D,1.80,73,11-11-93,Pontoise,Paris St-Germain,Vitףria Guimarדes,2015,Portuguese
+32,32,Tyler Boyd,NZL,F,1.77,65,30-12-94,Tauranga,Wellington Phoenix,Vitףria Guimarדes,2015,Portuguese
+33,33,João Vigário,POR,F,1.81,75,20-11-95,Gondomar,Salgueiros,Vitףria Guimarדes,2015,Portuguese
+35,35,Dénis Duarte,POR,D,1.90,82,04-05-94,Marteleira,Torreense,Vitףria Guimarדes,2015,Portuguese
+38,38,Bruno Mendes,BRA,F,1.84,76,02-08-94,Cruzeiro,Deportivo Maldonado,Vitףria Guimarדes,2015,Portuguese
+41,42,Helinho,BRA,M,1.82,78,06-07-95,Guimarães,None,Vitףria Guimarדes,2015,Portuguese
+42,45,Xande Silva,POR,F,1.77,60,16-03-97,Lisbon,Sporting CP,Vitףria Guimarדes,2015,Portuguese
+43,48,Bruno Alves,POR,M,1.78,72,09-06-90,Guimarães,None,Vitףria Guimarדes,2015,Portuguese
+44,49,Rui Areias,POR,F,1.87,83,22-11-93,Guimarães,None,Vitףria Guimarדes,2015,Portuguese
+45,52,Otávio,BRA,M,1.71,65,09-02-95,João Pessoa,FC Porto,Vitףria Guimarדes,2015,Portuguese
+46,56,Miguel Silva,POR,G,1.89,78,07-04-95,Guimarães,Vizela,Vitףria Guimarדes,2015,Portuguese
+47,58,João Pedro,POR,M,1.77,74,03-04-93,Guimarães,None,Vitףria Guimarדes,2015,Portuguese
+48,66,Breno,BRA,D,1.78,70,06-03-95,São Paulo,Grêmio,Vitףria Guimarדes,2015,Portuguese
+49,70,Tozé,POR,M,1.70,67,14-01-93,Forjães,FC Porto,Vitףria Guimarדes,2015,Portuguese
+50,76,Bruno Gaspar,POR,D,1.76,68,21-04-93,Évora,Benfica,Vitףria Guimarדes,2015,Portuguese
+51,81,Raphinha,BRA,F,1.76,68,14-02-96,Porto Alegre,Avaí,Vitףria Guimarדes,2015,Portuguese
+52,88,Franci,BRA,F,1.78,71,16-04-90,São Paulo,Botafogo-SP,Vitףria Guimarדes,2015,Portuguese
+53,89,Henrique Dourado,BRA,F,1.86,79,15-09-89,Guarulhos,Mirassol,Vitףria Guimarדes,2015,Portuguese
+54,93,Dalbert,BRA,D,1.82,74,08-09-93,Rio de Janeiro,Académico Viseu,Vitףria Guimarדes,2015,Portuguese
+55,94,Thibang Phete,RSA,M,1.87,77,04-04-94,Kimberley,Tourizense,Vitףria Guimarדes,2015,Portuguese
+56,99,Bakary Saré,BFA,M,1.82,82,05-05-90,Abidjan,Al-Ain,Vitףria Guimarדes,2015,Portuguese
+1,1,Lukas Raeder,GER,G,1.94,92,30-12-93,Essen,Bayern Munich,Vitória Setúbal,2015,Portuguese
+2,2,Tiago Valente,POR,D,1.86,82,24-04-85,Macedo Cavaleiros,Lechia Gdańsk,Vitória Setúbal,2015,Portuguese
+3,3,Frederico Venâncio,POR,D,1.86,77,04-02-93,Setúbal,Benfica,Vitória Setúbal,2015,Portuguese
+6,6,Fábio Pacheco,POR,M,1.78,67,26-05-88,Paredes,Tondela,Vitória Setúbal,2015,Portuguese
+8,8,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Leixões,Vitória Setúbal,2015,Portuguese
+9,9,Mohcine Hassan,POR,F,1.83,74,30-09-94,Faro,Inter Almancil,Vitória Setúbal,2015,Portuguese
+11,11,Costinha,POR,F,1.70,64,25-08-92,Coimbra,Lusitano,Vitória Setúbal,2015,Portuguese
+12,12,Miguel Lázaro,POR,G,1.93,75,24-04-95,Barreiro,Sporting CP,Vitória Setúbal,2015,Portuguese
+14,14,Shaher Mansour,KSA,M,1.77,67,28-04-92,Jeddah,Al-Wahda,Vitória Setúbal,2015,Portuguese
+17,17,Maciej Makuszewski,POL,M,1.76,70,29-09-89,Grajewo,Lechia Gdańsk,Vitória Setúbal,2015,Portuguese
+18,18,André Claro,POR,F,1.83,75,31-03-91,Vila Nova de Gaia,Arouca,Vitória Setúbal,2015,Portuguese
+19,19,Arnold Issoko,CGO,F,1.85,75,06-04-92,Kinshasa,Chaves,Vitória Setúbal,2015,Portuguese
+20,20,Toni Gorupec,CRO,D,1.75,73,04-07-93,Zagreb,Astra Giurgiu,Vitória Setúbal,2015,Portuguese
+21,21,Nuno Pinto,POR,M,1.76,72,06-08-86,Vila Nova de Gaia,Astra Giurgiu,Vitória Setúbal,2015,Portuguese
+22,22,William Alves,BRA,D,1.88,84,29-04-87,Marília,Náutico,Vitória Setúbal,2015,Portuguese
+23,23,Vasco Costa,POR,F,1.84,78,08-08-91,Ponte de Lima,Fafe,Vitória Setúbal,2015,Portuguese
+25,25,Diego,BRA,G,1.88,88,11-05-79,Itaqui,Juventude,Vitória Setúbal,2015,Portuguese
+26,26,Cléber,BRA,D,1.83,80,05-05-92,Jaú,Itapirense,Vitória Setúbal,2015,Portuguese
+28,28,Cristian Tissone,ARG,D,1.88,83,08-02-88,Quilmes,Anadia,Vitória Setúbal,2015,Portuguese
+30,30,Albert Meyong,CMR,F,1.84,71,19-10-80,Yaoundé,Kabuscorp,Vitória Setúbal,2015,Portuguese
+41,42,Alexandre,BRA,M,1.82,82,30-04-92,,Beira-Mar,Vitória Setúbal,2015,Portuguese
+42,44,Miguel Lourenço,POR,D,1.84,85,27-05-92,Quinta do Conde,None,Vitória Setúbal,2015,Portuguese
+43,66,Dani,POR,M,1.77,80,30-01-82,Felgueiras,Skoda Xanthi,Vitória Setúbal,2015,Portuguese
+44,77,André Horta,POR,M,1.67,57,07-11-96,Almada,Benfica,Vitória Setúbal,2015,Portuguese
+45,82,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,FC Porto,Vitória Setúbal,2015,Portuguese
+46,90,Ruca,POR,M,1.89,77,11-09-90,Tondela,Mafra,Vitória Setúbal,2015,Portuguese
+47,92,Salim Cissé,GUI,F,1.85,74,24-12-92,Massimina,Sporting CP,Vitória Setúbal,2015,Portuguese
