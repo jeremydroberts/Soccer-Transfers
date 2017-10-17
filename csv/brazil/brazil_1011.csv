@@ -1,0 +1,690 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Márcio,BRA,G,1.84,89,24-01-81,Aracaju,Fortaleza,Atlйtico Goianiense,2010,Brazilian
+3,3,Gilson,BRA,D,1.85,89,29-11-79,Brasília,Brasiliense,Atlйtico Goianiense,2010,Brazilian
+4,4,Jairo,BRA,D,1.80,71,29-07-74,Brasília,Brasiliense,Atlйtico Goianiense,2010,Brazilian
+5,5,Agenor,BRA,M,1.79,79,07-08-81,Rio de Janeiro,Brasiliense,Atlйtico Goianiense,2010,Brazilian
+6,6,Thiago Feltri,BRA,D,1.74,64,18-05-85,Fernão,Atlético Mineiro,Atlйtico Goianiense,2010,Brazilian
+7,7,Robston,BRA,M,1.90,84,23-12-81,Gama,Brasiliense,Atlйtico Goianiense,2010,Brazilian
+8,8,Pituca,BRA,M,1.86,75,08-10-78,São Luís,Brasiliense,Atlйtico Goianiense,2010,Brazilian
+10,10,Elias,BRA,M,1.80,78,02-09-83,Santa Rita do Sapucaí,Villa Rio,Atlйtico Goianiense,2010,Brazilian
+11,11,Juninho,BRA,F,1.67,58,05-04-85,Goianápolis,Anápolis,Atlйtico Goianiense,2010,Brazilian
+12,12,Édson,BRA,G,1.89,85,24-09-85,Unaí,Atlético Mineiro,Atlйtico Goianiense,2010,Brazilian
+13,13,Dida,BRA,D,1.71,72,04-02-79,Palmeira dos Índios,Vila Nova,Atlйtico Goianiense,2010,Brazilian
+14,14,Welton Felipe,BRA,D,1.94,92,15-06-86,Belo Horizonte,Atlético Mineiro,Atlйtico Goianiense,2010,Brazilian
+15,15,Ramalho,BRA,M,1.80,75,03-06-80,Natal,Goiás,Atlйtico Goianiense,2010,Brazilian
+16,16,Chiquinho,BRA,D,1.78,72,13-03-80,Feira de Santana,Santa Cruz,Atlйtico Goianiense,2010,Brazilian
+17,17,Erandir,BRA,M,1.82,76,05-08-82,Fortaleza,ABC,Atlйtico Goianiense,2010,Brazilian
+19,19,Marcão,BRA,F,1.90,83,25-09-85,Camaçari,Ipitanga,Atlйtico Goianiense,2010,Brazilian
+20,20,William,BRA,M,1.73,72,20-11-86,São Paulo,Palmeiras,Atlйtico Goianiense,2010,Brazilian
+22,22,Pedro Paulo,BRA,F,1.72,66,29-06-85,Datas,Atlético Mineiro,Atlйtico Goianiense,2010,Brazilian
+25,25,Diogo Galvão,BRA,F,1.73,73,07-03-82,Rondonópolis,Goiás,Atlйtico Goianiense,2010,Brazilian
+26,26,Victor Ferraz,BRA,D,1.74,74,14-01-88,João Pessoa,Águia de Marabá,Atlйtico Goianiense,2010,Brazilian
+28,28,Keninha,BRA,M,1.74,70,25-11-85,Inhumas,Santa Helena,Atlйtico Goianiense,2010,Brazilian
+29,29,Daniel Marques,BRA,D,1.90,89,11-07-83,Jaú,Grêmio Prudente,Atlйtico Goianiense,2010,Brazilian
+30,30,Anaílson,BRA,M,1.64,59,08-03-78,Estreito,Santo André,Atlйtico Goianiense,2010,Brazilian
+31,31,Roberto,BRA,G,1.85,82,29-01-90,Cornélio Procópio,Goiás,Atlйtico Goianiense,2010,Brazilian
+32,32,Adriano,BRA,D,1.85,86,09-12-87,União da Vitória,Rio Ave,Atlйtico Goianiense,2010,Brazilian
+33,33,Carlinhos Bala,BRA,F,1.62,64,17-09-79,Recife,Náutico,Atlйtico Goianiense,2010,Brazilian
+34,34,Paulo Henrique,BRA,D,1.86,80,27-03-83,Uberlândia,Vitória,Atlйtico Goianiense,2010,Brazilian
+35,35,Diogo Campos,BRA,F,1.74,73,31-12-90,Miranorte,None,Atlйtico Goianiense,2010,Brazilian
+36,36,Teco,BRA,D,1.88,82,11-08-82,Vila Velha,Cruzeiro,Atlйtico Goianiense,2010,Brazilian
+38,38,Renatinho,BRA,M,1.68,68,04-10-88,Cardoso,Coritiba,Atlйtico Goianiense,2010,Brazilian
+40,40,Raphael Luz,BRA,M,1.76,68,18-07-89,Goiânia,Inhumas,Atlйtico Goianiense,2010,Brazilian
+41,42,Thiago Almeida,BRA,D,1.85,82,23-02-88,Alta Floresta,Cuiabá,Atlйtico Goianiense,2010,Brazilian
+42,45,Rômulo,BRA,M,1.86,78,04-02-87,Caxias do Sul,Flamengo,Atlйtico Goianiense,2010,Brazilian
+43,77,Diguinho,BRA,M,1.79,72,05-02-88,Rio de Janeiro,Botafogo,Atlйtico Goianiense,2010,Brazilian
+44,99,Josiel,BRA,F,1.74,75,07-08-80,Rodeiro Bonito,Al-Wahda,Atlйtico Goianiense,2010,Brazilian
+45,,Wellington,BRA,D,1.87,78,09-01-89,Cuiabá,Cruzeiro,Atlйtico Goianiense,2010,Brazilian
+2,2,Diego Macedo,BRA,D,1.73,61,08-05-87,Americana,Coimbra,Atlético Mineiro,2010,Brazilian
+3,3,Júlio César Cáceres,PAR,D,1.81,80,05-10-79,San José de los Aroyos,Boca Juniors,Atlético Mineiro,2010,Brazilian
+4,4,Jairo Campos,ECU,D,1.80,67,19-07-84,Ibarra,LDU Quito,Atlético Mineiro,2010,Brazilian
+5,5,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlético Mineiro,2010,Brazilian
+6,6,Leandro,BRA,D,1.76,63,19-04-79,Rio de Janeiro,FC Porto,Atlético Mineiro,2010,Brazilian
+7,7,Édison Méndez,ECU,M,1.75,68,16-03-79,Valle del Chota,LDU Quito,Atlético Mineiro,2010,Brazilian
+8,8,Serginho Mineiro,BRA,M,1.78,70,04-08-86,Contagem,Vila Nova,Atlético Mineiro,2010,Brazilian
+9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Flamengo,Atlético Mineiro,2010,Brazilian
+10,10,Daniel Carvalho,BRA,M,1.78,79,01-03-83,Porto Alegre,CSKA Moscow,Atlético Mineiro,2010,Brazilian
+11,11,Diego Souza,BRA,M,1.86,89,17-06-85,Rio de Janeiro,Palmeiras,Atlético Mineiro,2010,Brazilian
+13,13,Fábio Costa,BRA,G,1.87,84,27-11-77,Camaçari,Santos,Atlético Mineiro,2010,Brazilian
+14,14,Lima,BRA,D,1.85,78,10-02-85,Ribeirão Preto,Atlético Rondoniense,Atlético Mineiro,2010,Brazilian
+15,15,Zé Luis,BRA,M,1.82,79,23-03-79,Salvador,São Paulo,Atlético Mineiro,2010,Brazilian
+16,16,Fernandinho,BRA,D,1.72,73,16-04-81,Ilhéus,Cruzeiro,Atlético Mineiro,2010,Brazilian
+17,17,Neto Berola,BRA,F,1.71,66,18-11-87,Itabuna,Vitória,Atlético Mineiro,2010,Brazilian
+18,18,Fabiano,BRA,M,1.81,78,06-04-78,Marília,Puebla,Atlético Mineiro,2010,Brazilian
+19,19,Jheimy,BRA,F,1.80,78,06-08-88,Jacunda,Moto Club,Atlético Mineiro,2010,Brazilian
+20,20,Aranha,BRA,G,1.91,89,17-11-80,Pouso Alegre,Ponte Preta,Atlético Mineiro,2010,Brazilian
+21,21,Ricardinho,BRA,M,1.76,73,23-05-76,São Paulo,Al-Rayyan,Atlético Mineiro,2010,Brazilian
+22,22,Werley,BRA,D,1.84,81,05-09-88,Oliveira,None,Atlético Mineiro,2010,Brazilian
+23,23,Ricardo Bueno,BRA,F,1.88,70,15-08-87,São Paulo,Grêmio,Atlético Mineiro,2010,Brazilian
+25,25,Rafael Jataí,BRA,M,1.81,71,19-05-89,Jataí,None,Atlético Mineiro,2010,Brazilian
+26,26,Rafael Cruz,BRA,D,1.76,69,18-01-85,São Paulo,Atlético Goianiense,Atlético Mineiro,2010,Brazilian
+27,27,Obina,BRA,F,1.83,86,31-01-83,Vera Cruz,Flamengo,Atlético Mineiro,2010,Brazilian
+28,28,Jackson,BRA,M,1.77,71,21-01-87,Caucaia,Horizonte,Atlético Mineiro,2010,Brazilian
+29,29,Eron,BRA,D,1.73,68,17-01-92,Belo Horizonte,None,Atlético Mineiro,2010,Brazilian
+30,30,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,None,Atlético Mineiro,2010,Brazilian
+31,31,Alê,BRA,M,1.76,72,21-01-86,São Paulo,Santo André,Atlético Mineiro,2010,Brazilian
+41,,Marcelo,BRA,G,1.86,90,02-03-84,Mococa,Corinthians,Atlético Mineiro,2010,Brazilian
+42,,Sidimar,BRA,D,1.85,80,09-07-92,São José do Cedro,None,Atlético Mineiro,2010,Brazilian
+43,,Fillipe Soutto,BRA,M,1.77,77,11-03-91,Belo Horizonte,None,Atlético Mineiro,2010,Brazilian
+44,,Joedson,BRA,M,1.82,75,18-01-89,Feira de Santana,Fluminense,Atlético Mineiro,2010,Brazilian
+45,,Nikão,BRA,M,1.74,73,29-07-92,Belo Horizonte,None,Atlético Mineiro,2010,Brazilian
+46,,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,None,Atlético Mineiro,2010,Brazilian
+47,,Wescley,BRA,F,1.66,64,11-10-91,Rio de Janeiro,None,Atlético Mineiro,2010,Brazilian
+1,,João Carlos,BRA,G,1.90,92,06-04-88,Paranavaí,None,Atlético Paranaense,2010,Brazilian
+2,,Neto,BRA,G,1.89,78,19-07-89,Araxá,None,Atlético Paranaense,2010,Brazilian
+3,,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlético Paranaense,2010,Brazilian
+4,,Álex Fraga,BRA,D,1.79,87,22-05-86,Alto Paraná,None,Atlético Paranaense,2010,Brazilian
+5,,Bruno Costa,BRA,D,1.80,80,06-02-90,Salvador,None,Atlético Paranaense,2010,Brazilian
+6,,Élder Granja,BRA,D,1.81,73,02-07-82,Santos,Vasco da Gama,Atlético Paranaense,2010,Brazilian
+7,,Eli Sabiá,BRA,D,1.89,86,31-08-88,Mogi Guaçu,Paulista,Atlético Paranaense,2010,Brazilian
+8,,Héracles,BRA,D,1.70,70,18-09-92,Fortaleza,None,Atlético Paranaense,2010,Brazilian
+9,,Leandro,BRA,D,1.83,78,07-04-86,Iratema,Corinthians Paranaense,Atlético Paranaense,2010,Brazilian
+10,,Manoel,BRA,D,1.79,82,26-02-90,Bacabal,None,Atlético Paranaense,2010,Brazilian
+11,,Márcio Azevedo,BRA,D,1.74,77,05-02-86,Guarabira,Juventude,Atlético Paranaense,2010,Brazilian
+12,,Paulinho,BRA,D,1.80,65,15-10-84,Guaranésia,Luverdense,Atlético Paranaense,2010,Brazilian
+13,,Rafael Santos,BRA,D,1.87,85,10-11-84,Jaboticabal,Internacional,Atlético Paranaense,2010,Brazilian
+14,,Raúl Silva,BRA,D,1.87,81,04-11-89,Belém,Remo,Atlético Paranaense,2010,Brazilian
+15,,Rhodolfo,BRA,D,1.93,82,11-08-86,Bandeirantes,União Bandeirante,Atlético Paranaense,2010,Brazilian
+16,,Wagner Diniz,BRA,D,1.70,68,21-09-83,Maceió,São Paulo,Atlético Paranaense,2010,Brazilian
+17,,Branquinho,BRA,M,1.72,71,02-01-83,São José do Rio  Preto,Santo André,Atlético Paranaense,2010,Brazilian
+18,,Chico,BRA,M,1.85,83,02-02-87,Pato Branco,None,Atlético Paranaense,2010,Brazilian
+19,,Claiton,BRA,M,1.79,82,25-01-78,Porto Alegre,Consadole Sapporo,Atlético Paranaense,2010,Brazilian
+20,,Deivid,BRA,M,1.74,69,18-01-89,Londrina,None,Atlético Paranaense,2010,Brazilian
+21,,Iván González,PAR,M,1.78,72,28-01-87,Asunción,Cerro Porteño,Atlético Paranaense,2010,Brazilian
+22,,Joffre Guerrón,ECU,M,1.74,74,28-04-85,Ambuqui,Getafe,Atlético Paranaense,2010,Brazilian
+23,,Mithyuê,BRA,M,1.73,74,16-10-89,Chapecó,Grêmio,Atlético Paranaense,2010,Brazilian
+24,,Netinho,BRA,M,1.73,71,24-04-84,Itajaí,Guarani,Atlético Paranaense,2010,Brazilian
+25,,Olberdam,BRA,M,1.82,82,06-02-85,João Pessoa,Marítimo,Atlético Paranaense,2010,Brazilian
+26,,Paulo Baier,BRA,M,1.84,78,25-10-74,Ijuí,Sport Recife,Atlético Paranaense,2010,Brazilian
+27,,Vitor,BRA,M,1.84,79,01-02-87,Vera Cruz,União Barbarense,Atlético Paranaense,2010,Brazilian
+28,,Bruno Mineiro,BRA,F,1.76,68,02-02-83,Belo Horizonte,América Mineiro,Atlético Paranaense,2010,Brazilian
+29,,Maikon Leite,BRA,F,1.68,62,03-08-88,Mogi das Cruzes,Santos,Atlético Paranaense,2010,Brazilian
+30,,Marcelo Cirino,BRA,F,1.82,74,22-01-92,Maringá,None,Atlético Paranaense,2010,Brazilian
+31,,Federico  Nieto,ARG,F,1.90,86,26-08-83,Capital  Federal,Colón (Santa Fe),Atlético Paranaense,2010,Brazilian
+32,,Thiago Santos,BRA,F,1.84,75,30-01-88,Lagartos,Navegantes,Atlético Paranaense,2010,Brazilian
+1,,Aleks,BRA,G,1.93,86,20-02-91,Criciúma,None,Avaם,2010,Brazilian
+2,,Renan,BRA,G,1.92,83,12-12-90,São João Batista,Criciúma,Avaם,2010,Brazilian
+3,,Zé Carlos,BRA,G,1.84,76,09-09-85,Criciúma,Criciúma,Avaם,2010,Brazilian
+4,,Cleyton,BRA,D,1.87,84,12-04-89,Canta Galo,None,Avaם,2010,Brazilian
+5,,Eltinho,BRA,D,1.71,66,07-07-87,Guaira,Internacional,Avaם,2010,Brazilian
+6,,Émerson Nunes,BRA,D,1.79,76,21-03-82,Belo Horizonte,Botafogo,Avaם,2010,Brazilian
+7,,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Sertãozinho,Avaם,2010,Brazilian
+8,,Gabriel,BRA,D,1.93,96,30-06-87,Camaçari,Desportivo Brasil,Avaם,2010,Brazilian
+9,,Léo Campos,BRA,D,1.84,80,03-07-92,Antônio Carlos,None,Avaם,2010,Brazilian
+10,,Leonardo,BRA,D,1.85,82,22-07-82,São Paulo,Montedio Yamagata,Avaם,2010,Brazilian
+11,,Marcos,BRA,D,1.76,70,24-07-89,Souto Soares,Cruzeiro,Avaם,2010,Brazilian
+12,,Pará,BRA,D,1.72,73,19-09-87,Rio Maria,Capivariano,Avaם,2010,Brazilian
+13,,Patric,BRA,D,1.72,71,25-03-89,Criciúma,Benfica,Avaם,2010,Brazilian
+14,,Rafael,BRA,D,1.82,78,08-07-86,Porto Alegre,Juventude,Avaם,2010,Brazilian
+15,,Batista,BRA,M,1.73,77,12-07-79,Anguera,Paraná,Avaם,2010,Brazilian
+16,,Bruno Silva,BRA,M,1.79,78,03-08-86,Nova Lima,Villa Nova,Avaם,2010,Brazilian
+17,,Caio,BRA,M,1.67,62,10-11-80,Nova Odessa,Bahia,Avaם,2010,Brazilian
+18,,Davi,BRA,M,1.75,72,06-04-84,Rio Grande do Sul,Bragantino,Avaם,2010,Brazilian
+19,,Dinélson,BRA,M,1.66,65,04-02-86,Anagé,Coritiba,Avaם,2010,Brazilian
+20,,Diogo Orlando,BRA,M,1.79,77,04-12-83,Rio de Janeiro,Mirassol,Avaם,2010,Brazilian
+21,,Hégon,BRA,M,1.74,64,06-05-88,Palhoça,União São João,Avaם,2010,Brazilian
+22,,Jéferson,BRA,M,1.80,76,15-07-84,Brasília,Vasco da Gama,Avaם,2010,Brazilian
+23,,Leandro Bonfim,BRA,M,1.73,70,08-01-84,Salvador,Bahia,Avaם,2010,Brazilian
+24,,Marcinho Guerreiro,BRA,M,1.78,70,23-09-80,Novo Horizonte,Murcia,Avaם,2010,Brazilian
+25,,Matheus,BRA,M,1.74,77,31-05-89,São Paulo,Guarani,Avaם,2010,Brazilian
+26,,Robinho,BRA,M,1.70,67,10-11-87,Marialva,Santos,Avaם,2010,Brazilian
+27,,Rodrigo Thiesen,BRA,M,1.80,79,01-12-86,Palhoça,CFZ Imbituba,Avaם,2010,Brazilian
+28,,Rudnei,BRA,M,1.88,78,07-10-84,Florianópolis,Grêmio,Avaם,2010,Brazilian
+29,,Sandro,BRA,M,1.77,74,01-10-83,Fortaleza,Coritiba,Avaם,2010,Brazilian
+30,,Válber,BRA,M,1.74,71,22-09-81,São Luis,Atlético Paranaense,Avaם,2010,Brazilian
+31,,Charles,BRA,F,,,15-09-87,Belo Horizonte,América-AM,Avaם,2010,Brazilian
+32,,Cristian,BRA,F,1.75,69,07-08-90,Araranguá,Atlético Paranaense,Avaם,2010,Brazilian
+33,,Danielzinho,BRA,F,1.78,68,21-02-88,São Paulo,São Bernardo,Avaם,2010,Brazilian
+34,,Laércio Carreirinha,BRA,F,1.70,67,03-03-90,Caiabú,None,Avaם,2010,Brazilian
+35,,Marcelinho,BRA,F,1.69,61,09-01-87,Santa Cruz do Sul,São Caetano,Avaם,2010,Brazilian
+36,,Rafael Costa,BRA,F,1.78,70,23-08-87,São Luís,Força,Avaם,2010,Brazilian
+37,,Roberto,BRA,F,1.76,66,19-12-85,Veranópolis,Cabofriense,Avaם,2010,Brazilian
+38,,Vandinho,BRA,F,1.78,76,24-08-86,Londrina,Desportivo Brasil,Avaם,2010,Brazilian
+1,,Jefferson,BRA,G,1.87,82,02-01-83,São Vicente,Konyaspor,Botafogo,2010,Brazilian
+2,,Luis Guilherme,BRA,G,1.82,77,04-06-92,Rio de Janeiro,None,Botafogo,2010,Brazilian
+3,,Milton Raphael,BRA,G,1.87,80,11-06-91,Volta Redonda,Volta Redonda,Botafogo,2010,Brazilian
+4,,Renan,BRA,G,1.89,87,18-05-89,Rio de Janeiro,None,Botafogo,2010,Brazilian
+5,,Alessandro,BRA,D,1.73,68,21-09-79,Rio de Janeiro,São Caetano,Botafogo,2010,Brazilian
+6,,Alex Lopes,BRA,D,1.76,74,16-05-89,Nova Iguaçu,None,Botafogo,2010,Brazilian
+7,,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,Atlético Paranaense,Botafogo,2010,Brazilian
+8,,Danny Morais,BRA,D,1.88,70,29-06-85,Porto Alegre,Internacional,Botafogo,2010,Brazilian
+9,,Edson,BRA,D,1.83,84,06-07-87,Itaquitinga,Figueirense,Botafogo,2010,Brazilian
+10,,Fábio Ferreira,BRA,D,1.88,82,04-10-84,Campina Grande,Vitória,Botafogo,2010,Brazilian
+11,,Lucas Zen,BRA,D,1.83,74,17-06-91,Rio de Janeiro,None,Botafogo,2010,Brazilian
+12,,Marcelo Cordeiro,BRA,D,1.75,69,12-04-81,Niterói,Internacional,Botafogo,2010,Brazilian
+13,,Márcio Rozário,BRA,D,1.87,88,21-11-83,São Mateus,Al-Jazira,Botafogo,2010,Brazilian
+14,,Bruno,BRA,M,1.72,65,28-03-89,São Luis,Americano,Botafogo,2010,Brazilian
+15,,Edno,BRA,M,1.82,73,31-05-83,Lages,Corinthians,Botafogo,2010,Brazilian
+16,,Elizeu,BRA,M,1.83,78,28-05-89,Recife,Internacional,Botafogo,2010,Brazilian
+17,,Fahel,BRA,M,1.82,77,15-08-81,Teófilo Otoni,Villa Rio,Botafogo,2010,Brazilian
+18,,Felipe Lima,BRA,M,1.81,78,02-02-89,Rio de Janeiro,Fluminense,Botafogo,2010,Brazilian
+19,,Gerson,BRA,M,1.86,85,07-01-92,Rio de Janeiro,None,Botafogo,2010,Brazilian
+20,,Leandro Guerreiro,BRA,M,1.82,68,17-11-78,São Borja,Criciúma,Botafogo,2010,Brazilian
+21,,Lúcio Flávio,BRA,M,1.75,69,03-02-79,Curitiba,Santos,Botafogo,2010,Brazilian
+22,,Maicosuel,BRA,M,1.78,59,16-06-86,Cosmópolis,1899 Hoffenheim,Botafogo,2010,Brazilian
+23,,Marcelo Mattos,BRA,M,1.79,71,10-02-84,Indiaporã,Panathinaikos,Botafogo,2010,Brazilian
+24,,Marcos Vinícius,BRA,M,1.76,74,15-04-89,Rio Bonito,Olaria,Botafogo,2010,Brazilian
+25,,Renato Cajá,BRA,M,1.73,70,15-09-84,Paraíba,Grêmio,Botafogo,2010,Brazilian
+26,,Somália,BRA,M,1.80,70,10-04-84,São Paulo,América de Natal,Botafogo,2010,Brazilian
+27,,Túlio Souza,BRA,M,1.76,67,25-03-83,Campina Grande,Coritiba,Botafogo,2010,Brazilian
+28,,Sebastián Abreu,URU,F,1.93,84,17-10-76,Minas Lavalleja,Aris,Botafogo,2010,Brazilian
+29,,Alex,BRA,F,1.79,71,21-08-90,São Gonçalo,CFZ,Botafogo,2010,Brazilian
+30,,Caio,BRA,F,1.76,70,09-08-90,Volta Redonda,Volta Redonda,Botafogo,2010,Brazilian
+31,,Germán Herrera,ARG,F,1.80,80,19-07-83,Santa Fe,Grêmio,Botafogo,2010,Brazilian
+32,,Jóbson,BRA,F,1.75,72,15-02-88,Conceição do Araguaia,Brasiliense,Botafogo,2010,Brazilian
+1,1,Diego,BRA,G,1.86,87,02-02-82,São Gonçalo,Flamengo,Ceará,2010,Brazilian
+2,2,Oziel,BRA,D,1.69,68,10-08-84,João Pessoa,Tigres do Brasil,Ceará,2010,Brazilian
+3,3,Fabrício,BRA,D,1.84,78,08-10-80,Água Boa,América de Natal,Ceará,2010,Brazilian
+4,4,Erivélton,BRA,D,1.79,77,02-04-78,Carvalhos,Sertãozinho,Ceará,2010,Brazilian
+5,5,Michel,BRA,M,1.80,78,08-06-81,São Paulo,Sport Recife,Ceará,2010,Brazilian
+6,6,Vicente,BRA,D,1.72,68,30-04-83,Maceió,Iraty,Ceará,2010,Brazilian
+7,7,Camilo,BRA,M,1.74,72,09-03-86,Rio de Janeiro,Cruzeiro,Ceará,2010,Brazilian
+8,8,João Marcos,BRA,M,1.77,73,24-06-81,Marília,Noroeste,Ceará,2010,Brazilian
+9,9,Washington,BRA,F,1.80,75,17-07-78,São José dos Campos,Palmeiras,Ceará,2010,Brazilian
+10,10,Geraldo,BRA,M,1.73,74,06-04-74,Duque de Caxias,Itumbiara,Ceará,2010,Brazilian
+13,13,Clodoaldo,BRA,F,1.61,61,28-12-78,Ipu,Guarany de Sobral,Ceará,2010,Brazilian
+14,14,Anderson,BRA,D,1.81,79,26-08-82,Itaperuna,Americano,Ceará,2010,Brazilian
+15,15,Javier Reina,COL,M,1.73,70,04-01-89,Cali,Cruzeiro,Ceará,2010,Brazilian
+17,17,Heleno,BRA,M,1.83,80,23-02-78,São Vincente,Vila Nova,Ceará,2010,Brazilian
+19,19,Careca,BRA,M,1.81,74,30-10-80,Tambaú,Guaratinguetá,Ceará,2010,Brazilian
+20,20,Luizinho,BRA,M,1.79,63,16-02-88,Senador Melo Viana,SEV-Hortolândia,Ceará,2010,Brazilian
+21,21,Misael,BRA,F,1.71,71,04-07-87,São Luís,Moto Club,Ceará,2010,Brazilian
+22,22,Michel Alves,BRA,G,1.88,87,25-03-81,Pelotas,Internacional,Ceará,2010,Brazilian
+23,23,Ernandes,BRA,M,1.73,71,11-11-87,São Felix do Araguaia,Americano,Ceará,2010,Brazilian
+27,27,Diego Sacoman,BRA,D,1.84,79,15-12-86,Guarulhos,Corinthians,Ceará,2010,Brazilian
+29,29,Jean Carlos,BRA,F,1.78,74,17-03-84,Salvador,Amkar Perm,Ceará,2010,Brazilian
+31,31,Tony,BRA,M,1.76,67,29-05-86,São Paulo,Boavista-RJ,Ceará,2010,Brazilian
+32,32,Dionantan,BRA,G,1.79,76,17-02-85,Ipu,Ferroviário,Ceará,2010,Brazilian
+33,33,Júnior Cearense,BRA,M,1.76,75,19-11-77,Fortaleza,Horizonte,Ceará,2010,Brazilian
+34,34,Everton Kempes,BRA,F,1.82,85,08-03-82,Carpina,Portuguesa,Ceará,2010,Brazilian
+36,36,Wellington Amorim,BRA,F,1.76,74,23-01-77,Belo Horizonte,Guaratinguetá,Ceará,2010,Brazilian
+38,38,Pablo,BRA,D,1.88,79,21-06-91,São Luíz,Ferroviário,Ceará,2010,Brazilian
+40,40,Eusébio,BRA,D,1.68,63,22-09-85,Eusébio,Fortaleza,Ceará,2010,Brazilian
+41,41,Boiadeiro,BRA,D,1.72,70,24-09-84,Rio de Janeiro,Paysandu,Ceará,2010,Brazilian
+42,42,Vandinho,BRA,M,1.78,73,10-07-80,Presidente Epitácio,São Caetano,Ceará,2010,Brazilian
+43,46,Adílson,BRA,G,1.87,83,28-05-74,Guaxupé,Atlético Mineiro,Ceará,2010,Brazilian
+44,47,Arlindo Maracanã,BRA,D,1.79,77,02-10-78,São Luís,Avaí,Ceará,2010,Brazilian
+45,96,Magno Alves,BRA,F,1.75,64,13-01-76,Aporá,Umm-Salal,Ceará,2010,Brazilian
+46,99,Marcelo Nicácio,BRA,F,1.75,79,05-01-83,Salvador,Atlético Mineiro,Ceará,2010,Brazilian
+1,1,Júlio César,BRA,G,1.86,78,27-10-84,São Paulo,None,Corinthians,2010,Brazilian
+2,2,Alessandro,BRA,D,1.79,77,10-01-79,Assis Chateaubriand,Santos,Corinthians,2010,Brazilian
+3,3,Chicão,BRA,D,1.81,81,03-06-81,Mogi Guaçu,Figueirense,Corinthians,2010,Brazilian
+4,4,Willliam,BRA,D,1.89,81,24-08-76,Belo Horizonte,Grêmio,Corinthians,2010,Brazilian
+5,5,Ralf,BRA,M,1.80,73,09-06-84,São Paulo,Barueri,Corinthians,2010,Brazilian
+6,6,Roberto Carlos,BRA,D,1.68,73,10-04-73,Garca,Fenerbahçe,Corinthians,2010,Brazilian
+7,7,Elias,BRA,M,1.73,64,16-05-85,São Paulo,Ponte Preta,Corinthians,2010,Brazilian
+8,8,Jucilei,BRA,M,1.85,76,06-04-88,São Gonçalo,J. Malucelli,Corinthians,2010,Brazilian
+9,9,Ronaldo,BRA,F,1.83,82,22-09-76,Rio de Janeiro,Milan,Corinthians,2010,Brazilian
+10,10,Bruno César,BRA,M,1.78,73,03-11-88,Santa Bárbara d'Oeste,Santo André,Corinthians,2010,Brazilian
+11,11,Danilo,BRA,M,1.86,84,11-06-79,São Gotardo,Kashima Antlers,Corinthians,2010,Brazilian
+13,13,Paulo André,BRA,D,1.88,82,20-08-83,Campinas,Le Mans,Corinthians,2010,Brazilian
+14,14,Leandro Castán,BRA,D,1.85,78,05-11-86,Jaú,Barueri,Corinthians,2010,Brazilian
+15,15,Paulinho,BRA,M,1.80,71,25-07-88,São Paulo,Coimbra,Corinthians,2010,Brazilian
+16,16,Dodô,BRA,D,1.77,69,06-02-92,Campinas,None,Corinthians,2010,Brazilian
+17,17,Edú,BRA,M,1.89,80,15-05-78,São Paulo,Valencia,Corinthians,2010,Brazilian
+18,18,Boquita,BRA,M,1.79,73,07-04-90,São Paulo,None,Corinthians,2010,Brazilian
+19,19,Souza,BRA,F,1.88,87,04-03-82,Rio de Janeiro,Panathinaikos,Corinthians,2010,Brazilian
+20,20,Matías  De Federico,ARG,M,1.71,69,23-08-89,Capital  Federal,Huracán,Corinthians,2010,Brazilian
+21,21,Iarley,BRA,F,1.71,69,29-03-74,Quixeramobim,Goiás,Corinthians,2010,Brazilian
+22,22,Rafael Santos,BRA,G,1.89,82,14-03-89,Barretos,None,Corinthians,2010,Brazilian
+23,23,Jorge Henrique,BRA,F,1.69,69,23-04-82,Resende,Botafogo,Corinthians,2010,Brazilian
+26,26,Renato Chaves,BRA,D,1.85,85,04-05-90,São Paulo,None,Corinthians,2010,Brazilian
+27,27,William Morais,BRA,M,1.88,76,01-03-91,São Paulo,None,Corinthians,2010,Brazilian
+28,28,Moacir,BRA,M,1.84,70,14-02-86,Recife,Coimbra,Corinthians,2010,Brazilian
+29,29,Danilo Fernandes,BRA,G,1.89,84,03-04-88,Guarulhos,None,Corinthians,2010,Brazilian
+31,31,Dentinho,BRA,F,1.75,72,19-01-89,São Paulo,None,Corinthians,2010,Brazilian
+32,32,Elias,BRA,F,1.74,68,22-05-92,São Paulo,None,Corinthians,2010,Brazilian
+33,33,Thiago Heleno,BRA,D,1.85,84,17-09-88,Sete Lagoas,Deportivo Maldonado,Corinthians,2010,Brazilian
+34,34,Aldo Bobadilla,PAR,G,1.94,87,20-04-76,Pedro Juan Caballero,Independiente Medellín,Corinthians,2010,Brazilian
+1,,Fábio,BRA,G,1.90,93,30-09-80,Nobres,Vasco da Gama,Cruzeiro,2010,Brazilian
+2,,Flávio,BRA,G,1.91,79,05-03-85,Teófilo Otoni,None,Cruzeiro,2010,Brazilian
+3,,Gabriel Vasconcellos,BRA,G,1.93,89,27-09-92,Unaí,None,Cruzeiro,2010,Brazilian
+4,,Rafael,BRA,G,1.92,81,23-06-89,Coronel Fabriciano,None,Cruzeiro,2010,Brazilian
+5,,Claudio Caçapa,BRA,D,1.84,77,29-05-76,Lavras,Newcastle U,Cruzeiro,2010,Brazilian
+6,,Diego Renan,BRA,D,1.72,71,26-01-90,Surubim,None,Cruzeiro,2010,Brazilian
+7,,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Cruz Azul,Cruzeiro,2010,Brazilian
+8,,Gil,BRA,D,1.90,89,12-06-87,Campos dos Goytacazes,Atlético Goianiense,Cruzeiro,2010,Brazilian
+9,,Gilberto,BRA,D,1.80,78,25-04-76,Rio  de Janeiro,Tottenham H,Cruzeiro,2010,Brazilian
+10,,Jonathan,BRA,D,1.70,72,27-02-86,Conselheiro Lafaiete,None,Cruzeiro,2010,Brazilian
+11,,Léo,BRA,D,1.84,81,30-01-88,Belo Horizonte,Palmeiras,Cruzeiro,2010,Brazilian
+12,,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Palmeiras,Cruzeiro,2010,Brazilian
+13,,Pablo,BRA,D,1.90,83,03-08-89,São João Nepomuceno,Zaragoza,Cruzeiro,2010,Brazilian
+14,,Rômulo,BRA,D,1.78,72,22-05-87,Pelotas,Santo André,Cruzeiro,2010,Brazilian
+15,,Elicarlos,BRA,M,1.76,73,08-06-85,Laranjeiras,Náutico,Cruzeiro,2010,Brazilian
+16,,Éverton,BRA,M,1.71,65,08-08-84,Maranguape,Fluminense,Cruzeiro,2010,Brazilian
+17,,Fabinho,BRA,M,1.86,72,10-01-80,São Bernardo do Campo,Toulouse,Cruzeiro,2010,Brazilian
+18,,Fabrício,BRA,M,1.78,76,05-07-82,Imbituba,Júbilo Iwata,Cruzeiro,2010,Brazilian
+19,,Henrique,BRA,M,1.79,72,16-05-85,Londrina,Júbilo Iwata,Cruzeiro,2010,Brazilian
+20,,Marquinhos Paraná,BRA,M,1.74,71,20-07-77,Recife,Júbilo Iwata,Cruzeiro,2010,Brazilian
+21,,Wálter Montillo,ARG,M,1.71,69,14-04-84,Villa Modelo,Universidad de Chile,Cruzeiro,2010,Brazilian
+22,,Pedro Ken,BRA,M,1.81,75,20-03-87,Curitiba,Coritiba,Cruzeiro,2010,Brazilian
+23,,Sebastián Prediguer,ARG,M,1.84,80,04-09-86,Crespo,FC Porto,Cruzeiro,2010,Brazilian
+24,,Roger,BRA,M,1.70,69,17-08-78,Rio de Janeiro,Qatar SC,Cruzeiro,2010,Brazilian
+25,,Ernesto Farías,ARG,F,1.78,79,29-05-80,Trenque Lauquen,FC Porto,Cruzeiro,2010,Brazilian
+26,,Robert,BRA,F,1.84,79,27-02-81,Salvador,Monterrey,Cruzeiro,2010,Brazilian
+27,,Thiago Ribeiro,BRA,F,1.85,74,24-02-86,Pontes Gestal,Al-Rayyan,Cruzeiro,2010,Brazilian
+28,,Wallyson,BRA,F,1.78,65,17-10-88,Natal,Deportivo Maldonado,Cruzeiro,2010,Brazilian
+29,,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo,Botafogo,Cruzeiro,2010,Brazilian
+2,2,Léonardo Moura,BRA,D,1.76,65,23-10-78,Niterói,Sporting Braga,Flamengo,2010,Brazilian
+4,4,Ronaldo Angelim,BRA,D,1.77,70,29-11-75,São Paulo,Fortaleza,Flamengo,2010,Brazilian
+5,5,Toró,BRA,M,1.69,72,13-04-86,Rio de Janeiro,Fluminense,Flamengo,2010,Brazilian
+6,6,Juan,BRA,D,1.67,66,06-02-82,São Paulo,Fluminense,Flamengo,2010,Brazilian
+7,7,Corrêa,BRA,M,1.76,73,29-12-80,Limeira,Dynamo Kiev,Flamengo,2010,Brazilian
+8,8,Willians,BRA,M,1.75,71,29-01-86,São Paulo,Santo André,Flamengo,2010,Brazilian
+9,9,Val Baiano,BRA,F,1.83,78,07-04-81,Jequié,Monterrey,Flamengo,2010,Brazilian
+10,10,Dejan Petković,SRB,M,1.75,73,10-09-72,Majdanpek,Atlético Mineiro,Flamengo,2010,Brazilian
+11,11,Renato,BRA,M,1.83,78,09-06-78,São Paulo,Al-Shabab,Flamengo,2010,Brazilian
+13,13,Claudio Maldonado,CHI,M,1.74,74,03-01-80,Curió,Rentistas,Flamengo,2010,Brazilian
+14,14,David Braz,BRA,D,1.87,82,21-05-87,Guarulhos,Panathinaikos,Flamengo,2010,Brazilian
+15,15,Kléberson,BRA,M,1.75,64,19-06-79,Urai,Beşiktaş,Flamengo,2010,Brazilian
+16,16,Gonzalo Fierro,CHI,F,1.71,70,21-03-83,Santiago,Colo-Colo,Flamengo,2010,Brazilian
+17,17,Fernando,BRA,M,1.82,71,12-05-86,Rio de Janeiro,Goiás,Flamengo,2010,Brazilian
+18,18,Marllon,BRA,D,1.81,75,16-04-92,Rio de Janeiro,Bangu,Flamengo,2010,Brazilian
+20,20,Rafinha,BRA,F,1.64,55,01-04-93,Porto Franco,CFZ,Flamengo,2010,Brazilian
+23,23,Welinton,BRA,D,1.87,83,10-04-89,Rio de Janeiro,None,Flamengo,2010,Brazilian
+25,25,Léo Medeiros,BRA,M,1.85,79,14-05-81,Recreio,Cruzeiro,Flamengo,2010,Brazilian
+26,26,Jean,BRA,D,1.86,78,18-11-79,Feira de Santana,FC Moscow,Flamengo,2010,Brazilian
+27,27,Paulo Victor,BRA,G,1.87,76,12-01-87,Assis,América-RJ,Flamengo,2010,Brazilian
+28,28,Vinícius,BRA,G,1.90,78,09-11-84,Goiânia,Boavista-RJ,Flamengo,2010,Brazilian
+29,29,Marcelo Lomba,BRA,G,1.87,80,18-12-86,Rio de Janeiro,None,Flamengo,2010,Brazilian
+31,31,Marcelo Carné,BRA,G,1.87,84,06-02-90,Rio de Janeiro,None,Flamengo,2010,Brazilian
+32,32,Rodrigo Alvim,BRA,D,1.82,73,25-11-83,Paraná,Wolfsburg,Flamengo,2010,Brazilian
+33,33,Leandro Amaral,BRA,F,1.77,74,06-08-77,Vila Prudente,Fluminense,Flamengo,2010,Brazilian
+35,35,Jorbison,BRA,D,1.72,64,30-12-91,Camacan,None,Flamengo,2010,Brazilian
+36,36,Negueba,BRA,F,1.78,70,07-04-92,Rio de Janeiro,None,Flamengo,2010,Brazilian
+37,37,Cristian Borja,COL,F,1.83,79,01-01-88,Quibdó,Caxias,Flamengo,2010,Brazilian
+38,38,Marquinhos,BRA,F,1.75,68,19-10-89,Prado,Desportivo Brasil,Flamengo,2010,Brazilian
+41,41,Antônio,BRA,M,1.82,78,30-03-89,Rio de Janeiro,None,Flamengo,2010,Brazilian
+42,42,Rafael Galhardo,BRA,D,1.76,70,30-10-91,Nova Friburgo,None,Flamengo,2010,Brazilian
+43,43,Diogo,BRA,F,1.81,82,26-05-87,São Paulo,Olympiakos,Flamengo,2010,Brazilian
+44,44,William Júnior,BRA,M,1.70,58,06-05-87,São Gonçalo,None,Flamengo,2010,Brazilian
+45,46,Vítor Saba,BRA,M,1.84,73,11-07-90,Rio de Janeiro,None,Flamengo,2010,Brazilian
+46,48,Carlyle,BRA,F,,,26-09-91,Goiânia,None,Flamengo,2010,Brazilian
+47,49,Diego Mauricio,BRA,F,1.82,77,25-06-91,Rio de Janeiro,None,Flamengo,2010,Brazilian
+48,50,Diego Lima,BRA,G,,,18-09-90,Rio de Janeiro,None,Flamengo,2010,Brazilian
+49,80,Michael,BRA,M,1.74,73,16-02-83,São Caetano do Sul,Dynamo Kiev,Flamengo,2010,Brazilian
+50,88,Uendel,BRA,D,1.78,64,08-10-88,Araranguá,Grêmio,Flamengo,2010,Brazilian
+51,99,Deivid,BRA,F,1.80,73,22-10-79,Nova  Iguaça,Fenerbahçe,Flamengo,2010,Brazilian
+1,,Fernando Henrique,BRA,G,1.89,82,25-11-83,Rio de Janeiro,None,Fluminense,2010,Brazilian
+2,,Klever,BRA,G,1.88,82,20-06-89,Mirassol,None,Fluminense,2010,Brazilian
+3,,Rafael,BRA,G,1.92,85,24-03-84,Araraquara,Vasco da Gama,Fluminense,2010,Brazilian
+4,,Ricardo Berna,BRA,G,1.87,83,11-06-79,Valença-RJ,América Mineiro,Fluminense,2010,Brazilian
+5,,André Luis,BRA,D,1.92,86,31-07-79,Bagé,São Paulo,Fluminense,2010,Brazilian
+6,,Belletti,BRA,D,1.79,74,20-06-76,Cascavel,Chelsea,Fluminense,2010,Brazilian
+7,,Carlinhos,BRA,D,1.76,72,23-01-87,Vitória da Conquista,Santo André,Fluminense,2010,Brazilian
+8,,Cássio,BRA,D,1.83,83,08-07-86,Porto Alegre,Desportivo Brasil,Fluminense,2010,Brazilian
+9,,Digão,BRA,D,1.87,85,07-05-88,Duque de Caxias,None,Fluminense,2010,Brazilian
+10,,Gerson,BRA,D,1.78,73,03-04-86,Valença,América-RJ,Fluminense,2010,Brazilian
+11,,Gum,BRA,D,1.89,86,04-01-86,São Paulo,Ponte Preta,Fluminense,2010,Brazilian
+12,,Júlio César,BRA,D,1.73,70,15-06-82,São Paulo,Cruzeiro,Fluminense,2010,Brazilian
+13,,Leandro Euzébio,BRA,D,1.87,83,18-08-81,Cabo Frio,Cruzeiro,Fluminense,2010,Brazilian
+14,,Mariano,BRA,D,1.77,70,23-06-86,São João,Tombense,Fluminense,2010,Brazilian
+15,,Marquinhos,BRA,D,1.83,75,22-03-83,Rio de Janeiro,Duque de Caxias,Fluminense,2010,Brazilian
+16,,Thiago Sales,BRA,D,1.80,78,07-05-87,Rio de Janeiro,Flamengo,Fluminense,2010,Brazilian
+17,,Darío Conca,ARG,M,1.67,62,11-05-83,Capital Federal,River Plate,Fluminense,2010,Brazilian
+18,,Deco,POR,M,1.74,73,27-08-77,São  Bernardo do Campo,Chelsea,Fluminense,2010,Brazilian
+19,,Diguinho,BRA,M,1.71,69,20-03-83,Canoas,Botafogo,Fluminense,2010,Brazilian
+20,,Diogo,BRA,M,1.81,80,20-10-86,Arapongas,Junior Team Futebol,Fluminense,2010,Brazilian
+21,,Fernando Bob,BRA,M,1.80,74,07-01-88,Cabo Frio,None,Fluminense,2010,Brazilian
+22,,Ezequiel González,ARG,M,1.78,76,10-07-80,Rosario,Rosario Central,Fluminense,2010,Brazilian
+23,,Marquinho,BRA,M,1.84,76,03-07-86,Passo Fundo,Figueirense,Fluminense,2010,Brazilian
+24,,Raphael Augusto,BRA,M,1.81,77,06-03-91,Rio de Janeiro,None,Fluminense,2010,Brazilian
+25,,Tartá,BRA,M,1.71,65,13-04-89,Rio de Janeiro,None,Fluminense,2010,Brazilian
+26,,Thiaguinho,BRA,M,1.69,72,22-11-84,Rio de Janeiro,Boavista [BRA],Fluminense,2010,Brazilian
+27,,Edwin Valencia,COL,M,1.81,85,29-03-85,Florida Valle,Atlético Paranaense,Fluminense,2010,Brazilian
+28,,Emerson,BRA,F,1.71,69,06-12-78,Nova Iguaçu,Al-Ain,Fluminense,2010,Brazilian
+29,,Fred,BRA,F,1.85,84,03-10-83,Téofilo Otoni,Lyon,Fluminense,2010,Brazilian
+30,,Rodriguinho,BRA,F,1.74,70,02-02-83,Santos,Santo André,Fluminense,2010,Brazilian
+31,,Washington,BRA,F,1.89,89,01-04-75,Brasília,São Paulo,Fluminense,2010,Brazilian
+32,,Wellington Silva,BRA,F,1.70,64,06-01-93,Rio de Janeiro,None,Fluminense,2010,Brazilian
+33,,Willians,BRA,F,1.82,71,22-05-88,Aracaju,Desportivo Brasil,Fluminense,2010,Brazilian
+1,,Fábio,BRA,G,2.00,88,19-09-78,São José dos Campos,Guaratinguetá,Goiás,2010,Brazilian
+2,,Harlei,BRA,G,1.82,84,30-03-72,Belo Horizonte,Vila Nova,Goiás,2010,Brazilian
+3,,Pedro Henrique,BRA,G,1.90,84,12-10-85,Barra do Garça,None,Goiás,2010,Brazilian
+4,,Rodrigo Calaça,BRA,G,1.84,77,25-01-81,Catalão,Comercial de Catalão,Goiás,2010,Brazilian
+5,,Douglas,BRA,D,1.72,63,06-08-90,Monte Alegre,None,Goiás,2010,Brazilian
+6,,Ernando,BRA,D,1.84,75,14-07-88,Formosa,None,Goiás,2010,Brazilian
+7,,Jadílson,BRA,D,1.65,66,04-12-77,Maceió,Grêmio,Goiás,2010,Brazilian
+8,,Júnior,BRA,D,1.73,65,20-06-73,Santo Antônio de Jesus,Atlético Mineiro,Goiás,2010,Brazilian
+9,,Marcão,BRA,D,1.85,83,28-03-75,Curitiba,Palmeiras,Goiás,2010,Brazilian
+10,,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,None,Goiás,2010,Brazilian
+11,,Valmir Lucas,BRA,D,1.85,76,12-01-89,Edéia,None,Goiás,2010,Brazilian
+12,,Wellington Saci,BRA,D,1.73,73,05-01-85,Belém,Corinthians,Goiás,2010,Brazilian
+13,,Amaral,BRA,M,1.82,67,07-10-86,Goiânia,None,Goiás,2010,Brazilian
+14,,Bernardo,BRA,M,1.77,70,20-05-90,Sorocaba,Cruzeiro,Goiás,2010,Brazilian
+15,,Camacho,BRA,M,1.81,73,02-03-90,Rio de Janeiro,Flamengo,Goiás,2010,Brazilian
+16,,Carlos Alberto,BRA,M,1.68,68,24-01-78,Rio de Janeiro,Corinthians,Goiás,2010,Brazilian
+17,,Hugo,BRA,M,1.78,76,21-08-83,Itaperuna,Atlético Mineiro,Goiás,2010,Brazilian
+18,,Jonílson,BRA,M,1.75,73,28-11-78,Pinheiral,Atlético Mineiro,Goiás,2010,Brazilian
+19,,Lenon,BRA,M,1.77,65,02-05-90,São Paulo,Flamengo,Goiás,2010,Brazilian
+20,,Marcelo Costa,BRA,M,1.76,70,24-07-80,Campinas do Sul,Palmeiras,Goiás,2010,Brazilian
+21,,Rithely,BRA,M,1.74,73,27-01-91,São Luís,None,Goiás,2010,Brazilian
+22,,Wellington Monteiro,BRA,M,1.77,78,07-09-78,Rio de Janeiro,Fluminense,Goiás,2010,Brazilian
+23,,Wendel,BRA,M,1.78,75,08-10-81,Itapetinga,Palmeiras,Goiás,2010,Brazilian
+24,,Éverton Santos,BRA,F,1.76,66,14-10-86,São José dos Campos,Paris St-Germain,Goiás,2010,Brazilian
+25,,Felipe,BRA,F,1.73,79,17-04-78,Passo Fundo,Náutico,Goiás,2010,Brazilian
+26,,Jones,BRA,F,1.77,74,14-10-88,Caratinga,Deportivo Maldonado,Goiás,2010,Brazilian
+27,,Marcus Vinícius,BRA,F,1.79,79,18-01-90,Mutunópolis,None,Goiás,2010,Brazilian
+28,,Otacílio Neto,BRA,F,1.80,75,17-11-82,Orós,Corinthians,Goiás,2010,Brazilian
+29,,Rafael Moura,BRA,F,1.89,85,23-05-83,Belo Horizonte,Locarno,Goiás,2010,Brazilian
+30,,Vitor Flora,BRA,F,1.79,80,21-02-90,São Joaquim da Barra,Liverpool,Goiás,2010,Brazilian
+1,,Busatto,BRA,G,1.89,78,23-10-90,Arroio do Tigre,None,Grкmio,2010,Brazilian
+2,,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Grкmio,2010,Brazilian
+3,,Matheus,BRA,G,1.85,82,05-05-89,Alegrete,None,Grкmio,2010,Brazilian
+4,,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Paulista,Grкmio,2010,Brazilian
+5,,Edílson,BRA,D,1.77,78,27-07-86,Nova Esperança,Ponte Preta,Grкmio,2010,Brazilian
+6,,Fábio Santos,BRA,D,1.79,75,16-09-85,São Paulo,Santos,Grкmio,2010,Brazilian
+7,,Gabriel,BRA,D,1.71,70,05-06-81,Feira de Santana,Panathinaikos,Grкmio,2010,Brazilian
+8,,Gilson,BRA,D,1.78,70,14-05-86,Campo Grande,Paraná,Grкmio,2010,Brazilian
+9,,Lúcio,BRA,D,1.76,68,20-06-79,Recife,Hertha Berlin,Grкmio,2010,Brazilian
+10,,Mário Fernandes,BRA,D,1.89,77,19-09-90,São Caetano,São Caetano,Grкmio,2010,Brazilian
+11,,Neuton,BRA,D,1.82,79,14-03-90,Erechim,None,Grкmio,2010,Brazilian
+12,,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Paços de Ferreira,Grкmio,2010,Brazilian
+13,,Paulão,BRA,D,1.87,82,25-02-86,Bahia,Grêmio Prudente,Grкmio,2010,Brazilian
+14,,Rafael Marques,BRA,D,1.84,81,21-09-83,Rio de Janeiro,Goiás,Grкmio,2010,Brazilian
+15,,Saimon,BRA,D,1.83,74,03-03-91,Erechim,None,Grкmio,2010,Brazilian
+16,,Vilson,BRA,D,1.89,79,03-04-88,São Gonçalo,Madureira,Grкmio,2010,Brazilian
+17,,Adilson,BRA,M,1.81,70,16-01-87,Bom Princípio,None,Grкmio,2010,Brazilian
+18,,Douglas,BRA,M,1.75,66,18-02-82,Criciúma,Al Wasl,Grкmio,2010,Brazilian
+19,,Fábio Rochemback,BRA,M,1.83,83,10-12-81,Soledade,Sporting CP,Grкmio,2010,Brazilian
+20,,Ferdinando,BRA,M,1.80,74,22-04-80,Grajaú,Avaí,Grкmio,2010,Brazilian
+21,,Fernando,BRA,M,1.73,66,03-03-92,Erechim,None,Grкmio,2010,Brazilian
+22,,Henrique,BRA,M,1.79,77,29-05-89,São Paulo,São Caetano,Grкmio,2010,Brazilian
+23,,Maylson,BRA,M,1.80,71,06-03-89,São Bernardo,None,Grкmio,2010,Brazilian
+24,,Souza,BRA,M,1.76,77,04-02-79,Maceió,Paris St-Germain,Grкmio,2010,Brazilian
+25,,Willian Magrão,BRA,M,1.90,78,16-02-87,Mogi Mirim,None,Grкmio,2010,Brazilian
+26,,André Lima,BRA,F,1.85,84,03-05-85,Rio de Janeiro,Hertha Berlin,Grкmio,2010,Brazilian
+27,,Bergson,BRA,F,1.79,76,09-02-91,Rio Grande do Sul,None,Grкmio,2010,Brazilian
+28,,Borges,BRA,F,1.76,75,05-10-80,Salvador,São Paulo,Grкmio,2010,Brazilian
+29,,Diego Clementino,BRA,F,1.75,67,18-03-84,São Paulo,América Mineiro,Grкmio,2010,Brazilian
+30,,Jonas,BRA,F,1.83,73,01-04-84,Bebedouro,Santos,Grкmio,2010,Brazilian
+31,,Junior Viçosa,BRA,F,1.82,79,24-07-89,Viçosa,ASA,Grкmio,2010,Brazilian
+32,,Leandro,BRA,F,1.73,70,13-08-80,Araras,Tokyo Verdy,Grкmio,2010,Brazilian
+33,,Roberson,BRA,F,1.81,72,02-04-89,Campo Grande,None,Grкmio,2010,Brazilian
+34,,Wesley,BRA,F,1.78,70,24-04-90,Sertãozinho,None,Grкmio,2010,Brazilian
+1,,Everton,BRA,G,1.95,97,05-04-89,Guarulhos,None,Grךmio Prudente,2010,Brazilian
+2,,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Marília,Grךmio Prudente,2010,Brazilian
+3,,Márcio,BRA,G,1.91,82,20-12-81,São Paulo,Ituano,Grךmio Prudente,2010,Brazilian
+4,,Sidney,BRA,G,1.89,88,24-12-82,São Paulo,Luverdense,Grךmio Prudente,2010,Brazilian
+5,,Anderson Bill,BRA,D,1.89,80,04-05-81,Criciúma,Caxias,Grךmio Prudente,2010,Brazilian
+6,,Ânderson Luis,BRA,D,1.80,70,10-03-87,Barra Mansa,Desportivo Brasil,Grךmio Prudente,2010,Brazilian
+7,,Arthur Henrique,BRA,D,1.78,74,14-01-87,São Paulo,Santo André,Grךmio Prudente,2010,Brazilian
+8,,Bruno Ribeiro,BRA,D,1.71,67,01-04-83,São Paulo,Marília,Grךmio Prudente,2010,Brazilian
+9,,Cristiano,BRA,D,1.88,76,24-01-88,São Bernardo do Campo,Monte Azul,Grךmio Prudente,2010,Brazilian
+10,,Diego,BRA,D,1.84,80,27-11-83,Cascavel,Figueirense,Grךmio Prudente,2010,Brazilian
+11,,Diogo,BRA,D,1.73,64,18-12-84,Estância,Corinthians,Grךmio Prudente,2010,Brazilian
+12,,Douglas Silva,BRA,D,1.79,72,15-11-90,Barretos,None,Grךmio Prudente,2010,Brazilian
+13,,Flávio Boaventura,BRA,D,1.83,83,12-07-87,Feira de Santana,Marília,Grךmio Prudente,2010,Brazilian
+14,,Leonardo,BRA,D,1.88,72,09-03-86,Guarulhos,Shakhtar Donetsk,Grךmio Prudente,2010,Brazilian
+15,,Adriano Pimenta,BRA,M,1.70,64,14-11-82,Goiânia,Sport Recife,Grךmio Prudente,2010,Brazilian
+16,,Anderson Pedra,BRA,M,1.77,79,13-06-83,Votuporanga,Santa Cruz,Grךmio Prudente,2010,Brazilian
+17,,Carlos Eduardo,BRA,M,1.83,72,17-10-89,Sorocaba,Desportivo Brasil,Grךmio Prudente,2010,Brazilian
+18,,Deyvid Sacconi,BRA,M,1.74,67,10-04-87,Alfenas,Palmeiras,Grךmio Prudente,2010,Brazilian
+19,,Eduardo Ramos,BRA,M,1.87,82,25-03-86,Caçu,Corinthians,Grךmio Prudente,2010,Brazilian
+20,,Fabiano Gadelha,BRA,M,1.78,74,09-01-79,Bayeux,Ponte Preta,Grךmio Prudente,2010,Brazilian
+21,,João Vitor,BRA,M,1.76,66,01-06-88,Maceió,Marília,Grךmio Prudente,2010,Brazilian
+22,,Marcelo Oliveira,BRA,M,1.84,76,29-03-87,Salvador,Corinthians,Grךmio Prudente,2010,Brazilian
+23,,Roberto,BRA,M,1.76,77,24-04-88,Tucano,Avaí,Grךmio Prudente,2010,Brazilian
+24,,Rodrigo Mancha,BRA,M,1.86,80,16-06-86,Curitiba,Santos,Grךmio Prudente,2010,Brazilian
+25,,Sasha,BRA,M,1.77,72,01-03-90,São Paulo,Corinthians,Grךmio Prudente,2010,Brazilian
+26,,Araújo,BRA,F,1.72,73,02-03-84,São Paulo,Taboão da Serra,Grךmio Prudente,2010,Brazilian
+27,,Gilmar,BRA,F,1.76,64,09-03-84,Ubatã,Guingamp,Grךmio Prudente,2010,Brazilian
+28,,Hugo,BRA,F,1.83,77,06-01-86,São Fidélis,Coritiba,Grךmio Prudente,2010,Brazilian
+29,,Rafael Martins,BRA,F,1.75,78,17-03-89,Santos,Pão de Açúcar,Grךmio Prudente,2010,Brazilian
+30,,Wanderley,BRA,F,1.82,81,11-10-88,Campinas,Cruzeiro,Grךmio Prudente,2010,Brazilian
+31,,Wesley,BRA,F,1.75,68,10-11-81,Barretos,Mirassol,Grךmio Prudente,2010,Brazilian
+32,,Willian José,BRA,F,1.86,81,23-11-91,Porto Calvo,None,Grךmio Prudente,2010,Brazilian
+1,,Douglas,BRA,G,1.89,87,27-03-80,Itaporanga,Avaí,Guarani,2010,Brazilian
+2,,Emerson,BRA,G,1.87,83,03-08-82,Rancharia,União São João,Guarani,2010,Brazilian
+3,,Juliano,BRA,G,1.89,89,07-03-89,Ibati,None,Guarani,2010,Brazilian
+4,,Léo,BRA,G,1.90,84,30-03-87,São Paulo,None,Guarani,2010,Brazilian
+5,,Ailson,BRA,D,1.88,84,21-12-79,Montes Claros,Brasiliense,Guarani,2010,Brazilian
+6,,Aislan,BRA,D,1.97,90,11-01-88,Bahia,São Paulo,Guarani,2010,Brazilian
+7,,Apodi,BRA,D,1.72,65,13-12-86,Apodi,Cruzeiro,Guarani,2010,Brazilian
+8,,Da Silva,BRA,D,1.74,64,20-08-89,Tocantinópolis,Itauçu,Guarani,2010,Brazilian
+9,,Fabão,BRA,D,1.87,79,15-06-76,Vera Cruz,Santos,Guarani,2010,Brazilian
+10,,Fabiano,BRA,D,1.75,67,27-06-79,Osasco,Genoa,Guarani,2010,Brazilian
+11,,Guilherme Mattis,BRA,D,1.93,90,12-09-90,São Paulo,None,Guarani,2010,Brazilian
+12,,Héverton,BRA,D,1.88,82,14-01-88,São Paulo,Pão de Açúcar,Guarani,2010,Brazilian
+13,,Marcio Careca,BRA,D,1.71,65,28-07-78,Duque de Caxias,Vasco da Gama,Guarani,2010,Brazilian
+14,,Moreno,BRA,D,1.82,78,23-02-83,São Paulo,Udinese,Guarani,2010,Brazilian
+15,,Rodrigão,BRA,D,1.87,85,01-01-82,Uberlândia,Ituano,Guarani,2010,Brazilian
+16,,Rodrigo  Heffner,BRA,D,1.75,73,08-09-82,Porto Alegre,Santa Cruz,Guarani,2010,Brazilian
+17,,Baiano,BRA,M,1.80,71,28-06-78,Capim Grosso,Paulista,Guarani,2010,Brazilian
+18,,Diego Barboza,BRA,M,1.76,73,27-07-89,Jundiaí,Paulista,Guarani,2010,Brazilian
+19,,Diogo,BRA,M,1.84,80,27-03-90,Marília,Palmeiras,Guarani,2010,Brazilian
+20,,Geovane,BRA,M,1.71,70,05-08-85,Vitória de Santo Antão,Grêmio Prudente,Guarani,2010,Brazilian
+21,,Mário Lúcio,BRA,M,1.79,70,11-12-89,Dourados,CENE,Guarani,2010,Brazilian
+22,,Maycon,BRA,M,1.80,78,14-02-85,Vitória,Internacional,Guarani,2010,Brazilian
+23,,Paulinho,BRA,M,1.72,73,10-05-89,Francisco Morato,Internacional,Guarani,2010,Brazilian
+24,,Paulo Roberto,BRA,M,1.76,79,06-03-87,Lavras,Pão de Açúcar,Guarani,2010,Brazilian
+25,,Preto,BRA,M,1.74,70,12-06-81,Novo Hamburgo,Novo Hamburgo,Guarani,2010,Brazilian
+26,,Renan,BRA,M,1.80,78,29-03-85,Caieiras,São Paulo,Guarani,2010,Brazilian
+27,,Rodrigo César,BRA,M,1.77,67,08-07-88,Vitória,Ferroviária,Guarani,2010,Brazilian
+28,,Ronaldo,BRA,M,1.76,75,13-02-87,Rodeio Bonito,Corinthians,Guarani,2010,Brazilian
+29,,Vítor Júnior,BRA,M,1.74,69,02-02-86,Laranjeiras do Sul,Marítimo,Guarani,2010,Brazilian
+30,,Mazola,BRA,F,1.77,79,08-05-89,Guarulhos,São Paulo,Guarani,2010,Brazilian
+31,,Reinaldo,BRA,F,1.79,78,08-06-80,Rio de Janeiro,Manisaspor,Guarani,2010,Brazilian
+32,,Ricardo Xavier,BRA,F,1.79,78,22-07-78,Bonito,Ituano,Guarani,2010,Brazilian
+33,,Rômulo,BRA,F,1.88,82,25-02-82,Inhumas,Cruzeiro,Guarani,2010,Brazilian
+1,,Roberto Abbondanzieri,ARG,G,1.86,88,19-08-72,Bouquet,Boca Juniors,Internacional,2010,Brazilian
+2,,Lauro,BRA,G,1.93,94,09-03-80,Andradina,Cruzeiro,Internacional,2010,Brazilian
+3,,Muriel,BRA,G,1.89,78,14-02-87,Novo Hamburgo,None,Internacional,2010,Brazilian
+4,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Valencia,Internacional,2010,Brazilian
+5,,Bolívar,BRA,D,1.85,75,16-08-80,Santa Cruz,Monaco,Internacional,2010,Brazilian
+6,,Bruno  Silva,URU,D,1.80,79,29-03-80,Cerro  Largo,Ajax,Internacional,2010,Brazilian
+7,,Dalton,BRA,D,1.87,79,05-02-90,Rio de Janeiro,Fluminense,Internacional,2010,Brazilian
+8,,Daniel,BRA,D,1.79,78,14-09-90,Capão da Canoa,None,Internacional,2010,Brazilian
+9,,Índio,BRA,D,1.80,79,14-02-75,Maracai,Juventude,Internacional,2010,Brazilian
+10,,Juan Jesus,BRA,D,1.85,76,10-06-91,Belo Horizonte,None,Internacional,2010,Brazilian
+11,,Kléber,BRA,D,1.81,72,01-04-80,São Paulo,Santos,Internacional,2010,Brazilian
+12,,Leonardo,BRA,D,1.71,79,04-08-85,Bauru,Olympiakos,Internacional,2010,Brazilian
+13,,Nei,BRA,D,1.77,75,06-12-85,Bragança Paulista,Atlético Paranaense,Internacional,2010,Brazilian
+14,,Rodrigo,BRA,D,1.82,84,27-08-80,Lençóis Paulista,Dynamo Kyiv,Internacional,2010,Brazilian
+15,,Ronaldo Alves,BRA,D,1.87,88,09-07-89,Bebedouro,Atlético Paranaense,Internacional,2010,Brazilian
+16,,Ronaldo Conceição,BRA,D,1.91,80,03-04-87,Capão da Canoa,River Plate [URU],Internacional,2010,Brazilian
+17,,Gonzalo Sorondo,URU,D,1.90,82,09-10-79,Montevideo,Defensor Sporting,Internacional,2010,Brazilian
+18,,Andrezinho,BRA,M,1.78,68,30-07-83,Campinas,Nova Iguaçu,Internacional,2010,Brazilian
+19,,Andrés D'Alessandro,ARG,M,1.74,68,15-04-81,La Paternal,San Lorenzo,Internacional,2010,Brazilian
+20,,Derley,BRA,M,1.87,70,02-08-86,Anápolis,None,Internacional,2010,Brazilian
+21,,Edú,BRA,M,1.82,74,10-01-79,São Paulo,Betis,Internacional,2010,Brazilian
+22,,Glaydson,BRA,M,1.78,72,20-06-79,Contagem,São Caetano,Internacional,2010,Brazilian
+23,,Giuliano,BRA,M,1.72,68,31-05-90,Curitiba,Paraná,Internacional,2010,Brazilian
+24,,Pablo Guiñazú,ARG,M,1.72,71,26-08-78,General Cabrera,Libertad,Internacional,2010,Brazilian
+25,,Marinho,BRA,M,1.76,62,29-05-90,Penedo,Fluminense,Internacional,2010,Brazilian
+26,,Oscar,BRA,M,1.79,66,09-09-91,Americana,São Paulo,Internacional,2010,Brazilian
+27,,Tinga,BRA,M,1.70,65,13-01-78,Porto Alegre,Borussia Dortmund,Internacional,2010,Brazilian
+28,,Wilson Mathías,BRA,M,1.86,75,14-09-83,Limeira,Morelia,Internacional,2010,Brazilian
+29,,Alecsandro,BRA,F,1.83,80,04-02-81,Bauru,Al-Wahda,Internacional,2010,Brazilian
+30,,Ilan,BRA,F,1.81,76,18-09-80,Curitiba,West Ham U,Internacional,2010,Brazilian
+31,,Leandro Damião,BRA,F,1.88,81,22-07-89,Jardim  Alegre,Atlético Ibirama,Internacional,2010,Brazilian
+32,,Marquinhos,BRA,F,1.74,69,21-07-90,Selbach,None,Internacional,2010,Brazilian
+33,,Rafael Sobís,BRA,F,1.72,73,17-06-85,Erechim,Al-Jazira,Internacional,2010,Brazilian
+1,1,Bruno,BRA,G,1.95,88,27-06-84,São Paulo,None,Palmeiras,2010,Brazilian
+3,3,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Lecce,Palmeiras,2010,Brazilian
+4,4,Fabricio,BRA,D,1.86,82,20-02-90,Rio de Janeiro,Desportivo Brasil,Palmeiras,2010,Brazilian
+5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Paraná,Palmeiras,2010,Brazilian
+8,8,Marcio Araújo,BRA,M,1.72,70,11-06-84,São Luiz,Atlético Mineiro,Palmeiras,2010,Brazilian
+10,10,Jorge Valdivia,CHI,M,1.73,71,19-10-83,Maracaibo,Al-Ain,Palmeiras,2010,Brazilian
+11,11,Rivaldo,BRA,M,1.80,75,25-08-85,Salgadinho,Desportivo Brasil,Palmeiras,2010,Brazilian
+12,12,Marcos,BRA,G,1.93,90,04-08-73,Oriente,None,Palmeiras,2010,Brazilian
+13,13,Fernando,BRA,M,1.88,75,17-11-91,Porto Alegre,None,Palmeiras,2010,Brazilian
+14,14,Vitor,BRA,D,1.72,66,29-07-82,Delmiro Golveia,Goiás,Palmeiras,2010,Brazilian
+15,15,Maurício Ramos,BRA,D,1.86,80,10-04-85,Piracicaba,Coritiba,Palmeiras,2010,Brazilian
+16,16,Mayko,BRA,D,1.85,76,03-02-91,Monte Mor,None,Palmeiras,2010,Brazilian
+17,17,Tinga,BRA,M,1.73,65,12-10-90,Bom Jardim,Ponte Preta,Palmeiras,2010,Brazilian
+18,18,João Arthur,BRA,M,1.73,63,16-11-90,São Paulo,None,Palmeiras,2010,Brazilian
+19,19,Lenny,BRA,F,1.72,72,23-03-88,Rio de Janeiro,Desportivo Brasil,Palmeiras,2010,Brazilian
+20,20,Tadeu,BRA,F,1.87,85,01-04-86,Araraquara,Grêmio Prudente,Palmeiras,2010,Brazilian
+21,21,Luan,BRA,M,1.84,75,21-09-88,Araras,Toulouse,Palmeiras,2010,Brazilian
+22,22,Deola,BRA,G,1.88,86,19-04-83,Céu Azul,None,Palmeiras,2010,Brazilian
+23,23,Danilo,BRA,D,1.83,81,10-05-84,São Bernardo do Campo,Desportivo Brasil,Palmeiras,2010,Brazilian
+25,25,Vinícius,BRA,F,1.80,76,03-08-93,São Paulo,None,Palmeiras,2010,Brazilian
+26,26,Jean Vicente,BRA,M,1.76,63,15-02-92,Cornélio Procópio,None,Palmeiras,2010,Brazilian
+28,28,Marcos Assunção,BRA,M,1.78,78,25-07-76,Caieiras,Grêmio Prudente,Palmeiras,2010,Brazilian
+29,29,Dinei,BRA,F,1.86,78,11-11-83,São Domingos,Atlético Paranaense,Palmeiras,2010,Brazilian
+30,30,Kléber,BRA,F,1.73,70,12-08-83,Osasco,Cruzeiro,Palmeiras,2010,Brazilian
+32,32,Luis Felipe,BRA,D,1.78,74,08-04-91,São Paulo,None,Palmeiras,2010,Brazilian
+33,33,Gualberto,BRA,D,1.89,70,08-04-90,São Paulo,None,Palmeiras,2010,Brazilian
+34,34,Gabriel Silva,BRA,D,1.79,69,13-05-91,Piracicaba,None,Palmeiras,2010,Brazilian
+35,35,Anselmo,BRA,M,1.82,78,20-02-89,São Paulo,None,Palmeiras,2010,Brazilian
+36,36,Leandro Amaro,BRA,D,1.86,83,19-06-86,Campinas,Cruzeiro,Palmeiras,2010,Brazilian
+38,38,Bruno Turco,BRA,M,1.81,77,30-07-91,Piracicaba,None,Palmeiras,2010,Brazilian
+39,39,Gilsinho,BRA,M,1.64,,20-03-91,Maringá,None,Palmeiras,2010,Brazilian
+40,40,Patrik,BRA,F,1.70,62,19-07-90,São Paulo,São Caetano,Palmeiras,2010,Brazilian
+41,45,Carlos,BRA,G,1.91,84,22-10-90,Matão,None,Palmeiras,2010,Brazilian
+42,46,Raphael Alemão,BRA,G,1.97,93,17-08-88,Piracicaba,Cruzeiro,Palmeiras,2010,Brazilian
+43,47,Fabio,BRA,G,1.96,85,11-05-90,Osasco,None,Palmeiras,2010,Brazilian
+44,77,Bruno Oliveira,BRA,F,1.80,77,05-06-90,Barra,XV de Piracicaba,Palmeiras,2010,Brazilian
+45,80,Julio César,BRA,F,,,23-01-90,Paranaiba,None,Palmeiras,2010,Brazilian
+46,88,Ewerthon,BRA,F,1.73,63,10-06-81,São  Paulo,Zaragoza,Palmeiras,2010,Brazilian
+47,99,Lincoln,BRA,M,1.77,71,22-01-79,Belo Horizonte,Galatasaray,Palmeiras,2010,Brazilian
+1,,André,BRA,G,1.96,90,06-02-92,Votuporanga,None,Santos,2010,Brazilian
+2,,Bernardo,BRA,G,1.91,85,01-07-92,Belo Horizonte,None,Santos,2010,Brazilian
+3,,Felipe,BRA,G,1.90,79,10-01-88,São Vicente,None,Santos,2010,Brazilian
+4,,Rafael,BRA,G,1.86,83,20-05-90,Sorocaba,None,Santos,2010,Brazilian
+5,,Samuel,BRA,G,1.88,87,17-01-89,Coaraci,None,Santos,2010,Brazilian
+6,,Vladimir,BRA,G,1.90,84,16-07-89,Ipiaú,None,Santos,2010,Brazilian
+7,,Alex Sandro,BRA,D,1.77,75,26-01-91,Catanduva,Deportivo Maldonado,Santos,2010,Brazilian
+8,,Bruno Aguiar,BRA,D,1.86,80,25-03-86,Amparo,Guarani,Santos,2010,Brazilian
+9,,Bruno Rodrigo,BRA,D,1.84,73,12-04-85,São Paulo,Portuguesa,Santos,2010,Brazilian
+10,,Danilo,BRA,D,1.84,73,15-07-91,Bicas,América Mineiro,Santos,2010,Brazilian
+11,,Diego Monar,BRA,D,1.88,79,14-02-89,São Vicente,None,Santos,2010,Brazilian
+12,,Durval,BRA,D,1.84,82,11-07-80,Espurito Santo,Sport Recife,Santos,2010,Brazilian
+13,,Edu Dracena,BRA,D,1.87,80,18-05-81,Dracena,Fenerbahçe,Santos,2010,Brazilian
+14,,Rafael Caldeira,BRA,D,1.91,84,11-02-91,Monte Alto,None,Santos,2010,Brazilian
+15,,Léo,BRA,D,1.69,64,06-07-75,Campos dos Goytacazes,Benfica,Santos,2010,Brazilian
+16,,Maranhão,BRA,D,1.70,70,25-12-85,Codó,Guarani,Santos,2010,Brazilian
+17,,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Santo André,Santos,2010,Brazilian
+18,,Vinícius Simon,BRA,D,1.84,74,17-11-86,São Paulo,None,Santos,2010,Brazilian
+19,,Adriano,BRA,M,1.70,65,29-05-87,São Vicente,None,Santos,2010,Brazilian
+20,,Alan Patrick,BRA,M,1.75,66,13-05-91,Catanduva,None,Santos,2010,Brazilian
+21,,Arouca,BRA,M,1.69,65,11-08-86,Duas Barras,São Paulo,Santos,2010,Brazilian
+22,,Breitner da Silva,VEN,M,1.70,63,09-11-89,Barcelona [VEN],None,Santos,2010,Brazilian
+23,,Denis,BRA,M,1.79,80,13-07-90,Tatuí,None,Santos,2010,Brazilian
+24,,Diego Faria,BRA,M,1.75,72,18-01-89,Teófilo Otoni,None,Santos,2010,Brazilian
+25,,Felipe Anderson,BRA,M,1.78,66,15-04-93,Brasília,None,Santos,2010,Brazilian
+26,,Jefferson,BRA,M,1.74,69,27-05-89,Padre Miguel,None,Santos,2010,Brazilian
+27,,Madson,BRA,M,1.60,60,21-05-86,Volta Redonda,Vasco da Gama,Santos,2010,Brazilian
+28,,Marquinhos,BRA,M,1.83,83,29-09-81,Biguaçu,Avaí,Santos,2010,Brazilian
+29,,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,None,Santos,2010,Brazilian
+30,,Roberto Brum,BRA,M,1.76,72,07-07-78,São Gonçalo,Sporting Braga,Santos,2010,Brazilian
+31,,Rodrigo Possebon,ITA,M,1.84,76,13-02-89,Sapucaia do Sul,Manchester U,Santos,2010,Brazilian
+32,,Rodriguinho,BRA,M,1.79,78,05-02-82,Guarapuava,Guarani,Santos,2010,Brazilian
+33,,Zé Eduardo,BRA,M,1.79,82,29-10-87,Promissão,Pinheiros,Santos,2010,Brazilian
+34,,Zezinho,BRA,M,1.74,70,14-03-92,Uruguaiana,Deportivo Maldonado,Santos,2010,Brazilian
+35,,Keirrison,BRA,F,1.81,63,03-12-88,Dourados,Barcelona,Santos,2010,Brazilian
+36,,Marcel,BRA,F,1.87,87,12-11-81,Mirassol,Benfica,Santos,2010,Brazilian
+37,,Moisés,BRA,F,1.73,64,15-05-89,Belém,Paysandu,Santos,2010,Brazilian
+38,,Neymar,BRA,F,1.74,64,05-02-92,Mogi das Cruzes,None,Santos,2010,Brazilian
+39,,Renan,BRA,F,1.63,64,01-10-91,Marabá,None,Santos,2010,Brazilian
+40,,Tiago Luís,BRA,F,1.76,74,13-03-89,Ribeirão Preto,None,Santos,2010,Brazilian
+1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,Săo Paulo,2010,Brazilian
+2,2,Jean,BRA,M,1.70,70,24-06-86,Campo Grande,None,Săo Paulo,2010,Brazilian
+3,3,Álex Silva,BRA,D,1.93,82,10-03-85,Amparo,Hamburg,Săo Paulo,2010,Brazilian
+5,5,Miranda,BRA,D,1.85,78,07-09-84,Paranavaí,Sochaux,Săo Paulo,2010,Brazilian
+6,6,Júnior César,BRA,D,1.66,59,09-04-82,Magé Suruí,Fluminense,Săo Paulo,2010,Brazilian
+7,7,Jorge Wágner,BRA,M,1.78,73,17-11-78,Feira de Santana,Betis,Săo Paulo,2010,Brazilian
+8,8,Cléber Santana,BRA,M,1.87,84,27-06-81,Recife,Atlético Madrid,Săo Paulo,2010,Brazilian
+12,12,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Barueri,Săo Paulo,2010,Brazilian
+13,13,Xandão,BRA,D,1.93,87,23-02-88,Araçatuba,Desportivo Brasil,Săo Paulo,2010,Brazilian
+14,14,Renato Silva,BRA,D,1.80,73,26-07-83,Colinas de Goiás,Botafogo,Săo Paulo,2010,Brazilian
+15,15,Fernandão,BRA,F,1.90,85,18-03-78,Goiânia,Goiás,Săo Paulo,2010,Brazilian
+16,16,Marlos,BRA,M,1.74,70,07-06-88,São José dos Pinhais,Coritiba,Săo Paulo,2010,Brazilian
+18,18,Rodrigo Souto,BRA,M,1.81,75,09-09-83,Rio de Janeiro,Santos,Săo Paulo,2010,Brazilian
+20,20,Richarlyson,BRA,M,1.76,72,27-12-82,Rio Grande de Norte,Santo André,Săo Paulo,2010,Brazilian
+21,21,Sérgio Mota,BRA,M,1.75,70,16-11-89,São José dos Campos,None,Săo Paulo,2010,Brazilian
+22,22,Bosco,BRA,G,1.84,79,14-11-74,Escada,Fortaleza,Săo Paulo,2010,Brazilian
+25,25,Dagoberto,BRA,F,1.75,75,22-03-83,Dois Vizinhos,Atlético Paranaense,Săo Paulo,2010,Brazilian
+26,26,Thiago Carleto,BRA,D,1.72,68,24-03-89,São Bernardo do Campo,Valencia,Săo Paulo,2010,Brazilian
+27,27,Diogo,BRA,D,1.76,77,30-12-89,Paranavaí,None,Săo Paulo,2010,Brazilian
+28,28,Wellington,BRA,M,1.73,70,28-01-91,São Paulo,None,Săo Paulo,2010,Brazilian
+29,29,Casemiro,BRA,M,1.84,80,23-02-92,São José dos Campos,None,Săo Paulo,2010,Brazilian
+31,31,Carlinhos Paraíba,BRA,M,1.70,69,03-04-83,Rio Tinto,Coritiba,Săo Paulo,2010,Brazilian
+32,32,Samuel,BRA,D,1.90,83,07-04-86,São Paulo,Joinville,Săo Paulo,2010,Brazilian
+33,33,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,Săo Paulo,2010,Brazilian
+34,34,Bruno Uvini,BRA,D,1.88,81,03-06-91,São Paulo,None,Săo Paulo,2010,Brazilian
+35,35,Zé Vitor,BRA,M,1.87,82,23-09-91,São Paulo,None,Săo Paulo,2010,Brazilian
+37,37,Lucas,BRA,M,1.72,66,13-08-92,São Paulo,None,Săo Paulo,2010,Brazilian
+38,38,Alfredo,BRA,F,1.75,73,06-07-92,Americana,None,Săo Paulo,2010,Brazilian
+39,39,Lucas Gáucho,BRA,F,1.83,75,13-06-91,Rio Grande do Sul,None,Săo Paulo,2010,Brazilian
+40,40,Leo,BRA,G,1.93,77,22-09-90,Suzano,None,Săo Paulo,2010,Brazilian
+41,77,Ilsinho,BRA,M,1.78,81,12-10-85,São Bernardo do Campo,Desportivo Brasil,Săo Paulo,2010,Brazilian
+42,99,Ricardo Oliveira,BRA,F,1.83,81,06-05-80,São Paulo,Al-Jazira,Săo Paulo,2010,Brazilian
+1,1,Fernando Prass,BRA,G,1.91,79,09-07-78,Porto Alegre,União de Leiria,Vasco da Gama,2010,Brazilian
+3,3,Cesinha,BRA,D,1.85,75,08-10-86,São José dos Campos,Santo André,Vasco da Gama,2010,Brazilian
+4,4,Fernando Santos,BRA,D,1.91,91,25-02-80,Rio de Janeiro,Duisburg,Vasco da Gama,2010,Brazilian
+5,5,Nílton,BRA,M,1.84,74,21-04-87,Barra do Garças,Corinthians,Vasco da Gama,2010,Brazilian
+6,6,Felipe,BRA,M,1.75,69,02-09-77,Rio de Janeiro,Al-Sadd,Vasco da Gama,2010,Brazilian
+7,7,Éder Luís,BRA,F,1.70,69,19-04-85,Uberaba,Benfica,Vasco da Gama,2010,Brazilian
+8,8,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Vasco da Gama,2010,Brazilian
+9,9,Nunes,BRA,F,1.85,77,21-01-82,São Paulo,Santo André,Vasco da Gama,2010,Brazilian
+10,10,Zé Roberto,BRA,M,1.70,72,09-12-80,Itumbiara,Schalke,Vasco da Gama,2010,Brazilian
+11,11,Rafael Coelho,BRA,F,1.74,78,20-05-88,Florianópolis,Desportivo Brasil,Vasco da Gama,2010,Brazilian
+12,12,Alessandro,BRA,G,1.91,88,30-03-88,Cascavel,Grêmio,Vasco da Gama,2010,Brazilian
+13,13,Titi,BRA,D,1.87,83,12-03-88,Pelotas,Internacional,Vasco da Gama,2010,Brazilian
+14,14,Jádson Viera,BRA,D,1.92,86,04-08-81,Santana Do  Livramento,Lanús,Vasco da Gama,2010,Brazilian
+15,15,Jonathan,BRA,F,1.75,63,11-05-91,Rio de Janeiro,Cruzeiro,Vasco da Gama,2010,Brazilian
+16,16,Douglas Bacelar,BRA,D,1.90,84,04-04-90,São Paulo,América de Natal,Vasco da Gama,2010,Brazilian
+17,17,Magno,BRA,M,1.74,74,20-05-88,Salvador,Brasil de Pelotas,Vasco da Gama,2010,Brazilian
+18,18,Jumar,BRA,M,1.77,74,28-04-86,Bandeirantes,Desportivo Brasil,Vasco da Gama,2010,Brazilian
+19,19,Carlos Alberto,BRA,M,1.77,71,11-12-84,Rio de Janeiro,Werder Bremen,Vasco da Gama,2010,Brazilian
+20,20,Caíque,BRA,M,1.85,77,10-01-88,Salvador,Olé Brasil,Vasco da Gama,2010,Brazilian
+21,21,Fellipe Bastos,BRA,M,1.76,76,01-02-90,Rio de Janeiro,Benfica,Vasco da Gama,2010,Brazilian
+22,22,Julio  Irrazábal,PAR,D,1.76,70,25-11-80,San Juan de  Panamá,Cerro Porteño,Vasco da Gama,2010,Brazilian
+23,23,Fagner,BRA,D,1.68,67,11-06-89,São Paulo,PSV Eindhoven,Vasco da Gama,2010,Brazilian
+25,25,Fumagalli,BRA,M,1.75,72,05-10-77,Aparecida do Monte Alto,Sport Recife,Vasco da Gama,2010,Brazilian
+26,26,Dedé,BRA,D,1.93,87,01-07-88,Volta Redonda,Villa Rio,Vasco da Gama,2010,Brazilian
+28,28,Renato Augusto,BRA,M,1.81,74,17-07-90,Bom Despacho,None,Vasco da Gama,2010,Brazilian
+29,29,Nilson,BRA,F,1.86,75,06-04-91,São Paulo,Portuguesa,Vasco da Gama,2010,Brazilian
+31,31,Lipe,BRA,F,1.81,76,10-03-90,Salvador,Grêmio,Vasco da Gama,2010,Brazilian
+32,32,Jeferson Silva,BRA,F,1.79,75,03-05-90,Nova Iguaçu,Nova Iguaçu,Vasco da Gama,2010,Brazilian
+33,33,Ramon,BRA,D,1.73,65,06-05-88,Cachoeiro do Itapemirim,Internacional,Vasco da Gama,2010,Brazilian
+34,34,Diogo,BRA,D,1.79,70,17-08-92,Terra Nova do Norte,Vila Nova,Vasco da Gama,2010,Brazilian
+35,35,Allan,BRA,M,1.73,73,08-01-91,Rio de Janeiro,Madureira,Vasco da Gama,2010,Brazilian
+36,36,Cestaro,BRA,G,1.92,78,23-01-90,Rio de Janeiro,None,Vasco da Gama,2010,Brazilian
+37,37,Rômulo,BRA,M,1.84,80,19-09-90,Picos,Porto de Caruaru,Vasco da Gama,2010,Brazilian
+38,38,Carlinhos,BRA,D,1.76,70,01-04-90,Rio de Janeiro,Madureira,Vasco da Gama,2010,Brazilian
+39,39,Bruno Paulo,BRA,F,1.76,75,14-02-90,Rio de Janeiro,Desportivo Brasil,Vasco da Gama,2010,Brazilian
+40,40,Elivelton,BRA,M,,,26-04-92,Araras,União São João,Vasco da Gama,2010,Brazilian
+41,43,Max,BRA,D,1.79,67,28-04-90,São Paulo,Ponte Preta,Vasco da Gama,2010,Brazilian
+42,46,Ernani,BRA,D,1.85,71,16-07-82,São João da Barra,Americano,Vasco da Gama,2010,Brazilian
+43,50,Tiago,BRA,G,1.90,83,02-07-83,Campo Largo,Portuguesa,Vasco da Gama,2010,Brazilian
+1,,Gustavo,BRA,G,1.86,77,10-03-93,Colatina,None,Vitσria,2010,Brazilian
+2,,Lee,BRA,G,1.88,86,09-03-88,São Paulo,None,Vitσria,2010,Brazilian
+3,,Renan Rocha,BRA,G,1.94,90,25-03-87,Piracicaba,Atlético Paranense,Vitσria,2010,Brazilian
+4,,Julián Viáfara,COL,G,1.86,79,19-05-78,Cali,Atlético Paranaense,Vitσria,2010,Brazilian
+5,,Anderson Martins,BRA,D,1.83,78,21-08-87,Fortaleza,None,Vitσria,2010,Brazilian
+6,,Eduardo,BRA,D,1.79,68,18-04-89,Guaraí,Paulista,Vitσria,2010,Brazilian
+7,,Egídio,BRA,D,1.75,69,16-06-86,Rio de Janerio,Flamengo,Vitσria,2010,Brazilian
+8,,Gabriel Paulista,BRA,D,1.85,72,26-11-90,São Paulo,None,Vitσria,2010,Brazilian
+9,,Jonas,BRA,D,1.81,77,10-02-87,Votuporanga,Internacional,Vitσria,2010,Brazilian
+10,,Léo,BRA,D,1.71,62,03-10-91,Salvador,None,Vitσria,2010,Brazilian
+11,,Nino Paraíba,BRA,D,1.68,62,10-01-86,Rio Tinto,Sousa,Vitσria,2010,Brazilian
+12,,Reniê,BRA,D,1.83,80,10-04-89,Feira de Santana,None,Vitσria,2010,Brazilian
+13,,Thiago Martinelli,BRA,D,1.80,73,14-01-80,Vitória,Vasco da Gama,Vitσria,2010,Brazilian
+14,,Wallace,BRA,D,1.83,76,26-12-87,Conceição do Coité,None,Vitσria,2010,Brazilian
+15,,Arthur Maia,BRA,M,1.70,63,13-10-92,Maceió,None,Vitσria,2010,Brazilian
+16,,Bida,BRA,M,1.82,78,02-08-84,Itajuípe,Ipitanga,Vitσria,2010,Brazilian
+17,,César Santiago,BRA,M,1.80,81,23-08-84,Guarulhos,Guaratinguetá,Vitσria,2010,Brazilian
+18,,Elkeson,BRA,M,1.80,77,13-07-89,Coelho  Neto,None,Vitσria,2010,Brazilian
+19,,Fernando,BRA,M,1.81,79,18-06-78,Mairi,Al-Ahli [QAT],Vitσria,2010,Brazilian
+20,,Kleiton Domingues,BRA,M,1.73,71,02-04-88,Vitória da Conquista,None,Vitσria,2010,Brazilian
+21,,Marconi,BRA,M,1.75,72,22-06-88,Teixeira de Freitas,None,Vitσria,2010,Brazilian
+22,,Neto,BRA,M,1.78,74,07-02-87,Baixa Grande,None,Vitσria,2010,Brazilian
+23,,Rafael Granja,BRA,M,1.71,73,07-01-84,Vitória da Conquista,Vitória da Conquista,Vitσria,2010,Brazilian
+24,,Ramón,BRA,M,1.70,70,30-06-72,Contagem,Atlético Paranaense,Vitσria,2010,Brazilian
+25,,Renato,BRA,M,1.83,79,28-04-85,Belo Horizonte,Cabofriense,Vitσria,2010,Brazilian
+26,,Ricardo Conceição,BRA,M,1.75,71,16-07-84,Campinas,Santo André,Vitσria,2010,Brazilian
+27,,Thiago Humberto,BRA,M,1.83,75,06-07-85,Lins,Internacional,Vitσria,2010,Brazilian
+28,,Uelliton,BRA,M,1.72,74,28-08-87,Monte Santo,None,Vitσria,2010,Brazilian
+29,,Vanderson,BRA,M,1.73,75,22-10-79,Santa Izabel do Pará,Juventude,Vitσria,2010,Brazilian
+30,,Adaílton,BRA,F,1.79,76,06-12-90,Camaçari,Fortaleza,Vitσria,2010,Brazilian
+31,,Edson,BRA,F,1.81,75,26-02-90,Bahia,None,Vitσria,2010,Brazilian
+32,,Henrique Almeida,BRA,F,1.78,76,27-05-91,Brasília,São Paulo,Vitσria,2010,Brazilian
+33,,Jacson,BRA,F,1.79,76,16-12-89,São Gonçalo do Campos,Bahia de Feira,Vitσria,2010,Brazilian
+34,,Júnior,BRA,F,1.86,85,15-06-76,Fortaleza,FC København,Vitσria,2010,Brazilian
+35,,Kléber Pereira,BRA,F,1.80,80,13-08-75,Peri-Mirim,Internacional,Vitσria,2010,Brazilian
+36,,Marcos Bambam,BRA,F,1.75,75,19-03-91,Mossoró,Internacional,Vitσria,2010,Brazilian
+37,,Schwenck,BRA,F,1.80,78,08-02-79,Rio de Janeiro,Figueirense,Vitσria,2010,Brazilian
+38,,Soares,BRA,F,1.75,68,16-05-85,Manaus,Junior Team Futebol,Vitσria,2010,Brazilian

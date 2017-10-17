@@ -1,0 +1,804 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+2,2,Ibrahim Gnanou,BFA,D,1.86,80,08-11-86,Ouagadougou,FC Midtjylland,Alania Vladikavkaz,2010,Russian
+3,3,Valeriy Tskhovrebov,RUS,D,1.87,75,29-05-89,,Alania-2,Alania Vladikavkaz,2010,Russian
+4,4,Boris Rotenberg,FIN,D,1.89,83,19-05-86,St. Petersburg,Zenit St Petersburg,Alania Vladikavkaz,2010,Russian
+5,5,Gheorghe Florescu,ROU,M,1.79,77,21-05-84,Cluj-Napoca,FC Midtjylland,Alania Vladikavkaz,2010,Russian
+7,7,Karen Oganyan,RUS,F,1.74,75,25-06-82,Moscow,KamAZ,Alania Vladikavkaz,2010,Russian
+8,8,Georgiy Gabulov,RUS,M,1.90,74,04-09-88,Mozdok,Lokomotiv Moscow-2,Alania Vladikavkaz,2010,Russian
+9,9,Arsen Khubulov,RUS,M,1.81,74,13-12-90,Vladikavkaz,Avtodor Vladikavkaz,Alania Vladikavkaz,2010,Russian
+11,11,Serghei Dadu,MDA,F,1.88,84,23-01-81,Chişinău,FC Midtjylland,Alania Vladikavkaz,2010,Russian
+13,13,Simeon Bulgaru,MDA,D,1.86,80,26-05-85,Chişinău,Viborg,Alania Vladikavkaz,2010,Russian
+14,14,Aleksandr Marenich,RUS,F,1.78,71,29-04-89,Zernograd,FC Moscow,Alania Vladikavkaz,2010,Russian
+15,15,Aslan Mashukov,RUS,M,1.80,75,04-11-84,Nalchik,Spartak Nalchik,Alania Vladikavkaz,2010,Russian
+16,16,Dmitriy Khomich,RUS,G,1.83,75,04-10-84,Vladikavkaz,Spartak Moscow,Alania Vladikavkaz,2010,Russian
+17,17,Taras Tsarikaev,RUS,F,1.85,77,17-06-89,Vladikavkaz,Lokomotiv Moscow,Alania Vladikavkaz,2010,Russian
+18,18,Dzhambulat Bazaev,RUS,M,1.81,80,18-08-79,Rustavi,Rubin Kazan,Alania Vladikavkaz,2010,Russian
+20,20,Dacosta Goore,CIV,D,1.87,74,31-12-84,,FC Moscow,Alania Vladikavkaz,2010,Russian
+21,21,Inal Pukhaev,RUS,M,1.81,72,28-01-92,,Amkar Perm,Alania Vladikavkaz,2010,Russian
+22,22,David Gigolaev,RUS,G,1.90,81,31-03-89,Vladikavkaz,Alania-2,Alania Vladikavkaz,2010,Russian
+23,23,Alan Dzutsev,RUS,M,1.85,78,24-11-91,Vladikavkaz,Alania-2,Alania Vladikavkaz,2010,Russian
+24,24,Abdoul-Gafar Mamah,TOG,D,1.74,67,24-08-85,Lomé,Sheriff Tiraspol,Alania Vladikavkaz,2010,Russian
+25,25,Ivan Ivanov,BUL,M,1.86,77,25-02-88,Zlatitsa,CSKA Sofia,Alania Vladikavkaz,2010,Russian
+29,29,Shota Bibilov,RUS,M,1.79,68,06-08-90,Vladikavkaz,Alania-2,Alania Vladikavkaz,2010,Russian
+30,30,Baba Collins,NGA,F,1.75,75,02-12-88,,FC Midtjylland,Alania Vladikavkaz,2010,Russian
+31,31,Eldar Nizamutdinov,RUS,M,1.73,72,31-05-81,Kostroma,FC Khimki,Alania Vladikavkaz,2010,Russian
+34,34,Nariman Gusalov,RUS,D,1.92,86,22-05-90,,Alania-2,Alania Vladikavkaz,2010,Russian
+35,35,Aslan Doguzov,RUS,D,1.81,79,13-01-91,,Avtodor Vladikavkaz,Alania Vladikavkaz,2010,Russian
+36,36,Alan Soltanov,RUS,D,1.85,78,11-06-91,,Alania-2,Alania Vladikavkaz,2010,Russian
+38,38,Omar Tsopanov,RUS,G,1.88,70,04-07-90,,Alania-2,Alania Vladikavkaz,2010,Russian
+39,39,Soslan Kachmazov,RUS,D,1.81,71,14-07-91,,Alania-2,Alania Vladikavkaz,2010,Russian
+40,40,Atsamaz Kumalagov,RUS,M,1.82,74,13-09-90,,Alania-2,Alania Vladikavkaz,2010,Russian
+41,41,Mikhail Kerzhakov,RUS,G,1.89,84,28-01-87,Kingisepp,Zenit St Petersburg,Alania Vladikavkaz,2010,Russian
+42,42,Yuriy Kirillov,RUS,M,1.80,71,19-01-90,Ufa,Dynamo Moscow,Alania Vladikavkaz,2010,Russian
+43,43,David Bugulov,RUS,D,1.81,78,14-07-92,,Alania-2,Alania Vladikavkaz,2010,Russian
+44,44,Georgiy Dzantiev,RUS,M,1.76,65,14-12-93,,Alania-2,Alania Vladikavkaz,2010,Russian
+45,45,Georgiy Bulatsev,RUS,M,1.82,68,18-02-92,,Alania-2,Alania Vladikavkaz,2010,Russian
+46,46,Albert Tskhovrebov,RUS,D,1.90,78,01-05-93,,Alania-2,Alania Vladikavkaz,2010,Russian
+47,47,Artur Khaymanov,RUS,F,1.86,78,21-01-90,Vladikavkaz,Alania-2,Alania Vladikavkaz,2010,Russian
+48,51,Artur Gazdanov,RUS,M,1.79,70,26-06-92,,CSKA Moscow-2,Alania Vladikavkaz,2010,Russian
+49,52,Georgiy Gogichaev,RUS,F,1.70,64,16-01-91,Vladikavkaz,Smena-Zenit,Alania Vladikavkaz,2010,Russian
+50,53,Oleg Kudziev,RUS,G,1.81,71,03-05-93,,Alania-2,Alania Vladikavkaz,2010,Russian
+51,54,Uruzmag Ikoev,RUS,M,1.74,65,09-12-90,,Alania-2,Alania Vladikavkaz,2010,Russian
+52,70,Pavel Golyshev,RUS,F,1.76,68,07-07-87,Moscow,Spartak Moscow,Alania Vladikavkaz,2010,Russian
+53,73,Ivan Stoyanov,BUL,F,1.78,69,24-07-83,Sliven,CSKA Sofia,Alania Vladikavkaz,2010,Russian
+54,75,Marat  Bikmaev,UZB,M,1.84,80,01-01-86,Tashkent,Spartak Nalchik,Alania Vladikavkaz,2010,Russian
+55,77,Aleksandr Arsoyev,RUS,M,1.77,70,14-06-90,Moscow,Dynamo Moscow,Alania Vladikavkaz,2010,Russian
+56,88,Alan Bagaev,RUS,D,1.93,88,07-04-91,Vladikavkaz,Amkar Perm,Alania Vladikavkaz,2010,Russian
+57,91,Aleksandr Dzalayev,RUS,M,1.81,73,21-09-91,,Dnepr Smolensk,Alania Vladikavkaz,2010,Russian
+58,92,Alan Khaliyev,RUS,G,1.88,80,10-05-92,,Akademia Dimitrovgrad,Alania Vladikavkaz,2010,Russian
+59,97,Atsamaz Buraev,RUS,F,1.74,74,05-02-90,,Avtodor Vladikavkaz,Alania Vladikavkaz,2010,Russian
+60,99,Aleksandr Alkhazov,RUS,F,1.84,72,27-05-84,Rostov,Krylia Sovetov,Alania Vladikavkaz,2010,Russian
+1,1,Igor Uzminskiy,RUS,G,1.88,80,23-04-77,Grozny,SKA Rostov-on-Don,Amkar Perm,2010,Russian
+2,2,Sergei Morozov,RUS,D,1.93,91,03-03-89,Moscow,Torpedo Moscow,Amkar Perm,2010,Russian
+4,4,Vitaliy Fedoriv,UKR,D,1.80,75,21-10-87,Lviv,Dynamo Kiev,Amkar Perm,2010,Russian
+5,5,Vitaliy Grishin,RUS,M,1.80,77,09-09-80,Moscow,FC Khimki,Amkar Perm,2010,Russian
+7,7,Georgi Peev,BUL,M,1.81,80,11-03-79,Sofia,Dynamo  Kiev,Amkar Perm,2010,Russian
+8,8,Sergey Volkov,RUS,F,1.75,75,27-09-80,Kaluga,Lokomotiv Kaluga,Amkar Perm,2010,Russian
+9,9,Seiichiro Maki,JPN,F,1.84,81,07-08-80,Kumamoto,JEF United,Amkar Perm,2010,Russian
+10,10,Andrey Topchu,RUS,M,1.81,79,17-04-80,Krasnodar,Kuban Krasnodar,Amkar Perm,2010,Russian
+11,11,Aleksey Pomerko,RUS,M,1.82,69,03-05-90,Gorodovikovsk,Torpedo Moscow,Amkar Perm,2010,Russian
+13,13,Mitar Novaković,MNE,M,1.88,76,27-09-81,Bar,OFK Belgrade,Amkar Perm,2010,Russian
+14,14,Zahari Sirakov,BUL,D,1.81,82,08-10-77,Smolyan,Rodopa  Smolyan,Amkar Perm,2010,Russian
+15,15,Miklós Gaál,HUN,D,1.82,82,13-05-81,Celldömölk,Hajduk Split,Amkar Perm,2010,Russian
+18,18,Nikita Burmistrov,RUS,F,1.81,75,06-07-89,Moscow,CSKA Moscow-2,Amkar Perm,2010,Russian
+19,19,Aleksandr  Kolomeytsev,RUS,M,1.82,78,21-02-89,Surgut,FC Moscow,Amkar Perm,2010,Russian
+21,21,Dmitriy Belorukov,RUS,D,1.92,87,24-03-83,St.  Petersburg,Anzhi Makhachkala,Amkar Perm,2010,Russian
+23,23,Ivan Cherenchikov,RUS,M,1.86,81,25-08-84,Ozyorsk,Amkar-2,Amkar Perm,2010,Russian
+24,24,Aleksey Popov,RUS,D,1.88,83,07-07-78,Perm,Rubin Kazan,Amkar Perm,2010,Russian
+28,28,Vyacheslav Kalashnikov,RUS,D,1.92,84,12-05-85,Volgograd,SKA Rostov-on-Don,Amkar Perm,2010,Russian
+29,29,Martin  Kushev,BUL,F,1.88,89,25-08-73,Sofia,Slavia  Sofia,Amkar Perm,2010,Russian
+33,33,Josip Kneević,CRO,M,1.83,77,03-10-88,Osijek,Osijek,Amkar Perm,2010,Russian
+34,34,Evgeniy Sitnikov,RUS,D,1.90,76,15-05-90,,Amkar-2,Amkar Perm,2010,Russian
+35,35,Artur Gadzaov,RUS,M,1.76,63,04-05-91,,Alania Vladikavkaz,Amkar Perm,2010,Russian
+37,37,Kirill Moriganov,RUS,D,1.78,72,07-02-91,,Torpedo-ZIL,Amkar Perm,2010,Russian
+39,39,Illya Mykhalov,UKR,F,1.87,79,31-07-90,Donetsk,Shakhtar Donetsk-2,Amkar Perm,2010,Russian
+41,42,Sergey Narubin,RUS,G,1.95,87,05-12-81,Moskovskaya Oblast,Dynamo Bryansk,Amkar Perm,2010,Russian
+42,43,Evgeniy Tyukalov,RUS,F,1.76,68,07-08-92,Perm,Amkar-2,Amkar Perm,2010,Russian
+43,44,Sergey Sinelnikov,RUS,G,1.93,86,27-02-91,,Amkar-2,Amkar Perm,2010,Russian
+44,45,Aleksey Skvortsov,RUS,M,1.85,72,13-01-92,,Amkar-2,Amkar Perm,2010,Russian
+45,46,Aleksandr Subbotin,RUS,F,1.75,66,20-10-91,Perm,Amkar-2,Amkar Perm,2010,Russian
+46,47,Anton Romanenko,RUS,F,1.78,68,20-04-93,,Amkar-2,Amkar Perm,2010,Russian
+47,50,Mikhail Smirnov,RUS,D,1.88,80,03-06-90,St. Petersburg,Zenit St Petersburg,Amkar Perm,2010,Russian
+48,55,Ilya Kolpakov,RUS,F,1.76,70,12-02-92,,Amkar-2,Amkar Perm,2010,Russian
+49,58,Dmitriy Yershov,RUS,G,1.90,79,12-06-92,,Amkar-2,Amkar Perm,2010,Russian
+50,66,Artur Ryabokobilenko,RUS,M,1.73,60,05-04-91,Kstovo,Amkar-2,Amkar Perm,2010,Russian
+51,70,Nika Piliev,RUS,M,1.73,62,21-03-91,Tbilisi,CSKA Moscow,Amkar Perm,2010,Russian
+52,71,Gor Oganesyan,ARM,M,1.80,69,08-04-92,,FC Moscow,Amkar Perm,2010,Russian
+53,73,Brian Idowu,RUS,D,1.80,75,18-05-92,St. Petersburg,Zenit-2,Amkar Perm,2010,Russian
+54,77,Dmitriy Sokolov,RUS,M,1.81,78,01-03-88,Moscow,Torpedo Moscow,Amkar Perm,2010,Russian
+55,83,Luka  inko,SVN,M,1.85,80,23-03-83,Ljubljana,APOP Kinyras Peyias,Amkar Perm,2010,Russian
+56,86,Artem Vasilev,RUS,M,1.74,67,29-08-92,,Amkar-2,Amkar Perm,2010,Russian
+57,88,Vladislav Zakoptelov,RUS,M,1.79,74,26-06-88,Perm,Amkar-2,Amkar Perm,2010,Russian
+58,89,Andrey Sekretov,RUS,F,1.76,69,13-12-89,Perm,Amkar-2,Amkar Perm,2010,Russian
+59,90,Maksim Magurov,RUS,M,1.79,70,22-01-89,,Amkar-2,Amkar Perm,2010,Russian
+60,91,Artem Moriganov,RUS,D,1.78,72,07-02-91,,Torpedo-ZIL,Amkar Perm,2010,Russian
+61,92,Evgeniy Rudakov,RUS,M,1.67,60,03-12-92,,Amkar-2,Amkar Perm,2010,Russian
+62,93,Evgeniy Smorodin,RUS,M,1.80,72,12-01-93,,Amkar-2,Amkar Perm,2010,Russian
+63,97,Andrey Andrievskiy,RUS,F,1.77,64,11-01-91,,FC Moscow,Amkar Perm,2010,Russian
+64,98,Andrey Blindu,RUS,D,1.84,78,27-01-91,,Amkar-2,Amkar Perm,2010,Russian
+65,99,Stevica Ristić,MKD,F,1.88,85,23-05-82,Vrac,Bunyodkor,Amkar Perm,2010,Russian
+1,1,Ilya Abaev,RUS,G,1.92,83,02-08-81,Moscow,Torpedo Moscow,Anzhi Makhachkala,2010,Russian
+3,3,Oskars Kļava,LVA,D,1.88,80,08-08-83,Liepāja,Liepājas  Metalurgs,Anzhi Makhachkala,2010,Russian
+4,4,Mahir Shukurov,AZE,D,1.78,70,12-12-82,Baku,Inter Baku,Anzhi Makhachkala,2010,Russian
+5,5,Kébé Baye,SEN,D,1.85,77,24-12-78,Saint-Louis,Spartak Nizhny Novgorod,Anzhi Makhachkala,2010,Russian
+6,6,David Tsorayev,RUS,M,1.74,72,07-05-83,Vladikavkaz,KamAZ,Anzhi Makhachkala,2010,Russian
+7,7,Kamil Agalarov,RUS,M,1.78,70,11-06-88,Makhachkala,Dagdizel Kaspiysk,Anzhi Makhachkala,2010,Russian
+8,8,Andrey Streltsov,RUS,D,1.85,78,18-03-84,Uvarovo,FC Khimki,Anzhi Makhachkala,2010,Russian
+9,9,Magomed Magomedov,RUS,F,1.78,67,11-12-87,Makhachkala,Krylia Sovetov,Anzhi Makhachkala,2010,Russian
+13,13,Rasim Tagirbekov,RUS,D,1.83,81,04-05-84,Makhachkala,Anzhi-2,Anzhi Makhachkala,2010,Russian
+14,14,Dmitriy Ivanov,RUS,M,1.82,70,14-02-87,,FC Rostov,Anzhi Makhachkala,2010,Russian
+15,15,Nicolae Josan,MDA,M,1.75,70,18-09-83,Rezina,Iskra-Stal Rîbniţa,Anzhi Makhachkala,2010,Russian
+16,16,Dmitriy Vasilyev,RUS,F,1.87,80,02-05-85,Kiev,Krylia Sovetov,Anzhi Makhachkala,2010,Russian
+17,17,Jan Holenda,CZE,F,1.86,82,22-08-85,Prague,Sparta Prague,Anzhi Makhachkala,2010,Russian
+18,18,Ilya Kukharchuk,RUS,F,1.84,77,02-08-90,Kostroma,Rubin Kazan,Anzhi Makhachkala,2010,Russian
+19,19,Zurab Arziani,GEO,M,1.78,71,19-10-87,,Olimpi Rustavi,Anzhi Makhachkala,2010,Russian
+20,20,Mikhail Bakayev,RUS,M,1.78,75,05-08-87,Vladikavkaz,Alania Vladikavkaz,Anzhi Makhachkala,2010,Russian
+21,21,Giorgi Iluridze,GEO,F,1.80,70,20-02-92,Tbilisi,Dinamo Tbilisi,Anzhi Makhachkala,2010,Russian
+22,22,Miroslav Slavov,UKR,F,1.97,95,08-09-90,Kiev,Bordeaux,Anzhi Makhachkala,2010,Russian
+23,23,Shamil  Burziyev,RUS,M,1.75,72,01-04-85,Makhachkala,Fakel Voronezh,Anzhi Makhachkala,2010,Russian
+24,24,Leozinho,BRA,F,1.70,60,05-03-92,Pernambuco,Flamengo,Anzhi Makhachkala,2010,Russian
+25,25,Abdulahi Isah Eliakwu,NGA,F,1.72,73,25-10-85,Lokoja,Varese,Anzhi Makhachkala,2010,Russian
+27,27,Murtazali Abdulaev,RUS,M,1.74,69,20-05-91,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+28,28,Igor Strelkov,RUS,F,1.82,76,21-03-82,Samara,Krylia Sovetov,Anzhi Makhachkala,2010,Russian
+29,29,Nukri Revishvili,GEO,G,1.88,74,02-03-87,Kutaisi,Rubin Kazan,Anzhi Makhachkala,2010,Russian
+30,30,Mekhti Dzhenetov,RUS,G,1.90,83,26-01-92,Makhachkala,Anzhi-2,Anzhi Makhachkala,2010,Russian
+31,31,Mitar  Peković,SRB,D,1.90,86,28-09-81,Bačka Topola,Vojvodina,Anzhi Makhachkala,2010,Russian
+33,33,Shamil Mirzaev,RUS,F,1.75,70,28-11-92,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+35,35,Makhach Ispagiev,RUS,M,1.82,73,27-08-90,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+37,37,Leonid Musyn,UKR,G,1.99,89,19-04-85,,Oleksandria,Anzhi Makhachkala,2010,Russian
+40,40,Azamat Ibragimov,RUS,M,1.82,72,28-05-91,,Dagdizel Kaspiysk,Anzhi Makhachkala,2010,Russian
+41,43,Salimkhan Dzhamiliev,RUS,M,1.78,71,11-04-90,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+42,44,Mikail Zaytsev,RUS,D,1.75,66,21-05-90,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+43,50,Magomed Abidinov,RUS,D,1.88,79,03-02-89,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+44,55,Badavi Guseynov,AZE,D,1.85,72,11-07-91,Kaspiysk,Dagdizel Kaspiysk,Anzhi Makhachkala,2010,Russian
+45,61,Magomed Mirzabekov,RUS,M,1.68,73,16-11-90,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+46,63,Ali Gadzhibekov,RUS,D,1.80,72,06-08-89,Makhachkala,Anzhi-2,Anzhi Makhachkala,2010,Russian
+47,77,Otar Khizaneishvili,GEO,D,1.87,90,26-09-81,Tbilisi,Augsburg,Anzhi Makhachkala,2010,Russian
+48,86,Todor Timonov,BUL,M,1.81,76,03-09-86,Plovdiv,CSKA Sofia,Anzhi Makhachkala,2010,Russian
+49,87,Paizulla Medzhidov,RUS,M,1.72,62,16-06-92,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+50,88,Murad Kurbanov,RUS,D,1.74,63,22-03-92,Makhachkala,Anzhi-2,Anzhi Makhachkala,2010,Russian
+51,89,Akhmad Magomedov,RUS,D,1.85,72,10-08-89,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+52,90,Gamzat Omarov,RUS,D,1.71,74,21-09-90,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+53,91,Anvar Ibragimgadzhiev,RUS,D,1.72,65,27-09-91,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+54,92,Mikail Abakarov,RUS,M,1.75,66,28-04-92,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+55,93,Ruslan Aliev,RUS,F,1.74,71,23-09-88,,Angusht Nazran,Anzhi Makhachkala,2010,Russian
+56,95,Shamil Alimagomaev,RUS,M,1.70,68,13-07-89,,Rubin-2,Anzhi Makhachkala,2010,Russian
+57,96,Sharif Mukhammad,RUS,M,1.84,72,21-03-90,Makhachkala,Anzhi-2,Anzhi Makhachkala,2010,Russian
+58,97,Gadzhi Gadzhiev,RUS,M,1.70,65,27-03-91,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+59,98,Gamzat Makhmudov,RUS,F,1.86,79,20-05-91,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+60,99,Abdulla Gadzhikadiev,RUS,G,1.82,79,10-04-93,,Anzhi-2,Anzhi Makhachkala,2010,Russian
+1,1,Sergey Chepchugov,RUS,G,1.85,82,15-07-85,Krasnoyarsk,Sibir Novosibirsk,CSKA Moscow,2010,Russian
+2,2,Deividas  emberas,LTU,D,1.87,72,02-08-78,Vilnius,Dynamo  Moscow,CSKA Moscow,2010,Russian
+4,4,Sergey Ignashevich,RUS,D,1.86,75,14-07-79,Moscow,Lokomotiv  Moscow,CSKA Moscow,2010,Russian
+6,6,Aleksey Berezutskiy,RUS,D,1.90,82,20-06-82,Moscow,Chernomorets,CSKA Moscow,2010,Russian
+7,7,Keisuke Honda,JPN,M,1.82,75,13-06-86,Osaka,VVV Venlo,CSKA Moscow,2010,Russian
+8,8,Seydou  Doumbia,CIV,F,1.78,70,31-12-87,Yamoussoukro,Young Boys,CSKA Moscow,2010,Russian
+9,9,Vágner Love,BRA,F,1.71,72,11-06-84,Rio de Janeiro,Palmeiras,CSKA Moscow,2010,Russian
+10,10,Alan Dzagoev,RUS,M,1.79,70,17-06-90,Beslan,CSKA-2,CSKA Moscow,2010,Russian
+11,11,Pavel Mamaev,RUS,M,1.78,70,17-09-88,Moscow,Torpedo Moscow,CSKA Moscow,2010,Russian
+13,13,Mark González,CHI,M,1.75,70,10-07-84,Durban,Betis,CSKA Moscow,2010,Russian
+14,14,Kirill Nababkin,RUS,D,1.76,71,08-09-86,Moscow,FC Moscow,CSKA Moscow,2010,Russian
+15,15,Chidi Odiah,NGA,D,1.80,79,17-12-83,Port Harcourt,Sheriff Tiraspol,CSKA Moscow,2010,Russian
+21,21,Zoran Toić,SRB,M,1.71,69,28-04-87,Zrenjanin,Manchester U,CSKA Moscow,2010,Russian
+22,22,Evgeniy Aldonin,RUS,M,1.79,72,22-01-80,Alupka,Rotor Volgograd,CSKA Moscow,2010,Russian
+24,24,Vasiliy Berezutskiy,RUS,D,1.89,83,20-06-82,Moscow,Torpedo-ZIL,CSKA Moscow,2010,Russian
+25,25,Elvir Rahimić,BIH,M,1.91,80,04-04-76,ivinice,Anzhi Makhachkala,CSKA Moscow,2010,Russian
+26,26,Sekou Oliseh,NGA,M,1.87,70,05-06-90,Monrovia,FC Midtjylland,CSKA Moscow,2010,Russian
+32,32,Kirill Lapidus,RUS,M,1.75,69,02-12-91,,FC Moscow,CSKA Moscow,2010,Russian
+34,34,Aleksey Nikitin,RUS,D,1.87,87,27-01-92,Moscow,CSKA-2,CSKA Moscow,2010,Russian
+35,35,Igor Akinfeev,RUS,G,1.85,81,08-04-86,Vidnoye,CSKA-2,CSKA Moscow,2010,Russian
+36,36,Egor Ivanov,RUS,M,1.83,84,19-06-92,,CSKA-2,CSKA Moscow,2010,Russian
+37,37,Ivan Skripnik,RUS,G,1.92,88,10-08-92,,CSKA-2,CSKA Moscow,2010,Russian
+38,38,Vyacheslav Isupov,RUS,G,1.90,80,16-01-93,,CSKA-2,CSKA Moscow,2010,Russian
+40,40,Stanislav Plokhikh,RUS,G,1.85,83,10-02-92,,CSKA-2,CSKA Moscow,2010,Russian
+41,42,Georgi Schennikov,RUS,D,1.78,69,27-04-91,Moscow,CSKA-2,CSKA Moscow,2010,Russian
+42,43,Leonid Mushnikov,RUS,M,,,30-12-92,,CSKA-2,CSKA Moscow,2010,Russian
+43,44,Dmitriy Zameshayev,RUS,M,1.78,69,14-05-91,,CSKA-2,CSKA Moscow,2010,Russian
+44,46,Aleksandr Stolyarenko,RUS,M,1.85,78,18-01-91,Zdvinsk,CSKA-2,CSKA Moscow,2010,Russian
+45,47,Kirill Suslov,RUS,D,1.80,68,26-10-91,,CSKA-2,CSKA Moscow,2010,Russian
+46,48,Artem Popov,RUS,M,1.76,66,30-08-92,,CSKA-2,CSKA Moscow,2010,Russian
+47,49,Aleksandr Vasilyev,RUS,M,1.82,74,23-01-92,Nizhegorodka,CSKA-2,CSKA Moscow,2010,Russian
+48,51,Aleksey Kiselev,RUS,M,1.73,72,01-05-92,,CSKA-2,CSKA Moscow,2010,Russian
+49,53,Sergey Sipatov,RUS,F,1.80,71,08-02-93,,CSKA-2,CSKA Moscow,2010,Russian
+50,54,Uro Ćosić,SRB,D,1.87,76,24-10-92,Belgrade,Crvena Zvezda,CSKA Moscow,2010,Russian
+51,56,Anatoliy Stukalov,RUS,D,1.77,71,03-04-91,,CSKA-2,CSKA Moscow,2010,Russian
+52,58,Mukhammad Sultonov,RUS,F,1.76,68,22-12-92,,CSKA-2,CSKA Moscow,2010,Russian
+53,59,Semen Fedotov,RUS,D,1.78,71,02-03-92,,CSKA-2,CSKA Moscow,2010,Russian
+54,60,Nika  Dzalamidze,GEO,M,1.73,70,06-12-92,Tbilisi,Baia Zugdidi,CSKA Moscow,2010,Russian
+55,61,Serder Serderov,RUS,F,1.76,69,10-03-94,Makhachkala,CSKA-2,CSKA Moscow,2010,Russian
+56,66,Igor Dragunov,RUS,M,1.76,70,06-04-91,,CSKA-2,CSKA Moscow,2010,Russian
+57,70,Armen Ambartsumyan,RUS,M,1.77,70,11-04-94,Saratov,CSKA-2,CSKA Moscow,2010,Russian
+58,77,Artur Nigmatullin,RUS,G,1.92,88,17-05-91,Vladivostok,CSKA-2,CSKA Moscow,2010,Russian
+59,79,Konstantin Bazelyuk,RUS,F,1.87,78,12-04-93,Moscow,CSKA-2,CSKA Moscow,2010,Russian
+60,88,Leonid Rodionov,RUS,M,1.70,66,12-01-93,,CSKA-2,CSKA Moscow,2010,Russian
+61,89,Tomá Necid,CZE,F,1.90,81,13-08-89,Prague,Slavia Prague,CSKA Moscow,2010,Russian
+62,90,Anton Polyutkin,RUS,D,1.90,78,02-02-93,,CSKA-2,CSKA Moscow,2010,Russian
+63,92,Petr Ten,RUS,D,1.75,67,12-07-92,Moscow,CSKA-2,CSKA Moscow,2010,Russian
+64,93,Gela Zaseyev,RUS,M,1.82,75,20-01-93,,CSKA-2,CSKA Moscow,2010,Russian
+65,99,Yevgeniy Kobzar,RUS,M,1.70,65,09-08-92,,CSKA-2,CSKA Moscow,2010,Russian
+1,1,Anton Shunin,RUS,G,1.91,81,27-01-87,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+2,2,Vladimir Kisenkov,RUS,D,1.82,75,08-10-81,Kaluga,Spartak Nalchik,Dynamo Moscow,2010,Russian
+3,3,Aleksey Rebko,RUS,M,1.78,65,23-04-86,Moscow,FC Moscow,Dynamo Moscow,2010,Russian
+4,4,Marcin Kowalczyk,POL,D,1.83,83,09-04-85,Wieruszów,GKS Bełchatów,Dynamo Moscow,2010,Russian
+5,5,Alexandru Epureanu,MDA,D,1.86,80,27-09-86,Chişinău,FC Moscow,Dynamo Moscow,2010,Russian
+6,6,Leandro Fernández,ARG,D,1.79,80,30-01-83,Rosario,River  Plate,Dynamo Moscow,2010,Russian
+8,8,Dmitri Khokhlov,RUS,M,1.89,86,22-12-75,Moscow,Lokomotiv  Moscow,Dynamo Moscow,2010,Russian
+10,10,Andriy Voronin,UKR,F,1.77,79,21-07-79,Odessa,Liverpool,Dynamo Moscow,2010,Russian
+13,13,Vladimir  Granat,RUS,D,1.84,75,22-05-87,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+18,18,Tomislav  Dujmović,CRO,M,1.88,87,26-02-81,Zagreb,Lokomotiv Moscow,Dynamo Moscow,2010,Russian
+19,19,Aleksandr Samedov,RUS,M,1.74,64,19-07-84,Moscow,FC Moscow,Dynamo Moscow,2010,Russian
+20,20,Adrian Ropotan,ROU,M,1.85,75,08-05-86,Galaţi,Dinamo Bucureşti,Dynamo Moscow,2010,Russian
+21,21,Igor Semshov,RUS,M,1.70,69,06-04-78,Moscow,Zenit St Petersburg,Dynamo Moscow,2010,Russian
+22,22,Kevin Kuranyi,GER,F,1.90,80,02-03-82,Rio de  Janeiro,Schalke,Dynamo Moscow,2010,Russian
+23,23,Luke Wilkshire,AUS,D,1.76,75,02-10-81,Wollongong,FC Twente,Dynamo Moscow,2010,Russian
+25,25,Denis Kolodin,RUS,D,1.85,87,11-01-82,Kamyshin,Krylia  Sovetov,Dynamo Moscow,2010,Russian
+26,26,Martin  Jakubko,SVK,F,1.94,95,26-02-80,Prešov,Saturn,Dynamo Moscow,2010,Russian
+30,30,Vladimir Gabulov,RUS,G,1.90,81,19-10-83,Mozdok,Kuban Krasnodar,Dynamo Moscow,2010,Russian
+32,32,Marko Lomić,SRB,D,1.89,80,13-09-83,Čačak,Partizan Belgrade,Dynamo Moscow,2010,Russian
+34,34,Sergey Panov,RUS,G,1.89,75,13-07-89,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+37,37,Aleksandr Lobkov,RUS,D,1.80,74,17-12-89,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+40,40,Lee Min-Kyu,KOR,F,1.84,72,14-03-92,Seoul,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+41,41,Evgeniy Puzin,RUS,G,1.91,84,20-03-90,,Kuban Krasnodar,Dynamo Moscow,2010,Russian
+42,44,Grigoriy Evstegneev,RUS,M,1.74,72,20-10-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+43,45,Ivan Solovyev,RUS,M,1.68,63,29-03-93,Kaluga,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+44,46,Aleksandr Bortnik,RUS,D,1.84,81,12-09-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+45,47,Oleg Valov,RUS,M,1.77,71,03-01-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+46,49,Aleksandr  Karakin,RUS,D,1.77,64,06-03-91,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+47,50,Nemanja Mjuskovic,MNE,D,1.85,80,04-03-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+48,55,Nikita Sergeev,RUS,D,1.85,80,14-02-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+49,57,Vladimir Rikhovskiy,RUS,M,1.85,76,04-03-91,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+50,58,Dmitriy Otstavnov,RUS,F,1.90,84,04-06-93,Tula,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+51,61,Pavel Yevseyev,RUS,D,1.86,72,28-11-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+52,63,Anton Rudakov,RUS,D,1.91,82,07-04-89,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+53,66,Evgeniy Frolov,RUS,M,1.72,70,26-10-93,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+54,70,Dmitriy Tikhonov,RUS,M,1.75,68,11-02-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+55,73,Yuriy Petrakov,RUS,M,1.78,71,27-01-91,,FC Moscow,Dynamo Moscow,2010,Russian
+56,75,Ivan Shubkin,RUS,G,1.82,76,13-09-93,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+57,77,Irakliy Logua,RUS,F,1.74,67,29-07-91,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+58,79,Andrey Ornat,RUS,F,1.72,69,04-03-91,,Zenit St Petersburg,Dynamo Moscow,2010,Russian
+59,80,Ruslan Pashtov,RUS,M,1.74,72,28-11-92,Nalchik,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+60,81,Andrey Zharkov,RUS,M,1.75,70,16-06-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+61,87,Aleksandr Kuzminov,RUS,D,1.84,80,08-05-93,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+62,88,Edgaras  Česnauskis,LTU,M,1.82,77,05-02-84,Kurėnai,FC Moscow,Dynamo Moscow,2010,Russian
+63,89,Aleksandr Bebikh,RUS,F,1.84,76,29-08-89,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+64,92,Vadim Pronkin,RUS,F,1.81,71,27-09-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+65,93,Vladimir Shpirev,RUS,M,1.70,65,14-12-93,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+66,94,Dmitriy Zhivoglyadov,RUS,D,1.78,65,29-05-94,Dubna,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+67,95,Artem Katashevskiy,RUS,M,1.82,68,02-01-94,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+68,97,Vitaliy Komisov,RUS,M,1.75,69,11-07-92,,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+69,99,Aleksandr Kokorin,RUS,F,1.82,72,19-03-91,Moscow,Dynamo Moscow-2,Dynamo Moscow,2010,Russian
+2,2,Vladimir Khozin,RUS,D,1.83,80,03-07-89,Rostov-on-Don,FC Moscow,Krylia Sovetov,2010,Russian
+3,3,Leilton Silva,BRA,D,1.78,77,07-03-82,Salvador,Vitória,Krylia Sovetov,2010,Russian
+4,4,Ivan Taranov,RUS,D,1.85,74,22-06-86,Tomsk,CSKA Moscow,Krylia Sovetov,2010,Russian
+5,5,Aleksey Kontsedalov,RUS,D,1.85,79,24-07-90,Valuyki,FC Moscow,Krylia Sovetov,2010,Russian
+6,6,Oleg Samsonov,RUS,M,1.74,72,07-09-87,Novovoronezh,Zenit St Petersburg,Krylia Sovetov,2010,Russian
+7,7,Anton Bober,RUS,M,1.82,75,28-09-82,Naberezhnye Chelny,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+8,8,Daniil Gridnev,RUS,M,1.78,77,02-02-86,Voronezh,Anzhi Makhachkala,Krylia Sovetov,2010,Russian
+9,9,Evgeniy Savin,RUS,F,1.87,84,19-04-84,Tobolsk,Amkar Perm,Krylia Sovetov,2010,Russian
+10,10,Branimir Petrović,SRB,M,1.85,77,26-06-82,Uice,FC Rostov,Krylia Sovetov,2010,Russian
+14,14,Farkhod Vosiyev,TJK,D,1.78,72,14-04-90,Dushanbe,Saturn,Krylia Sovetov,2010,Russian
+16,16,Mykola Tsygan,UKR,G,1.91,90,09-08-84,Mykolaiv,Alania Vladikavkaz,Krylia Sovetov,2010,Russian
+17,17,Aleksandr Stavpets,RUS,F,1.80,75,04-07-89,Oryol,FC Moscow,Krylia Sovetov,2010,Russian
+19,19,Vasiliy Pavlov,RUS,F,1.91,80,24-07-90,,Academia Dimitrovgrad,Krylia Sovetov,2010,Russian
+21,21,Ruslan Adzhindzhal,RUS,M,1.68,68,22-06-74,Gagra,Luch-Energia,Krylia Sovetov,2010,Russian
+22,22,Vitaliy Rushnitskiy,BLR,F,1.80,79,17-01-90,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+23,23,Dzyanis Kowba,BLR,M,1.88,78,06-09-79,Vitebsk,Sparta Prague,Krylia Sovetov,2010,Russian
+27,27,Sergey Kuznetsov,RUS,M,1.80,73,07-05-86,Oryol,FC Khimki,Krylia Sovetov,2010,Russian
+29,29,Sergey Budylin,RUS,M,1.75,73,30-10-79,Niznekamsk,Rubin Kazan,Krylia Sovetov,2010,Russian
+30,30,Nikita Alekseev,RUS,G,1.82,75,12-03-90,,FC Moscow,Krylia Sovetov,2010,Russian
+31,31,Eduardo Lobos,CHI,G,1.87,91,30-06-81,Curicó,Huachipato,Krylia Sovetov,2010,Russian
+32,32,Aleksandr Eliseev,RUS,M,1.82,73,15-11-91,,FC Moscow,Krylia Sovetov,2010,Russian
+33,33,Goran Drmić,BIH,D,1.85,77,04-01-88,Zenica,FC Moscow,Krylia Sovetov,2010,Russian
+34,34,Vladimir Yaroslavtsev,RUS,D,1.87,77,31-01-90,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+36,36,Valeriy Pochivalin,RUS,D,1.78,65,11-04-92,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+40,40,Dmitriy Kuznetsov,RUS,M,1.84,79,28-06-91,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+41,42,Andrey Redya,RUS,D,1.76,66,15-04-91,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+42,43,Dmitriy Kostyaev,RUS,M,1.76,67,13-12-89,Samara,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+43,44,Aleksandr Budanov,RUS,M,1.78,74,27-04-91,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+44,45,Vladimir Rzhevsky,RUS,D,1.95,84,19-07-87,Zheleznovodsk,BATE,Krylia Sovetov,2010,Russian
+45,46,Ibrahim Tsallagov,RUS,M,1.77,71,12-12-90,Vladikavkaz,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+46,47,Aleksey Khrushchev,RUS,M,1.75,70,21-08-92,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+47,50,Krzysztof Łągiewka,POL,D,1.89,79,23-01-83,Zambrów,Kuban Krasnodar,Krylia Sovetov,2010,Russian
+48,53,Anton Sosnin,RUS,M,1.78,72,27-01-90,St.  Petersburg,Zenit St Petersburg,Krylia Sovetov,2010,Russian
+49,63,Aleksandr Belozerov,RUS,D,1.83,79,27-10-81,Togliatti,KamAZ,Krylia Sovetov,2010,Russian
+50,66,Danijel Majkić,BIH,M,1.83,78,16-12-87,Banja Luka,Vele Mostar,Krylia Sovetov,2010,Russian
+51,69,Anton Setezhev,RUS,M,1.73,65,17-08-93,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+52,70,Sergey Andrianov,RUS,M,1.92,79,14-01-90,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+53,71,Sergey Voronin,RUS,G,1.89,75,13-02-92,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+54,72,Sergey Nakhlestkin,RUS,M,1.75,60,23-05-93,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+55,73,Artem Pinyaev,RUS,F,1.75,75,26-01-93,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+56,75,Mikhail Oparin,RUS,G,1.91,81,22-05-93,Omsk,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+57,77,Sergey Tkachev,RUS,M,1.83,77,19-05-89,Boguchar,Fakel Voronezh,Krylia Sovetov,2010,Russian
+58,79,Nenad  Djordjević,SRB,D,1.83,76,07-08-79,Paraćin,Partizan Belgrade,Krylia Sovetov,2010,Russian
+59,80,Dragan Jelič,SVN,F,1.83,77,27-02-86,Maribor,Maribor,Krylia Sovetov,2010,Russian
+60,82,Artim Poloani,MKD,M,1.78,71,25-06-82,Struga,Vardar Skopje,Krylia Sovetov,2010,Russian
+61,87,Evgeniy Zverev,RUS,D,1.74,65,12-03-92,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+62,88,Juan Carlos Escobar,COL,M,1.83,76,30-10-82,Cali,Deportes Tolima,Krylia Sovetov,2010,Russian
+63,89,Igor Egoshkin,RUS,M,1.75,64,09-01-92,,Krylia Sovetov-2,Krylia Sovetov,2010,Russian
+64,91,Pavel Yakovlev,RUS,F,1.80,69,07-04-91,Lyubertsy,Spartak Moscow,Krylia Sovetov,2010,Russian
+65,99,Oleg Ivanov,RUS,M,1.91,82,04-08-86,Moscow,Kuban Krasnodar,Krylia Sovetov,2010,Russian
+1,1,Guilherme,BRA,G,1.97,78,12-12-85,Cataguases,Atlético Paranaense,Lokomotiv Moscow,2010,Russian
+4,4,Rodolfo,BRA,D,1.83,77,23-10-82,Santos,Dynamo Kiev,Lokomotiv Moscow,2010,Russian
+6,6,Milan  Milanović,SRB,D,1.94,83,31-03-91,Kosovska Mitrovica,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+7,7,Dmitriy  Tarasov,RUS,M,1.88,73,18-03-87,Tomsk,FC Moscow,Lokomotiv Moscow,2010,Russian
+8,8,Denis Glushakov,RUS,M,1.78,72,27-01-87,Millerovo,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+10,10,Dmitriy Loskov,RUS,M,1.78,78,12-02-74,Kurgan,Saturn,Lokomotiv Moscow,2010,Russian
+11,11,Dmitri Sychev,RUS,F,1.76,71,26-10-83,Omsk,Marseille,Lokomotiv Moscow,2010,Russian
+13,13,Wágner,BRA,M,1.72,71,29-01-85,Sete Lagoas,Cruzeiro,Lokomotiv Moscow,2010,Russian
+14,14,Igor Smolnikov,RUS,M,1.78,70,08-08-88,Moscow,Torpedo Moscow,Lokomotiv Moscow,2010,Russian
+15,15,Haminu Draman,GHA,M,1.73,73,28-04-86,Accra,Gençlerbirliği,Lokomotiv Moscow,2010,Russian
+16,16,Charles,BRA,M,1.73,72,14-02-85,Rio de Janeiro,Cruzeiro,Lokomotiv Moscow,2010,Russian
+17,17,Dmitriy Sennikov,RUS,D,1.83,74,24-06-76,St.  Petersburg,Shinnik,Lokomotiv Moscow,2010,Russian
+19,19,Draman  Traoré,MLI,F,1.92,82,17-06-82,Bamako,Club Africain,Lokomotiv Moscow,2010,Russian
+20,20,Branko Ilič,SVN,D,1.88,80,06-02-83,Ljubljana,FC Moscow,Lokomotiv Moscow,2010,Russian
+21,21,Dmitriy Torbinskiy,RUS,M,1.72,60,28-04-84,Moscow,Spartak  Moscow,Lokomotiv Moscow,2010,Russian
+22,22,Aleksandr Krivoruchko,RUS,G,1.90,78,23-09-84,Moscow,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+23,23,Marko  Baa,SRB,D,1.90,79,29-12-82,Trstenik,Le Mans,Lokomotiv Moscow,2010,Russian
+27,27,Magomed Ozdoev,RUS,M,1.82,75,05-11-92,Grozny,Dynamo Kiev-2,Lokomotiv Moscow,2010,Russian
+28,28,Ján Ďurica,SVK,D,1.87,85,10-11-81,Bratislava,Saturn,Lokomotiv Moscow,2010,Russian
+30,30,Malkhaz Asatiani,GEO,M,1.84,79,04-08-81,Kutaisi,Torpedo Kutaisi,Lokomotiv Moscow,2010,Russian
+32,32,Marek Čech,CZE,G,1.87,84,08-04-76,Ostrava,Luch-Energia,Lokomotiv Moscow,2010,Russian
+35,35,Aleksandr Filtsov,RUS,G,1.97,85,02-01-90,Shimanovsk,FC Togliatti,Lokomotiv Moscow,2010,Russian
+41,41,Ilya  Mironov,RUS,M,1.76,63,27-02-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+42,44,Ruslan Kambolov,RUS,D,1.80,79,01-01-90,Moscow,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+43,49,Roman Shishkin,RUS,D,1.77,73,27-01-87,Voronezh,Spartak Moscow,Lokomotiv Moscow,2010,Russian
+44,51,Maksim Belyayev,RUS,D,1.85,76,30-09-91,Ozyory,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+45,52,Evgeniy Bodanov,RUS,G,1.84,72,23-01-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+46,53,Andrey Semenov,RUS,M,1.82,70,08-06-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+47,54,Egor Generalov,RUS,G,1.87,73,24-01-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+48,55,Renat Yanbaev,RUS,D,1.78,71,07-04-84,Noginsk,Kuban Krasnodar,Lokomotiv Moscow,2010,Russian
+49,56,Georgiy Nurov,RUS,F,1.79,67,08-06-92,Moscow,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+50,59,Aleksandr Vasyukov,RUS,M,1.78,70,18-02-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+51,62,Roman Bikov,RUS,M,1.83,74,16-03-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+52,64,Seit-Daut Garakoev,RUS,F,1.75,73,26-08-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+53,65,Dmitriy Kukharchuk,RUS,F,1.78,69,27-07-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+54,68,Aleksandr Korshunov,RUS,G,1.88,83,20-01-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+55,71,Aleksey Mamonov,RUS,D,1.83,79,14-04-93,Poltava,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+56,72,Soslan Dzhioev,RUS,M,1.82,74,08-08-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+57,74,Maksim Barsov,RUS,F,1.74,70,29-04-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+58,77,Arkadiy Kalaydzhyan,RUS,M,1.94,90,01-12-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+59,78,Nikolay Kalinskiy,RUS,M,1.80,75,22-09-93,Moscow,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+60,79,Aleksandr Yarkovoy,RUS,D,1.89,75,10-02-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+61,81,Alan Gatagov,RUS,D,1.80,71,23-01-91,Vladikavkaz,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+62,82,Soslan Gatagov,RUS,D,1.80,70,29-09-92,Vladikavkaz,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+63,83,Aleksey Malkov,RUS,M,1.73,62,30-03-93,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+64,84,Daniil Lezgintsev,RUS,M,1.80,75,30-08-92,,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+65,88,Oleksandr Aliyev,UKR,M,1.73,72,03-02-85,Khabarovsk,Dynamo Kiev,Lokomotiv Moscow,2010,Russian
+66,90,Maicon,BRA,F,1.82,67,18-02-90,Duque de Caxias,Fluminense,Lokomotiv Moscow,2010,Russian
+67,96,Dmitriy Poloz,RUS,F,1.83,73,12-07-91,Stavropol,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+68,98,Alan  Chochiev,RUS,M,1.80,70,07-09-91,Vladikavkaz,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+69,99,Taras Burlak,RUS,D,1.87,78,22-02-90,Vladivostok,Lokomotiv-2,Lokomotiv Moscow,2010,Russian
+1,1,Anton Amelchenko,BLR,G,1.92,85,27-03-85,Gomel,FC Moscow,FC Rostov,2010,Russian
+2,2,Timofei Kalachev,BLR,M,1.73,69,01-05-81,Mogilev,Krylia Sovetov,FC Rostov,2010,Russian
+3,3,Duan Andjelković,SRB,D,1.74,67,15-06-82,Kraljevo,Kocaelispor,FC Rostov,2010,Russian
+4,4,Isaac  Okoronkwo,NGA,D,1.82,74,01-05-78,Aba,FC Moscow,FC Rostov,2010,Russian
+5,5,Aleksandr Cherkes,RUS,D,1.80,75,02-09-76,Ostrogozhsk,Shinnik,FC Rostov,2010,Russian
+7,7,Alyaksandr Kulchiy,BLR,M,1.81,74,01-11-73,Gomel,Tom Tomsk,FC Rostov,2010,Russian
+8,8,Gia Grigalava,RUS,D,1.90,89,05-08-89,Kutaisi,SKA Rostov-on-Don,FC Rostov,2010,Russian
+9,9,Roman Adamov,RUS,F,1.87,80,21-06-82,Belaya Kalitva,Rubin Kazan,FC Rostov,2010,Russian
+10,10,Dmitriy Akimov,RUS,F,1.84,79,14-09-80,St. Petersburg,Sibir Novosibirsk,FC Rostov,2010,Russian
+11,11,Igor Lebedenko,RUS,F,1.82,78,27-05-83,Moscow,Saturn,FC Rostov,2010,Russian
+14,14,Anri Khagush,RUS,D,1.77,74,23-09-86,Gagra,Rubin Kazan,FC Rostov,2010,Russian
+15,15,Aleksey Sugak,RUS,F,1.82,76,27-02-90,Azov,FC Rostov-2,FC Rostov,2010,Russian
+16,16,Vladimir Zabuga,RUS,G,1.90,81,08-07-90,,FC Abinsk,FC Rostov,2010,Russian
+17,17,Sergey Shustikov,RUS,D,1.83,76,05-03-89,Moscow,Krylia Sovetov,FC Rostov,2010,Russian
+19,19,Mersudin Ahmetović,BIH,F,1.91,81,19-03-85,Tuzla,Sloboda Tuzla,FC Rostov,2010,Russian
+20,20,Artur Valikayev,RUS,D,1.91,80,08-01-88,Sterlitamak,FC Nizhny Novgorod,FC Rostov,2010,Russian
+21,21,Hong Yong-Jo,PRK,F,1.75,68,22-05-82,Pyongyang,Beanija,FC Rostov,2010,Russian
+22,22,Dejan Radić,SRB,G,1.87,82,08-07-80,Belgrade,Spartak Nalchik,FC Rostov,2010,Russian
+23,23,Chavdar Yankov,BUL,M,1.76,73,29-03-84,Sofia,Metalurh Donetsk,FC Rostov,2010,Russian
+24,24,Sorin Ghionea,ROU,D,1.87,82,11-05-79,Galaţi,Steaua Bucureşti,FC Rostov,2010,Russian
+25,25,Aleksandr Pavlenko,RUS,M,1.79,75,20-01-85,Ordzhonikidze,Spartak Moscow,FC Rostov,2010,Russian
+26,26,Ivan ivanović,SRB,D,1.88,79,12-10-81,abac,Sampdoria,FC Rostov,2010,Russian
+28,28,Artem Serdyuk,RUS,F,1.85,76,22-01-90,,FC Rostov-2,FC Rostov,2010,Russian
+31,31,Aleksandr Solovev,RUS,G,1.89,80,16-02-91,,FC Rostov-2,FC Rostov,2010,Russian
+33,33,Sergey Tumasyan,RUS,M,1.77,72,31-01-90,,SKA Rostov-on-Don,FC Rostov,2010,Russian
+34,34,Andriy Proshyn,UKR,D,1.89,84,19-02-85,Bor,Alania Vladikavkaz,FC Rostov,2010,Russian
+35,35,Vasiliy Mironik,RUS,D,1.77,70,12-09-91,,FC Rostov-2,FC Rostov,2010,Russian
+36,36,Igor Gurbanov,RUS,D,1.85,80,04-02-92,,FC Rostov-2,FC Rostov,2010,Russian
+37,37,Oleg Leshchikov,RUS,D,1.78,74,29-09-89,Rostov,FC Rostov-2,FC Rostov,2010,Russian
+38,38,Anri Khabga,RUS,D,1.77,68,07-01-92,,FC Rostov-2,FC Rostov,2010,Russian
+39,39,Mirzaga  Guseynpur,RUS,M,1.74,72,11-03-90,,FC Rostov-2,FC Rostov,2010,Russian
+40,40,Igor Ponomarev,RUS,M,1.81,76,26-05-92,,FC Rostov-2,FC Rostov,2010,Russian
+41,41,Khoren Bayramyan,RUS,M,1.69,60,07-01-92,Koti,FC Rostov-2,FC Rostov,2010,Russian
+42,42,Anton Kabanov,RUS,F,1.75,66,11-02-91,,Kuban Krasnodar,FC Rostov,2010,Russian
+43,44,Magomed Kurbanov,RUS,F,1.79,64,11-04-92,,FC Rostov-2,FC Rostov,2010,Russian
+44,45,Oleg Solonukha,RUS,M,1.86,74,30-01-92,,FC Rostov-2,FC Rostov,2010,Russian
+45,48,Aleksandr Mitkin,RUS,D,1.81,70,25-07-91,,FC Rostov-2,FC Rostov,2010,Russian
+46,49,Nikita Vasliev,RUS,M,1.91,85,22-03-92,,FC Rostov-2,FC Rostov,2010,Russian
+47,50,Irakliy  Khokhba,RUS,M,1.82,75,16-03-90,,Dynamo Moscow-2,FC Rostov,2010,Russian
+48,53,Sergey Kharlamov,RUS,D,1.81,72,24-01-91,,FC Moscow,FC Rostov,2010,Russian
+49,55,Aleksandr Tumasyan,RUS,M,1.80,72,15-10-92,,FC Rostov-2,FC Rostov,2010,Russian
+50,56,David Tkebuchava,RUS,M,1.68,63,17-01-91,,FC Rostov-2,FC Rostov,2010,Russian
+51,77,Stanislav Ivanov,MDA,M,1.83,73,07-10-80,Tiraspol,Lokomotiv Moscow,FC Rostov,2010,Russian
+52,81,Dragan Blatnjak,CRO,F,1.81,75,01-08-81,Studenci,FC Khimki,FC Rostov,2010,Russian
+53,84,Aleksandr Gaţcan,RUS,M,1.85,78,27-03-84,Chişinău,Rubin Kazan,FC Rostov,2010,Russian
+2,2,Oleg Kuzmin,RUS,D,1.75,72,09-05-81,Moscow,Lokomotiv Moscow,Rubin Kazan,2010,Russian
+3,3,Cristian  Ansaldi,ARG,D,1.78,73,20-09-86,Rosario,Newell's Old Boys,Rubin Kazan,2010,Russian
+4,4,César Navas,ESP,D,1.96,89,14-02-80,Móstoles,Racing Santander,Rubin Kazan,2010,Russian
+5,5,Petr Bystrov,RUS,M,1.80,78,15-07-79,Nizhny Novgorod,FC Moscow,Rubin Kazan,2010,Russian
+6,6,Macbeth Sibaya,RSA,M,1.75,72,25-11-77,Durban,Rosenborg,Rubin Kazan,2010,Russian
+8,8,Aleksandr Ryazantsev,RUS,M,1.76,70,05-09-86,Moscow,FC  Moscow,Rubin Kazan,2010,Russian
+9,9,Lasha Salukvadze,GEO,D,1.84,80,21-12-81,Tbilisi,Dynamo Tbilisi,Rubin Kazan,2010,Russian
+12,12,Valerio Brandi,ITA,M,1.72,66,10-03-90,San Donato Milanese,Milan,Rubin Kazan,2010,Russian
+14,14,Alan Kasaev,RUS,M,1.73,67,08-04-86,Vladikavkaz,Kuban Krasnodar,Rubin Kazan,2010,Russian
+15,15,Rafał Murawski,POL,M,1.75,76,09-10-81,Malbork,Lech Poznań,Rubin Kazan,2010,Russian
+16,16,Cristian Noboa,ECU,M,1.81,74,09-04-85,Guayaquil,Emelec,Rubin Kazan,2010,Russian
+19,19,Vitaliy Kaleshin,RUS,D,1.73,67,03-10-80,Krasnodar,FC Moscow,Rubin Kazan,2010,Russian
+21,21,Alexandru  Antoniuc,MDA,F,1.80,71,23-05-89,Chişinău,Zimbru Chişinău,Rubin Kazan,2010,Russian
+22,22,Aleksandr Orekhov,RUS,D,1.98,92,29-11-83,Kropotkin,Kuban Krasnodar,Rubin Kazan,2010,Russian
+23,23,Evgeniy Balyaikin,RUS,M,1.83,74,19-05-88,Bratsk,Sibiryak Bratsk,Rubin Kazan,2010,Russian
+25,25,Dato Kvirkvelia,GEO,D,1.84,76,27-06-80,Lanchkhuti,Alania Vladikavkaz,Rubin Kazan,2010,Russian
+26,26,Aleksey Medvedev,RUS,F,1.82,75,05-01-77,Pavlovsky Posad,Sibir Novosibirsk,Rubin Kazan,2010,Russian
+27,27,Salvatore Bocchetti,ITA,D,1.78,70,30-11-86,Naples,Genoa,Rubin Kazan,2010,Russian
+28,28,Obafemi Martins,NGA,F,1.76,67,28-10-84,Lagos,Wolfsburg,Rubin Kazan,2010,Russian
+31,31,Mikhail Badyautdinov,RUS,D,1.90,79,11-10-89,,Spartak Moscow-2,Rubin Kazan,2010,Russian
+32,32,Andrey Gorbanets,RUS,M,1.76,70,24-08-85,Kamyshin,Sibir Novosibirsk,Rubin Kazan,2010,Russian
+41,41,Ilsur Samigullin,RUS,M,1.78,70,06-02-91,,Rubin-2,Rubin Kazan,2010,Russian
+42,42,Marat Doyati,RUS,D,1.86,80,18-02-92,,Rubin-2,Rubin Kazan,2010,Russian
+43,44,Giedrius Arlauskis,LTU,G,1.83,80,01-12-87,Teliai,Unirea Urziceni,Rubin Kazan,2010,Russian
+44,50,Parviz Umarboev,TJK,M,1.68,62,01-11-94,Jabbor Rasulov,Rubin-2,Rubin Kazan,2010,Russian
+45,51,Avtandil Bratchuli,GEO,D,1.85,73,02-04-92,,Rubin-2,Rubin Kazan,2010,Russian
+46,52,Ayubkhon Gapparov,UZB,F,1.70,69,16-05-92,,Pakhtakor Tashkent,Rubin Kazan,2010,Russian
+47,53,Serdar Iolomanov,RUS,D,1.74,70,17-10-92,,Rubin-2,Rubin Kazan,2010,Russian
+48,54,Almaz Askarov,RUS,M,1.85,67,21-01-92,,Rubin-2,Rubin Kazan,2010,Russian
+49,55,Artem Kuklev,RUS,M,1.90,74,28-10-91,,Rubin-2,Rubin Kazan,2010,Russian
+50,56,Ruslan Makhmutov,RUS,M,1.73,67,27-01-91,Togliatti,FC Togliatti,Rubin Kazan,2010,Russian
+51,57,Anton Saroka,BLR,F,1.86,82,05-03-92,,Dinamo Minsk,Rubin Kazan,2010,Russian
+52,61,Gökdeniz Karadeniz,TUR,M,1.69,66,11-01-80,Giresun,Trabzonspor,Rubin Kazan,2010,Russian
+53,65,Maksim Zhestokov,RUS,D,1.87,70,19-06-91,Kazan,Rubin-2,Rubin Kazan,2010,Russian
+54,66,Bibras Natkho,ISR,M,1.75,73,18-02-88,Kfar Kama,Hapoel Tel Aviv,Rubin Kazan,2010,Russian
+55,76,Roman Sharonov,RUS,D,1.84,76,08-09-76,Moscow,Shinnik,Rubin Kazan,2010,Russian
+56,77,Sergey  Ryzhikov,RUS,G,1.94,83,19-09-80,Shebekino,Lokomotiv Moscow,Rubin Kazan,2010,Russian
+57,79,Yuriy Nesterenko,RUS,G,1.89,85,12-06-91,Krasnodar,Rubin-2,Rubin Kazan,2010,Russian
+58,80,Dmitriy Tarabrikov,RUS,D,1.80,69,23-04-90,,Rubin-2,Rubin Kazan,2010,Russian
+59,81,Ildar Bikchantaev,RUS,F,1.82,68,02-02-90,,Rubin-2,Rubin Kazan,2010,Russian
+60,83,Vladimir Chernov,RUS,M,1.87,74,15-01-91,,Rubin-2,Rubin Kazan,2010,Russian
+61,84,Iskandar Dzhalilov,RUS,D,1.80,72,01-06-92,Dushanbe,CSKA Moscow,Rubin Kazan,2010,Russian
+62,85,Marat Sitdikov,RUS,M,1.74,65,23-07-91,,Rubin-2,Rubin Kazan,2010,Russian
+63,86,Vitaliy Ustinov,RUS,D,1.80,70,03-05-91,Moscow,FC Moscow,Rubin Kazan,2010,Russian
+64,87,Carlos Eduardo,BRA,M,1.71,68,18-07-87,Ajuricaba,1899 Hoffenheim,Rubin Kazan,2010,Russian
+65,88,Siarhei Karnilenka,BLR,F,1.85,78,14-06-83,Vitebsk,Zenit St Petersburg,Rubin Kazan,2010,Russian
+66,90,Artem Kulesha,RUS,D,1.90,80,14-01-90,St. Petersburg,Smena-Zenit,Rubin Kazan,2010,Russian
+67,92,Vakhit Orazsakhedov,TKM,F,1.80,70,26-01-92,Ashgabat,Rubin-2,Rubin Kazan,2010,Russian
+68,95,Alisher Dzhalilov,RUS,M,1.68,57,29-08-93,Dushanbe,Rubin-2,Rubin Kazan,2010,Russian
+69,97,Igor Portnyagin,RUS,F,1.90,75,07-01-89,Vladivostok,Rubin-2,Rubin Kazan,2010,Russian
+70,98,Ilie Cebanu,MDA,G,1.89,81,29-12-86,Chişinău,Wisła Kraków,Rubin Kazan,2010,Russian
+1,1,Antonín Kinský,CZE,G,1.87,86,31-05-75,Prague,Slovan  Liberec,Saturn,2010,Russian
+2,2,Dmitriy Parfenov,UKR,D,1.70,68,11-09-74,Odessa,Arsenal Kiev,Saturn,2010,Russian
+4,4,Roman Vorobyov,RUS,M,1.75,70,24-03-84,St. Petersburg,FC Khimki,Saturn,2010,Russian
+5,5,Aleksey Igonin,RUS,D,1.81,82,18-03-76,St. Petersburg,Chernomorets  Odessa,Saturn,2010,Russian
+6,6,Dmitriy  Grachev,RUS,D,1.87,80,06-10-83,Voronezh,KamAZ,Saturn,2010,Russian
+7,7,Petr Nemov,RUS,M,1.80,69,18-10-83,Oryol,Krylia Sovetov,Saturn,2010,Russian
+8,8,Marko Topić,CRO,F,1.83,84,01-01-76,Otra Luka,Krylia Sovetov,Saturn,2010,Russian
+11,11,Denis Boyarintsev,RUS,M,1.74,71,06-02-78,Moscow,Spartak Moscow,Saturn,2010,Russian
+14,14,Dmitriy Kirichenko,RUS,F,1.75,75,17-01-77,Novoalexandrovsk,FC Moscow,Saturn,2010,Russian
+15,15,Ruslan Nakhushev,RUS,D,1.85,79,05-09-84,Nalchik,FC Khimki,Saturn,2010,Russian
+16,16,Vadim Evseev,RUS,D,1.80,82,08-01-76,Mytishchi,Torpedo Moscow,Saturn,2010,Russian
+21,21,Andrey Karyaka,RUS,M,1.79,75,01-04-78,Dnipropetrovsk,Benfica,Saturn,2010,Russian
+22,22,Zhora Hovhannisyan,ARM,M,1.70,69,16-04-87,Yerevan,Kymis,Saturn,2010,Russian
+24,24,Benoît Angbwa,CMR,D,1.76,76,01-01-82,Garoua,Krylia Sovetov,Saturn,2010,Russian
+25,25,Kamil Kopúnek,SVK,M,1.79,71,18-05-84,Trnava,Spartak Trnava,Saturn,2010,Russian
+26,26,Zelão,BRA,D,1.88,89,12-11-86,Pirajuí,Corinthians,Saturn,2010,Russian
+28,28,Vladimir Kuzmichev,RUS,M,1.85,80,28-07-79,Moscow,Terek Grozny,Saturn,2010,Russian
+29,29,Leonid Kovel,BLR,F,1.79,79,29-07-86,Smarhoń,Dinamo Minsk,Saturn,2010,Russian
+30,30,Aleksandr Makarov,RUS,G,1.98,99,23-08-78,Morshansk,Krylia Sovetov,Saturn,2010,Russian
+33,33,Vitaliy Chilushkin,RUS,G,1.78,72,21-01-90,Kabanovo,Saturn-2,Saturn,2010,Russian
+40,40,Evgeniy Degtyarev,RUS,M,1.72,63,07-02-93,,Saturn-2,Saturn,2010,Russian
+41,41,Aleksandr Sapeta,RUS,M,1.79,73,28-06-89,Engels,Saturn-2,Saturn,2010,Russian
+42,42,Aleksandr Vlaskin,RUS,D,1.91,71,22-01-92,,Saturn-2,Saturn,2010,Russian
+43,44,Nikita Lapin,RUS,M,1.72,69,20-05-93,,Saturn-2,Saturn,2010,Russian
+44,46,Viktor Kuzmichev,RUS,M,1.80,71,19-03-92,Makhachkala,Saturn-2,Saturn,2010,Russian
+45,49,Artem Anisimov,RUS,M,1.78,79,30-01-91,,Saturn-2,Saturn,2010,Russian
+46,51,Shamil Kurbanov,RUS,D,1.75,78,10-04-93,,Saturn-2,Saturn,2010,Russian
+47,52,Aleksandr Semyachkin,RUS,M,1.74,65,25-07-92,,Saturn-2,Saturn,2010,Russian
+48,53,Aleksandr Kolodko,RUS,M,1.82,72,10-07-89,Omsk,Saturn-2,Saturn,2010,Russian
+49,56,Vladimir Sobolev,RUS,M,1.67,65,30-07-91,Gukovo,Saturn-2,Saturn,2010,Russian
+50,57,Artem Molodtsov,RUS,D,1.74,70,08-10-90,Saratov,Saturn-2,Saturn,2010,Russian
+51,58,Kirill Kuleshov,RUS,F,1.87,82,03-01-91,,Saturn-2,Saturn,2010,Russian
+52,60,Sergey Pchelkin,RUS,F,1.81,70,30-10-92,,Saturn-2,Saturn,2010,Russian
+53,62,Dmitriy Nikitinskiy,RUS,M,1.80,70,09-02-92,Volokolamsk,Saturn-2,Saturn,2010,Russian
+54,64,Sergey Bryzgalov,RUS,D,1.78,72,15-11-92,Pavlovo,Saturn-2,Saturn,2010,Russian
+55,67,Emin Makhmudov,RUS,M,1.67,67,27-04-92,Lankaran,Saturn-2,Saturn,2010,Russian
+56,69,Dmitriy Zinovich,RUS,M,1.90,77,19-05-89,Murom,Shinnik,Saturn,2010,Russian
+57,70,Maksim Plopa,RUS,M,1.88,76,23-01-90,Bălţi,FC Khimki,Saturn,2010,Russian
+58,71,Artem Bragin,RUS,M,1.80,75,28-01-92,,Saturn-2,Saturn,2010,Russian
+59,72,Vladimir  Torshentsev,RUS,M,1.80,66,22-05-93,,Saturn-2,Saturn,2010,Russian
+60,73,Anton  Trubitsin,RUS,F,1.73,68,18-03-92,,Saturn-2,Saturn,2010,Russian
+61,74,Temuri Bukiya,RUS,F,1.75,71,02-04-94,,Saturn-2,Saturn,2010,Russian
+62,75,Viktor Lipin,RUS,M,1.77,71,07-01-94,,Saturn-2,Saturn,2010,Russian
+63,76,Konstantin Savichev,RUS,M,1.73,64,06-03-94,Bryansk,Saturn-2,Saturn,2010,Russian
+64,77,Artem Rebrov,RUS,G,1.89,85,04-03-84,Moscow,Saturn-2,Saturn,2010,Russian
+65,79,Marat Gubzhev,RUS,F,1.76,65,02-08-92,,Spartak Nalchik,Saturn,2010,Russian
+66,88,Aleksey Ivanov,RUS,M,1.78,73,01-09-81,Saratov,Luch-Energia,Saturn,2010,Russian
+67,90,Aleksandr Romanov,RUS,G,1.87,83,09-03-90,,Saturn-2,Saturn,2010,Russian
+68,95,Makhach Gadzhiev,RUS,M,1.81,73,18-10-87,Kizilyurt,Krylia Sovetov,Saturn,2010,Russian
+69,99,Solomon Okoronkwo,NGA,F,1.82,77,02-03-87,Enugu,Hertha Berlin,Saturn,2010,Russian
+1,1,Aleksey Solosin,RUS,G,1.80,69,11-08-87,Moscow,Tom,Sibir Novosibirsk,2010,Russian
+2,2,Adessoye Oyewole,RUS,D,1.84,79,18-09-82,Moscow,FC Ural,Sibir Novosibirsk,2010,Russian
+3,3,Dmitry Molosh,BLR,D,1.74,69,10-12-81,Minsk,Nosta Novotroitsk,Sibir Novosibirsk,2010,Russian
+4,4,Tomá Vychodil,CZE,D,1.84,73,07-10-75,Opava,Tom,Sibir Novosibirsk,2010,Russian
+5,5,Mikhail Luchinkin,RUS,D,1.74,71,11-01-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+6,6,Steeve Joseph-Reinette,FRA,D,1.80,77,02-12-83,Paris,Slavia Sofia,Sibir Novosibirsk,2010,Russian
+7,7,Mantas Savėnas,LTU,M,1.78,77,27-08-82,Panevėys,Nosta Novotroitsk,Sibir Novosibirsk,2010,Russian
+9,9,Aleksandr Antipenko,RUS,F,1.94,88,27-05-82,Komsomolsk-on-Amur,FC Khimki,Sibir Novosibirsk,2010,Russian
+11,11,Tomá Číek,CZE,M,1.77,72,27-11-78,Prague,Jablonec,Sibir Novosibirsk,2010,Russian
+12,12,Bartłomiej Grzelak,POL,F,1.88,81,09-08-81,Płock,Legia Warszawa,Sibir Novosibirsk,2010,Russian
+14,14,Aleksandr Degtyarev,RUS,M,1.71,69,07-09-83,,Alania Vladikavkaz,Sibir Novosibirsk,2010,Russian
+15,15,Ivan Nagibin,RUS,M,1.76,68,21-03-86,Chita,FC Chita,Sibir Novosibirsk,2010,Russian
+16,16,Maksim Eliseev,RUS,G,1.85,78,29-07-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+17,17,Denis Bukhryakov,RUS,D,1.87,80,28-04-81,,Amur Blagoveshchensk,Sibir Novosibirsk,2010,Russian
+18,18,Dmitriy Melnikov,RUS,M,1.82,75,24-03-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+19,19,Danil Kochkin,RUS,M,1.72,63,08-04-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+21,21,Nikola Valentić,SRB,D,1.85,81,06-09-83,,Alania Vladikavkaz,Sibir Novosibirsk,2010,Russian
+22,22,Egor Filipenko,BLR,D,1.95,85,10-04-88,Minsk,Spartak Moscow,Sibir Novosibirsk,2010,Russian
+23,23,Leonid Zuyev,RUS,M,1.75,63,12-01-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+24,24,Arūnas Klimavičius,LTU,D,1.87,80,05-10-82,Panevėys,FC Ural,Sibir Novosibirsk,2010,Russian
+25,25,Velice umulikoski,MKD,M,1.82,77,24-04-81,Struga,Preston NE,Sibir Novosibirsk,2010,Russian
+27,27,Aleksey Aravin,RUS,M,1.85,78,09-07-86,Moscow,Lokomotiv Moscow,Sibir Novosibirsk,2010,Russian
+28,28,Roger Cañas,COL,M,1.88,85,27-03-90,Medellín,Tranzit,Sibir Novosibirsk,2010,Russian
+29,29,Andrey Shreyner,RUS,M,1.80,72,16-12-90,,FC Krasnodar,Sibir Novosibirsk,2010,Russian
+30,30,Wojciech Kowalewski,POL,G,1.89,86,11-05-77,Białystok,Iraklis,Sibir Novosibirsk,2010,Russian
+31,31,Maksim Gorodtsov,RUS,F,1.82,75,31-01-91,,Torpedo-ZIL,Sibir Novosibirsk,2010,Russian
+33,33,Pavel Logvinov,RUS,M,1.82,73,24-02-90,,Saturn-2,Sibir Novosibirsk,2010,Russian
+36,36,Kirill Komarenko,RUS,G,1.83,76,23-04-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+38,38,Eduard Krug,RUS,M,1.82,73,21-05-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+40,40,Petr Vaek,CZE,G,1.89,86,09-04-79,Čeládná,Slovácko,Sibir Novosibirsk,2010,Russian
+41,44,Vyacheslav Shishkin,RUS,D,1.80,70,01-02-93,,Sibir-2,Sibir Novosibirsk,2010,Russian
+42,49,Vagiz Galiulin,UZB,M,1.74,67,10-10-87,Kazan,Rubin Kazan,Sibir Novosibirsk,2010,Russian
+43,52,Evgeniy Zinovyev,RUS,M,1.83,74,15-06-81,Moscow,Lokomotiv Moscow,Sibir Novosibirsk,2010,Russian
+44,54,Aleksey Vasilyev,RUS,M,1.70,65,28-10-87,Moscow,Nosta Novotroitsk,Sibir Novosibirsk,2010,Russian
+45,55,Aleksey Gladishev,RUS,M,1.80,71,08-12-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+46,62,Gia Kulumbegashvili,RUS,M,1.74,65,09-09-90,,Sibir-2,Sibir Novosibirsk,2010,Russian
+47,64,Vladimir Glukhov,RUS,F,1.80,70,29-05-90,,Sokol-Saratov,Sibir Novosibirsk,2010,Russian
+48,65,Artem Dudolev,RUS,F,1.58,54,30-09-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+49,68,Vitaliy Zaprudskikh,RUS,D,1.75,70,01-01-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+50,70,Martin Horák,CZE,D,1.85,79,16-09-80,Prague,FC Rostov,Sibir Novosibirsk,2010,Russian
+51,77,Ilya Trunin,RUS,G,1.90,85,25-05-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+52,80,Sergey Korotkov,RUS,M,1.84,79,22-08-90,,Sibir-2,Sibir Novosibirsk,2010,Russian
+53,85,Roman Mokin,RUS,M,1.72,68,24-04-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+54,88,Maksim Astafyev,RUS,M,1.69,66,08-12-82,St. Petersburg,FC Rostov,Sibir Novosibirsk,2010,Russian
+55,90,Maksim Zhitnev,RUS,M,1.79,82,05-05-90,,Sibir-2,Sibir Novosibirsk,2010,Russian
+56,91,Aleksandr Shumov,RUS,M,1.75,70,08-03-91,,Sibir-2,Sibir Novosibirsk,2010,Russian
+57,92,Aleksandr Maslovskiy,RUS,M,1.80,71,03-01-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+58,93,Sergey Burkovetskiy,RUS,D,1.87,77,13-06-92,,Sibir-2,Sibir Novosibirsk,2010,Russian
+59,94,Kirill Orlov,RUS,D,1.79,76,18-01-83,Moscow,FC Moscow,Sibir Novosibirsk,2010,Russian
+60,95,Roman Belyaev,RUS,F,1.80,69,14-02-88,Novosibirsk,Sibir-2,Sibir Novosibirsk,2010,Russian
+61,96,Ivan Stain,RUS,D,1.75,69,07-02-89,Sverdlosk,Tranzit,Sibir Novosibirsk,2010,Russian
+62,97,Nikolay Lipatkin,RUS,M,1.86,77,23-05-86,,MVD Rossii,Sibir Novosibirsk,2010,Russian
+63,99,Igor Shevchenko,RUS,F,1.80,70,02-02-85,Samara,Terek Grozny,Sibir Novosibirsk,2010,Russian
+2,2,Cristian  Maidana,ARG,M,1.82,69,24-01-87,Chaco,Banfield,Spartak Moscow,2010,Russian
+3,3,Martin  Stranzl,AUT,D,1.90,81,16-06-80,Güssing,Stuttgart,Spartak Moscow,2010,Russian
+5,5,Aleksandr Sheshukov,RUS,M,1.81,77,15-04-83,Omsk,FC Moscow,Spartak Moscow,2010,Russian
+6,6,Renat Sabitov,RUS,D,1.85,81,13-06-85,Moscow,Saturn,Spartak Moscow,2010,Russian
+7,7,Ibson,BRA,M,1.77,74,07-11-83,Niterói,FC Porto,Spartak Moscow,2010,Russian
+8,8,Nikola Drinčić,SRB,M,1.81,76,07-01-84,Belgrade,Amkar Perm,Spartak Moscow,2010,Russian
+9,9,Ari,BRA,F,1.82,87,11-12-85,Fortaleza,AZ Alkmaar,Spartak Moscow,2010,Russian
+10,10,Ivan Saenko,RUS,F,1.77,79,17-10-83,Maslovka,Nürnberg,Spartak Moscow,2010,Russian
+11,11,Welliton,BRA,F,1.75,75,22-10-86,Conceição do Araguaia,Goiás,Spartak Moscow,2010,Russian
+12,12,Alex,BRA,M,1.75,71,25-03-82,Cornélio Procópio,Internacional,Spartak Moscow,2010,Russian
+15,15,Sergey Parshivlyuk,RUS,D,1.78,73,18-03-89,Moscow,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+16,16,Evgeniy Makeev,RUS,M,1.81,69,24-07-89,Cherepovets,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+17,17,Marek Suchý,CZE,D,1.82,76,29-03-88,Prague,Slavia Prague,Spartak Moscow,2010,Russian
+18,18,Andrey Ivanov,RUS,D,1.79,75,08-10-88,Moscow,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+19,19,Nicolás  Pareja,ARG,D,1.81,75,19-01-84,Capital Federal,Espanyol,Spartak Moscow,2010,Russian
+20,20,Aleksandr Zotov,RUS,M,1.72,64,27-08-90,Askiz,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+21,21,Nikita Bazhenov,RUS,F,1.79,76,01-02-85,Bolshoye Bunkovo,Saturn,Spartak Moscow,2010,Russian
+23,23,Igor Kireyev,RUS,M,1.78,67,17-02-92,Zheleznogorsk,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+26,26,Anton Khodyrev,RUS,D,1.79,67,26-01-92,Moscow,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+27,27,Jano Ananidze,GEO,M,1.70,60,10-10-92,Kobuleti,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+28,28,Nikolay Zabolotniy,RUS,G,1.84,81,16-04-90,St.  Petersburg,Zenit St Petersburg,Spartak Moscow,2010,Russian
+30,30,Sergey Pesyakov,RUS,G,1.95,85,16-12-88,Ivanovo,Shinnik,Spartak Moscow,2010,Russian
+31,31,Nikolay Ivannikov,RUS,F,1.72,70,16-02-92,,Academia Dimitrovgrad,Spartak Moscow,2010,Russian
+32,32,Artemiy Maleev,RUS,M,1.78,68,04-05-91,Omsk,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+33,33,Dmitriy Malyaka,RUS,M,1.81,74,15-01-90,Omsk,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+34,34,Artem Filatov,RUS,D,1.84,76,04-02-93,,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+36,36,Azamat Dzhioev,RUS,G,1.93,79,06-01-91,Vladikavkaz,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+37,37,Dmitriy Kayumov,RUS,M,1.73,58,11-05-92,Reutov,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+39,39,Maksim Grigoryev,RUS,M,1.88,75,06-07-90,Lipetsk,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+40,40,Konstantin Ryabov,RUS,D,1.82,72,28-02-92,,Academia Dimitrovgrad,Spartak Moscow,2010,Russian
+41,41,Vladimir Obukhov,RUS,F,1.84,77,08-02-92,Bukhara,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+42,42,Sergey Chernishuk,RUS,G,1.82,81,22-02-92,Mosow,Spartak Moscow-2,Spartak Moscow,2010,Russian
+43,43,Irakli Chezhia,RUS,D,1.86,72,22-05-92,Gali,Spartak Moscow-2,Spartak Moscow,2010,Russian
+44,44,Maksim Terentyev,RUS,M,1.78,72,26-02-93,,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+45,46,Konstantin Sovetkin,RUS,M,1.69,61,19-02-89,Moscow,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+46,47,Anton Ukolov,RUS,D,1.91,83,09-03-93,,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+47,48,Filip Ozobić,CRO,M,1.78,70,08-04-91,Bjelovar,Dinamo Zagreb,Spartak Moscow,2010,Russian
+48,49,Aleksandr Kozlov,RUS,F,1.70,70,19-03-93,Moscow,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+49,51,Pavel Solomatin,RUS,F,1.76,73,04-04-93,Tolyatti,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+50,54,Ivan Khomukha,RUS,D,1.86,65,14-07-94,,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+51,55,Dmitri Khlebosolov,BLR,F,1.72,68,07-10-90,Brest [BLR],Spartak Moscow-2,Spartak Moscow,2010,Russian
+52,56,Aleksandr Belenov,RUS,G,1.97,94,13-09-86,Belgorod,Salyut Belgorod,Spartak Moscow,2010,Russian
+53,57,Nikolay Fadeev,RUS,D,1.78,73,09-05-93,Ulyanovsk,Spartak Moscow-2,Spartak Moscow,2010,Russian
+54,58,Aleksandr Putsko,RUS,D,1.85,82,24-02-93,Unecha,Spartak Moscow-2,Spartak Moscow,2010,Russian
+55,59,Aleksandr Ilyin,RUS,M,1.77,68,05-02-93,,Spartak Moscow-2,Spartak Moscow,2010,Russian
+56,61,Vladimir Zubarev,RUS,M,1.78,71,05-01-93,Volgograd,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+57,64,Aidan  McGeady,IRL,M,1.78,72,04-04-86,Glasgow,Celtic,Spartak Moscow,2010,Russian
+58,65,Denis Kutin,RUS,D,1.84,67,05-10-93,Hamburg,Akademia Chertanovo,Spartak Moscow,2010,Russian
+59,67,Dmitriy Tumenko,RUS,M,1.86,73,04-05-89,,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+60,77,Kirill Kombarov,RUS,M,1.82,69,22-01-87,Moscow,Dynamo Moscow,Spartak Moscow,2010,Russian
+61,81,Andriy Dikan,UKR,G,1.92,84,16-07-77,Kharkiv,Terek  Grozny,Spartak Moscow,2010,Russian
+62,89,Aleksandr  Prudnikov,RUS,F,1.85,78,26-02-89,Smolensk,Spartak  Moscow-2,Spartak Moscow,2010,Russian
+63,99,Dmitriy Kombarov,RUS,M,1.82,69,22-01-87,Moscow,Dynamo Moscow,Spartak Moscow,2010,Russian
+3,3,Viktor Vasin,RUS,D,1.92,80,06-10-88,St.  Petersburg,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+4,4,Marat Alchagirov,RUS,D,1.78,71,08-08-90,,Lokomotiv Moscow-2,Spartak Nalchik,2010,Russian
+7,7,Gogita Gogua,GEO,M,1.72,70,04-09-83,Tbilisi,Saturn,Spartak Nalchik,2010,Russian
+8,8,David Siradze,GEO,M,1.86,78,21-10-81,Tbilisi,Paderborn,Spartak Nalchik,2010,Russian
+10,10,Nikita Malyarov,RUS,M,1.81,74,23-10-89,Moscow,Nara-ShBFR Naro-Fominsk,Spartak Nalchik,2010,Russian
+11,11,Roman Kontsedalov,RUS,M,1.81,75,11-05-86,Valuyki,Lokomotiv Moscow,Spartak Nalchik,2010,Russian
+13,13,Aleksandr Shchanitsin,RUS,M,1.73,72,02-12-84,Ivanovo,FC Ural,Spartak Nalchik,2010,Russian
+17,17,Valentin Filatov,RUS,D,1.76,71,19-03-82,St.  Petersburg,Unirea Urziceni,Spartak Nalchik,2010,Russian
+19,19,Roman Amirkhanov,RUS,D,1.77,68,13-05-89,,Sibir Novosibirsk,Spartak Nalchik,2010,Russian
+20,20,Miodrag Dudović,MNE,D,1.97,92,06-09-79,Plav,Volyn Lutsk,Spartak Nalchik,2010,Russian
+21,21,Oleg Shalaev,RUS,M,1.80,76,06-02-92,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+22,22,Vladimir Dyadyun,RUS,F,1.80,71,12-07-88,Omsk,Rubin Kazan,Spartak Nalchik,2010,Russian
+23,23,Stefan Dejak,SRB,D,1.91,80,23-03-91,,Veternik,Spartak Nalchik,2010,Russian
+24,24,Albert Balov,RUS,M,1.72,68,17-02-92,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+25,25,Bojan Marković,BIH,D,1.97,91,12-11-85,Zenica,Čelik Zenica,Spartak Nalchik,2010,Russian
+27,27,Aslan Barokov,RUS,F,1.77,69,22-11-90,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+28,28,Jovan Golić,SRB,M,1.93,93,18-09-86,Milići,Indjija,Spartak Nalchik,2010,Russian
+29,29,Milan Jovanović,MNE,D,1.88,83,21-07-83,Čačak,Rapid Vienna,Spartak Nalchik,2010,Russian
+30,30,Otto  Fredikson,FIN,G,1.89,85,30-11-81,Valkeakoski,Lillestrøm,Spartak Nalchik,2010,Russian
+31,31,Leandro,BRA,D,1.80,72,26-06-85,Itumbiara,Luch-Energia,Spartak Nalchik,2010,Russian
+33,33,Kazbek Geteriev,RUS,M,1.72,68,30-06-85,Proletarskoye,Burevestnik,Spartak Nalchik,2010,Russian
+34,34,Alim  Mikheev,RUS,M,1.79,69,20-05-91,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+35,35,Mikhail Bilaonov,RUS,F,1.87,82,30-05-91,,Amkar Perm,Spartak Nalchik,2010,Russian
+36,36,Alim Kumikov,RUS,M,1.78,69,18-04-92,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+37,37,Azamat Merov,RUS,D,1.81,74,05-02-89,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+38,38,Andrey Vasyanovich,RUS,D,1.84,80,13-06-88,Volgograd,CSKA Sofia,Spartak Nalchik,2010,Russian
+39,39,Zaurbek Pliev,RUS,D,1.82,69,27-09-91,Vladikavkaz,Dynamo Moscow-2,Spartak Nalchik,2010,Russian
+40,40,Artur Kumikov,RUS,G,1.83,78,20-02-90,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+41,41,Maksim Kovalskiy,RUS,M,1.70,64,06-02-93,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+42,42,Amirkhan Shavaev,RUS,M,1.72,68,12-03-91,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+43,43,Artur Rilov,RUS,M,1.75,70,12-04-89,,Krylia Sovetov,Spartak Nalchik,2010,Russian
+44,44,Arsen Goshokov,RUS,F,1.80,73,05-06-91,Baksan,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+45,45,Zalim Kanikhov,RUS,M,1.75,70,17-03-89,Nalchik,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+46,46,Zalim Kishev,RUS,D,1.68,60,18-07-90,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+47,47,Rustam Shortanov,RUS,M,1.85,75,28-07-89,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+48,48,Aleksandr Trubitsin,RUS,M,1.82,73,01-08-89,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+49,49,Kantemir Khagabanov,RUS,D,1.82,76,06-10-92,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+50,51,Magomed Mitrishev,RUS,F,1.77,61,10-09-92,Grozny,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+51,52,Astemir Soblirov,RUS,D,1.82,76,27-10-90,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+52,53,Timur Teberdiev,RUS,M,1.78,71,31-03-92,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+53,54,Akhmat Chochuev,RUS,D,1.74,66,17-04-91,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+54,55,Azamat Shogenov,RUS,G,1.84,72,22-02-89,Nalchik,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+55,56,Pavel Mochalin,RUS,M,1.84,75,16-01-89,St. Petersburg,Zenit,Spartak Nalchik,2010,Russian
+56,57,Ruslan Abazov,RUS,D,1.85,77,25-05-93,Nalchik,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+57,58,Ruslan Bolov,RUS,F,1.78,71,07-05-94,Nalchik,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+58,59,Dzhashar Khubiev,RUS,M,1.80,72,21-09-91,,Spartak Nalchik-2,Spartak Nalchik,2010,Russian
+59,60,Ricardo Jesús,BRA,F,1.85,81,16-05-85,Campinas,CSKA Moscow,Spartak Nalchik,2010,Russian
+60,73,Aleksandrs Koļinko,LVA,G,1.94,89,18-06-75,Riga,Ventspils,Spartak Nalchik,2010,Russian
+61,88,Aleksandr Khokhlov,RUS,D,1.76,66,30-09-88,St.  Petersburg,Zenit,Spartak Nalchik,2010,Russian
+62,99,Aslan Dyshekov,RUS,M,1.74,70,05-02-87,Nalchik,Irtysh Omsk,Spartak Nalchik,2010,Russian
+1,1,Soslan Dzhanaev,RUS,G,1.90,84,13-03-87,Vladikavkaz,Spartak Moscow,Terek Grozny,2010,Russian
+2,2,Syarhey Amelyanchuk,BLR,D,1.78,75,08-08-80,Minsk,FC Rostov,Terek Grozny,2010,Russian
+3,3,Dmitriy Yatchenko,RUS,D,1.72,68,25-08-86,Moscow,Spartak Nalchik,Terek Grozny,2010,Russian
+4,4,Ze'ev Haimovich,ISR,D,1.88,82,07-04-83,Netanya,Maccabi Netanya,Terek Grozny,2010,Russian
+5,5,Antonio Ferreira,BRA,D,1.91,83,24-04-84,Rio de Janeiro,Spartak Nalchik,Terek Grozny,2010,Russian
+7,7,Blagoy Georgiev,BUL,M,1.85,80,21-12-81,Sofia,Slavia Sofia,Terek Grozny,2010,Russian
+8,8,Maurício,BRA,M,1.80,73,21-10-88,São José dos Campos,Fluminense,Terek Grozny,2010,Russian
+9,9,Guy Stephane Essamé,CMR,M,1.78,73,25-11-84,Douala,Boavista,Terek Grozny,2010,Russian
+10,10,Shamil Lakhiyalov,RUS,F,1.75,69,28-10-79,Makhachkala,Anzhi Makhachkala,Terek Grozny,2010,Russian
+11,11,Shamil Asildarov,RUS,F,1.86,83,18-05-83,Makhachkala,Spartak Nalchik,Terek Grozny,2010,Russian
+12,12,Yaroslav Hodzyur,UKR,G,1.94,90,06-03-85,Ivano-Frankivsk,Dynamo Kiev-2,Terek Grozny,2010,Russian
+14,14,Herve Xavier Zengue,CMR,D,1.77,78,22-01-84,Yaoundé,Viktoria ikov,Terek Grozny,2010,Russian
+17,17,Adlan Katsaev,RUS,M,1.80,73,20-02-88,Achkhoy-Martan,Terek-2,Terek Grozny,2010,Russian
+18,18,Timur Dzhabrailov,RUS,D,1.83,79,05-08-73,Grozny,Angusht,Terek Grozny,2010,Russian
+19,19,Héctor Bracamonte,ARG,F,1.91,82,16-02-78,Rio Cuarto,FC Moscow,Terek Grozny,2010,Russian
+20,20,Andrey Kobenko,RUS,M,1.76,67,25-06-82,Maykop,Rubin Kazan,Terek Grozny,2010,Russian
+21,21,Oleg Vlasov,RUS,M,1.77,73,10-12-84,Priladozhsky,Saturn,Terek Grozny,2010,Russian
+22,22,Levan Gvazava,GEO,M,1.80,76,08-07-80,Nodzhikhevi,Luch-Energia,Terek Grozny,2010,Russian
+23,23,Islam Tsuroev,RUS,F,1.82,77,23-04-89,,Terek-2,Terek Grozny,2010,Russian
+27,27,Ramzan Asaev,RUS,G,1.81,63,27-02-93,,Terek-2,Terek Grozny,2010,Russian
+28,28,Rodrigo Tiuí,BRA,F,1.77,64,04-12-85,Taboão da Serra,Atlético Paranaense,Terek Grozny,2010,Russian
+32,32,Mansur Soltaev,RUS,D,1.77,68,04-01-91,,Terek-2,Terek Grozny,2010,Russian
+33,33,Ismail Ediev,RUS,D,1.85,76,16-02-88,Grozny,Terek-2,Terek Grozny,2010,Russian
+34,34,Islam Dadaev,RUS,M,1.73,65,26-11-91,,Terek-2,Terek Grozny,2010,Russian
+35,35,Yusup Tepishev,RUS,D,1.92,76,07-03-92,,Terek-2,Terek Grozny,2010,Russian
+36,36,Magomed Adaev,RUS,D,1.75,68,19-09-92,,Terek-2,Terek Grozny,2010,Russian
+37,37,Sharudi Bukhiev,RUS,D,1.85,71,17-01-91,,Terek-2,Terek Grozny,2010,Russian
+38,38,Salambek Yelgadzhiev,RUS,F,1.74,65,28-12-90,,Terek-2,Terek Grozny,2010,Russian
+39,39,Ali Idrisov,RUS,M,1.73,69,20-04-91,,Terek-2,Terek Grozny,2010,Russian
+40,40,Rizvan Utsiev,RUS,M,1.73,68,07-02-88,Argun,Terek-2,Terek Grozny,2010,Russian
+41,44,Aslan Dashaev,RUS,M,1.82,78,19-02-89,,Terek-2,Terek Grozny,2010,Russian
+42,45,Ramzan Utsiev,RUS,M,1.67,59,24-02-89,,Terek-2,Terek Grozny,2010,Russian
+43,50,Shamil Ashahanov,RUS,M,1.70,66,23-12-90,,Terek-2,Terek Grozny,2010,Russian
+44,51,Tarko Islamov,RUS,F,1.77,68,22-06-91,,Terek-2,Terek Grozny,2010,Russian
+45,55,Ramzan Sadulaev,RUS,M,1.77,68,07-02-92,,Terek-2,Terek Grozny,2010,Russian
+46,61,Movsur Adamov,RUS,F,1.66,63,02-08-91,,Terek-2,Terek Grozny,2010,Russian
+47,63,Vadim Belozerov,RUS,M,1.70,65,21-02-90,,Terek-2,Terek Grozny,2010,Russian
+48,70,Zaur Sadaev,RUS,M,1.82,78,06-11-89,Shali,Terek-2,Terek Grozny,2010,Russian
+49,71,Juan Carlos Arce,BOL,F,1.75,65,10-04-85,Santa Cruz de la Sierra,Oriente Petrolero,Terek Grozny,2010,Russian
+50,76,Alikhan Soltaev,RUS,M,1.78,67,24-08-93,,Terek-2,Terek Grozny,2010,Russian
+51,77,Anzor Tembulatov,RUS,M,1.79,72,08-06-89,,Terek-2,Terek Grozny,2010,Russian
+52,78,Alikhan Ediev,RUS,D,1.66,60,23-11-93,,Terek-2,Terek Grozny,2010,Russian
+53,80,Islam Dzhabrailov,RUS,M,1.88,87,16-08-92,,Terek-2,Terek Grozny,2010,Russian
+54,88,Bekkhan Usmanov,RUS,M,1.75,71,16-07-93,,Terek-2,Terek Grozny,2010,Russian
+55,90,Murad Tagilov,RUS,D,1.89,81,27-01-90,,Terek-2,Terek Grozny,2010,Russian
+56,91,Magomed Serazhdinov,RUS,G,1.77,65,14-12-91,,Terek-2,Terek Grozny,2010,Russian
+57,92,Raybek Surkhaev,RUS,D,1.74,67,14-03-92,,Terek-2,Terek Grozny,2010,Russian
+58,93,Apti Akhyadov,RUS,F,1.73,67,24-08-93,Gudermes,Terek-2,Terek Grozny,2010,Russian
+59,95,Rizavdi Edilov,RUS,G,1.83,80,26-06-88,Grozny,Terek-2,Terek Grozny,2010,Russian
+60,98,Batir Umarov,RUS,D,1.78,73,18-03-91,,Terek-2,Terek Grozny,2010,Russian
+61,99,Khalid Kadyrov,RUS,F,1.64,56,19-04-94,,Terek-2,Terek Grozny,2010,Russian
+2,2,Ivan Tuev,RUS,D,1.92,80,01-05-89,,Tom-2,Tom Tomsk,2010,Russian
+3,3,Valeriy Klimov,RUS,M,1.88,82,31-01-74,Orel,Arsenal Tula,Tom Tomsk,2010,Russian
+5,5,Sergey Skoblyakov,RUS,M,1.64,58,02-01-77,Moscow,Liepājas  Metalurgs,Tom Tomsk,2010,Russian
+6,6,Dmitriy Michkov,RUS,M,1.87,77,22-02-80,Klimovsk,Spartak Nalchik,Tom Tomsk,2010,Russian
+9,9,Serghei Covalciuc,MDA,M,1.82,77,20-01-82,Odessa,Spartak Moscow,Tom Tomsk,2010,Russian
+10,10,Goran  Maznov,MKD,F,1.85,78,22-04-81,Strumica,Lokeren,Tom Tomsk,2010,Russian
+11,11,Kyrylo Kovalchuk,UKR,M,1.85,73,11-06-86,Odessa,Zimbru Chişinău,Tom Tomsk,2010,Russian
+12,12,Alexey Polyakov,RUS,G,1.87,80,08-02-74,Belgorod,Lokomotiv Moscow,Tom Tomsk,2010,Russian
+13,13,Ilya Gultyayev,RUS,D,1.81,76,05-09-88,Vologda,Spartak Moscow,Tom Tomsk,2010,Russian
+18,18,Vladislav Khatazhenkov,RUS,D,1.84,79,02-05-84,Moscow,Spartak Nalchik,Tom Tomsk,2010,Russian
+20,20,Artem Dzyuba,RUS,F,1.93,89,22-08-88,Moscow,Spartak Moscow,Tom Tomsk,2010,Russian
+21,21,Nikola  Petković,SRB,D,1.85,78,28-03-86,Novi Sad,Eintracht Frankfurt,Tom Tomsk,2010,Russian
+22,22,Park Hye-Sun,KOR,D,1.83,72,05-04-90,,Incheon U,Tom Tomsk,2010,Russian
+23,23,Georgiy Dzhioev,RUS,D,1.92,85,13-06-86,Vladikavkaz,Kuban Krasnodar,Tom Tomsk,2010,Russian
+24,24,Dmitriy N. Smirnov,RUS,D,1.87,74,09-11-80,Moscow,Luch-Energia,Tom Tomsk,2010,Russian
+25,25,Sergei Pareiko,EST,G,1.93,84,31-01-77,Tallinn,Levadia Tallinn,Tom Tomsk,2010,Russian
+26,26,Viktor Stroyev,RUS,D,1.78,70,16-01-87,Voronezh,Zenit St Petersburg,Tom Tomsk,2010,Russian
+28,28,Konstantin Dmitrievskiy,RUS,D,1.79,71,20-05-90,,Tom-2,Tom Tomsk,2010,Russian
+29,29,Nikita Konovalov,RUS,D,1.84,70,17-08-91,,Tom-2,Tom Tomsk,2010,Russian
+30,30,Ivan  Komissarov,RUS,G,1.94,82,28-05-88,Moscow,Spartak Moscow,Tom Tomsk,2010,Russian
+33,33,Daisuke Matsui,JPN,M,1.75,67,11-05-81,Kyoto,Grenoble,Tom Tomsk,2010,Russian
+36,36,Fedor Kudryashov,RUS,D,1.83,80,05-04-87,Moscow,Spartak Moscow,Tom Tomsk,2010,Russian
+37,37,Djordje Jokić,SRB,D,1.81,81,20-01-81,Raka,Torpedo Moscow,Tom Tomsk,2010,Russian
+41,41,Fedor Burdikin,RUS,G,1.86,78,03-01-90,,Dynamo Moscow-2,Tom Tomsk,2010,Russian
+42,43,Roman Zharikov,RUS,F,1.68,68,25-01-91,,Tom-2,Tom Tomsk,2010,Russian
+43,44,Vladimir Ageev,RUS,G,2.03,90,22-02-90,,Tom-2,Tom Tomsk,2010,Russian
+44,50,Evgeniy Koksharov,RUS,F,1.74,77,12-01-92,,Tom-2,Tom Tomsk,2010,Russian
+45,52,Ilya Protasov,RUS,M,1.86,75,29-06-92,,Tom-2,Tom Tomsk,2010,Russian
+46,55,Kim Nam-Il,KOR,M,1.82,76,14-03-77,Incheon,Vissel Kobe,Tom Tomsk,2010,Russian
+47,57,Artem Nozdrunov,RUS,F,1.88,68,01-06-92,,Spartak Moscow,Tom Tomsk,2010,Russian
+48,62,Artur Zaks,RUS,D,1.77,75,04-02-91,,Tom-2,Tom Tomsk,2010,Russian
+49,65,Oleg Sokulov,RUS,M,1.80,73,24-04-92,,Tom-2,Tom Tomsk,2010,Russian
+50,66,Dmitriy Efremov,RUS,M,1.83,78,02-06-91,,Tom-2,Tom Tomsk,2010,Russian
+51,69,Maksim Suvrov,RUS,D,1.91,77,19-07-92,,Tom-2,Tom Tomsk,2010,Russian
+52,70,Artem Korotya,RUS,F,1.78,72,07-04-92,,Tom-2,Tom Tomsk,2010,Russian
+53,73,Ilya Gerdt,RUS,D,1.78,72,22-06-92,,Tom-2,Tom Tomsk,2010,Russian
+54,75,Viktor Svezhov,RUS,M,1.75,71,17-05-91,Moscow,Dynamo Moscow,Tom Tomsk,2010,Russian
+55,77,Valentin Gaponov,RUS,M,1.81,67,21-09-91,Vladivostok,Tom-2,Tom Tomsk,2010,Russian
+56,80,Evgeniy Chernov,RUS,M,1.80,73,23-10-92,Tomsk,Tom-2,Tom Tomsk,2010,Russian
+57,83,Aleksandr Kharitonov,RUS,M,1.80,72,04-04-83,Krasnoyarsk,Saturn,Tom Tomsk,2010,Russian
+58,87,Evgeniy Starikov,USA,F,1.72,65,17-11-88,Odessa,Zenit St Petersburg,Tom Tomsk,2010,Russian
+59,88,Bobirmiza Makhmudov,RUS,M,1.73,63,16-08-92,,Tom-2,Tom Tomsk,2010,Russian
+60,90,Denis Pshenichnikov,RUS,M,1.70,63,07-01-90,Tomsk,Tom-2,Tom Tomsk,2010,Russian
+61,91,Denis Voronov,RUS,D,1.84,72,02-06-91,,Tom-2,Tom Tomsk,2010,Russian
+62,92,Artem Kochergin,RUS,D,1.80,75,01-05-92,,Tom-2,Tom Tomsk,2010,Russian
+63,93,Mikhail Bashilov,RUS,M,1.80,73,12-01-93,,Tom-2,Tom Tomsk,2010,Russian
+64,99,Aleksey Sazonov,RUS,M,1.76,72,21-07-92,,Tom-2,Tom Tomsk,2010,Russian
+2,2,Aleksandr Anyukov,RUS,D,1.78,70,28-09-82,Samara,Krylia  Sovetov,Zenit St. Petersburg,2010,Russian
+3,3,Bruno Alves,POR,D,1.89,80,27-11-81,Porto,FC Porto,Zenit St. Petersburg,2010,Russian
+4,4,Ivica  Krianac,CRO,D,1.87,85,13-04-79,Split,Groclin  Dyskobolia,Zenit St. Petersburg,2010,Russian
+5,5,Fernando  Meira,POR,D,1.90,78,05-06-78,Guimarães,Galatasaray,Zenit St. Petersburg,2010,Russian
+6,6,Nicolas  Lombaerts,BEL,D,1.88,78,20-03-85,Brugge,KAA Gent,Zenit St. Petersburg,2010,Russian
+8,8,Danko Lazović,SRB,F,1.85,79,17-05-83,Kragujevac,PSV Eindhoven,Zenit St. Petersburg,2010,Russian
+9,9,Aleksandr Bukharov,RUS,F,1.91,83,12-03-85,Naberezhnye Chelny,Rubin Kazan,Zenit St. Petersburg,2010,Russian
+10,10,Danny,POR,M,1.78,70,07-08-83,Caracas,Dynamo Moscow,Zenit St. Petersburg,2010,Russian
+11,11,Aleksandr  Kerzhakov,RUS,F,1.75,67,27-11-82,Kingisepp,Dynamo Moscow,Zenit St. Petersburg,2010,Russian
+14,14,Tomá  Hubočan,SVK,D,1.83,74,17-09-85,ilina,MK  ilina,Zenit St. Petersburg,2010,Russian
+15,15,Roman Shirokov,RUS,M,1.83,74,06-07-81,Dedovsk,FC Khimki,Zenit St. Petersburg,2010,Russian
+16,16,Vyacheslav Malafeev,RUS,G,1.85,79,04-03-79,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+17,17,Alessandro  Rosina,ITA,M,1.68,65,31-01-84,Belvedere  Marittimo,Torino,Zenit St. Petersburg,2010,Russian
+18,18,Konstantin Zyryanov,RUS,M,1.76,71,05-10-77,Perm,Torpedo Moscow,Zenit St. Petersburg,2010,Russian
+20,20,Viktor Fayzulin,RUS,M,1.76,72,22-04-86,Nakhodka,Spartak Nalchik,Zenit St. Petersburg,2010,Russian
+22,22,Dmitriy Borodin,RUS,G,1.88,82,08-10-77,St. Petersburg,Anzhi Makhachkala,Zenit St. Petersburg,2010,Russian
+23,23,Szabolcs  Huszti,HUN,M,1.72,70,18-04-83,Miskolc,Hannover 96,Zenit St. Petersburg,2010,Russian
+24,24,Aleksandar Luković,SRB,D,1.84,73,23-10-82,Kraljevo,Udinese,Zenit St. Petersburg,2010,Russian
+25,25,Sergey  Semak,RUS,M,1.78,73,27-02-76,Sychanske,Rubin Kazan,Zenit St. Petersburg,2010,Russian
+27,27,Igor Denisov,RUS,M,1.76,75,17-05-84,St.  Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+30,30,Yuriy Zhevnov,BLR,G,1.83,78,17-04-81,Dobrush,FC Moscow,Zenit St. Petersburg,2010,Russian
+34,34,Vladimir Bystrov,RUS,M,1.78,69,31-01-84,Luga,Spartak Moscow,Zenit St. Petersburg,2010,Russian
+36,36,Stanislav Matyash,RUS,F,1.76,71,23-04-91,Kremenchuk,Zenit-2,Zenit St. Petersburg,2010,Russian
+41,47,Basel Abdulfattakh,RUS,D,1.84,71,06-03-90,St.  Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+42,48,Aslan Dudiyev,RUS,D,1.81,71,15-06-90,Alagir,Akademiya Tolyatti,Zenit St. Petersburg,2010,Russian
+43,50,Igor Cheminava,RUS,D,1.86,76,23-03-91,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+44,55,Sergey Kostin,RUS,D,1.92,77,15-06-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+45,57,Aleksey Ionov,RUS,M,1.77,68,18-02-89,Kingisepp,Zenit-2,Zenit St. Petersburg,2010,Russian
+46,63,Denis Terentyev,RUS,D,1.81,73,13-08-92,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+47,64,Ilya Lebedev,RUS,D,1.76,72,01-06-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+48,66,Yuriy Ponomarenko,RUS,D,1.89,76,30-08-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+49,69,Evgeniy Bashkirov,RUS,M,1.73,63,06-07-91,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+50,70,Vyacheslav Sushkin,RUS,F,1.79,66,11-03-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+51,71,Egor Baburin,RUS,G,1.84,78,09-08-93,Chernihiv,Zenit-2,Zenit St. Petersburg,2010,Russian
+52,73,Stanislav Murikhin,RUS,F,1.73,61,21-01-92,,Zenit-2,Zenit St. Petersburg,2010,Russian
+53,74,Vladimir Malishev,RUS,D,1.86,74,04-01-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+54,75,Ilya  Sagdatullin,RUS,M,1.74,64,27-02-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+55,77,Aleksandr Petrov,RUS,M,1.75,68,18-01-92,,Zenit-2,Zenit St. Petersburg,2010,Russian
+56,78,Vladislav Efimov,RUS,F,1.71,70,21-04-94,,Zenit-2,Zenit St. Petersburg,2010,Russian
+57,80,Maksim Batov,RUS,M,1.76,66,05-06-92,Perm,Zenit-2,Zenit St. Petersburg,2010,Russian
+58,81,Aleksandr Glinskikh,RUS,G,1.82,70,16-08-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+59,83,Andrey Vasilyev,RUS,D,1.84,77,11-02-92,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+60,87,Aleksey Kayukov,RUS,M,1.87,77,09-02-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+61,88,Dmitriy Telegin,RUS,D,1.81,71,02-01-92,,Zenit-2,Zenit St. Petersburg,2010,Russian
+62,89,Solomon Kvirkvelia,GEO,D,1.90,75,06-02-92,Samtredia,Zenit-2,Zenit St. Petersburg,2010,Russian
+63,90,Aleksey Dugnist,RUS,G,1.84,70,11-03-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+64,91,Andrey Zaytsev,RUS,G,1.95,90,14-01-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+65,92,Nikita Bocharov,RUS,M,1.84,74,12-06-92,St Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+66,93,Aleksey Panfilov,RUS,F,1.78,69,14-10-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+67,95,Pavel Shuvalov,RUS,F,1.78,64,03-02-93,,Zenit-2,Zenit St. Petersburg,2010,Russian
+68,96,Roland Gigolaev,RUS,M,1.76,73,04-01-90,Tbilisi,Zenit-2,Zenit St. Petersburg,2010,Russian
+69,97,Vladislav Sirotov,RUS,F,1.80,69,27-10-91,,Zenit-2,Zenit St. Petersburg,2010,Russian
+70,98,Sergey Petrov,RUS,M,1.80,72,02-01-91,St. Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian
+71,99,Maksim Kanunnikov,RUS,F,1.83,74,14-07-91,St.  Petersburg,Zenit-2,Zenit St. Petersburg,2010,Russian

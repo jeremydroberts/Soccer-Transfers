@@ -1,0 +1,458 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Andreas Lie,NOR,G,1.86,82,31-08-87,Ålesund,Odd,Aalesund,2015,Norweigan
+2,2,Akeem Latifu,NGA,D,1.98,60,16-11-89,Kano,Hødd,Aalesund,2015,Norweigan
+3,3,Daníel Léo Grétarsson,ISL,D,1.85,76,02-10-95,Keflavík,Grindavík,Aalesund,2015,Norweigan
+4,4,Tero Mäntylä,FIN,D,1.85,79,18-04-91,Seinäjoki,Ludogorets Razgrad,Aalesund,2015,Norweigan
+5,5,Oddbjørn Lie,NOR,D,1.87,91,31-08-87,Herd,HamKam,Aalesund,2015,Norweigan
+6,6,Mikael Dyrestam,SWE,D,1.85,75,10-12-91,Växjö,IFK Göteborg,Aalesund,2015,Norweigan
+8,8,Fredrik Carlsen,NOR,M,1.75,65,01-12-89,Oslo,Vålerenga,Aalesund,2015,Norweigan
+9,9,Carl Björk,SWE,F,1.90,82,04-02-92,Stockholm,Brattvåg,Aalesund,2015,Norweigan
+10,10,Peter Orry Larsen,NOR,M,1.82,74,17-01-90,Nordfjordeid,Skavøypoll,Aalesund,2015,Norweigan
+11,11,Aron Elís Þrándarson,ISL,M,1.83,73,10-11-94,Reykjavík,Víkingur,Aalesund,2015,Norweigan
+13,13,Sten Grytebust,NOR,G,1.87,86,25-10-89,Ålesund,None,Aalesund,2015,Norweigan
+14,14,Leke James,NGA,F,1.88,80,01-11-92,Kaduna,Bridge Boys,Aalesund,2015,Norweigan
+15,15,Marlinho,BRA,M,1.64,58,24-03-94,Duque de Caxias,Duque de Caxias,Aalesund,2015,Norweigan
+16,16,Magne Hoseth,NOR,M,1.86,80,13-10-80,Averøy,Viking,Aalesund,2015,Norweigan
+17,17,Henrik Bjørdal,NOR,M,1.75,80,04-02-97,Ålesund,None,Aalesund,2015,Norweigan
+20,20,Thomas Martinussen,NOR,D,1.78,71,05-02-95,Ålesund,None,Aalesund,2015,Norweigan
+21,21,Bjørn Helge Riise,NOR,M,1.74,70,21-06-83,Ålesund,Lillestrøm,Aalesund,2015,Norweigan
+22,22,Jo Nymo Matland,NOR,D,1.81,79,21-04-87,Tromsø,Sarpsborg 08,Aalesund,2015,Norweigan
+23,23,Edvard Skagestad,NOR,D,1.86,85,06-07-88,Oslo,IFK Norrköping,Aalesund,2015,Norweigan
+30,30,Mostafa Abdellaoue,NOR,F,1.81,68,01-08-88,Oslo,FC København,Aalesund,2015,Norweigan
+31,31,Sebastian Andreassen,NOR,F,1.92,81,29-05-97,Ålesund,None,Aalesund,2015,Norweigan
+32,32,Sondre Sødregren,NOR,G,1.94,80,30-06-97,Ålesund,None,Aalesund,2015,Norweigan
+33,33,Elias Dahlberg,NOR,M,,,27-07-96,,None,Aalesund,2015,Norweigan
+34,34,Izantullah Ahmadzai,NOR,D,1.75,70,08-02-96,,None,Aalesund,2015,Norweigan
+35,35,Lars Valderhaug,NOR,D,1.86,82,05-02-97,Ålesund,None,Aalesund,2015,Norweigan
+36,36,Vegard Sætre,NOR,D,,,16-01-96,,None,Aalesund,2015,Norweigan
+37,37,Joakim Barstad,NOR,D,1.89,78,10-01-98,Ålesund,None,Aalesund,2015,Norweigan
+38,38,Jørgen Hatlehol,NOR,M,1.83,68,18-06-97,Ålesund,None,Aalesund,2015,Norweigan
+39,39,Vebjørn Hoff,NOR,M,1.78,69,13-02-96,Ålesund,None,Aalesund,2015,Norweigan
+40,40,Sondre Brunstad Fet,NOR,M,1.78,74,20-01-97,Ålesund,None,Aalesund,2015,Norweigan
+1,1,Pavel Londak,EST,G,1.91,81,14-05-80,Tallinn,Flora Tallinn,Bodř/Glimt,2015,Norweigan
+2,2,Ruben Imingen,NOR,D,1.83,72,04-12-86,Steigen,Fauske/Spirit,Bodř/Glimt,2015,Norweigan
+3,3,Zarek Valentin,USA,D,1.80,70,06-08-91,"Lancaster, PA",Montreal Impact,Bodř/Glimt,2015,Norweigan
+5,5,Thomas Jacobsen,NOR,D,1.75,74,16-09-83,Bodø,Lyn,Bodř/Glimt,2015,Norweigan
+6,6,Anders Karlsen,NOR,M,1.83,75,15-02-90,Bodø,Mjøndalen,Bodř/Glimt,2015,Norweigan
+8,8,Henrik Furebotn,NOR,F,1.70,60,11-02-86,Øvre Årdal,Sandnes Ulf,Bodř/Glimt,2015,Norweigan
+9,9,Jim Johansen,NOR,F,1.80,80,06-02-87,Harstad,Strømsgodset,Bodř/Glimt,2015,Norweigan
+10,10,Fitim Azemi,NOR,F,1.80,80,25-06-92,Oslo,Follo,Bodř/Glimt,2015,Norweigan
+11,11,Alexander Sørloth,NOR,F,1.94,90,05-12-95,Trondheim,Rosenborg,Bodř/Glimt,2015,Norweigan
+12,12,Jonas Ueland Kolstad,NOR,G,1.86,87,21-09-76,Bodø,Florida Atlantic University,Bodř/Glimt,2015,Norweigan
+14,14,Ulrik Saltnes,NOR,M,1.87,78,10-11-92,Brønnøysund,None,Bodř/Glimt,2015,Norweigan
+15,15,Dominic Chatto,NGA,M,1.81,78,07-12-85,Kaduna,BK Häcken,Bodř/Glimt,2015,Norweigan
+16,16,Morten Konradsen,NOR,M,1.76,73,03-05-96,Bodø,None,Bodř/Glimt,2015,Norweigan
+18,18,Brede Moe,NOR,D,1.84,80,15-12-91,Flatanger,Rosenborg,Bodř/Glimt,2015,Norweigan
+19,19,Erik Tønne,NOR,M,1.83,78,07-05-91,Trondheim,Sandnes Ulf,Bodř/Glimt,2015,Norweigan
+21,21,Daniel Edvardsen,NOR,M,1.82,80,31-08-91,Harstad,Harstad,Bodř/Glimt,2015,Norweigan
+23,23,Vieux Sané,SEN,D,1.91,83,04-08-89,Dakar,Diambars,Bodř/Glimt,2015,Norweigan
+24,24,Kristian Brix,NOR,D,1.75,68,13-06-90,Oslo,Sandefjord,Bodř/Glimt,2015,Norweigan
+25,25,Lasse Staw,NOR,G,1.90,87,01-01-88,Skiptvet,Aalesund,Bodř/Glimt,2015,Norweigan
+26,26,Danny Cruz,USA,M,1.73,77,03-01-90,Petersburg,Philadelphia Union,Bodř/Glimt,2015,Norweigan
+27,27,Patrick Berg,NOR,M,1.75,70,24-11-97,Bodø,None,Bodř/Glimt,2015,Norweigan
+29,29,Vebjørn Vinje,NOR,D,1.87,83,07-04-95,Nesna,None,Bodř/Glimt,2015,Norweigan
+30,30,Trond Olsen,NOR,F,1.73,70,05-02-84,Tromsø,Viking,Bodř/Glimt,2015,Norweigan
+31,31,Alexei Peatcov,NOR,G,,,26-10-95,,None,Bodř/Glimt,2015,Norweigan
+32,32,Patrik Vold Svendsen,NOR,M,,,06-07-96,,None,Bodř/Glimt,2015,Norweigan
+33,33,James Ainasoja,FIN,D,,,02-01-98,,None,Bodř/Glimt,2015,Norweigan
+34,34,Fredrik André Bjørkan,NOR,D,,,21-08-98,,None,Bodř/Glimt,2015,Norweigan
+35,35,Sidad Najah Chooly,NOR,M,,,30-01-97,,None,Bodř/Glimt,2015,Norweigan
+1,1,Per Morten Kristiansen,NOR,G,1.85,84,14-07-81,Sarpsborg,Moss,Haugesund,2015,Norweigan
+3,3,David Myrestam,SWE,D,1.81,79,04-04-87,Skellefteå,GIF Sundsvall,Haugesund,2015,Norweigan
+4,4,Mirko Kramarić,CRO,D,1.84,77,27-01-89,Zagreb,Istra 1961,Haugesund,2015,Norweigan
+5,5,William Ekong,NED,D,1.91,74,01-09-93,Haarlem,KAA Gent,Haugesund,2015,Norweigan
+6,6,Filip Kiss,SVK,M,1.86,75,13-10-90,Dunajská Streda,Cardiff C,Haugesund,2015,Norweigan
+7,7,Christian Gytkjær,DEN,F,1.80,75,06-05-90,Roskilde,FC Nordsjælland,Haugesund,2015,Norweigan
+8,8,Michael Haukås,NOR,M,1.90,86,21-11-86,Haugesund,Bodø/Glimt,Haugesund,2015,Norweigan
+10,10,Joakim Våge Nilsen,NOR,D,1.78,72,24-04-91,Bømlo,Bremnes,Haugesund,2015,Norweigan
+11,11,Tor Arne Andreassen,NOR,M,1.85,80,16-03-83,Haugesund,Vard,Haugesund,2015,Norweigan
+12,12,Per Bråtveit,NOR,G,1.84,72,15-02-96,Haugesund,None,Haugesund,2015,Norweigan
+13,13,Eirik Mæland,NOR,M,1.75,69,15-02-89,Bømlo,Bremnes,Haugesund,2015,Norweigan
+14,14,Torbjørn Agdestein,NOR,F,1.83,81,18-09-91,Stord,Inverness CT,Haugesund,2015,Norweigan
+15,15,Martin Bjørnbak,NOR,D,1.93,90,22-03-92,Mo i Rana,Bodø/Glimt,Haugesund,2015,Norweigan
+16,16,Sad`eeq Yusuf,NGA,M,1.85,,23-07-96,,KAA Gent,Haugesund,2015,Norweigan
+17,17,Søren Christensen,DEN,M,1.74,71,29-08-86,Nysted,FC Nordsjælland,Haugesund,2015,Norweigan
+18,18,Vegard Skjerve,NOR,D,1.87,80,22-05-88,Rennebu,Rosenborg,Haugesund,2015,Norweigan
+19,19,Kristoffer Haraldseid,NOR,M,1.80,74,17-01-94,Haugesund,None,Haugesund,2015,Norweigan
+20,20,Simon Diédhiou,SEN,F,1.81,79,10-07-91,Dakar,Diambars,Haugesund,2015,Norweigan
+21,21,Abubakar Adamu,NGA,F,,,09-06-97,,Golden Boot Soccer,Haugesund,2015,Norweigan
+22,22,Alexander Stølås,NOR,M,1.82,82,09-03-89,Haugesund,Vard,Haugesund,2015,Norweigan
+23,23,Daniel Bamberg,BRA,M,1.75,65,23-04-84,São Lourenço do Oeste,Örebro SK,Haugesund,2015,Norweigan
+24,24,Herman Fossdal,NOR,G,1.84,79,18-11-98,Stord,None,Haugesund,2015,Norweigan
+26,26,Sverre Bjørkkjær,NOR,D,1.74,65,12-07-96,Manila,None,Haugesund,2015,Norweigan
+28,28,Arent Emil Hauge,NOR,M,1.73,64,09-10-97,Haugesund,None,Haugesund,2015,Norweigan
+29,29,Robert Kling,NOR,M,1.78,64,01-05-97,Haugesund,None,Haugesund,2015,Norweigan
+30,30,Erling Myklebust,NOR,F,1.84,73,28-05-96,Bergen,None,Haugesund,2015,Norweigan
+31,31,Arne Bjordal,NOR,D,1.79,69,09-09-96,Haugesund,None,Haugesund,2015,Norweigan
+32,32,Thomas Horneland,NOR,M,1.66,60,24-03-98,Haugesund,None,Haugesund,2015,Norweigan
+33,33,Daniel Våge Nilsen,NOR,D,1.74,69,02-06-97,Stord,None,Haugesund,2015,Norweigan
+2,2,Michael Timisela,NED,D,1.76,67,05-05-86,Amsterdam,Hammarby IF,Lillestrřm,2015,Norweigan
+3,3,Simen Kind Mikalsen,NOR,D,1.84,77,04-05-93,Jessheim,Ullensaker/Kisa,Lillestrřm,2015,Norweigan
+4,4,Marius Amundsen,NOR,D,1.85,79,19-05-92,Lørenskog,Strømmen,Lillestrřm,2015,Norweigan
+5,5,Lum Rexhepi,FIN,D,1.92,89,03-08-92,Turku,FC Honka,Lillestrřm,2015,Norweigan
+6,6,Finnur Orri Margeirsson,ISL,M,1.80,77,08-03-91,,Breiðablik,Lillestrřm,2015,Norweigan
+7,7,Johan Andersson,SWE,F,1.88,70,22-08-83,Landskrona,Stabæk,Lillestrřm,2015,Norweigan
+8,8,Malaury Martin,FRA,M,1.78,75,25-08-88,Nice,Sandnes Ulf,Lillestrřm,2015,Norweigan
+9,9,Árni Vilhjálmsson,ISL,F,1.80,76,09-05-94,Reykjavík,Breiðablik,Lillestrřm,2015,Norweigan
+10,10,Marius Lundemo,NOR,M,1.88,79,11-04-94,Bærum,Bærum,Lillestrřm,2015,Norweigan
+11,11,Erling Knudtzon,NOR,M,1.78,72,15-12-88,Oslo,Lyn,Lillestrřm,2015,Norweigan
+12,12,Jacob Faye-Lund,NOR,G,1.85,71,15-09-94,Oslo,Fram Larvik,Lillestrřm,2015,Norweigan
+13,13,Frode Kippe,NOR,D,1.94,90,17-01-78,Oslo,Liverpool,Lillestrřm,2015,Norweigan
+14,14,Fredrik Krogstad,NOR,M,1.81,80,06-06-95,,None,Lillestrřm,2015,Norweigan
+16,16,Håkon Skogseid,NOR,D,1.86,76,14-01-88,Bærum,Odense,Lillestrřm,2015,Norweigan
+17,17,Jørgen Kolstad,NOR,M,1.79,74,31-08-95,Søndre Høland,None,Lillestrřm,2015,Norweigan
+18,18,Innocent Bonke,NGA,M,1.80,74,20-01-96,Kaduna,Bujoc Sport,Lillestrřm,2015,Norweigan
+19,19,Joachim Osvold,NOR,F,1.86,76,23-09-94,Lørenskog,None,Lillestrřm,2015,Norweigan
+20,20,Stian Ringstad,NOR,D,1.82,75,29-08-91,Bodding,Eidsvold Turn,Lillestrřm,2015,Norweigan
+22,22,Simen Nordermoen,NOR,D,1.81,72,26-06-95,,Fjellhamar,Lillestrřm,2015,Norweigan
+23,23,Fred Friday,NGA,F,1.86,79,22-05-95,Port Harcourt,None,Lillestrřm,2015,Norweigan
+27,27,Markus Brændsrød,NOR,F,1.73,65,06-09-95,Tønsberg,Vålerenga,Lillestrřm,2015,Norweigan
+29,29,Emil Ødegaard,NOR,G,,,29-04-99,,None,Lillestrřm,2015,Norweigan
+30,30,Mohamed Ofkir,NOR,F,1.78,70,04-08-96,Oslo,None,Lillestrřm,2015,Norweigan
+31,31,Sheriff Sinyan,NOR,M,,,19-07-96,,None,Lillestrřm,2015,Norweigan
+32,32,Sondre Karterud,NOR,D,,,14-05-96,,None,Lillestrřm,2015,Norweigan
+33,33,Keivan Ghaedamini,NOR,D,,,09-03-96,,None,Lillestrřm,2015,Norweigan
+34,34,Peder Kristiansen,NOR,D,,,14-04-96,,None,Lillestrřm,2015,Norweigan
+35,35,Henrik Kristiansen,NOR,M,,,04-01-99,,None,Lillestrřm,2015,Norweigan
+37,37,Petter Mathias Olsen,NOR,F,,,13-01-98,,None,Lillestrřm,2015,Norweigan
+41,77,Arnold Origi,KEN,G,1.84,73,15-11-83,Nairobi,Ullensaker/Kisa,Lillestrřm,2015,Norweigan
+1,1,Ivar Andreas Forn,NOR,G,1.91,85,24-06-83,Kvæfjord,Bodø/Glimt,Mjřndalen,2015,Norweigan
+2,2,Ulrik Arneberg,NOR,D,1.88,87,22-07-87,Asker,Asker,Mjřndalen,2015,Norweigan
+3,3,Joachim Olsen Solberg,NOR,D,1.91,83,11-04-89,Krokstadelva,Strømsgodset,Mjřndalen,2015,Norweigan
+4,4,Martin Strange,NOR,D,1.87,78,16-01-91,Hokksund,None,Mjřndalen,2015,Norweigan
+5,5,Karanveer Grewal,NOR,D,1.73,65,23-04-93,Drammen,Strømsgodset,Mjřndalen,2015,Norweigan
+6,6,Craig Henderson,NZL,M,1.77,74,24-06-87,Lower Hutt,Stabæk,Mjřndalen,2015,Norweigan
+7,7,Sanel Kapidić,BIH,F,1.83,76,14-04-90,Sarajevo,Vard,Mjřndalen,2015,Norweigan
+8,8,Stian Rasch,NOR,M,1.70,68,10-03-87,Asker,Strømmen,Mjřndalen,2015,Norweigan
+9,9,Mads Hansen,NOR,M,1.86,80,02-02-84,Drammen,Fredrikstad,Mjřndalen,2015,Norweigan
+10,10,Erik Midtgarden,NOR,M,1.84,74,18-11-87,Skien,Hønefoss,Mjřndalen,2015,Norweigan
+11,11,Christian Gauseth,NOR,M,1.89,87,20-06-84,Molde,Alta,Mjřndalen,2015,Norweigan
+13,13,Nils Christian Svere,NOR,G,,,07-09-98,,None,Mjřndalen,2015,Norweigan
+14,14,Vamouti Diomande,CIV,M,1.69,66,20-01-91,Abidjan,ES Bingerville,Mjřndalen,2015,Norweigan
+15,15,Stian Aasmundsen,NOR,M,1.75,72,02-11-89,Tønsberg,Eik-Tønsberg,Mjřndalen,2015,Norweigan
+16,16,Mads Gundersen,NOR,M,1.77,66,13-03-93,Drammen,Strømsgodset,Mjřndalen,2015,Norweigan
+17,17,Amahl Pellegrino,NOR,F,1.90,62,18-06-90,Drammen,Lillestrøm,Mjřndalen,2015,Norweigan
+18,18,Rhett Bernstein,USA,D,1.86,91,10-09-87,San Diego,San Diego Sockers,Mjřndalen,2015,Norweigan
+19,19,Tokmac Nguen,NOR,F,1.74,60,20-10-93,Kakuma,Strømsgodset,Mjřndalen,2015,Norweigan
+20,20,Ousseynou Boye,SEN,F,,,07-09-92,,Diambars,Mjřndalen,2015,Norweigan
+21,21,Magnus Sylling Olsen,NOR,M,1.80,77,02-07-83,Kongsberg,HamKam,Mjřndalen,2015,Norweigan
+22,22,Morten Sundli,NOR,D,1.88,83,31-03-90,Lillehammer,Odd,Mjřndalen,2015,Norweigan
+23,23,Erik Hurtado,USA,F,1.78,82,05-11-90,Fredericksburg,Vancouver Whitecaps,Mjřndalen,2015,Norweigan
+24,24,Henrik Gulden,NOR,M,1.74,64,29-12-95,Drammen,Bochum,Mjřndalen,2015,Norweigan
+25,25,Sebastian Hansen,NOR,M,,,20-06-97,,None,Mjřndalen,2015,Norweigan
+26,26,Andreas Hellum,NOR,F,,,19-11-97,,None,Mjřndalen,2015,Norweigan
+27,27,William Sælid Sell,NOR,D,,,20-12-98,,None,Mjřndalen,2015,Norweigan
+28,28,Deniz Kihle Cilingiroglu,NOR,M,,,30-04-97,,None,Mjřndalen,2015,Norweigan
+30,30,Marco Priis Jørgensen,DEN,G,1.90,85,02-06-91,Copenhagen,FC Midtjylland,Mjřndalen,2015,Norweigan
+1,1,Ethan Horvath,USA,G,1.91,75,09-06-95,Highland Ranch,Real Colorado Foxes,Molde,2015,Norweigan
+2,2,Fredrik Semb Berge,NOR,D,1.90,82,06-02-90,Skien,Brøndby,Molde,2015,Norweigan
+3,3,Amidou Diop,SEN,M,1.96,75,27-02-92,Missirah,Diambars,Molde,2015,Norweigan
+4,4,Ruben Gabrielsen,NOR,D,1.86,77,10-03-92,Gjøvik,Lillestrøm,Molde,2015,Norweigan
+5,5,Joona Toivio,FIN,D,1.86,79,10-03-88,Sipoo,Djurgårdens IF,Molde,2015,Norweigan
+6,6,Daniel Berg Hestad,NOR,M,1.84,78,30-07-75,Molde,SC Heerenveen,Molde,2015,Norweigan
+7,7,Harmeet Singh,NOR,M,1.80,72,12-11-90,Oslo,Feyenoord,Molde,2015,Norweigan
+8,8,Fredrik Gulbrandsen,NOR,F,1.78,75,10-09-92,Oslo,Lillestrøm,Molde,2015,Norweigan
+9,9,Mattias Moström,SWE,M,1.78,70,25-02-83,Stockholm,AIK,Molde,2015,Norweigan
+11,11,Ola Kamara,NOR,F,1.84,75,15-10-89,Oslo,Austria Vienna,Molde,2015,Norweigan
+14,14,Martin Linnes,NOR,F,1.83,76,20-09-91,Kongsvinger,Kongsvinger,Molde,2015,Norweigan
+15,15,Per-Egil Flo,NOR,F,1.82,75,18-01-89,Stryn,Sogndal,Molde,2015,Norweigan
+16,16,Etzaz Hussain,NOR,M,1.76,69,27-01-93,Oslo,Fredrikstad,Molde,2015,Norweigan
+18,18,Magne Simonsen,NOR,M,1.78,70,13-07-88,Oslo,Lyn,Molde,2015,Norweigan
+19,19,Eirik Hestad,NOR,M,1.83,74,26-05-95,Molde,None,Molde,2015,Norweigan
+20,20,Tommy Høiland,NOR,F,1.75,72,11-04-89,Bryne,Sandnes Ulf,Molde,2015,Norweigan
+21,21,Agnaldo,BRA,M,1.75,65,11-03-94,São Gonçalo,Desportivo Brasil,Molde,2015,Norweigan
+22,22,Joshua Gatt,USA,M,1.77,73,29-08-91,"Plymouth, MI",SCR Altach,Molde,2015,Norweigan
+23,23,Knut Olav Rindarøy,NOR,D,1.77,74,17-07-85,Molde,Gossen,Molde,2015,Norweigan
+24,24,Mohamed Elyounoussi,NOR,F,1.78,70,04-08-94,Al Hoceima,Sarpsborg 08,Molde,2015,Norweigan
+25,25,Vegard Forren,NOR,D,1.86,85,16-02-88,Trondheim,Southampton,Molde,2015,Norweigan
+26,26,Andreas Linde,SWE,G,1.96,90,24-07-93,,Helsingborgs IF,Molde,2015,Norweigan
+27,27,Mushaga Bakenga,NOR,F,1.81,75,08-08-92,Trondheim,Club Brugge,Molde,2015,Norweigan
+32,32,Sander Svendsen,NOR,F,1.72,65,06-08-97,Molde,None,Molde,2015,Norweigan
+34,34,Neydson,BRA,G,1.86,72,20-10-95,Maceió,None,Molde,2015,Norweigan
+41,48,Erlend Hustad,NOR,F,,,03-01-97,,None,Molde,2015,Norweigan
+42,49,Ola Ormset Husby,NOR,M,,,15-09-97,,None,Molde,2015,Norweigan
+43,50,Jonatan Byttingsvik,NOR,G,1.85,76,18-11-98,,None,Molde,2015,Norweigan
+44,51,Kristian Strande,NOR,D,1.85,75,03-10-97,Molde,None,Molde,2015,Norweigan
+45,52,Tobias Hammer Svendsen,NOR,M,1.74,74,31-08-99,Molde,None,Molde,2015,Norweigan
+46,53,Martin Ove Roseth,NOR,D,1.80,70,10-07-98,,None,Molde,2015,Norweigan
+1,1,Sondre Rossbach,NOR,G,1.85,80,02-07-96,Porsgrunn,Urædd,Odd,2015,Norweigan
+2,2,Espen Ruud,NOR,D,1.84,76,26-02-84,Porsgrunn,Odense,Odd,2015,Norweigan
+3,3,Ardian Gashi,NOR,M,1.72,69,20-06-81,Djakovica,Helsingborgs IF,Odd,2015,Norweigan
+4,4,Vegard Bergan,NOR,D,1.93,85,20-02-95,Porsgrunn,None,Odd,2015,Norweigan
+5,5,Thomas Grøgaard,NOR,D,1.80,73,08-02-94,Arendal,None,Odd,2015,Norweigan
+6,6,Oliver Berg,NOR,M,1.78,74,28-08-93,,Raufoss,Odd,2015,Norweigan
+7,7,Ole Jørgen Halvorsen,NOR,F,1.78,75,02-09-87,Sarpsborg,Fredrikstad,Odd,2015,Norweigan
+8,8,Jone Samuelsen,NOR,M,1.73,74,06-07-84,Stavanger,Viking,Odd,2015,Norweigan
+9,9,Pape Pate Diouf,SEN,F,1.86,76,04-04-86,Dakar,Molde,Odd,2015,Norweigan
+10,10,Olivier Occéan,CAN,F,1.86,86,23-10-81,Brossard,Eintracht Frankfurt,Odd,2015,Norweigan
+11,11,Frode Johnsen,NOR,F,1.86,79,17-03-74,Skien,Shimizu S-Pulse,Odd,2015,Norweigan
+12,12,Ulrik Flo,NOR,M,1.86,75,06-10-88,Stryn,Sogndal,Odd,2015,Norweigan
+14,14,Fredrik Nordkvelle,NOR,M,1.80,69,13-10-85,Porsgrunn,Brann,Odd,2015,Norweigan
+15,15,Rafik Zekhnini,NOR,F,1.79,63,12-01-98,Skien,None,Odd,2015,Norweigan
+16,16,Jonathan Lindseth,NOR,M,1.82,71,25-02-96,Porsgrunn,Pors,Odd,2015,Norweigan
+17,17,Eric Kitolano,NOR,F,1.75,70,02-09-97,,None,Odd,2015,Norweigan
+18,18,Jarkko Hurme,FIN,D,1.78,76,04-06-86,Oulu,TPS Turku,Odd,2015,Norweigan
+19,19,Emil Jonassen,NOR,D,1.76,78,17-02-93,Skien,None,Odd,2015,Norweigan
+20,20,Fredrik Oldrup Jensen,NOR,M,1.85,73,18-05-93,Skien,None,Odd,2015,Norweigan
+21,21,Steffen Hagen,NOR,D,1.85,80,08-03-86,Kristiansand,Mandalskameratene,Odd,2015,Norweigan
+22,22,Håvard Storbæk,NOR,M,1.79,66,25-05-86,Elverum,Haugesund,Odd,2015,Norweigan
+23,23,Lars Kristian Eriksen,NOR,D,1.80,74,28-06-83,Ålesund,Lillestrøm,Odd,2015,Norweigan
+24,24,Viljar Myhra,NOR,G,1.94,100,21-07-96,Skien,None,Odd,2015,Norweigan
+25,25,Mathias Fredriksen,NOR,M,1.70,56,28-04-94,Porsgrunn,None,Odd,2015,Norweigan
+26,26,"Chukwuma ""Bentley"" Akabueze",NGA,F,1.80,72,06-05-89,Ilorin,Wuhan Zall,Odd,2015,Norweigan
+27,27,Kevin Jablinski,NOR,D,,,26-03-96,,None,Odd,2015,Norweigan
+28,28,Alexander Betten Hansen,NOR,D,,,01-11-96,,None,Odd,2015,Norweigan
+29,29,Markus André Kaasa,NOR,M,,,15-07-97,,None,Odd,2015,Norweigan
+30,30,Tobias Lauritsen,NOR,M,,,30-08-97,,None,Odd,2015,Norweigan
+32,32,Jan Terje Haugen,NOR,G,,,13-01-96,,None,Odd,2015,Norweigan
+38,38,John Kitolano,NOR,D,1.70,65,18-10-99,,None,Odd,2015,Norweigan
+1,1,André Hansen,NOR,G,1.94,93,17-12-89,Oslo,Odd,Rosenborg,2015,Norweigan
+3,3,Mikael Dorsin,SWE,D,1.82,78,06-10-81,Lidingö,CFR Cluj,Rosenborg,2015,Norweigan
+4,4,Tore Reginiussen,NOR,D,1.85,80,10-06-86,Tromsø,Odense,Rosenborg,2015,Norweigan
+5,5,Hólmar Eyjólfsson,ISL,D,1.88,80,06-08-90,Kópavogur,Bochum,Rosenborg,2015,Norweigan
+7,7,Mike Jensen,DEN,M,1.76,75,19-02-88,Rødovre,Brøndby,Rosenborg,2015,Norweigan
+8,8,Morten Gamst Pedersen,NOR,M,1.83,74,08-09-81,Vadsø,Karabükspor,Rosenborg,2015,Norweigan
+10,10,Matthías Vilhjálmsson,ISL,F,1.87,82,30-01-87,Ísafjörður,Start,Rosenborg,2015,Norweigan
+11,11,Tobias Mikkelsen,DEN,M,1.78,73,18-09-86,Helsingør,Greuther Fürth,Rosenborg,2015,Norweigan
+12,12,Alexander Lund Hansen,NOR,G,1.97,89,06-10-82,Trondheim,Start,Rosenborg,2015,Norweigan
+14,14,Johan Lædre Bjørdal,NOR,D,1.85,80,05-05-86,Egersund,Aarhus,Rosenborg,2015,Norweigan
+15,15,Alexander Søderlund,NOR,F,1.87,87,03-08-87,Haugesund,Haugesund,Rosenborg,2015,Norweigan
+16,16,Jørgen Skjelvik,NOR,D,1.80,80,05-07-91,Hosle,Kalmar FF,Rosenborg,2015,Norweigan
+18,18,Magnus Stamnestrø,NOR,M,1.78,72,18-04-92,Kyrksæterøra,Kristiansund,Rosenborg,2015,Norweigan
+19,19,Yann-Erik de Lanlay,NOR,M,1.80,72,14-05-92,Stavanger,Viking,Rosenborg,2015,Norweigan
+20,20,Ole Selnæs,NOR,M,1.87,74,07-07-94,Trondheim,None,Rosenborg,2015,Norweigan
+21,21,Fredrik Midtsjø,NOR,M,1.76,70,11-08-93,Stjørdal,None,Rosenborg,2015,Norweigan
+22,22,Jonas Svensson,NOR,M,1.70,70,06-03-93,Levanger,None,Rosenborg,2015,Norweigan
+23,23,Pål André Helland,NOR,M,1.87,82,04-01-90,Orkanger,Hødd,Rosenborg,2015,Norweigan
+24,24,Anders Konradsen,NOR,M,1.85,79,18-07-90,Bodø,Rennes,Rosenborg,2015,Norweigan
+32,32,John Hou Sæter,NOR,M,1.78,67,13-01-98,Trondheim,Trond,Rosenborg,2015,Norweigan
+33,33,Julian Faye Lund,NOR,G,1.85,80,20-05-99,Oslo,Oppsal,Rosenborg,2015,Norweigan
+34,34,Sivert Solli,NOR,M,1.70,70,27-07-97,Brekstad,None,Rosenborg,2015,Norweigan
+35,35,Erlend Reitan,NOR,D,1.80,70,11-09-97,Trondheim,None,Rosenborg,2015,Norweigan
+36,36,Andreas Helmersen,NOR,F,1.78,71,15-03-98,Trondheim,None,Rosenborg,2015,Norweigan
+38,38,Per Magnus Steiring,NOR,D,1.83,78,07-02-97,Bodø,None,Rosenborg,2015,Norweigan
+41,41,Daniel Hagen,NOR,G,,,25-02-97,,None,Rosenborg,2015,Norweigan
+1,1,Jakob Busk,DEN,G,1.89,78,12-09-93,Copenhagen,FC København,Sandefjord,2015,Norweigan
+2,2,Lars Grorud,NOR,D,1.89,87,02-07-83,Tønsberg,Fram Larvik,Sandefjord,2015,Norweigan
+3,3,Yaw Amankwah,NOR,D,1.95,85,07-07-88,Bergen,Brann,Sandefjord,2015,Norweigan
+4,4,Victor Demba Bindia,SEN,D,1.68,69,06-08-89,Boutoupa,Casa Sports,Sandefjord,2015,Norweigan
+5,5,Alexander Gabrielsen,NOR,D,1.84,78,18-11-85,Randaberg,Viking,Sandefjord,2015,Norweigan
+6,6,Pau Morer,ESP,M,1.73,71,10-10-95,Blanes,Girona B,Sandefjord,2015,Norweigan
+7,7,Geir Ludvig Fevang,NOR,M,1.79,72,17-11-80,Sandefjord,Haugesund,Sandefjord,2015,Norweigan
+8,8,Erik Mjelde,NOR,M,1.80,74,06-03-84,Bergen,Lillestrøm,Sandefjord,2015,Norweigan
+9,9,Mads Pedersen,DEN,M,1.79,76,17-01-93,Nakskov,FC Midtjylland,Sandefjord,2015,Norweigan
+10,10,Eirik Lamøy,NOR,M,1.77,92,07-11-84,Harstad,Tromsdalen,Sandefjord,2015,Norweigan
+11,11,Martin Torp,NOR,M,1.80,77,03-03-92,Helgeroa,Larvik Turn,Sandefjord,2015,Norweigan
+12,12,Anders Gundersen,NOR,G,1.85,73,10-04-94,Porsgrunn,Strømsgodset,Sandefjord,2015,Norweigan
+13,13,Vegard Bakker,NOR,M,,,15-05-96,,None,Sandefjord,2015,Norweigan
+14,14,Kevin Larsen,NOR,D,1.84,80,15-05-86,Sandefjord,Hønefoss,Sandefjord,2015,Norweigan
+15,15,Martin Andresen,NOR,M,1.80,80,20-02-77,Kråkstad,Stabæk,Sandefjord,2015,Norweigan
+17,17,Thomas Juel-Nielsen,DEN,D,1.89,88,18-06-90,,AB København,Sandefjord,2015,Norweigan
+18,18,Cheikhou Dieng,SEN,M,1.80,66,23-11-93,Thiès,Ndar Guédj,Sandefjord,2015,Norweigan
+19,19,Kjell Rune Sellin,NOR,F,1.79,76,01-06-89,Namsos,Aalesund,Sandefjord,2015,Norweigan
+20,20,Jean Alassane Mendy,NOR,F,1.80,78,02-02-90,Dakar,Kristiansund,Sandefjord,2015,Norweigan
+21,21,Kristoffer Hansen,NOR,M,1.70,66,12-08-94,Larvik,Larvik Turn,Sandefjord,2015,Norweigan
+25,25,William Kurtović,SWE,D,1.75,70,22-06-96,,None,Sandefjord,2015,Norweigan
+27,27,Christer Hansen,NOR,D,1.86,75,29-03-93,Larvik,Hedrum,Sandefjord,2015,Norweigan
+28,28,Varg Støvland,NOR,M,,,23-01-96,,None,Sandefjord,2015,Norweigan
+29,29,Eirik Offenberg,NOR,D,,,06-06-96,,None,Sandefjord,2015,Norweigan
+32,32,Sabawon Shamohammad,NOR,M,,,10-12-98,,None,Sandefjord,2015,Norweigan
+40,40,Gary Hogan,IRL,G,1.90,83,05-01-83,Dublin,Ullern,Sandefjord,2015,Norweigan
+1,1,Lasse Heinze,DEN,G,1.84,80,03-04-86,Ringkøbing,FC Midtjylland,Sarpsborg 08,2015,Norweigan
+3,3,Andreas Nordvik,NOR,D,1.84,84,18-03-87,Trondheim,Aalesund,Sarpsborg 08,2015,Norweigan
+4,4,Kjetil Berge,NOR,D,1.85,80,05-06-81,Kvinnherad,Skeid,Sarpsborg 08,2015,Norweigan
+6,6,Anders Trondsen,NOR,M,1.83,78,30-03-95,Lillehammer,Stabæk,Sarpsborg 08,2015,Norweigan
+7,7,Martin Wiig,NOR,F,1.84,74,22-08-83,Bodø,Fredrikstad,Sarpsborg 08,2015,Norweigan
+8,8,Onyekachi Hope Ugwuadu,NGA,M,1.75,75,05-05-97,Port Harcourt,Gee-Lec IFA,Sarpsborg 08,2015,Norweigan
+10,10,Barry Maguire,NED,M,1.80,80,27-10-89,Tiel,FC Den Bosch,Sarpsborg 08,2015,Norweigan
+11,11,Kristoffer Tokstad,NOR,M,1.83,86,21-06-90,Lørenskog,Strømmen,Sarpsborg 08,2015,Norweigan
+13,13,Ole Heieren Hansen,NOR,D,1.90,86,26-02-87,Fredrikstad,Sellebakk,Sarpsborg 08,2015,Norweigan
+15,15,Sigurd Rosted,NOR,D,1.86,84,22-07-94,,Kjelsås,Sarpsborg 08,2015,Norweigan
+16,16,Joachim Thomassen,NOR,D,1.80,71,04-05-88,Sarpsborg,Vålerenga,Sarpsborg 08,2015,Norweigan
+17,17,Steffen Ernemann,DEN,M,1.86,78,26-04-82,Odder,Esbjerg,Sarpsborg 08,2015,Norweigan
+20,20,Simen Brenne,NOR,M,1.81,80,17-03-81,Sarpsborg,Strømsgodset,Sarpsborg 08,2015,Norweigan
+22,22,Claes Kronberg,DEN,D,1.77,75,19-04-87,Lolland,Lolland Falster Alliancen,Sarpsborg 08,2015,Norweigan
+23,23,Tom Erik Breive,NOR,M,1.75,75,18-04-80,Steigen,Skeid,Sarpsborg 08,2015,Norweigan
+24,24,Amani Mbedule,NOR,F,1.77,68,19-09-96,,None,Sarpsborg 08,2015,Norweigan
+26,26,Martin Thømt Jensen,NOR,D,1.83,73,08-07-90,Moss,Moss,Sarpsborg 08,2015,Norweigan
+27,27,Duwayne Kerr,JAM,G,1.99,90,16-01-87,Burnt Savannah,Portmore U,Sarpsborg 08,2015,Norweigan
+28,28,Péter Kovács,HUN,F,1.98,102,07-02-78,Salgótarján,Strømsgodset,Sarpsborg 08,2015,Norweigan
+29,29,Alexander Groven,NOR,D,1.82,83,02-01-92,Oslo,Hønefoss,Sarpsborg 08,2015,Norweigan
+36,36,Bojan Zajić,SRB,M,1.88,80,17-06-80,Kruevac,Vålerenga,Sarpsborg 08,2015,Norweigan
+40,40,Markus Stige,NOR,G,1.80,76,25-01-96,,None,Sarpsborg 08,2015,Norweigan
+41,41,Tobias Heintz,NOR,M,1.73,69,13-07-98,,None,Sarpsborg 08,2015,Norweigan
+42,42,Magnus Hart,NOR,M,,,20-04-96,,Fredrikstad,Sarpsborg 08,2015,Norweigan
+43,43,Thomas Herskedal,NOR,M,,,20-01-98,,None,Sarpsborg 08,2015,Norweigan
+44,44,Leonard Getz,NOR,M,,,11-04-99,,None,Sarpsborg 08,2015,Norweigan
+45,69,Patrick Mortensen,DEN,F,1.90,80,13-07-89,Copenhagen,Lyngby,Sarpsborg 08,2015,Norweigan
+46,77,Amin Askar,NOR,M,1.77,73,01-10-85,Mogadishu,Brann,Sarpsborg 08,2015,Norweigan
+47,92,Kamer Qaka,NOR,M,1.78,75,11-04-95,Brandbu,Hønefoss,Sarpsborg 08,2015,Norweigan
+1,1,Mandé Sayouba,CIV,G,1.93,82,15-06-93,Abidjan,Sport Consultant Academy,Stabćk,2015,Norweigan
+3,3,Morten Skjønsberg,NOR,D,1.81,72,12-02-83,Bærum,IFK Norrköping,Stabćk,2015,Norweigan
+4,4,Nicolai Næss,NOR,D,1.80,78,19-01-93,Oslo,Vålerenga,Stabćk,2015,Norweigan
+6,6,Anthony Annan,GHA,M,1.75,68,21-07-86,Accra,1860 Munich,Stabćk,2015,Norweigan
+7,7,Ernest Asante,GHA,F,1.71,69,06-11-88,Sunyani,Start,Stabćk,2015,Norweigan
+8,8,Cole Grossman,USA,M,1.83,75,10-04-89,St Louis,Real Salt Lake,Stabćk,2015,Norweigan
+9,9,Giorgi Gorozia,GEO,M,1.78,74,26-03-95,Samara,Lokomotivi Tbilisi,Stabćk,2015,Norweigan
+11,11,Yassine El Ghanassy,MAR,M,1.75,69,12-07-90,La Louvière,KAA Gent,Stabćk,2015,Norweigan
+12,12,Christian Mørch,NOR,G,,,23-10-97,,None,Stabćk,2015,Norweigan
+13,13,Eirik Haugstad,NOR,M,1.79,66,17-01-94,Nesodden,Lyn,Stabćk,2015,Norweigan
+15,15,Ville Jalasto,FIN,D,1.83,85,19-04-86,Espoo,Aalesund,Stabćk,2015,Norweigan
+17,17,Jesper Espung,NOR,D,1.71,60,28-11-98,,None,Stabćk,2015,Norweigan
+20,20,Kamal Issah,GHA,M,1.78,66,30-08-92,Accra,FC Nordsjælland,Stabćk,2015,Norweigan
+21,21,Daniel Granli,NOR,M,1.88,78,05-01-94,Sandvika,None,Stabćk,2015,Norweigan
+22,22,Gurpreet Singh Sandhu,IND,G,1.94,90,03-02-92,Mohali,East Bengal,Stabćk,2015,Norweigan
+25,25,Birger Meling,NOR,D,1.72,65,17-12-94,Stavanger,Middlesbrough,Stabćk,2015,Norweigan
+28,28,Luc Kassi,CIV,M,1.79,74,20-08-94,Abidjan,Sport Consultant Academy,Stabćk,2015,Norweigan
+30,30,Cornelius Bensick,NOR,M,,,22-10-97,,None,Stabćk,2015,Norweigan
+40,40,Marius Østvold,NOR,M,1.70,60,04-11-97,,None,Stabćk,2015,Norweigan
+41,50,Andreas Hanche-Olsen,NOR,D,1.80,70,17-01-97,,None,Stabćk,2015,Norweigan
+42,60,Edvard Linnebo Race,NOR,D,,,22-05-97,,None,Stabćk,2015,Norweigan
+43,77,Muhamed Keita,NOR,M,1.71,71,02-09-90,Banjul,Lech Poznań,Stabćk,2015,Norweigan
+44,99,Sebastian Pedersen,NOR,F,1.77,69,08-06-99,Elverum,None,Stabćk,2015,Norweigan
+1,1,Håkon Opdal,NOR,G,1.87,89,11-06-82,Odda,SønderjyskE,Start,2015,Norweigan
+2,2,Jon Hodnemyr,NOR,D,1.78,73,04-12-95,,Vindbjart,Start,2015,Norweigan
+3,3,Ole Martin Rindarøy,NOR,D,1.72,70,16-05-95,Molde,Molde,Start,2015,Norweigan
+4,4,Alex De John,USA,D,1.83,80,10-05-91,Marlboro,TPS Turku,Start,2015,Norweigan
+5,5,Robert Sandnes,NOR,D,1.77,72,29-12-91,Ålesund,Stjarnan,Start,2015,Norweigan
+6,6,Kristoffer Ajer,NOR,D,1.96,84,17-04-98,,Lillestrøm,Start,2015,Norweigan
+8,8,Espen Hoff,NOR,F,1.72,70,20-11-81,Larvik,Stabæk,Start,2015,Norweigan
+9,9,Daniel Aase,NOR,F,1.81,80,22-06-89,,Vindbjart,Start,2015,Norweigan
+14,14,Espen Børufsen,NOR,M,1.78,81,04-03-88,Kristiansand,Våg,Start,2015,Norweigan
+15,15,Michael Christensen,DEN,D,1.84,75,06-02-83,,FC Vestsjælland,Start,2015,Norweigan
+16,16,Andreas Hollingen,NOR,M,1.75,55,02-10-94,Molde,Molde,Start,2015,Norweigan
+17,17,Guðmundur Kristjánsson,ISL,M,1.85,85,01-03-89,Kópavogur,Breiðablik,Start,2015,Norweigan
+18,18,Mads Stokkelien,NOR,F,1.78,80,15-03-90,Hånes,New York Cosmos,Start,2015,Norweigan
+19,19,Austin Ikenna,NGA,F,1.83,83,15-08-93,,AFC Leopards,Start,2015,Norweigan
+21,21,Henrik Breimyr,NOR,M,1.85,77,20-07-93,Stavanger,Bryne,Start,2015,Norweigan
+22,22,Lars-Jørgen Salvesen,NOR,F,1.75,70,12-03-96,Hellemyr,None,Start,2015,Norweigan
+23,23,Erlend Segberg,NOR,M,,,12-04-97,,None,Start,2015,Norweigan
+25,25,Sean McDermott,IRL,G,1.83,77,30-05-93,Kristiansand,Sandnes Ulf,Start,2015,Norweigan
+26,26,Jesper Mathisen,NOR,D,1.95,93,17-03-87,Kristiansand,Gimletroll,Start,2015,Norweigan
+27,27,Eirik Wichne,NOR,M,,,12-05-97,,None,Start,2015,Norweigan
+28,28,Rolf Daniel Vikstøl,NOR,D,1.85,72,22-02-89,Kristiansand,Våg,Start,2015,Norweigan
+29,29,Adi Marković,BIH,M,,,19-12-96,,Lyngdal,Start,2015,Norweigan
+30,30,Lasse Sigurdsen,NOR,M,,,01-06-97,,None,Start,2015,Norweigan
+32,32,Mathias Rasmussen,NOR,M,1.72,65,25-11-97,Lyngdal,Lyngdal,Start,2015,Norweigan
+33,33,Jørgen Hammer,NOR,D,1.90,84,02-04-91,Sandvika,Stabæk,Start,2015,Norweigan
+34,34,Tobias Christensen,NOR,M,,,11-05-00,,None,Start,2015,Norweigan
+35,35,Mats Olsen,NOR,G,,,24-11-97,,None,Start,2015,Norweigan
+36,36,Markus Håbestad,NOR,F,,,15-03-99,,None,Start,2015,Norweigan
+37,37,Peder Åsemoen Karlsen,NOR,F,,,11-08-97,,None,Start,2015,Norweigan
+38,38,Hans Petter Rolke,NOR,M,,,17-12-97,,None,Start,2015,Norweigan
+39,39,Magnus Hallandvik,NOR,F,,,03-10-96,,None,Start,2015,Norweigan
+40,40,Philip Aukland,NOR,D,,,30-12-98,,None,Start,2015,Norweigan
+1,1,Espen Bugge Pettersen,NOR,G,1.89,88,10-05-80,Tønsberg,Molde,Strřmsgodset,2015,Norweigan
+2,2,Mounir Hamoud,NOR,M,1.77,69,01-02-85,Nador,Bodø/Glimt,Strřmsgodset,2015,Norweigan
+4,4,Kim André Madsen,NOR,D,1.82,74,12-03-89,Oslo,Lyn,Strřmsgodset,2015,Norweigan
+5,5,Jørgen Horn,NOR,D,1.87,84,07-06-87,Oslo,Fredrikstad,Strřmsgodset,2015,Norweigan
+6,6,Florent Hanin,FRA,D,1.77,72,04-02-90,Harfleur,Lierse,Strřmsgodset,2015,Norweigan
+7,7,Bassel Jradi,LIB,M,1.87,78,06-07-93,Copenhagen,FC Nordsjælland,Strřmsgodset,2015,Norweigan
+8,8,Petter Vaagan Moen,NOR,M,1.81,76,05-02-84,Hamar,Lillestrøm,Strřmsgodset,2015,Norweigan
+9,9,Øyvind Storflor,NOR,M,1.83,70,18-12-79,Trondheim,Rosenborg,Strřmsgodset,2015,Norweigan
+10,10,Marcus Pedersen,NOR,F,1.80,79,08-06-90,Hamar,Brann,Strřmsgodset,2015,Norweigan
+11,11,Martin Rønning Ovenstad,NOR,F,1.82,70,18-04-94,Drammen,Mjøndalen,Strřmsgodset,2015,Norweigan
+14,14,Iver Fossum,NOR,M,1.80,73,15-07-96,Drammen,None,Strřmsgodset,2015,Norweigan
+15,15,Flamur Kastrati,NOR,F,1.85,78,14-11-91,Oslo,Erzgebirge Aue,Strřmsgodset,2015,Norweigan
+17,17,Thomas Lehne Olsen,NOR,F,1.86,78,29-06-91,Hamar,HamKam,Strřmsgodset,2015,Norweigan
+18,18,Henrik Bredeli,NOR,D,1.85,,01-04-98,,None,Strřmsgodset,2015,Norweigan
+19,19,Gustav Wikheim,NOR,F,1.80,65,18-03-93,Drammen,None,Strřmsgodset,2015,Norweigan
+20,20,Mohammed Abu,GHA,M,1.76,75,14-11-91,Accra,Manchester C,Strřmsgodset,2015,Norweigan
+21,21,Mathias Gjerstrøm,NOR,M,1.82,78,30-06-97,Oslo,Nordstrand,Strřmsgodset,2015,Norweigan
+22,22,Bismark Adjei-Boateng,GHA,D,1.79,71,10-05-94,Accra,Manchester C,Strřmsgodset,2015,Norweigan
+23,23,Thomas Sørum,NOR,F,1.86,86,17-11-82,Lier,Helsingborgs IF,Strřmsgodset,2015,Norweigan
+26,26,Lars Christopher Vilsvik,NOR,M,1.82,73,18-10-88,Berlin,LFC Berlin,Strřmsgodset,2015,Norweigan
+28,28,Marius Høibråten,NOR,D,1.84,72,23-01-95,Oslo,Lillestrøm,Strřmsgodset,2015,Norweigan
+30,30,Lukasz Jarosinski,POL,G,1.93,92,07-10-88,Wałbrzych,Hønefoss,Strřmsgodset,2015,Norweigan
+33,33,Marco Tagbajumi,NGA,F,1.80,76,01-07-88,Port Harcourt,AEL Limassol,Strřmsgodset,2015,Norweigan
+40,40,Morten Sætra,NOR,G,1.96,74,18-06-97,Drammen,None,Strřmsgodset,2015,Norweigan
+41,49,Harald Danielsen,NOR,D,,,02-01-96,,None,Strřmsgodset,2015,Norweigan
+42,54,Knut Ahlander,NOR,M,,,16-09-98,,None,Strřmsgodset,2015,Norweigan
+43,61,William Nessjøen Solheim,NOR,D,,,17-12-96,,None,Strřmsgodset,2015,Norweigan
+44,62,Rasmus Gjemmestad,NOR,F,,,18-04-97,,None,Strřmsgodset,2015,Norweigan
+45,71,Gustav Valsvik,NOR,D,1.95,94,26-05-93,Vik,Sogndal,Strřmsgodset,2015,Norweigan
+46,75,Marvin Ogunjimi,BEL,F,1.84,79,12-10-87,Mechelen,Mallorca,Strřmsgodset,2015,Norweigan
+1,1,Benny Lekström,SER,G,1.91,88,19-02-81,Enskede,Mjølner,Tromsř,2015,Norweigan
+2,2,Magnar Ødegaard,NOR,D,1.86,80,11-05-93,Fredrikstad,Molde,Tromsř,2015,Norweigan
+3,3,Kent-Are Antonsen,NOR,D,1.72,70,12-02-95,Storsteinnes,None,Tromsř,2015,Norweigan
+4,4,Henrik Gjesdal,NOR,D,1.92,87,19-07-93,Bergen,Brann,Tromsř,2015,Norweigan
+5,5,Morten Moldskred,NOR,F,1.76,75,13-06-80,Ålesund,Aarhus,Tromsř,2015,Norweigan
+6,6,Christian Landu Landu,NOR,D,1.83,78,25-01-92,Stavanger,Viking,Tromsř,2015,Norweigan
+7,7,Marcus Hansson,SWE,D,1.86,83,12-02-90,Hille,Gefle IF,Tromsř,2015,Norweigan
+8,8,Gjermund Åsen,NOR,M,1.82,71,22-05-91,Trondheim,Ranheim,Tromsř,2015,Norweigan
+11,11,Jonas Johansen,NOR,D,1.86,78,22-03-85,Tromsø,Tromsdalen,Tromsř,2015,Norweigan
+12,12,Gudmund Taksdal Kongshavn,NOR,G,1.88,83,23-01-91,Bergen,Vålerenga,Tromsř,2015,Norweigan
+13,13,Zdeněk Ondráek,CZE,F,1.86,79,22-12-88,Strakonice,České Budějovice,Tromsř,2015,Norweigan
+14,14,Hans Norbye,NOR,D,1.76,76,16-01-87,Karasjok,Tromsdalen,Tromsř,2015,Norweigan
+15,15,Magnus Andersen,NOR,M,1.79,71,28-05-86,Øksfjord,Alta,Tromsř,2015,Norweigan
+16,16,Lars Gunnar Johnsen,NOR,M,1.78,76,02-07-91,,Tromsdalen,Tromsř,2015,Norweigan
+17,17,Remi Johansen,NOR,M,1.83,75,04-09-90,Tromsø,None,Tromsř,2015,Norweigan
+19,19,William Frantzen,NOR,M,1.82,70,13-06-93,Kvaløysletta,None,Tromsř,2015,Norweigan
+21,21,Thomas Kind Bendiksen,NOR,M,1.83,76,08-08-89,Harstad,Molde,Tromsř,2015,Norweigan
+22,22,Simen Wangberg,NOR,D,1.85,73,06-05-91,Trondheim,Brann,Tromsř,2015,Norweigan
+23,23,Pål Vestly Heigre,NOR,G,1.88,88,15-03-95,Sandnes,Viking,Tromsř,2015,Norweigan
+24,24,Mikael Ingebrigtsen,NOR,F,1.70,68,21-07-96,Tromsø,None,Tromsř,2015,Norweigan
+25,25,Lasse Nilsen,NOR,D,1.78,64,21-02-95,,None,Tromsř,2015,Norweigan
+26,26,Jostein Gundersen,NOR,D,1.86,82,02-04-96,,None,Tromsř,2015,Norweigan
+27,27,Fredrik Michalsen,NOR,M,1.89,75,15-09-96,Tromsø,None,Tromsř,2015,Norweigan
+28,28,Jakob Karlstrøm,NOR,G,2.00,90,09-01-97,,None,Tromsř,2015,Norweigan
+29,29,Håvard Espejord,NOR,M,,,13-12-97,,None,Tromsř,2015,Norweigan
+30,30,Runar Espejord,NOR,F,1.89,86,26-02-96,Tromsø,None,Tromsř,2015,Norweigan
+31,31,Henrik Carlyle,NOR,D,,,28-04-98,,None,Tromsř,2015,Norweigan
+41,48,Marin Orulić,CRO,M,1.95,80,25-08-87,Metković,CSKA Sofia,Tromsř,2015,Norweigan
+1,1,Lars Hirschfeld,CAN,G,1.90,90,17-10-78,Edmonton,Energie Cottbus,Vוlerenga,2015,Norweigan
+3,3,Enar Jääger,EST,D,1.76,73,18-11-84,Valga,Flora Tallinn,Vוlerenga,2015,Norweigan
+4,4,Jonatan Tollås,NOR,D,1.88,80,01-07-90,Ålesund,Aalesund,Vוlerenga,2015,Norweigan
+5,5,Robert Lundström,SWE,D,1.82,72,01-11-89,Sundsvall,GIF Sundsvall,Vוlerenga,2015,Norweigan
+6,6,Simon Andreas Larsen,NOR,D,1.93,84,01-06-88,Kristiansand,Vindbjart,Vוlerenga,2015,Norweigan
+7,7,Daniel Fredheim Holm,NOR,F,1.80,77,30-07-85,Oslo,Rosenborg,Vוlerenga,2015,Norweigan
+8,8,Melker Hallberg,SWE,M,1.80,68,20-10-95,Ljungbyholm,Udinese,Vוlerenga,2015,Norweigan
+9,9,Rasmus Lindkvist,SWE,F,1.82,74,16-05-90,Botkyrka,Östersunds FK,Vוlerenga,2015,Norweigan
+10,10,Ghayas Zahid,NOR,F,1.77,66,08-09-94,Oslo,None,Vוlerenga,2015,Norweigan
+11,11,Morten Berre,NOR,F,1.82,82,10-08-75,Oslo,St Pauli,Vוlerenga,2015,Norweigan
+14,14,Herman Stengel,NOR,M,1.77,70,26-08-95,Hokksund,Stabæk,Vוlerenga,2015,Norweigan
+17,17,Daniel Braaten,NOR,M,1.84,85,25-05-82,Oslo,FC København,Vוlerenga,2015,Norweigan
+18,18,Mohammed Abdellaoue,NOR,F,1.84,81,23-10-85,Oslo,Stuttgart,Vוlerenga,2015,Norweigan
+19,19,Christian Grindheim,NOR,M,1.79,76,17-07-83,Haugesund,FC København,Vוlerenga,2015,Norweigan
+20,20,Mattias Totland,NOR,M,1.78,70,14-07-97,,None,Vוlerenga,2015,Norweigan
+21,21,Alexander Mathisen,NOR,M,1.85,75,24-11-86,Oslo,Hønefoss,Vוlerenga,2015,Norweigan
+22,22,Elias Már Ómarsson,ISL,F,1.83,73,18-01-95,Keflavík,Keflavík,Vוlerenga,2015,Norweigan
+23,23,Sander Berge,NOR,D,1.90,88,18-02-98,Bærum,Asker,Vוlerenga,2015,Norweigan
+24,24,Kjetil Wæhler,NOR,D,1.83,78,16-03-76,Oslo,IFK Göteborg,Vוlerenga,2015,Norweigan
+25,25,Markus Nakkim,NOR,D,1.87,77,21-07-96,Oslo,None,Vוlerenga,2015,Norweigan
+26,26,Deshorn Brown,JAM,F,1.88,77,22-12-90,Manchester [JAM],Colorado Rapids,Vוlerenga,2015,Norweigan
+30,30,Michael Langer,AUT,G,1.94,92,06-01-85,Bregenz,Sandhausen,Vוlerenga,2015,Norweigan
+34,34,Adrian Møller,NOR,G,1.88,82,05-08-96,,None,Vוlerenga,2015,Norweigan
+37,37,Ivan Näsberg,NOR,D,1.86,80,22-04-96,Oslo,None,Vוlerenga,2015,Norweigan
+38,38,Sascha Burchert,GER,G,1.85,68,30-10-89,Berlin,Hertha Berlin,Vוlerenga,2015,Norweigan
+40,40,Mortadha Jassim Alkanany,IRQ,M,,,30-03-96,,None,Vוlerenga,2015,Norweigan
+41,41,Rino Falk Larsen,NOR,M,1.76,72,14-02-96,,None,Vוlerenga,2015,Norweigan
+42,42,Mats Vågan,NOR,D,,,,,Drøbak-Frogn,Vוlerenga,2015,Norweigan
+43,43,Niklas Castro,NOR,F,1.73,72,08-01-96,,None,Vוlerenga,2015,Norweigan
+1,1,Arild Østbø,NOR,G,1.83,70,19-04-91,Stavanger,Buøy,Viking,2015,Norweigan
+4,4,Joackim Jørgensen,NOR,M,1.83,77,20-09-88,Fredrikstad,IF Elfsborg,Viking,2015,Norweigan
+5,5,A.J. Soares,USA,D,1.83,77,28-11-88,San Diego,New England Revolution,Viking,2015,Norweigan
+6,6,Karol Mets,EST,D,1.91,91,16-05-93,Viljandi,Flora Tallinn,Viking,2015,Norweigan
+7,7,Björn Sverrisson,ISL,M,1.74,74,29-05-90,,FH Hafnarfjörður,Viking,2015,Norweigan
+8,8,Vidar Nisja,NOR,M,1.79,71,21-08-86,Stavanger,Bryne,Viking,2015,Norweigan
+10,10,Kieffer Moore,ENG,F,1.95,83,08-08-92,Torquay,Yeovil T,Viking,2015,Norweigan
+11,11,Makhtar Thioune,SEN,M,1.77,77,05-08-84,Richard Toll,Molde,Viking,2015,Norweigan
+14,14,André Danielsen,NOR,M,1.73,70,20-01-85,Stavanger,Stavanger,Viking,2015,Norweigan
+15,15,Amund Wichne,NOR,G,1.85,79,12-05-97,Mandal,None,Viking,2015,Norweigan
+17,17,Jón Daði Böðvarsson,ISL,F,1.90,85,25-05-92,Selfoss,Selfoss,Viking,2015,Norweigan
+19,19,Suleiman Abdullahi,NGA,F,1.83,80,10-12-96,,El-Kanemi Warriors,Viking,2015,Norweigan
+20,20,Indriði Sigurðsson,ISL,D,1.84,82,12-10-81,Reykjavik,Lyn,Viking,2015,Norweigan
+21,21,Julian Veen Uldal,NOR,D,1.71,63,11-06-97,Stavanger,None,Viking,2015,Norweigan
+22,22,Fábian Alonso Calderon,NOR,M,1.78,78,28-02-95,,None,Viking,2015,Norweigan
+23,23,Steinþór Þorsteinsson,ISL,M,1.71,70,29-07-85,Kópavogur,Sandnes Ulf,Viking,2015,Norweigan
+24,24,Aleksander Solli,NOR,D,1.88,83,16-03-90,Førde,Hønefoss,Viking,2015,Norweigan
+25,25,Rasmus Martinsen,NOR,D,1.77,69,14-04-96,Stavanger,None,Viking,2015,Norweigan
+26,26,Samuel Adegbenro,NGA,F,1.76,75,03-12-95,Osogbo,Kwara U,Viking,2015,Norweigan
+27,27,Zymer Bytyqi,NOR,F,1.76,70,14-09-96,Sint-Truiden,Red Bull Salzburg,Viking,2015,Norweigan
+28,28,Kristoffer Haugen,NOR,D,1.88,77,21-02-94,Stavanger,None,Viking,2015,Norweigan
+29,29,Carl-Henrik Refvik,NOR,F,1.78,76,02-01-95,Stavanger,None,Viking,2015,Norweigan
+30,30,Iven Austbø,NOR,G,1.89,80,22-02-85,Stavanger,Sandefjord,Viking,2015,Norweigan
+41,50,Herman Kleppa,NOR,M,1.75,69,17-09-96,Stavanger,None,Viking,2015,Norweigan
+42,51,Julian Ryerson,NOR,D,1.70,70,17-11-97,Lyngdal,None,Viking,2015,Norweigan
+43,53,Sander Flåte,NOR,M,,,19-02-96,,None,Viking,2015,Norweigan
+44,54,Stian Michalsen,NOR,M,1.78,78,28-03-97,Stavanger,None,Viking,2015,Norweigan

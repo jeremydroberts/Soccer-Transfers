@@ -1,0 +1,690 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,,Flávio,BRA,G,1.89,89,17-12-70,Maceió,Paraná,América Mineiro,2011,Brazilian
+2,,Glaycon,BRA,G,1.92,87,07-09-88,Governador Valadares,None,América Mineiro,2011,Brazilian
+3,,Matheus,BRA,G,1.89,80,29-03-92,Belo Horizonte,None,América Mineiro,2011,Brazilian
+4,,Neneca,BRA,G,1.89,93,11-09-80,Rondonópolis,Santo André,América Mineiro,2011,Brazilian
+5,,Anderson Cléber,BRA,D,1.85,84,27-04-80,São Paulo,Santo André,América Mineiro,2011,Brazilian
+6,,Everton Luiz,BRA,D,1.90,89,21-07-83,Bauru,Portuguesa,América Mineiro,2011,Brazilian
+7,,Gabriel,BRA,D,1.86,86,05-03-83,Porto Alegre,Sport Recife,América Mineiro,2011,Brazilian
+8,,Gilson,BRA,D,1.78,70,14-05-86,Campo Grande,Grêmio,América Mineiro,2011,Brazilian
+9,,Gláuber,BRA,D,1.85,83,26-01-83,Ribeirão Preto,Portuguesa,América Mineiro,2011,Brazilian
+10,,Lula,BRA,D,1.84,70,18-02-92,Gurupi,None,América Mineiro,2011,Brazilian
+11,,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,Atlético Mineiro,América Mineiro,2011,Brazilian
+12,,Micão,BRA,D,1.86,82,07-02-80,Belo Horizonte,Guarani-MG,América Mineiro,2011,Brazilian
+13,,Otávio,BRA,D,1.83,78,10-10-90,Divinópolis,None,América Mineiro,2011,Brazilian
+14,,Preto,BRA,D,1.79,73,18-12-78,São Luís,Ituano,América Mineiro,2011,Brazilian
+15,,Rodrigo,BRA,D,1.78,77,21-01-86,Pedro Leopoldo,Profute,América Mineiro,2011,Brazilian
+16,,Sheslon,BRA,D,1.86,77,04-01-87,Barão de Cocais,Atlético Mineiro,América Mineiro,2011,Brazilian
+17,,Thiago Carleto,BRA,D,1.72,68,24-03-89,São Bernardo do Campo,São Paulo,América Mineiro,2011,Brazilian
+18,,Willian Rocha,BRA,D,1.86,81,01-04-89,Jundiaí,Tombense,América Mineiro,2011,Brazilian
+19,,Amaral,BRA,M,1.75,71,27-11-83,Mogi Mirim,Cerezo Osaka,América Mineiro,2011,Brazilian
+20,,Cafú,BRA,M,1.74,76,10-08-91,Belo Horizonte,None,América Mineiro,2011,Brazilian
+21,,Caleb,BRA,M,1.72,70,09-11-92,Belo Horizonte,None,América Mineiro,2011,Brazilian
+22,,China,BRA,M,1.81,69,29-08-92,Belo Horizonte,None,América Mineiro,2011,Brazilian
+23,,Dudu,BRA,M,1.79,74,10-02-82,São Luís,Moto Clube,América Mineiro,2011,Brazilian
+24,,Fabricio,BRA,M,1.77,67,04-01-80,Divinópolis,Sport Recife,América Mineiro,2011,Brazilian
+25,,Irênio,BRA,M,1.71,64,27-05-75,Carangola,Náutico,América Mineiro,2011,Brazilian
+26,,Leandro Ferreira,BRA,M,1.83,77,30-01-81,Bicas,Comercial,América Mineiro,2011,Brazilian
+27,,Luciano,BRA,M,1.84,74,14-01-85,Araguaína,Villa Nova,América Mineiro,2011,Brazilian
+28,,Rodriguinho,BRA,M,1.80,73,27-03-88,Natal,Bragantino,América Mineiro,2011,Brazilian
+29,,Ulisses,BRA,M,1.85,75,25-03-89,Belo Horizonte,None,América Mineiro,2011,Brazilian
+30,,Alessandro,BRA,F,1.77,67,02-03-82,São João de Boa Vista,Ipatinga,América Mineiro,2011,Brazilian
+31,,Daniel Lovinho,BRA,F,1.72,69,09-01-89,São Paulo,Palmeiras,América Mineiro,2011,Brazilian
+32,,Eliandro,BRA,F,1.76,74,23-04-90,Matão,Cruzeiro,América Mineiro,2011,Brazilian
+33,,Fábio Júnior,BRA,F,1.86,76,20-11-77,Manhuaçu,Brasiliense,América Mineiro,2011,Brazilian
+34,,Kempes,BRA,F,1.82,77,03-08-82,Rio de Janeiro,Portuguesa,América Mineiro,2011,Brazilian
+35,,Leo,BRA,F,1.80,73,10-03-90,Belo Horizonte,None,América Mineiro,2011,Brazilian
+1,,David,BRA,G,1.90,73,29-01-92,Sobradinho,None,Atlético Goianiense,2011,Brazilian
+2,,Márcio,BRA,G,1.84,89,24-01-81,Aracaju,Fortaleza,Atlético Goianiense,2011,Brazilian
+3,,Rafael,BRA,G,1.92,85,24-03-84,Araraquara,Fluminense,Atlético Goianiense,2011,Brazilian
+4,,Roberto,BRA,G,1.85,82,29-01-90,Cornélio Procópio,Goiás,Atlético Goianiense,2011,Brazilian
+5,,Anderson,BRA,D,1.81,79,26-08-82,Itaperuna,Ceará,Atlético Goianiense,2011,Brazilian
+6,,Adriano,BRA,D,1.85,86,09-12-87,União da Vitória,Rio Ave,Atlético Goianiense,2011,Brazilian
+7,,Bernardo,BRA,D,1.86,75,26-08-89,Belém,Águia,Atlético Goianiense,2011,Brazilian
+8,,Gilson,BRA,D,1.85,89,29-11-79,Brasília,Brasiliense,Atlético Goianiense,2011,Brazilian
+9,,Joílson,BRA,D,1.68,62,07-07-79,Rio de Janeiro,Tombense,Atlético Goianiense,2011,Brazilian
+10,,Leonardo,BRA,D,1.88,72,09-03-86,Guarulhos,Shakhtar Donetsk,Atlético Goianiense,2011,Brazilian
+11,,Paulo Henrique,BRA,D,1.86,80,27-03-83,Uberlândia,Vitória,Atlético Goianiense,2011,Brazilian
+12,,Rafael Cruz,BRA,D,1.76,69,18-01-85,São Paulo,Atlético Mineiro,Atlético Goianiense,2011,Brazilian
+13,,Rogério,BRA,D,1.89,87,05-01-88,Tuneiras do Oeste,Londrina,Atlético Goianiense,2011,Brazilian
+14,,Thiago Feltri,BRA,D,1.74,64,18-05-85,Fernão,Atlético Mineiro,Atlético Goianiense,2011,Brazilian
+15,,Agenor,BRA,M,1.79,79,07-08-81,Rio de Janeiro,Brasiliense,Atlético Goianiense,2011,Brazilian
+16,,Adriano Pimenta,BRA,M,1.70,64,14-11-82,Goiânia,Fluminense,Atlético Goianiense,2011,Brazilian
+17,,Anaílson,BRA,M,1.64,59,08-03-78,Estreito,Santo André,Atlético Goianiense,2011,Brazilian
+18,,Bida,BRA,M,1.82,78,02-08-84,Itajuípe,Vitória,Atlético Goianiense,2011,Brazilian
+19,,Dodó,BRA,M,1.77,80,20-06-87,Aurora,Icasa,Atlético Goianiense,2011,Brazilian
+20,,Ernandes,BRA,M,1.73,71,11-11-87,São Felix do Araguaia,Americano,Atlético Goianiense,2011,Brazilian
+21,,Felipe Brisola,BRA,M,1.70,66,06-06-90,Boa Vista,Anapolina,Atlético Goianiense,2011,Brazilian
+22,,Mahatma,BRA,M,1.79,68,18-02-92,Goiânia,None,Atlético Goianiense,2011,Brazilian
+23,,Marino,BRA,M,1.82,75,18-02-86,São Manoel,Oeste,Atlético Goianiense,2011,Brazilian
+24,,Pituca,BRA,M,1.86,75,08-10-78,São Luís,Brasiliense,Atlético Goianiense,2011,Brazilian
+25,,Renato Augusto,BRA,M,1.81,74,17-07-90,Bom Despacho,Vasco da Gama,Atlético Goianiense,2011,Brazilian
+26,,Thiaguinho,BRA,M,1.70,64,12-05-84,Dourados,Remo,Atlético Goianiense,2011,Brazilian
+27,,Vítor Júnior,BRA,M,1.67,63,15-09-86,Porto Alegre,Kawasaki Frontale,Atlético Goianiense,2011,Brazilian
+28,,Welthon,BRA,M,1.81,80,21-06-92,Belém,Tuna Luso,Atlético Goianiense,2011,Brazilian
+29,,Anselmo,BRA,F,1.82,76,24-10-80,Rio de Janeiro,Botafogo-SP,Atlético Goianiense,2011,Brazilian
+30,,Diogo Campos,BRA,F,1.74,73,31-12-90,Miranorte,None,Atlético Goianiense,2011,Brazilian
+31,,Felipe,BRA,F,1.73,79,17-04-78,Passo Fundo,Goiás,Atlético Goianiense,2011,Brazilian
+32,,Juninho,BRA,F,1.67,58,05-04-85,Goianápolis,Anápolis,Atlético Goianiense,2011,Brazilian
+33,,Marcão,BRA,F,1.90,83,25-09-85,Camaçari,Ipitanga,Atlético Goianiense,2011,Brazilian
+1,1,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlético Mineiro,2011,Brazilian
+4,4,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlético Mineiro,2011,Brazilian
+5,5,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlético Mineiro,2011,Brazilian
+6,6,Lima,BRA,D,1.85,78,10-02-85,Ribeirão Preto,Atlético Rondoniense,Atlético Mineiro,2011,Brazilian
+7,7,Serginho Mineiro,BRA,M,1.78,70,04-08-86,Contagem,Vila Nova,Atlético Mineiro,2011,Brazilian
+8,8,Dudu Cearense,BRA,M,1.86,75,15-04-83,Fortaleza,Olympiakos,Atlético Mineiro,2011,Brazilian
+9,9,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kiev,Atlético Mineiro,2011,Brazilian
+10,10,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,None,Atlético Mineiro,2011,Brazilian
+11,11,Magno Alves,BRA,F,1.75,64,13-01-76,Aporá,Ceará,Atlético Mineiro,2011,Brazilian
+14,14,Triguinho,BRA,D,1.77,68,25-02-79,Piquete,Coritiba,Atlético Mineiro,2011,Brazilian
+15,15,Wesley,BRA,F,1.75,68,10-11-81,Barretos,Mirassol,Atlético Mineiro,2011,Brazilian
+16,16,Leandro,BRA,D,1.76,63,19-04-79,Rio de Janeiro,FC Porto,Atlético Mineiro,2011,Brazilian
+17,17,Bernard,BRA,M,1.67,52,08-09-92,Belo Horizonte,None,Atlético Mineiro,2011,Brazilian
+18,18,Marquinhos,BRA,F,1.74,76,23-03-76,Rio Brilhante,Vegalta Sendai,Atlético Mineiro,2011,Brazilian
+20,20,Richarlyson,BRA,M,1.76,72,27-12-82,Rio Grande de Norte,São Paulo,Atlético Mineiro,2011,Brazilian
+22,22,Werley,BRA,D,1.84,81,05-09-88,Oliveira,None,Atlético Mineiro,2011,Brazilian
+23,23,Lee,BRA,G,1.88,86,09-03-88,São Paulo,Vitória,Atlético Mineiro,2011,Brazilian
+25,25,Fillipe Soutto,BRA,M,1.77,77,11-03-91,Belo Horizonte,None,Atlético Mineiro,2011,Brazilian
+26,26,Carlos César,BRA,D,1.72,70,21-04-87,Uberaba,Boa,Atlético Mineiro,2011,Brazilian
+29,29,Gilberto,BRA,M,1.89,82,20-10-88,Serrinha,Tombense,Atlético Mineiro,2011,Brazilian
+30,30,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,None,Atlético Mineiro,2011,Brazilian
+31,31,Luiz Eduardo,BRA,D,1.91,83,21-03-87,Uberlândia,Mogi Mirim,Atlético Mineiro,2011,Brazilian
+32,32,Roger,BRA,D,1.79,75,10-02-92,Sete Lagoas,None,Atlético Mineiro,2011,Brazilian
+33,33,Lelêu,BRA,M,1.71,68,05-03-93,Rio de Janeiro,None,Atlético Mineiro,2011,Brazilian
+34,34,Didira,BRA,M,1.71,70,09-06-88,Arapiraca,ASA,Atlético Mineiro,2011,Brazilian
+35,35,Paulo Victor,BRA,G,1.88,87,21-04-92,Ribeirão Preto,None,Atlético Mineiro,2011,Brazilian
+36,36,Jônatas Obina,BRA,F,1.81,87,18-12-85,América,América Otonense,Atlético Mineiro,2011,Brazilian
+39,39,Eron,BRA,D,1.73,68,17-01-92,Belo Horizonte,None,Atlético Mineiro,2011,Brazilian
+40,40,Neto Berola,BRA,F,1.71,66,18-11-87,Itabuna,Vitória,Atlético Mineiro,2011,Brazilian
+41,55,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlético Mineiro,2011,Brazilian
+42,80,Mancini,BRA,M,1.83,82,01-08-80,Belo Horizonte,Internazionale,Atlético Mineiro,2011,Brazilian
+43,83,Daniel Carvalho,BRA,M,1.78,79,01-03-83,Porto Alegre,CSKA Moscow,Atlético Mineiro,2011,Brazilian
+44,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Dynamo Kyiv,Atlético Mineiro,2011,Brazilian
+1,,Márcio,BRA,G,1.91,82,20-12-81,São Paulo,Grêmio Prudente,Atlיtico Paranaense,2011,Brazilian
+2,,Renan Rocha,BRA,G,1.94,90,25-03-87,Piracicaba,None,Atlיtico Paranaense,2011,Brazilian
+3,,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlיtico Paranaense,2011,Brazilian
+4,,Bruno Costa,BRA,D,1.80,80,06-02-90,Salvador,None,Atlיtico Paranaense,2011,Brazilian
+5,,Bruno Pires,BRA,D,1.84,80,12-05-92,Osvaldo Cruz,None,Atlיtico Paranaense,2011,Brazilian
+6,,Edílson,BRA,D,1.77,78,27-07-86,Nova Esperança,Grêmio,Atlיtico Paranaense,2011,Brazilian
+7,,Fabricio,BRA,D,1.86,82,20-02-90,Rio de Janeiro,Desportivo Brasil,Atlיtico Paranaense,2011,Brazilian
+8,,Gustavo,BRA,D,1.85,84,09-03-84,Curitiba,Botafogo,Atlיtico Paranaense,2011,Brazilian
+9,,Héracles,BRA,D,1.70,70,18-09-92,Fortaleza,None,Atlיtico Paranaense,2011,Brazilian
+10,,Manoel,BRA,D,1.79,82,26-02-90,Bacabal,None,Atlיtico Paranaense,2011,Brazilian
+11,,Paulinho,BRA,D,1.80,65,15-10-84,Guaranésia,Luverdense,Atlיtico Paranaense,2011,Brazilian
+12,,Rafael Santos,BRA,D,1.87,85,10-11-84,Jaboticabal,Internacional,Atlיtico Paranaense,2011,Brazilian
+13,,Wagner Diniz,BRA,D,1.70,68,21-09-83,Maceió,São Paulo,Atlיtico Paranaense,2011,Brazilian
+14,,Branquinho,BRA,M,1.72,71,02-01-83,São José do Rio  Preto,Santo André,Atlיtico Paranaense,2011,Brazilian
+15,,Cléber Santana,BRA,M,1.87,84,27-06-81,Recife,São Paulo,Atlיtico Paranaense,2011,Brazilian
+16,,Deivid,BRA,M,1.74,69,18-01-89,Londrina,None,Atlיtico Paranaense,2011,Brazilian
+17,,Fransérgio,BRA,M,1.86,76,18-10-90,Rondonópolis,Luverdense,Atlיtico Paranaense,2011,Brazilian
+18,,Joffre Guerrón,ECU,M,1.74,74,28-04-85,Ambuqui,Getafe,Atlיtico Paranaense,2011,Brazilian
+19,,Kléberson,BRA,M,1.75,64,19-06-79,Urai,Flamengo,Atlיtico Paranaense,2011,Brazilian
+20,,Madson,BRA,M,1.60,60,21-05-86,Volta Redonda,Santos,Atlיtico Paranaense,2011,Brazilian
+21,,Marcelo Oliveira,BRA,M,1.84,76,29-03-87,Salvador,Corinthians,Atlיtico Paranaense,2011,Brazilian
+22,,Marcinho,BRA,M,1.71,70,20-03-81,Campinas,Cruzeiro,Atlיtico Paranaense,2011,Brazilian
+23,,Paulo Baier,BRA,M,1.84,78,25-10-74,Ijuí,Sport Recife,Atlיtico Paranaense,2011,Brazilian
+24,,Paulo Roberto,BRA,M,1.76,79,06-03-87,Lavras,Pão de Açúcar,Atlיtico Paranaense,2011,Brazilian
+25,,Renan,BRA,M,1.81,77,09-10-89,Londrina,None,Atlיtico Paranaense,2011,Brazilian
+26,,Victor Sandes,BRA,M,1.64,59,08-01-92,Garanhuns,None,Atlיtico Paranaense,2011,Brazilian
+27,,Wendel,BRA,M,1.78,75,08-10-81,Itapetinga,Palmeiras,Atlיtico Paranaense,2011,Brazilian
+28,,Adaílton,BRA,F,1.79,76,06-12-90,Camaçari,Vitória,Atlיtico Paranaense,2011,Brazilian
+29,,Edigar Junio,BRA,F,1.75,72,06-05-91,Brasília,None,Atlיtico Paranaense,2011,Brazilian
+30,,Santiago García,URU,F,1.81,80,14-09-90,Montevideo,Nacional [URU],Atlיtico Paranaense,2011,Brazilian
+31,,Federico Nieto,ARG,F,1.90,86,26-08-83,Capital Federal,Colón (Santa Fe),Atlיtico Paranaense,2011,Brazilian
+32,,Pablo,BRA,F,1.85,76,23-06-92,Londrina,None,Atlיtico Paranaense,2011,Brazilian
+33,,Rodriguinho,BRA,F,1.74,70,02-02-83,Santos,Fluminense,Atlיtico Paranaense,2011,Brazilian
+1,1,Felipe,BRA,G,1.90,79,10-01-88,São Vicente,Santos,Avaí,2011,Brazilian
+4,4,Gian,BRA,D,1.90,82,19-09-82,Santo André,Vasco da Gama,Avaí,2011,Brazilian
+5,5,Claudio Caçapa,BRA,D,1.84,77,29-05-76,Lavras,Évian TG,Avaí,2011,Brazilian
+6,6,Romano,BRA,D,1.79,72,10-11-87,Taquara,Portuguesa,Avaí,2011,Brazilian
+7,7,Diogo Orlando,BRA,M,1.79,77,04-12-83,Rio de Janeiro,Mirassol,Avaí,2011,Brazilian
+8,8,Acleisson,BRA,M,1.76,81,21-05-82,Ribeirão Preto,Portuguesa,Avaí,2011,Brazilian
+9,9,William Souza,BRA,F,1.81,72,14-05-83,Rolândia,Guingamp,Avaí,2011,Brazilian
+11,11,Rafael Coelho,BRA,F,1.74,78,20-05-88,Florianópolis,Desportivo Brasil,Avaí,2011,Brazilian
+13,13,Daniel,BRA,D,1.79,78,14-09-90,Capão da Canoa,Internacional,Avaí,2011,Brazilian
+14,14,Gustavo,BRA,D,1.73,74,20-01-87,Florianópolis,São José,Avaí,2011,Brazilian
+15,15,Arlan,BRA,M,1.70,67,05-11-86,Nanuque,Vaduz,Avaí,2011,Brazilian
+16,16,Pará,BRA,D,1.72,73,19-09-87,Rio Maria,Capivariano,Avaí,2011,Brazilian
+17,17,Maurício Alves,BRA,F,1.83,72,02-01-90,Montanha,Villarreal B,Avaí,2011,Brazilian
+18,18,Cléverson,BRA,M,1.80,78,17-12-83,Cachoeiro do Sul,Noroeste,Avaí,2011,Brazilian
+19,19,Leandro Lima,BRA,M,1.69,63,09-11-85,Fortaleza,União de Leiria,Avaí,2011,Brazilian
+20,20,Pedro Ken,BRA,M,1.81,75,20-03-87,Curitiba,Cruzeiro,Avaí,2011,Brazilian
+21,21,Johnathan Estrada,COL,M,1.82,70,27-01-83,Medellín,Millonarios,Avaí,2011,Brazilian
+22,22,Batista,BRA,M,1.73,77,12-07-79,Anguera,Paraná,Avaí,2011,Brazilian
+23,23,Aleks,BRA,G,1.93,86,20-02-91,Criciúma,None,Avaí,2011,Brazilian
+25,25,Robert,BRA,F,1.84,79,27-02-81,Salvador,Monterrey,Avaí,2011,Brazilian
+26,26,Fernandinho,BRA,D,1.80,65,31-08-85,Cianorte,Oeste,Avaí,2011,Brazilian
+27,27,Thiago Sales,BRA,D,1.80,78,07-05-87,Rio de Janeiro,Fluminense,Avaí,2011,Brazilian
+28,28,Bruno Silva,BRA,M,1.79,78,03-08-86,Nova Lima,Villa Nova,Avaí,2011,Brazilian
+30,30,Welton Felipe,BRA,D,1.94,92,15-06-86,Belo Horizonte,Atlético Mineiro,Avaí,2011,Brazilian
+31,31,Marcelo Moretto,BRA,G,1.95,94,10-05-78,Eldorado,Arka Gdynia,Avaí,2011,Brazilian
+32,32,Caíque,BRA,M,1.85,77,10-01-88,Salvador,Olé Brasil,Avaí,2011,Brazilian
+34,34,Cássio,BRA,D,1.83,83,08-07-86,Porto Alegre,Desportivo Brasil,Avaí,2011,Brazilian
+35,35,Fabiano,BRA,M,1.81,78,06-04-78,Marília,Atlético Mineiro,Avaí,2011,Brazilian
+36,36,Maurício Britto,BRA,M,,,22-06-91,Porto Alegre,None,Avaí,2011,Brazilian
+37,37,Rafael Santos,BRA,G,1.89,82,14-03-89,Barretos,Corinthians,Avaí,2011,Brazilian
+39,39,Marcos Paulo,BRA,M,1.84,72,04-02-90,Florianópolis,Coritiba,Avaí,2011,Brazilian
+40,40,Anderson Lessa,BRA,F,1.70,66,26-07-89,Recife,Cruzeiro,Avaí,2011,Brazilian
+41,41,Júnior Urso,BRA,M,1.82,82,10-03-89,Taboão da Serra,Ituano,Avaí,2011,Brazilian
+42,42,Peu,BRA,F,,,,,None,Avaí,2011,Brazilian
+43,43,Robinho,BRA,M,1.70,67,10-11-87,Marialva,Santos,Avaí,2011,Brazilian
+44,44,Gustavo Bastos,BRA,D,1.91,82,15-07-83,Pelotas,Mirassol,Avaí,2011,Brazilian
+45,45,Dieguinho,BRA,F,1.78,65,07-06-92,Bebedouro,Desportivo Brasil,Avaí,2011,Brazilian
+46,46,Léo Campos,BRA,D,1.84,80,03-07-92,Antônio Carlos,None,Avaí,2011,Brazilian
+47,47,Johnny Dias,BRA,F,,,07-05-93,,None,Avaí,2011,Brazilian
+48,48,Rodinei,BRA,D,1.75,70,29-01-92,Tatuí,None,Avaí,2011,Brazilian
+49,49,Dirceu,BRA,M,1.83,71,05-01-88,Ibaiti,Coritiba,Avaí,2011,Brazilian
+50,50,Fernando Silva,BRA,G,1.88,86,20-01-82,São Paulo,Mirassol,Avaí,2011,Brazilian
+51,99,Lincoln,BRA,M,1.77,71,22-01-79,Belo Horizonte,Palmeiras,Avaí,2011,Brazilian
+1,1,Tiago,BRA,G,1.90,83,02-07-83,Campo Largo,Vasco da Gama,Bahia,2011,Brazilian
+2,2,Marcos,BRA,D,1.76,70,24-07-89,Souto Soares,Cruzeiro,Bahia,2011,Brazilian
+4,4,Nen,BRA,D,1.78,79,08-03-78,Brasília,Atlético Mineiro,Bahia,2011,Brazilian
+5,5,Marcone,BRA,M,1.81,84,12-09-87,Itabuna,None,Bahia,2011,Brazilian
+6,6,Ávine,BRA,D,1.69,67,21-02-88,Aimorés,None,Bahia,2011,Brazilian
+7,7,Fahel,BRA,M,1.82,77,15-08-81,Teófilo Otoni,Botafogo,Bahia,2011,Brazilian
+8,8,Hélder,BRA,M,1.79,82,20-06-84,Floriano,Votoraty,Bahia,2011,Brazilian
+9,9,Souza,BRA,F,1.88,87,04-03-82,Rio de Janeiro,Corinthians,Bahia,2011,Brazilian
+10,10,Zezinho,BRA,M,1.74,70,14-03-92,Uruguaiana,Deportivo Maldonado,Bahia,2011,Brazilian
+12,12,Omar,BRA,G,1.95,92,22-08-89,São Paulo,Cruzeiro,Bahia,2011,Brazilian
+13,13,Lucas,BRA,D,1.79,77,28-02-91,Coração de Maria,None,Bahia,2011,Brazilian
+14,14,Danny Morais,BRA,D,1.88,70,29-06-85,Porto Alegre,Internacional,Bahia,2011,Brazilian
+15,15,Lenine,BRA,M,1.85,75,15-04-91,Manaus,None,Bahia,2011,Brazilian
+16,16,Camacho,BRA,M,1.81,73,02-03-90,Rio de Janeiro,Flamengo,Bahia,2011,Brazilian
+17,17,Diones,BRA,M,1.78,76,21-06-85,Timbiras,Bahia de Feira,Bahia,2011,Brazilian
+19,19,Carlos Alberto,BRA,M,1.77,71,11-12-84,Rio de Janeiro,Vasco da Gama,Bahia,2011,Brazilian
+20,20,Magno,BRA,M,1.74,74,20-05-88,Salvador,Vasco da Gama,Bahia,2011,Brazilian
+21,21,Gabriel,BRA,F,1.78,64,06-01-90,Salvador,None,Bahia,2011,Brazilian
+22,22,Titi,BRA,D,1.87,83,12-03-88,Pelotas,Internacional,Bahia,2011,Brazilian
+24,24,George,BRA,G,1.94,79,02-03-91,Contagem,Nacional-MG,Bahia,2011,Brazilian
+25,25,Thiego,BRA,D,1.85,75,22-07-86,Aracajú,Grêmio,Bahia,2011,Brazilian
+26,26,Rafael,BRA,F,1.83,84,13-07-92,Água Boa,None,Bahia,2011,Brazilian
+27,27,Dodô,BRA,D,1.77,69,06-02-92,Campinas,Corinthians,Bahia,2011,Brazilian
+28,28,Paulo Miranda,BRA,D,1.80,77,16-08-88,Iraty,Desportivo Brasil,Bahia,2011,Brazilian
+31,31,Marcelo Lomba,BRA,G,1.87,80,18-12-86,Rio de Janeiro,Flamengo,Bahia,2011,Brazilian
+33,33,Diego Jussani,BRA,D,1.89,85,07-09-87,Americana,Ponte Preta,Bahia,2011,Brazilian
+34,34,Madson,BRA,D,1.82,67,13-01-92,Salvador,None,Bahia,2011,Brazilian
+35,35,Yohn Géiler Mosquera,COL,M,1.76,77,15-04-89,Turbo,Independiente Medellín,Bahia,2011,Brazilian
+38,38,Reis,BRA,F,1.88,85,14-07-88,Juiz de Fora,Ponte Preta,Bahia,2011,Brazilian
+41,41,Jair,BRA,G,1.86,86,29-03-80,Salvador,Bahia de Feira,Bahia,2011,Brazilian
+42,50,William Matheus,BRA,D,1.87,85,02-04-90,Rio de Janeiro,Boca Júnior-SE,Bahia,2011,Brazilian
+43,54,Jancarlos,BRA,D,1.75,80,15-08-83,Natividade,Botafogo,Bahia,2011,Brazilian
+44,55,Fabinho,BRA,M,1.86,72,10-01-80,São Bernardo do Campo,Yokohama FC,Bahia,2011,Brazilian
+45,60,Nikão,BRA,M,1.74,73,29-07-92,Belo Horizonte,Atlético Mineiro,Bahia,2011,Brazilian
+46,68,Jones,BRA,F,1.77,74,14-10-88,Caratinga,Deportivo Maldonado,Bahia,2011,Brazilian
+47,70,Maurício,BRA,M,1.72,67,30-05-90,Sapeaçu,Sloboda Uice,Bahia,2011,Brazilian
+48,77,Lulinha,BRA,M,1.70,62,10-04-90,Mauá,Corinthians,Bahia,2011,Brazilian
+49,79,Reinaldo,BRA,F,1.87,77,14-03-79,Itaguay,Figueirense,Bahia,2011,Brazilian
+50,80,Ricardinho,BRA,M,1.76,73,23-05-76,São Paulo,Atlético Mineiro,Bahia,2011,Brazilian
+51,87,Maranhão,BRA,M,1.68,63,03-05-90,São Luis,Cruzeiro,Bahia,2011,Brazilian
+52,99,Júnior,BRA,F,1.86,85,15-06-76,Fortaleza,Ceará,Bahia,2011,Brazilian
+1,,Jefferson,BRA,G,1.87,82,02-01-83,São Vicente,Konyaspor,Botafogo,2011,Brazilian
+2,,Luis Guilherme,BRA,G,1.82,77,04-06-92,Rio de Janeiro,None,Botafogo,2011,Brazilian
+3,,Milton Raphael,BRA,G,1.87,80,11-06-91,Volta Redonda,Volta Redonda,Botafogo,2011,Brazilian
+4,,Renan,BRA,G,1.89,87,18-05-89,Rio de Janeiro,None,Botafogo,2011,Brazilian
+5,,Alessandro,BRA,D,1.73,68,21-09-79,Rio de Janeiro,São Caetano,Botafogo,2011,Brazilian
+6,,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,Atlético Paranaense,Botafogo,2011,Brazilian
+7,,Cortez,BRA,D,1.78,76,11-03-87,Rio de Janeiro,Nova Iguaçu,Botafogo,2011,Brazilian
+8,,Fábio Ferreira,BRA,D,1.88,82,04-10-84,Campina Grande,Vitória,Botafogo,2011,Brazilian
+9,,Gustavo,BRA,D,1.86,84,19-02-82,Campinas,Desportivo Brasil,Botafogo,2011,Brazilian
+10,,Lucas,BRA,D,1.73,67,26-03-88,Passos,Tombense,Botafogo,2011,Brazilian
+11,,Lucas Zen,BRA,D,1.83,74,17-06-91,Rio de Janeiro,None,Botafogo,2011,Brazilian
+12,,Márcio Azevedo,BRA,D,1.74,77,05-02-86,Guarabira,Atlético Paranaense,Botafogo,2011,Brazilian
+13,,Bruno,BRA,M,1.72,65,28-03-89,São Luis,Americano,Botafogo,2011,Brazilian
+14,,Cidinho,BRA,M,1.69,57,28-01-93,Rio de Janeiro,None,Botafogo,2011,Brazilian
+15,,Elkeson,BRA,M,1.80,77,13-07-89,Coelho Neto,Vitória,Botafogo,2011,Brazilian
+16,,Éverton,BRA,M,1.74,66,11-12-88,Nortelândia,UANL Tigres,Botafogo,2011,Brazilian
+17,,Felipe Menezes,BRA,M,1.85,76,20-01-88,Goiânia,Benfica,Botafogo,2011,Brazilian
+18,,Léo,BRA,M,1.83,75,24-05-87,Foz do Iguaçu,Santa Cruz,Botafogo,2011,Brazilian
+19,,Maicosuel,BRA,M,1.78,59,16-06-86,Cosmópolis,1899 Hoffenheim,Botafogo,2011,Brazilian
+20,,Marcelo Mattos,BRA,M,1.79,71,10-02-84,Indiaporã,Panathinaikos,Botafogo,2011,Brazilian
+21,,Marcos Vinícius,BRA,M,1.76,74,15-04-89,Rio Bonito,Olaria,Botafogo,2011,Brazilian
+22,,Renato,BRA,M,1.77,71,15-05-79,Santa Mercedes,Sevilla,Botafogo,2011,Brazilian
+23,,Somália,BRA,M,1.80,70,10-04-84,São Paulo,América de Natal,Botafogo,2011,Brazilian
+24,,Thiago Galhardo,BRA,M,1.82,69,20-07-89,São João del-Rei,Bangu,Botafogo,2011,Brazilian
+25,,Sebastián Abreu,URU,F,1.93,84,17-10-76,Minas Lavalleja,Aris,Botafogo,2011,Brazilian
+26,,Alex,BRA,F,1.79,71,21-08-90,São Gonçalo,CFZ,Botafogo,2011,Brazilian
+27,,Alexandre Oliveira,BRA,F,1.80,71,22-01-79,Ijaci,Al-Wasl,Botafogo,2011,Brazilian
+28,,Caio,BRA,F,1.76,70,09-08-90,Volta Redonda,Volta Redonda,Botafogo,2011,Brazilian
+29,,Germán Herrera,ARG,F,1.80,80,19-07-83,Santa Fe,Grêmio,Botafogo,2011,Brazilian
+30,,Willian,BRA,F,1.80,73,07-12-91,Juiz de Fora,None,Botafogo,2011,Brazilian
+1,,Adílson,BRA,G,1.87,83,28-05-74,Guaxupé,Atlético Mineiro,Ceará,2011,Brazilian
+2,,Diego,BRA,G,1.86,87,02-02-82,São Gonçalo,Flamengo,Ceará,2011,Brazilian
+3,,Dionantan,BRA,G,1.79,76,17-02-85,Ipu,Ferroviário,Ceará,2011,Brazilian
+4,,Fernando Henrique,BRA,G,1.89,82,25-11-83,Rio de Janeiro,Fluminense,Ceará,2011,Brazilian
+5,,Gustavo,BRA,G,1.85,80,11-04-94,Fortaleza,None,Ceará,2011,Brazilian
+6,,Ânderson Luis,BRA,D,1.80,70,10-03-87,Barra Mansa,Desportivo Brasil,Ceará,2011,Brazilian
+7,,Boiadeiro,BRA,D,1.72,70,24-09-84,Rio de Janeiro,Paysandu,Ceará,2011,Brazilian
+8,,Clebão,BRA,D,1.85,86,09-07-83,São Paulo,São Carlos,Ceará,2011,Brazilian
+9,,Daniel Marques,BRA,D,1.90,89,11-07-83,Jaú,Barueri,Ceará,2011,Brazilian
+10,,Dener,BRA,D,1.84,81,17-09-94,Fortaleza,Vitória,Ceará,2011,Brazilian
+11,,Diego Sacoman,BRA,D,1.84,79,15-12-86,Guarulhos,Corinthians,Ceará,2011,Brazilian
+12,,Edmilson,BRA,D,1.86,75,10-07-76,Taguaritinga,Zaragoza,Ceará,2011,Brazilian
+13,,Egídio,BRA,D,1.75,69,16-06-86,Rio de Janerio,Flamengo,Ceará,2011,Brazilian
+14,,Erivélton,BRA,D,1.79,77,02-04-78,Carvalhos,Sertãozinho,Ceará,2011,Brazilian
+15,,Eusébio,BRA,D,1.68,63,22-09-85,Eusébio,Fortaleza,Ceará,2011,Brazilian
+16,,Fabrício,BRA,D,1.84,78,08-10-80,Água Boa,América de Natal,Ceará,2011,Brazilian
+17,,Pablo,BRA,D,1.88,79,21-06-91,São Luíz,Ferroviário,Ceará,2011,Brazilian
+18,,Thiago Matias,BRA,D,1.90,87,17-10-82,São Paulo,Santa Cruz,Ceará,2011,Brazilian
+19,,Vicente,BRA,D,1.72,68,30-04-83,Maceió,Iraty,Ceará,2011,Brazilian
+20,,Careca,BRA,M,1.81,74,30-10-80,Tambaú,Guaratinguetá,Ceará,2011,Brazilian
+21,,Enrico,BRA,M,1.76,70,04-05-84,Belo Horizonte,Vasco da Gama,Ceará,2011,Brazilian
+22,,Heleno,BRA,M,1.83,80,23-02-78,São Vincente,Vila Nova,Ceará,2011,Brazilian
+23,,João Marcos,BRA,M,1.77,73,24-06-81,Marília,Noroeste,Ceará,2011,Brazilian
+24,,Juca,BRA,M,1.79,75,19-11-79,Passo Fundo,Deportivo La Coruña,Ceará,2011,Brazilian
+25,,Katê,BRA,M,1.71,62,16-09-91,João Alfredo,None,Ceará,2011,Brazilian
+26,,Leandro Chaves,BRA,M,1.77,74,19-04-84,Duque de Caxias,Figueirense,Ceará,2011,Brazilian
+27,,Luizinho,BRA,M,1.79,63,16-02-88,Senador Melo Viana,SEV-Hortolândia,Ceará,2011,Brazilian
+28,,Michel,BRA,M,1.80,78,08-06-81,São Paulo,Sport Recife,Ceará,2011,Brazilian
+29,,Rudnei,BRA,M,1.88,78,07-10-84,Florianópolis,Ventforet Kofu,Ceará,2011,Brazilian
+30,,Thiago Humberto,BRA,M,1.83,75,06-07-85,Lins,Internacional,Ceará,2011,Brazilian
+31,,Emerson,BRA,F,1.70,71,08-07-91,Salvador,Vitória,Ceará,2011,Brazilian
+32,,Epitácio,BRA,F,1.81,84,10-05-95,Fortaleza,None,Ceará,2011,Brazilian
+33,,Felipe Azevedo,BRA,F,1.74,74,10-01-87,Ubatuba,Busan I'Park,Ceará,2011,Brazilian
+34,,Marcelo Nicácio,BRA,F,1.75,79,05-01-83,Salvador,Atlético Mineiro,Ceará,2011,Brazilian
+35,,Osvaldo,BRA,F,1.69,62,11-04-87,Fortaleza,Al-Ahli [UAE],Ceará,2011,Brazilian
+36,,Roger,BRA,F,1.84,79,07-01-85,Campinas,Kashiwa Reysol,Ceará,2011,Brazilian
+37,,Washington,BRA,F,1.80,75,17-07-78,São José dos Campos,Palmeiras,Ceará,2011,Brazilian
+1,1,Júlio César,BRA,G,1.86,78,27-10-84,São Paulo,None,Corinthians,2011,Brazilian
+2,2,Alessandro,BRA,D,1.79,77,10-01-79,Assis Chateaubriand,Santos,Corinthians,2011,Brazilian
+3,3,Chicão,BRA,D,1.81,81,03-06-81,Mogi Guaçu,Figueirense,Corinthians,2011,Brazilian
+4,4,Leandro Castán,BRA,D,1.85,78,05-11-86,Jaú,Barueri,Corinthians,2011,Brazilian
+5,5,Ralf,BRA,M,1.80,73,09-06-84,São Paulo,Barueri,Corinthians,2011,Brazilian
+6,6,Fábio Santos,BRA,D,1.79,75,16-09-85,São Paulo,Grêmio,Corinthians,2011,Brazilian
+7,7,Willian,BRA,F,1.71,78,19-11-86,Três Fronteiras,Coimbra,Corinthians,2011,Brazilian
+8,8,Paulinho,BRA,M,1.80,71,25-07-88,São Paulo,Coimbra,Corinthians,2011,Brazilian
+9,9,Liédson,POR,F,1.75,63,17-12-77,Cairú,Sporting CP,Corinthians,2011,Brazilian
+10,10,Adriano,BRA,F,1.89,87,17-02-82,Rio de Janeiro,Roma,Corinthians,2011,Brazilian
+11,11,Emerson,BRA,F,1.71,69,06-12-78,Nova Iguaçu,Fluminense,Corinthians,2011,Brazilian
+12,12,Alex,BRA,M,1.75,71,25-03-82,Cornélio Procópio,Spartak Moscow,Corinthians,2011,Brazilian
+13,13,Paulo André,BRA,D,1.88,82,20-08-83,Campinas,Le Mans,Corinthians,2011,Brazilian
+14,14,Luis Ramírez,PER,M,1.80,77,10-11-84,Lima,Universitario de Deportes,Corinthians,2011,Brazilian
+15,15,Moradei,BRA,M,1.75,67,08-02-86,São Luis do Paraitinga,Bragantino,Corinthians,2011,Brazilian
+16,16,Denner,BRA,D,1.80,70,21-11-93,Guarulhos,None,Corinthians,2011,Brazilian
+17,17,Morais,BRA,M,1.70,64,17-07-84,Maceió,Vasco da Gama,Corinthians,2011,Brazilian
+18,18,Welder,BRA,D,1.81,70,16-01-91,Franca,Paulista,Corinthians,2011,Brazilian
+19,19,Elias,BRA,F,1.74,68,22-05-92,São Paulo,None,Corinthians,2011,Brazilian
+20,20,Danilo,BRA,M,1.86,84,11-06-79,São Gotardo,Kashima Antlers,Corinthians,2011,Brazilian
+21,21,Edenilson,BRA,M,1.75,64,19-12-89,Porto Alegre,Caxias,Corinthians,2011,Brazilian
+22,22,Danilo Fernandes,BRA,G,1.89,84,03-04-88,Guarulhos,None,Corinthians,2011,Brazilian
+23,23,Jorge Henrique,BRA,F,1.69,69,23-04-82,Resende,Botafogo,Corinthians,2011,Brazilian
+25,25,Wallace,BRA,D,1.83,76,26-12-87,Conceição do Coité,Vitória,Corinthians,2011,Brazilian
+26,26,Bruno Octávio,BRA,M,1.80,76,02-08-85,São Caetano do Sul,None,Corinthians,2011,Brazilian
+27,27,Nenê Bonilha,BRA,M,1.75,70,17-02-92,São João da Boa Vista,Paulista,Corinthians,2011,Brazilian
+28,28,Gauther,BRA,G,1.92,,24-01-92,Santa Bárbara d'Oeste,None,Corinthians,2011,Brazilian
+29,29,Taubaté,BRA,F,1.79,75,15-09-91,Taubaté,None,Corinthians,2011,Brazilian
+30,30,Renan,BRA,G,1.92,83,12-12-90,São João Batista,Avaí,Corinthians,2011,Brazilian
+31,31,André Vinicius,BRA,D,1.89,78,30-07-91,São Paulo,None,Corinthians,2011,Brazilian
+32,32,Marquinhos,BRA,D,1.81,67,14-05-94,São Paulo,None,Corinthians,2011,Brazilian
+33,33,Ramon,BRA,D,1.73,65,06-05-88,Cachoeiro do Itapemirim,Vasco da Gama,Corinthians,2011,Brazilian
+34,34,Matheus,BRA,M,1.70,61,21-02-93,Lins,None,Corinthians,2011,Brazilian
+1,,Caio Secco,BRA,G,1.94,80,22-12-90,Cambé,None,Coritiba,2011,Brazilian
+2,,Édson Bastos,BRA,G,1.87,76,03-11-79,Foz do Iguaçu,Guaratinguetá,Coritiba,2011,Brazilian
+3,,Rafael Martins,BRA,G,1.90,79,29-11-91,Pariquera-Açu,None,Coritiba,2011,Brazilian
+4,,Vanderlei,BRA,G,1.95,86,01-02-84,Porecatu,Paranavaí,Coritiba,2011,Brazilian
+5,,Cleiton,BRA,D,1.87,76,11-07-81,Porto Alegre,Roma-PR,Coritiba,2011,Brazilian
+6,,Demerson,BRA,D,1.84,81,16-03-86,Belo Horizonte,Cabofriense,Coritiba,2011,Brazilian
+7,,Eltinho,BRA,D,1.71,66,07-07-87,Guaira,Avaí,Coritiba,2011,Brazilian
+8,,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Avaí,Coritiba,2011,Brazilian
+9,,Jeci,BRA,D,1.84,77,22-04-80,Guaratinguetá,Palmeiras,Coritiba,2011,Brazilian
+10,,Jonas,BRA,D,1.81,77,10-02-87,Votuporanga,Internacional,Coritiba,2011,Brazilian
+11,,Lucas Mendes,BRA,D,1.83,81,03-07-90,Curitiba,None,Coritiba,2011,Brazilian
+12,,Luccas Claro,BRA,D,1.82,83,20-10-91,Ribeirão Preto,None,Coritiba,2011,Brazilian
+13,,Maranhão,BRA,D,1.70,70,25-12-85,Codó,Santos,Coritiba,2011,Brazilian
+14,,Pereira,BRA,D,1.89,88,30-07-79,Guarulhos,Grêmio,Coritiba,2011,Brazilian
+15,,Timbó,BRA,D,1.84,73,29-05-90,Timbó,None,Coritiba,2011,Brazilian
+16,,Walisson Maia,BRA,D,1.87,83,21-08-91,Natividade,None,Coritiba,2011,Brazilian
+17,,Davi,BRA,M,1.75,72,06-04-84,Rio Grande do Sul,Avaí,Coritiba,2011,Brazilian
+18,,Djair,BRA,M,1.72,72,10-02-91,Barretos,Internacional,Coritiba,2011,Brazilian
+19,,Éverton Ribeiro,BRA,M,1.74,69,10-04-89,Arujá,Corinthians,Coritiba,2011,Brazilian
+20,,Geraldo,ANG,M,1.68,63,23-11-91,Luanda,Andraus,Coritiba,2011,Brazilian
+21,,Gil,BRA,M,1.68,66,09-03-87,Santo Antônio,Santo André,Coritiba,2011,Brazilian
+22,,Guaraci,BRA,M,1.85,82,02-03-92,Sorocaba,Rio Branco-SP,Coritiba,2011,Brazilian
+23,,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Ferroviária,Coritiba,2011,Brazilian
+24,,Léo Gago,BRA,M,1.69,67,17-02-83,Campinas,Vasco da Gama,Coritiba,2011,Brazilian
+25,,Rafinha,BRA,M,1.67,61,04-08-83,Guarulhos,São Paulo,Coritiba,2011,Brazilian
+26,,Tcheco,BRA,M,1.80,77,11-04-76,Curitiba,Corinthians,Coritiba,2011,Brazilian
+27,,Willian Farias,BRA,M,1.76,75,06-06-89,Curitiba,None,Coritiba,2011,Brazilian
+28,,Willian Leandro,BRA,M,1.74,67,31-07-85,Osasco,Corinthians-PR,Coritiba,2011,Brazilian
+29,,Anderson Aquino,BRA,F,1.74,70,18-12-86,Foz do Iguaçu,Atlético Paranaense,Coritiba,2011,Brazilian
+30,,Caio Vinícius,BRA,F,1.86,80,03-04-90,Vila Velha,Porto-PE,Coritiba,2011,Brazilian
+31,,Bill,BRA,F,1.83,86,02-07-84,Rio de Janeiro,Corinthians,Coritiba,2011,Brazilian
+32,,Éverton,BRA,F,1.81,71,06-01-86,Ponta Grossa,Caxias,Coritiba,2011,Brazilian
+33,,Leonardo,BRA,F,1.85,77,26-10-82,Nova Lima,Avaí,Coritiba,2011,Brazilian
+34,,Marcos Aurélio,BRA,F,1.67,64,10-02-84,Cuiabá,Brasa,Coritiba,2011,Brazilian
+35,,Wilson Júnior,BRA,F,1.76,73,25-04-91,João Pessoa,Bahia,Coritiba,2011,Brazilian
+1,,Douglas Pires,BRA,G,1.94,80,30-01-91,Jataí,None,Cruzeiro,2011,Brazilian
+2,,Fábio,BRA,G,1.90,93,30-09-80,Nobres,Vasco da Gama,Cruzeiro,2011,Brazilian
+3,,Gabriel Vasconcellos,BRA,G,1.93,89,27-09-92,Unaí,None,Cruzeiro,2011,Brazilian
+4,,Rafael,BRA,G,1.92,81,23-06-89,Coronel Fabriciano,None,Cruzeiro,2011,Brazilian
+5,,Diego Renan,BRA,D,1.72,71,26-01-90,Surubim,None,Cruzeiro,2011,Brazilian
+6,,Emilson Cribari,BRA,D,1.85,72,06-03-80,Cambara,Napoli,Cruzeiro,2011,Brazilian
+7,,Gabriel Araújo,BRA,D,1.81,75,29-01-92,Salvador,None,Cruzeiro,2011,Brazilian
+8,,Gil Bahia,BRA,D,1.69,70,27-02-92,Salvador,None,Cruzeiro,2011,Brazilian
+9,,Léo,BRA,D,1.84,81,30-01-88,Belo Horizonte,Palmeiras,Cruzeiro,2011,Brazilian
+10,,Naldo,BRA,D,1.88,80,28-08-88,Santo André,União São João,Cruzeiro,2011,Brazilian
+11,,Mauricio Victorino,URU,D,1.80,78,11-10-82,Montevideo,Universidad de Chile,Cruzeiro,2011,Brazilian
+12,,Vitor,BRA,D,1.72,66,29-07-82,Delmiro Golveia,Palmeiras,Cruzeiro,2011,Brazilian
+13,,Bruninho,BRA,M,1.70,69,08-02-90,Feira de Santana,Bahia de Feira,Cruzeiro,2011,Brazilian
+14,,Charles,BRA,M,1.73,72,14-02-85,Rio de Janeiro,Lokomotiv Moscow,Cruzeiro,2011,Brazilian
+15,,Éber Bessa,BRA,M,1.67,72,21-03-92,Belo Horizonte,None,Cruzeiro,2011,Brazilian
+16,,Élber,BRA,M,1.70,63,27-05-92,Passo de Camaragibe,None,Cruzeiro,2011,Brazilian
+17,,Éverton,BRA,M,1.71,65,08-08-84,Maranguape,Fluminense,Cruzeiro,2011,Brazilian
+18,,Fabrício,BRA,M,1.78,76,05-07-82,Imbituba,Júbilo Iwata,Cruzeiro,2011,Brazilian
+19,,Leandro Guerreiro,BRA,M,1.82,68,17-11-78,São Borja,Botafogo,Cruzeiro,2011,Brazilian
+20,,Marquinhos Paraná,BRA,M,1.74,71,20-07-77,Recife,Júbilo Iwata,Cruzeiro,2011,Brazilian
+21,,Sandro Manoel,BRA,M,1.78,71,23-07-88,Recife,Náutico,Cruzeiro,2011,Brazilian
+22,,Wálter Montillo,ARG,M,1.71,69,14-04-84,Villa Modelo,Universidad de Chile,Cruzeiro,2011,Brazilian
+23,,Roger,BRA,M,1.70,69,17-08-78,Rio de Janeiro,Qatar SC,Cruzeiro,2011,Brazilian
+24,,Anselmo Ramon,BRA,F,1.82,79,23-06-88,Camacari,Bahia,Cruzeiro,2011,Brazilian
+25,,Bobô,BRA,F,1.86,85,01-01-85,Gravatá,Beşiktaş,Cruzeiro,2011,Brazilian
+26,,Ernesto Farías,ARG,F,1.78,79,29-05-80,Trenque Lauquen,FC Porto,Cruzeiro,2011,Brazilian
+27,,Keirrison,BRA,F,1.81,63,03-12-88,Dourados,Barcelona,Cruzeiro,2011,Brazilian
+28,,José María Ortigoza,PAR,F,1.77,75,01-04-87,Asunción,Sol de América,Cruzeiro,2011,Brazilian
+29,,Sebá,BRA,F,1.80,73,08-06-92,Salvador,None,Cruzeiro,2011,Brazilian
+30,,Wallyson,BRA,F,1.78,65,17-10-88,Natal,Deportivo Maldonado,Cruzeiro,2011,Brazilian
+31,,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo,Botafogo,Cruzeiro,2011,Brazilian
+1,1,Felipe,BRA,G,1.90,86,22-02-84,Rio de Janeiro,Olé Brasil,Flamengo,2011,Brazilian
+2,2,Léonardo Moura,BRA,D,1.76,65,23-10-78,Niterói,Sporting Braga,Flamengo,2011,Brazilian
+3,3,Welinton,BRA,D,1.87,83,10-04-89,Rio de Janeiro,None,Flamengo,2011,Brazilian
+4,4,Ronaldo Angelim,BRA,D,1.77,70,29-11-75,São Paulo,Fortaleza,Flamengo,2011,Brazilian
+5,5,Claudio Maldonado,CHI,M,1.74,74,03-01-80,Curió,Rentistas,Flamengo,2011,Brazilian
+6,6,Júnior César,BRA,D,1.66,59,09-04-82,Magé Suruí,São Paulo,Flamengo,2011,Brazilian
+7,7,Thiago Neves,BRA,M,1.82,70,27-02-85,Curitiba,Al-Hilal [KSA],Flamengo,2011,Brazilian
+8,8,Willians,BRA,M,1.75,71,29-01-86,São Paulo,Santo André,Flamengo,2011,Brazilian
+9,9,Deivid,BRA,F,1.80,73,22-10-79,Nova  Iguaça,Fenerbahçe,Flamengo,2011,Brazilian
+10,10,Ronaldinho,BRA,M,1.82,80,21-03-80,Porto  Alegre,Milan,Flamengo,2011,Brazilian
+11,11,Renato,BRA,M,1.83,78,09-06-78,São Paulo,Al-Shabab,Flamengo,2011,Brazilian
+14,14,David Braz,BRA,D,1.87,82,21-05-87,Guarulhos,Panathinaikos,Flamengo,2011,Brazilian
+15,15,Diego Mauricio,BRA,F,1.82,77,25-06-91,Rio de Janeiro,None,Flamengo,2011,Brazilian
+16,16,Gonzalo Fierro,CHI,F,1.71,70,21-03-83,Santiago,Colo-Colo,Flamengo,2011,Brazilian
+17,17,Fernando,BRA,M,1.82,71,12-05-86,Rio de Janeiro,Goiás,Flamengo,2011,Brazilian
+18,18,Darío Bottinelli,ARG,M,1.68,67,26-02-86,Capital Federal,Atlas,Flamengo,2011,Brazilian
+19,19,Negueba,BRA,F,1.78,70,07-04-92,Rio de Janeiro,None,Flamengo,2011,Brazilian
+20,20,Vander,BRA,M,1.73,65,17-04-90,Salvador,Bahia,Flamengo,2011,Brazilian
+21,21,Rodrigo Alvim,BRA,D,1.82,73,25-11-83,Paraná,Wolfsburg,Flamengo,2011,Brazilian
+22,22,Rafael Galhardo,BRA,D,1.76,70,30-10-91,Nova Friburgo,None,Flamengo,2011,Brazilian
+23,23,João Vitor,BRA,M,1.78,68,01-12-91,Coratinga,None,Flamengo,2011,Brazilian
+25,25,Thomas,BRA,F,1.79,72,24-02-93,Juiz de Fora,None,Flamengo,2011,Brazilian
+26,26,Jael,BRA,F,1.86,85,30-10-88,Várzea Grande,Brasa,Flamengo,2011,Brazilian
+27,27,Paulo Victor,BRA,G,1.87,76,12-01-87,Assis,América-RJ,Flamengo,2011,Brazilian
+28,28,Vinícius,BRA,G,1.90,78,09-11-84,Goiânia,Boavista-RJ,Flamengo,2011,Brazilian
+29,29,Rafinha,BRA,F,1.64,55,01-04-93,Porto Franco,CFZ,Flamengo,2011,Brazilian
+30,30,Adryan,BRA,M,1.69,64,08-10-94,Rio de Janeiro,None,Flamengo,2011,Brazilian
+31,31,Luiz Philipe,BRA,M,1.73,68,21-01-93,Rio de Janeiro,None,Flamengo,2011,Brazilian
+32,32,Romário,BRA,F,1.77,74,30-07-94,Minas Gerais,None,Flamengo,2011,Brazilian
+34,34,Digão,BRA,D,1.77,78,12-03-93,Rio de Janeiro,None,Flamengo,2011,Brazilian
+35,35,César,BRA,G,1.94,78,27-01-92,Rio de Janeiro,Sendas Pão de Açúcar,Flamengo,2011,Brazilian
+36,36,Marllon,BRA,D,1.81,75,16-04-92,Rio de Janeiro,Bangu,Flamengo,2011,Brazilian
+37,37,Gustavo,BRA,D,1.82,90,20-02-86,Cachoeiro de Itapemirim,Boavista-RJ,Flamengo,2011,Brazilian
+38,38,Luiz Antônio,BRA,M,1.84,73,11-03-91,Rio de Janeiro,None,Flamengo,2011,Brazilian
+39,39,Lorran,BRA,M,1.82,72,10-01-93,Barra do Garças,None,Flamengo,2011,Brazilian
+40,40,Yguinho,BRA,F,1.82,64,20-02-93,Rio de Janeiro,None,Flamengo,2011,Brazilian
+41,44,Álex Silva,BRA,D,1.93,82,10-03-85,Amparo,Hamburg,Flamengo,2011,Brazilian
+42,45,Rodrigo Frauches,BRA,D,1.85,77,28-09-92,São João de Meriti,None,Flamengo,2011,Brazilian
+43,55,Airton,BRA,M,1.80,77,21-02-90,Rio de Janeiro,Benfica,Flamengo,2011,Brazilian
+1,1,Wilson,BRA,G,1.85,79,31-01-84,Santo André,Flamengo,Figueirense,2011,Brazilian
+2,2,Bruno Vieira,BRA,D,1.78,69,30-08-85,Mato Grosso,Tombense,Figueirense,2011,Brazilian
+3,3,João Paulo,BRA,D,1.85,78,17-11-84,Curitiba,Goiás,Figueirense,2011,Brazilian
+4,4,Édson Silva,BRA,D,1.87,92,09-05-86,Palmares,Villa Rio,Figueirense,2011,Brazilian
+5,5,Ygor,BRA,M,1.79,76,01-06-84,Santana do Livramento,Start,Figueirense,2011,Brazilian
+6,6,Juninho,BRA,D,1.71,64,11-01-90,Salvador,Pão de Açúcar,Figueirense,2011,Brazilian
+7,7,Túlio,BRA,M,1.75,72,25-04-76,Brasília,Goiás,Figueirense,2011,Brazilian
+8,8,Maicon,BRA,M,1.84,87,14-09-85,Rio de Janeiro,Duisburg,Figueirense,2011,Brazilian
+9,9,Aloísio,BRA,F,1.76,78,19-06-88,Araranguá,Tombense,Figueirense,2011,Brazilian
+10,10,Fernandes,BRA,M,1.78,75,03-03-78,Itaporanga,Palmeiras,Figueirense,2011,Brazilian
+11,11,Elias,BRA,M,1.80,78,02-09-83,Santa Rita do Sapucaí,Al-Ain,Figueirense,2011,Brazilian
+12,12,Ricardo,BRA,G,1.88,89,23-12-86,Palmitos,Chapecoense,Figueirense,2011,Brazilian
+13,13,Rhayner,BRA,F,1.79,75,05-09-90,Serra,Tombense,Figueirense,2011,Brazilian
+16,16,Wilson Pittoni,PAR,M,1.66,65,14-08-85,Asunción,Libertad,Figueirense,2011,Brazilian
+17,17,Wellington Nem,BRA,M,1.65,65,06-02-92,Rio de Janeiro,Fluminense,Figueirense,2011,Brazilian
+18,18,Jean Deretti,BRA,M,1.73,60,01-05-93,Jaraguá do Sul,None,Figueirense,2011,Brazilian
+19,19,Hélder,BRA,D,1.78,73,21-10-88,Três Corações,Grêmio,Figueirense,2011,Brazilian
+20,20,Guti,BRA,D,1.87,83,29-06-91,São Bento do Sul,None,Figueirense,2011,Brazilian
+22,22,Pablo,BRA,D,1.90,83,03-08-89,São João Nepomuceno,Zaragoza,Figueirense,2011,Brazilian
+23,23,Coutinho,BRA,M,1.73,73,07-03-84,Macaé,Tombense,Figueirense,2011,Brazilian
+25,25,Jackson Sousa,BRA,M,1.73,70,10-08-90,São José,None,Figueirense,2011,Brazilian
+27,27,Héber,BRA,F,1.80,72,10-08-91,Colorado do Oeste,None,Figueirense,2011,Brazilian
+30,30,William Pottker,BRA,M,1.80,78,22-12-93,Foz do Iguaçu,None,Figueirense,2011,Brazilian
+32,32,Neto,BRA,G,1.87,81,01-08-92,Florianópolis,None,Figueirense,2011,Brazilian
+33,33,Roger Carvalho,BRA,D,1.84,74,10-12-86,Arapongas,Tombense,Figueirense,2011,Brazilian
+41,55,Jônatas,BRA,M,1.81,74,29-07-82,Fortaleza,Espanyol,Figueirense,2011,Brazilian
+42,77,Somália,BRA,F,1.89,78,22-06-77,Vitória,Boavista-RJ,Figueirense,2011,Brazilian
+43,88,Sandro,BRA,D,1.79,75,17-05-88,Rio de Janeiro,Fluminense,Figueirense,2011,Brazilian
+44,99,Júlio César,BRA,F,1.76,75,26-02-80,Itaguai,Gaziantepspor,Figueirense,2011,Brazilian
+1,1,Ricardo Berna,BRA,G,1.87,83,11-06-79,Valença-RJ,América Mineiro,Fluminense,2011,Brazilian
+2,2,Mariano,BRA,D,1.77,70,23-06-86,São João,Tombense,Fluminense,2011,Brazilian
+3,3,Gum,BRA,D,1.89,86,04-01-86,São Paulo,Ponte Preta,Fluminense,2011,Brazilian
+4,4,Márcio Rozário,BRA,D,1.87,88,21-11-83,São Mateus,Botafogo,Fluminense,2011,Brazilian
+5,5,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Palmeiras,Fluminense,2011,Brazilian
+6,6,Carlinhos,BRA,D,1.76,72,23-01-87,Vitória da Conquista,Santo André,Fluminense,2011,Brazilian
+7,7,Marquinho,BRA,M,1.84,76,03-07-86,Passo Fundo,Figueirense,Fluminense,2011,Brazilian
+8,8,Diguinho,BRA,M,1.71,69,20-03-83,Canoas,Botafogo,Fluminense,2011,Brazilian
+9,9,Fred,BRA,F,1.85,84,03-10-83,Téofilo Otoni,Lyon,Fluminense,2011,Brazilian
+10,10,Rafael Moura,BRA,F,1.89,85,23-05-83,Belo Horizonte,Locarno,Fluminense,2011,Brazilian
+11,11,Manuel Lanzini,ARG,M,1.69,64,15-02-93,Ituzaingó,River Plate,Fluminense,2011,Brazilian
+12,12,Diego Cavalieri,BRA,G,1.89,86,01-12-82,São Paulo,Cesena,Fluminense,2011,Brazilian
+13,13,Digão,BRA,D,1.87,85,07-05-88,Duque de Caxias,None,Fluminense,2011,Brazilian
+14,14,Elivelton,BRA,D,1.80,82,10-05-92,Bom Jardim,None,Fluminense,2011,Brazilian
+16,16,Wallace,BRA,D,1.75,72,01-05-94,Rio de Janeiro,None,Fluminense,2011,Brazilian
+17,17,Edwin Valencia,COL,M,1.81,85,29-03-85,Florida Valle,Atlético Paranaense,Fluminense,2011,Brazilian
+18,18,Ciro,BRA,F,1.75,72,18-04-89,Salgueiro,Deportivo Maldonado,Fluminense,2011,Brazilian
+19,19,Matheus Carvalho,BRA,F,1.77,70,11-03-92,Niterói,None,Fluminense,2011,Brazilian
+20,20,Deco,POR,M,1.74,73,27-08-77,São Bernardo do Campo,Chelsea,Fluminense,2011,Brazilian
+21,21,Souza,BRA,M,1.76,77,04-02-79,Maceió,Grêmio,Fluminense,2011,Brazilian
+22,22,Guilherme,BRA,G,1.87,85,08-05-91,Novo Hamburgo,Internacional,Fluminense,2011,Brazilian
+23,23,Rafael Sobís,BRA,F,1.72,73,17-06-85,Erechim,Al-Jazira,Fluminense,2011,Brazilian
+25,25,Alejandro Martinuccio,ARG,F,1.73,72,16-12-87,Capital Federal,Peñarol,Fluminense,2011,Brazilian
+26,26,Jefferson,BRA,D,1.76,72,05-07-88,Bahia,Desportivo Brasil,Fluminense,2011,Brazilian
+30,30,Rodrigo,BRA,M,1.81,70,06-06-89,São Luís,Madureira,Fluminense,2011,Brazilian
+32,32,André Luis,BRA,D,1.92,86,31-07-79,Bagé,São Paulo,Fluminense,2011,Brazilian
+33,33,Klever,BRA,G,1.88,82,20-06-89,Mirassol,None,Fluminense,2011,Brazilian
+41,55,Diogo,BRA,M,1.81,80,20-10-86,Arapongas,Junior Team Futebol,Fluminense,2011,Brazilian
+42,70,Araújo,BRA,F,1.72,57,08-08-77,Caruaru,Al-Gharafa,Fluminense,2011,Brazilian
+43,85,Leandro Euzébio,BRA,D,1.87,83,18-08-81,Cabo Frio,Cruzeiro,Fluminense,2011,Brazilian
+44,88,Fernando Bob,BRA,M,1.80,74,07-01-88,Cabo Frio,None,Fluminense,2011,Brazilian
+1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Paulista,Gręmio,2011,Brazilian
+2,2,Gabriel,BRA,D,1.71,70,05-06-81,Feira de Santana,Panathinaikos,Gręmio,2011,Brazilian
+3,3,Gilberto Silva,BRA,M,1.84,74,07-10-76,Lagoa da Prata,Panathinaikos,Gręmio,2011,Brazilian
+4,4,Rafael Marques,BRA,D,1.84,81,21-09-83,Rio de Janeiro,Goiás,Gręmio,2011,Brazilian
+5,5,Fábio Rochemback,BRA,M,1.83,83,10-12-81,Soledade,Sporting CP,Gręmio,2011,Brazilian
+6,6,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Gręmio,2011,Brazilian
+7,7,Yuri Mamute,BRA,F,1.80,68,07-05-95,Porto Alegre,None,Gręmio,2011,Brazilian
+8,8,Adilson,BRA,M,1.81,70,16-01-87,Bom Princípio,None,Gręmio,2011,Brazilian
+9,9,Brandão,BRA,F,1.89,78,16-06-80,São Paulo,Marseille,Gręmio,2011,Brazilian
+10,10,Douglas,BRA,M,1.75,66,18-02-82,Criciúma,Al Wasl,Gręmio,2011,Brazilian
+11,11,Lúcio,BRA,D,1.76,68,20-06-79,Recife,Hertha Berlin,Gręmio,2011,Brazilian
+12,12,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Gręmio,2011,Brazilian
+13,13,Mário Fernandes,BRA,D,1.89,77,19-09-90,São Caetano,São Caetano,Gręmio,2011,Brazilian
+14,14,Vilson,BRA,D,1.89,79,03-04-88,São Gonçalo,Madureira,Gręmio,2011,Brazilian
+15,15,Júlio César,BRA,D,1.73,70,15-06-82,São Paulo,Fluminense,Gręmio,2011,Brazilian
+16,16,Diego Clementino,BRA,F,1.75,67,18-03-84,São Paulo,América Mineiro,Gręmio,2011,Brazilian
+17,17,Fernando,BRA,M,1.73,66,03-03-92,Erechim,None,Gręmio,2011,Brazilian
+18,18,Ezequiel Miralles,ARG,F,1.72,72,21-07-83,Bahía Blanca,Colo-Colo,Gręmio,2011,Brazilian
+19,19,Marquinhos,BRA,M,1.83,83,29-09-81,Biguaçu,Santos,Gręmio,2011,Brazilian
+20,20,Matheus,BRA,G,1.85,82,05-05-89,Alegrete,None,Gręmio,2011,Brazilian
+21,21,Leandro,BRA,F,1.77,71,12-05-93,Brasília,None,Gręmio,2011,Brazilian
+22,22,Everaldo,BRA,F,1.81,80,05-07-91,Garibaldi,None,Gręmio,2011,Brazilian
+23,23,Bruno Collaço,BRA,D,1.73,77,08-03-90,São Leopoldo,None,Gręmio,2011,Brazilian
+24,24,Damián Escudero,ARG,M,1.76,74,20-04-87,Rosario,Boca Juniors,Gręmio,2011,Brazilian
+25,25,Rodolfo,BRA,D,1.83,77,23-10-82,Santos,Lokomotiv Moscow,Gręmio,2011,Brazilian
+26,26,Saimon,BRA,D,1.83,74,03-03-91,Erechim,None,Gręmio,2011,Brazilian
+27,27,Willian Magrão,BRA,M,1.90,78,16-02-87,Mogi Mirim,None,Gręmio,2011,Brazilian
+29,29,Gabriel Spessato,BRA,D,1.80,75,16-07-91,Encantado,None,Gręmio,2011,Brazilian
+30,30,Busatto,BRA,G,1.89,78,23-10-90,Arroio do Tigre,None,Gręmio,2011,Brazilian
+32,32,Pessalli,BRA,M,1.78,70,24-09-90,Bento Gonçalves,None,Gręmio,2011,Brazilian
+33,33,Mithyuê,BRA,M,1.73,74,16-10-89,Chapecó,None,Gręmio,2011,Brazilian
+35,35,Wesley,BRA,F,1.78,70,24-04-90,Sertãozinho,None,Gręmio,2011,Brazilian
+36,36,Dener,BRA,D,1.78,71,28-06-91,Bagé,None,Gręmio,2011,Brazilian
+37,37,Émerson Santos,BRA,M,1.78,73,27-02-92,Feira de Santana,None,Gręmio,2011,Brazilian
+40,40,Renê Santos,BRA,D,1.84,74,21-04-92,Salvador,Bahia,Gręmio,2011,Brazilian
+41,99,André Lima,BRA,F,1.85,84,03-05-85,Rio de Janeiro,Hertha Berlin,Gręmio,2011,Brazilian
+1,,Agenor,BRA,G,1.87,84,11-12-89,Erechim,None,Internacional,2011,Brazilian
+2,,Lauro,BRA,G,1.93,94,09-03-80,Andradina,Cruzeiro,Internacional,2011,Brazilian
+3,,Muriel,BRA,G,1.89,78,14-02-87,Novo Hamburgo,None,Internacional,2011,Brazilian
+4,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Valencia,Internacional,2011,Brazilian
+5,,Bolívar,BRA,D,1.85,75,16-08-80,Santa Cruz,Monaco,Internacional,2011,Brazilian
+6,,Dalton,BRA,D,1.87,79,05-02-90,Rio de Janeiro,Fluminense,Internacional,2011,Brazilian
+7,,Fabricio,BRA,D,1.85,72,11-01-87,São Paulo,Portuguesa,Internacional,2011,Brazilian
+8,,Índio,BRA,D,1.80,79,14-02-75,Maracai,Juventude,Internacional,2011,Brazilian
+9,,Juan Jesus,BRA,D,1.85,76,10-06-91,Belo Horizonte,None,Internacional,2011,Brazilian
+10,,Kléber,BRA,D,1.81,72,01-04-80,São Paulo,Santos,Internacional,2011,Brazilian
+11,,Nei,BRA,D,1.77,75,06-12-85,Bragança Paulista,Atlético Paranaense,Internacional,2011,Brazilian
+12,,Rodrigo,BRA,D,1.82,84,27-08-80,Lençóis Paulista,Dynamo Kyiv,Internacional,2011,Brazilian
+13,,Rodrigo Moledo,BRA,D,1.88,84,27-10-87,Rio de Janeiro,União de Rondonópolis,Internacional,2011,Brazilian
+14,,Romário,BRA,D,1.83,81,28-06-92,Porto Alegre,None,Internacional,2011,Brazilian
+15,,Gonzalo Sorondo,URU,D,1.90,82,09-10-79,Montevideo,Defensor Sporting,Internacional,2011,Brazilian
+16,,Andrezinho,BRA,M,1.78,68,30-07-83,Campinas,Nova Iguaçu,Internacional,2011,Brazilian
+17,,Mario Bolatti,ARG,M,1.90,80,17-02-85,La Para,Fiorentina,Internacional,2011,Brazilian
+18,,Andrés D'Alessandro,ARG,M,1.74,68,15-04-81,La Paternal,San Lorenzo,Internacional,2011,Brazilian
+19,,Elton,BRA,M,1.80,78,17-03-90,Teodoro Sampaio,None,Internacional,2011,Brazilian
+20,,Glaydson,BRA,M,1.78,72,20-06-79,Contagem,São Caetano,Internacional,2011,Brazilian
+21,,Pablo Guiñazú,ARG,M,1.72,71,26-08-78,General Cabrera,Libertad,Internacional,2011,Brazilian
+22,,Ilsinho,BRA,M,1.78,81,12-10-85,São Bernardo do Campo,Desportivo Brasil,Internacional,2011,Brazilian
+23,,João Paulo,BRA,M,1.71,71,08-03-91,Serafina Corrêa,None,Internacional,2011,Brazilian
+24,,Oscar,BRA,M,1.79,66,09-09-91,Americana,São Paulo,Internacional,2011,Brazilian
+25,,Ricardo Goulart,BRA,M,1.78,72,05-05-91,São Paulo,Santo André,Internacional,2011,Brazilian
+26,,Sandro Silva,BRA,M,1.86,76,29-04-84,Rio de Janeiro,Málaga,Internacional,2011,Brazilian
+27,,Tinga,BRA,M,1.70,65,13-01-78,Porto Alegre,Borussia Dortmund,Internacional,2011,Brazilian
+28,,Wilson Mathías,BRA,M,1.86,75,14-09-83,Limeira,Morelia,Internacional,2011,Brazilian
+29,,Zé Márío,BRA,M,1.75,70,20-02-92,Medianeira,None,Internacional,2011,Brazilian
+30,,Zé Roberto,BRA,M,1.70,72,09-12-80,Itumbiara,Vasco da Gama,Internacional,2011,Brazilian
+31,,Alex,BRA,F,1.82,76,20-05-90,Porto Alegre,Fluminense,Internacional,2011,Brazilian
+32,,Guilherme Dellatorre,BRA,F,1.81,76,01-05-92,São José Rio Preto,Desportivo Brasil,Internacional,2011,Brazilian
+33,,Gilberto,BRA,F,1.78,70,05-06-89,Piranhas,Santa Cruz,Internacional,2011,Brazilian
+34,,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Manchester C,Internacional,2011,Brazilian
+35,,Leandro Damião,BRA,F,1.88,81,22-07-89,Jardim Alegre,Atlético Ibirama,Internacional,2011,Brazilian
+36,,Lucas Roggia,BRA,F,1.77,75,21-01-91,Santa María,None,Internacional,2011,Brazilian
+37,,Marquinhos,BRA,F,1.74,69,21-07-90,Selbach,None,Internacional,2011,Brazilian
+38,,Siloé,BRA,F,1.79,72,22-05-90,Juazeiro do Norte,Horizonte,Internacional,2011,Brazilian
+2,2,Cicinho,BRA,D,1.73,63,04-08-86,Jundiaí,Oeste,Palmeiras,2011,Brazilian
+3,3,Henrique,BRA,D,1.85,73,14-10-86,Marechal Cândido Róndon,Barcelona,Palmeiras,2011,Brazilian
+4,4,Thiago Heleno,BRA,D,1.85,84,17-09-88,Sete Lagoas,Deportivo Maldonado,Palmeiras,2011,Brazilian
+6,6,Gabriel Silva,BRA,D,1.79,69,13-05-91,Piracicaba,None,Palmeiras,2011,Brazilian
+7,7,Maikon Leite,BRA,F,1.68,62,03-08-88,Mogi das Cruzes,Santos,Palmeiras,2011,Brazilian
+8,8,Marcio Araújo,BRA,M,1.72,70,11-06-84,São Luiz,Atlético Mineiro,Palmeiras,2011,Brazilian
+9,9,Ricardo Bueno,BRA,F,1.88,70,15-08-87,São Paulo,Atlético Mineiro,Palmeiras,2011,Brazilian
+10,10,Jorge Valdivia,CHI,M,1.73,71,19-10-83,Maracaibo,Al-Ain,Palmeiras,2011,Brazilian
+11,11,Luan,BRA,M,1.84,75,21-09-88,Araras,Toulouse,Palmeiras,2011,Brazilian
+12,12,Marcos,BRA,G,1.93,90,04-08-73,Oriente,None,Palmeiras,2011,Brazilian
+13,13,Rivaldo,BRA,M,1.80,75,25-08-85,Salgadinho,Desportivo Brasil,Palmeiras,2011,Brazilian
+14,14,Paulo Henrique,BRA,D,1.74,66,11-09-89,Ivinhema,Paraná,Palmeiras,2011,Brazilian
+15,15,Maurício Ramos,BRA,D,1.86,80,10-04-85,Piracicaba,Coritiba,Palmeiras,2011,Brazilian
+16,16,João Vitor,BRA,M,1.76,66,01-06-88,Maceió,Deportivo Maldonado,Palmeiras,2011,Brazilian
+17,17,Tinga,BRA,M,1.73,65,12-10-90,Bom Jardim,Ponte Preta,Palmeiras,2011,Brazilian
+18,18,Gerley,BRA,D,1.82,78,11-09-90,Central de Minas,Caxias,Palmeiras,2011,Brazilian
+19,19,Fernandão,BRA,F,1.92,85,27-03-87,Rio de Janeiro,Guarani,Palmeiras,2011,Brazilian
+20,20,Marcos Assunção,BRA,M,1.78,78,25-07-76,Caieiras,Grêmio Prudente,Palmeiras,2011,Brazilian
+21,21,Pedro Carmona,BRA,M,1.76,72,15-04-88,Porto Alegre,Criciúma,Palmeiras,2011,Brazilian
+22,22,Deola,BRA,G,1.88,86,19-04-83,Céu Azul,None,Palmeiras,2011,Brazilian
+23,23,Chico,BRA,M,1.85,83,02-02-87,Pato Branco,Atlético Paranaense,Palmeiras,2011,Brazilian
+25,25,Vinícius,BRA,F,1.80,76,03-08-93,São Paulo,None,Palmeiras,2011,Brazilian
+26,26,Didi,BRA,D,1.84,74,25-05-91,Santos,Paulista,Palmeiras,2011,Brazilian
+27,27,Wellington,BRA,D,1.88,83,30-09-91,Bauru,None,Palmeiras,2011,Brazilian
+28,28,Patrick Vieria,BRA,M,1.82,77,11-01-92,Rio de Janeiro,None,Palmeiras,2011,Brazilian
+29,29,Dinei,BRA,F,1.86,78,11-11-83,São Domingos,Atlético Paranaense,Palmeiras,2011,Brazilian
+30,30,Kléber,BRA,F,1.73,70,12-08-83,Osasco,Cruzeiro,Palmeiras,2011,Brazilian
+34,34,Bruno Oliveira,BRA,D,1.72,68,11-01-93,Pindamonhangaba,None,Palmeiras,2011,Brazilian
+36,36,Leandro Amaro,BRA,D,1.86,83,19-06-86,Campinas,Cruzeiro,Palmeiras,2011,Brazilian
+40,40,Patrik,BRA,F,1.70,62,19-07-90,São Paulo,São Caetano,Palmeiras,2011,Brazilian
+41,46,Raphael Alemão,BRA,G,1.97,93,17-08-88,Piracicaba,Cruzeiro,Palmeiras,2011,Brazilian
+42,47,Fabio,BRA,G,1.96,85,11-05-90,Osasco,None,Palmeiras,2011,Brazilian
+1,,Aranha,BRA,G,1.91,89,17-11-80,Pouso Alegre,Atlético Mineiro,Santos,2011,Brazilian
+2,,Gabriel Gasparotto,BRA,G,1.96,99,09-12-93,Lucélia,None,Santos,2011,Brazilian
+3,,Rafael,BRA,G,1.86,83,20-05-90,Sorocaba,None,Santos,2011,Brazilian
+4,,Vladimir,BRA,G,1.90,84,16-07-89,Ipiaú,None,Santos,2011,Brazilian
+5,,Bruno Aguiar,BRA,D,1.86,80,25-03-86,Amparo,Guarani,Santos,2011,Brazilian
+6,,Bruno Rodrigo,BRA,D,1.84,73,12-04-85,São Paulo,Portuguesa,Santos,2011,Brazilian
+7,,Crystian,BRA,D,1.71,63,10-06-92,Goiânia,None,Santos,2011,Brazilian
+8,,Danilo,BRA,D,1.84,73,15-07-91,Bicas,América Mineiro,Santos,2011,Brazilian
+9,,Durval,BRA,D,1.84,82,11-07-80,Espurito Santo,Sport Recife,Santos,2011,Brazilian
+10,,Éder Lima,BRA,D,1.86,72,05-02-86,São Vicente,Vila Nova,Santos,2011,Brazilian
+11,,Edu Dracena,BRA,D,1.87,80,18-05-81,Dracena,Fenerbahçe,Santos,2011,Brazilian
+12,,Leandro Silva,BRA,D,1.81,76,22-09-88,Sorocaba,Atlético Sorocaba,Santos,2011,Brazilian
+13,,Léo,BRA,D,1.69,64,06-07-75,Campos dos Goytacazes,Benfica,Santos,2011,Brazilian
+14,,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Santo André,Santos,2011,Brazilian
+15,,Vinícius Simon,BRA,D,1.84,74,17-11-86,São Paulo,None,Santos,2011,Brazilian
+16,,Adriano,BRA,M,1.70,65,29-05-87,São Vicente,None,Santos,2011,Brazilian
+17,,Anderson Carvalho,BRA,M,1.76,74,20-05-90,Cubatão,None,Santos,2011,Brazilian
+18,,Arouca,BRA,M,1.69,65,11-08-86,Duas Barras,São Paulo,Santos,2011,Brazilian
+19,,Breitner da Silva,VEN,M,1.70,63,09-11-89,Barcelona [VEN],None,Santos,2011,Brazilian
+20,,Elano,BRA,M,1.74,65,14-06-81,Iracemápolis,Galatasaray,Santos,2011,Brazilian
+21,,Felipe Anderson,BRA,M,1.78,66,15-04-93,Brasília,None,Santos,2011,Brazilian
+22,,Henrique,BRA,M,1.79,72,16-05-85,Londrina,Cruzeiro,Santos,2011,Brazilian
+23,,Ibson,BRA,M,1.77,74,07-11-83,Niterói,Spartak Moscow,Santos,2011,Brazilian
+24,,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,None,Santos,2011,Brazilian
+25,,Rodrigo Possebon,ITA,M,1.84,76,13-02-89,Sapucaia do Sul,Manchester U,Santos,2011,Brazilian
+26,,Alan Kardec,BRA,F,1.85,78,12-01-89,Barra Mansa,Benfica,Santos,2011,Brazilian
+27,,Borges,BRA,F,1.76,75,05-10-80,Salvador,Grêmio,Santos,2011,Brazilian
+28,,Diogo,BRA,F,1.81,82,26-05-87,São Paulo,Olympiakos,Santos,2011,Brazilian
+29,,Neymar,BRA,F,1.74,64,05-02-92,Mogi das Cruzes,None,Santos,2011,Brazilian
+30,,Renan,BRA,F,1.63,64,01-10-91,Marabá,None,Santos,2011,Brazilian
+31,,Wason Rentería,COL,F,1.85,83,04-07-85,Quibdó,Caxias,Santos,2011,Brazilian
+32,,Tiago Alves,BRA,F,1.81,70,12-01-93,São João do Araguaia,None,Santos,2011,Brazilian
+1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,Săo Paulo,2011,Brazilian
+2,2,Jean,BRA,M,1.70,70,24-06-86,Campo Grande,None,Săo Paulo,2011,Brazilian
+4,4,Rhodolfo,BRA,D,1.93,82,11-08-86,Bandeirantes,Atlético Paranaense,Săo Paulo,2011,Brazilian
+5,5,Wellington,BRA,M,1.73,70,28-01-91,São Paulo,None,Săo Paulo,2011,Brazilian
+6,6,Juan,BRA,D,1.67,66,06-02-82,São Paulo,Flamengo,Săo Paulo,2011,Brazilian
+7,7,Lucas,BRA,M,1.72,66,13-08-92,São Paulo,None,Săo Paulo,2011,Brazilian
+8,8,Casemiro,BRA,M,1.84,80,23-02-92,São José dos Campos,None,Săo Paulo,2011,Brazilian
+9,9,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas,Sevilla,Săo Paulo,2011,Brazilian
+10,10,Rivaldo,BRA,M,1.86,73,19-04-72,Paulista,Mogi Mirim,Săo Paulo,2011,Brazilian
+11,11,Marlos,BRA,M,1.74,70,07-06-88,São José dos Pinhais,Rentistas,Săo Paulo,2011,Brazilian
+12,12,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Barueri,Săo Paulo,2011,Brazilian
+13,13,Xandão,BRA,D,1.93,87,23-02-88,Araçatuba,Desportivo Brasil,Săo Paulo,2011,Brazilian
+14,14,Marcelo Cañete,ARG,M,1.79,73,16-04-90,Capital Federal,Boca Juniors,Săo Paulo,2011,Brazilian
+15,15,Denílson,BRA,M,1.78,68,16-02-88,São Paulo,Arsenal,Săo Paulo,2011,Brazilian
+16,16,Cícero,BRA,M,1.80,72,26-08-84,Castelo,Tombense,Săo Paulo,2011,Brazilian
+17,17,Henrique Almeida,BRA,F,1.78,76,27-05-91,Brasília,None,Săo Paulo,2011,Brazilian
+18,18,Rodrigo Caio,BRA,M,1.82,70,17-08-93,Dracena,None,Săo Paulo,2011,Brazilian
+19,19,Willian José,BRA,F,1.86,81,23-11-91,Porto Calvo,Deportivo Maldonado,Săo Paulo,2011,Brazilian
+20,20,Carlinhos Paraíba,BRA,M,1.70,69,03-04-83,Rio Tinto,Coritiba,Săo Paulo,2011,Brazilian
+21,21,João Filipe,BRA,D,1.90,76,11-06-88,Rio de Janeiro,Botafogo,Săo Paulo,2011,Brazilian
+23,23,Iván Piris,PAR,D,1.74,68,10-03-89,Asunción,Deportivo Maldonado,Săo Paulo,2011,Brazilian
+25,25,Dagoberto,BRA,F,1.75,75,22-03-83,Dois Vizinhos,Atlético Paranaense,Săo Paulo,2011,Brazilian
+27,27,Dener,BRA,M,1.85,78,13-03-92,São Bernardo do Campo,None,Săo Paulo,2011,Brazilian
+30,30,Luiz Eduardo,BRA,D,1.84,76,28-04-93,Guaíra,None,Săo Paulo,2011,Brazilian
+32,32,Lucas Mendes,BRA,D,1.74,78,19-02-92,Guariba,None,Săo Paulo,2011,Brazilian
+33,33,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,Săo Paulo,2011,Brazilian
+34,34,Bruno Uvini,BRA,D,1.88,81,03-06-91,São Paulo,None,Săo Paulo,2011,Brazilian
+36,36,João Filipe,BRA,M,1.82,76,19-05-93,São Paulo,None,Săo Paulo,2011,Brazilian
+37,37,Bruno Cantanhede,BRA,F,1.85,71,22-07-93,São Luís,None,Săo Paulo,2011,Brazilian
+38,38,Henrique Miranda,BRA,D,1.79,65,10-05-93,São Bernardo do Campo,None,Săo Paulo,2011,Brazilian
+40,40,Leo,BRA,G,1.93,77,22-09-90,Suzano,None,Săo Paulo,2011,Brazilian
+41,41,Leonardo Navacchio,BRA,G,1.89,77,28-12-92,Placatu,None,Săo Paulo,2011,Brazilian
+1,1,Fernando Prass,BRA,G,1.91,79,09-07-78,Porto Alegre,União de Leiria,Vasco da Gama,2011,Brazilian
+2,2,Jomar,BRA,D,1.85,78,28-09-92,Rio de Janeiro,Tigres do Brasil,Vasco da Gama,2011,Brazilian
+3,3,Cesinha,BRA,D,1.85,75,08-10-86,São José dos Campos,Santo André,Vasco da Gama,2011,Brazilian
+5,5,Nílton,BRA,M,1.84,74,21-04-87,Barra do Garças,Corinthians,Vasco da Gama,2011,Brazilian
+6,6,Felipe,BRA,M,1.75,69,02-09-77,Rio de Janeiro,Al-Sadd,Vasco da Gama,2011,Brazilian
+7,7,Éder Luís,BRA,F,1.70,69,19-04-85,Uberaba,Benfica,Vasco da Gama,2011,Brazilian
+8,8,Juninho Pernambucano,BRA,M,1.78,71,30-01-75,Recife,Al-Gharafa,Vasco da Gama,2011,Brazilian
+9,9,Alecsandro,BRA,F,1.83,80,04-02-81,Bauru,Internacional,Vasco da Gama,2011,Brazilian
+10,10,Diego Souza,BRA,M,1.86,89,17-06-85,Rio de Janeiro,Atlético Mineiro,Vasco da Gama,2011,Brazilian
+12,12,Alessandro,BRA,G,1.91,88,30-03-88,Cascavel,Grêmio,Vasco da Gama,2011,Brazilian
+13,13,Victor Ramos,BRA,D,1.92,76,05-05-89,Salvador,Standard Liège,Vasco da Gama,2011,Brazilian
+14,14,Luan,BRA,D,1.83,79,10-05-93,Vitória,None,Vasco da Gama,2011,Brazilian
+15,15,Jonathan,BRA,F,1.75,63,11-05-91,Rio de Janeiro,Cruzeiro,Vasco da Gama,2011,Brazilian
+16,16,Douglas Bacelar,BRA,D,1.90,84,04-04-90,São Paulo,América de Natal,Vasco da Gama,2011,Brazilian
+17,17,Julinho,BRA,D,1.84,77,05-08-86,São Paulo,Avaí,Vasco da Gama,2011,Brazilian
+18,18,Jumar,BRA,M,1.77,74,28-04-86,Bandeirantes,Desportivo Brasil,Vasco da Gama,2011,Brazilian
+19,19,Leandro,BRA,F,1.73,70,13-08-80,Araras,Grêmio,Vasco da Gama,2011,Brazilian
+21,21,Fellipe Bastos,BRA,M,1.76,76,01-02-90,Rio de Janeiro,Benfica,Vasco da Gama,2011,Brazilian
+22,22,Julio  Irrazábal,PAR,D,1.76,70,25-11-80,San Juan de Panamá,Cerro Porteño,Vasco da Gama,2011,Brazilian
+23,23,Fagner,BRA,D,1.68,67,11-06-89,São Paulo,PSV Eindhoven,Vasco da Gama,2011,Brazilian
+26,26,Dedé,BRA,D,1.93,87,01-07-88,Volta Redonda,Villa Rio,Vasco da Gama,2011,Brazilian
+27,27,Diego Rosa,BRA,M,1.80,73,22-03-89,Campo Grande,Juventude,Vasco da Gama,2011,Brazilian
+28,28,Eduardo Costa,BRA,M,1.84,78,23-09-82,Florianópolis,Monaco,Vasco da Gama,2011,Brazilian
+29,29,Kim,BRA,F,1.78,78,22-06-80,Juiz de Fora,Al-Arabi [QAT],Vasco da Gama,2011,Brazilian
+30,30,Patric,BRA,F,1.89,82,26-10-87,Macapá,Mixto,Vasco da Gama,2011,Brazilian
+31,31,Bernardo,BRA,M,1.77,70,20-05-90,Sorocaba,Cruzeiro,Vasco da Gama,2011,Brazilian
+32,32,Marcio Careca,BRA,D,1.71,65,28-07-78,Duque de Caxias,Barueri,Vasco da Gama,2011,Brazilian
+33,33,Renato Silva,BRA,D,1.80,73,26-07-83,Colinas de Goiás,Shandong Luneng,Vasco da Gama,2011,Brazilian
+35,35,Allan,BRA,M,1.73,73,08-01-91,Rio de Janeiro,Deportivo Maldonado,Vasco da Gama,2011,Brazilian
+36,36,Cestaro,BRA,G,1.92,78,23-01-90,Rio de Janeiro,None,Vasco da Gama,2011,Brazilian
+37,37,Rômulo,BRA,M,1.84,80,19-09-90,Picos,Porto de Caruaru,Vasco da Gama,2011,Brazilian
+39,39,Élton,BRA,F,1.85,84,01-08-85,Iramaia,Olé Brasil,Vasco da Gama,2011,Brazilian
+41,43,Max,BRA,D,1.79,67,28-04-90,São Paulo,Ponte Preta,Vasco da Gama,2011,Brazilian
+42,44,Willian Barbio,BRA,F,1.73,71,22-10-92,Belford Roxo,Nova Iguaçu,Vasco da Gama,2011,Brazilian
+43,45,Leandro  Chaparro,ARG,M,1.73,65,07-01-91,La Tablada,Desportivo Brasil,Vasco da Gama,2011,Brazilian
+44,50,Diogo Silva,BRA,G,1.91,81,08-07-86,Cuiabá,Nova Iguaçu,Vasco da Gama,2011,Brazilian

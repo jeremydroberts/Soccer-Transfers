@@ -1,0 +1,724 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlético Mineiro,2013,Brazilian
+2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlético Mineiro,2013,Brazilian
+3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlético Mineiro,2013,Brazilian
+4,4,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlético Mineiro,2013,Brazilian
+5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlético Mineiro,2013,Brazilian
+6,6,Júnior César,BRA,D,1.66,59,09-04-82,Magé Suruí,Flamengo,Atlético Mineiro,2013,Brazilian
+7,7,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Internacional,Atlético Mineiro,2013,Brazilian
+8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlético Mineiro,2013,Brazilian
+9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Al-Gharafa,Atlético Mineiro,2013,Brazilian
+10,10,Ronaldinho,BRA,M,1.82,80,21-03-80,Porto Alegre,Flamengo,Atlético Mineiro,2013,Brazilian
+11,11,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Al-Jazira,Atlético Mineiro,2013,Brazilian
+14,14,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlético Mineiro,2013,Brazilian
+15,15,Gilberto Silva,BRA,M,1.84,74,07-10-76,Lagoa da Prata,Grêmio,Atlético Mineiro,2013,Brazilian
+17,17,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kyiv,Atlético Mineiro,2013,Brazilian
+19,19,Alecsandro,BRA,F,1.83,80,04-02-81,Bauru,Vasco da Gama,Atlético Mineiro,2013,Brazilian
+20,20,Richarlyson,BRA,M,1.76,72,27-12-82,Rio Grande de Norte,São Paulo,Atlético Mineiro,2013,Brazilian
+21,21,Lelêu,BRA,M,1.71,68,05-03-93,Rio de Janeiro,None,Atlético Mineiro,2013,Brazilian
+23,23,Lee,BRA,G,1.88,86,09-03-88,São Paulo,Vitória,Atlético Mineiro,2013,Brazilian
+25,25,Neto Berola,BRA,F,1.71,66,18-11-87,Itabuna,Vitória,Atlético Mineiro,2013,Brazilian
+26,26,Carlos César,BRA,D,1.72,70,21-04-87,Uberaba,Boa,Atlético Mineiro,2013,Brazilian
+27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlético Mineiro,2013,Brazilian
+28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlético Mineiro,2013,Brazilian
+29,29,Michel,BRA,D,1.76,72,15-02-90,Rio de Janeiro,Almería,Atlético Mineiro,2013,Brazilian
+32,32,Alex Silva,BRA,D,1.81,74,15-05-94,Minas Gerais,None,Atlético Mineiro,2013,Brazilian
+33,33,Elder Santana,BRA,F,1.86,80,07-04-93,Vera Cruz,None,Atlético Mineiro,2013,Brazilian
+34,34,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlético Mineiro,2013,Brazilian
+36,36,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlético Mineiro,2013,Brazilian
+37,37,Yago,BRA,M,1.80,80,07-07-95,Belo Horizonte,None,Atlético Mineiro,2013,Brazilian
+38,38,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlético Mineiro,2013,Brazilian
+39,39,Daniel Abelha,BRA,M,,,04-11-94,Andradina,None,Atlético Mineiro,2013,Brazilian
+40,40,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlético Mineiro,2013,Brazilian
+41,41,Marcelo Bispo,BRA,M,,,14-04-94,,None,Atlético Mineiro,2013,Brazilian
+42,44,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Coritiba,Atlético Mineiro,2013,Brazilian
+43,87,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlético Mineiro,2013,Brazilian
+44,88,Rosinei,BRA,M,1.70,63,03-05-83,Lavrinhas,América,Atlético Mineiro,2013,Brazilian
+45,99,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlético Mineiro,2013,Brazilian
+1,1,Renan Rocha,BRA,G,1.94,90,25-03-87,Piracicaba,None,Atlético Paranaense,2013,Brazilian
+2,2,Jonas,BRA,D,1.81,77,10-02-87,Votuporanga,Vasco da Gama,Atlético Paranaense,2013,Brazilian
+3,3,Manoel,BRA,D,1.79,82,26-02-90,Bacabal,None,Atlético Paranaense,2013,Brazilian
+4,4,Cleberson,BRA,D,1.85,75,17-08-92,Maracatuba,None,Atlético Paranaense,2013,Brazilian
+5,5,Deivid,BRA,M,1.74,69,18-01-89,Londrina,None,Atlético Paranaense,2013,Brazilian
+6,6,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Arsenal,Atlético Paranaense,2013,Brazilian
+7,7,Marcelo Cirino,BRA,F,1.82,74,22-01-92,Maringá,None,Atlético Paranaense,2013,Brazilian
+8,8,João Paulo,BRA,M,1.78,69,22-02-85,Pinhais,Avaí,Atlético Paranaense,2013,Brazilian
+9,9,Ciro,BRA,F,1.75,72,18-04-89,Salgueiro,Deportivo Maldonado,Atlético Paranaense,2013,Brazilian
+11,11,Felipe,BRA,M,1.71,69,28-05-90,Piracicaba,Palmeiras,Atlético Paranaense,2013,Brazilian
+12,12,Weverton,BRA,G,1.89,85,13-12-87,Rio Branco,Portuguesa,Atlético Paranaense,2013,Brazilian
+13,13,Rafael Zuchi,BRA,D,1.88,77,11-06-94,Monte Alto,None,Atlético Paranaense,2013,Brazilian
+14,14,Marcelo Palau,URU,M,1.77,76,01-08-85,Montevideo,Guaraní [PAR],Atlético Paranaense,2013,Brazilian
+15,15,Marcos Antônio,BRA,M,1.82,72,09-11-84,São Paulo,Grêmio,Atlético Paranaense,2013,Brazilian
+17,17,Bruno Silva,BRA,M,1.79,78,03-08-86,Nova Lima,Ponte Preta,Atlético Paranaense,2013,Brazilian
+18,18,Maranhão,BRA,M,1.68,63,03-05-90,São Luis,Cruz Azul,Atlético Paranaense,2013,Brazilian
+20,20,Marcos Guilherme,BRA,M,1.72,62,05-08-95,Itararé,None,Atlético Paranaense,2013,Brazilian
+21,21,Fran Mérida,ESP,M,1.75,70,04-03-90,Barcelona,Hércules,Atlético Paranaense,2013,Brazilian
+22,22,Éverton,BRA,M,1.74,66,11-12-88,Nortelândia,UANL Tigres,Atlético Paranaense,2013,Brazilian
+23,23,Douglas Coutinho,BRA,F,1.83,71,08-02-94,Volta Redonda,None,Atlético Paranaense,2013,Brazilian
+26,26,Bruno Furlan,BRA,F,1.75,74,09-07-92,Campo Grande,None,Atlético Paranaense,2013,Brazilian
+28,28,Juninho,BRA,M,1.73,66,23-10-87,Goiânia,Mogi Mirim,Atlético Paranaense,2013,Brazilian
+30,30,Paulo Baier,BRA,M,1.84,78,25-10-74,Ijuí,Sport Recife,Atlético Paranaense,2013,Brazilian
+31,31,Zezinho,BRA,M,1.74,70,14-03-92,Uruguaiana,Deportivo Maldonado,Atlético Paranaense,2013,Brazilian
+33,33,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlético Paranaense,2013,Brazilian
+35,35,Luiz Alberto,BRA,D,1.86,72,01-12-77,São Gonçalo,Boavista-RJ,Atlético Paranaense,2013,Brazilian
+36,36,Willian Rocha,BRA,D,1.86,81,01-04-89,Jundiaí,Tombense,Atlético Paranaense,2013,Brazilian
+38,38,Rodrigo Biro,BRA,D,1.77,71,18-11-86,Araçatuba,Ponte Preta,Atlético Paranaense,2013,Brazilian
+41,44,Renato Chaves,BRA,D,1.85,85,04-05-90,São Paulo,Corinthians,Atlético Paranaense,2013,Brazilian
+42,49,Guilherme Dellatorre,BRA,F,1.81,76,01-05-92,São José Rio Preto,Desportivo Brasil,Atlético Paranaense,2013,Brazilian
+43,55,Dráusio,BRA,D,1.88,86,21-08-91,Campinas,Paulista,Atlético Paranaense,2013,Brazilian
+44,77,Éderson,BRA,F,1.72,74,13-03-89,Pentecoste,None,Atlético Paranaense,2013,Brazilian
+45,88,Roger,BRA,F,1.84,79,07-01-85,Campinas,Sport Recife,Atlético Paranaense,2013,Brazilian
+46,91,Rodolfo,BRA,G,1.89,85,19-03-91,Santos,Internacional,Atlético Paranaense,2013,Brazilian
+47,99,Léo,BRA,D,1.71,62,03-10-91,Salvador,Vitória,Atlético Paranaense,2013,Brazilian
+1,1,Marcelo Lomba,BRA,G,1.87,80,18-12-86,Rio de Janeiro,Flamengo,Bahia,2013,Brazilian
+2,2,Madson,BRA,D,1.82,67,13-01-92,Salvador,None,Bahia,2013,Brazilian
+3,3,Titi,BRA,D,1.87,83,12-03-88,Pelotas,Internacional,Bahia,2013,Brazilian
+4,4,Lucas Fonseca,BRA,D,1.90,85,02-08-85,Itajúba,Mogi Mirim,Bahia,2013,Brazilian
+6,6,Jussandro,BRA,D,1.76,64,11-03-92,Irecê,None,Bahia,2013,Brazilian
+7,7,Fahel,BRA,M,1.82,77,15-08-81,Teófilo Otoni,Botafogo,Bahia,2013,Brazilian
+8,8,Anderson Talisca,BRA,M,1.88,72,01-02-94,Feira de Santana,None,Bahia,2013,Brazilian
+9,9,Souza,BRA,F,1.88,87,04-03-82,Rio de Janeiro,Corinthians,Bahia,2013,Brazilian
+10,10,Marquinhos,BRA,F,1.74,69,21-07-90,Selbach,Internacional,Bahia,2013,Brazilian
+12,12,Omar,BRA,G,1.95,92,22-08-89,São Paulo,Cruzeiro,Bahia,2013,Brazilian
+13,13,Douglas Pires,BRA,G,1.94,80,30-01-91,Jataí,Cruzeiro,Bahia,2013,Brazilian
+14,14,Neto,BRA,D,1.75,67,07-02-81,São José do Rio Preto,Aris,Bahia,2013,Brazilian
+15,15,Feijão,BRA,M,1.79,75,08-04-94,Salvador,None,Bahia,2013,Brazilian
+16,16,Raul,BRA,D,1.69,74,09-11-85,Poço Verde,Vitória da Conquista,Bahia,2013,Brazilian
+17,17,Diones,BRA,M,1.78,76,21-06-85,Timbiras,Bahia de Feira,Bahia,2013,Brazilian
+19,19,Juan Camilo Angulo,COL,D,1.80,75,26-09-88,Bogotá,Cúcuta Deportivo,Bahia,2013,Brazilian
+20,20,Fernandão,BRA,F,1.92,85,27-03-87,Rio de Janeiro,Atlético Paranaense,Bahia,2013,Brazilian
+21,21,Toró,BRA,M,1.69,72,13-04-86,Rio de Janeiro,Atlético Mineiro,Bahia,2013,Brazilian
+22,22,Italo Melo,BRA,F,1.76,71,25-05-93,Salvador,None,Bahia,2013,Brazilian
+23,23,Freddy Adu,USA,F,1.73,70,02-06-89,Tema,Philadelphia Union,Bahia,2013,Brazilian
+25,25,Rafael Donato,BRA,D,1.93,90,17-03-89,Rio de Janeiro,Cruzeiro,Bahia,2013,Brazilian
+26,26,Diego,BRA,D,1.85,80,28-06-90,Pedro Leopoldo,Itabuna,Bahia,2013,Brazilian
+27,27,Obina,BRA,F,1.83,86,31-01-83,Vera Cruz,Shandong Luneng,Bahia,2013,Brazilian
+28,28,Anderson Mello,BRA,M,1.73,63,21-05-93,Maceió,None,Bahia,2013,Brazilian
+29,29,Demerson,BRA,D,1.84,81,16-03-86,Belo Horizonte,Coritiba,Bahia,2013,Brazilian
+30,30,Hélder,BRA,M,1.79,82,20-06-84,Floriano,Votoraty,Bahia,2013,Brazilian
+32,32,Fabrício,BRA,M,1.75,70,11-03-92,Caxias do Sul,Juventude,Bahia,2013,Brazilian
+37,37,Wallyson,BRA,F,1.78,65,17-10-88,Natal,Deportivo Maldonado,Bahia,2013,Brazilian
+38,38,Willian Barbio,BRA,F,1.73,71,22-10-92,Belford Roxo,Vasco da Gama,Bahia,2013,Brazilian
+39,39,Erick Daltro,BRA,D,1.80,78,17-01-93,Salvador,Olaria,Bahia,2013,Brazilian
+40,40,Wangler,BRA,M,1.70,74,18-08-92,Tapera,Grêmio,Bahia,2013,Brazilian
+41,55,Rafael Miranda,BRA,M,1.78,75,11-08-84,Belo Horizonte,Marítimo,Bahia,2013,Brazilian
+1,1,Jefferson,BRA,G,1.87,82,02-01-83,São Vicente,Konyaspor,Botafogo,2013,Brazilian
+2,2,Lucas,BRA,D,1.73,67,26-03-88,Passos,Tombense,Botafogo,2013,Brazilian
+4,4,Bolívar,BRA,D,1.85,75,16-08-80,Santa Cruz,Internacional,Botafogo,2013,Brazilian
+5,5,Marcelo Mattos,BRA,M,1.79,71,10-02-84,Indiaporã,Panathinaikos,Botafogo,2013,Brazilian
+6,6,Dankler,BRA,D,1.87,80,24-01-92,Salvador,Vitória,Botafogo,2013,Brazilian
+8,8,Renato,BRA,M,1.77,71,15-05-79,Santa Mercedes,Sevilla,Botafogo,2013,Brazilian
+9,9,Henrique Almeida,BRA,F,1.78,76,27-05-91,Brasília,São Paulo,Botafogo,2013,Brazilian
+10,10,Clarence Seedorf,NED,M,1.76,76,01-04-76,Paramaribo,Milan,Botafogo,2013,Brazilian
+12,12,Milton Raphael,BRA,G,1.87,80,11-06-91,Volta Redonda,Volta Redonda,Botafogo,2013,Brazilian
+13,13,Gilberto,BRA,D,1.81,68,07-03-93,Rio de Janeiro,None,Botafogo,2013,Brazilian
+14,14,Nicolás Lodeiro,URU,M,1.70,69,18-12-89,Paysandú,Ajax,Botafogo,2013,Brazilian
+15,15,Gabriel,BRA,M,1.72,69,10-07-92,Campinas,None,Botafogo,2013,Brazilian
+16,16,Lima,BRA,D,1.78,72,10-10-91,Estação,Internacional,Botafogo,2013,Brazilian
+17,17,Hyuri,BRA,F,1.84,75,26-09-91,Rio de Janeiro,Audax Rio,Botafogo,2013,Brazilian
+18,18,Alex,BRA,F,1.79,71,21-08-90,São Gonçalo,CFZ,Botafogo,2013,Brazilian
+19,19,André Bahia,BRA,D,1.82,75,24-11-83,Rio de Janeiro,Samsunspor,Botafogo,2013,Brazilian
+20,20,Rafael Marques,BRA,M,1.90,80,27-05-83,Araraquara,Omiya Ardija,Botafogo,2013,Brazilian
+21,21,Dória,BRA,D,1.88,82,08-11-94,São Gonçalo,None,Botafogo,2013,Brazilian
+22,22,Renan,BRA,G,1.89,87,18-05-89,Rio de Janeiro,None,Botafogo,2013,Brazilian
+23,23,Rodrigo Defendi,BRA,D,1.93,83,16-06-86,Ribeirão Preto,Vitória Guimarães,Botafogo,2013,Brazilian
+25,25,Lucas Zen,BRA,D,1.83,74,17-06-91,Rio de Janeiro,None,Botafogo,2013,Brazilian
+26,26,Júlio César,BRA,D,1.73,70,15-06-82,São Paulo,Grêmio,Botafogo,2013,Brazilian
+27,27,Cidinho,BRA,M,1.69,57,28-01-93,Rio de Janeiro,None,Botafogo,2013,Brazilian
+28,28,Fabiano,BRA,M,1.74,66,02-02-92,Rio de Janeiro,None,Botafogo,2013,Brazilian
+29,29,Sassá,BRA,F,1.74,73,11-01-94,Rio de Janeiro,None,Botafogo,2013,Brazilian
+30,30,Jéferson,BRA,M,1.73,76,27-03-92,Piracicaba,None,Botafogo,2013,Brazilian
+31,31,Daniel,BRA,M,1.72,66,22-01-94,Juiz de Fora,Cruzeiro,Botafogo,2013,Brazilian
+32,32,Andrey,BRA,G,1.90,82,17-07-93,Rio de Janeiro,None,Botafogo,2013,Brazilian
+33,33,Edílson,BRA,D,1.77,78,27-07-86,Nova Esperança,Grêmio,Botafogo,2013,Brazilian
+34,34,Gegê,BRA,M,1.75,70,28-01-94,Mombaça,None,Botafogo,2013,Brazilian
+35,35,Dedé,BRA,M,1.64,67,12-01-94,Rio de Janeiro,None,Botafogo,2013,Brazilian
+37,37,Octávio,BRA,M,1.86,77,29-12-93,Rio de Janeiro,None,Botafogo,2013,Brazilian
+38,38,Bruno Mendes,BRA,F,1.84,76,02-08-94,Cruzeiro,Macaé,Botafogo,2013,Brazilian
+39,39,Elias,BRA,F,1.82,78,13-02-87,Campos,Resende,Botafogo,2013,Brazilian
+1,1,Júlio César,BRA,G,1.86,78,27-10-84,São Paulo,None,Corinthians,2013,Brazilian
+2,2,Alessandro,BRA,D,1.79,77,10-01-79,Assis Chateaubriand,Santos,Corinthians,2013,Brazilian
+3,3,Cléber,BRA,D,1.83,87,12-05-90,São Francisco do Conde,Ponte Preta,Corinthians,2013,Brazilian
+4,4,Gil,BRA,D,1.90,89,12-06-87,Campos dos Goytacazes,Valenciennes,Corinthians,2013,Brazilian
+5,5,Ralf,BRA,M,1.80,73,09-06-84,São Paulo,Barueri,Corinthians,2013,Brazilian
+6,6,Fábio Santos,BRA,D,1.79,75,16-09-85,São Paulo,Grêmio,Corinthians,2013,Brazilian
+7,7,Alexandre Pato,BRA,F,1.79,71,02-09-89,Pato Branco,Milan,Corinthians,2013,Brazilian
+8,8,Renato Augusto,BRA,M,1.85,81,08-02-88,Rio de Janeiro,Bayer Leverkusen,Corinthians,2013,Brazilian
+9,9,José Paolo Guerrero,PER,F,1.84,72,01-01-84,Lima,Hamburg,Corinthians,2013,Brazilian
+10,10,Douglas,BRA,M,1.75,66,18-02-82,Criciúma,Grêmio,Corinthians,2013,Brazilian
+11,11,Emerson,BRA,F,1.71,69,06-12-78,Nova Iguaçu,Fluminense,Corinthians,2013,Brazilian
+12,12,Cássio,BRA,G,1.95,92,06-06-87,Veranópolis,PSV Eindhoven,Corinthians,2013,Brazilian
+13,13,Paulo André,BRA,D,1.88,82,20-08-83,Campinas,Le Mans,Corinthians,2013,Brazilian
+14,14,Claudio Maldonado,CHI,M,1.74,74,03-01-80,Curió,Rentistas,Corinthians,2013,Brazilian
+15,15,Guilherme,BRA,D,1.80,75,31-01-89,Montes Claros,Ponte Preta,Corinthians,2013,Brazilian
+16,16,Igor,BRA,D,1.83,78,06-06-92,São Paulo,None,Corinthians,2013,Brazilian
+17,17,Rodriguinho,BRA,M,1.80,73,27-03-88,Natal,Coimbra,Corinthians,2013,Brazilian
+18,18,Ibson,BRA,M,1.77,74,07-11-83,Niterói,Flamengo,Corinthians,2013,Brazilian
+19,19,Guilherme,BRA,M,1.78,78,05-04-91,Santo André,Portuguesa,Corinthians,2013,Brazilian
+20,20,Danilo,BRA,M,1.86,84,11-06-79,São Gotardo,Kashima Antlers,Corinthians,2013,Brazilian
+21,21,Edenílson,BRA,M,1.75,64,19-12-89,Porto Alegre,Caxias,Corinthians,2013,Brazilian
+22,22,Danilo Fernandes,BRA,G,1.89,84,03-04-88,Guarulhos,None,Corinthians,2013,Brazilian
+23,23,Diego Macedo,BRA,D,1.73,61,08-05-87,Americana,Coimbra,Corinthians,2013,Brazilian
+25,25,Léo,BRA,F,1.77,68,25-03-95,Osasco,None,Corinthians,2013,Brazilian
+26,26,Antonio Carlos,BRA,D,1.91,74,07-03-93,Rio de Janeiro,None,Corinthians,2013,Brazilian
+27,27,Walter,BRA,G,1.88,82,18-11-87,Jaú,União Barbarense,Corinthians,2013,Brazilian
+28,28,Felipe,BRA,D,1.85,77,16-05-89,Mogi das Cruzes,Coimbra,Corinthians,2013,Brazilian
+29,29,Douglas Tanque,BRA,F,1.88,94,27-10-93,Santa Cruz do Rio Pardo,Guarani,Corinthians,2013,Brazilian
+30,30,Paulo Victor,BRA,F,1.77,74,29-05-93,São Paulo,None,Corinthians,2013,Brazilian
+31,31,Romarinho,BRA,F,1.74,72,12-12-90,Palestina,Bragantino,Corinthians,2013,Brazilian
+32,32,Jocinei,BRA,M,1.82,87,04-02-90,Rodeio,Coimbra,Corinthians,2013,Brazilian
+35,35,Chen Zhizhao,CHN,M,1.70,61,14-03-88,Guangzhou,Shanghai Shenxin,Corinthians,2013,Brazilian
+1,1,Vanderlei,BRA,G,1.95,86,01-02-84,Porecatu,Paranavaí,Coritiba,2013,Brazilian
+2,2,Victor Ferraz,BRA,D,1.74,74,14-01-88,João Pessoa,Bragantino,Coritiba,2013,Brazilian
+3,3,Cleiton,BRA,D,1.87,76,11-07-81,Porto Alegre,Roma-PR,Coritiba,2013,Brazilian
+5,5,Willian Farias,BRA,M,1.76,75,06-06-89,Curitiba,None,Coritiba,2013,Brazilian
+6,6,Raúl Iberbia,ARG,D,1.75,75,25-12-89,Carmen de Areco,Estudiantes (LP),Coritiba,2013,Brazilian
+7,7,Vítor Júnior,BRA,M,1.67,63,15-09-86,Porto Alegre,Corinthians,Coritiba,2013,Brazilian
+8,8,Gil,BRA,M,1.68,66,09-03-87,Santo Antônio,Santo André,Coritiba,2013,Brazilian
+9,9,Deivid,BRA,F,1.80,73,22-10-79,Nova Iguaça,Flamengo,Coritiba,2013,Brazilian
+10,10,Alex,BRA,M,1.75,73,14-09-77,Curitiba,Fenerbahçe,Coritiba,2013,Brazilian
+11,11,Júlio César,BRA,F,1.76,75,26-02-80,Itaguai,Figueirense,Coritiba,2013,Brazilian
+12,12,Vaná,BRA,G,1.94,80,25-04-91,Planaltina,None,Coritiba,2013,Brazilian
+13,13,Bill,BRA,F,1.83,86,02-07-84,Rio de Janeiro,Al-Ittihad [KSA],Coritiba,2013,Brazilian
+14,14,Eltinho,BRA,D,1.71,66,07-07-87,Guaira,Avaí,Coritiba,2013,Brazilian
+15,15,Marcos Paulo,BRA,M,1.84,72,04-02-90,Florianópolis,Avaí,Coritiba,2013,Brazilian
+16,16,Abner,BRA,D,1.71,70,30-05-96,Londrina,None,Coritiba,2013,Brazilian
+17,17,Dudu,BRA,M,1.74,72,12-05-91,Curitiba,None,Coritiba,2013,Brazilian
+18,18,Darío Bottinelli,ARG,M,1.68,67,26-02-86,Capital Federal,Flamengo,Coritiba,2013,Brazilian
+19,19,Keirrison,BRA,F,1.81,63,03-12-88,Dourados,Barcelona,Coritiba,2013,Brazilian
+20,20,Robinho,BRA,M,1.70,67,10-11-87,Marialva,Avaí,Coritiba,2013,Brazilian
+21,21,Luccas Claro,BRA,D,1.82,83,20-10-91,Ribeirão Preto,None,Coritiba,2013,Brazilian
+22,22,Sergio Escudero,ARG,M,1.95,82,12-04-83,Punta Alta,Argentinos Juniors,Coritiba,2013,Brazilian
+23,23,Júnior Urso,BRA,M,1.82,82,10-03-89,Taboão da Serra,Avaí,Coritiba,2013,Brazilian
+25,25,Chico,BRA,M,1.85,83,02-02-87,Pato Branco,Palmeiras,Coritiba,2013,Brazilian
+26,26,Rafhael Lucas,BRA,F,1.74,71,30-11-92,Curitiba,None,Coritiba,2013,Brazilian
+27,27,Maykon,BRA,F,1.82,68,10-03-92,Vassouras,Operário,Coritiba,2013,Brazilian
+28,28,Émerson Santos,BRA,M,1.78,73,27-02-92,Feira de Santana,Grêmio,Coritiba,2013,Brazilian
+29,29,Jânio,BRA,F,1.74,73,03-07-91,Parnaíba,Ferroviário,Coritiba,2013,Brazilian
+30,30,Carlinhos,BRA,D,1.67,71,29-11-86,Piripiri,Icasa,Coritiba,2013,Brazilian
+31,31,Anderson Aquino,BRA,F,1.74,70,18-12-86,Foz do Iguaçu,Atlético Paranaense,Coritiba,2013,Brazilian
+32,32,Jackson,BRA,D,1.82,85,11-05-90,Porto Alegre,Boa,Coritiba,2013,Brazilian
+33,33,Bartola,BRA,F,1.67,63,19-05-94,Santa Maria do Pará,None,Coritiba,2013,Brazilian
+34,34,Bonfim,BRA,D,1.88,81,24-07-91,Salvador,None,Coritiba,2013,Brazilian
+35,35,Sérgio Manoel,BRA,M,1.77,82,08-09-89,Xique-Xique,Mirassol,Coritiba,2013,Brazilian
+36,36,Diogo Barbosa,BRA,D,1.79,70,17-08-92,Terra Nova do Norte,Coimbra,Coritiba,2013,Brazilian
+37,37,Zé Rafael,BRA,M,1.75,71,16-06-93,Ponta Grossa,None,Coritiba,2013,Brazilian
+38,38,Samuel,BRA,G,1.88,80,29-03-94,Teixeira de Freitas,None,Coritiba,2013,Brazilian
+39,39,Rafael Martins,BRA,G,1.90,79,29-11-91,Pariquera-Açu,None,Coritiba,2013,Brazilian
+41,43,Luizinho,BRA,M,1.66,62,04-05-92,Curitiba,None,Coritiba,2013,Brazilian
+42,44,Leandro Almeida,BRA,D,1.88,83,14-03-87,Belo Horizonte,Dynamo Kyiv,Coritiba,2013,Brazilian
+43,45,Geraldo,ANG,M,1.68,63,23-11-91,Luanda,Andraus,Coritiba,2013,Brazilian
+44,46,Vinícius,BRA,M,1.77,75,15-04-91,Curitiba,Paraná,Coritiba,2013,Brazilian
+45,48,Germano,BRA,M,1.76,74,21-03-81,Toledo,Londrina,Coritiba,2013,Brazilian
+46,55,Bruno Fuso,BRA,G,1.94,83,30-01-88,Limeira,Ponte Preta,Coritiba,2013,Brazilian
+47,66,Thiago Primão,BRA,M,1.63,71,11-02-93,Curitiba,None,Coritiba,2013,Brazilian
+48,87,Uelliton,BRA,M,1.72,74,28-08-87,Monte Santo,Cruzeiro,Coritiba,2013,Brazilian
+49,99,Lincoln,BRA,M,1.77,71,22-01-79,Belo Horizonte,Palmeiras,Coritiba,2013,Brazilian
+1,,Bruno Brigido,BRA,G,1.87,76,09-03-91,Criciúma,None,Criciъma,2013,Brazilian
+2,,Darley,BRA,G,1.87,75,15-12-89,Pedro Leopoldo,Feyenoord,Criciъma,2013,Brazilian
+3,,Galatto,BRA,G,1.91,88,10-04-83,Porto Alegre,CRB,Criciъma,2013,Brazilian
+4,,Helton Leite,BRA,G,1.96,92,02-11-90,Belo Horizonte,Betim,Criciъma,2013,Brazilian
+5,,Renan,BRA,G,1.92,88,28-12-92,Braço do Norte,None,Criciъma,2013,Brazilian
+6,,Diego Hoffmann,BRA,D,1.82,70,04-02-93,Santa Terezinha do Itaipú,Caxias,Criciъma,2013,Brazilian
+7,,Diego Renan,BRA,D,1.72,71,26-01-90,Surubim,Cruzeiro,Criciъma,2013,Brazilian
+8,,Ezequiel,BRA,D,1.79,71,22-02-93,Treze de Mario,Sporting Braga B,Criciъma,2013,Brazilian
+9,,Ewerton Páscoa,BRA,D,1.90,78,14-03-89,São Paulo,Audax-SP,Criciъma,2013,Brazilian
+10,,Fábio Ferreira,BRA,D,1.88,82,04-10-84,Campina Grande,Botafogo,Criciъma,2013,Brazilian
+11,,Gilson,BRA,D,1.78,70,14-05-86,Campo Grande,Cruzeiro,Criciъma,2013,Brazilian
+12,,Leonardo,BRA,D,1.88,72,09-03-86,Guarulhos,Atlético Goianiense,Criciъma,2013,Brazilian
+13,,Marlon,BRA,D,1.82,83,14-09-85,Belém,Novo Hamburgo,Criciъma,2013,Brazilian
+14,,Matheus Ferraz,BRA,D,1.90,82,12-02-85,São José do Rio Pardo,Mirassol,Criciъma,2013,Brazilian
+15,,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Paços de Ferreira,Criciъma,2013,Brazilian
+16,,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão,Rayo Vallecano,Criciъma,2013,Brazilian
+17,,Tony,BRA,D,1.77,74,04-08-89,Maraial,Grêmio,Criciъma,2013,Brazilian
+18,,Amaral,BRA,M,1.75,71,27-11-83,Mogi Mirim,Cruzeiro,Criciъma,2013,Brazilian
+19,,André Gava,BRA,M,1.74,73,08-06-92,Nova Veneza,None,Criciъma,2013,Brazilian
+20,,Bruno Renan,BRA,M,1.76,71,19-04-91,Porto Alegre,Shakhtar Donetsk,Criciъma,2013,Brazilian
+21,,Cassiano,BRA,M,1.84,75,16-06-89,Porto Alegre,Internacional,Criciъma,2013,Brazilian
+22,,Crispim,BRA,M,,,08-04-91,,None,Criciъma,2013,Brazilian
+23,,Daniel Carvalho,BRA,M,1.78,79,01-03-83,Porto Alegre,Palmeiras,Criciъma,2013,Brazilian
+24,,Elton,BRA,M,1.80,78,17-03-90,Teodoro Sampaio,Internacional,Criciъma,2013,Brazilian
+25,,Henik,BRA,M,1.81,80,08-09-89,Astorga,None,Criciъma,2013,Brazilian
+26,,Ivo,BRA,M,1.78,66,02-10-86,Palmitinho,Incheon U,Criciъma,2013,Brazilian
+27,,João Vitor,BRA,M,1.76,66,01-06-88,Maceió,Deportivo Maldonado,Criciъma,2013,Brazilian
+28,,Leandro Brasília,BRA,M,1.70,69,21-01-87,Gama,Linense,Criciъma,2013,Brazilian
+29,,Morais,BRA,M,1.70,64,17-07-84,Maceió,Atlético Mineiro,Criciъma,2013,Brazilian
+30,,Ricardinho,BRA,M,1.74,69,10-06-85,Votuporanga,Joinville,Criciъma,2013,Brazilian
+31,,Serginho Mineiro,BRA,M,1.78,70,04-08-86,Contagem,Atlético Mineiro,Criciъma,2013,Brazilian
+32,,Tiago Dutra,BRA,M,1.75,76,17-09-90,Gravataí,Villarreal B,Criciъma,2013,Brazilian
+33,,Bruno Lopes,BRA,F,1.75,76,19-05-95,Londrina,None,Criciъma,2013,Brazilian
+34,,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,Sporting Braga,Criciъma,2013,Brazilian
+35,,Fabinho,BRA,F,1.63,57,07-09-83,Recife,Cruzeiro,Criciъma,2013,Brazilian
+36,,Lins,BRA,F,1.72,69,11-09-87,Camaçari,Guaratinguetá,Criciъma,2013,Brazilian
+37,,Marcel,BRA,F,1.87,87,12-11-81,Mirassol,Mirassol,Criciъma,2013,Brazilian
+38,,Weldon,BRA,F,1.83,77,06-08-80,Santo André,CFR Cluj,Criciъma,2013,Brazilian
+39,,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo,Cruzeiro,Criciъma,2013,Brazilian
+1,1,Fábio,BRA,G,1.90,93,30-09-80,Nobres,Vasco da Gama,Cruzeiro,2013,Brazilian
+2,2,Ceará,BRA,D,1.75,75,16-06-80,Crato,Paris St-Germain,Cruzeiro,2013,Brazilian
+3,3,Léo,BRA,D,1.84,81,30-01-88,Belo Horizonte,Palmeiras,Cruzeiro,2013,Brazilian
+4,4,Mauricio Victorino,URU,D,1.80,78,11-10-82,Montevideo,Universidad de Chile,Cruzeiro,2013,Brazilian
+6,6,Egídio,BRA,D,1.75,69,16-06-86,Rio de Janerio,Flamengo,Cruzeiro,2013,Brazilian
+7,7,Tinga,BRA,M,1.70,65,13-01-78,Porto Alegre,Internacional,Cruzeiro,2013,Brazilian
+8,8,Henrique,BRA,M,1.79,72,16-05-85,Londrina,Santos,Cruzeiro,2013,Brazilian
+9,9,Borges,BRA,F,1.76,75,05-10-80,Salvador,Santos,Cruzeiro,2013,Brazilian
+10,10,Júlio Baptista,BRA,M,1.83,72,01-10-81,São Paulo,Málaga,Cruzeiro,2013,Brazilian
+11,11,Dagoberto,BRA,F,1.75,75,22-03-83,Dois Vizinhos,Internacional,Cruzeiro,2013,Brazilian
+12,12,Rafael,BRA,G,1.92,81,23-06-89,Coronel Fabriciano,None,Cruzeiro,2013,Brazilian
+16,16,Lucas Silva,BRA,M,1.75,70,16-02-93,Bom Jesus de Goiás,None,Cruzeiro,2013,Brazilian
+17,17,Éverton Ribeiro,BRA,M,1.74,69,10-04-89,Arujá,Coritiba,Cruzeiro,2013,Brazilian
+18,18,Wallace,BRA,D,1.91,78,14-10-94,Rio de Janeiro,None,Cruzeiro,2013,Brazilian
+19,19,Nílton,BRA,M,1.84,74,21-04-87,Barra do Garças,Vasco da Gama,Cruzeiro,2013,Brazilian
+20,20,Alejandro Martinuccio,ARG,F,1.73,72,16-12-87,Capital Federal,Fluminense,Cruzeiro,2013,Brazilian
+21,21,Lucca,BRA,F,1.78,70,14-02-90,Alto Parnaíba,Criciúma,Cruzeiro,2013,Brazilian
+22,22,Elisson,BRA,G,1.87,85,26-03-87,Belo Horizonte,Nacional [POR],Cruzeiro,2013,Brazilian
+23,23,Éverton,BRA,M,1.71,65,08-08-84,Maranguape,Fluminense,Cruzeiro,2013,Brazilian
+26,26,Dedé,BRA,D,1.93,87,01-07-88,Volta Redonda,Vasco da Gama,Cruzeiro,2013,Brazilian
+27,27,Élber,BRA,M,1.70,63,27-05-92,Passo de Camaragibe,None,Cruzeiro,2013,Brazilian
+30,30,Vinícius Araújo,BRA,F,1.76,76,22-02-93,João Monlevade,None,Cruzeiro,2013,Brazilian
+31,31,Ricardo Goulart,BRA,M,1.78,72,05-05-91,São Paulo,Coimbra,Cruzeiro,2013,Brazilian
+32,32,Mayke,BRA,D,1.78,68,10-11-92,Carangola,None,Cruzeiro,2013,Brazilian
+33,33,Bruno Rodrigo,BRA,D,1.84,73,12-04-85,São Paulo,Monte Azul,Cruzeiro,2013,Brazilian
+37,37,Igor,BRA,G,1.88,88,31-05-93,Fortaleza,None,Cruzeiro,2013,Brazilian
+40,40,Alisson,BRA,M,1.74,73,25-06-93,Rio Pomba,None,Cruzeiro,2013,Brazilian
+41,41,Willian,BRA,F,1.71,78,19-11-86,Três Fronteiras,Metalist Kharkiv,Cruzeiro,2013,Brazilian
+42,47,Georgemy,BRA,G,1.95,89,15-08-95,Americana,None,Cruzeiro,2013,Brazilian
+43,55,Leandro Guerreiro,BRA,M,1.82,68,17-11-78,São Borja,Botafogo,Cruzeiro,2013,Brazilian
+44,78,Souza,BRA,M,1.75,71,08-03-88,Brasília,Palmeiras,Cruzeiro,2013,Brazilian
+45,86,Paulão,BRA,D,1.87,82,25-02-86,Bahia,Guangzhou Evergrande,Cruzeiro,2013,Brazilian
+46,88,Luan,BRA,M,1.84,75,21-09-88,Araras,Palmeiras,Cruzeiro,2013,Brazilian
+47,99,Anselmo Ramon,BRA,F,1.82,79,23-06-88,Camacari,Bahia,Cruzeiro,2013,Brazilian
+1,1,Felipe,BRA,G,1.90,86,22-02-84,Rio de Janeiro,Olé Brasil,Flamengo,2013,Brazilian
+2,2,Léonardo Moura,BRA,D,1.76,65,23-10-78,Niterói,Sporting Braga,Flamengo,2013,Brazilian
+3,3,Chicão,BRA,D,1.81,81,03-06-81,Mogi Guaçu,Corinthians,Flamengo,2013,Brazilian
+4,4,Marcos González,CHI,D,1.89,85,09-06-80,Rio de Janeiro,Universidad de Chile,Flamengo,2013,Brazilian
+5,5,Víctor Cáceres,PAR,M,1.82,77,25-03-85,Asunción,Libertad,Flamengo,2013,Brazilian
+7,7,Rafinha,BRA,F,1.64,55,01-04-93,Porto Franco,None,Flamengo,2013,Brazilian
+8,8,Elias,BRA,M,1.73,64,16-05-85,São Paulo,Sporting CP,Flamengo,2013,Brazilian
+9,9,Hernane,BRA,F,1.83,80,04-08-86,Bom Jesus da Lapa,Mogi Mirim,Flamengo,2013,Brazilian
+10,10,Gabriel,BRA,F,1.78,64,06-01-90,Salvador,Bahia,Flamengo,2013,Brazilian
+14,14,Wallace,BRA,D,1.83,76,26-12-87,Conceição do Coité,Corinthians,Flamengo,2013,Brazilian
+15,15,Luiz Antônio,BRA,M,1.84,73,11-03-91,Rio de Janeiro,None,Flamengo,2013,Brazilian
+16,16,João Paulo,BRA,D,1.73,72,01-07-86,Belo Horizonte,Desportivo Brasil,Flamengo,2013,Brazilian
+17,17,Adryan,BRA,M,1.69,64,08-10-94,Rio de Janeiro,None,Flamengo,2013,Brazilian
+18,18,Rodolfo,BRA,M,1.73,68,03-05-93,Mesquita,Madureira,Flamengo,2013,Brazilian
+19,19,Marcelo Martins Moreno,BOL,F,1.87,82,18-06-87,Santa Cruz de la Sierra,Grêmio,Flamengo,2013,Brazilian
+20,20,Carlos Eduardo,BRA,M,1.71,68,18-07-87,Ajuricaba,Rubin Kazan,Flamengo,2013,Brazilian
+23,23,Mattheus,BRA,M,1.82,70,07-07-94,Rio de Janeiro,None,Flamengo,2013,Brazilian
+25,25,Luan Polli,BRA,G,1.87,86,06-04-93,Meleiro,Figueirense,Flamengo,2013,Brazilian
+26,26,Paulinho,BRA,F,1.77,63,14-06-88,Guarulhos,XV de Piracicaba,Flamengo,2013,Brazilian
+27,27,André Santos,BRA,D,1.79,76,08-03-83,São Paulo,Arsenal,Flamengo,2013,Brazilian
+28,28,Bruninho,BRA,F,1.67,70,25-02-90,Sorocaba,Atlético Sorocaba,Flamengo,2013,Brazilian
+29,29,Nixon,BRA,F,1.76,62,20-07-92,Bahia,Porto-PE,Flamengo,2013,Brazilian
+30,30,Val,BRA,M,1.80,74,22-08-83,Natal,Mogi Mirim,Flamengo,2013,Brazilian
+32,32,Fernandinho,BRA,F,1.69,64,16-03-93,Limeira,Atlético Sorocaba,Flamengo,2013,Brazilian
+33,33,Samir,BRA,D,1.88,80,05-12-94,Rio de Janeiro,Audax Rio,Flamengo,2013,Brazilian
+34,34,Digão,BRA,D,1.77,78,12-03-93,Rio de Janeiro,None,Flamengo,2013,Brazilian
+35,35,Diego Silva,BRA,M,1.78,71,09-05-89,Bento de Abreu,XV de Piracicaba,Flamengo,2013,Brazilian
+36,36,Rodrigo Frauches,BRA,D,1.85,77,28-09-92,São João de Meriti,None,Flamengo,2013,Brazilian
+37,37,César,BRA,G,1.94,78,27-01-92,Rio de Janeiro,Sendas Pão de Açúcar,Flamengo,2013,Brazilian
+38,38,Welinton,BRA,D,1.87,83,10-04-89,Rio de Janeiro,None,Flamengo,2013,Brazilian
+40,40,Amaral,BRA,M,1.74,80,01-05-88,Rio das Ostras,Nova Iguaçu,Flamengo,2013,Brazilian
+41,48,Paulo Victor,BRA,G,1.87,76,12-01-87,Assis,América-RJ,Flamengo,2013,Brazilian
+2,2,Bruno Vieira,BRA,D,1.78,69,30-08-85,Mato Grosso,Tombense,Fluminense,2013,Brazilian
+3,3,Gum,BRA,D,1.89,86,04-01-86,São Paulo,Ponte Preta,Fluminense,2013,Brazilian
+4,4,Leandro Euzébio,BRA,D,1.87,83,18-08-81,Cabo Frio,Cruzeiro,Fluminense,2013,Brazilian
+5,5,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Palmeiras,Fluminense,2013,Brazilian
+6,6,Carlinhos,BRA,D,1.76,72,23-01-87,Vitória da Conquista,Santo André,Fluminense,2013,Brazilian
+7,7,Jean,BRA,M,1.70,70,24-06-86,Campo Grande,São Paulo,Fluminense,2013,Brazilian
+8,8,Diguinho,BRA,M,1.71,69,20-03-83,Canoas,Botafogo,Fluminense,2013,Brazilian
+9,9,Fred,BRA,F,1.85,84,03-10-83,Téofilo Otoni,Lyon,Fluminense,2013,Brazilian
+12,12,Diego Cavalieri,BRA,G,1.89,86,01-12-82,São Paulo,Cesena,Fluminense,2013,Brazilian
+13,13,Digão,BRA,D,1.87,85,07-05-88,Duque de Caxias,None,Fluminense,2013,Brazilian
+14,14,Elivélton,BRA,D,1.80,82,10-05-92,Bom Jardim,None,Fluminense,2013,Brazilian
+15,15,Anderson,BRA,D,1.81,79,26-08-82,Itaperuna,Ceará,Fluminense,2013,Brazilian
+16,16,Felipe,BRA,M,1.75,69,02-09-77,Rio de Janeiro,Vasco da Gama,Fluminense,2013,Brazilian
+17,17,Edwin Valencia,COL,M,1.81,85,29-03-85,Florida Valle,Atlético Paranaense,Fluminense,2013,Brazilian
+18,18,Marcelinho,BRA,F,1.80,77,10-01-84,Belo Horizonte,Al-Wahda,Fluminense,2013,Brazilian
+19,19,Wágner,BRA,M,1.72,71,29-01-85,Sete Lagoas,Gaziantepspor,Fluminense,2013,Brazilian
+21,21,Marcos Júnior,BRA,F,1.67,63,19-01-93,Gama,None,Fluminense,2013,Brazilian
+22,22,Rhayner,BRA,F,1.79,75,05-09-90,Serra,Tombense,Fluminense,2013,Brazilian
+23,23,Rafael Sobís,BRA,F,1.72,73,17-06-85,Erechim,Al-Jazira,Fluminense,2013,Brazilian
+25,25,Wellington Silva,BRA,D,1.77,88,06-03-88,Rio de Janeiro,Resende,Fluminense,2013,Brazilian
+27,27,Michael,BRA,F,1.86,80,19-04-93,São Francisco de Sales,None,Fluminense,2013,Brazilian
+29,29,Biro Biro,BRA,F,1.69,60,22-11-94,Rio de Janeiro,Nova Iguaçu,Fluminense,2013,Brazilian
+30,30,Kenedy,BRA,F,1.81,77,08-02-96,Santa Rita do Sapucaí,None,Fluminense,2013,Brazilian
+31,31,Samuel,BRA,F,1.85,83,25-02-91,São Borja,None,Fluminense,2013,Brazilian
+32,32,Fábio Braga,POR,M,1.84,87,06-09-92,Lisbon,None,Fluminense,2013,Brazilian
+33,33,Kléver,BRA,G,1.88,82,20-06-89,Mirassol,None,Fluminense,2013,Brazilian
+34,34,Wellington Carvalho,BRA,D,1.85,84,15-02-93,Duque de Caxias,None,Fluminense,2013,Brazilian
+35,35,Igor Julião,BRA,D,1.75,62,23-08-94,Rio de Janeiro,None,Fluminense,2013,Brazilian
+36,36,Ronan,BRA,D,1.77,66,29-08-94,Vitória,None,Fluminense,2013,Brazilian
+37,37,Rafinha,BRA,M,1.77,74,05-08-93,Rio de Janeiro,None,Fluminense,2013,Brazilian
+38,38,Eduardo,BRA,M,1.78,72,07-06-93,Fortaleza,Fortaleza,Fluminense,2013,Brazilian
+39,39,Proença,BRA,M,1.71,60,26-04-96,Rio de Janeiro,None,Fluminense,2013,Brazilian
+40,40,Marlon,BRA,M,1.82,80,07-09-95,Duque de Caxias,None,Fluminense,2013,Brazilian
+41,41,Denilson,BRA,F,1.87,72,18-07-95,Rio de Janeiro,None,Fluminense,2013,Brazilian
+42,43,Willian,BRA,M,1.84,71,16-05-93,Junqueirópolis,None,Fluminense,2013,Brazilian
+43,44,Marcos Felipe,BRA,G,1.88,75,13-04-96,Linhares,None,Fluminense,2013,Brazilian
+44,45,Ailton,BRA,D,1.81,70,16-03-95,Pilar,None,Fluminense,2013,Brazilian
+45,50,Felipe,BRA,G,1.90,79,10-01-88,São Vicente,Náutico,Fluminense,2013,Brazilian
+1,,Édson,BRA,G,1.89,85,24-09-85,Unaí,Itumbiara,Goiбs,2013,Brazilian
+2,,Harlei,BRA,G,1.82,84,30-03-72,Belo Horizonte,Vila Nova,Goiбs,2013,Brazilian
+3,,Pedro Henrique,BRA,G,1.90,84,12-10-85,Barra do Garça,None,Goiбs,2013,Brazilian
+4,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Internacional,Goiбs,2013,Brazilian
+5,,Rodrigo Calaça,BRA,G,1.84,77,25-01-81,Catalão,Comercial de Catalão,Goiбs,2013,Brazilian
+6,,Clayton Sales,BRA,D,1.70,74,24-02-93,Goiânia,None,Goiбs,2013,Brazilian
+7,,Ernando,BRA,D,1.84,75,14-07-88,Formosa,None,Goiбs,2013,Brazilian
+8,,Eron,BRA,D,1.73,68,17-01-92,Belo Horizonte,Atlético Mineiro,Goiбs,2013,Brazilian
+9,,Felipe Macedo,BRA,D,1.87,76,27-03-94,São Miguel do Araguaia,None,Goiбs,2013,Brazilian
+10,,Mário Sérgio,BRA,D,1.79,69,26-04-94,Aruanã,None,Goiбs,2013,Brazilian
+11,,Pedro Henrique,BRA,D,1.90,87,18-12-92,Goiânia,None,Goiбs,2013,Brazilian
+12,,Rodrigo,BRA,D,1.82,84,27-08-80,Lençóis Paulista,Dynamo Kyiv,Goiбs,2013,Brazilian
+13,,Valmir Lucas,BRA,D,1.85,76,12-01-89,Edéia,None,Goiбs,2013,Brazilian
+14,,Vitor,BRA,D,1.72,66,29-07-82,Delmiro Golveia,Palmeiras,Goiбs,2013,Brazilian
+15,,William Matheus,BRA,D,1.87,85,02-04-90,Rio de Janeiro,Boca Júnior-SE,Goiбs,2013,Brazilian
+16,,Amaral,BRA,M,1.82,67,07-10-86,Goiânia,None,Goiбs,2013,Brazilian
+17,,Caio,BRA,M,1.67,62,10-11-80,Nova Odessa,Ponte Preta,Goiбs,2013,Brazilian
+18,,David,BRA,M,1.77,70,29-05-82,Araxá,Vila Nova,Goiбs,2013,Brazilian
+19,,Dudu Cearense,BRA,M,1.86,75,15-04-83,Fortaleza,Atlético Mineiro,Goiбs,2013,Brazilian
+20,,Hugo,BRA,M,1.81,81,27-10-80,Rio de Janeiro,Sport Recife,Goiбs,2013,Brazilian
+21,,Juliano,BRA,M,1.83,77,06-04-90,Pelotas,Internacional,Goiбs,2013,Brazilian
+22,,Leandro,BRA,M,1.82,70,28-02-91,Corumbá,None,Goiбs,2013,Brazilian
+23,,Paulo,BRA,M,1.74,68,12-01-93,Goiânia,None,Goiбs,2013,Brazilian
+24,,Ramón,BRA,M,1.86,80,07-04-83,Belo Horizonte,Boa,Goiбs,2013,Brazilian
+25,,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,Atlético Mineiro,Goiбs,2013,Brazilian
+26,,Roni,BRA,M,1.71,67,26-06-91,São José dos Campos,São Paulo,Goiбs,2013,Brazilian
+27,,Tartá,BRA,M,1.71,65,13-04-89,Rio de Janeiro,Fluminense,Goiбs,2013,Brazilian
+28,,Thiago Mendes,BRA,M,1.76,73,15-03-92,São Luís,None,Goiбs,2013,Brazilian
+29,,Ulisses,BRA,M,1.85,75,25-03-89,Belo Horizonte,América Mineiro,Goiбs,2013,Brazilian
+30,,Yuri,BRA,M,1.80,70,07-10-89,Rio Negro,Coimbra,Goiбs,2013,Brazilian
+31,,Araújo,BRA,F,1.72,57,08-08-77,Caruaru,Atlético Mineiro,Goiбs,2013,Brazilian
+32,,Eduardo Sasha,BRA,F,1.73,65,24-02-92,Porto Alegre,Internacional,Goiбs,2013,Brazilian
+33,,Erik,BRA,F,1.70,64,18-07-94,Novo Repartimento,None,Goiбs,2013,Brazilian
+34,,Junior Viçosa,BRA,F,1.82,79,24-07-89,Viçosa,Grêmio,Goiбs,2013,Brazilian
+35,,Léo Bonatini,BRA,F,1.85,80,28-03-94,Belo Horizonte,Cruzeiro,Goiбs,2013,Brazilian
+36,,Walter,BRA,F,1.76,86,22-07-89,Recife,FC Porto,Goiбs,2013,Brazilian
+37,,Welinton Júnior,BRA,F,1.75,64,08-06-93,São Paulo,None,Goiбs,2013,Brazilian
+1,1,Dida,BRA,G,1.95,85,07-10-73,Irarà,Portuguesa,Grкmio,2013,Brazilian
+2,2,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Santos,Grкmio,2013,Brazilian
+4,4,Werley,BRA,D,1.84,81,05-09-88,Oliveira,Atlético Mineiro,Grкmio,2013,Brazilian
+5,5,Souza,BRA,M,1.76,77,11-02-89,Rio de Janeiro,FC Porto,Grкmio,2013,Brazilian
+7,7,Elano,BRA,M,1.74,65,14-06-81,Iracemápolis,Santos,Grкmio,2013,Brazilian
+9,9,Hernán Barcos,ARG,F,1.88,75,11-04-84,Bell Ville,Palmeiras,Grкmio,2013,Brazilian
+10,10,Zé Roberto,BRA,M,1.72,72,06-07-74,Ipiranga,Al-Gharafa,Grкmio,2013,Brazilian
+12,12,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Grкmio,2013,Brazilian
+13,13,Alex Telles,BRA,D,1.81,71,15-12-92,Caxias do Sul,Juventude,Grкmio,2013,Brazilian
+14,14,Maxi Rodríguez,URU,M,1.81,65,02-10-90,Montevideo,Montevideo Wanderers,Grкmio,2013,Brazilian
+15,15,Bressan,BRA,D,1.82,74,15-01-93,Caxias do Sul,Juventude,Grкmio,2013,Brazilian
+16,16,Cristian Riveros,PAR,M,1.79,76,16-10-82,J.A. Saldivar,Kayserispor,Grкmio,2013,Brazilian
+17,17,Eduardo Vargas,CHI,F,1.73,74,20-11-89,Santiago,Napoli,Grкmio,2013,Brazilian
+18,18,Wendell,BRA,D,1.76,66,20-07-93,Fortaleza,Londrina,Grкmio,2013,Brazilian
+19,19,Guilherme Biteco,BRA,M,1.73,67,12-03-94,Porto Alegre,1899 Hoffenheim,Grкmio,2013,Brazilian
+20,20,Saimon,BRA,D,1.83,74,03-03-91,Erechim,None,Grкmio,2013,Brazilian
+21,21,Yuri Mamute,BRA,F,1.80,68,07-05-95,Porto Alegre,None,Grкmio,2013,Brazilian
+22,22,Gabriel,BRA,D,1.91,90,28-02-89,Marques de Souza,Lajeadense,Grкmio,2013,Brazilian
+23,23,Fábio Aurélio,BRA,D,1.78,75,24-09-79,São Carlos,Liverpool,Grкmio,2013,Brazilian
+24,24,Busatto,BRA,G,1.89,78,23-10-90,Arroio do Tigre,None,Grкmio,2013,Brazilian
+25,25,Jean Deretti,BRA,M,1.73,60,01-05-93,Jaraguá do Sul,Figueirense,Grкmio,2013,Brazilian
+27,27,Paulinho,BRA,F,1.69,62,16-03-94,São Francisco do Sul,Juventude,Grкmio,2013,Brazilian
+28,28,Rafael Thyere,BRA,D,1.90,86,17-05-93,João Pessoa,None,Grкmio,2013,Brazilian
+29,29,Adriano,BRA,M,1.70,65,29-05-87,São Vicente,Santos,Grкmio,2013,Brazilian
+30,30,Kléber,BRA,F,1.73,70,12-08-83,Osasco,Palmeiras,Grкmio,2013,Brazilian
+31,31,Matheus Biteco,BRA,M,1.72,65,28-06-95,Porto Alegre,None,Grкmio,2013,Brazilian
+33,33,Lucas Coelho,BRA,F,1.83,80,20-07-94,Lages,None,Grкmio,2013,Brazilian
+34,34,Moisés,BRA,D,1.80,76,09-08-90,Aratibba,Juventude,Grкmio,2013,Brazilian
+35,35,Gérson,BRA,D,1.79,74,04-10-92,Porto Alegre,None,Grкmio,2013,Brazilian
+36,36,Ramiro,BRA,M,1.68,67,22-05-93,Gramado,Juventude,Grкmio,2013,Brazilian
+40,40,Follmann,BRA,G,1.86,80,14-03-92,Alecrim,Juventude,Grкmio,2013,Brazilian
+41,44,Rhodolfo,BRA,D,1.93,82,11-08-86,Bandeirantes,São Paulo,Grкmio,2013,Brazilian
+1,1,Muriel,BRA,G,1.89,78,14-02-87,Novo Hamburgo,None,Internacional,2013,Brazilian
+2,2,Gabriel,BRA,D,1.71,70,05-06-81,Feira de Santana,Grêmio,Internacional,2013,Brazilian
+3,3,Índio,BRA,D,1.80,79,14-02-75,Maracai,Juventude,Internacional,2013,Brazilian
+4,4,Juan,BRA,D,1.82,78,01-02-79,Rio de Janeiro,Roma,Internacional,2013,Brazilian
+5,5,Airton,BRA,M,1.80,77,21-02-90,Rio de Janeiro,Benfica,Internacional,2013,Brazilian
+6,6,Kléber,BRA,D,1.81,72,01-04-80,São Paulo,Santos,Internacional,2013,Brazilian
+7,7,Diego Forlán,URU,F,1.80,75,19-05-79,Montevideo,Internazionale,Internacional,2013,Brazilian
+8,8,Willians,BRA,M,1.75,71,29-01-86,São Paulo,Udinese,Internacional,2013,Brazilian
+9,9,Leandro Damião,BRA,F,1.88,81,22-07-89,Jardim Alegre,Atlético Ibirama,Internacional,2013,Brazilian
+10,10,Andrés D'Alessandro,ARG,M,1.74,68,15-04-81,La Paternal,San Lorenzo,Internacional,2013,Brazilian
+11,11,Rafael Moura,BRA,F,1.89,85,23-05-83,Belo Horizonte,Fluminense,Internacional,2013,Brazilian
+12,12,Alex,BRA,M,1.75,71,25-03-82,Cornélio Procópio,Al-Gharafa,Internacional,2013,Brazilian
+13,13,Agenor,BRA,G,1.87,84,11-12-89,Erechim,None,Internacional,2013,Brazilian
+14,14,Fabricio,BRA,D,1.85,72,11-01-87,São Paulo,Portuguesa,Internacional,2013,Brazilian
+15,15,Ednei,BRA,D,1.80,72,30-11-85,Brasília de Minas,Veranópolis,Internacional,2013,Brazilian
+17,17,Caio,BRA,F,1.76,70,09-08-90,Volta Redonda,Botafogo,Internacional,2013,Brazilian
+19,19,Alan Patrick,BRA,M,1.75,66,13-05-91,Catanduva,Shakhtar Donetsk,Internacional,2013,Brazilian
+20,20,Jackson,BRA,D,1.86,77,01-05-90,Cuiabá,Criciúma,Internacional,2013,Brazilian
+21,21,Ygor,BRA,M,1.79,76,01-06-84,Santana do Livramento,Figueirense,Internacional,2013,Brazilian
+22,22,Alisson Becker,BRA,G,1.93,91,02-10-92,Novo Hamburgo,None,Internacional,2013,Brazilian
+23,23,Jorge Henrique,BRA,F,1.69,69,23-04-82,Resende,Corinthians,Internacional,2013,Brazilian
+25,25,Ronaldo Alves,BRA,D,1.87,88,09-07-89,Bebedouro,Atlético Paranaense,Internacional,2013,Brazilian
+27,27,Josimar,BRA,M,1.81,78,18-08-86,Pelotas,None,Internacional,2013,Brazilian
+28,28,Romário,BRA,D,1.83,81,28-06-92,Porto Alegre,None,Internacional,2013,Brazilian
+29,29,Valdívia,BRA,M,1.74,70,04-10-94,Jaciara,None,Internacional,2013,Brazilian
+30,30,Anderson Gavineski,BRA,G,1.93,85,01-04-94,Alpestre,Caxias,Internacional,2013,Brazilian
+31,31,Thales,BRA,D,1.86,80,06-04-93,Porto Alegre,None,Internacional,2013,Brazilian
+32,32,Ignacio Scocco,ARG,F,1.75,71,29-05-85,Hughes,Al-Ain,Internacional,2013,Brazilian
+33,33,Otávio,BRA,M,1.71,65,09-02-95,João Pessoa,None,Internacional,2013,Brazilian
+34,34,Nathan,BRA,F,1.76,74,18-01-94,Porto Alegre,None,Internacional,2013,Brazilian
+35,35,João Afonso,BRA,M,1.81,81,09-02-95,Criciúma,None,Internacional,2013,Brazilian
+36,36,Alan Costa,BRA,D,1.94,82,31-10-90,Araraquara,Ferroviária,Internacional,2013,Brazilian
+37,37,Mike,BRA,F,1.75,64,08-03-93,Suzano,Paulista,Internacional,2013,Brazilian
+38,38,Artur,BRA,D,1.78,75,05-08-94,Rondon do Pará,JV Lideral,Internacional,2013,Brazilian
+39,39,Cláudio Winck,BRA,D,1.83,70,15-04-94,Portão,None,Internacional,2013,Brazilian
+1,,Gideão,BRA,G,1.91,89,19-12-87,Vitória,Vera Cruz-PE,Náutico,2013,Brazilian
+2,,Jefferson,BRA,G,1.83,81,18-06-93,Vitória de Santo Antão,None,Náutico,2013,Brazilian
+3,,Ricardo Berna,BRA,G,1.87,83,11-06-79,Valença-RJ,Fluminense,Náutico,2013,Brazilian
+4,,Alison,BRA,D,1.86,76,21-10-83,Parnamirim,ABC,Náutico,2013,Brazilian
+5,,Bruno Collaço,BRA,D,1.73,77,08-03-90,São Leopoldo,Grêmio,Náutico,2013,Brazilian
+6,,Diego,BRA,D,,,26-03-93,,None,Náutico,2013,Brazilian
+7,,Flávio Ramos,BRA,D,1.86,78,12-05-94,Recife,None,Náutico,2013,Brazilian
+8,,Gustavo,BRA,D,1.86,82,20-07-91,Brasília,Central-PE,Náutico,2013,Brazilian
+9,,Jean Rolt,BRA,D,1.85,83,12-05-81,Jacinto Machado,Al-Sailiya,Náutico,2013,Brazilian
+10,,João Filipe,BRA,D,1.90,76,11-06-88,Rio de Janeiro,São Paulo,Náutico,2013,Brazilian
+11,,Leandro Amaro,BRA,D,1.86,83,19-06-86,Campinas,Palmeiras,Náutico,2013,Brazilian
+12,,Luiz Eduardo,BRA,D,1.84,76,28-04-93,Guaíra,São Paulo,Náutico,2013,Brazilian
+13,,Maranhão,BRA,D,1.70,70,25-12-85,Codó,Santos,Náutico,2013,Brazilian
+14,,William Alves,BRA,D,1.88,84,29-04-87,Marília,Santa Cruz,Náutico,2013,Brazilian
+15,,Auremir,BRA,M,1.74,64,10-09-91,Recife,None,Náutico,2013,Brazilian
+16,,Dadá,BRA,M,1.72,70,02-11-83,Belém,Red Bull Brasil,Náutico,2013,Brazilian
+17,,Derley,BRA,M,1.87,70,02-08-86,Anápolis,Atlético Paranaense,Náutico,2013,Brazilian
+18,,Elicarlos,BRA,M,1.76,72,08-06-85,Laranjeiras,Cruzeiro,Náutico,2013,Brazilian
+19,,Helder,BRA,M,1.80,74,01-08-91,Nova Canaã do Norte,None,Náutico,2013,Brazilian
+20,,Marcos Vinícius,BRA,M,1.78,70,26-12-94,Marabá,None,Náutico,2013,Brazilian
+21,,Martínez,BRA,M,1.85,78,21-04-80,Magda,Cerezo Osaka,Náutico,2013,Brazilian
+22,,Ángelo Peña,VEN,M,1.71,64,25-12-89,Mérida,Caracas,Náutico,2013,Brazilian
+23,,Tiago Real,BRA,M,1.72,70,26-01-89,Curitiba,Palmeiras,Náutico,2013,Brazilian
+24,,Hugo Cabral,BRA,F,1.80,77,06-09-88,São João de Meriti,Tombense,Náutico,2013,Brazilian
+25,,João Paulo,BRA,F,,,10-10-95,Picos,None,Náutico,2013,Brazilian
+26,,Jones,BRA,F,1.77,74,14-10-88,Caratinga,Deportivo Maldonado,Náutico,2013,Brazilian
+27,,Kelvis,BRA,F,,,24-03-94,,None,Náutico,2013,Brazilian
+28,,Maikon Leite,BRA,F,1.68,62,03-08-88,Mogi das Cruzes,Palmeiras,Náutico,2013,Brazilian
+29,,Diego Morales,ARG,F,1.72,68,29-11-86,Florida,Al-Ahli [KSA],Náutico,2013,Brazilian
+30,,Juan Manuel Olivera,URU,F,1.91,80,14-08-81,Montevideo,Peñarol,Náutico,2013,Brazilian
+31,,Rogério,BRA,F,1.74,66,24-12-90,Pesqueira,Porto-PE,Náutico,2013,Brazilian
+32,,Saullo,BRA,F,1.87,78,10-03-97,Recife,Non,Náutico,2013,Brazilian
+1,,Daniel,BRA,G,1.91,74,18-04-87,Timoteo,Mogi Mirim,Ponte Preta,2013,Brazilian
+2,,Édson Bastos,BRA,G,1.87,76,03-11-79,Foz do Iguaçu,Coritiba,Ponte Preta,2013,Brazilian
+3,,Roberto,BRA,G,1.93,91,01-07-79,Orleans,Ituano,Ponte Preta,2013,Brazilian
+4,,Luis Advíncula,PER,D,1.77,75,02-03-90,Lima,1899 Hoffenheim,Ponte Preta,2013,Brazilian
+5,,Artur,BRA,D,1.83,78,22-10-84,Ibititá,São Caetano,Ponte Preta,2013,Brazilian
+6,,Betão,BRA,D,1.81,78,11-11-83,São Paulo,Dynamo Kyiv,Ponte Preta,2013,Brazilian
+7,,César,BRA,D,1.90,78,28-12-92,Mairinque,Atlético Sorocaba,Ponte Preta,2013,Brazilian
+8,,Diego Sacoman,BRA,D,1.84,79,15-12-86,Guarulhos,Corinthians,Ponte Preta,2013,Brazilian
+9,,Ferron,BRA,D,1.87,83,11-11-85,Rondonópolis,Boa,Ponte Preta,2013,Brazilian
+10,,Gustavo,BRA,D,1.85,84,09-03-84,Curitiba,Atlético Paranaense,Ponte Preta,2013,Brazilian
+11,,Raphael,BRA,D,1.90,83,20-04-92,Cuiaba,Rio Preto,Ponte Preta,2013,Brazilian
+12,,Régis,BRA,D,1.79,75,03-06-89,Brasília,São Bernardo,Ponte Preta,2013,Brazilian
+13,,Uendel,BRA,D,1.78,64,08-10-88,Araranguá,Grêmio,Ponte Preta,2013,Brazilian
+14,,Adrianinho,BRA,M,1.74,69,11-07-80,Campo Limpo Paulista,Sobradinho,Ponte Preta,2013,Brazilian
+15,,Alef,BRA,M,1.86,71,28-01-95,Nova Odessa,None,Ponte Preta,2013,Brazilian
+16,,Baraka,BRA,M,1.81,83,21-07-86,Avaré,Mogi Mirim,Ponte Preta,2013,Brazilian
+17,,Chiquinho,BRA,M,1.70,70,27-01-89,Caxias,Corinthians,Ponte Preta,2013,Brazilian
+18,,Elias,BRA,M,1.80,78,02-09-83,Santa Rita do Sapucaí,Atlético Paranaense,Ponte Preta,2013,Brazilian
+19,,Fellipe Bastos,BRA,M,1.76,76,01-02-90,Rio de Janeiro,Vasco da Gama,Ponte Preta,2013,Brazilian
+20,,Fernando,BRA,M,1.88,75,17-11-91,Porto Alegre,Penapolense,Ponte Preta,2013,Brazilian
+21,,Fernando Bob,BRA,M,1.80,74,07-01-88,Cabo Frio,Fluminense,Ponte Preta,2013,Brazilian
+22,,Ferrugem,BRA,M,1.82,67,28-03-88,Pedro Canário,Brasiliense,Ponte Preta,2013,Brazilian
+23,,Giovanni,BRA,M,1.74,74,04-04-94,Sorocaba,Corinthians,Ponte Preta,2013,Brazilian
+24,,Magal,BRA,M,1.73,73,16-09-80,Taquaritinga,Mogi Mirim,Ponte Preta,2013,Brazilian
+25,,Luis Ramírez,PER,M,1.80,77,10-11-84,Lima,Corinthians,Ponte Preta,2013,Brazilian
+26,,Brian Sarmiento,ARG,M,1.65,60,22-04-90,Rosario,All Boys,Ponte Preta,2013,Brazilian
+27,,Adaílton,BRA,F,1.79,76,06-12-90,Camaçari,Vitória,Ponte Preta,2013,Brazilian
+28,,Leonardo,BRA,F,1.85,77,26-10-82,Nova Lima,Atlético Mineiro,Ponte Preta,2013,Brazilian
+29,,Rafael Ratão,BRA,F,1.79,79,30-11-95,Ponte Preta,None,Ponte Preta,2013,Brazilian
+30,,Rildo,BRA,F,1.80,67,20-03-89,São Paulo,Vitória,Ponte Preta,2013,Brazilian
+31,,William Souza,BRA,F,1.81,72,14-05-83,Rolândia,Vitória,Ponte Preta,2013,Brazilian
+1,,Douglas Lima,BRA,G,1.92,84,26-08-92,Salvador,Itaúna,Portuguesa,2013,Brazilian
+2,,Glédson,BRA,G,1.92,88,06-02-83,Almenara,Boa,Portuguesa,2013,Brazilian
+3,,Lauro,BRA,G,1.93,94,09-03-80,Andradina,Internacional,Portuguesa,2013,Brazilian
+4,,Tom,BRA,G,1.96,89,30-10-91,São Paulo,None,Portuguesa,2013,Brazilian
+5,,Alé,BRA,D,1.73,66,11-08-92,Monte Sião,None,Portuguesa,2013,Brazilian
+6,,Bryan,BRA,D,1.76,72,28-03-92,Belo Horizonte,América Mineiro,Portuguesa,2013,Brazilian
+7,,Diego,BRA,D,1.86,79,17-05-91,São Paulo,None,Portuguesa,2013,Brazilian
+8,,Gustavo,BRA,D,1.85,71,28-01-93,Rolim de Moura,None,Portuguesa,2013,Brazilian
+9,,Ivan,BRA,D,1.70,68,25-08-92,Jaú,None,Portuguesa,2013,Brazilian
+10,,Lacerda,BRA,D,1.85,81,10-02-89,São Leopoldo,Goiás,Portuguesa,2013,Brazilian
+11,,Lima,BRA,D,1.85,78,10-02-85,Ribeirão Preto,Atlético Rondoniense,Portuguesa,2013,Brazilian
+12,,Lucas,BRA,D,1.89,82,20-04-91,Campinas,None,Portuguesa,2013,Brazilian
+13,,Luis Ricardo,BRA,D,1.83,79,21-01-84,Goiânia,Avaí,Portuguesa,2013,Brazilian
+14,,Magal,BRA,D,1.72,68,28-06-87,Lavras,Bahia,Portuguesa,2013,Brazilian
+15,,Moisés,BRA,D,1.83,81,25-07-79,Nanuque,Shanghai Shenhua,Portuguesa,2013,Brazilian
+16,,Rogério,BRA,D,1.80,75,14-03-84,Americana,Uberlândia,Portuguesa,2013,Brazilian
+17,,Valdomiro,BRA,D,1.91,89,06-02-79,Salvador da Bahia,Samsunspor,Portuguesa,2013,Brazilian
+18,,Bruninho,BRA,M,1.78,73,18-09-92,São Paulo,None,Portuguesa,2013,Brazilian
+19,,Bruno Henrique,BRA,M,1.80,75,21-10-89,Apucarana,Londrina,Portuguesa,2013,Brazilian
+20,,Marcelo Cañete,ARG,M,1.79,73,16-04-90,Capital Federal,São Paulo,Portuguesa,2013,Brazilian
+21,,Carlos Alberto,BRA,M,1.74,62,22-02-88,São Paulo,Atlético Paranaense,Portuguesa,2013,Brazilian
+22,,Corrêa,BRA,M,1.76,73,29-12-80,Limeira,Palmeiras,Portuguesa,2013,Brazilian
+23,,Douglas Washington,BRA,M,1.72,71,24-08-88,Tuneiras do Oeste,São Luiz,Portuguesa,2013,Brazilian
+24,,Ferdinando,BRA,M,1.80,74,22-04-80,Grajaú,Incheon U,Portuguesa,2013,Brazilian
+25,,Gabriel Xavier,BRA,M,1.70,70,15-07-93,São Paulo,São Paulo,Portuguesa,2013,Brazilian
+26,,Henrique,BRA,M,1.69,71,15-12-90,São Paulo,None,Portuguesa,2013,Brazilian
+27,,Jean Mota,BRA,M,1.72,72,15-10-93,São Paulo,None,Portuguesa,2013,Brazilian
+28,,Matheus,BRA,M,1.74,77,31-05-89,São Paulo,Avaí,Portuguesa,2013,Brazilian
+29,,Moisés,BRA,M,1.84,81,17-03-88,Belo Horizonte,América Mineiro,Portuguesa,2013,Brazilian
+30,,Muralha,BRA,M,1.73,68,21-01-93,Rio de Janeiro,Flamengo,Portuguesa,2013,Brazilian
+31,,Renan,BRA,M,1.80,71,15-02-95,São Paulo,None,Portuguesa,2013,Brazilian
+32,,Souza,BRA,M,1.76,77,04-02-79,Maceió,Cruzeiro,Portuguesa,2013,Brazilian
+33,,Wanderson,BRA,M,1.67,67,02-01-88,Cruzeiro do Oeste,São Miguel,Portuguesa,2013,Brazilian
+34,,Willian Arão,BRA,M,1.81,74,12-03-92,São Paulo,Corinthians,Portuguesa,2013,Brazilian
+35,,Bérgson,BRA,F,1.79,76,09-02-91,Rio Grande do Sul,Grêmio,Portuguesa,2013,Brazilian
+36,,Bruno,BRA,F,1.84,74,12-01-89,Bragança Paulista,Taubaté,Portuguesa,2013,Brazilian
+37,,Diego Viana,BRA,F,1.82,81,05-05-83,Feliz,Grödig,Portuguesa,2013,Brazilian
+38,,Diogo,BRA,F,1.81,82,26-05-87,São Paulo,Olympiakos,Portuguesa,2013,Brazilian
+39,,Gilberto,BRA,F,1.78,70,05-06-89,Piranhas,Internacional,Portuguesa,2013,Brazilian
+40,,Henrique Dourado,BRA,F,1.86,79,15-09-89,Guarulhos,Mirassol,Portuguesa,2013,Brazilian
+41,,Héverton,BRA,F,1.73,71,28-10-85,Brasília,Corinthians,Portuguesa,2013,Brazilian
+42,,Luan,BRA,F,1.84,79,14-01-96,São Paulo,None,Portuguesa,2013,Brazilian
+43,,Marcelo Henrique,BRA,F,1.76,71,23-05-94,Suzano,None,Portuguesa,2013,Brazilian
+44,,Michel,BRA,F,1.84,81,16-01-92,Santa Luzia,Vila Nova,Portuguesa,2013,Brazilian
+45,,Neilson,BRA,F,1.81,78,01-08-87,Presidente Prudente,Londrina,Portuguesa,2013,Brazilian
+46,,Romão,BRA,F,1.89,85,31-07-89,Jáu,Capivariano,Portuguesa,2013,Brazilian
+1,,Aranha,BRA,G,1.91,89,17-11-80,Pouso Alegre,Atlético Mineiro,Santos,2013,Brazilian
+2,,Gabriel Gasparotto,BRA,G,1.96,99,09-12-93,Lucélia,None,Santos,2013,Brazilian
+3,,Vladimir,BRA,G,1.90,84,16-07-89,Ipiaú,None,Santos,2013,Brazilian
+4,,Bruno Peres,BRA,D,1.78,72,01-03-90,São Paulo,Audax-SP,Santos,2013,Brazilian
+5,,Cicinho,BRA,D,1.68,60,25-04-88,Belém,Ponte Preta,Santos,2013,Brazilian
+6,,Douglas,BRA,D,1.73,68,23-06-93,Iuná,None,Santos,2013,Brazilian
+7,,Durval,BRA,D,1.84,82,11-07-80,Espurito Santo,Sport Recife,Santos,2013,Brazilian
+8,,Edu Dracena,BRA,D,1.87,80,18-05-81,Dracena,Fenerbahçe,Santos,2013,Brazilian
+9,,Emerson Palmieri,BRA,D,1.76,63,03-08-94,Santos,None,Santos,2013,Brazilian
+10,,Gustavo Henrique,BRA,D,1.93,84,24-03-93,São Paulo,None,Santos,2013,Brazilian
+11,,Jubal,BRA,D,1.90,79,29-08-93,Inhuma,Vila Nova,Santos,2013,Brazilian
+12,,Léo,BRA,D,1.69,64,06-07-75,Campos dos Goytacazes,Benfica,Santos,2013,Brazilian
+13,,Eugenio Mena,CHI,D,1.71,73,18-07-88,Viña del Mar,Universidad de Chile,Santos,2013,Brazilian
+14,,Neto,BRA,D,1.95,94,16-08-85,Rio de Janeiro,Guarani,Santos,2013,Brazilian
+15,,Rafael Caldeira,BRA,D,1.91,84,11-02-91,Monte Alto,None,Santos,2013,Brazilian
+16,,Rafael Galhardo,BRA,D,1.76,70,30-10-91,Nova Friburgo,Flamengo,Santos,2013,Brazilian
+17,,Walace,BRA,D,1.91,90,25-05-93,São Paulo,None,Santos,2013,Brazilian
+18,,Alan Santos,BRA,M,1.85,75,24-04-91,Salvador,Vitória,Santos,2013,Brazilian
+19,,Alison,BRA,M,1.80,70,01-03-93,Mongaguá,None,Santos,2013,Brazilian
+20,,Arouca,BRA,M,1.69,65,11-08-86,Duas Barras,São Paulo,Santos,2013,Brazilian
+21,,Cícero,BRA,M,1.80,72,26-08-84,Castelo,Tombense,Santos,2013,Brazilian
+22,,Leandrinho,BRA,M,1.78,70,25-09-93,Espinosa,None,Santos,2013,Brazilian
+23,,Léo Cittadini,BRA,M,1.78,70,27-02-94,Rio Claro,Guarani,Santos,2013,Brazilian
+24,,Lucas Otávio,BRA,M,1.64,61,09-10-94,Bandeirantes,None,Santos,2013,Brazilian
+25,,Marcos Assunção,BRA,M,1.78,78,25-07-76,Caieiras,Palmeiras,Santos,2013,Brazilian
+26,,Misael,BRA,M,1.76,73,15-07-94,Três de Maio,Deportivo Maldonado,Santos,2013,Brazilian
+27,,Wálter Montillo,ARG,M,1.71,69,14-04-84,Villa Modelo,Cruzeiro,Santos,2013,Brazilian
+28,,Pedro Castro,BRA,M,1.80,77,05-02-93,Volta Redonda,None,Santos,2013,Brazilian
+29,,Renato,BRA,M,1.83,78,09-06-78,São Paulo,Flamengo,Santos,2013,Brazilian
+30,,Renê Júnior,BRA,M,1.79,75,16-09-89,Rio de Janeiro,Tombense,Santos,2013,Brazilian
+31,,Éverton,BRA,F,1.81,71,06-01-86,Ponta Grossa,Coritiba,Santos,2013,Brazilian
+32,,Gabriel Barbosa,BRA,F,1.78,68,30-08-96,São Bernardo do Campo,None,Santos,2013,Brazilian
+33,,Geuvânio,BRA,F,1.75,62,05-04-92,Ilha das Flores,None,Santos,2013,Brazilian
+34,,Giva,BRA,F,1.86,74,03-01-93,Cachoeira,None,Santos,2013,Brazilian
+35,,Neilton,BRA,F,1.66,57,17-02-94,Nanuque,None,Santos,2013,Brazilian
+36,,Thiago Ribeiro,BRA,F,1.85,74,24-02-86,Pontes Gestal,Cagliari,Santos,2013,Brazilian
+37,,Victor Andrade,BRA,F,1.71,60,30-09-95,Aracajú,None,Santos,2013,Brazilian
+38,,Willian José,BRA,F,1.86,81,23-11-91,Porto Calvo,Deportivo Maldonado,Santos,2013,Brazilian
+1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,Sדo Paulo,2013,Brazilian
+2,2,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,Goiás,Sדo Paulo,2013,Brazilian
+3,3,Roger Carvalho,BRA,D,1.84,74,10-12-86,Arapongas,Tombense,Sדo Paulo,2013,Brazilian
+4,4,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,Atlético Paranaense,Sדo Paulo,2013,Brazilian
+5,5,Wellington,BRA,M,1.73,70,28-01-91,São Paulo,None,Sדo Paulo,2013,Brazilian
+6,6,Clemente Rodríguez,ARG,D,1.67,66,31-07-81,Capital Federal,Boca Juniors,Sדo Paulo,2013,Brazilian
+7,7,Rodrigo Caio,BRA,M,1.82,70,17-08-93,Dracena,None,Sדo Paulo,2013,Brazilian
+8,8,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,Santos,Sדo Paulo,2013,Brazilian
+9,9,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas,Sevilla,Sדo Paulo,2013,Brazilian
+10,10,Jadson,BRA,M,1.68,67,05-10-83,Londrina,Shakhtar Donetsk,Sדo Paulo,2013,Brazilian
+11,11,Ademílson,BRA,F,1.76,74,09-01-94,Cubatão,None,Sדo Paulo,2013,Brazilian
+12,12,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,Sדo Paulo,2013,Brazilian
+13,13,Paulo Miranda,BRA,D,1.80,77,16-08-88,Iraty,Desportivo Brasil,Sדo Paulo,2013,Brazilian
+14,14,Édson Silva,BRA,D,1.87,92,09-05-86,Palmares,Villa Rio,Sדo Paulo,2013,Brazilian
+15,15,Denílson,BRA,M,1.78,68,16-02-88,São Paulo,Arsenal,Sדo Paulo,2013,Brazilian
+16,16,Thiago Carleto,BRA,D,1.72,68,24-03-89,São Bernardo do Campo,Valencia,Sדo Paulo,2013,Brazilian
+17,17,Osvaldo,BRA,F,1.69,62,11-04-87,Fortaleza,Al-Ahli [UAE],Sדo Paulo,2013,Brazilian
+18,18,Maicon,BRA,M,1.84,87,14-09-85,Rio de Janeiro,Figueirense,Sדo Paulo,2013,Brazilian
+19,19,Aloísio,BRA,F,1.76,78,19-06-88,Araranguá,Tombense,Sדo Paulo,2013,Brazilian
+20,20,Lucas Evangelista,BRA,M,1.81,70,06-05-95,Limeira,Desportivo Brasil,Sדo Paulo,2013,Brazilian
+22,22,Silvinho,BRA,F,1.75,72,01-07-90,Guajará Mirim,Comercial-SP,Sדo Paulo,2013,Brazilian
+23,23,Douglas,BRA,D,1.72,63,06-08-90,Monte Alegre,Desportivo Brasil,Sדo Paulo,2013,Brazilian
+24,24,Leo,BRA,G,1.93,77,22-09-90,Suzano,None,Sדo Paulo,2013,Brazilian
+25,25,Fabrício,BRA,M,1.78,76,05-07-82,Imbituba,Cruzeiro,Sדo Paulo,2013,Brazilian
+27,27,Lucas Farias,BRA,D,1.74,64,18-08-94,São Paulo,None,Sדo Paulo,2013,Brazilian
+28,28,João Schmidt,BRA,M,1.83,82,19-05-93,São Paulo,None,Sדo Paulo,2013,Brazilian
+29,29,Negueba,BRA,F,1.78,70,07-04-92,Rio de Janeiro,Flamengo,Sדo Paulo,2013,Brazilian
+30,30,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,Atlético Mineiro,Sדo Paulo,2013,Brazilian
+32,32,Mateus Caramelo,BRA,D,1.81,79,30-08-94,Araçatuba,Mogi Mirim,Sדo Paulo,2013,Brazilian
+33,33,Lucão,BRA,D,1.85,78,23-03-96,Brasília,None,Sדo Paulo,2013,Brazilian
+34,34,Diego Carlos,BRA,D,1.84,79,15-03-93,Barra Bonita,Desportivo Brasil,Sדo Paulo,2013,Brazilian
+35,35,Allan,BRA,M,1.75,69,24-02-94,São Paulo,None,Sדo Paulo,2013,Brazilian
+37,37,Welliton,BRA,F,1.75,75,22-10-86,Conceição do Araguaia,Spartak Moscow,Sדo Paulo,2013,Brazilian
+38,38,Reinaldo,BRA,D,1.78,74,28-09-89,Porto Calvo,Penapolense,Sדo Paulo,2013,Brazilian
+39,39,Lúcio,BRA,D,1.88,84,08-05-78,Brasília,Juventus,Sדo Paulo,2013,Brazilian
+1,1,Michel Alves,BRA,G,1.88,87,25-03-81,Pelotas,Criciúma,Vasco da Gama,2013,Brazilian
+3,3,Rodolfo,BRA,D,1.83,77,23-10-82,Santos,Lokomotiv Moscow,Vasco da Gama,2013,Brazilian
+4,4,Nei,BRA,D,1.77,75,06-12-85,Bragança Paulista,Internacional,Vasco da Gama,2013,Brazilian
+5,5,Pablo Guiñazú,ARG,M,1.72,71,26-08-78,General Cabrera,Libertad,Vasco da Gama,2013,Brazilian
+6,6,Yoshimar Yotún,PER,D,1.71,72,07-04-90,Callao,Sporting Cristal,Vasco da Gama,2013,Brazilian
+8,8,Juninho Pernambucano,BRA,M,1.78,71,30-01-75,Recife,New York Red Bulls,Vasco da Gama,2013,Brazilian
+9,9,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Atlético Mineiro,Vasco da Gama,2013,Brazilian
+10,10,Pedro Ken,BRA,M,1.81,75,20-03-87,Curitiba,Cruzeiro,Vasco da Gama,2013,Brazilian
+11,11,Carlos Tenorio,ECU,F,1.82,78,14-05-79,Esmeraldas,Al-Gharafa,Vasco da Gama,2013,Brazilian
+12,12,Alessandro,BRA,G,1.91,88,30-03-88,Cascavel,Grêmio,Vasco da Gama,2013,Brazilian
+13,13,Cris,BRA,D,1.83,77,03-06-77,Guarulhos,Grêmio,Vasco da Gama,2013,Brazilian
+14,14,Luan,BRA,D,1.83,79,10-05-93,Vitória,None,Vasco da Gama,2013,Brazilian
+15,15,Fillipe Soutto,BRA,M,1.77,77,11-03-91,Belo Horizonte,Atlético Mineiro,Vasco da Gama,2013,Brazilian
+16,16,Francismar,BRA,M,1.72,63,18-04-84,Ubá,Boa,Vasco da Gama,2013,Brazilian
+17,17,Wendel,BRA,M,1.84,71,08-04-82,Mariana,Al-Shabab,Vasco da Gama,2013,Brazilian
+18,18,Rafael Vaz,BRA,D,1.88,76,17-09-88,São Paulo,Ceará,Vasco da Gama,2013,Brazilian
+19,19,Edmílson,BRA,F,1.83,77,15-09-82,Salvador,Al-Gharafa,Vasco da Gama,2013,Brazilian
+20,20,Santiago Montoya,COL,M,1.73,63,15-09-91,Medellín,All Boys,Vasco da Gama,2013,Brazilian
+22,22,Abuda,BRA,M,1.76,73,22-01-89,Almerim,Cruzeiro-RS,Vasco da Gama,2013,Brazilian
+23,23,Fagner,BRA,D,1.68,67,11-06-89,São Paulo,Wolfsburg,Vasco da Gama,2013,Brazilian
+25,25,Diogo Silva,BRA,G,1.91,81,08-07-86,Cuiabá,Nova Iguaçu,Vasco da Gama,2013,Brazilian
+27,27,Yago,BRA,F,1.74,70,28-04-94,Cachoeiro do Itapemirim,None,Vasco da Gama,2013,Brazilian
+28,28,Jomar,BRA,D,1.85,78,28-09-92,Rio de Janeiro,Tigres do Brasil,Vasco da Gama,2013,Brazilian
+29,29,Jhon Cley,BRA,F,1.80,78,09-03-94,Brasília,None,Vasco da Gama,2013,Brazilian
+30,30,Marlone,BRA,M,1.80,78,02-04-92,Augustinópolis,None,Vasco da Gama,2013,Brazilian
+31,31,Bernardo,BRA,M,1.77,70,20-05-90,Sorocaba,Cruzeiro,Vasco da Gama,2013,Brazilian
+32,32,Guilherme Costa,BRA,M,1.75,70,31-03-94,Rio de Janeiro,None,Vasco da Gama,2013,Brazilian
+33,33,Renato Silva,BRA,D,1.80,73,26-07-83,Colinas de Goiás,Shandong Luneng,Vasco da Gama,2013,Brazilian
+35,35,Baiano,BRA,M,1.77,75,13-06-92,Rio de Janeiro,None,Vasco da Gama,2013,Brazilian
+36,36,Dieyson,BRA,D,1.76,70,30-06-93,Itacurubi,None,Vasco da Gama,2013,Brazilian
+37,37,Henrique Silva,BRA,D,1.73,72,25-04-94,Rio de Janeiro,None,Vasco da Gama,2013,Brazilian
+39,39,Thalles,BRA,F,1.85,77,18-05-95,Rio de Janeiro,None,Vasco da Gama,2013,Brazilian
+40,40,Jordi,BRA,G,1.91,81,03-09-93,Volta Redonda,None,Vasco da Gama,2013,Brazilian
+41,41,Robinho,BRA,F,1.76,70,08-09-87,Volta Redonda,Guarani,Vasco da Gama,2013,Brazilian
+42,84,Sandro Silva,BRA,M,1.86,76,29-04-84,Rio de Janeiro,Málaga,Vasco da Gama,2013,Brazilian
+43,87,Dakson Da Silva,BRA,M,1.76,72,11-07-87,Santa de Panama,Lokomotiv Plovdiv,Vasco da Gama,2013,Brazilian
+44,91,Reginaldo,BRA,F,1.75,72,31-07-83,Jundiaí,Siena,Vasco da Gama,2013,Brazilian
+45,93,Willie,BRA,F,1.69,66,15-05-93,Caravelas,Vitória,Vasco da Gama,2013,Brazilian
+1,,Deola,BRA,G,1.88,86,19-04-83,Céu Azul,Palmeiras,Vitória,2013,Brazilian
+2,,Fernando Miguel,BRA,G,1.91,92,02-02-85,Venâncio Aires,Juventude,Vitória,2013,Brazilian
+3,,Gustavo,BRA,G,1.86,77,10-03-93,Colatina,None,Vitória,2013,Brazilian
+4,,Wilson,BRA,G,1.85,79,31-01-84,Santo André,Figueirense,Vitória,2013,Brazilian
+5,,Ayrton,BRA,D,1.76,73,19-04-85,Piracicaba,Palmeiras,Vitória,2013,Brazilian
+6,,Daniel Borges,BRA,D,1.74,68,23-03-93,São José dos Campos,Botafogo-SP,Vitória,2013,Brazilian
+7,,David Braz,BRA,D,1.87,82,21-05-87,Guarulhos,Santos,Vitória,2013,Brazilian
+8,,Dimas,BRA,D,1.78,74,22-01-92,Porto Seguro,None,Vitória,2013,Brazilian
+9,,Euller,BRA,D,1.68,54,04-01-95,São Paulo,None,Vitória,2013,Brazilian
+10,,Fabricio,BRA,D,1.86,82,20-02-90,Rio de Janeiro,Desportivo Brasil,Vitória,2013,Brazilian
+11,,Juan,BRA,D,1.67,66,06-02-82,São Paulo,São Paulo,Vitória,2013,Brazilian
+12,,Kadu,BRA,D,1.90,80,20-07-86,Brasília,Bragantino,Vitória,2013,Brazilian
+13,,Luiz Gustavo,BRA,D,1.77,65,12-02-94,Valentim Gentil,Palmeiras,Vitória,2013,Brazilian
+14,,Mansur,BRA,D,1.81,72,17-04-93,Laranjeiras,Bahia,Vitória,2013,Brazilian
+15,,Nino Paraíba,BRA,D,1.68,62,10-01-86,Rio Tinto,Sousa,Vitória,2013,Brazilian
+16,,Renato Santos,BRA,D,1.87,87,30-01-87,São Bernardo do Campo,Flamengo,Vitória,2013,Brazilian
+17,,Reniê,BRA,D,1.83,80,10-04-89,Feira de Santana,None,Vitória,2013,Brazilian
+18,,Tarracha,BRA,D,1.74,71,22-09-84,Ribeirão Preto,América-SP,Vitória,2013,Brazilian
+19,,Victor Ramos,BRA,D,1.92,76,05-05-89,Salvador,Standard Liège,Vitória,2013,Brazilian
+20,,Arthur Maia,BRA,M,1.70,63,13-10-92,Maceió,None,Vitória,2013,Brazilian
+21,,Luis Cáceres,PAR,M,1.75,68,16-04-88,Asunción,Libertad,Vitória,2013,Brazilian
+22,,Damián Escudero,ARG,M,1.76,74,20-04-87,Rosario,Boca Juniors,Vitória,2013,Brazilian
+23,,Edson Magal,BRA,M,1.80,75,21-06-93,Salvador,None,Vitória,2013,Brazilian
+24,,Elizeu,BRA,M,1.83,78,28-05-89,Recife,Estorik,Vitória,2013,Brazilian
+25,,Felipe Lima,BRA,M,1.79,70,18-01-91,São Paulo,None,Vitória,2013,Brazilian
+26,,Gabriel Soares,BRA,M,1.75,69,02-04-93,Salvador,None,Vitória,2013,Brazilian
+27,,Leilson,BRA,M,1.69,71,08-03-91,Feira de Santana,None,Vitória,2013,Brazilian
+28,,Luís Alberto,BRA,M,1.81,67,17-11-83,Salvador,Sporting Braga,Vitória,2013,Brazilian
+29,,Marcelo,BRA,M,1.81,75,29-05-94,Santo Amaro,None,Vitória,2013,Brazilian
+30,,Michel,BRA,M,1.80,78,08-06-81,São Paulo,Ceará,Vitória,2013,Brazilian
+31,,Neto,BRA,M,1.78,74,07-02-87,Baixa Grande,None,Vitória,2013,Brazilian
+32,,Renato Cajá,BRA,M,1.73,70,15-09-84,Paraíba,Guangzhou Evergrande,Vitória,2013,Brazilian
+33,,Vander,BRA,M,1.73,65,17-04-90,Salvador,Bahia,Vitória,2013,Brazilian
+34,,Alemão,BRA,F,1.85,71,02-03-89,Valinhos,Ponte Preta,Vitória,2013,Brazilian
+35,,André Lima,BRA,F,1.85,84,03-05-85,Rio de Janeiro,Beijing Guo'an,Vitória,2013,Brazilian
+36,,Maximiliano Biancucchi,ARG,F,1.65,68,15-09-84,Rosario,Olimpia [PAR],Vitória,2013,Brazilian
+37,,Dinei,BRA,F,1.86,78,11-11-83,São Domingos,Atlético Paranaense,Vitória,2013,Brazilian
+38,,Marquinhos,BRA,F,1.75,68,19-10-89,Prado,Desportivo Brasil,Vitória,2013,Brazilian
+39,,Pedro Oldoni,BRA,F,1.89,87,26-09-85,Pato Branco,Atlético Paranaense,Vitória,2013,Brazilian
+40,,Rômulo,BRA,F,1.86,74,19-04-90,Parambu,Bahia de Feira,Vitória,2013,Brazilian
+41,,William Henrique,BRA,F,1.78,74,28-01-92,Ribeirão Preto,Grêmio Barueri,Vitória,2013,Brazilian

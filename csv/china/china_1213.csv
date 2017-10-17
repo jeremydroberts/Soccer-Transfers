@@ -1,0 +1,531 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+2,2,Zhang Junzhe,CHN,D,1.83,69,20-02-91,,None,Beijing Guo'an,2012,Chinese
+3,3,Yu Yang,CHN,D,1.83,72,06-08-89,Tianjin,None,Beijing Guo'an,2012,Chinese
+4,4,Zhou Ting,CHN,M,1.81,78,05-02-79,Dalian,Shenzhen,Beijing Guo'an,2012,Chinese
+5,5,Darko Matić,CRO,D,1.83,81,26-09-80,Domaljevac,Tianjin Teda,Beijing Guo'an,2012,Chinese
+6,6,Xu Liang,CHN,M,1.83,72,12-08-81,Shenyang,Guangzhou Pharmaceutical,Beijing Guo'an,2012,Chinese
+7,7,Wang Changqing,CHN,M,1.78,75,21-03-81,Beijing,Guoli,Beijing Guo'an,2012,Chinese
+9,9,Tan Tiancheng,CHN,F,1.77,76,15-05-91,Taiyuan,None,Beijing Guo'an,2012,Chinese
+10,10,Zhang Xizhe,CHN,M,1.76,68,23-01-91,Wuhan,None,Beijing Guo'an,2012,Chinese
+11,11,Frédéric Kanouté,MLI,F,1.92,82,02-09-77,Sainte-Foy-le-Grande,Sevilla,Beijing Guo'an,2012,Chinese
+12,12,Hou Sen,CHN,G,1.88,71,30-06-89,Beijing,None,Beijing Guo'an,2012,Chinese
+13,13,Xu Yunlong,CHN,M,1.82,79,17-02-79,Beijing,None,Beijing Guo'an,2012,Chinese
+14,14,Yang Yun,CHN,D,1.83,72,18-07-89,Beijing,None,Beijing Guo'an,2012,Chinese
+16,16,Zhang Xiaobin,CHN,M,1.77,65,14-02-85,Xi'an,Tianjin Teda,Beijing Guo'an,2012,Chinese
+17,17,Xu Wu,CHN,M,1.70,61,14-02-91,,None,Beijing Guo'an,2012,Chinese
+18,18,Lang Zheng,CHN,D,1.86,79,22-07-86,Shijiazhuang,Hebei,Beijing Guo'an,2012,Chinese
+19,19,Wang Xiaolong,CHN,M,1.76,68,11-03-86,Beijing,Shandong Luneng,Beijing Guo'an,2012,Chinese
+20,20,Zhang Xinxin,CHN,M,1.78,72,19-10-83,Beijing,Wuhan,Beijing Guo'an,2012,Chinese
+21,21,Zhu Yifan,CHN,M,1.82,67,01-03-88,Beijing,None,Beijing Guo'an,2012,Chinese
+22,22,Yang Zhi,CHN,G,1.86,78,15-01-83,Guangzhou,Guangdong Xiongying,Beijing Guo'an,2012,Chinese
+23,23,Jiang Tao,CHN,D,1.81,76,28-06-89,Zibo,None,Beijing Guo'an,2012,Chinese
+24,24,Li Hanbo,CHN,M,1.70,68,26-01-91,Shenyang,None,Beijing Guo'an,2012,Chinese
+25,25,Jiao Zhe,CHN,D,1.81,70,21-08-81,Jinan,Shandong Luneng,Beijing Guo'an,2012,Chinese
+26,26,Wang Hao,CHN,M,1.77,63,18-02-89,Beijing,None,Beijing Guo'an,2012,Chinese
+27,27,Zhang Yonghai,CHN,D,1.83,75,15-03-79,Panjin,Liaoning,Beijing Guo'an,2012,Chinese
+28,28,Zhang Jian,CHN,F,1.70,67,28-02-89,Chongqing,Chongqing Lifan,Beijing Guo'an,2012,Chinese
+29,29,Shao Jiayi,CHN,M,1.88,83,10-04-80,Beijing,Duisburg,Beijing Guo'an,2012,Chinese
+30,30,Lei Tenglong,CHN,M,1.83,70,17-01-91,Wuhan,None,Beijing Guo'an,2012,Chinese
+32,32,Joffre Guerrón,ECU,M,1.74,74,28-04-85,Ambuqui,Atlético Paranaense,Beijing Guo'an,2012,Chinese
+33,33,Mao Jianqing,CHN,F,1.82,80,08-08-86,Shanghai,Shaanxi Chanba,Beijing Guo'an,2012,Chinese
+35,35,Li Tixiang,CHN,M,1.81,72,01-09-89,Shijiazhuang,None,Beijing Guo'an,2012,Chinese
+36,36,Bo Xiaolei,CHN,G,1.88,83,04-09-85,Dalian,Nanchang Hengyuan,Beijing Guo'an,2012,Chinese
+37,37,Reinaldo,BRA,F,1.94,84,13-06-84,Itaberí,Al-Raed,Beijing Guo'an,2012,Chinese
+38,38,Meng Yang,CHN,M,1.83,74,16-07-89,Shandong,None,Beijing Guo'an,2012,Chinese
+39,39,Piao Cheng,CHN,M,1.76,67,21-08-89,Yanbian,Yanbian,Beijing Guo'an,2012,Chinese
+1,1,Zong Lei,CHN,G,1.88,81,26-07-81,Tianjin,Shandong Luneng,Changchun Yatai,2012,Chinese
+2,2,Wang Wanpeng,CHN,D,1.86,78,09-06-82,Dalian,None,Changchun Yatai,2012,Chinese
+4,4,Anzur Ismailov,UZB,D,1.90,85,21-04-85,Tashkent,Bunyodkor,Changchun Yatai,2012,Chinese
+5,5,Cássio,BRA,D,1.92,85,11-02-87,Minaçu,Ethnikos Achna,Changchun Yatai,2012,Chinese
+6,6,Wang Dong,CHN,M,1.81,68,10-09-81,Qingdao,Pudong,Changchun Yatai,2012,Chinese
+7,7,Jiang Pengxiang,CHN,M,1.79,67,09-02-81,Shenyang,None,Changchun Yatai,2012,Chinese
+9,9,Weldon,BRA,F,1.83,77,06-08-80,Santo André,CFR Cluj,Changchun Yatai,2012,Chinese
+11,11,Zhang Wenzhao,CHN,F,1.78,63,28-05-87,Anshan,Shenzhen,Changchun Yatai,2012,Chinese
+12,12,Lü Jianjun,CHN,D,1.80,70,01-08-85,Dalian,Harbin Yiteng,Changchun Yatai,2012,Chinese
+13,13,Yi Fan,CHN,G,1.83,81,08-03-92,Harbin,None,Changchun Yatai,2012,Chinese
+14,14,Cao Tianbao,CHN,F,1.85,73,03-04-82,Shenyang,None,Changchun Yatai,2012,Chinese
+15,15,Sun Jie,CHN,D,1.86,81,09-02-91,Dalian,None,Changchun Yatai,2012,Chinese
+16,16,Jiang Zhe,CHN,M,1.86,75,26-02-89,Dalian,Dalian Yiteng,Changchun Yatai,2012,Chinese
+17,17,Cheng Changcheng,CHN,F,1.80,80,27-03-91,Dengzhou,None,Changchun Yatai,2012,Chinese
+18,18,Li Mou,CHN,M,1.82,71,08-03-89,Tieling,Liaoning Hongyun,Changchun Yatai,2012,Chinese
+19,19,Liu Xiaodong,CHN,M,1.80,70,14-06-88,Changchun,None,Changchun Yatai,2012,Chinese
+20,20,Piao Qianhua,CHN,M,1.74,70,09-07-87,,Liaoning,Changchun Yatai,2012,Chinese
+21,21,Liu Weidong,CHN,F,1.77,68,29-01-87,Changchun,None,Changchun Yatai,2012,Chinese
+22,22,Li Shang,CHN,M,1.77,65,20-06-91,Yanji,None,Changchun Yatai,2012,Chinese
+23,23,Zhang Xiaofei,CHN,M,1.79,70,11-07-82,Shenyang,Changchun Canyi,Changchun Yatai,2012,Chinese
+24,24,Cheng Liansheng,CHN,F,1.75,65,21-02-91,Dalian,None,Changchun Yatai,2012,Chinese
+25,25,Che Kai,CHN,D,1.85,80,27-01-91,Xi'an,None,Changchun Yatai,2012,Chinese
+26,26,Pan Chaoran,CHN,F,1.80,65,21-04-92,Wuhan,None,Changchun Yatai,2012,Chinese
+28,28,Mi Tianhe,CHN,G,1.86,72,05-01-83,Changchun,None,Changchun Yatai,2012,Chinese
+30,30,Qu Xiaohui,CHN,M,1.83,70,10-03-87,Dalian,Dalian Yiteng,Changchun Yatai,2012,Chinese
+32,32,Li Guang,CHN,D,1.78,77,20-06-91,Yanji,None,Changchun Yatai,2012,Chinese
+33,33,Edixon Perea,COL,F,1.78,73,20-04-84,Cali,Cruz Azul,Changchun Yatai,2012,Chinese
+36,36,Pei Shuai,CHN,D,1.85,72,14-01-93,Shenyang,None,Changchun Yatai,2012,Chinese
+37,37,Marquinhos,BUL,M,1.83,74,24-04-82,Barueri,Anorthosis Famagusta,Changchun Yatai,2012,Chinese
+40,40,John Jairo Mosquera,COL,F,1.93,82,15-01-88,Medellín,Union Berlin,Changchun Yatai,2012,Chinese
+1,1,Yu Ziqian,CHN,G,1.91,84,03-06-85,Dalian,Qingdao Jonoon,Dalian Aerbin,2012,Chinese
+3,3,Zhao Hejing,CHN,D,1.86,72,19-05-85,Chongqing,Chongqing Lifan,Dalian Aerbin,2012,Chinese
+4,4,Ji Zhengyu,CHN,D,1.85,76,08-06-94,Dalian,None,Dalian Aerbin,2012,Chinese
+5,5,Jin Pengxiang,CHN,D,1.90,74,25-01-90,Dalian,Hangzhou Greentown,Dalian Aerbin,2012,Chinese
+6,6,Zhu Xiaogang,CHN,M,1.80,78,06-10-87,Dalian,Chengdu Blades,Dalian Aerbin,2012,Chinese
+7,7,Wu Qing,CHN,M,1.70,70,04-07-81,Chongqing,Chongqing Lifan,Dalian Aerbin,2012,Chinese
+8,8,Fábio Rochemback,BRA,M,1.83,83,10-12-81,Soledade,Grêmio,Dalian Aerbin,2012,Chinese
+10,10,Wang Jun,CHN,M,1.81,70,12-04-90,Dalian,None,Dalian Aerbin,2012,Chinese
+11,11,Peter Utaka,NGA,F,1.77,79,12-02-84,Enugu,Odense,Dalian Aerbin,2012,Chinese
+12,12,Zhou Tong,CHN,M,1.71,66,12-01-90,Qingdao,None,Dalian Aerbin,2012,Chinese
+13,13,Lee Addy,GHA,D,1.78,72,07-07-90,Accra,Crvena Zvezda,Dalian Aerbin,2012,Chinese
+14,14,Hu Zhaojun,CHN,M,1.82,75,01-03-81,Dalian,Guangzhou Evergrande,Dalian Aerbin,2012,Chinese
+15,15,Yin Lu,CHN,M,1.82,78,03-01-89,Liaoning,None,Dalian Aerbin,2012,Chinese
+16,16,Daniel Mullen,AUS,D,1.85,80,26-10-89,Adelaide,Adelaide U,Dalian Aerbin,2012,Chinese
+17,17,Sun Haosheng,CHN,D,1.81,71,01-02-89,Qingdao,None,Dalian Aerbin,2012,Chinese
+18,18,Wang Meng,CHN,M,1.78,72,06-01-91,Yinchuan,None,Dalian Aerbin,2012,Chinese
+20,20,Seydou Keita,MLI,M,1.83,77,16-01-80,Bamako,Barcelona,Dalian Aerbin,2012,Chinese
+21,21,Chen Lei,CHN,D,1.80,75,16-10-85,Shanghai,Shenzhen Ruby,Dalian Aerbin,2012,Chinese
+22,22,Yu Dabao,CHN,F,1.83,78,18-04-88,Qingdao,Tianjin Teda,Dalian Aerbin,2012,Chinese
+23,23,Lei Tao,CHN,G,1.89,78,02-03-87,Dalian,Shanghai Shenhua,Dalian Aerbin,2012,Chinese
+24,24,Liu Yu,CHN,D,1.80,70,12-05-85,Sichuan,Jiangsu Sainty,Dalian Aerbin,2012,Chinese
+26,26,Jiang Wenjun,CHN,M,1.84,75,30-01-90,Dalian,None,Dalian Aerbin,2012,Chinese
+27,27,Chang Lin,CHN,D,1.79,78,17-04-81,Dalian,Hangzhou Greentown,Dalian Aerbin,2012,Chinese
+28,28,Wang Hongyou,CHN,D,1.88,83,23-01-85,Dalian,Hangzhou Greentown,Dalian Aerbin,2012,Chinese
+29,29,Sun Bo,CHN,M,1.84,70,22-01-91,Dalian,None,Dalian Aerbin,2012,Chinese
+30,30,Yang Lin,CHN,F,1.94,92,14-03-81,Dalian,Dalian Shide,Dalian Aerbin,2012,Chinese
+31,31,Zhan Lunhao,CHN,G,1.87,75,01-04-89,Qingdao,None,Dalian Aerbin,2012,Chinese
+32,32,Lü Zheng,CHN,D,1.81,70,15-05-89,Shandong,None,Dalian Aerbin,2012,Chinese
+33,33,Liu Weiguo,CHN,G,1.95,85,03-05-92,Tianjin,Shandong Luneng,Dalian Aerbin,2012,Chinese
+36,36,Li Qi,CHN,D,1.71,70,20-03-92,Shenyang,None,Dalian Aerbin,2012,Chinese
+37,37,Quan Heng,CHN,M,1.78,75,30-09-89,Dalian,Shenzhen Ruby,Dalian Aerbin,2012,Chinese
+38,38,Chen Hongquan,CHN,F,1.82,73,23-01-89,Liaoning,None,Dalian Aerbin,2012,Chinese
+40,40,Dong Xuesheng,CHN,F,1.88,80,22-05-89,Dalian,Shanghai Shenhua,Dalian Aerbin,2012,Chinese
+41,41,Shan Pengfei,CHN,D,1.84,74,07-05-93,Dalian,None,Dalian Aerbin,2012,Chinese
+1,1,Sun Shoubo,CHN,G,1.91,93,11-06-83,Dalian,Sichuan Guancheng,Dalian Shide,2012,Chinese
+2,2,Jin Yangyang,CHN,D,1.86,70,03-02-93,Dalian,None,Dalian Shide,2012,Chinese
+3,3,Zheng Jianfeng,CHN,D,1.78,71,22-03-89,Dalian,None,Dalian Shide,2012,Chinese
+4,4,Xue Ya'nan,CHN,D,1.82,75,05-06-90,,None,Dalian Shide,2012,Chinese
+5,5,Yang Boyu,CHN,D,1.86,80,24-06-89,Dalian,None,Dalian Shide,2012,Chinese
+6,6,Zhang Yaokun,CHN,D,1.82,80,07-04-81,Dalian,Sichuan,Dalian Shide,2012,Chinese
+7,7,Zhao Honglüe,CHN,F,1.78,70,04-12-89,Dalian,None,Dalian Shide,2012,Chinese
+8,8,Zhu Ting,CHN,F,1.81,79,15-07-85,Dalian,None,Dalian Shide,2012,Chinese
+9,9,Martin Kamburov,BUL,F,1.88,80,13-10-80,Svilengrad,Lokomotiv Sofia,Dalian Shide,2012,Chinese
+10,10,Adriano,BRA,F,1.70,65,28-09-87,Valença,Fluminense,Dalian Shide,2012,Chinese
+11,11,James Chamanga,ZAM,F,1.70,75,02-02-80,Luanshya,Moroka Swallows,Dalian Shide,2012,Chinese
+12,12,Jiang Hao,CHN,G,1.89,80,28-12-89,Dalian,None,Dalian Shide,2012,Chinese
+13,13,Quan Lei,CHN,M,1.78,78,13-01-85,Dalian,None,Dalian Shide,2012,Chinese
+14,14,Zhao Xuebin,CHN,F,1.83,77,12-01-93,Dalian,None,Dalian Shide,2012,Chinese
+15,15,Zhao Mingjian,CHN,M,1.80,75,22-11-87,Dalian,None,Dalian Shide,2012,Chinese
+16,16,Hao Xingchen,CHN,M,1.78,73,08-01-87,,None,Dalian Shide,2012,Chinese
+17,17,Liu Yingchen,CHN,M,1.84,74,15-01-93,Dalian,None,Dalian Shide,2012,Chinese
+19,19,Yan Xiangchuang,CHN,F,1.74,66,05-09-86,Dalian,Beijing Guo'an,Dalian Shide,2012,Chinese
+20,20,Ricardo Esteves,POR,D,1.75,68,16-09-79,Lisbon,Marítimo,Dalian Shide,2012,Chinese
+21,21,Lü Peng,CHN,M,1.80,75,28-10-89,Dalian,None,Dalian Shide,2012,Chinese
+22,22,Zhang Chong,CHN,G,1.90,80,25-11-87,Dalian,None,Dalian Shide,2012,Chinese
+23,23,Park Dong-Hyuk,KOR,D,1.85,78,18-04-79,Seoul,Kashiwa Reysol,Dalian Shide,2012,Chinese
+24,24,Yan Feng,CHN,M,1.73,68,07-02-82,Dalian,Changchun Yatai,Dalian Shide,2012,Chinese
+25,25,Jiang Jihong,CHN,D,1.88,80,08-02-90,Dalian,None,Dalian Shide,2012,Chinese
+27,27,Li Xuepeng,CHN,M,1.84,76,18-09-88,Dalian,None,Dalian Shide,2012,Chinese
+28,28,Qu Jiachen,CHN,D,1.78,68,11-10-93,Dalian,None,Dalian Shide,2012,Chinese
+29,29,Sun Guowen,CHN,M,1.80,70,30-09-93,Dalian,None,Dalian Shide,2012,Chinese
+30,30,Ni Yunsong,CHN,M,1.79,69,01-01-91,Dalian,None,Dalian Shide,2012,Chinese
+34,34,Wang Guanghao,CHN,D,,,,,None,Dalian Shide,2012,Chinese
+41,46,Wang Shixin,CHN,M,1.80,75,09-01-93,,None,Dalian Shide,2012,Chinese
+42,49,Han Yi,CHN,M,1.85,74,31-01-93,Dalian,None,Dalian Shide,2012,Chinese
+1,1,Yang Jun,CHN,G,1.87,78,10-06-81,Tianjin,Tianjin Teda,Guangzhou Evergrande,2012,Chinese
+2,2,Tu Dongxu,CHN,D,1.85,72,13-11-91,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+3,3,Paulão,BRA,D,1.87,82,25-02-86,Bahia,Grêmio Prudente,Guangzhou Evergrande,2012,Chinese
+4,4,Rong Hao,CHN,D,1.77,68,07-04-87,Wuhan,Hangzhou Greentown,Guangzhou Evergrande,2012,Chinese
+5,5,Zhang Linpeng,CHN,D,1.86,78,09-05-89,Jinan,Shanghai East Asia,Guangzhou Evergrande,2012,Chinese
+6,6,Feng Xiaoting,CHN,D,1.85,74,22-10-85,Dalian,Jeonbuk Hyundai Motors,Guangzhou Evergrande,2012,Chinese
+7,7,Feng Junyan,CHN,M,1.80,66,18-02-84,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+8,8,Qin Sheng,CHN,D,1.82,78,02-11-86,Dalian,Liaoning Hongyun,Guangzhou Evergrande,2012,Chinese
+9,9,Cléo,BRA,F,1.85,80,09-08-85,Guarapuava,Partizan Belgrade,Guangzhou Evergrande,2012,Chinese
+10,10,Zheng Zhi,CHN,M,1.80,72,20-08-80,Shenyang,Celtic,Guangzhou Evergrande,2012,Chinese
+11,11,Muriqui,BRA,F,1.70,72,16-06-86,Rio de Janeiro,Desportivo Brasil,Guangzhou Evergrande,2012,Chinese
+12,12,Dong Chunyu,CHN,G,1.86,77,25-03-91,Shenyang,None,Guangzhou Evergrande,2012,Chinese
+13,13,Tang Dechao,CHN,D,1.88,83,09-02-85,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+14,14,Li Jianhua,CHN,D,1.75,65,12-02-82,Meixian,Shenzhen,Guangzhou Evergrande,2012,Chinese
+15,15,Darío Conca,ARG,M,1.67,62,11-05-83,Capital Federal,Fluminense,Guangzhou Evergrande,2012,Chinese
+16,16,Cho Won-Hee,KOR,M,1.77,72,17-04-83,Seoul,Wigan Ath,Guangzhou Evergrande,2012,Chinese
+17,17,Gao Zhilin,CHN,F,1.68,65,08-01-91,Wuhua,None,Guangzhou Evergrande,2012,Chinese
+18,18,Lucas Barrios,PAR,F,1.87,87,13-11-84,San Fernando,Borussia Dortmund,Guangzhou Evergrande,2012,Chinese
+19,19,Li Jianbin,CHN,D,1.84,74,19-04-89,Binzhou,Chengdu Blades,Guangzhou Evergrande,2012,Chinese
+20,20,Ni Bo,CHN,F,1.80,65,04-05-89,Wuhan,Wuhan,Guangzhou Evergrande,2012,Chinese
+21,21,Jiang Ning,CHN,F,1.77,70,01-09-86,Qingdao,Qingdao Jonoon,Guangzhou Evergrande,2012,Chinese
+22,22,Li Shuai,CHN,G,1.88,77,18-08-82,Qingdao,Qingdao Jonoon,Guangzhou Evergrande,2012,Chinese
+23,23,Li Zhilang,CHN,M,1.73,65,22-08-91,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+24,24,Shi Hongjun,CHN,M,1.84,75,04-10-91,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+25,25,Peng Xinli,CHN,M,1.76,62,22-07-91,Chengdu,Chengdu Blades,Guangzhou Evergrande,2012,Chinese
+26,26,Wu Pingfeng,CHN,M,1.60,61,13-11-81,Zhongshan,Jiangsu,Guangzhou Evergrande,2012,Chinese
+27,27,Ye Weichao,CHN,F,1.77,69,18-02-89,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+28,28,Kim Young-Gwon,KOR,D,1.86,74,27-02-90,Jeonju,Omiya Ardija,Guangzhou Evergrande,2012,Chinese
+29,29,Gao Lin,CHN,F,1.80,82,14-02-86,Zhengzhou,Shanghai Shenhua,Guangzhou Evergrande,2012,Chinese
+30,30,Peng Shaoxiong,CHN,M,1.73,68,27-05-89,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+31,31,Zhang Hongnan,CHN,D,1.82,68,17-01-91,Shenyang,None,Guangzhou Evergrande,2012,Chinese
+32,32,Sun Xiang,CHN,D,1.80,75,15-01-82,Shanghai,Shanghai Shenhua,Guangzhou Evergrande,2012,Chinese
+34,34,Huang Jiaqing,CHN,D,1.78,73,14-03-90,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+35,35,Mehmet Ali,CHN,F,1.69,60,07-01-93,Xinjiang,None,Guangzhou Evergrande,2012,Chinese
+37,37,Zhao Xuri,CHN,M,1.82,80,03-12-85,Dalian,Shaanxi Chanba,Guangzhou Evergrande,2012,Chinese
+39,39,Tan Jiajun,CHN,M,1.77,62,17-12-93,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+41,42,Huang Bowen,CHN,M,1.76,68,13-07-87,Changsha,Jeonbuk Hyundai Motors,Guangzhou Evergrande,2012,Chinese
+42,48,Zhi Xinhua,CHN,G,1.87,77,07-08-87,Guangzhou,None,Guangzhou Evergrande,2012,Chinese
+1,1,Cheng Yuelei,CHN,G,1.88,80,28-10-87,Beijing,Shenzhen Ruby,Guangzhou R&F,2012,Chinese
+2,2,Sui Donglu,CHN,D,1.93,86,21-06-83,Dalian,Chengdu Blades,Guangzhou R&F,2012,Chinese
+3,3,Liu Cheng,CHN,D,1.83,71,23-10-83,Changsha,Chengdu Blades,Guangzhou R&F,2012,Chinese
+4,4,Li Wenbo,CHN,D,1.78,68,09-12-83,Shandong,None,Guangzhou R&F,2012,Chinese
+5,5,Wang Bin,CHN,D,1.86,85,23-05-89,Beijing,None,Guangzhou R&F,2012,Chinese
+6,6,Xu Bo,CHN,M,1.88,95,18-05-85,Liaoning,None,Guangzhou R&F,2012,Chinese
+7,7,Yu Guijun,CHN,M,1.73,70,15-04-85,Dandong,None,Guangzhou R&F,2012,Chinese
+8,8,Jumar,BRA,M,1.77,74,28-04-86,Bandeirantes,Desportivo Brasil,Guangzhou R&F,2012,Chinese
+9,9,Wen Chao,CHN,F,1.82,75,16-01-87,Shenyang,None,Guangzhou R&F,2012,Chinese
+10,10,Davi,BRA,M,1.75,72,06-04-84,Rio Grande do Sul,Coritiba,Guangzhou R&F,2012,Chinese
+11,11,Rafael Coelho,BRA,F,1.74,78,20-05-88,Florianópolis,Desportivo Brasil,Guangzhou R&F,2012,Chinese
+12,12,Shi Xiaotian,CHN,G,1.90,80,06-03-90,Shenyang,None,Guangzhou R&F,2012,Chinese
+13,13,Wu Wei'an,CHN,M,1.81,70,01-09-81,Meizhou,Tianjin Teda,Guangzhou R&F,2012,Chinese
+15,15,Liang Yanfeng,CHN,M,1.80,78,18-04-87,Shenyang,None,Guangzhou R&F,2012,Chinese
+16,16,Zhang Ao,CHN,M,1.80,75,16-01-91,Taiyuan,None,Guangzhou R&F,2012,Chinese
+17,17,Li Zhe,CHN,D,1.90,90,20-06-81,Shenyang,Nanjing Yoyo,Guangzhou R&F,2012,Chinese
+18,18,Zhang Yuan,CHN,F,1.85,82,08-12-89,Beijing,Chengdu Blades,Guangzhou R&F,2012,Chinese
+19,19,Pan Chi,CHN,M,1.73,65,09-05-89,Shenyang,None,Guangzhou R&F,2012,Chinese
+20,20,Tang Miao,CHN,M,1.77,74,16-10-90,Dalian,Beijing Guo'an,Guangzhou R&F,2012,Chinese
+21,21,Gao Zengxiang,CHN,M,1.78,72,21-12-89,Shenyang,None,Guangzhou R&F,2012,Chinese
+22,22,Wang Zihua,CHN,F,1.87,81,03-04-93,Shenyang,None,Guangzhou R&F,2012,Chinese
+23,23,Lu Lin,CHN,M,1.68,67,03-02-85,Guangzhou,Guangdong Sunray Cave,Guangzhou R&F,2012,Chinese
+24,24,Li Lingwei,CHN,M,1.83,73,18-02-91,Guangdong,Shenzhen Ruby,Guangzhou R&F,2012,Chinese
+25,25,Yakubu Aiyegbeni,NGA,F,1.83,83,22-11-82,Benin City,Blackburn R,Guangzhou R&F,2012,Chinese
+26,26,Zhao Ming,CHN,M,1.88,88,03-10-87,Yanji,Yanbian FC,Guangzhou R&F,2012,Chinese
+27,27,Gao Jiulong,CHN,D,1.80,77,27-07-89,Shenyang,None,Guangzhou R&F,2012,Chinese
+29,29,Zhang Shuo,CHN,F,1.84,72,17-09-83,Beijing,Newcastle U Jets,Guangzhou R&F,2012,Chinese
+30,30,Sun Ce,CHN,G,1.86,86,02-04-91,Shenyang,None,Guangzhou R&F,2012,Chinese
+32,32,Wang Lüe,CHN,G,1.90,84,19-05-85,Shenyang,None,Guangzhou R&F,2012,Chinese
+33,33,Li Yan,CHN,M,1.80,79,19-07-84,Baoding,Guangzhou Evergrande,Guangzhou R&F,2012,Chinese
+35,35,Rostyn Griffiths,AUS,M,1.87,86,10-03-88,Stoke-on-Trent,Central Coast Mariners,Guangzhou R&F,2012,Chinese
+36,36,Men Yang,CHN,F,1.96,85,20-02-91,Luoyang,Changchun Yatai,Guangzhou R&F,2012,Chinese
+1,1,Shen Jun,CHN,G,1.88,85,05-10-86,Shanghai,None,Guizhou Renhe,2012,Chinese
+2,2,Wu Wei,CHN,D,1.91,80,10-03-83,Tianjin,Hangzhou Greentown,Guizhou Renhe,2012,Chinese
+3,3,Zhang Chenglin,CHN,D,1.83,75,20-01-87,Bengbu,Changsha Ginde,Guizhou Renhe,2012,Chinese
+5,5,Wan Houliang,CHN,D,1.87,80,25-02-86,Beijing,ČSK Pivara,Guizhou Renhe,2012,Chinese
+6,6,Dino Djulbić,AUS,D,1.93,88,16-02-83,Doboj,Gold Coast U,Guizhou Renhe,2012,Chinese
+7,7,Nano,ESP,D,1.86,79,07-07-80,Ciudad Real,Levante,Guizhou Renhe,2012,Chinese
+8,8,Li Chunyu,CHN,M,1.82,65,21-08-86,Liaoning,Gangwon,Guizhou Renhe,2012,Chinese
+9,9,Zlatan Muslimović,BIH,F,1.89,83,06-03-81,Banja Luka,PAOK,Guizhou Renhe,2012,Chinese
+10,10,Rubén,ESP,M,1.67,67,19-02-79,Gijón,Levante,Guizhou Renhe,2012,Chinese
+11,11,Rafa Jordá,ESP,F,1.92,80,11-01-84,Santa Perpetua,Levante,Guizhou Renhe,2012,Chinese
+12,12,Zhang Lie,CHN,G,1.90,85,25-05-82,Shenyang,Shenyang Dongjin,Guizhou Renhe,2012,Chinese
+14,14,Yang Yihu,CHN,F,1.75,65,16-09-91,Shantou,Guangzhou Evergrande,Guizhou Renhe,2012,Chinese
+15,15,Chen Jie,CHN,M,1.85,81,15-10-89,Shenzhen,Shandong Luneng,Guizhou Renhe,2012,Chinese
+16,16,Lu Qiang,CHN,D,1.87,78,08-01-89,Dalian,Dalian Shide,Guizhou Renhe,2012,Chinese
+17,17,Sun Jihai,CHN,D,1.83,75,30-09-77,Dalian,Chengdu Blades,Guizhou Renhe,2012,Chinese
+18,18,Shen Tianfeng,CHN,F,1.85,75,18-03-94,Shenyang,None,Guizhou Renhe,2012,Chinese
+19,19,Liu Tianqi,CHN,D,1.82,77,17-01-89,Heilongjiang,None,Guizhou Renhe,2012,Chinese
+21,21,Yu Hai,CHN,M,1.83,78,04-06-87,Luoyang,Vitesse Arnhem,Guizhou Renhe,2012,Chinese
+22,22,Sheng Peng,CHN,G,1.88,80,09-02-89,Xuzhou,None,Guizhou Renhe,2012,Chinese
+23,23,Xu Jiamin,CHN,G,1.92,82,11-04-94,Shanghai,None,Guizhou Renhe,2012,Chinese
+24,24,Yang Lei,CHN,M,1.80,71,09-01-93,Lijiang,None,Guizhou Renhe,2012,Chinese
+25,25,Li Kai,CHN,F,1.85,76,25-07-89,Qingdao,Dalian,Guizhou Renhe,2012,Chinese
+27,27,Qu Bo,CHN,F,1.82,73,15-07-81,Tianjin,Qingdao,Guizhou Renhe,2012,Chinese
+28,28,Dong Yang,CHN,D,1.87,80,14-01-83,Beijing,Beijing Baxy,Guizhou Renhe,2012,Chinese
+29,29,Yang Hao,CHN,M,1.76,66,19-08-83,Beijing,Guangzhou Evergrande,Guizhou Renhe,2012,Chinese
+30,30,Liu Qing,CHN,D,1.80,75,05-04-86,Qingdao,Qingdao,Guizhou Renhe,2012,Chinese
+31,31,Rao Wenhui,CHN,M,1.78,70,25-03-89,Meizhou,None,Guizhou Renhe,2012,Chinese
+32,32,Gao Zhenzhe,CHN,D,1.82,72,25-01-93,Heilongjiang,None,Guizhou Renhe,2012,Chinese
+33,33,Guo Sheng,CHN,M,1.80,75,07-01-93,Shanghai,None,Guizhou Renhe,2012,Chinese
+1,1,Han Feng,CHN,G,1.88,80,05-12-83,Shijiazhuang,Shenzhen,Hangzhou Greentown,2012,Chinese
+2,2,Jeong Dong-Ho,KOR,D,1.75,67,07-03-90,Busan,Yokohama F Marinos,Hangzhou Greentown,2012,Chinese
+3,3,Kim Dong-Jin,KOR,D,1.83,77,29-01-82,Dongducheon,FC Seoul,Hangzhou Greentown,2012,Chinese
+6,6,Shi Ke,CHN,D,1.84,80,06-01-93,Xuzhou,None,Hangzhou Greentown,2012,Chinese
+7,7,Xie Zhiyu,CHN,F,1.80,78,06-05-87,Wuhan,Wuhan,Hangzhou Greentown,2012,Chinese
+8,8,Chen Zhongliu,CHN,M,1.84,73,30-09-93,Duyun,None,Hangzhou Greentown,2012,Chinese
+9,9,Mazola,BRA,F,1.77,79,08-05-89,Guarulhos,São Paulo,Hangzhou Greentown,2012,Chinese
+10,10,Renatinho,BRA,F,1.73,65,14-05-87,São Vicente,Rentistas,Hangzhou Greentown,2012,Chinese
+11,11,Fabrício,BRA,M,1.80,78,28-03-90,Hortolândia,Portimonense,Hangzhou Greentown,2012,Chinese
+13,13,Cao Xuan,CHN,D,1.95,85,02-07-85,Dalian,Dalian,Hangzhou Greentown,2012,Chinese
+14,14,Feng Gang,CHN,M,1.76,62,06-03-93,Wuhan,None,Hangzhou Greentown,2012,Chinese
+15,15,Sun Ji,CHN,M,1.82,73,15-01-82,Shanghai,Shanghai Shenhua,Hangzhou Greentown,2012,Chinese
+16,16,Fan Xiaodong,CHN,M,1.78,72,02-03-87,Zibo,Shenzhen,Hangzhou Greentown,2012,Chinese
+17,17,Yang Zhi,CHN,F,1.93,84,06-08-89,Liaoning,None,Hangzhou Greentown,2012,Chinese
+18,18,Zheng Kewei,CHN,M,1.83,75,21-01-80,Shanghai,Shanghai Shenhua,Hangzhou Greentown,2012,Chinese
+19,19,Tang Jiashu,CHN,D,1.83,75,22-09-90,Shanghai,None,Hangzhou Greentown,2012,Chinese
+20,20,Bari Mamatil,CHN,F,1.75,70,27-07-89,Fuyun,Xinjiang,Hangzhou Greentown,2012,Chinese
+21,21,Dong Yu,CHN,D,1.78,62,15-07-94,Shandong,None,Hangzhou Greentown,2012,Chinese
+22,22,Xie Pengfei,CHN,M,1.81,73,29-06-93,Guiyang,None,Hangzhou Greentown,2012,Chinese
+23,23,Gu Chao,CHN,G,1.94,86,20-08-89,Shanghai,None,Hangzhou Greentown,2012,Chinese
+24,24,Liu Bin,CHN,D,1.75,65,20-03-91,,None,Hangzhou Greentown,2012,Chinese
+25,25,Wu Hang,CHN,D,1.75,65,01-02-93,Cangnan,None,Hangzhou Greentown,2012,Chinese
+26,26,Niu Xiucheng,CHN,M,1.80,70,06-01-93,,None,Hangzhou Greentown,2012,Chinese
+27,27,Wang Kai,CHN,M,1.82,76,18-01-89,Hubei,None,Hangzhou Greentown,2012,Chinese
+28,28,Cao Haiqing,CHN,D,1.74,69,28-09-93,Yunnan,None,Hangzhou Greentown,2012,Chinese
+29,29,Jiang Bo,CHN,G,1.87,88,25-01-82,Shenyang,Nanjing Yoyo,Hangzhou Greentown,2012,Chinese
+30,30,Zeng Yue,CHN,F,1.86,75,03-04-90,Hangzhou,None,Hangzhou Greentown,2012,Chinese
+31,31,Yang Chen,CHN,D,1.80,65,22-12-89,,None,Hangzhou Greentown,2012,Chinese
+32,32,Wu Yuyin,CHN,D,1.88,75,08-01-90,Liuzhou,None,Hangzhou Greentown,2012,Chinese
+33,33,Wang Song,CHN,F,1.77,73,12-10-83,Guiyang,Chengdu Blades,Hangzhou Greentown,2012,Chinese
+34,34,Zou Dehai,CHN,G,1.87,79,27-02-93,Dalian,None,Hangzhou Greentown,2012,Chinese
+35,35,Yang Ke,CHN,M,1.84,76,19-04-89,Changsha,None,Hangzhou Greentown,2012,Chinese
+36,36,Zang Yifeng,CHN,F,1.68,65,15-10-93,Guizhou,None,Hangzhou Greentown,2012,Chinese
+39,39,Sun Zheng'ao,CHN,D,1.83,73,08-03-94,Qingdao,None,Hangzhou Greentown,2012,Chinese
+41,53,Zhuang Jiajie,CHN,M,1.74,68,05-09-93,Lufeng,None,Hangzhou Greentown,2012,Chinese
+1,1,Zhou Yajun,CHN,G,1.86,80,17-10-84,Shanghai,Shanghai Shenhua,Henan Jianye,2012,Chinese
+2,2,Son Seung-Joon,KOR,D,1.86,72,16-05-82,,Jeonbuk Hyundai Motors,Henan Jianye,2012,Chinese
+3,3,Yao Bing,CHN,D,1.83,78,28-11-81,,None,Henan Jianye,2012,Chinese
+4,4,Zhao Peng,CHN,D,1.81,75,20-06-83,Bengbu,None,Henan Jianye,2012,Chinese
+6,6,Bi Jinhao,CHN,F,1.90,81,05-01-91,Dalian,Boavista,Henan Jianye,2012,Chinese
+7,7,Xiao Zhi,CHN,F,1.86,68,28-05-85,Luoyang,None,Henan Jianye,2012,Chinese
+8,8,Zhang Lu,CHN,M,1.80,64,23-08-87,Hubei,None,Henan Jianye,2012,Chinese
+9,9,Leandro Netto,BRA,F,1.85,81,07-05-79,Rio de Janeiro,Mesquita,Henan Jianye,2012,Chinese
+11,11,Christopher Katongo,ZAM,F,1.78,75,31-08-82,Mufulira,Skoda Xanthi,Henan Jianye,2012,Chinese
+12,12,Ma Chongchong,CHN,D,1.83,74,17-01-91,Luoyang,Beijing Guo'an,Henan Jianye,2012,Chinese
+13,13,Abduwal Ablet,CHN,M,1.73,65,03-02-89,Karamay,Shenzhen Ruby,Henan Jianye,2012,Chinese
+14,14,Huang Xiyang,CHN,M,1.78,75,14-06-85,Chongqing,Chongqing Lifan,Henan Jianye,2012,Chinese
+15,15,Gu Cao,CHN,D,1.81,73,31-05-86,Shanghai,Shanghai Shenhua,Henan Jianye,2012,Chinese
+16,16,Tan Wangsong,CHN,D,1.80,73,19-12-85,Chengdu,Tianjin Teda,Henan Jianye,2012,Chinese
+17,17,Li Zhaonan,CHN,M,1.78,68,22-09-82,,None,Henan Jianye,2012,Chinese
+18,18,Xu Yang,CHN,M,1.72,65,18-06-87,Shandong,Shandong Luneng,Henan Jianye,2012,Chinese
+19,19,Zeng Cheng,CHN,G,1.88,76,08-01-87,Wuhan,Wuhan,Henan Jianye,2012,Chinese
+20,20,Zhang Ke,CHN,D,1.78,70,20-03-85,Shenyang,Shaanxi Chanba,Henan Jianye,2012,Chinese
+21,21,Yuan Ye,CHN,M,1.75,65,22-09-93,Zhengzhou,None,Henan Jianye,2012,Chinese
+22,22,Zi Long,CHN,M,1.75,65,24-05-90,,None,Henan Jianye,2012,Chinese
+23,23,Qiao Wei,CHN,D,1.86,74,20-07-87,Luoyang,None,Henan Jianye,2012,Chinese
+24,24,Wang Haozhi,CHN,M,1.86,78,27-02-91,,Beijing Guo'an,Henan Jianye,2012,Chinese
+25,25,Han Chao,CHN,D,1.78,70,31-01-89,Luoyang,None,Henan Jianye,2012,Chinese
+26,26,Liu Ziqian,CHN,G,1.88,76,18-10-91,,None,Henan Jianye,2012,Chinese
+27,27,Zhang Li,CHN,M,1.75,65,06-08-89,Luoyang,None,Henan Jianye,2012,Chinese
+28,28,Wang Jia'nan,CHN,M,1.75,68,31-05-93,Luoyang,None,Henan Jianye,2012,Chinese
+29,29,Li Ya'nan,CHN,G,1.89,76,10-08-93,,None,Henan Jianye,2012,Chinese
+30,30,He Bin,CHN,M,1.78,70,26-06-83,Henan,Shanghai Shenhua,Henan Jianye,2012,Chinese
+31,31,Isaac Chansa,ZAM,M,1.70,70,23-03-84,Kitwe,Orlando Pirates,Henan Jianye,2012,Chinese
+33,33,Godfred Karikari,HKG,F,1.73,75,11-03-85,,TSW Pegasus,Henan Jianye,2012,Chinese
+34,34,Adailton,BRA,D,1.90,82,14-04-83,Salvador,Sion,Henan Jianye,2012,Chinese
+35,35,Lu Feng,CHN,M,1.82,78,12-11-81,Luoyang,Qingdao,Henan Jianye,2012,Chinese
+1,1,Deng Xiaofei,CHN,G,1.86,80,31-05-83,Qingdao,Wuhan,Jiangsu Sainty,2012,Chinese
+2,2,Cao Rui,CHN,M,1.77,70,02-10-81,,None,Jiangsu Sainty,2012,Chinese
+3,3,Eleílson,BRA,D,1.94,92,02-04-85,Nova Era,Social,Jiangsu Sainty,2012,Chinese
+4,4,Xu Youzhi,CHN,D,1.78,68,13-12-89,Shenyang,Chongqing Lifan,Jiangsu Sainty,2012,Chinese
+5,5,Zhou Yun,CHN,D,1.83,75,31-12-90,Jiangsu,None,Jiangsu Sainty,2012,Chinese
+6,6,Jiang Jiajun,CHN,D,1.83,79,08-01-90,Shanghai,Shanghai Shenhua,Jiangsu Sainty,2012,Chinese
+8,8,Liu Jianye,CHN,M,1.78,66,17-06-87,Shenyang,Changsha Ginde,Jiangsu Sainty,2012,Chinese
+9,9,Lu Bofei,CHN,M,1.75,70,02-08-79,Beijing,Wuhan,Jiangsu Sainty,2012,Chinese
+10,10,Cristian Dănălache,ROU,F,1.90,86,15-07-82,Bucharest,Bnei Sakhnin,Jiangsu Sainty,2012,Chinese
+11,11,Wang Yunlong,CHN,F,1.70,60,22-02-90,Anshan,Shanghai East Asia,Jiangsu Sainty,2012,Chinese
+12,12,Ai Zhibo,CHN,D,1.85,76,29-10-82,Wuhan,Changchun Yatai,Jiangsu Sainty,2012,Chinese
+13,13,Wang Jie,CHN,M,1.83,78,14-01-89,,None,Jiangsu Sainty,2012,Chinese
+14,14,Tang Miao,CHN,M,1.77,72,08-11-90,,None,Jiangsu Sainty,2012,Chinese
+15,15,Ge Wei,CHN,F,2.00,90,09-09-89,Nanjing,None,Jiangsu Sainty,2012,Chinese
+16,16,Deng Zhuoxiang,CHN,M,1.81,70,24-10-88,Wuhan,Shandong Luneng,Jiangsu Sainty,2012,Chinese
+17,17,Qu Cheng,CHN,F,1.85,72,08-02-89,Nanjing,None,Jiangsu Sainty,2012,Chinese
+18,18,Li Chi,CHN,M,1.73,64,06-03-83,Guangdong,Guangdong Xiongying,Jiangsu Sainty,2012,Chinese
+19,19,Qian Zhelong,CHN,M,1.71,60,04-08-90,,None,Jiangsu Sainty,2012,Chinese
+20,20,Sun Ke,CHN,F,1.71,54,26-08-89,Jiangsu,None,Jiangsu Sainty,2012,Chinese
+21,21,Sergey Krivets,BLR,M,1.77,77,08-06-86,Grodno,Lech Poznań,Jiangsu Sainty,2012,Chinese
+23,23,Ren Hang,CHN,D,1.84,77,23-02-89,Liaoning,Changsha Ginde,Jiangsu Sainty,2012,Chinese
+24,24,Ji Xiang,CHN,M,1.85,78,01-03-90,Jiangsu,None,Jiangsu Sainty,2012,Chinese
+25,25,Ye Hui,CHN,M,1.76,68,05-01-91,Harbin,PTT Rayong,Jiangsu Sainty,2012,Chinese
+26,26,Guan Zhen,CHN,G,1.85,83,06-02-85,Tianjin,Shandong Luneng,Jiangsu Sainty,2012,Chinese
+27,27,Wang Guanyu,CHN,D,1.80,74,25-01-91,,Changsha Ginde,Jiangsu Sainty,2012,Chinese
+28,28,Yang Xiaotian,CHN,D,1.78,72,26-03-90,Lianyungang,None,Jiangsu Sainty,2012,Chinese
+29,29,Liu Ji,CHN,M,1.67,55,27-12-90,Guiyang,None,Jiangsu Sainty,2012,Chinese
+30,30,Li Zhenhuan,CHN,F,1.79,75,16-03-93,,Hebei Zhongji,Jiangsu Sainty,2012,Chinese
+31,31,Zhang Jiabei,CHN,M,1.78,72,27-03-93,,Hebei Zhongji,Jiangsu Sainty,2012,Chinese
+32,32,Liu Jun,CHN,G,1.88,75,02-02-90,,None,Jiangsu Sainty,2012,Chinese
+33,33,Xiong Tao,CHN,D,1.83,81,07-03-90,,None,Jiangsu Sainty,2012,Chinese
+35,35,Zhu Chao,CHN,M,1.80,70,08-04-91,,None,Jiangsu Sainty,2012,Chinese
+36,36,Sun Xiang,CHN,M,1.70,68,20-01-91,,None,Jiangsu Sainty,2012,Chinese
+38,38,Aleksandar Jevtić,SRB,F,1.76,72,30-03-85,abac,Crvena Zvezda,Jiangsu Sainty,2012,Chinese
+39,39,Kamoliddin Tadjiev,UZB,D,1.83,80,03-05-83,Jizzakh,Pakhtakor,Jiangsu Sainty,2012,Chinese
+40,40,Du Wenhui,CHN,F,1.82,78,19-12-83,Beijing,Beijing Guo'an,Jiangsu Sainty,2012,Chinese
+1,1,Zhang Lu,CHN,G,1.92,85,06-09-87,Tianjin,None,Liaoning Hongyun,2012,Chinese
+2,2,Ding Jie,CHN,M,1.82,70,29-04-87,Dalian,None,Liaoning Hongyun,2012,Chinese
+3,3,Wu Gaojun,CHN,D,1.85,70,06-03-85,Dalian,None,Liaoning Hongyun,2012,Chinese
+5,5,Yang Shanping,CHN,D,1.88,80,28-10-87,Dalian,None,Liaoning Hongyun,2012,Chinese
+6,6,Yang Yu,CHN,M,1.86,75,18-04-85,Shenyang,None,Liaoning Hongyun,2012,Chinese
+7,7,Zhang Jingyang,CHN,M,1.79,75,25-01-89,Yunnan,Fushun Xinye,Liaoning Hongyun,2012,Chinese
+8,8,Jin Taiyan,CHN,M,1.73,62,21-08-89,Yanji,None,Liaoning Hongyun,2012,Chinese
+9,9,Zhao Junzhe,CHN,M,1.80,72,18-04-79,Shenyang,None,Liaoning Hongyun,2012,Chinese
+10,10,Vlatko Grozdanovski,MKD,M,1.76,64,30-01-83,Skopje,Vardar Skopje,Liaoning Hongyun,2012,Chinese
+11,11,Zheng Tao,CHN,D,1.80,70,20-08-85,Dalian,Shaanxi,Liaoning Hongyun,2012,Chinese
+12,12,Cui Kai,CHN,G,1.87,83,21-01-87,Dalian,None,Liaoning Hongyun,2012,Chinese
+14,14,Milos Trifunović,SRB,F,1.86,80,15-10-84,Belgrade,Crvena Zvezda,Liaoning Hongyun,2012,Chinese
+15,15,Du Wenyang,CHN,D,1.82,75,28-01-90,Shandong,None,Liaoning Hongyun,2012,Chinese
+16,16,Hu Yanqiang,CHN,M,1.78,63,20-03-93,Benxi,None,Liaoning Hongyun,2012,Chinese
+17,17,Han Xuegeng,CHN,D,1.82,72,10-07-89,Dalian,None,Liaoning Hongyun,2012,Chinese
+18,18,Yang Xu,CHN,F,1.88,80,12-02-88,Dalian,Dalian Yiteng,Liaoning Hongyun,2012,Chinese
+19,19,Pablo Brandán,ARG,D,1.78,78,05-03-83,Merlo,Steaua Bucureşti,Liaoning Hongyun,2012,Chinese
+20,20,Yu Hanchao,CHN,M,1.78,65,25-02-87,Dalian,Dalian Yiteng,Liaoning Hongyun,2012,Chinese
+21,21,Zhang Xiaoyu,CHN,M,1.75,65,05-01-85,Shenyang,None,Liaoning Hongyun,2012,Chinese
+22,22,Wang Liang,CHN,M,1.83,76,19-07-79,Shenyang,Shandong Luneng,Liaoning Hongyun,2012,Chinese
+23,23,Wang Hao,CHN,F,1.85,81,30-01-93,Fushun,None,Liaoning Hongyun,2012,Chinese
+24,24,Hao Yonghe,CHN,D,1.79,75,27-12-89,Shenyang,Shenyang Shenbei,Liaoning Hongyun,2012,Chinese
+26,26,Xu Wanquan,CHN,D,1.80,75,19-04-93,Dalian,None,Liaoning Hongyun,2012,Chinese
+27,27,Wang Bo,CHN,D,1.85,72,08-05-82,Shenyang,Changchun Yatai,Liaoning Hongyun,2012,Chinese
+28,28,Jiang Peng,CHN,M,1.72,60,06-03-89,Dalian,None,Liaoning Hongyun,2012,Chinese
+29,29,Liu Yang,CHN,G,1.85,76,17-01-81,Dalian,None,Liaoning Hongyun,2012,Chinese
+31,31,Ji Chao,CHN,F,1.77,76,11-01-91,Shenyang,Shenzhen Ruby,Liaoning Hongyun,2012,Chinese
+32,32,Song Chen,CHN,D,1.79,76,03-01-90,Dalian,Shenzhen Ruby,Liaoning Hongyun,2012,Chinese
+36,36,Zhang Ye,CHN,M,1.86,80,26-04-87,Shenyang,Hangzhou Greentown,Liaoning Hongyun,2012,Chinese
+39,39,Zhao Hongxu,CHN,M,1.83,74,27-03-91,Jinzhou,Shandong Luneng,Liaoning Hongyun,2012,Chinese
+40,40,Kim You-Jin,KOR,D,1.89,83,19-06-83,Busan,Yokohama FC,Liaoning Hongyun,2012,Chinese
+1,1,Liu Jun,CHN,G,1.90,87,25-09-83,Qingdao,None,Qingdao Jonoon,2012,Chinese
+2,2,Guo Liang,CHN,D,1.75,70,20-03-85,Dalian,None,Qingdao Jonoon,2012,Chinese
+3,3,Leonardo,BRA,D,1.85,82,22-07-82,São Paulo,Avaí,Qingdao Jonoon,2012,Chinese
+4,4,Hu Jun,CHN,M,1.86,78,24-01-85,Qingdao,None,Qingdao Jonoon,2012,Chinese
+5,5,Xu Jingjie,CHN,D,1.85,75,04-02-86,Qingdao,None,Qingdao Jonoon,2012,Chinese
+6,6,Aziz Ibragimov,UZB,F,1.80,75,21-07-86,,Bohemians 1905,Qingdao Jonoon,2012,Chinese
+7,7,Yao Jiangshan,CHN,M,1.75,78,30-07-87,Qingdao,None,Qingdao Jonoon,2012,Chinese
+8,8,Song Bo,CHN,M,1.73,66,26-12-86,Qingdao,None,Qingdao Jonoon,2012,Chinese
+9,9,Bruno Meneghel,BRA,F,1.68,65,03-06-87,Vitória,América Mineiro,Qingdao Jonoon,2012,Chinese
+10,10,Zheng Long,CHN,M,1.78,75,15-04-88,Qingdao,None,Qingdao Jonoon,2012,Chinese
+12,12,Pan Yuchen,CHN,M,1.78,75,03-12-92,Qingdao,None,Qingdao Jonoon,2012,Chinese
+13,13,Li Zhuangfei,CHN,M,1.78,70,24-01-88,Zibo,Jiangsu Sainty,Qingdao Jonoon,2012,Chinese
+14,14,Wei Renjie,CHN,M,1.76,68,18-02-91,Zaozhuang,None,Qingdao Jonoon,2012,Chinese
+15,15,Zhu Zianrong,CHN,F,1.82,72,12-07-91,Qingdao,None,Qingdao Jonoon,2012,Chinese
+16,16,Feng Tao,CHN,M,1.78,75,05-04-85,Qingdao,Xiamen Lanshi,Qingdao Jonoon,2012,Chinese
+17,17,Liu Jian,CHN,M,1.83,72,20-08-84,Zibo,None,Qingdao Jonoon,2012,Chinese
+18,18,Xing Dong,CHN,M,1.70,66,16-01-93,Zibo,None,Qingdao Jonoon,2012,Chinese
+19,19,Song Wenjie,CHN,D,1.77,72,15-01-91,Qingdao,None,Qingdao Jonoon,2012,Chinese
+20,20,Li Linfeng,CHN,D,1.85,77,09-01-88,Qingdao,Qingdao Hailifeng,Qingdao Jonoon,2012,Chinese
+21,21,Lu Yi,CHN,F,1.80,77,20-03-93,Zibo,None,Qingdao Jonoon,2012,Chinese
+22,22,Liu Zhenli,CHN,G,1.90,86,26-06-85,Qingdao,None,Qingdao Jonoon,2012,Chinese
+23,23,Song Long,CHN,D,1.82,70,20-08-89,Qingdao,Dalian,Qingdao Jonoon,2012,Chinese
+24,24,Gabriel Melkam,NGA,M,1.87,83,13-03-80,Lagos,Guangzhou Evergrande,Qingdao Jonoon,2012,Chinese
+25,25,Zou Zheng,CHN,M,1.78,70,07-02-88,Qingdao,None,Qingdao Jonoon,2012,Chinese
+26,26,Sun Jiangshan,CHN,D,1.82,78,24-10-85,Qingdao,None,Qingdao Jonoon,2012,Chinese
+27,27,Liu Yangyang,CHN,D,1.86,75,07-02-91,Yantai,None,Qingdao Jonoon,2012,Chinese
+28,28,Mou Pengfei,CHN,G,1.88,80,28-02-89,Qingdao,Shaanxi,Qingdao Jonoon,2012,Chinese
+29,29,Zhu Shiyu,CHN,M,1.75,70,16-04-91,Qingdao,None,Qingdao Jonoon,2012,Chinese
+30,30,Yi Guangjun,CHN,D,1.78,75,22-10-92,Qingdao,None,Qingdao Jonoon,2012,Chinese
+32,32,Li Peng,CHN,D,1.85,76,29-08-90,Shijiazhuang,Shandong Luneng,Qingdao Jonoon,2012,Chinese
+33,33,Sha Yibo,CHN,D,1.76,70,07-01-91,Qingdao,Qingdao Hailifeng,Qingdao Jonoon,2012,Chinese
+34,34,Pang Zhiquan,CHN,M,1.92,78,16-08-90,Qingdao,None,Qingdao Jonoon,2012,Chinese
+35,35,Gong Yaotong,CHN,D,1.82,76,05-02-91,Zibo,Shandong Luneng,Qingdao Jonoon,2012,Chinese
+41,41,Sun Pinghai,CHN,G,1.75,76,20-08-89,Qingdao,None,Qingdao Jonoon,2012,Chinese
+1,1,Yang Cheng,CHN,G,1.85,72,11-10-85,Tianjin,Tianjin Locomotive,Shandong Luneng,2012,Chinese
+2,2,Liu Jindong,CHN,D,1.82,70,09-12-81,Qingdao,None,Shandong Luneng,2012,Chinese
+3,3,Du Wei,CHN,D,1.87,78,09-02-82,Luoyang,Hangzhou Greentown,Shandong Luneng,2012,Chinese
+5,5,Wang Qiang,CHN,D,1.85,76,23-07-84,Liaoning,Changsha Ginde,Shandong Luneng,2012,Chinese
+6,6,Zhou Haibin,CHN,M,1.80,70,19-07-85,Dalian,PSV Eindhoven,Shandong Luneng,2012,Chinese
+7,7,Cui Peng,CHN,M,1.78,70,31-05-87,Dalian,None,Shandong Luneng,2012,Chinese
+8,8,Wang Yongpo,CHN,M,1.78,65,19-01-87,Qingdao,None,Shandong Luneng,2012,Chinese
+9,9,Han Peng,CHN,F,1.85,77,13-09-83,Jinan,None,Shandong Luneng,2012,Chinese
+11,11,Wang Tong,CHN,D,1.82,72,12-02-93,Shenyang,None,Shandong Luneng,2012,Chinese
+12,12,Geng Xiaofeng,CHN,G,1.91,78,15-10-87,Shenyang,None,Shandong Luneng,2012,Chinese
+13,13,Gao Di,CHN,F,1.75,70,06-01-90,Qufu,None,Shandong Luneng,2012,Chinese
+14,14,Mirahmetjan Muzepper,CHN,M,1.82,73,14-01-91,Kashgar,None,Shandong Luneng,2012,Chinese
+15,15,Yuan Weiwei,CHN,D,1.85,78,25-11-85,Tianjin,None,Shandong Luneng,2012,Chinese
+16,16,Zheng Zheng,CHN,D,1.80,75,11-07-89,Qingdao,None,Shandong Luneng,2012,Chinese
+17,17,Hao Junmin,CHN,M,1.78,70,24-03-87,Wuhan,Schalke,Shandong Luneng,2012,Chinese
+18,18,Roda Antar,LIB,M,1.87,82,12-09-80,Freetown,Köln,Shandong Luneng,2012,Chinese
+19,19,Zhang Chi,CHN,M,1.75,69,08-07-87,Jinan,None,Shandong Luneng,2012,Chinese
+20,20,Wang Gang,CHN,F,1.87,78,17-02-89,Tianjin,Beira-Mar,Shandong Luneng,2012,Chinese
+21,21,Liu Binbin,CHN,M,1.72,72,16-06-93,Mei County,None,Shandong Luneng,2012,Chinese
+23,23,Li Wei,CHN,M,1.80,73,18-03-85,Beijing,None,Shandong Luneng,2012,Chinese
+24,24,Lü Zheng,CHN,F,1.85,70,25-02-85,Beijing,None,Shandong Luneng,2012,Chinese
+25,25,Liu Yang,CHN,D,1.82,79,09-02-91,Bengbu,None,Shandong Luneng,2012,Chinese
+26,26,Xia Ningning,CHN,M,1.75,69,04-01-87,Qingdao,None,Shandong Luneng,2012,Chinese
+27,27,Ma Long,CHN,M,1.77,71,26-02-90,Qingdao,None,Shandong Luneng,2012,Chinese
+28,28,Ma Xingyu,CHN,M,1.76,70,04-11-89,Qingdao,None,Shandong Luneng,2012,Chinese
+29,29,Gilberto Macena,BRA,F,1.73,71,01-04-84,Rio de Janeiro,Horsens,Shandong Luneng,2012,Chinese
+30,30,Shao Puliang,CHN,G,1.88,80,06-07-89,Qingdao,None,Shandong Luneng,2012,Chinese
+31,31,Simão Júnior,MOZ,D,1.78,78,23-07-88,Inhaca,Panathinaikos,Shandong Luneng,2012,Chinese
+32,32,Leonardo Pisculichi,ARG,F,1.78,77,18-01-84,Rafael Castillo,Al-Arabi [QAT],Shandong Luneng,2012,Chinese
+33,33,José María Ortigoza,PAR,F,1.77,75,01-04-87,Asunción,Sol de América,Shandong Luneng,2012,Chinese
+34,34,Yang Chen,CHN,F,1.73,66,01-11-91,Nanjing,None,Shandong Luneng,2012,Chinese
+35,35,Sun Dong,CHN,M,1.74,60,03-01-92,Dalian,None,Shandong Luneng,2012,Chinese
+36,36,Wu Xinghan,CHN,M,1.83,68,24-02-93,Tianjin,None,Shandong Luneng,2012,Chinese
+38,38,Li Songyi,CHN,D,1.83,79,27-01-93,Qingdao,None,Shandong Luneng,2012,Chinese
+39,39,Ötkür Hesen,CHN,D,1.76,72,10-04-93,Yining,None,Shandong Luneng,2012,Chinese
+1,1,Wang Dalei,CHN,G,1.85,75,10-01-89,Dalian,Liancheng,Shanghai Shenhua,2012,Chinese
+2,2,Xiong Fei,CHN,D,1.84,77,21-10-87,Wuhan,Nanjing Yoyo,Shanghai Shenhua,2012,Chinese
+3,3,Moisés,BRA,D,1.83,81,25-07-79,Nanuque,Al-Rayyan,Shanghai Shenhua,2012,Chinese
+4,4,Wang Lin,CHN,D,1.77,74,19-09-87,Dalian,Shanghai Liancheng,Shanghai Shenhua,2012,Chinese
+5,5,Dai Lin,CHN,D,1.91,76,28-11-87,Dalian,Liaoning,Shanghai Shenhua,2012,Chinese
+6,6,Yu Tao,CHN,M,1.80,75,15-10-81,Shanghai,Cable 02,Shanghai Shenhua,2012,Chinese
+7,7,Feng Renliang,CHN,M,1.78,68,12-05-88,Tianjin,Tianjin Locomotive,Shanghai Shenhua,2012,Chinese
+8,8,Song Boxuan,CHN,M,1.80,73,16-09-89,Tianjin,Tianjin Locomotive,Shanghai Shenhua,2012,Chinese
+10,10,Jiang Kun,CHN,M,1.80,84,02-08-79,Wuhan,Liancheng,Shanghai Shenhua,2012,Chinese
+11,11,Didier Drogba,CIV,F,1.89,91,11-03-78,Abidjan,Chelsea,Shanghai Shenhua,2012,Chinese
+12,12,Bai Jiajun,CHN,D,1.66,60,20-03-91,Shanghai,Shanghai East Asia,Shanghai Shenhua,2012,Chinese
+13,13,Cheng Liang,CHN,D,1.88,79,03-03-77,Shanghai,International,Shanghai Shenhua,2012,Chinese
+15,15,Fei Yu,CHN,M,1.78,73,06-02-91,Shanghai,None,Shanghai Shenhua,2012,Chinese
+16,16,Wang Fei,CHN,M,1.80,72,06-06-89,Shenyang,Donaufeld,Shanghai Shenhua,2012,Chinese
+17,17,Fan Lingjiang,CHN,M,1.78,67,08-10-89,Shanghai,None,Shanghai Shenhua,2012,Chinese
+19,19,Zheng Kaimu,CHN,D,1.85,80,28-01-92,Huangshi,Chongqing Lifan,Shanghai Shenhua,2012,Chinese
+20,20,Wu Xi,CHN,M,1.82,68,19-02-89,Qinhuangdao,Shijiazhuang Tiangong,Shanghai Shenhua,2012,Chinese
+21,21,Wang Guangyi,CHN,M,1.88,74,09-04-89,Tianjin,Tianjin Locomotive,Shanghai Shenhua,2012,Chinese
+22,22,Qiu Shengjiong,CHN,G,1.86,90,01-09-85,Shanghai,None,Shanghai Shenhua,2012,Chinese
+23,23,Qiu Tianyi,CHN,D,1.92,82,31-01-89,Shenyang,Dalian,Shanghai Shenhua,2012,Chinese
+24,24,Wang Yang,CHN,F,1.78,73,12-10-91,Shanghai,None,Shanghai Shenhua,2012,Chinese
+26,26,Zhang Jiawei,CHN,D,1.82,70,04-09-90,Shanghai,None,Shanghai Shenhua,2012,Chinese
+27,27,Liu Junnan,CHN,M,1.75,62,31-08-91,Shanghai,None,Shanghai Shenhua,2012,Chinese
+28,28,Cao Yunding,CHN,M,1.74,62,22-11-89,Shanghai,Shanghai East Asia,Shanghai Shenhua,2012,Chinese
+29,29,Joel Griffiths,AUS,F,1.81,78,21-08-79,Sydney,Beijing Guo'an,Shanghai Shenhua,2012,Chinese
+30,30,Tao Jin,CHN,D,1.80,75,02-06-85,Shanghai,Cable 02,Shanghai Shenhua,2012,Chinese
+31,31,You Yuanwen,CHN,M,1.83,80,23-04-86,Dalian,Henan Jianye,Shanghai Shenhua,2012,Chinese
+32,32,Gu Bin,CHN,M,1.70,64,10-11-91,Beijing,None,Shanghai Shenhua,2012,Chinese
+33,33,Yan Song,CHN,M,1.82,82,20-03-81,Dalian,Dalian Shide,Shanghai Shenhua,2012,Chinese
+35,35,Dong Guangxiang,CHN,G,1.92,77,18-06-91,Shanghai,None,Shanghai Shenhua,2012,Chinese
+36,36,Wang Shouting,CHN,M,1.85,73,03-09-85,Dalian,Liaoning,Shanghai Shenhua,2012,Chinese
+37,37,Giovanni Moreno,COL,M,1.90,79,01-07-86,Antioquía,Racing Club,Shanghai Shenhua,2012,Chinese
+38,38,Wang Hongliang,CHN,M,1.75,75,14-01-85,Shanghai,Chongqing Lifan,Shanghai Shenhua,2012,Chinese
+39,39,Nicolas Anelka,FRA,F,1.85,77,14-03-79,Versailles,Chelsea,Shanghai Shenhua,2012,Chinese
+41,46,Xu Qi,CHN,F,1.79,71,09-03-92,Shanghai,None,Shanghai Shenhua,2012,Chinese
+1,1,Wu Yansheng,CHN,G,1.88,80,03-05-84,Shanghai,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+2,2,Li Lei,CHN,M,1.83,73,30-05-92,Qingdao,None,Shanghai Shenxin,2012,Chinese
+3,3,Zhao Zuojun,CHN,D,1.83,75,16-10-83,Shanghai,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+5,5,Wang Bo,CHN,M,1.76,68,23-01-85,Wuhan,None,Shanghai Shenxin,2012,Chinese
+6,6,Li Haozhen,CHN,D,1.90,80,03-01-89,Shanghai,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+7,7,Xu Wen,CHN,D,1.77,71,13-04-86,Shanghai,Shanghai Shenhua,Shanghai Shenxin,2012,Chinese
+8,8,Jaílton Paraíba,BRA,F,1.65,70,11-10-90,Esperança,Mirassol,Shanghai Shenxin,2012,Chinese
+9,9,Zhu Jiawei,CHN,M,1.80,75,19-08-90,Meizhou,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+10,10,Anselmo,BRA,F,1.82,76,24-10-80,Rio de Janeiro,Atlético Goianiense,Shanghai Shenxin,2012,Chinese
+11,11,Jiang Zhipeng,CHN,M,1.80,70,06-03-89,Qingdao,Shanghai East Asia,Shanghai Shenxin,2012,Chinese
+12,12,Antônio Flávio,BRA,F,1.74,70,05-01-87,Brejinho de Nazaré,AIK,Shanghai Shenxin,2012,Chinese
+13,13,Ye Chongqiu,CHN,M,1.79,77,29-09-92,Shanghai,None,Shanghai Shenxin,2012,Chinese
+14,14,Song Xingyi,CHN,M,1.85,74,28-04-88,Shanghai,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+15,15,Lin Xiang,CHN,G,1.88,77,24-09-91,Shanghai,None,Shanghai Shenxin,2012,Chinese
+16,16,Wang Jiayu,CHN,M,1.78,70,28-09-90,Shanghai,Shanghai East Asia,Shanghai Shenxin,2012,Chinese
+17,17,Zou Zhongting,CHN,M,1.74,65,21-05-87,Shanghai,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+19,19,Ji Jun,CHN,F,1.89,84,27-12-85,,None,Shanghai Shenxin,2012,Chinese
+20,20,Wang Yun,CHN,M,1.75,67,28-03-83,Shanghai,Dalian Shide,Shanghai Shenxin,2012,Chinese
+21,21,Li Tong,CHN,D,1.81,70,09-01-91,,None,Shanghai Shenxin,2012,Chinese
+22,22,Zhu Jianmin,CHN,G,1.91,82,01-03-83,Shanghai,Shanghai Shenhua,Shanghai Shenxin,2012,Chinese
+23,23,Chen Jianlong,CHN,D,1.78,65,14-05-89,Guangzhou,Guangzhou Evergrande,Shanghai Shenxin,2012,Chinese
+24,24,Zhang Yudong,CHN,M,1.78,68,09-09-92,Shanghai,Shanghai East Asia,Shanghai Shenxin,2012,Chinese
+25,25,Liu Dianzuo,CHN,G,1.86,78,26-06-90,Dalian,None,Shanghai Shenxin,2012,Chinese
+26,26,Johnny,BRA,M,1.85,82,06-08-85,Lavras,Corinthians Alagoano,Shanghai Shenxin,2012,Chinese
+27,27,Yang Jiawei,CHN,F,1.82,73,04-01-92,Shanghai,None,Shanghai Shenxin,2012,Chinese
+28,28,Sun Yifan,CHN,D,1.81,77,01-05-89,Harbin,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+29,29,Jonas Salley,AUS,D,1.79,76,16-03-82,San-Pédro,Gold Coast U,Shanghai Shenxin,2012,Chinese
+30,30,Yang Chen,CHN,D,1.80,68,14-11-89,Hubei,None,Shanghai Shenxin,2012,Chinese
+31,31,Lin Pei,CHN,D,1.75,65,01-07-91,,None,Shanghai Shenxin,2012,Chinese
+32,32,Jiang Xiaochen,CHN,F,1.84,76,20-05-92,Shanghai,None,Shanghai Shenxin,2012,Chinese
+33,33,Zhu Baojie,CHN,M,1.70,67,11-08-89,Guangxi,Shaanxi Chanba,Shanghai Shenxin,2012,Chinese
+39,39,Zou Xiang,CHN,D,1.83,70,15-01-91,Shanghai,None,Shanghai Shenxin,2012,Chinese
+1,1,Song Zhenyu,CHN,G,1.91,81,21-09-81,Dalian,Changdu Blades,Tianjin Teda,2012,Chinese
+2,2,He Yang,CHN,D,1.86,79,23-02-83,Tianjin,None,Tianjin Teda,2012,Chinese
+3,3,Li Hongyang,CHN,D,1.85,77,01-04-84,Tianjin,Chengdu Blades,Tianjin Teda,2012,Chinese
+4,4,Milan uak,AUS,D,1.83,77,29-01-84,Sydney,Adelaide U,Tianjin Teda,2012,Chinese
+5,5,Li Weifeng,CHN,D,1.84,75,01-12-78,Shenzhen,Suwon Samsung Bluewings,Tianjin Teda,2012,Chinese
+6,6,Lucian Goian,ROU,D,1.85,80,10-02-83,Suceava,Astra Ploieşti,Tianjin Teda,2012,Chinese
+7,7,Li Benjian,CHN,M,1.81,75,05-03-86,Qingdao,Guangdong Mingfeng,Tianjin Teda,2012,Chinese
+8,8,Hu Rentian,CHN,M,1.72,70,21-01-91,Sichuan,None,Tianjin Teda,2012,Chinese
+9,9,Zhou Liao,CHN,F,1.80,75,02-02-89,Wuhan,Hubei Wuhan Zhongbo,Tianjin Teda,2012,Chinese
+10,10,Wang Xinxin,CHN,F,1.82,72,27-04-81,Shenyang,Liaoning,Tianjin Teda,2012,Chinese
+11,11,Jiang Chen,CHN,F,1.80,72,24-06-86,Dalian,Sichuan Guancheng,Tianjin Teda,2012,Chinese
+12,12,Tian Xu,CHN,G,1.83,76,15-02-86,Tianjin,Chongqing Lifan,Tianjin Teda,2012,Chinese
+14,14,Fan Zhiqiang,CHN,F,1.80,74,22-08-89,Tianjin,None,Tianjin Teda,2012,Chinese
+15,15,Liao Bochao,CHN,D,1.80,76,16-07-87,Tianjin,None,Tianjin Teda,2012,Chinese
+17,17,Hui Jiakang,CHN,F,1.77,60,15-01-89,Shenyang,Chengdu Blades,Tianjin Teda,2012,Chinese
+18,18,Zheng Jin,CHN,M,1.77,70,04-01-89,,None,Tianjin Teda,2012,Chinese
+19,19,Nie Tao,CHN,D,1.80,73,18-01-87,Tianjin,None,Tianjin Teda,2012,Chinese
+20,20,Mao Biao,CHN,F,1.83,75,24-07-87,Tianjin,None,Tianjin Teda,2012,Chinese
+21,21,Chen Tao,CHN,F,1.78,66,11-03-85,Anshan,Shanghai Shenhua,Tianjin Teda,2012,Chinese
+23,23,Lu Zheyu,CHN,G,1.86,76,08-09-89,,None,Tianjin Teda,2012,Chinese
+24,24,Bai Yuefeng,CHN,M,1.77,68,25-05-87,Yanbian,Guangzhou Pharmaceutical,Tianjin Teda,2012,Chinese
+25,25,Yang Qipeng,CHN,G,1.86,75,14-05-87,Tianjin,None,Tianjin Teda,2012,Chinese
+26,26,Cao Yang,CHN,D,1.85,73,15-12-81,Tianjin,None,Tianjin Teda,2012,Chinese
+27,27,Ma Leilei,CHN,F,1.80,68,22-03-89,Tianjin,Tianjin Locomotive,Tianjin Teda,2012,Chinese
+28,28,Sjoerd Ars,NED,F,1.83,73,15-04-84,Ter Borg,Levski Sofia,Tianjin Teda,2012,Chinese
+29,29,Veliče umulikoski,MKD,M,1.82,77,24-04-81,Struga,Sibir Novosibirsk,Tianjin Teda,2012,Chinese
+30,30,Zhao Yanming,CHN,G,1.85,70,16-01-81,Tianjin,None,Tianjin Teda,2012,Chinese
+31,31,Vladimir Jovančić,SRB,F,1.87,80,31-05-87,Sarajevo,Seongnam Ilhwa Chunma,Tianjin Teda,2012,Chinese
+35,35,Du Zhengyu,CHN,F,1.77,75,10-02-83,Shenyang,Changchun Yatai,Tianjin Teda,2012,Chinese
+40,40,Du Junpeng,CHN,F,1.84,80,18-02-91,,None,Tianjin Teda,2012,Chinese
+41,41,Zhao Yingjie,CHN,D,1.79,75,02-08-92,Tianjin,None,Tianjin Teda,2012,Chinese
+42,43,Lin Chen,CHN,F,1.83,72,09-01-91,,None,Tianjin Teda,2012,Chinese

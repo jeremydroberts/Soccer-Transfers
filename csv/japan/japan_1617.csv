@@ -1,0 +1,584 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Takaya Kurokawa,JPN,G,1.84,76,07-04-81,Ehime,Shimizu S-Pulse,Albirex Niigata,2016,Japanese
+2,2,Kazunari Ono,JPN,D,1.80,71,04-08-89,Niigata,None,Albirex Niigata,2016,Japanese
+3,3,Shigeto Masuda,JPN,D,1.89,83,11-06-92,Kamagaya,Kashiwa HS,Albirex Niigata,2016,Japanese
+4,4,Michael Fitzgerald,NZL,D,1.85,66,17-09-88,Auckland,None,Albirex Niigata,2016,Japanese
+5,5,Takanori Maeno,JPN,D,1.70,63,14-04-88,Matsuyama,Kashima Antlers,Albirex Niigata,2016,Japanese
+6,6,Yuki Kobayashi,JPN,M,1.82,68,24-04-92,Tokyo,Júbilo Iwata,Albirex Niigata,2016,Japanese
+7,7,Cortez,BRA,D,1.78,76,11-03-87,Rio de Janeiro,São Paulo,Albirex Niigata,2016,Japanese
+8,8,Léo Silva,BRA,M,1.78,78,24-12-85,São Luis,Portuguesa,Albirex Niigata,2016,Japanese
+9,9,Ryohei Yamazaki,JPN,F,1.71,66,14-03-89,Chiba,Júbilo Iwata,Albirex Niigata,2016,Japanese
+10,10,Rafael Silva,BRA,F,1.76,71,04-04-92,São Paulo,Lugano,Albirex Niigata,2016,Japanese
+11,11,Hiroshi Ibusuki,JPN,F,1.93,83,27-02-91,Nagareyama,Valencia B,Albirex Niigata,2016,Japanese
+13,13,Masaru Kato,JPN,M,1.74,64,07-05-91,Fukuoka,Mitsubishi Yowa,Albirex Niigata,2016,Japanese
+14,14,Tatsuya Tanaka,JPN,F,1.67,63,27-11-82,Yamaguchi,Urawa Red Diamonds,Albirex Niigata,2016,Japanese
+17,17,Yuta Ito,JPN,M,1.71,63,18-09-92,Aichi,Kyoto Sanga,Albirex Niigata,2016,Japanese
+18,18,Sho Naruoka,JPN,M,1.75,72,31-05-84,Shizuoka,Avispa Fukuoka,Albirex Niigata,2016,Japanese
+19,19,Musashi Suzuki,JPN,F,1.84,70,11-02-94,Montego Bay,Kiryu Daiichi HS,Albirex Niigata,2016,Japanese
+21,21,Tatsuya Morita,JPN,G,1.91,82,03-08-90,Chiba,Kyoto Sanga,Albirex Niigata,2016,Japanese
+22,22,Goro Kawanami,JPN,G,1.92,82,30-04-91,Ibaraki,Tokushima Vortis,Albirex Niigata,2016,Japanese
+24,24,Ryoma Nishimura,JPN,D,1.82,73,02-07-93,Nagano,None,Albirex Niigata,2016,Japanese
+25,25,Kei Koizumi,JPN,M,1.72,67,19-04-95,Saitama,Ryutsu Keizai Univ,Albirex Niigata,2016,Japanese
+26,26,Go Hayama,JPN,M,1.76,67,09-04-93,Tokyo,Keio Univ,Albirex Niigata,2016,Japanese
+27,27,Ken Matsubara,JPN,D,1.80,70,16-02-93,Usa,Oita Trinita,Albirex Niigata,2016,Japanese
+28,28,Fumiya Hayakawa,JPN,M,1.69,68,12-01-94,Niigata,Tsukuba Univ,Albirex Niigata,2016,Japanese
+29,29,Kiwara Miyazaki,JPN,M,1.74,55,17-02-98,Gumma,None,Albirex Niigata,2016,Japanese
+30,30,Takumi Hasegawa,JPN,D,1.78,67,06-10-98,Niigata,None,Albirex Niigata,2016,Japanese
+31,31,Akihito Ozawa,JPN,G,1.84,80,10-08-92,Saitama,SP Kyoto,Albirex Niigata,2016,Japanese
+32,32,Kalil,BRA,F,1.85,77,10-04-96,Rio de Janeiro,Criciúma,Albirex Niigata,2016,Japanese
+37,37,Gakuto Notsuda,JPN,M,1.75,68,06-06-94,Hiroshima,Sanfrecce Hiroshima,Albirex Niigata,2016,Japanese
+41,41,Kazuki Kozuka,JPN,M,1.73,68,02-08-94,Mitsuke,Teikyo Nagaoka HS,Albirex Niigata,2016,Japanese
+1,1,Ryuichi Kamiyama,JPN,G,1.88,89,10-11-84,Osaka,Rissho Univ,Avispa Fukuoka,2016,Japanese
+2,2,Mizuki Hamada,JPN,D,1.85,80,18-05-90,New Jersey,Urawa Red Diamonds,Avispa Fukuoka,2016,Japanese
+3,3,Takumi Abe,JPN,D,1.66,62,26-05-91,Tokyo,Matsumoto Yamaga,Avispa Fukuoka,2016,Japanese
+4,4,Yuta Mikado,JPN,M,1.74,68,26-12-86,Saitama,Yokohama F Marinos,Avispa Fukuoka,2016,Japanese
+5,5,Yuki Saneto,JPN,D,1.78,71,19-01-89,Saitama,Kawasaki Frontale,Avispa Fukuoka,2016,Japanese
+6,6,Danilson Córdoba,COL,M,1.85,80,06-09-86,Quibdó,Nagoya Grampus,Avispa Fukuoka,2016,Japanese
+7,7,Takeshi Kanamori,JPN,F,1.71,69,04-04-94,Fukuoka,Chikuyo Gakuen HS,Avispa Fukuoka,2016,Japanese
+8,8,Shuto Nakahara,JPN,M,1.72,64,29-10-90,Kagoshima,Fukuoka Univ,Avispa Fukuoka,2016,Japanese
+9,9,Takayuki Nakahara,JPN,F,1.81,76,18-11-84,Yamaguchi,Vegalta Sendai,Avispa Fukuoka,2016,Japanese
+10,10,Hisashi Jogo,JPN,M,1.83,79,16-04-86,Fukuoka,Kunimi HS,Avispa Fukuoka,2016,Japanese
+11,11,Daisuke Sakata,JPN,F,1.73,65,16-01-83,Kanagawa,FC Tokyo,Avispa Fukuoka,2016,Japanese
+13,13,Hirotaka Tameda,JPN,M,1.75,66,24-08-93,Nagasaki,Oita Trinita,Avispa Fukuoka,2016,Japanese
+14,14,Shoki Hirai,JPN,F,1.79,67,04-12-87,Tokushima,Gamba Osaka,Avispa Fukuoka,2016,Japanese
+15,15,Toshiya Sueyoshi,JPN,M,1.75,73,18-11-87,Fukuoka,Sagan Tosu,Avispa Fukuoka,2016,Japanese
+16,16,Yuta Mishima,JPN,D,1.68,60,10-05-94,Kitakyushu,None,Avispa Fukuoka,2016,Japanese
+17,17,Wellington,BRA,F,1.86,84,11-02-88,Ourinhos,Ponte Preta,Avispa Fukuoka,2016,Japanese
+18,18,Masashi Kamekawa,JPN,D,1.76,68,28-05-93,Minoh,Shonan Bellmare,Avispa Fukuoka,2016,Japanese
+19,19,Shunsuke Tsutsumi,JPN,D,1.77,69,08-06-87,Saitama,Urawa Red Diamonds,Avispa Fukuoka,2016,Japanese
+20,20,Kim Hyun-Hun,KOR,D,1.84,77,30-04-91,,JEF United,Avispa Fukuoka,2016,Japanese
+21,21,Takehiro Tomiyasu,JPN,D,1.85,70,05-11-98,Fukuoka,None,Avispa Fukuoka,2016,Japanese
+22,22,Hokuto Nakamura,JPN,D,1.67,69,10-07-85,Tarami,Omiya Ardija,Avispa Fukuoka,2016,Japanese
+23,23,Lee Beom-Young,KOR,G,1.94,90,02-04-89,Seoul,Busan I'Park,Avispa Fukuoka,2016,Japanese
+24,24,Yuichi Komano,JPN,D,1.72,76,25-07-81,Wakayama,FC Tokyo,Avispa Fukuoka,2016,Japanese
+25,25,Akishige Kaneda,JPN,G,1.84,71,26-02-90,Fukuyama,Montedio Yamagata,Avispa Fukuoka,2016,Japanese
+26,26,Yu Tamura,JPN,M,1.85,88,22-11-92,Kitakyushu,Fukuoka Univ,Avispa Fukuoka,2016,Japanese
+27,27,Takahiro Kunimoto,JPN,F,1.73,74,08-10-97,Kitakyushu,Urawa Red Diamonds,Avispa Fukuoka,2016,Japanese
+29,29,Kenta Furube,JPN,M,1.80,72,30-11-85,Hyogo,V-Varen Nagasaki,Avispa Fukuoka,2016,Japanese
+30,30,Koki Shimosaka,JPN,D,1.74,67,25-09-93,Fukuoka,NIFS Kanoya,Avispa Fukuoka,2016,Japanese
+33,33,Jun Suzuki,JPN,M,1.70,71,22-04-89,Fukuoka,Tokyo Verdy,Avispa Fukuoka,2016,Japanese
+35,35,Kanta Sato,JPN,G,1.77,79,07-07-98,Oita,None,Avispa Fukuoka,2016,Japanese
+1,1,Masaaki Higashiguchi,JPN,G,1.84,75,12-05-86,Osaka,Albirex Niigata,Gamba Osaka,2016,Japanese
+2,2,Takamasa Sugiyama,JPN,D,1.74,68,26-06-98,Nara,None,Gamba Osaka,2016,Japanese
+3,3,Takaharu Nishino,JPN,D,1.87,72,14-09-93,Osaka,None,Gamba Osaka,2016,Japanese
+4,4,Hiroki Fujiharu,JPN,D,1.75,60,28-11-88,Osaka,Osaka Taiiku Univ,Gamba Osaka,2016,Japanese
+5,5,Daiki Niwa,JPN,D,1.80,76,16-01-86,Osaka,None,Gamba Osaka,2016,Japanese
+6,6,Kim Jung-Ya,KOR,D,1.83,74,17-05-88,Hyogo,Komazawa Univ,Gamba Osaka,2016,Japanese
+7,7,Yasuhito Endo,JPN,M,1.78,75,28-01-80,Kagoshima,Kyoto Purple Sanga,Gamba Osaka,2016,Japanese
+8,8,Keisuke Iwashita,JPN,D,1.81,72,24-09-86,Kagoshima,Shimizu S-Pulse,Gamba Osaka,2016,Japanese
+9,9,Ademílson,BRA,F,1.76,74,09-01-94,Cubatão,São Paulo,Gamba Osaka,2016,Japanese
+11,11,Shu Kuruta,JPN,M,1.72,68,26-11-88,Osaka,None,Gamba Osaka,2016,Japanese
+13,13,Hiroyuki Abe,JPN,M,1.70,69,05-07-89,Nara,Kwansei Gakuin Univ,Gamba Osaka,2016,Japanese
+14,14,Koki Yonekura,JPN,M,1.76,69,17-05-88,Chiba,JEF United,Gamba Osaka,2016,Japanese
+15,15,Yasuyuki Konno,JPN,D,1.78,73,25-01-83,Miyagi,FC Tokyo,Gamba Osaka,2016,Japanese
+16,16,Ken Tajiri,JPN,G,1.82,76,11-06-93,Osaka,None,Gamba Osaka,2016,Japanese
+17,17,Kenya Okazaki,JPN,M,1.75,62,31-05-90,Fukuyama,Kansai Univ,Gamba Osaka,2016,Japanese
+18,18,Yosuke Fujigaya,JPN,G,1.85,78,13-02-81,Shizuoka,Júbilo Iwata,Gamba Osaka,2016,Japanese
+19,19,Kataro Omori,JPN,M,1.67,63,28-04-92,Osaka,None,Gamba Osaka,2016,Japanese
+20,20,Shun Nagasawa,JPN,F,1.89,72,25-08-88,Shizuoka,Shimizu S-Pulse,Gamba Osaka,2016,Japanese
+21,21,Yosuke Ideguchi,JPN,M,1.70,71,23-08-96,Fukuoka,None,Gamba Osaka,2016,Japanese
+22,22,Oh Jae-Suk,KOR,D,1.78,74,04-01-90,Uijeongbu,Gangwon,Gamba Osaka,2016,Japanese
+23,23,Hirota Goya,JPN,F,1.77,68,02-01-94,Kawanishi,Kwansei Gakuin Univ,Gamba Osaka,2016,Japanese
+24,24,Naoki Ogawa,JPN,F,1.68,62,03-07-95,Kawanishi,None,Gamba Osaka,2016,Japanese
+25,25,Jungo Fujimoto,JPN,M,1.73,69,24-03-84,Kanagawa,Yokohama F Marinos,Gamba Osaka,2016,Japanese
+26,26,Naoya Senoo,JPN,F,1.72,59,15-08-96,Tsu,None,Gamba Osaka,2016,Japanese
+27,27,Tatsuya Uchida,JPN,D,1.77,70,08-02-92,Hyogo,None,Gamba Osaka,2016,Japanese
+28,28,Shota Yomesaka,JPN,M,1.75,63,19-10-96,Osaka,None,Gamba Osaka,2016,Japanese
+29,29,Patric,BRA,F,1.89,82,26-10-87,Macapá,Atlético Goianiense,Gamba Osaka,2016,Japanese
+30,30,So Hirao,JPN,F,1.70,68,01-07-96,Tondabayashi,None,Gamba Osaka,2016,Japanese
+31,31,Mizuki Hayashi,JPN,G,1.81,75,04-09-96,Osaka,None,Gamba Osaka,2016,Japanese
+32,32,Hiroki Noda,JPN,D,1.81,73,27-07-97,Mashiki,Ohzu HS,Gamba Osaka,2016,Japanese
+33,33,Kazunari Ichimi,JPN,F,1.81,77,10-11-97,Kumamoto,Ohzu HS,Gamba Osaka,2016,Japanese
+34,34,Tomoki Kamioka,JPN,D,1.79,73,30-05-98,Osaka,None,Gamba Osaka,2016,Japanese
+35,35,Ryo Hatsuse,JPN,D,1.75,64,10-07-97,Osaka,None,Gamba Osaka,2016,Japanese
+36,36,Mizuki Ichimaru,JPN,M,1.72,60,08-05-97,Osaka,None,Gamba Osaka,2016,Japanese
+37,37,Akito Takagi,JPN,F,1.75,65,04-08-97,Osaka,None,Gamba Osaka,2016,Japanese
+38,38,Ritsu Doan,JPN,M,1.72,70,16-06-98,Hyogo,None,Gamba Osaka,2016,Japanese
+40,40,Shohei Ogura,JPN,M,1.75,64,08-09-85,Chiba,Yokohama F Marinos,Gamba Osaka,2016,Japanese
+41,41,Yudai Konishi,JPN,F,1.69,66,18-04-98,Tokushima,None,Gamba Osaka,2016,Japanese
+42,42,Kazuya Kobayashi,JPN,M,1.73,67,03-04-98,Osaka,None,Gamba Osaka,2016,Japanese
+43,43,Kazuto Nishida,JPN,M,1.66,60,28-04-98,Hyogo,None,Gamba Osaka,2016,Japanese
+44,44,Ayumu Matsumoto,JPN,F,1.77,67,28-04-98,Osaka,None,Gamba Osaka,2016,Japanese
+45,45,Ryotaro Meshino,JPN,F,1.71,62,18-06-98,Osaka,None,Gamba Osaka,2016,Japanese
+46,46,Hirohide Adachi,JPN,D,1.84,71,17-04-99,Hyogo,None,Gamba Osaka,2016,Japanese
+47,47,Katsuki Umezu,JPN,M,1.74,57,03-04-99,Nara,None,Gamba Osaka,2016,Japanese
+48,48,Ryo Yamashita,JPN,M,1.70,60,23-08-99,Shiga,None,Gamba Osaka,2016,Japanese
+49,49,Kenta Watanabe,JPN,G,1.88,77,28-04-98,Wakayama,None,Gamba Osaka,2016,Japanese
+50,50,Kosei Tani,JPN,G,1.87,78,22-11-00,Osaka,None,Gamba Osaka,2016,Japanese
+51,51,Reo Yamashita,JPN,D,1.71,62,19-05-98,Osaka,None,Gamba Osaka,2016,Japanese
+1,1,Naoki Hatta,JPN,G,1.85,80,24-06-86,Mie,None,Júbilo Iwata,2016,Japanese
+2,2,Taisuke Nakamura,JPN,D,1.82,68,19-07-89,Kyoto,JEF United,Júbilo Iwata,2016,Japanese
+3,3,Kentaro Oi,JPN,D,1.80,74,14-05-84,Shizuoka,Albirex Niigata,Júbilo Iwata,2016,Japanese
+5,5,Nagisa Sakurauchi,JPN,D,1.76,70,11-08-89,Osaka,Kansai Univ,Júbilo Iwata,2016,Japanese
+7,7,Kota Ueda,JPN,M,1.74,68,09-05-86,Tokyo,Omiya Ardija,Júbilo Iwata,2016,Japanese
+8,8,Jay Bothroyd,ENG,F,1.91,83,05-05-82,Islington,Muangthong U,Júbilo Iwata,2016,Japanese
+9,9,Yoshiaki Ota,JPN,M,1.75,68,11-06-83,Shizuoka,Vegalta Sendai,Júbilo Iwata,2016,Japanese
+11,11,Takuya Matsuura,JPN,M,1.66,62,21-12-88,Shizuoka,None,Júbilo Iwata,2016,Japanese
+13,13,Tomohiko Miyazaki,JPN,D,1.70,65,21-11-86,Tokyo,Kashima Antlers,Júbilo Iwata,2016,Japanese
+14,14,Kazumichi Takagi,JPN,D,1.88,75,21-11-80,Shiga,FC Gifu,Júbilo Iwata,2016,Japanese
+15,15,Adaílton,BRA,F,1.79,76,06-12-90,Camaçari,Paraná,Júbilo Iwata,2016,Japanese
+16,16,Kazuki Saito,JPN,F,1.78,73,21-11-88,Shimizu,Roasso Kumamoto,Júbilo Iwata,2016,Japanese
+17,17,Takafumi Shimizu,JPN,M,1.70,65,30-06-92,Gunma,Chukyo Univ,Júbilo Iwata,2016,Japanese
+18,18,Koki Ogawa,JPN,F,1.83,70,08-08-97,Kanagawa,Toko Gakuen HS,Júbilo Iwata,2016,Japanese
+19,19,Ryu Okada,JPN,D,1.70,69,10-04-84,Shizuoka,None,Júbilo Iwata,2016,Japanese
+20,20,Yasuhito Morishima,JPN,F,1.86,80,18-09-87,Hyogo,Kawasaki Frontale,Júbilo Iwata,2016,Japanese
+21,21,Krzysztof Kamiński,POL,G,1.91,81,26-11-90,Nowy Dwór Mazowiecki,Ruch Chorzów,Júbilo Iwata,2016,Japanese
+22,22,Daisuke Matsui,JPN,M,1.75,67,11-05-81,Kyoto,Lechia Gdańsk,Júbilo Iwata,2016,Japanese
+23,23,Kosuke Yamamoto,JPN,M,1.77,76,29-10-89,Shizuoka,None,Júbilo Iwata,2016,Japanese
+24,24,Daiki Ogawa,JPN,D,1.72,75,16-10-91,Shizuoka,Meiji Univ,Júbilo Iwata,2016,Japanese
+25,25,Takuma Ominami,JPN,D,1.84,72,13-12-97,Aichi,Kagoshima Jitsugyo HS,Júbilo Iwata,2016,Japanese
+27,27,Daigo Araki,JPN,M,1.78,72,17-02-94,Chiba,Aoyama Gakuin Univ,Júbilo Iwata,2016,Japanese
+28,28,Ryoma Ishida,JPN,D,1.68,65,21-06-96,Shizuoka,None,Júbilo Iwata,2016,Japanese
+30,30,Rikiya Uehara,JPN,M,1.74,64,25-08-96,Shizuoka,None,Júbilo Iwata,2016,Japanese
+31,31,Ko Shimura,JPN,G,1.86,71,27-04-96,Chiba,Funabashi Municipal HS,Júbilo Iwata,2016,Japanese
+32,32,Ryuolivier Iwamoto,JPN,F,1.83,68,03-04-96,Kagoshima,Kagoshima Josei HS,Júbilo Iwata,2016,Japanese
+33,33,Yoshiaki Fujita,JPN,D,1.80,75,12-01-83,Tochigi,Oita Trinita,Júbilo Iwata,2016,Japanese
+34,34,Yuki Nakamura,JPN,F,1.83,80,04-06-87,Shizuoka,FC Gifu,Júbilo Iwata,2016,Japanese
+35,35,Shun Morishita,JPN,D,1.78,70,11-05-86,Mie,Kawasaki Frontale,Júbilo Iwata,2016,Japanese
+36,36,Tatsuro Okuda,JPN,G,1.85,78,20-09-88,Nara,Sagan Tosu,Júbilo Iwata,2016,Japanese
+37,37,Riku Morioka,JPN,D,1.80,71,20-11-98,Shizuoka,None,Júbilo Iwata,2016,Japanese
+38,38,Hiroki Ito,JPN,M,1.86,78,12-05-99,Shizuoka,None,Júbilo Iwata,2016,Japanese
+39,39,Kanta Isobe,JPN,G,1.81,74,19-01-99,Shizuoka,None,Júbilo Iwata,2016,Japanese
+40,40,Hayao Kawabe,JPN,M,1.74,65,08-09-95,Hiroshima,Sanfrecce Hiroshima,Júbilo Iwata,2016,Japanese
+41,44,Avraam Papadopoulos,GRE,D,1.86,79,03-12-84,Sydney,Shanghai Shenhua,Júbilo Iwata,2016,Japanese
+1,1,Masatoshi Kushibiki,JPN,G,1.85,75,29-01-93,Aomori,Shimizu S-Pulse,Kashima Antlers,2016,Japanese
+3,3,Gen Shoji,JPN,D,1.80,73,11-12-92,Hyogo,Yonago Kita HS,Kashima Antlers,2016,Japanese
+6,6,Ryota Nagaki,JPN,M,1.73,65,04-06-88,Kanagawa,Shonan Bellmare,Kashima Antlers,2016,Japanese
+8,8,Shoma Doi,JPN,M,1.68,59,21-05-92,Yamagata,Kashima Antlers,Kashima Antlers,2016,Japanese
+10,10,Gaku Shibasaki,JPN,M,1.75,62,28-05-92,Aomori,Aomori Yamada HS,Kashima Antlers,2016,Japanese
+11,11,Fabrício,BRA,M,1.80,78,28-03-90,Hortolândia,Portimonense,Kashima Antlers,2016,Japanese
+13,13,Atsutaka Nakamura,JPN,F,1.73,67,13-09-90,Osaka,Kyoto Sanga,Kashima Antlers,2016,Japanese
+14,14,Hwang Seok-Ho,KOR,D,1.82,80,27-06-89,Cheongju,Sanfrecce Hiroshima,Kashima Antlers,2016,Japanese
+16,16,Shuto Yamamoto,JPN,M,1.80,69,01-06-85,Iwate,Júbilo Iwata,Kashima Antlers,2016,Japanese
+17,17,Bueno,BRA,D,1.82,78,24-08-95,São Paulo,Shimizu S-Pulse,Kashima Antlers,2016,Japanese
+18,18,Shuhei Akasaki,JPN,F,1.74,70,01-09-91,Kagoshima,Tsukuba Univ,Kashima Antlers,2016,Japanese
+20,20,Kento Misao,JPN,M,1.80,71,16-04-96,Musashino,Tokyo Verdy,Kashima Antlers,2016,Japanese
+21,21,Hitoshi Sogahata,JPN,G,1.87,80,02-08-79,Ibaraki,None,Kashima Antlers,2016,Japanese
+22,22,Daigo Nishi,JPN,M,1.75,64,28-08-87,Hokkaido,Consadole Sapporo,Kashima Antlers,2016,Japanese
+23,23,Naomichi Ueda,JPN,D,1.86,77,24-10-94,Kumamoto,Ozu HS,Kashima Antlers,2016,Japanese
+24,24,Yukitoshi Ito,JPN,D,1.75,68,03-09-93,Shizuoka,Shizuoka Gakuen HS,Kashima Antlers,2016,Japanese
+25,25,Yasushi Endo,JPN,M,1.68,69,07-04-88,Miyagi,Shiogama FC,Kashima Antlers,2016,Japanese
+26,26,Kazune Kubota,JPN,M,1.70,62,01-01-97,Aichi,Toin Gakuen HS,Kashima Antlers,2016,Japanese
+28,28,Koki Machida,JPN,D,1.87,70,25-08-97,Ibaraki,None,Kashima Antlers,2016,Japanese
+29,29,Shinichiro Kawamata,JPN,G,1.88,86,23-07-89,Shizuoka,None,Kashima Antlers,2016,Japanese
+30,30,Hisashi Ohashi,JPN,M,1.83,73,01-12-96,Ibaraki,None,Kashima Antlers,2016,Japanese
+31,31,Yuto Koizumi,JPN,G,1.90,83,14-09-95,Ibaraki,None,Kashima Antlers,2016,Japanese
+32,32,Taro Sugimoto,JPN,M,1.62,62,12-02-96,Gifu,Teikyo Univ,Kashima Antlers,2016,Japanese
+33,33,Mu Kanasaki,JPN,M,1.80,70,16-02-89,Mie,Portimonense,Kashima Antlers,2016,Japanese
+34,34,Yuma Suzuki,JPN,F,1.81,70,26-04-96,Chiba,None,Kashima Antlers,2016,Japanese
+35,35,Taiki Hirato,JPN,M,1.77,68,18-04-97,Ibaraki,None,Kashima Antlers,2016,Japanese
+36,36,Toshiya Tanaka,JPN,M,1.75,65,02-12-97,Chiba,None,Kashima Antlers,2016,Japanese
+37,37,Yuki Kakita,JPN,F,1.87,78,14-07-97,Gunma,None,Kashima Antlers,2016,Japanese
+40,40,Mitsuo Ogasawara,JPN,M,1.73,72,05-04-79,Iwate,None,Kashima Antlers,2016,Japanese
+41,49,Aoto Ishikawa,JPN,G,1.88,87,12-06-99,Ibaraki,None,Kashima Antlers,2016,Japanese
+42,50,Yuya Oki,JPN,G,1.83,82,22-08-99,Ibaraki,None,Kashima Antlers,2016,Japanese
+1,1,Kazushige Kirihata,JPN,G,1.85,77,30-06-87,Yamanashi,None,Kashiwa Reysol,2016,Japanese
+2,2,Jiro Kamata,JPN,D,1.79,77,28-07-85,Tokyo,Vegalta Sendai,Kashiwa Reysol,2016,Japanese
+4,4,Shinnosuke Nakatani,JPN,D,1.80,74,24-03-96,Chiba,None,Kashiwa Reysol,2016,Japanese
+5,5,Tatsuya Masushima,JPN,D,1.80,74,22-04-85,Chiba,Kyoto Sanga,Kashiwa Reysol,2016,Japanese
+6,6,Ryosuke Yamanaka,JPN,M,1.68,58,20-04-93,Chiba,None,Kashiwa Reysol,2016,Japanese
+7,7,Hidekazu Otani,JPN,M,1.74,67,06-11-84,Chiba,None,Kashiwa Reysol,2016,Japanese
+8,8,Akimi Barada,JPN,M,1.70,58,30-05-91,Chiba,None,Kashiwa Reysol,2016,Japanese
+9,9,Junya Tanaka,JPN,F,1.80,73,15-07-87,Tokyo,Sporting CP,Kashiwa Reysol,2016,Japanese
+10,10,Yuki Otsu,JPN,M,1.80,73,24-03-90,Ibaraki,VVV Venlo,Kashiwa Reysol,2016,Japanese
+11,11,Diego Oliveira,BRA,M,1.81,75,22-06-90,Curitiba,Novorizontino,Kashiwa Reysol,2016,Japanese
+14,14,Junya Ito,JPN,F,1.76,68,09-03-93,Kanagawa,Ventforet Kofu,Kashiwa Reysol,2016,Japanese
+15,15,Kosuke Taketomi,JPN,M,1.75,60,23-09-90,Tokushima,None,Kashiwa Reysol,2016,Japanese
+16,16,Koji Inada,JPN,G,1.87,82,19-06-85,Osaka,Roasso Kumamoto,Kashiwa Reysol,2016,Japanese
+17,17,Hiroki Akino,JPN,M,1.76,62,08-10-94,Chiba,None,Kashiwa Reysol,2016,Japanese
+19,19,Hiroto Nakagawa,JPN,M,1.55,48,03-11-94,Saitama,None,Kashiwa Reysol,2016,Japanese
+20,20,Juliano,BRA,M,1.76,73,14-02-86,Rio de Janeiro,Chonburi,Kashiwa Reysol,2016,Japanese
+21,21,Masato Yuzawa,JPN,D,1.79,73,10-10-93,Ibarai,Ryutsu Keizai Univ,Kashiwa Reysol,2016,Japanese
+22,22,Naoki Wako,JPN,D,1.71,65,26-11-89,Toride,Mito HollyHock,Kashiwa Reysol,2016,Japanese
+23,23,Kosuke Nakamura,JPN,G,1.84,72,27-02-95,Tokyo,None,Kashiwa Reysol,2016,Japanese
+25,25,Yusuke Kobayashi,JPN,M,1.72,60,23-10-94,Saitama,None,Kashiwa Reysol,2016,Japanese
+26,26,Tetsuro Ota,JPN,M,1.76,71,02-07-89,Ibaraki,Montedio Yamagata,Kashiwa Reysol,2016,Japanese
+27,27,Tomoki Imai,JPN,D,1.78,78,29-11-90,Tokyo,Omiya Ardija,Kashiwa Reysol,2016,Japanese
+28,28,Ryoichi Kurisawa,JPN,M,1.70,64,05-09-82,Chiba,FC Tokyo,Kashiwa Reysol,2016,Japanese
+29,29,Yuta Nakayama,JPN,D,1.79,73,16-02-97,Saitama,None,Kashiwa Reysol,2016,Japanese
+30,30,Kohei Tezuka,JPN,M,1.76,66,06-04-96,Tochigi,None,Kashiwa Reysol,2016,Japanese
+32,32,Haruhiko Takimoto,JPN,G,1.90,79,20-05-97,Ibaraki,None,Kashiwa Reysol,2016,Japanese
+33,33,Kaito Anzai,JPN,M,1.72,65,19-02-98,Saitama,None,Kashiwa Reysol,2016,Japanese
+34,34,Dudu,BRA,F,1.72,67,24-02-96,Campo Grande,Cruzeiro,Kashiwa Reysol,2016,Japanese
+35,35,Taiyo Koga,JPN,D,1.82,71,28-10-98,Niigata,None,Kashiwa Reysol,2016,Japanese
+37,37,Cristiano,BRA,F,1.83,83,12-01-87,Campo Mourão,Ventforet Kofu,Kashiwa Reysol,2016,Japanese
+1,1,Jung Sung-Ryong,KOR,G,1.90,88,14-01-85,Jeju,Suwon Samsung Bluewings,Kawasaki Frontale,2016,Japanese
+2,2,Kyohei Noborizato,JPN,D,1.68,60,13-11-90,Osaka,None,Kawasaki Frontale,2016,Japanese
+3,3,Tatsuki Nara,JPN,D,1.80,70,19-09-93,Kitami,Consadole Sapporo,Kawasaki Frontale,2016,Japanese
+4,4,Yusuke Igawa,JPN,D,1.82,75,30-10-82,Osaka,Gamba Osaka,Kawasaki Frontale,2016,Japanese
+5,5,Shogo Taniguchi,JPN,M,1.82,70,15-07-91,Kumamoto,Tsukuba Univ,Kawasaki Frontale,2016,Japanese
+6,6,Yusuke Tasaka,JPN,M,1.72,61,08-07-85,Hiroshima,Bochum,Kawasaki Frontale,2016,Japanese
+7,7,Koji Hashimoto,JPN,M,1.77,70,22-04-86,Ishikawa,Omiya Ardija,Kawasaki Frontale,2016,Japanese
+8,8,Takanobu Komiyama,JPN,D,1.74,72,03-10-84,Chiba,Yokohama F Marinos,Kawasaki Frontale,2016,Japanese
+9,9,Takayuki Morimoto,JPN,F,1.80,70,07-05-88,Tokyo,JEF United,Kawasaki Frontale,2016,Japanese
+10,10,Ryota Oshima,JPN,M,1.68,64,23-01-93,Shizuoka,Shizuoka Gakuen HS,Kawasaki Frontale,2016,Japanese
+11,11,Yu Kobayashi,JPN,F,1.75,68,23-09-87,Aomori,Takushoku Univ,Kawasaki Frontale,2016,Japanese
+13,13,Yoshito Ōkubo,JPN,F,1.70,73,09-06-82,Fukuoka,Vissel Kobe,Kawasaki Frontale,2016,Japanese
+14,14,Kengo Nakamura,JPN,M,1.75,67,31-10-80,Tokyo,None,Kawasaki Frontale,2016,Japanese
+15,15,Riki Harakawa,JPN,M,1.75,72,18-08-93,Yamaguchi,Kyoto Sanga,Kawasaki Frontale,2016,Japanese
+16,16,Tatsuya Hasegawa,JPN,F,1.64,57,07-03-94,Numazu,Juntendo Univ,Kawasaki Frontale,2016,Japanese
+17,17,Yuto Takeoka,JPN,D,1.78,73,24-06-86,Kyoto,Yokohama FC,Kawasaki Frontale,2016,Japanese
+18,18,Elsinho,BRA,D,1.87,75,30-11-89,Porto Velho,Tombense,Kawasaki Frontale,2016,Japanese
+19,19,Kentaro Moriya,JPN,M,1.73,63,21-09-88,Yokohama,Yokohama F Marinos,Kawasaki Frontale,2016,Japanese
+20,20,Shintaro Kurumaya,JPN,D,1.78,70,05-04-92,Kumamoto,Tsukuba Univ,Kawasaki Frontale,2016,Japanese
+21,21,Eduardo Neto,BRA,M,1.83,73,24-10-88,Salvador,Tombense,Kawasaki Frontale,2016,Japanese
+22,22,Yoshihiro Nakano,JPN,M,1.76,66,24-02-93,Kagoshima,Tsukuba Univ,Kawasaki Frontale,2016,Japanese
+23,23,Eduardo,BRA,D,1.86,77,27-04-93,São Paulo,Kashiwa Reysol,Kawasaki Frontale,2016,Japanese
+24,24,Shunsuke Ando,JPN,G,1.85,75,10-08-90,Tokyo,None,Kawasaki Frontale,2016,Japanese
+25,25,Kenta Kano,JPN,M,1.75,64,02-05-86,Shizuoka,Kashiwa Reysol,Kawasaki Frontale,2016,Japanese
+26,26,Koji Miyoshi,JPN,M,1.67,64,26-03-97,Kawasaki,None,Kawasaki Frontale,2016,Japanese
+27,27,Shohei Otsuka,JPN,F,1.79,69,11-04-90,Osaka,Giravanz Kitakyushu,Kawasaki Frontale,2016,Japanese
+28,28,Ko Itakura,JPN,D,1.86,72,27-01-97,Yokohama,None,Kawasaki Frontale,2016,Japanese
+29,29,Shun Takagi,JPN,G,1.81,75,22-05-89,Kanagawa,Meiji Univ,Kawasaki Frontale,2016,Japanese
+30,30,Shota Arai,JPN,G,1.85,80,01-11-88,Chichibu,Tokyo Verdy,Kawasaki Frontale,2016,Japanese
+31,31,Ao Tanaka,JPN,M,1.78,66,10-09-98,Kanagawa,None,Kawasaki Frontale,2016,Japanese
+32,32,Carlos Duke,JPN,M,1.77,65,28-02-00,Tokyo,None,Kawasaki Frontale,2016,Japanese
+1,1,Seigo Narazaki,JPN,G,1.87,80,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2016,Japanese
+2,2,Akira Takeuchi,JPN,D,1.80,71,18-06-83,Kanagawa,JEF United,Nagoya Grampus,2016,Japanese
+3,3,Ludvig Öhman,SWE,D,1.89,80,09-10-91,Umeå,Kalmar FF,Nagoya Grampus,2016,Japanese
+5,5,Shun Obu,JPN,D,1.88,83,24-11-92,Fukuoka,Fukuoka Univ,Nagoya Grampus,2016,Japanese
+6,6,Shota Kobayashi,JPN,D,1.73,70,11-05-91,Kanagawa,Shonan Bellmare,Nagoya Grampus,2016,Japanese
+7,7,Taishi Taguchi,JPN,M,1.74,65,16-03-91,Okinawa,None,Nagoya Grampus,2016,Japanese
+8,8,Ha Dae-Sung,KOR,M,1.80,68,02-03-85,Incheon,FC Tokyo,Nagoya Grampus,2016,Japanese
+9,9,Robin Simovic,SWE,F,1.98,89,29-05-91,Malmö,Helsingborgs IF,Nagoya Grampus,2016,Japanese
+10,10,Yoshizumi Ogawa,JPN,M,1.73,67,25-08-84,Tokyo,None,Nagoya Grampus,2016,Japanese
+11,11,Kensuke Nagai,JPN,F,1.77,67,05-03-89,Hiroshima,Standard Liège,Nagoya Grampus,2016,Japanese
+13,13,Ryota Isomura,JPN,M,1.81,70,16-03-91,Aichi,None,Nagoya Grampus,2016,Japanese
+14,14,Ryota Tanabe,JPN,M,1.78,70,10-04-93,Tokyo,Mitsubishi Yowa,Nagoya Grampus,2016,Japanese
+15,15,Lee Seung-Hee,KOR,M,1.83,80,10-06-88,,Suphanburi,Nagoya Grampus,2016,Japanese
+16,16,Yohei Takeda,JPN,G,1.89,76,30-06-87,Osaka,Oita Trinita,Nagoya Grampus,2016,Japanese
+17,17,Tomokazu Myojin,JPN,M,1.73,70,24-01-78,Hyogo,Gamba Osaka,Nagoya Grampus,2016,Japanese
+18,18,Ryunosuke Noda,JPN,F,1.83,74,28-09-88,Fukuoka,Sagan Tosu,Nagoya Grampus,2016,Japanese
+19,19,Kisho Yano,JPN,F,1.85,74,05-04-84,Shizuoka,Albirex Niigata,Nagoya Grampus,2016,Japanese
+20,20,Asahi Yada,JPN,M,1.70,64,02-04-91,Mie,Meiji Univ,Nagoya Grampus,2016,Japanese
+21,21,Koji Nishimura,JPN,G,1.86,78,07-07-87,Mie,Kyoto Sanga,Nagoya Grampus,2016,Japanese
+22,22,Tomoya Koyamatsu,JPN,F,1.71,57,24-04-95,Kumiyama,Kyoto Tachibana HS,Nagoya Grampus,2016,Japanese
+23,23,Ryota Aoki,JPN,M,1.70,58,06-03-96,Machida,Ryutsu Keizai Univ,Nagoya Grampus,2016,Japanese
+24,24,Ryo Takahashi,JPN,D,1.70,63,16-07-93,Gumma,Meiji Univ,Nagoya Grampus,2016,Japanese
+26,26,Yuto Mori,JPN,M,1.73,68,21-04-95,Anjō,None,Nagoya Grampus,2016,Japanese
+27,27,Koki Sugimori,JPN,F,1.71,58,05-04-97,Kasugai,None,Nagoya Grampus,2016,Japanese
+28,28,Kota Ogi,JPN,G,1.85,76,05-05-83,Gifu,Ventforet Kofu,Nagoya Grampus,2016,Japanese
+29,29,Ryuji Izumi,JPN,M,1.73,72,06-11-93,Mie,Meiji Univ,Nagoya Grampus,2016,Japanese
+31,31,Takahiro Ogihara,JPN,D,1.80,61,05-10-91,Osaka,Cerezo Osaka,Nagoya Grampus,2016,Japanese
+32,32,Kengo Kawamata,JPN,F,1.83,67,14-10-89,Ehime,Albirex Niigata,Nagoya Grampus,2016,Japanese
+33,33,Michihiro Yasuda,JPN,M,1.73,65,20-12-87,Osaka,Vissel Kobe,Nagoya Grampus,2016,Japanese
+34,34,Gustavo,BRA,F,1.77,77,25-06-96,,Bahia,Nagoya Grampus,2016,Japanese
+36,36,Ryusuke Sakai,JPN,D,1.82,75,07-09-88,Moriyama,Matsumoto Yamaga,Nagoya Grampus,2016,Japanese
+38,38,Riki Matsuda,JPN,F,1.75,68,24-07-91,Osaka,Biwako Seikei SC,Nagoya Grampus,2016,Japanese
+40,40,Kanta Kajiyama,JPN,M,1.67,60,24-04-98,Niigata,None,Nagoya Grampus,2016,Japanese
+41,41,Shoma Tanaka,JPN,M,1.72,64,13-06-98,Aichi,None,Nagoya Grampus,2016,Japanese
+42,42,Shumpei Fukahori,JPN,F,1.76,67,29-06-98,Aichi,None,Nagoya Grampus,2016,Japanese
+43,43,Yusuke Aoyama,JPN,D,1.79,66,08-05-99,Gifu,None,Nagoya Grampus,2016,Japanese
+44,44,Genki Miyachi,JPN,D,1.83,82,17-04-94,Shizuka,Keio Univ,Nagoya Grampus,2016,Japanese
+1,1,Nobuhiro Kato,JPN,G,1.80,71,11-12-84,Saitama,Urawa Red Diamonds,Omiya Ardija,2016,Japanese
+2,2,Kosuke Kikuchi,JPN,M,1.82,72,16-12-85,Saitama,Kawasaki Frontale,Omiya Ardija,2016,Japanese
+3,3,Hiroyuki Komoto,JPN,D,1.83,72,04-09-85,Kyoto,Vissel Kobe,Omiya Ardija,2016,Japanese
+4,4,Kohei Yamakoshi,JPN,D,1.83,78,04-05-93,Tochigi,Meiji Univ,Omiya Ardija,2016,Japanese
+5,5,Keigo Numata,JPN,D,1.70,65,24-07-90,Gifu,Kamatamare Sanuki,Omiya Ardija,2016,Japanese
+6,6,Akinari Kawazura,JPN,D,1.83,75,03-05-94,Kyoto,Meiji Univ,Omiya Ardija,2016,Japanese
+7,7,Ataru Esaka,JPN,M,1.75,67,31-05-92,Sanda,Thespakusatsu Gunma,Omiya Ardija,2016,Japanese
+8,8,Dragan Mrdja,SRB,F,1.87,77,23-01-84,Belgrade,Crvena Zvezda,Omiya Ardija,2016,Japanese
+9,9,Nejc Pečnik,SVN,M,1.89,80,03-01-86,Dravograd,JEF United,Omiya Ardija,2016,Japanese
+10,10,Yuzo Iwakami,JPN,M,1.70,69,28-07-89,Koga,Matsumoto Yamaga,Omiya Ardija,2016,Japanese
+11,11,Ryuji Bando,JPN,F,1.71,65,02-08-79,Hyogo,Sagan Tosu,Omiya Ardija,2016,Japanese
+13,13,Daisuke Watabe,JPN,F,1.70,67,19-04-89,Saitama,None,Omiya Ardija,2016,Japanese
+14,14,Shintaro Shimizu,JPN,F,1.76,71,23-08-92,Saitama,Seibudai HS,Omiya Ardija,2016,Japanese
+15,15,Keisuke Oyama,JPN,M,1.74,62,07-05-95,Saitama,None,Omiya Ardija,2016,Japanese
+16,16,Mateus,BRA,M,1.67,69,11-09-94,Itabuna,Bahia,Omiya Ardija,2016,Japanese
+17,17,Shigeru Yokotani,JPN,M,1.79,67,03-05-87,Hyogo,Kyoto Sanga,Omiya Ardija,2016,Japanese
+18,18,Tomonobu Yokoyama,JPN,D,1.84,75,18-03-85,Tokyo,Cerezo Osaka,Omiya Ardija,2016,Japanese
+19,19,Ryo Okui,JPN,D,1.69,62,07-03-90,Toyonaka,Vissel Kobe,Omiya Ardija,2016,Japanese
+20,20,Tsubasa Oya,JPN,D,1.80,79,13-08-86,Shimane,Vissel Kobe,Omiya Ardija,2016,Japanese
+21,21,Hitoshi Shiota,JPN,G,1.85,80,28-05-81,Ibaraki,FC Tokyo,Omiya Ardija,2016,Japanese
+22,22,Takuya Wada,JPN,D,1.70,63,28-07-90,Kanagawa,Vegalta Sendai,Omiya Ardija,2016,Japanese
+23,23,Shin Kanazawa,JPN,M,1.74,67,09-09-83,Saitama,None,Omiya Ardija,2016,Japanese
+25,25,Kazuma Takayama,JPN,D,1.79,72,14-07-96,Saitama,None,Omiya Ardija,2016,Japanese
+26,26,Masato Kojima,JPN,M,1.77,67,17-09-96,Saitama,None,Omiya Ardija,2016,Japanese
+27,27,Atsushi Kurokawa,JPN,M,1.70,60,04-02-98,Saitama,None,Omiya Ardija,2016,Japanese
+29,29,Kento Kawata,JPN,F,1.70,61,09-07-97,Fukuoka,None,Omiya Ardija,2016,Japanese
+30,30,Takumu Fujinuma,JPN,F,1.71,66,14-06-97,Saitama,None,Omiya Ardija,2016,Japanese
+32,32,Yuki Kato,JPN,G,1.87,79,20-09-97,Saitama,None,Omiya Ardija,2016,Japanese
+39,39,Jin Izumisawa,JPN,F,1.65,63,17-12-91,Chiba,Hannan Univ,Omiya Ardija,2016,Japanese
+41,41,Akihiro Ienaga,JPN,M,1.73,70,13-06-86,Hyogo,Mallorca,Omiya Ardija,2016,Japanese
+42,50,Kenya Matsui,JPN,G,1.87,72,10-09-85,Shizuoka,Kawasaki Frontale,Omiya Ardija,2016,Japanese
+1,1,Taku Akahoshi,JPN,G,1.85,80,21-04-84,Fukuoka,Fukuoka Univ,Sagan Tosu,2016,Japanese
+2,2,Hiromu Mitsumaru,JPN,D,1.72,69,06-07-93,Tochigi,Tsukuba Univ,Sagan Tosu,2016,Japanese
+3,3,Keita Isozaki,JPN,D,1.80,76,17-11-80,Odawara,Vegalta Sendai,Sagan Tosu,2016,Japanese
+4,4,Teruaki Kobayashi,JPN,D,1.85,78,20-06-79,Ibaraki,Ventforet Kofu,Sagan Tosu,2016,Japanese
+5,5,Kim Min-Hyeok,KOR,D,1.87,73,27-02-92,Seoul,Soongsil Univ,Sagan Tosu,2016,Japanese
+6,6,Aymen Tahar,ALG,M,1.78,78,02-10-89,Algiers,Steaua București,Sagan Tosu,2016,Japanese
+8,8,Masato Fujita,JPN,D,1.76,70,08-05-86,Oita,Kashiwa Reysol,Sagan Tosu,2016,Japanese
+9,9,Moestafa El Kabir,MAR,F,1.77,76,10-05-88,Targuist,Gençlerbirliği,Sagan Tosu,2016,Japanese
+10,10,Kim Min-Woo,KOR,M,1.72,69,25-02-90,Seoul,Yonsei Univ,Sagan Tosu,2016,Japanese
+11,11,Yohei Toyoda,JPN,F,1.85,79,11-04-85,Ishikawa,Kyoto Sanga,Sagan Tosu,2016,Japanese
+12,12,Shugo Tsuji,JPN,G,1.87,80,21-07-97,Chiba,JEF United,Sagan Tosu,2016,Japanese
+14,14,Yoshiki Takahashi,JPN,M,1.70,67,14-05-85,Nagano,Vegalta Sendai,Sagan Tosu,2016,Japanese
+18,18,Takamitsu Tomiyama,JPN,F,1.80,73,26-12-90,Tochigi,Omiya Ardija,Sagan Tosu,2016,Japanese
+21,21,Ayumi Niekawa,JPN,G,1.90,72,12-05-94,Shizuoka,Júbilo Iwata,Sagan Tosu,2016,Japanese
+22,22,Kei Ikeda,JPN,F,1.78,72,20-10-86,Inzai,Ryutsu Keizai Univ,Sagan Tosu,2016,Japanese
+23,23,Yutaka Yoshida,JPN,D,1.68,66,17-02-90,Shizuoka,Shimizu S-Pulse,Sagan Tosu,2016,Japanese
+24,24,Daichi Kamada,JPN,M,1.80,72,05-08-96,Ehime,Higashiyama HS,Sagan Tosu,2016,Japanese
+25,25,Ryota Hayasaka,JPN,M,1.83,73,19-09-85,Nara,Honda FC,Sagan Tosu,2016,Japanese
+29,29,Hiroyuki Taniguchi,JPN,D,1.82,73,27-06-85,Yokosuka,Kashiwa Reysol,Sagan Tosu,2016,Japanese
+30,30,Akito Fukuta,JPN,M,1.70,63,01-05-92,Mie,NIFS Kanoya,Sagan Tosu,2016,Japanese
+33,33,Akihiro Hayashi,JPN,G,1.95,89,07-05-87,Tokyo,Shimizu S-Pulse,Sagan Tosu,2016,Japanese
+35,35,Takeshi Aoki,JPN,M,1.83,75,28-09-82,Takasaki,Kashima Antlers,Sagan Tosu,2016,Japanese
+39,39,Shohei Okada,JPN,F,1.68,65,29-04-89,Kanagawa,NIFS Kanoya,Sagan Tosu,2016,Japanese
+40,40,Hiroto Ishikawa,JPN,F,1.72,64,16-07-98,Fukuoka,None,Sagan Tosu,2016,Japanese
+41,41,Kyosuke Tagawa,JPN,F,1.81,70,11-02-99,Kagoshima,None,Sagan Tosu,2016,Japanese
+42,42,Koya Fujimatsu,JPN,D,1.78,65,10-09-99,Saga,None,Sagan Tosu,2016,Japanese
+1,1,Takuto Hayashi,JPN,G,1.88,87,09-08-82,Osaka,Vegalta Sendai,Sanfrecce Hiroshima,2016,Japanese
+2,2,Yuki Nogami,JPN,D,1.80,70,20-04-91,Tokyo,Yokohama FC,Sanfrecce Hiroshima,2016,Japanese
+4,4,Hiroki Mizumoto,JPN,D,1.83,72,12-09-85,Mie,Kyoto Sanga,Sanfrecce Hiroshima,2016,Japanese
+5,5,Kazuhiko Chiba,JPN,M,1.83,74,21-06-85,Hakkaido,Albirex Niigata,Sanfrecce Hiroshima,2016,Japanese
+6,6,Toshihiro Aoyama,JPN,M,1.73,72,22-02-86,Okayama,None,Sanfrecce Hiroshima,2016,Japanese
+7,7,Koji Morisaki,JPN,M,1.77,76,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2016,Japanese
+8,8,Kazuyuki Morisaki,JPN,M,1.77,72,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2016,Japanese
+9,9,Peter Utaka,NGA,F,1.77,79,12-02-84,Enugu,Shimizu S-Pulse,Sanfrecce Hiroshima,2016,Japanese
+11,11,Hisato Sato,JPN,F,1.70,68,12-03-82,Saitama,Vegalta Sendai,Sanfrecce Hiroshima,2016,Japanese
+13,13,Takuya Masuda,JPN,G,1.84,83,29-06-89,Hiroshima,Ryutsu Keizai Univ,Sanfrecce Hiroshima,2016,Japanese
+14,14,Mihael Mikić,CRO,M,1.76,70,06-01-80,Zagreb,Dinamo Zagreb,Sanfrecce Hiroshima,2016,Japanese
+16,16,Kohei Shimizu,JPN,F,1.66,62,30-04-89,Oita,None,Sanfrecce Hiroshima,2016,Japanese
+18,18,Yoshifumi Kashiwa,JPN,M,1.68,60,28-07-87,Yamanashi,Ventforet Kofu,Sanfrecce Hiroshima,2016,Japanese
+19,19,Sho Sasaki,JPN,D,1.76,67,02-10-89,Zama,Ventforet Kofu,Sanfrecce Hiroshima,2016,Japanese
+21,21,Ryotaro Hironaga,JPN,G,1.85,75,09-01-90,Tokyo,FC Tokyo,Sanfrecce Hiroshima,2016,Japanese
+22,22,Yusuke Minagawa,JPN,F,1.86,84,09-10-91,Tachikawa,Chuo Univ,Sanfrecce Hiroshima,2016,Japanese
+24,24,Yoichi Naganuma,JPN,M,1.77,66,14-04-97,Yamanashi,None,Sanfrecce Hiroshima,2016,Japanese
+25,25,Yusuke Chajima,JPN,M,1.66,60,20-07-91,Hiroshima,Tokyo Gakugei Univ,Sanfrecce Hiroshima,2016,Japanese
+26,26,Yasumasa Kawasaki,JPN,D,1.75,69,20-08-92,Ayaseshi,Ryutsu Keizai Univ,Sanfrecce Hiroshima,2016,Japanese
+28,28,Takuya Marutani,JPN,F,1.79,71,30-05-89,Tottori,None,Sanfrecce Hiroshima,2016,Japanese
+29,29,Tsukasa Morishima,JPN,M,1.72,59,25-04-97,Mie,Yokkaichi Chuo Tech HS,Sanfrecce Hiroshima,2016,Japanese
+30,30,Kosei Shibasaki,JPN,M,1.75,65,28-08-84,Nagasaki,Tokushima Vortis,Sanfrecce Hiroshima,2016,Japanese
+31,31,Takumi Miyayoshi,JPN,F,1.72,64,07-08-92,Shiga,Kyoto Sanga,Sanfrecce Hiroshima,2016,Japanese
+33,33,Tsukasa Shiotani,JPN,D,1.80,74,05-12-88,Tokushima,Mito HollyHock,Sanfrecce Hiroshima,2016,Japanese
+34,34,Soya Takahashi,JPN,D,1.68,65,29-02-96,Matsue,Rissho Univ,Sanfrecce Hiroshima,2016,Japanese
+35,35,Naoki Otani,JPN,D,1.82,77,24-09-95,Fuchu,None,Sanfrecce Hiroshima,2016,Japanese
+37,37,Kazuya Miyahara,JPN,M,1.70,61,22-03-96,Hiroshima,None,Sanfrecce Hiroshima,2016,Japanese
+41,44,Anderson Lopes,BRA,F,1.80,72,15-09-93,Recife,Tombense,Sanfrecce Hiroshima,2016,Japanese
+1,1,Tomohiko Murayama,JPN,G,1.84,78,22-08-87,Ichihara,Matsumoto Yamaga,Shonan Bellmare,2016,Japanese
+2,2,Shunsuke Kikuchi,JPN,M,1.80,73,04-10-91,Saitama,Nippon Sport Science Univ,Shonan Bellmare,2016,Japanese
+3,3,Ryohei Okazaki,JPN,D,1.85,78,25-04-92,Atsugi,Chuo Univ,Shonan Bellmare,2016,Japanese
+4,4,André Bahia,BRA,D,1.82,75,24-11-83,Rio de Janeiro,Botafogo,Shonan Bellmare,2016,Japanese
+5,5,Tomotaka Okamoto,JPN,M,1.79,65,29-06-90,Hiroshima,Sagan Tosu,Shonan Bellmare,2016,Japanese
+6,6,Yuto Misao,JPN,D,1.75,66,16-04-91,Tokyo,Waseda Univ,Shonan Bellmare,2016,Japanese
+7,7,Yohei Otake,JPN,M,1.65,60,02-05-89,Saitama,FC Tokyo,Shonan Bellmare,2016,Japanese
+8,8,Naoki Yamada,JPN,M,1.66,64,04-07-90,Saitama,Urawa Red Diamonds,Shonan Bellmare,2016,Japanese
+9,9,Dinei,BRA,F,1.86,78,11-11-83,São Domingos,Kashima Antlers,Shonan Bellmare,2016,Japanese
+10,10,Daisuke Kikuchi,JPN,F,1.72,68,12-04-94,Kanagawa,None,Shonan Bellmare,2016,Japanese
+11,11,Yoshihito Fujita,JPN,F,1.85,75,13-04-83,Hyogo,Yokohama F Marinos,Shonan Bellmare,2016,Japanese
+13,13,Miki Yamane,JPN,M,1.78,69,22-12-93,Yokohama,Toin Univ,Shonan Bellmare,2016,Japanese
+14,14,Seiya Fujita,JPN,M,1.75,63,02-06-87,Hokkaido,Albirex Niigata,Shonan Bellmare,2016,Japanese
+15,15,Ariajasuru Hasegawa,JPN,M,1.86,70,29-10-88,Saitama,Zaragoza,Shonan Bellmare,2016,Japanese
+16,16,Toshiki Ishikawa,JPN,M,1.74,65,10-07-91,Saitama,Toyo Univ,Shonan Bellmare,2016,Japanese
+17,17,Jin Hanato,JPN,F,1.74,60,31-05-90,Kanagawa,Yokohama F Marinos,Shonan Bellmare,2016,Japanese
+18,18,Eijiro Takeda,JPN,D,1.72,68,11-07-88,Kawasaki,Yokohama F Marinos,Shonan Bellmare,2016,Japanese
+19,19,Shuhei Otsuki,JPN,F,1.78,70,26-05-89,Fukuchiyama,Osaka Gakuin Univ,Shonan Bellmare,2016,Japanese
+20,20,Keisuke Tsuboi,JPN,D,1.79,67,16-09-79,Tokyo,Urawa Red Diamonds,Shonan Bellmare,2016,Japanese
+21,21,Yuji Kajikawa,JPN,G,1.85,76,26-07-91,Toyota,Tokai Gakuen Univ,Shonan Bellmare,2016,Japanese
+22,22,Hokuto Shimoda,JPN,M,1.71,61,07-11-91,Kanagawa,Ventforet Kofu,Shonan Bellmare,2016,Japanese
+23,23,Kaoru Takayama,JPN,M,1.74,67,08-07-88,Kawasaki,Kashiwa Reysol,Shonan Bellmare,2016,Japanese
+24,24,Yuta Narawa,JPN,D,1.72,65,29-08-87,Yokohama,Yokohama F Marinos,Shonan Bellmare,2016,Japanese
+25,25,Tando Velaphi,AUS,G,1.85,70,17-04-87,Perth,Melbourne C,Shonan Bellmare,2016,Japanese
+28,28,Yuta Kamiya,JPN,M,1.76,67,24-04-97,Yamagata,Aomori Yamada HS,Shonan Bellmare,2016,Japanese
+29,29,Weslley,BRA,F,1.80,72,21-04-92,Uruçui,Buriram U,Shonan Bellmare,2016,Japanese
+30,30,Tsuyoshi Shimamura,JPN,D,1.83,77,10-08-85,Saitama,Waseda Univ,Shonan Bellmare,2016,Japanese
+31,31,Go Ito,JPN,G,1.91,84,23-03-94,Saitama,Zvijezda Gradačac,Shonan Bellmare,2016,Japanese
+32,32,Mitsuki Saito,JPN,M,1.65,61,10-01-99,Kanagawa,None,Shonan Bellmare,2016,Japanese
+33,33,Shota Tamura,JPN,F,1.68,62,04-02-95,Owariasahi,Yokkaichi Chuo Tech HS,Shonan Bellmare,2016,Japanese
+36,36,Takuya Okamoto,JPN,D,1.74,73,18-06-92,Saitama,Urawa Red Diamonds,Shonan Bellmare,2016,Japanese
+37,37,Park Tae-Hwan,KOR,D,1.86,80,29-07-97,,Hankuk Univ of FS,Shonan Bellmare,2016,Japanese
+38,38,Hirokazu Ishihara,JPN,D,1.69,63,26-02-99,Fujisawa,None,Shonan Bellmare,2016,Japanese
+2,2,Yuhei Tokunaga,JPN,D,1.79,76,25-09-83,Nagasaki,None,FC Tokyo,2016,Japanese
+3,3,Masato Morishige,JPN,M,1.79,72,21-05-87,Hiroshima,Oita Trinita,FC Tokyo,2016,Japanese
+4,4,Hideto Takahashi,JPN,D,1.82,74,17-10-87,Gumma,None,FC Tokyo,2016,Japanese
+5,5,Yuichi Maruyama,JPN,D,1.83,73,16-06-89,Tokyo,Meiji Univ,FC Tokyo,2016,Japanese
+6,6,Sei Muroya,JPN,D,1.74,65,05-04-94,Kumatori,Meiji Univ,FC Tokyo,2016,Japanese
+7,7,Takuji Yonemoto,JPN,M,1.76,63,03-12-90,Hyogo,None,FC Tokyo,2016,Japanese
+9,9,Sota Hirayama,JPN,F,1.90,85,06-06-85,Fukuoka,Heracles Almelo,FC Tokyo,2016,Japanese
+10,10,Yohei Kajiyama,JPN,M,1.80,77,24-09-85,Tokyo,None,FC Tokyo,2016,Japanese
+11,11,Muriqui,BRA,F,1.70,72,16-06-86,Rio de Janeiro,Al-Sadd,FC Tokyo,2016,Japanese
+13,13,Tatsuya Enomoto,JPN,G,1.80,73,16-03-79,Tokyo,Tochigi SC,FC Tokyo,2016,Japanese
+15,15,Takuya Koyama,JPN,D,1.74,63,20-04-97,Tokyo,Senshu Univ,FC Tokyo,2016,Japanese
+16,16,Nathan Burns,AUS,F,1.78,70,07-05-88,Blayney,Wellington Phoenix,FC Tokyo,2016,Japanese
+17,17,Hiroki Kawano,JPN,M,1.65,58,30-03-90,Kanagawa,Tokyo Verdy,FC Tokyo,2016,Japanese
+18,18,Naohiro Ishikawa,JPN,M,1.75,68,12-05-81,Kanagawa,Yokohama Marinos,FC Tokyo,2016,Japanese
+19,19,Tasuku Hiraoka,JPN,M,1.65,62,23-02-96,Nara,Sakuyo HS,FC Tokyo,2016,Japanese
+20,20,Ryoichi Maeda,JPN,F,1.83,80,09-10-81,Hyogo,Júbilo Iwata,FC Tokyo,2016,Japanese
+21,21,Yosuke Hanya,JPN,F,1.73,61,30-01-99,Tokyo,None,FC Tokyo,2016,Japanese
+22,22,Naotake Hanyu,JPN,M,1.67,63,22-12-79,Chiba,JEF United,FC Tokyo,2016,Japanese
+23,23,Yohei Hayashi,JPN,F,1.77,63,16-07-89,Saitama,Chuo Univ,FC Tokyo,2016,Japanese
+24,24,Wataru Sasaki,JPN,M,1.74,66,28-07-96,Mitaka,None,FC Tokyo,2016,Japanese
+25,25,Ryoya Ogawa,JPN,D,1.79,72,24-11-96,Tokyo,None,FC Tokyo,2016,Japanese
+26,26,Takahiro Yanagi,JPN,D,1.83,77,05-08-97,Tokyo,None,FC Tokyo,2016,Japanese
+27,27,Sotan Tanabe,JPN,M,1.75,65,06-04-90,Tokyo,None,FC Tokyo,2016,Japanese
+28,28,Junya Ito,JPN,M,1.73,63,12-04-98,Tokyo,None,FC Tokyo,2016,Japanese
+29,29,Kazunori Yoshimoto,JPN,D,1.85,83,24-04-88,Tokyo,None,FC Tokyo,2016,Japanese
+30,30,Takuya Uchida,JPN,M,1.76,68,02-06-98,Chiba,None,FC Tokyo,2016,Japanese
+31,31,Kentaro Kakoi,JPN,G,1.90,87,23-04-91,Nagasaki,St. Andrew's Univ,FC Tokyo,2016,Japanese
+32,32,Yu In-Soo,KOR,M,1.77,69,28-12-94,,Kwangwoon Univ,FC Tokyo,2016,Japanese
+33,33,Sodai Hasukawa,JPN,D,1.79,73,27-06-98,Tokyo,None,FC Tokyo,2016,Japanese
+34,34,Hideyuki Nozawa,JPN,M,1.80,68,15-08-94,Wakō,None,FC Tokyo,2016,Japanese
+35,35,Kiichi Yajima,JPN,F,1.86,82,06-04-95,Hachioji,Chuo Univ,FC Tokyo,2016,Japanese
+36,36,Masayuki Yamada,JPN,D,1.86,75,01-10-94,Saitama,Hosei Univ,FC Tokyo,2016,Japanese
+37,37,Kento Hashimoto,JPN,M,1.79,72,16-08-93,Tokyo,None,FC Tokyo,2016,Japanese
+38,38,Keigo Higashi,JPN,M,1.77,63,20-07-90,Fukuoka,Omiya Ardija,FC Tokyo,2016,Japanese
+39,39,Shoya Nakajima,JPN,M,1.64,58,23-08-94,Tokyo,Tokyo Verdy,FC Tokyo,2016,Japanese
+40,40,Makoto Okazaki,JPN,D,1.80,71,10-10-98,Tokyo,None,FC Tokyo,2016,Japanese
+41,41,Go Hatano,JPN,G,1.95,82,25-05-98,Tokyo,None,FC Tokyo,2016,Japanese
+42,42,Yoshiatsu Oiji,JPN,M,1.77,65,02-04-98,Tokyo,None,FC Tokyo,2016,Japanese
+43,43,Yoshitake Suzuki,JPN,M,1.82,77,06-07-98,Kokubunji,None,FC Tokyo,2016,Japanese
+44,44,Takuma Abe,JPN,F,1.71,72,05-12-87,Kodaira,Ventforet Kofu,FC Tokyo,2016,Japanese
+45,45,Rimu Matsuoka,JPN,F,1.75,59,22-07-98,Tama,None,FC Tokyo,2016,Japanese
+46,46,Kazuna Takase,JPN,G,1.81,76,06-08-99,Tokyo,None,FC Tokyo,2016,Japanese
+47,47,Yota Akimoto,JPN,G,1.81,75,11-07-87,Tokyo,Shonan Bellmare,FC Tokyo,2016,Japanese
+48,48,Kota Mizunuma,JPN,F,1.75,66,22-02-90,Tokyo,Sagan Tosu,FC Tokyo,2016,Japanese
+49,49,Fumiya Suzuki,JPN,F,1.80,67,29-04-98,Tokyo,None,FC Tokyo,2016,Japanese
+1,1,Shusaku Nishikawa,JPN,G,1.83,79,18-06-86,Oita,Sanfrecce Hiroshima,Urawa Red Diamonds,2016,Japanese
+2,2,Kenichi Kaga,JPN,D,1.81,72,30-09-83,Akita,FC Tokyo,Urawa Red Diamonds,2016,Japanese
+3,3,Tomoya Ugajin,JPN,M,1.71,71,23-03-88,Saitama,None,Urawa Red Diamonds,2016,Japanese
+4,4,Daisuke Nasu,JPN,D,1.80,75,10-10-81,Kanagawa,Kashiwa Reysol,Urawa Red Diamonds,2016,Japanese
+5,5,Tomoaki Makino,JPN,D,1.82,77,11-05-87,Hiroshima,Köln,Urawa Red Diamonds,2016,Japanese
+6,6,Wataru Endo,JPN,D,1.76,73,09-02-93,Ibaraki,Shonan Bellmare,Urawa Red Diamonds,2016,Japanese
+7,7,Tsukasa Umesaki,JPN,M,1.67,64,23-02-87,Nagasaki,Oita Trinita,Urawa Red Diamonds,2016,Japanese
+9,9,Yuki Muto,JPN,F,1.70,68,07-11-88,Zama,Vegalta Sendai,Urawa Red Diamonds,2016,Japanese
+10,10,Yosuke Kashiwagi,JPN,M,1.75,68,15-12-87,Hyogo,Sanfrecce Hiroshima,Urawa Red Diamonds,2016,Japanese
+11,11,Naoki Ishihara,JPN,F,1.73,61,14-08-84,Gumma,Sanfrecce Hiroshima,Urawa Red Diamonds,2016,Japanese
+13,13,Toshiyuki Takagi,JPN,F,1.70,62,25-05-91,Kanagawa,Shimizu S-Pulse,Urawa Red Diamonds,2016,Japanese
+14,14,Tadaaki Hirakawa,JPN,M,1.71,67,01-05-79,Shizuoka,None,Urawa Red Diamonds,2016,Japanese
+15,15,Koki Otani,JPN,G,1.85,80,08-04-89,Kumamoto,Lanza Kumamoto,Urawa Red Diamonds,2016,Japanese
+16,16,Takuya Aoki,JPN,M,1.79,72,16-09-89,Gumma,Omiya Ardija,Urawa Red Diamonds,2016,Japanese
+17,17,Mitsuru Nagata,JPN,D,1.83,72,06-04-83,Shizuoka,Albirex Niigata,Urawa Red Diamonds,2016,Japanese
+18,18,Yoshiaki Komai,JPN,M,1.68,63,06-06-92,Kyoto,Kyoto Sanga,Urawa Red Diamonds,2016,Japanese
+20,20,Tadanari Lee,JPN,F,1.82,74,19-12-85,Tokyo,Southampton,Urawa Red Diamonds,2016,Japanese
+21,21,Zlatan Ljubijankič,SVN,F,1.82,84,15-12-83,Ljubljana,Omiya Ardija,Urawa Red Diamonds,2016,Japanese
+22,22,Yuki Abe,JPN,M,1.77,77,06-09-81,Chiba,Leicester C,Urawa Red Diamonds,2016,Japanese
+23,23,Nao Iwadate,JPN,G,1.83,78,17-08-88,Kanagawa,Mito HollyHock,Urawa Red Diamonds,2016,Japanese
+24,24,Takahiro Sekine,JPN,M,1.67,61,19-04-95,Tsurugashima,None,Urawa Red Diamonds,2016,Japanese
+26,26,Ryotaro Ito,JPN,M,1.74,62,06-02-98,Osaka,Sakuyo HS,Urawa Red Diamonds,2016,Japanese
+30,30,Shinzo Koroki,JPN,M,1.75,67,31-07-86,Miyazaki,Kashima Antlers,Urawa Red Diamonds,2016,Japanese
+31,31,Branko Ilič,SVN,D,1.88,80,06-02-83,Ljubljana,Astana,Urawa Red Diamonds,2016,Japanese
+41,46,Ryota Moriwaki,JPN,D,1.77,74,06-04-86,Hiroshima,Sanfrecce Hiroshima,Urawa Red Diamonds,2016,Japanese
+1,1,Yuji Rokutan,JPN,G,1.88,78,10-04-87,Kagoshima,Yokohama F Marinos,Vegalta Sendai,2016,Japanese
+3,3,Hirofumi Watanabe,JPN,D,1.85,75,07-07-87,Yamagata,Kashiwa Reysol,Vegalta Sendai,2016,Japanese
+4,4,Koji Hachisuka,JPN,D,1.80,77,20-07-90,Tochigi,Sendai Univ,Vegalta Sendai,2016,Japanese
+5,5,Naoki Ishikawa,JPN,D,1.80,73,13-09-85,Chiba,Albirex Niigata,Vegalta Sendai,2016,Japanese
+6,6,Kim Min-Tae,KOR,M,1.87,78,26-11-93,Incheon,Kwangwoon Univ,Vegalta Sendai,2016,Japanese
+7,7,Hiroaki Okuno,JPN,F,1.71,67,14-08-89,Osaka,None,Vegalta Sendai,2016,Japanese
+8,8,Takuya Nozawa,JPN,M,1.76,70,12-08-81,Ibaraki,Kashima Antlers,Vegalta Sendai,2016,Japanese
+9,9,Wilson,BRA,F,1.79,85,21-03-85,Araras,Shaanxi Chanba,Vegalta Sendai,2016,Japanese
+10,10,Ryang Yong-Gi,PRK,M,1.73,72,07-01-82,Osaka,None,Vegalta Sendai,2016,Japanese
+11,11,Hidetaka Kanazono,JPN,F,1.84,75,01-09-88,Osaka,Júbilo Iwata,Vegalta Sendai,2016,Japanese
+13,13,Yasuhiro Hiraoka,JPN,D,1.82,65,23-05-86,Shizuoka,Shimizu S-Pulse,Vegalta Sendai,2016,Japanese
+14,14,Jun Kanakubo,JPN,M,1.70,64,26-07-87,Ibaraki,Omiya Ardija,Vegalta Sendai,2016,Japanese
+17,17,Shingo Tomita,JPN,M,1.69,64,20-06-86,Tochigi,Tokyo Verdy,Vegalta Sendai,2016,Japanese
+18,18,Hirotaka Mita,JPN,M,1.73,62,14-09-90,Tokyo,FC Tokyo,Vegalta Sendai,2016,Japanese
+19,19,Kyohei Sugiura,JPN,M,1.76,66,11-01-89,Shizuoka,Vissel Kobe,Vegalta Sendai,2016,Japanese
+20,20,Ramon Lopes,BRA,M,1.85,74,07-08-89,Belo Horizonte,Volyn Lutsk,Vegalta Sendai,2016,Japanese
+21,21,Kentaro Seki,JPN,G,1.77,74,09-03-86,Fujioka,Meiji Univ,Vegalta Sendai,2016,Japanese
+22,22,Kei Ishikawa,JPN,G,1.85,79,30-09-92,Niigata,Niigata Meikun HS,Vegalta Sendai,2016,Japanese
+24,24,Yuto Sashinami,JPN,M,1.68,68,28-06-93,Aomori,Meiji Univ,Vegalta Sendai,2016,Japanese
+25,25,Naoki Sugai,JPN,M,1.78,70,21-09-84,Yamagata,None,Vegalta Sendai,2016,Japanese
+26,26,Keita Fujimura,JPN,M,1.80,65,02-09-93,Iwate,Morioka Commercial HS,Vegalta Sendai,2016,Japanese
+27,27,Kazuki Oiwa,JPN,D,1.83,78,17-08-89,Nagoya,JEF United,Vegalta Sendai,2016,Japanese
+28,28,Takumi Sasaki,JPN,M,1.65,58,30-03-98,Akita,None,Vegalta Sendai,2016,Japanese
+29,29,Koki Mizuno,JPN,M,1.73,58,06-09-85,Shizuoka,JEF United,Vegalta Sendai,2016,Japanese
+30,30,Takuma Nishimura,JPN,F,1.78,70,22-10-96,Nagoya,Toyama Daiichi HS,Vegalta Sendai,2016,Japanese
+31,31,Shunsuke Motegi,JPN,M,1.68,64,02-10-96,Chiba,None,Vegalta Sendai,2016,Japanese
+32,32,Masaya Kojima,JPN,D,1.70,64,09-11-97,Saitama,None,Vegalta Sendai,2016,Japanese
+33,33,Masato Tokida,JPN,D,1.87,81,27-11-97,Saitama,Aomori Yamada HS,Vegalta Sendai,2016,Japanese
+34,34,Keiya Shiihashi,JPN,M,1.77,69,20-06-97,Funabashi,Funabashi Municipal HS,Vegalta Sendai,2016,Japanese
+36,36,Pablo,BRA,F,1.75,65,18-12-92,Campinas,Atlético Mineiro,Vegalta Sendai,2016,Japanese
+1,1,Kohei Kawata,JPN,G,1.83,73,13-10-87,Oita,Gamba Osaka,Ventforet Kofu,2016,Japanese
+2,2,Kensuke Fukuda,JPN,D,1.74,70,24-07-84,Shizuoka,Tokyo Verdy,Ventforet Kofu,2016,Japanese
+3,3,Hiroto Hatao,JPN,D,1.83,79,16-09-90,Tokyo,Waseda Univ,Ventforet Kofu,2016,Japanese
+4,4,Hideomi Yamamoto,JPN,D,1.75,69,26-06-80,Chiba,JEF United,Ventforet Kofu,2016,Japanese
+5,5,Ryo Shinzato,JPN,D,1.84,70,02-07-90,Okazaki,Mito HollyHock,Ventforet Kofu,2016,Japanese
+6,6,Marquinhos Paraná,BRA,M,1.74,71,20-07-77,Recife,América Mineiro,Ventforet Kofu,2016,Japanese
+7,7,Katsuya Ishihara,JPN,M,1.76,64,02-10-78,Yamanashi,Juntendo Univ,Ventforet Kofu,2016,Japanese
+8,8,Ryohei Arai,JPN,M,1.83,67,03-11-90,Tokyo,Giravanz Kitakyushu,Ventforet Kofu,2016,Japanese
+9,9,Davi,BRA,F,1.83,80,10-03-84,Fortaleza,Kashima Antlers,Ventforet Kofu,2016,Japanese
+10,10,Dudu,BRA,F,1.88,72,21-04-90,Itanhanhém,Figuirense,Ventforet Kofu,2016,Japanese
+13,13,Akito Kawamoto,JPN,F,1.74,71,01-05-90,Shiga,Ryutsu Keizai Univ,Ventforet Kofu,2016,Japanese
+14,14,Yusuke Tanaka,JPN,D,1.81,73,14-04-86,Tokyo,JEF United,Ventforet Kofu,2016,Japanese
+15,15,Takamitsu Yoshino,JPN,M,1.76,67,24-04-89,Kyoto,Cerezo Osaka,Ventforet Kofu,2016,Japanese
+16,16,Masaru Matsuhashi,JPN,F,1.73,69,22-03-85,Nagasaki,Oita Trinita,Ventforet Kofu,2016,Japanese
+17,17,Takuma Tsuda,JPN,D,1.79,71,04-10-80,Saitama,Ehime FC,Ventforet Kofu,2016,Japanese
+19,19,Kohei Morita,JPN,F,1.89,85,13-07-76,Aichi,Sanfrecce Hiroshima,Ventforet Kofu,2016,Japanese
+20,20,Masato Kurogi,JPN,M,1.80,67,24-10-89,Miyazaki,V-Varen Nagasaki,Ventforet Kofu,2016,Japanese
+22,22,Hiroki Oka,JPN,G,1.85,68,18-04-88,Aichi,Komazawa Univ,Ventforet Kofu,2016,Japanese
+23,23,Sho Inagaki,JPN,M,1.75,72,25-12-91,Tokyo,Nippon Sport Science Univ,Ventforet Kofu,2016,Japanese
+24,24,Naoya Shibamura,JPN,D,1.80,78,11-09-82,Hiroshima,Stomil Olsztyn,Ventforet Kofu,2016,Japanese
+25,25,Kota Mori,JPN,F,1.75,69,13-06-97,Aichi,Nagoya Grampus,Ventforet Kofu,2016,Japanese
+26,26,Shun Kumagai,JPN,D,1.90,84,07-08-96,Miyagi,Sendai Ikuei Gakuen HS,Ventforet Kofu,2016,Japanese
+27,27,Billy Celeski,AUS,M,1.76,72,14-07-85,Ohrid,Newcastle U Jets,Ventforet Kofu,2016,Japanese
+28,28,Yuki Hashizume,JPN,F,1.75,65,10-08-90,Nagano,Yamanashi Gakuin Univ,Ventforet Kofu,2016,Japanese
+29,29,Masaki Watanabe,JPN,D,1.81,77,02-12-86,Kyoto,Giravanz Kitakyushu,Ventforet Kofu,2016,Japanese
+30,30,Kazunari Hosaka,JPN,M,1.72,63,24-03-83,Tokyo,Fagiano Okayama,Ventforet Kofu,2016,Japanese
+31,31,Kosuke Okanishi,JPN,G,1.86,78,17-07-90,Osaka,Chuo Univ,Ventforet Kofu,2016,Japanese
+41,41,Yukio Tsuchiya,JPN,D,1.77,74,31-07-74,Tokyo,Tokyo Verdy,Ventforet Kofu,2016,Japanese
+2,2,Yudai Tanaka,JPN,D,1.68,67,08-08-88,Shiga,Mito HollyHock,Vissel Kobe,2016,Japanese
+3,3,Takahito Soma,JPN,D,1.76,74,10-12-81,Kanagawa,Energie Cottbus,Vissel Kobe,2016,Japanese
+4,4,Kunie Kitamoto,JPN,D,1.81,78,18-09-81,Nara,None,Vissel Kobe,2016,Japanese
+5,5,Takuya Iwanami,JPN,D,1.86,72,18-06-94,Hyogo,None,Vissel Kobe,2016,Japanese
+6,6,Shunki Takahashi,JPN,M,1.69,68,04-05-90,Saitama,Urawa Red Diamonds,Vissel Kobe,2016,Japanese
+7,7,Pedro Júnior,BRA,F,1.80,70,29-01-87,Santana do Araguaia,Jeju U,Vissel Kobe,2016,Japanese
+8,8,Shohei Takahashi,JPN,D,1.80,70,27-10-91,Tokyo,Omiya Ardija,Vissel Kobe,2016,Japanese
+9,9,Daisuke Ishizu,JPN,F,1.70,68,15-01-90,Fukuoka,Avispa Fukuoka,Vissel Kobe,2016,Japanese
+10,10,Nílton,BRA,M,1.84,74,21-04-87,Barra do Garças,Internacional,Vissel Kobe,2016,Japanese
+11,11,Leandro,BRA,F,1.76,68,12-02-85,São Paulo,Kashiwa Reysol,Vissel Kobe,2016,Japanese
+13,13,Keijiro Ogawa,JPN,F,1.68,62,14-07-92,Hyogo,None,Vissel Kobe,2016,Japanese
+14,14,Naoyuki Fujita,JPN,M,1.75,68,22-06-87,Fukuoka,Sagan Tosu,Vissel Kobe,2016,Japanese
+15,15,Seigo Kobayashi,JPN,M,1.76,65,08-01-94,Hyogo,Kwansei Gakuin Univ,Vissel Kobe,2016,Japanese
+17,17,Hideo Tanaka,JPN,M,1.72,65,01-03-83,Kumamoto,None,Vissel Kobe,2016,Japanese
+18,18,Kim Seung-Gyu,KOR,G,1.87,76,30-09-90,Ulsan,Ulsan Hyundai,Vissel Kobe,2016,Japanese
+19,19,Kazuma Watanabe,JPN,F,1.81,75,10-08-86,Nagasaki,FC Tokyo,Vissel Kobe,2016,Japanese
+20,20,Asahi Masuyama,JPN,M,1.73,72,29-01-97,Fukuoka,Higashi Fukuoka HS,Vissel Kobe,2016,Japanese
+21,21,Koki Matsuzawa,JPN,G,1.82,80,03-04-92,Kawasaki,Waseda Univ,Vissel Kobe,2016,Japanese
+22,22,Kaito Yamamoto,JPN,G,1.88,81,10-07-85,Shizuoka,Shimizu S-Pulse,Vissel Kobe,2016,Japanese
+23,23,Yoshiki Matsushita,JPN,M,1.74,63,03-03-94,Matsuyama,Hannan Univ,Vissel Kobe,2016,Japanese
+24,24,Masatoshi Mihara,JPN,M,1.75,67,02-08-88,Kumamoto,None,Vissel Kobe,2016,Japanese
+25,25,Junya Higashi,JPN,D,1.76,72,13-11-97,Amagasaki,None,Vissel Kobe,2016,Japanese
+27,27,Ryo Matsumura,JPN,M,1.68,58,15-06-94,Kyoto,None,Vissel Kobe,2016,Japanese
+30,30,Kenta Tokushige,JPN,G,1.87,87,09-03-84,Kagoshima,Urawa Red Diamonds,Vissel Kobe,2016,Japanese
+31,31,Yuya Nakasaka,JPN,M,1.71,61,05-08-97,Tokushima,None,Vissel Kobe,2016,Japanese
+32,32,Ryosuke Maeda,JPN,M,1.72,65,27-04-94,Himeji,None,Vissel Kobe,2016,Japanese
+33,33,Taisuke Muramatsu,JPN,D,1.76,77,16-12-89,Shizuoka,Shimizu S-Pulse,Vissel Kobe,2016,Japanese
+34,34,So Fujitani,JPN,D,1.78,62,28-10-97,Hyogo,None,Vissel Kobe,2016,Japanese
+39,39,Masahiko Inoha,JPN,D,1.79,73,28-08-85,Miyazaki,Júbilo Iwata,Vissel Kobe,2016,Japanese
+41,44,Wataru Hashimoto,JPN,D,1.81,72,14-09-86,Shiga,Urawa Red Diamonds,Vissel Kobe,2016,Japanese
+1,1,Tetsuya Enomoto,JPN,G,1.80,76,02-05-83,Kawasaki,None,Yokohama F Marinos,2016,Japanese
+2,2,Park Jeong-Su,KOR,D,1.88,76,12-04-94,,Kyung Hee Univ,Yokohama F Marinos,2016,Japanese
+4,4,Yuzo Kurihara,JPN,D,1.84,80,18-09-83,Yokohama,None,Yokohama F Marinos,2016,Japanese
+5,5,Fábio Aguiar,BRA,D,1.86,78,28-02-89,Bom Jardim,Jacuipense,Yokohama F Marinos,2016,Japanese
+7,7,Shingo Hyodo,JPN,M,1.71,65,29-07-85,Nagasaki,None,Yokohama F Marinos,2016,Japanese
+8,8,Kosuke Nakamachi,JPN,M,1.74,70,01-09-85,Saitama,Avispa Fukuoka,Yokohama F Marinos,2016,Japanese
+9,9,Kayke,BRA,F,1.82,72,01-04-88,Brasília,Flamengo,Yokohama F Marinos,2016,Japanese
+10,10,Shunsuke Nakamura,JPN,M,1.78,69,24-06-78,Yokohama,Espanyol,Yokohama F Marinos,2016,Japanese
+11,11,Manabu Saito,JPN,F,1.65,54,04-04-90,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+13,13,Yuzo Kobayashi,JPN,D,1.76,72,15-11-85,Tokyo,Kashiwa Reysol,Yokohama F Marinos,2016,Japanese
+14,14,Masashi Wada,JPN,F,1.76,74,11-04-97,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+15,15,Ikki Arai,JPN,D,1.85,75,08-11-93,Chiba,Juntendo Univ,Yokohama F Marinos,2016,Japanese
+16,16,Sho Ito,JPN,F,1.84,74,24-07-88,Kasugai,Shimizu S-Pulse,Yokohama F Marinos,2016,Japanese
+17,17,Cayman Togashi,JPN,F,1.78,73,10-08-93,New York,Kanto Gakuin Univ,Yokohama F Marinos,2016,Japanese
+18,18,Keita Endo,JPN,M,1.75,66,22-11-97,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+19,19,Teruhito Nakagawa,JPN,F,1.61,57,27-07-92,Kanagawa,Senshu Univ,Yokohama F Marinos,2016,Japanese
+20,20,Quentin Martinus,CUW,F,1.83,70,07-03-91,Willemstad,FC Botoșani,Yokohama F Marinos,2016,Japanese
+21,21,Hiroki Iikura,JPN,G,1.80,72,01-06-86,Aomori,None,Yokohama F Marinos,2016,Japanese
+22,22,Yuji Nakazawa,JPN,D,1.87,78,25-02-78,Saitama,Tokyo Verdy,Yokohama F Marinos,2016,Japanese
+23,23,Takumi Shimohira,JPN,D,1.76,68,06-10-88,Osaka,Omiya Ardija,Yokohama F Marinos,2016,Japanese
+24,24,Takashi Kanai,JPN,D,1.74,60,05-02-90,Tokyo,JEF United,Yokohama F Marinos,2016,Japanese
+25,25,Naoki Maeda,JPN,D,1.75,66,17-11-94,Saitama,Tokyo Verdy,Yokohama F Marinos,2016,Japanese
+26,26,Kensei Nakashima,JPN,M,1.80,73,23-09-96,Saga,Higashi Fukuoka HS,Yokohama F Marinos,2016,Japanese
+28,28,Takuya Kida,JPN,M,1.68,55,23-08-94,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+29,29,Jun Amano,JPN,M,1.75,60,19-07-91,Kanagawa,Juntendo Univ,Yokohama F Marinos,2016,Japanese
+30,30,Junto Taguchi,JPN,G,1.81,70,28-09-96,Aichi,None,Yokohama F Marinos,2016,Japanese
+31,31,Takuya Takahashi,JPN,G,1.81,71,30-06-89,Kanagawa,YSCC,Yokohama F Marinos,2016,Japanese
+40,40,Ryo Takano,JPN,D,1.70,65,13-11-94,Yamato,Shonan Bellmare,Yokohama F Marinos,2016,Japanese
+41,42,Keigo Tsunemoto,JPN,D,1.72,64,21-10-98,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+42,43,Kaina Yoshio,JPN,M,1.67,59,28-06-98,Hyogo,None,Yokohama F Marinos,2016,Japanese
+43,44,Hideya Sata,JPN,M,1.76,65,21-07-98,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+44,45,Yusuke Tsukada,JPN,M,1.60,56,09-06-99,Yamanashi,None,Yokohama F Marinos,2016,Japanese
+45,46,Kota Yamada,JPN,M,1.72,57,10-07-99,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+46,47,Kenta Hori,JPN,M,1.64,64,09-04-99,Kanagawa,None,Yokohama F Marinos,2016,Japanese
+47,48,Naoki Tsubaki,JPN,M,1.69,58,23-06-00,Tokyo,Yokogawa Musashino,Yokohama F Marinos,2016,Japanese
+48,49,Hiroyuki Sakamoto,JPN,D,1.77,72,29-04-98,Kanagawa,None,Yokohama F Marinos,2016,Japanese

@@ -1,0 +1,520 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Jon Conway,USA,G,1.98,98,06-05-77,Media,Toronto FC,Chicago Fire,2011,USA
+3,3,Dan  Gargan,USA,M,1.80,79,14-12-82,Philadelphia,Toronto FC,Chicago Fire,2011,USA
+4,4,Kwame Watson-Siriboe,USA,D,1.90,88,13-11-86,Chino Hills,UConn,Chicago Fire,2011,USA
+5,5,Cory Gibbs,USA,D,1.88,81,14-01-80,Plantation,New England Revolution,Chicago Fire,2011,USA
+6,6,Jalil Anibaba,USA,D,1.83,73,19-10-88,Fontana,Univ of Nth Carolina,Chicago Fire,2011,USA
+8,8,Dominic Oduro,GHA,F,1.83,73,13-08-85,Pramso,Houston Dynamo,Chicago Fire,2011,USA
+9,9,Baggio Husidić,BIH,M,1.85,78,19-05-87,Velika Kladua,Univ of Illinois-Chicago,Chicago Fire,2011,USA
+10,10,Sebastián Grazzini,ARG,M,1.80,74,25-01-81,Rosario,All Boys,Chicago Fire,2011,USA
+11,11,Daniel Paladini,USA,M,1.75,75,11-12-84,Northridge,Carolina RailHawks,Chicago Fire,2011,USA
+12,12,Logan Pause,USA,D,1.78,70,22-08-81,Raleigh,Univ of North Carolina,Chicago Fire,2011,USA
+13,13,Gonzalo Segares,CRC,D,1.80,73,13-10-82,San José [CRC],Apollon Limassol,Chicago Fire,2011,USA
+14,14,Patrick Nyarko,GHA,F,1.83,75,15-01-86,Kumasi,Virginia Tech Univ,Chicago Fire,2011,USA
+15,15,Orr Barouch,ISR,F,1.88,86,29-11-91,Haifa,UANL Tigres,Chicago Fire,2011,USA
+16,16,Marco Pappa,GUA,M,1.78,70,15-11-87,Guatemala City,CSD Municipal,Chicago Fire,2011,USA
+17,17,Pável Pardo,MEX,M,1.75,70,26-07-76,Guadalajara,América,Chicago Fire,2011,USA
+18,18,Mike Banner,USA,M,1.75,69,20-10-84,"Washington, DC",SIU Edwardsville,Chicago Fire,2011,USA
+19,19,Corben Bone,USA,M,1.75,68,16-09-88,Plano,Wake Forest Univ,Chicago Fire,2011,USA
+21,21,Michael Videira,USA,M,1.78,79,06-01-86,Milford,AC St Louis,Chicago Fire,2011,USA
+23,23,Josip Mikulić,CRO,D,1.87,84,12-04-86,Ljubuki,Zagreb,Chicago Fire,2011,USA
+24,24,Pari Pantazopolous,GRE,D,1.83,82,17-09-88,Athens,Zakynthos,Chicago Fire,2011,USA
+25,25,Sean Johnson,USA,G,1.93,98,31-05-89,Lilburn,Univ of Central Florida,Chicago Fire,2011,USA
+27,27,Victor Pineda,USA,M,1.80,64,15-03-93,Bolingbrook,None,Chicago Fire,2011,USA
+28,28,Steven Kinney,USA,D,1.82,79,28-10-87,Norcross,Elon Univ,Chicago Fire,2011,USA
+29,29,Cristian Nazarit,COL,F,1.86,77,13-08-90,Villarrica,Santa Fe,Chicago Fire,2011,USA
+30,30,Alec Dufty,USA,G,1.95,93,11-03-87,Raleigh,AC St Louis,Chicago Fire,2011,USA
+41,88,Gabriel Ferrari,USA,F,1.88,84,01-09-88,New York,Bellinzona,Chicago Fire,2011,USA
+42,89,Yamith Cuesta,COL,D,1.90,80,17-04-89,Turbo,Expreso Rojo,Chicago Fire,2011,USA
+43,94,Kellen Gulley,USA,F,1.83,84,06-04-94,Clinton,None,Chicago Fire,2011,USA
+44,99,Diego Chaves,URU,F,1.78,73,14-02-86,Montevideo,Nacional [URU],Chicago Fire,2011,USA
+1,1,Dan Kennedy,USA,G,1.85,91,22-07-82,Fullerton,Municipal Iquique,Chivas USA,2011,USA
+2,2,Andrew Boyens,NZL,D,1.93,90,18-09-83,Dunedin,New York Red Bulls,Chivas USA,2011,USA
+3,3,Heath Pearce,USA,D,1.80,77,13-08-84,Modesto,FC Dallas,Chivas USA,2011,USA
+4,4,Michael Umaña,CRC,D,1.77,75,16-07-82,Santa Ana,Municipal Liberia,Chivas USA,2011,USA
+5,5,Paulo Nagamura,BRA,M,1.73,70,05-02-83,São Paulo,UANL Tigres,Chivas USA,2011,USA
+7,7,Simon Elliott,NZL,M,1.80,77,10-06-74,Wellington,Wellington Phoenix,Chivas USA,2011,USA
+8,8,Mariano Trujillo,MEX,D,1.72,67,19-05-77,Mexico City,Atlante,Chivas USA,2011,USA
+9,9,Juan Pablo Ángel,COL,F,1.84,78,24-10-75,Medellín,LA Galaxy,Chivas USA,2011,USA
+10,10,Nick LaBrocca,USA,M,1.78,75,04-12-84,Staten Island,Toronto FC,Chivas USA,2011,USA
+11,11,Michael Lahoud,USA,M,1.73,74,15-09-86,"Washington, DC",Wake Forest Univ,Chivas USA,2011,USA
+13,13,Ante Jazić,CAN,D,1.78,78,26-02-76,Bedford  [CAN],LA Galaxy,Chivas USA,2011,USA
+15,15,Alejandro  Moreno,VEN,F,1.75,77,08-07-79,Barquisimeto,Philadelphia Union,Chivas USA,2011,USA
+16,16,Laurent Courtois,FRA,M,1.75,70,11-09-78,Lyon,Grenoble,Chivas USA,2011,USA
+17,17,Justin Braun,USA,F,1.91,87,31-03-87,Salt Lake City,Olympique Montreux,Chivas USA,2011,USA
+18,18,Blair Gavin,USA,M,1.83,75,08-01-89,Louisville,Univ of Akron,Chivas USA,2011,USA
+19,19,Jorge Flores,USA,F,1.75,75,16-09-89,Anaheim,None,Chivas USA,2011,USA
+20,20,Zarek  Valentin,USA,D,1.80,70,06-08-91,"Lancaster,  PA",Univ of Akron,Chivas USA,2011,USA
+21,21,Ben Zemanski,USA,M,1.88,68,12-05-88,Akron,Univ of Akron,Chivas USA,2011,USA
+22,22,Zach  Thornton,USA,G,1.91,104,10-10-73,Baltimore,New York Red Bulls,Chivas USA,2011,USA
+23,23,Marcos Mondaini,ARG,F,1.77,69,14-02-85,Sáenz Peña,Boca Juniors,Chivas USA,2011,USA
+27,27,Chris Cortez,USA,F,1.90,81,24-07-88,Mission Viejo,None,Chivas USA,2011,USA
+30,30,Sergio Arias,MEX,G,1.88,70,27-02-88,Sinaloa,Guadalajara,Chivas USA,2011,USA
+41,59,Bryan de la Fuente,USA,M,1.75,70,01-07-92,Laredo,Guadalajara,Chivas USA,2011,USA
+42,77,David Junior Lopes,BRA,D,1.85,79,19-07-82,Maringa,Universitatea Craiova,Chivas USA,2011,USA
+43,99,Víctor Estupiñán,ECU,F,1.78,75,05-03-88,Quinindé,LDU Quito,Chivas USA,2011,USA
+2,2,Danny Earls,IRL,D,1.78,73,22-04-89,Dublin,Rochester Rhinos,Colorado Rapids,2011,USA
+3,3,Drew  Moor,USA,D,1.83,77,15-01-84,Dallas,FC Dallas,Colorado Rapids,2011,USA
+4,4,Jeff  Larentowicz,USA,D,1.85,79,05-08-83,West  Chester,New England Revolution,Colorado Rapids,2011,USA
+5,5,Nane Joseph,CMR,M,1.88,84,03-12-87,Yaoundé,Toronto FC,Colorado Rapids,2011,USA
+6,6,Anthony Wallace,USA,M,1.80,80,26-01-89,"St Petersburg, FL",FC Dallas,Colorado Rapids,2011,USA
+7,7,Josh Janniere,CAN,M,1.70,73,04-11-92,"Hamilton, ON",Toronto FC,Colorado Rapids,2011,USA
+8,8,Eddie Ababio,USA,D,1.80,77,01-01-88,Accra,Univ of Nth Carolina,Colorado Rapids,2011,USA
+9,9,Conor Casey,USA,F,1.88,85,25-07-81,New  Hampshire,Toronto FC,Colorado Rapids,2011,USA
+10,10,Macoumba Kandji,SEN,F,1.93,79,02-08-85,Dakar,New York Red Bulls,Colorado Rapids,2011,USA
+11,11,Brian  Mullan,USA,F,1.73,68,23-04-78,Mineola,Houston Dynamo,Colorado Rapids,2011,USA
+12,12,Quincy Amarikwa,USA,F,1.75,73,29-10-87,Bakersfield,San Jose Earthquakes,Colorado Rapids,2011,USA
+13,13,Steven Emory,USA,M,1.88,77,31-08-89,Elmhurst,Metro State College,Colorado Rapids,2011,USA
+14,14,Omar Cummings,JAM,F,1.78,75,13-07-82,Old Harbour,Univ of Cincinnati,Colorado Rapids,2011,USA
+15,15,Wells Thompson,USA,M,1.78,70,25-11-83,Winston-Salem,New England Revolution,Colorado Rapids,2011,USA
+16,16,Ross LaBauex,USA,M,1.75,68,05-12-88,Chicago,Univ of Virginia,Colorado Rapids,2011,USA
+17,17,Ian Joyce,USA,G,1.91,86,12-07-85,Kinnelon,Southend U,Colorado Rapids,2011,USA
+18,18,Matt Pickens,USA,G,1.91,91,05-04-82,"Washington, MO",QPR,Colorado Rapids,2011,USA
+19,19,Andre Akpan,USA,F,1.83,86,09-12-87,Fort Worth,Harvard Univ,Colorado Rapids,2011,USA
+20,20,Jamie Smith,SCO,M,1.70,74,20-11-80,Alexandria,Aberdeen,Colorado Rapids,2011,USA
+21,21,Caleb Folan,IRL,F,1.88,81,26-10-82,Leeds,Hull C,Colorado Rapids,2011,USA
+22,22,Marvell Wynne,USA,D,1.75,78,08-05-86,Pittsburgh,Toronto FC,Colorado Rapids,2011,USA
+23,23,Sanna Nyassi,GAM,M,1.72,66,31-01-89,Bwiam,Seattle Sounders,Colorado Rapids,2011,USA
+25,25,Pablo  Mastroeni,USA,D,1.79,77,29-08-76,Mendoza,Miami  Fusion,Colorado Rapids,2011,USA
+26,26,Michael Holody,USA,D,1.90,90,30-03-87,Clarkston,Univ of Michigan,Colorado Rapids,2011,USA
+27,27,Kosuke Kimura,JPN,M,1.55,69,14-05-84,Kobe,Western Illinois Univ,Colorado Rapids,2011,USA
+28,28,Davy Armstrong,USA,M,1.78,68,03-11-91,Aurora,None,Colorado Rapids,2011,USA
+29,29,Scott Palguta,USA,D,1.88,88,23-08-82,Toms River,Rochester Rhinos,Colorado Rapids,2011,USA
+31,31,Steward Ceus,HAI,G,1.98,93,26-03-87,West Haverstraw,Univ of Albany,Colorado Rapids,2011,USA
+32,32,Miguel Comminges,FRA,D,1.75,71,16-03-82,Les Abymes,Southend U,Colorado Rapids,2011,USA
+34,34,Tyrone  Marshall,JAM,D,1.88,88,12-11-74,Kingston,Seattle Sounders,Colorado Rapids,2011,USA
+1,1,Will Hesmer,USA,G,1.88,88,23-11-81,Wilson,Kansas City Wizards,Columbus Crew,2011,USA
+2,2,Rich Balchan,USA,D,1.83,75,18-01-89,Carmel,Indiana Univ,Columbus Crew,2011,USA
+3,3,Josh Williams,USA,D,1.88,87,18-04-88,Akron,Cleveland State Univ,Columbus Crew,2011,USA
+5,5,Danny O'Rourke,USA,M,1.83,75,31-05-83,Columbus,New York Red Bulls,Columbus Crew,2011,USA
+6,6,Tony Tchani,CMR,M,1.93,83,13-04-89,Bafang,Toronto FC,Columbus Crew,2011,USA
+7,7,Bernardo  Anor,VEN,M,1.73,72,24-05-88,Caracas,Univ of Sth Florida,Columbus Crew,2011,USA
+9,9,Justin Meram,USA,F,1.85,75,04-12-88,Shelby Township,Univ of Michigan,Columbus Crew,2011,USA
+10,10,Andrés Mendoza,PER,F,1.82,70,28-04-78,Chincha,Diyarbakırspor,Columbus Crew,2011,USA
+11,11,Dilly Duka,USA,M,1.75,73,15-09-89,Montvillers,Rutgers Univ,Columbus Crew,2011,USA
+12,12,Eddie  Gaven,USA,M,1.83,66,25-10-86,"Hamilton,  NJ",MetroStars,Columbus Crew,2011,USA
+14,14,Chad Marshall,USA,D,1.91,86,22-08-84,Riverside,Stanford Univ,Columbus Crew,2011,USA
+15,15,Kevin Burns,USA,M,1.85,80,22-03-85,Indianapolis,Rochester Rhinos,Columbus Crew,2011,USA
+16,16,Eric Gehrig,USA,M,1.85,73,15-12-87,Schererville,Loyola Univ,Columbus Crew,2011,USA
+17,17,Emmanuel Ekpo,NGA,M,1.88,75,20-12-87,Ekori,Enyimba International,Columbus Crew,2011,USA
+18,18,Robbie Rogers,USA,F,1.78,82,12-05-87,Palos Verdes,SC Heerenveen,Columbus Crew,2011,USA
+19,19,Cole Grossman,USA,M,1.83,75,10-04-89,St Louis,Duke Univ,Columbus Crew,2011,USA
+20,20,Emilio Rentería,VEN,F,1.72,86,09-10-84,Caracas,Caracas,Columbus Crew,2011,USA
+21,21,Sebastián Miranda,CHI,D,1.75,73,26-06-80,Las Condes,Unión Española,Columbus Crew,2011,USA
+22,22,Dejan Rusmir,SRB,M,1.84,78,28-01-80,Belgrade,Farul Constanţa,Columbus Crew,2011,USA
+23,23,Korey Veeder,USA,D,1.80,68,03-10-91,"St. Petersburg, FL",Crystal Palace Baltimore,Columbus Crew,2011,USA
+24,24,Ben Sippola,USA,D,1.73,68,13-07-87,Northfield,Butler Univ,Columbus Crew,2011,USA
+25,25,Alex Riggs,USA,G,1.93,91,17-03-88,St. Peters,Missouri State Univ,Columbus Crew,2011,USA
+26,26,Julius James,TRI,D,1.83,82,09-07-84,Maloney Gardens,DC United,Columbus Crew,2011,USA
+27,27,Aaron Horton,USA,F,1.73,75,19-05-92,Lewis Center,Univ of Louisville,Columbus Crew,2011,USA
+28,28,Santiago Prim,ARG,M,1.72,68,11-05-90,Campana,San Lorenzo,Columbus Crew,2011,USA
+29,29,Shaun Francis,JAM,D,1.83,75,02-10-86,Mandeville,Lindsey Wilson College,Columbus Crew,2011,USA
+30,30,Andy Gruenebaum,USA,G,1.85,91,30-12-82,Overland Park,Des Moines Menace,Columbus Crew,2011,USA
+31,31,Josh Gardner,USA,M,1.80,75,14-09-82,Freeport,Carolina RailHawks,Columbus Crew,2011,USA
+32,32,Tom Heinemann,USA,F,1.93,82,23-04-87,St Louis,Charleston Battery,Columbus Crew,2011,USA
+33,33,Jeff  Cunningham,USA,F,1.73,70,21-08-76,Montego Bay,FC Dallas,Columbus Crew,2011,USA
+34,34,Chris Konopka,USA,G,1.96,98,14-04-85,Toms River,New York Red Bulls,Columbus Crew,2011,USA
+1,1,Kevin  Hartman,USA,G,1.85,89,24-05-74,"Athens, OH",Kansas City Wizards,FC Dallas,2011,USA
+2,2,Daniel Hernández,USA,D,1.71,81,23-07-76,Tyler,Necaxa,FC Dallas,2011,USA
+3,3,Ugo Ihemelu,USA,D,1.83,81,03-04-83,Cedar Hill,Colorado Rapids,FC Dallas,2011,USA
+4,4,Andrew Jacobson,USA,M,1.89,84,25-09-85,Palo Alto,Philadelphia Union,FC Dallas,2011,USA
+5,5,Jair Benítez,COL,D,1.70,67,12-01-79,Candelaria,Deportivo Cali,FC Dallas,2011,USA
+6,6,Jackson,BRA,D,1.76,70,03-06-88,Franca,São Paulo,FC Dallas,2011,USA
+7,7,Daniel Cruz,COL,M,1.77,71,09-05-81,Cali,Germinal Beerschot,FC Dallas,2011,USA
+8,8,Bruno Guarda,BRA,M,1.73,71,02-06-86,Piracicaba,Colorado Rapids,FC Dallas,2011,USA
+9,9,Maicon,BRA,F,1.86,84,18-04-84,Paracambi,Toronto FC,FC Dallas,2011,USA
+10,10,David Ferreira,COL,M,1.66,66,09-08-79,Santa Marta,Atlético Paranaense,FC Dallas,2011,USA
+11,11,Ricardo Villar,BRA,M,1.77,74,11-08-79,São  Paulo,Unterhaching,FC Dallas,2011,USA
+13,13,Maykel Galindo,CUB,F,1.78,75,28-01-81,Villa Clara,Chivas USA,FC Dallas,2011,USA
+14,14,George John,USA,M,1.90,91,20-03-87,Shoreline,Univ of Washington,FC Dallas,2011,USA
+15,15,Fábian Castillo,COL,F,1.71,68,17-06-92,Cali,Deportivo Cali,FC Dallas,2011,USA
+16,16,Bobby Warshaw,USA,D,1.83,84,21-11-88,Mechanicsburg,Stanford Univ,FC Dallas,2011,USA
+17,17,Jeremy Hall,USA,M,1.80,74,11-09-88,Tampa,Portland Timbers,FC Dallas,2011,USA
+18,18,Marvin Chávez,HON,F,1.65,66,03-11-83,La Ceiba,Marathón,FC Dallas,2011,USA
+19,19,Zach Lloyd,USA,D,1.75,73,18-07-87,Tulsa,Univ of Nth Carolina,FC Dallas,2011,USA
+20,20,Brek Shea,USA,M,1.90,82,28-02-90,College Station,US U-20s,FC Dallas,2011,USA
+21,21,Bryan Leyva,MEX,M,1.68,64,09-02-92,Chihuahua,None,FC Dallas,2011,USA
+22,22,Josh Lambo,USA,G,1.83,95,19-11-90,Middleton,US U-20s,FC Dallas,2011,USA
+23,23,Andrew Wiedeman,USA,F,1.80,75,22-08-89,San Ramon,UC Berkeley,FC Dallas,2011,USA
+25,25,Jack Stewart,USA,D,1.88,86,29-05-83,Torrance,NSC Minnesota Stars,FC Dallas,2011,USA
+27,27,Edson Edward,CAN,D,1.85,93,20-09-88,Ottawa,Graceland Univ,FC Dallas,2011,USA
+28,28,Victor Ulloa,USA,M,1.83,72,04-03-92,Wylie,None,FC Dallas,2011,USA
+29,29,Moises Hernandez,USA,D,1.83,70,05-03-92,Dallas,None,FC Dallas,2011,USA
+30,30,Chris Seitz,USA,G,1.93,100,12-03-87,San Luis Obispo,Philadelphia Union,FC Dallas,2011,USA
+32,32,Jonathan Top,USA,F,1.73,73,26-01-93,Fort Worth,None,FC Dallas,2011,USA
+34,34,Ruben Luna,USA,F,1.80,84,10-02-92,Ciudad Victoria,None,FC Dallas,2011,USA
+40,40,Richard Sánchez,MEX,G,1.90,89,05-04-94,Mission Hills,None,FC Dallas,2011,USA
+1,1,Steve Cronin,USA,G,1.88,89,28-05-83,Sacramento,Portland Timbers (USL),D.C. United,2011,USA
+2,2,Brandon McDonald,USA,D,1.85,84,16-01-86,Glendale,San Jose Earthquakes,D.C. United,2011,USA
+3,3,Austin Da Luz,USA,M,1.77,72,09-10-87,San Diego,New York Red Bulls,D.C. United,2011,USA
+4,4,Marc Burch,USA,D,1.88,86,07-05-84,Cincinnati,Colombus Crew,D.C. United,2011,USA
+5,5,Dejan Jaković,CAN,D,1.90,80,16-07-85,Karlovac,Crvena Zvezda,D.C. United,2011,USA
+6,6,Kurt Morsink,CRC,M,1.78,73,27-06-84,San José [CRC],Kansas City Wizards,D.C. United,2011,USA
+7,7,Dwayne DeRosario,CAN,F,1.80,74,15-05-78,Scarborough  [CAN],New York Red Bulls,D.C. United,2011,USA
+8,8,Branko Boković,MNE,M,1.85,79,21-06-80,Bačka  Topola,Rapid Vienna,D.C. United,2011,USA
+9,9,Charlie Davies,USA,F,1.78,74,25-06-86,"Manchester, NH",Sochaux,D.C. United,2011,USA
+11,11,Joseph Ngwenya,ZIM,F,1.85,79,30-03-81,Plumtree,Houston Dynamo,D.C. United,2011,USA
+12,12,Jed Zayner,USA,D,1.80,75,13-12-84,Orland Park,Columbus Crew,D.C. United,2011,USA
+13,13,Chris Pontius,USA,F,1.83,77,12-05-87,Yorba Linda,UC Santa Barbara,D.C. United,2011,USA
+14,14,Andy Najar,HON,M,1.70,68,16-03-93,Santa Cruz,None,D.C. United,2011,USA
+15,15,Ethan White,USA,D,1.83,83,01-01-91,"Kensington, MD",Univ of Maryland,D.C. United,2011,USA
+16,16,Josh Wolff,USA,F,1.75,72,25-02-77,Stone Mountain,Kansas City Wizards,D.C. United,2011,USA
+17,17,Conor Shanosky,USA,M,1.93,84,13-12-91,Sterling,None,D.C. United,2011,USA
+18,18,Devon McTavish,USA,M,1.80,73,08-08-84,"Winchester,  VA",West  Virginia Univ,D.C. United,2011,USA
+19,19,Clyde  Simms,USA,M,1.75,75,21-08-82,Jamestown,Richmond  Kickers,D.C. United,2011,USA
+20,20,Stephen King,USA,M,1.73,76,26-09-83,Medford,Seattle Sounders,D.C. United,2011,USA
+21,21,Daniel Woolard,USA,D,1.78,70,22-05-84,"Bedford, TX",Carolina RailHawks,D.C. United,2011,USA
+22,22,Chris Korb,USA,D,1.75,73,08-10-87,Gates Mills,Univ of Akron,D.C. United,2011,USA
+23,23,Perry Kitchen,USA,D,1.83,73,29-02-92,Indianapolis,Univ of Akron,D.C. United,2011,USA
+24,24,Brandon Barklage,USA,M,1.80,75,02-11-86,St Louis,Univ of St Louis,D.C. United,2011,USA
+25,25,Santino  Quaranta,USA,F,1.85,84,14-10-84,Baltimore,New York Red Bulls,D.C. United,2011,USA
+28,28,Bill Hamid,USA,G,1.90,102,25-11-90,Annandale,None,D.C. United,2011,USA
+29,29,Blake Brettschneider,USA,F,1.83,78,11-04-89,Lilburn,Univ of Sth Carolina,D.C. United,2011,USA
+31,31,Joe Willis,USA,G,1.96,86,10-08-88,St Louis,Univ of Denver,D.C. United,2011,USA
+1,1,Tally Hall,USA,G,1.93,93,12-05-85,SeaTac,Esbjerg,Houston Dynamo,2011,USA
+2,2,Eddie  Robinson,USA,D,1.85,88,19-06-78,Orlando,Univ  of Nth Carolina,Houston Dynamo,2011,USA
+3,3,Calen  Carr,USA,F,1.83,68,04-10-82,Berkeley,Chicago Fire,Houston Dynamo,2011,USA
+4,4,Jermaine Taylor,JAM,D,1.81,82,14-01-85,Portland [JAM],St. George's SC,Houston Dynamo,2011,USA
+5,5,Danny Cruz,USA,M,1.73,77,03-01-90,Petersburg,UNLV,Houston Dynamo,2011,USA
+7,7,Colin  Clark,USA,M,1.80,73,11-04-84,Fort Collins,Colorado Rapids,Houston Dynamo,2011,USA
+8,8,Kofi Sarkodie,USA,D,1.75,75,22-03-91,Dayton,Univ of Akron,Houston Dynamo,2011,USA
+9,9,Jason  Garey,USA,F,1.83,82,19-07-84,Gonzales,Columbus Crew,Houston Dynamo,2011,USA
+10,10,JeVaughn Watson,JAM,M,1.83,79,22-10-83,St. Catherine,Sporting Central Academy,Houston Dynamo,2011,USA
+11,11,Brad  Davis,USA,M,1.80,75,08-11-81,St  Charles,Dallas Burn,Houston Dynamo,2011,USA
+12,12,Will Bruin,USA,D,1.88,88,24-10-89,St Louis,Indiana Univ,Houston Dynamo,2011,USA
+13,13,Francisco Navas Cobo,USA,M,1.78,68,17-11-91,Houston,Deportivo Cali,Houston Dynamo,2011,USA
+15,15,Cam Weaver,USA,F,1.93,86,10-06-83,"Kent, WA",San Jose Earthquakes,Houston Dynamo,2011,USA
+16,16,Adam Moffat,SCO,M,1.83,87,15-05-86,Linwood,Portland Timbers,Houston Dynamo,2011,USA
+17,17,Luiz Camargo,BRA,M,1.77,78,04-05-87,Vinhedo,Paraná,Houston Dynamo,2011,USA
+18,18,Josue Soto,USA,M,1.75,73,03-01-89,Fort Worth,Southern Methodist Univ,Houston Dynamo,2011,USA
+19,19,Alex Dixon,USA,M,1.73,68,07-02-90,Bay City,Univ  of Nth Carolina,Houston Dynamo,2011,USA
+20,20,Geoff Cameron,USA,D,1.91,92,11-07-85,Attleboro,Univ of Rhode Island,Houston Dynamo,2011,USA
+21,21,Hunter Freeman,USA,D,1.80,77,08-01-85,Tyler,Start,Houston Dynamo,2011,USA
+24,24,Tyler Deric,USA,G,1.91,84,30-08-88,Spring,Univ of Nth Carolina,Houston Dynamo,2011,USA
+25,25,Brian  Ching,USA,F,1.85,88,24-05-78,Haleiwa,Seattle  Sounders,Houston Dynamo,2011,USA
+26,26,Corey Ashe,USA,M,1.68,64,14-03-86,Virginia Beach,Virginia Beach Mariners,Houston Dynamo,2011,USA
+28,28,Evan Newton,USA,G,1.88,86,01-04-88,Virginia Beach,Old Dominion Univ,Houston Dynamo,2011,USA
+29,29,Carlos Costly,HON,F,1.90,84,17-07-82,San Pedro Sula,Atlas,Houston Dynamo,2011,USA
+31,31,André Hainault,CAN,D,1.83,79,17-06-86,Montreal,Most,Houston Dynamo,2011,USA
+32,32,Bobby  Boswell,USA,D,1.88,84,15-03-83,Tampa,DC United,Houston Dynamo,2011,USA
+1,1,Donovan Ricketts,JAM,G,1.91,92,07-06-77,Montego Bay,Village U,Los Angeles Galaxy,2011,USA
+2,2,Todd  Dunivant,CAN,D,1.83,79,26-12-80,Wheat  Ridge,Toronto FC,Los Angeles Galaxy,2011,USA
+3,3,Gregg  Berhalter,USA,D,1.86,77,01-08-73,Eaglewood,1860 Munich,Los Angeles Galaxy,2011,USA
+4,4,Omar Gonzalez,USA,D,1.96,95,11-10-88,Dallas,Univ of Maryland,Los Angeles Galaxy,2011,USA
+5,5,Sean Franklin,USA,D,1.78,70,21-03-85,Panorama City,CS Northridge,Los Angeles Galaxy,2011,USA
+6,6,Frankie  Hejduk,USA,D,1.74,71,05-08-74,La Mesa,Columbus Crew,Los Angeles Galaxy,2011,USA
+7,7,Jovan Kirovski,USA,F,1.86,75,18-03-76,Escondido,San Jose Earthquakes,Los Angeles Galaxy,2011,USA
+8,8,Chris  Birchall,TRI,M,1.75,80,05-05-84,Stafford,Brighton & HA,Los Angeles Galaxy,2011,USA
+10,10,Landon  Donovan,USA,F,1.73,72,04-03-82,Ontario,Bayer  Leverkusen,Los Angeles Galaxy,2011,USA
+11,11,Chad  Barrett,USA,F,1.80,82,30-04-85,San  Diego,Toronto FC,Los Angeles Galaxy,2011,USA
+12,12,Josh Saunders,PUR,G,1.93,95,02-03-81,Grants Pass,Miami FC,Los Angeles Galaxy,2011,USA
+14,14,Robbie Keane,IRL,F,1.76,72,08-07-80,Tallaght,Tottenham H,Los Angeles Galaxy,2011,USA
+15,15,Dan Keat,NZL,M,1.80,75,28-09-87,Barnstaple,Dartmouth Univ,Los Angeles Galaxy,2011,USA
+16,16,Hector Jimenez,USA,M,1.75,64,03-11-88,Huntington Park,UCLA,Los Angeles Galaxy,2011,USA
+17,17,Adam Cristman,USA,F,1.83,80,08-01-85,"Washington, DC",DC United,Los Angeles Galaxy,2011,USA
+18,18,Mike  Magee,USA,F,1.75,68,02-09-84,Chicago,New York Red Bulls,Los Angeles Galaxy,2011,USA
+19,19,Juninho,BRA,M,1.69,64,05-01-89,São José dos Campos,São Paulo,Los Angeles Galaxy,2011,USA
+20,20,A. J. DeLaGarza,USA,D,1.73,64,04-11-87,Bryans Road,Univ of Maryland,Los Angeles Galaxy,2011,USA
+21,21,Dustin McCarty,USA,M,1.73,75,12-10-88,Winter Park,Univ of Nth Carolina,Los Angeles Galaxy,2011,USA
+22,22,Leonardo,BRA,D,1.87,81,08-02-88,São Paulo,São Paulo,Los Angeles Galaxy,2011,USA
+23,23,David Beckham,ENG,M,1.83,74,02-05-75,Leytonstone,Real Madrid,Los Angeles Galaxy,2011,USA
+24,24,Brian Perk,USA,G,1.80,79,21-07-89,Rancho Santa Margarita,Philadelphia Union,Los Angeles Galaxy,2011,USA
+25,25,Miguel  López,ARG,M,1.74,72,09-06-88,Ensenada,Quilmes,Los Angeles Galaxy,2011,USA
+26,26,Michael Stephens,USA,M,1.75,70,03-04-89,Hinsdale,UCLA,Los Angeles Galaxy,2011,USA
+27,27,Bryan Jordan,USA,F,1.73,65,13-09-85,Temple City,Portland Timbers,Los Angeles Galaxy,2011,USA
+28,28,Ryan Thomas,USA,D,1.75,70,20-03-89,Claremont,Stanford Univ,Los Angeles Galaxy,2011,USA
+29,29,Dasan Robinson,USA,D,1.80,73,06-06-84,Elyria,Toronto FC,Los Angeles Galaxy,2011,USA
+30,30,Paolo Cardozo,URU,M,1.63,61,09-06-89,Montevideo,Quilmes,Los Angeles Galaxy,2011,USA
+32,32,Jack McBean,USA,M,1.83,79,15-12-94,Newport Beach,None,Los Angeles Galaxy,2011,USA
+33,33,Sean Alvarado,USA,D,1.91,86,20-09-87,Beverly Hills,UCLA,Los Angeles Galaxy,2011,USA
+1,1,Matt  Reis,USA,G,1.85,89,28-03-75,Atlanta,LA  Galaxy,New England Revolution,2011,USA
+2,2,Franco Coria,ARG,D,1.82,70,08-07-88,Los Toldos,Chacarita Juniors,New England Revolution,2011,USA
+4,4,Otto Loewy,LBR,D,1.78,77,04-06-87,Monrovia,Winthrop Univ,New England Revolution,2011,USA
+5,5,A.J. Soares,USA,D,1.83,77,28-11-88,San Diego,UC Berkeley,New England Revolution,2011,USA
+7,7,Abdoulie Mansally,GAM,M,1.75,70,29-01-89,Banjul,Real de Banjul,New England Revolution,2011,USA
+8,8,Chris Tierney,USA,D,1.83,80,09-10-86,Wellesley,Univ of Virginia,New England Revolution,2011,USA
+9,9,Milton Caraglio,ARG,F,1.87,89,01-12-88,Rosario,Rosario Central,New England Revolution,2011,USA
+10,10,Rajko Lekić,DEN,F,1.86,75,03-07-81,Copenhagen,Silkeborg,New England Revolution,2011,USA
+11,11,Kheli Dube,ZIM,F,1.85,70,06-08-83,Bulawayo,Coastal Carolina Univ,New England Revolution,2011,USA
+12,12,Alan Koger,USA,F,1.88,82,25-09-87,Bossier City,College of William & Mary,New England Revolution,2011,USA
+13,13,Ryan Guy,USA,F,1.71,73,05-09-85,Carlsbad,St Patrick's Ath,New England Revolution,2011,USA
+14,14,Diego Fagundez,URU,F,1.73,57,14-02-95,Montevideo,None,New England Revolution,2011,USA
+15,15,Zach Schilawski,USA,F,1.78,75,15-04-87,Raleigh,Wake Forest Univ,New England Revolution,2011,USA
+17,17,Sainey Nyassi,GAM,M,1.73,60,31-01-89,Bwiam,Ports Authority,New England Revolution,2011,USA
+19,19,Monsef Zerka,MAR,M,1.83,80,31-08-81,Orléans,Iraklis,New England Revolution,2011,USA
+21,21,Shalrie  Joseph,GRN,D,1.91,82,24-05-78,Saint George,New  York Freedoms,New England Revolution,2011,USA
+22,22,Benny Feilhaber,USA,M,1.75,68,19-01-85,Rio de Janeiro,Aarhus,New England Revolution,2011,USA
+23,23,Andrew Sousa,USA,M,1.83,75,26-09-89,Fall River,Providence College,New England Revolution,2011,USA
+25,25,Darrius Barnes,USA,D,1.85,79,24-12-86,Raleigh,Duke Univ,New England Revolution,2011,USA
+26,26,Stephen McCarthy,USA,M,1.93,84,21-07-88,Honolulu,Univ of Nth Carolina,New England Revolution,2011,USA
+28,28,Pat Phelan,USA,D,1.86,79,16-01-85,Houston,Toronto FC,New England Revolution,2011,USA
+30,30,Kevin Alston,USA,D,1.73,73,05-05-88,Silver Spring,Indiana Univ,New England Revolution,2011,USA
+33,33,Zak Boggs,USA,F,1.83,82,25-12-86,Marietta,Univ of Sth Florida,New England Revolution,2011,USA
+34,34,Bobby Shuttleworth,USA,G,1.88,88,13-05-87,Tonawanda,Austin Aztex,New England Revolution,2011,USA
+35,35,Ryan Kinne,USA,F,1.68,73,31-08-89,Waterbury,Monmouth Univ,New England Revolution,2011,USA
+40,40,Tim Murray,USA,G,1.88,84,30-07-87,Haverhill,Providence College,New England Revolution,2011,USA
+41,45,Ryan Cochrane,USA,D,1.85,82,08-08-83,Portland,Houston Dynamo,New England Revolution,2011,USA
+1,1,Frank Rost,GER,G,1.94,92,30-06-73,Leipzig,Hamburg,New York Red Bulls,2011,USA
+2,2,Teemu Tainio,FIN,M,1.76,71,27-11-79,Tornio,Ajax,New York Red Bulls,2011,USA
+3,3,Chris Albright,USA,D,1.86,84,14-01-79,Philadelphia,New England Revolution,New York Red Bulls,2011,USA
+4,4,Rafael Márquez,MEX,D,1.82,74,13-02-79,Zamora,Barcelona,New York Red Bulls,2011,USA
+5,5,Tim Ream,USA,D,1.85,72,05-10-87,St Louis,St Louis Univ,New York Red Bulls,2011,USA
+6,6,Corey Hertzog,USA,F,1.83,78,01-08-90,"Reading, PA",Penn State Univ,New York Red Bulls,2011,USA
+7,7,Roy Miller,CRC,D,1.87,75,24-11-84,San José [CRC],Rosenborg,New York Red Bulls,2011,USA
+8,8,Jan Gunnar Solli,NOR,M,1.83,83,19-04-81,Arendal,Brann,New York Red Bulls,2011,USA
+9,9,Luke Rodgers,ENG,F,1.73,64,01-01-82,Birmingham,Notts Co,New York Red Bulls,2011,USA
+10,10,Mehdi Ballouchy,MAR,M,1.80,77,06-04-83,Casablanca,Colorado Rapids,New York Red Bulls,2011,USA
+11,11,Dax McCarty,USA,M,1.75,64,30-04-87,Winter  Park,DC United,New York Red Bulls,2011,USA
+12,12,Tyler Lassiter,USA,D,1.83,75,07-04-89,Wake Forest,Nth Carolina State Univ,New York Red Bulls,2011,USA
+14,14,Thierry Henry,FRA,F,1.88,83,17-08-77,Les Ulis,Barcelona,New York Red Bulls,2011,USA
+15,15,Matt Kassel,USA,M,1.83,78,30-10-89,Bridgewater,Univ of Maryland,New York Red Bulls,2011,USA
+16,16,John Rooney,ENG,F,1.78,76,17-12-90,Liverpool,Macclesfield T,New York Red Bulls,2011,USA
+17,17,Juan Agudelo,USA,F,1.85,79,23-11-92,Manizales,None,New York Red Bulls,2011,USA
+18,18,Bouna Coundoul,SEN,G,1.88,89,04-03-82,Dakar,Colorado Rapids,New York Red Bulls,2011,USA
+19,19,Dane Richards,JAM,M,1.70,71,14-12-83,Montego Bay,Clemson Univ,New York Red Bulls,2011,USA
+20,20,Joel Lindpere,EST,M,1.78,75,05-10-81,Tallinn,Tromsø,New York Red Bulls,2011,USA
+21,21,Brian Nielsen,DEN,M,1.80,80,25-02-87,Herlev,Vejle,New York Red Bulls,2011,USA
+22,22,Stephen Keel,USA,D,1.83,84,11-04-83,Littleton,Portland Timbers (USL),New York Red Bulls,2011,USA
+23,23,Mike Jones,USA,D,1.88,82,19-08-88,St. Peters,Sporting Kansas City,New York Red Bulls,2011,USA
+25,25,Stéphane Auvray,FRA,M,1.74,71,04-09-81,Les Abymes,Sporting Kansas City,New York Red Bulls,2011,USA
+31,31,Alex Horwath,USA,G,1.93,84,27-03-87,Woodbine,Seattle Sounders,New York Red Bulls,2011,USA
+32,32,Marcos Paullo,BRA,M,1.74,66,28-03-90,Trindade,Atlético Paranaense,New York Red Bulls,2011,USA
+33,33,Carl Robinson,WAL,M,1.78,81,13-10-76,Llandrindod,Toronto FC,New York Red Bulls,2011,USA
+39,39,Teddy Schneider,USA,D,1.68,59,23-11-88,Califon,Princeton Univ,New York Red Bulls,2011,USA
+41,44,Carlos Mendes,USA,D,1.80,79,25-12-80,Mineola,Rochester Raging  Rhinos,New York Red Bulls,2011,USA
+42,91,aćir Hot,USA,D,1.85,84,10-06-91,Wayne,None,New York Red Bulls,2011,USA
+1,1,Faryd Mondragon,COL,G,1.91,94,21-06-71,Cali,Köln,Philadelphia Union,2011,USA
+2,2,Joe Tait,ENG,D,1.88,75,04-02-90,Middlesbrough,Dayton Dutch Lions,Philadelphia Union,2011,USA
+3,3,Juan Diego González,COL,D,1.83,73,22-09-80,Medellín,Deportivo Pereira,Philadelphia Union,2011,USA
+4,4,Danny Califf,USA,D,1.85,82,17-03-80,Montclair,FC Midtjylland,Philadelphia Union,2011,USA
+5,5,Carlos Valdés,COL,D,1.84,80,22-05-85,Cali,Santa Fe,Philadelphia Union,2011,USA
+6,6,Stefani Miglioranzi,BRA,M,1.86,81,20-09-77,Pacos de Caldas,LA Galaxy,Philadelphia Union,2011,USA
+7,7,Brian Carroll,USA,M,1.78,69,20-07-81,Springfield,Columbus Crew,Philadelphia Union,2011,USA
+8,8,Roger Torres,COL,M,1.65,64,13-07-91,Barrancabermeja,América de Cali,Philadelphia Union,2011,USA
+9,9,Sébastien Le Toux,FRA,F,1.85,75,10-01-84,Mont-Saint-Aignan,Seattle Sounders,Philadelphia Union,2011,USA
+10,10,Danny Mwanga,COD,F,1.88,79,17-07-91,Kinshasa,Oregon State Univ,Philadelphia Union,2011,USA
+11,11,Freddy Adu,USA,F,1.73,70,02-06-89,Tema,Benfica,Philadelphia Union,2011,USA
+12,12,Levi Houapeu,USA,F,1.73,73,22-06-89,Germantown,Univ of Maryland,Philadelphia Union,2011,USA
+13,13,Kyle Nakazawa,USA,M,1.80,75,16-03-88,Palos Verdes Estates,UCLA,Philadelphia Union,2011,USA
+14,14,Amobi Okugo,USA,M,1.83,79,13-03-91,Hayward,UCLA,Philadelphia Union,2011,USA
+15,15,Gabriel Farfan,USA,M,1.78,75,23-06-88,Wildomar,América,Philadelphia Union,2011,USA
+16,16,Veljko Paunović,SRB,F,1.83,75,21-08-77,Strumica,Partizan Belgrade,Philadelphia Union,2011,USA
+17,17,Keon Daniel,TRI,M,1.85,77,16-01-87,Lambeau,Puerto Rico Islanders,Philadelphia Union,2011,USA
+18,18,Zac MacMath,USA,G,1.88,80,07-08-91,"St. Petersburg, FL",Univ of Maryland,Philadelphia Union,2011,USA
+19,19,Jack McInerney,USA,F,1.73,70,05-08-92,Alpharetta,Cobb FC,Philadelphia Union,2011,USA
+21,21,Michael Farfan,USA,M,1.75,73,23-06-88,San Diego,Univ of Nth Carolina,Philadelphia Union,2011,USA
+22,22,Justin Mapp,USA,M,1.85,73,18-10-84,Brandon,Chicago Fire,Philadelphia Union,2011,USA
+23,23,Ryan Richter,USA,F,1.88,79,12-04-89,"Southampton, PA",La Salle Univ,Philadelphia Union,2011,USA
+24,24,Thorne Holder,TRI,G,1.93,83,04-04-86,Port of Spain,FC New York,Philadelphia Union,2011,USA
+25,25,Sheanon Williams,USA,M,1.80,77,17-03-90,Boston,Harrisburg City Islanders,Philadelphia Union,2011,USA
+26,26,Morgan Langley,USA,M,1.78,68,09-06-89,Honolulu,Harrisburg City Islanders,Philadelphia Union,2011,USA
+27,27,Zach Pfeffer,USA,M,1.70,64,06-01-95,Dresher,None,Philadelphia Union,2011,USA
+31,31,Chase Harrison,USA,G,1.91,87,02-02-84,Huntington,Harrisburg City Islanders,Philadelphia Union,2011,USA
+1,1,Troy Perkins,USA,G,1.88,83,29-07-81,Springfield,DC United,Portland Timbers,2011,USA
+2,2,Kevin Goldthwaite,USA,D,1.85,79,09-12-82,Sacramento,Portland Timbers (USL),Portland Timbers,2011,USA
+4,4,Mike Chabala,USA,M,1.83,81,24-05-84,Fresno,Houston Dynamo,Portland Timbers,2011,USA
+5,5,Eric Brunner,USA,D,1.93,77,12-02-86,"Dublin, OH",Columbus Crew,Portland Timbers,2011,USA
+6,6,Darlington Nagbe,LBR,M,1.75,75,19-07-90,Monrovia,Univ of Akron,Portland Timbers,2011,USA
+7,7,Salvatore  Zizzo,USA,M,1.80,82,03-04-87,San Diego,Chivas  USA,Portland Timbers,2011,USA
+8,8,Peter Lowry,USA,M,1.80,75,02-10-85,Missoula,Chicago Fire,Portland Timbers,2011,USA
+9,9,Bright Dike,USA,F,1.85,100,02-02-87,Edmond,Portland Timbers (USL),Portland Timbers,2011,USA
+10,10,Eddie Johnson,ENG,F,1.78,85,20-09-84,Chester,Austin Aztex,Portland Timbers,2011,USA
+11,11,Kalif Alhassan,GHA,M,1.78,73,15-10-90,Accra,Portland Timbers (USL),Portland Timbers,2011,USA
+12,12,David Horst,USA,D,1.93,95,25-10-85,Pine Grove,Real Salt Lake,Portland Timbers,2011,USA
+13,13,Jack  Jewsbury,USA,F,1.83,84,13-04-81,Joplin,Kansas City Wizards,Portland Timbers,2011,USA
+14,14,James Marcelin,HAI,M,1.88,79,13-06-86,Saint-Marc,Portland Timbers (USL),Portland Timbers,2011,USA
+15,15,Jorge Perlaza,COL,F,1.78,70,11-10-85,Guapi,Deportes Tolima,Portland Timbers,2011,USA
+17,17,Eric Alexander,USA,M,1.85,75,14-04-88,Portage,FC Dallas,Portland Timbers,2011,USA
+19,19,Rodrigo López,USA,M,1.70,68,10-05-87,Guadalajara,Portland Timbers (USL),Portland Timbers,2011,USA
+20,20,Jake Gleeson,NZL,G,1.93,91,26-06-90,Palmerston North,Portland Timbers (USL),Portland Timbers,2011,USA
+21,21,Diego Chará,COL,M,1.70,65,05-04-86,Cali,Deportes Tolima,Portland Timbers,2011,USA
+22,22,Rodney Wallace,CRC,D,1.80,70,17-06-88,San José [CRC],FC United,Portland Timbers,2011,USA
+24,24,Adin Brown,USA,G,1.96,100,27-05-78,Pleasant Hills,Portland Timbers (USL),Portland Timbers,2011,USA
+25,25,Steve Purdy,SLV,D,1.93,86,05-02-85,Bakersfield,Portland Timbers (USL),Portland Timbers,2011,USA
+26,26,Brian Umony,UGA,F,1.70,67,12-12-88,Jinja,Univ of Pretoria,Portland Timbers,2011,USA
+27,27,Chris Taylor,USA,D,1.85,73,12-05-89,Edmond,Univ of Tulsa,Portland Timbers,2011,USA
+28,28,Freddie Braun,USA,M,1.78,73,13-05-88,Royal Oak,Portland Timbers (USL),Portland Timbers,2011,USA
+30,30,Lovel Palmer,JAM,M,1.78,73,30-08-84,Mandeville,Houston Dynamo,Portland Timbers,2011,USA
+31,31,Spencer Thompson,USA,F,1.80,77,19-10-88,Phoenix,UC Irvine,Portland Timbers,2011,USA
+33,33,Kenny Cooper,USA,F,1.92,88,21-10-84,Baltimore,1860 Munich,Portland Timbers,2011,USA
+41,98,Mamadou Danso,GAM,D,1.91,84,27-04-83,Serrekunda,Portland Timbers (USL),Portland Timbers,2011,USA
+1,1,Tim Melia,USA,G,1.85,86,15-05-86,Great River,Rochester Rhinos,Real Salt Lake,2011,USA
+2,2,Tony Beltran,USA,D,1.75,65,11-10-87,Claremont,UCLA,Real Salt Lake,2011,USA
+3,3,Robbie Russell,USA,D,1.80,82,16-07-79,Amherst,Viborg,Real Salt Lake,2011,USA
+4,4,Jámison Olave,COL,D,1.86,90,21-04-81,Medellín,Deportivo Cali,Real Salt Lake,2011,USA
+5,5,Kyle  Beckerman,USA,M,1.78,70,23-04-82,Crofton,Colorado Rapids,Real Salt Lake,2011,USA
+6,6,Nat  Borchers,USA,D,1.88,79,13-04-81,Tuscan,Odd,Real Salt Lake,2011,USA
+7,7,Fabian Espíndola,ARG,F,1.75,73,04-05-85,Merlo,Deportivo Anzoátegui,Real Salt Lake,2011,USA
+8,8,Will  Johnson,CAN,F,1.80,70,21-01-87,Toronto,SC Heerenveen,Real Salt Lake,2011,USA
+10,10,Arturo  Alvarez,SLV,F,1.75,77,28-06-85,Houston,San Jose Earthquakes,Real Salt Lake,2011,USA
+11,11,Javier Morales,ARG,M,1.74,64,10-01-80,Lomas de Zamora,Salamanca,Real Salt Lake,2011,USA
+12,12,Jean Alexandre,HAI,M,1.80,86,24-08-86,Delray Beach,Lynn Univ,Real Salt Lake,2011,USA
+13,13,Chris Agorsor,USA,F,1.75,66,01-09-90,Severn,Philadelphia Union,Real Salt Lake,2011,USA
+14,14,Yordany Alvarez,CUB,M,1.78,75,24-05-85,Cienfuegos,Orlando C,Real Salt Lake,2011,USA
+15,15,Álvaro Saborío,CRC,F,1.83,77,25-03-82,Ciudad  Quesada,Sion,Real Salt Lake,2011,USA
+16,16,Nico Muñiz,USA,M,1.78,71,18-10-92,Albuquerque,None,Real Salt Lake,2011,USA
+17,17,Chris Wingert,USA,D,1.78,70,16-06-82,Babylon,Colorado Rapids,Real Salt Lake,2011,USA
+18,18,Nick Rimando,USA,G,1.78,86,17-06-79,Montclair,DC United,Real Salt Lake,2011,USA
+19,19,Blake Wagner,USA,D,1.78,75,29-01-88,Tampa,Vancouver Whitecaps,Real Salt Lake,2011,USA
+20,20,Ned Grabavoy,USA,M,1.70,70,01-07-83,Joilet,San Jose Earthquakes,Real Salt Lake,2011,USA
+21,21,Luis Gil,USA,M,1.73,70,14-11-93,Garden Grove,US U-17s,Real Salt Lake,2011,USA
+22,22,Nelson González,ARG,M,1.68,70,22-09-88,Capital  Federal,Quilmes,Real Salt Lake,2011,USA
+23,23,Paulo Aruajo jr,BRA,F,1.70,72,23-01-89,Teresina,Miami FC,Real Salt Lake,2011,USA
+24,24,Kyle Reynish,USA,G,1.91,91,03-11-83,"Valencia, CA",UC Santa Barbara,Real Salt Lake,2011,USA
+25,25,Donny Toia,USA,D,1.73,73,28-05-92,Tucson,None,Real Salt Lake,2011,USA
+26,26,Collen Warner,USA,M,1.78,70,24-06-88,Denver,Univ of Portland,Real Salt Lake,2011,USA
+27,27,Cody Arnoux,USA,F,1.78,73,13-04-88,Stony Brook,Vancouver Whitecaps,Real Salt Lake,2011,USA
+28,28,Chris Schuler,USA,D,1.93,88,06-09-87,St Louis,Creighton Univ,Real Salt Lake,2011,USA
+30,30,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Kansas City Wizards,Real Salt Lake,2011,USA
+41,77,Andy  Williams,JAM,M,1.73,75,23-09-77,Toronto,Chicago  Fire,Real Salt Lake,2011,USA
+1,1,David Bingham,USA,G,1.88,84,19-10-89,Castro Valley,UC Berkeley,San Jose Earthquakes,2011,USA
+2,2,Bobby Burling,USA,D,1.96,87,15-10-85,Clear Lake City,Chivas USA,San Jose Earthquakes,2011,USA
+3,3,Chris  Leitch,USA,D,1.80,75,01-04-79,Columbus,New York Red Bulls,San Jose Earthquakes,2011,USA
+4,4,Sam Cronin,USA,M,1.78,75,12-12-86,Atlanta,Toronto FC,San Jose Earthquakes,2011,USA
+5,5,Brad Ring,USA,M,1.78,75,07-04-87,Rockford,Indiana Univ,San Jose Earthquakes,2011,USA
+6,6,Ike Opara,USA,D,1.88,82,21-02-89,"Durham, NC",Wake Forest Univ,San Jose Earthquakes,2011,USA
+7,7,Khari Stephenson,JAM,M,1.85,85,18-01-81,Kingston,Aalesund,San Jose Earthquakes,2011,USA
+8,8,Chris Wondolowski,USA,F,1.85,75,28-07-83,Danville,Houston Dynamo,San Jose Earthquakes,2011,USA
+9,9,Scott Sealy,TRI,F,1.78,79,04-06-81,Chaguanas,Bnei Sakhnin,San Jose Earthquakes,2011,USA
+10,10,Simon Dawkins,ENG,F,1.78,70,01-12-87,Edgware,Tottenham H,San Jose Earthquakes,2011,USA
+11,11,Bobby  Convey,USA,M,1.75,73,27-05-83,Philadelphia,Reading,San Jose Earthquakes,2011,USA
+12,12,Ramiro Corrales,USA,D,1.77,70,12-03-77,Salinas,Brann,San Jose Earthquakes,2011,USA
+13,13,Andrew Weber,USA,G,1.88,84,09-08-83,Phoenix,Montreal Impact,San Jose Earthquakes,2011,USA
+15,15,Justin Morrow,USA,D,1.75,75,04-10-87,Cleveland,Univ of Notre Dame,San Jose Earthquakes,2011,USA
+16,16,Alan Gordon,USA,F,1.91,83,16-10-81,Long Beach,Toronto FC,San Jose Earthquakes,2011,USA
+17,17,Joey Gjertsen,USA,M,1.75,75,13-06-82,Tacoma,Montreal Impact,San Jose Earthquakes,2011,USA
+18,18,Jon  Busch,USA,G,1.78,75,18-08-76,Queens,Chicago Fire,San Jose Earthquakes,2011,USA
+19,19,Jacob  Peterson,USA,F,1.78,73,27-01-86,Portage,Toronto FC,San Jose Earthquakes,2011,USA
+20,20,Tim Ward,USA,D,1.83,75,28-02-87,Waukesha,Chicago Fire,San Jose Earthquakes,2011,USA
+21,21,Jason Hernandez,PUR,D,1.78,73,26-08-83,Englewood,Chivas USA,San Jose Earthquakes,2011,USA
+23,23,Anthony Ampaipitakwong,USA,M,1.73,73,14-06-88,Carrollton,Univ of Akron,San Jose Earthquakes,2011,USA
+24,24,Steven Lenhart,USA,F,1.86,86,28-08-86,Jacksonville,Columbus Crew,San Jose Earthquakes,2011,USA
+25,25,Ellis McLoughlin,USA,F,1.78,75,08-07-90,Seattle,Hertha Berlin II,San Jose Earthquakes,2011,USA
+27,27,Nana Attakora-Gyan,CAN,D,1.85,84,27-03-89,North York,Toronto FC,San Jose Earthquakes,2011,USA
+28,28,André Luiz,BRA,M,1.83,79,11-01-74,São Paulo,Jaguares de Chiapas,San Jose Earthquakes,2011,USA
+30,30,Rafael Baca,MEX,M,1.73,73,11-09-89,Tuxpan,Loyola Marymount Univ,San Jose Earthquakes,2011,USA
+32,32,Matt Luzunaris,USA,F,1.85,75,06-03-89,"Margate, FL",Rapid Vienna II,San Jose Earthquakes,2011,USA
+33,33,Steven Beitashour,IRN,D,1.78,77,01-02-87,San Jose,San Diego State Univ,San Jose Earthquakes,2011,USA
+2,2,Mike Fucito,USA,M,1.75,75,29-03-86,Concord,Harvard Univ,Seattle Sounders,2011,USA
+3,3,Brad Evans,USA,F,1.85,73,20-04-85,Phoenix,Columbus Crew,Seattle Sounders,2011,USA
+4,4,Patrick Ianni,USA,D,1.85,79,15-06-85,Lodi,Houston Dynamo,Seattle Sounders,2011,USA
+5,5,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport  Beach,Kansas City Wizards,Seattle Sounders,2011,USA
+6,6,Osvaldo Alonso,CUB,M,1.80,75,11-11-85,San Cristóbal,Charleston Battery,Seattle Sounders,2011,USA
+7,7,James  Riley,USA,D,1.78,68,27-10-82,Colorado  Springs,San Jose Earthquakes,Seattle Sounders,2011,USA
+8,8,Erik Friberg,SWE,M,1.80,66,10-02-86,Lindome,BK Häcken,Seattle Sounders,2011,USA
+10,10,Mauro Rosales,ARG,F,1.72,75,24-02-81,Villa María,River Plate,Seattle Sounders,2011,USA
+11,11,Steve Zakuani,COD,F,1.80,73,09-02-88,Kinshasa,Univ of Akron,Seattle Sounders,2011,USA
+12,12,Leonardo González,CRC,D,1.86,76,21-11-80,San José [CRC],Municipal Liberia,Seattle Sounders,2011,USA
+13,13,O'Brian White,JAM,F,1.85,79,14-12-85,Ocho Rios,Toronto FC,Seattle Sounders,2011,USA
+14,14,Michael Tetteh,GHA,M,1.73,70,16-01-89,Accra,UC Santa Barbara,Seattle Sounders,2011,USA
+15,15,Álvaro Fernández,URU,M,1.85,68,11-10-85,Colonia,Nacional [URU],Seattle Sounders,2011,USA
+16,16,David Estrada,USA,F,1.73,73,04-02-88,Morelia,UCLA,Seattle Sounders,2011,USA
+17,17,Fredy Montero,COL,F,1.76,73,26-07-87,Campo de la Cruz,Deportivo Cali,Seattle Sounders,2011,USA
+18,18,Kasey Keller,USA,G,1.88,86,29-11-69,Lacey,Fulham,Seattle Sounders,2011,USA
+19,19,Samuel Ochoa,MEX,F,1.82,82,04-09-86,Villamar,Estudiantes Tecos,Seattle Sounders,2011,USA
+20,20,Zach Scott,USA,D,1.80,79,02-07-80,Haiku,Seattle Sounders (USL),Seattle Sounders,2011,USA
+21,21,Nate Jaqua,USA,F,1.91,81,28-10-81,Eugene,Houston Dynamo,Seattle Sounders,2011,USA
+22,22,Mike Seamon,USA,M,1.85,83,30-08-88,Rahway,Villanova Univ,Seattle Sounders,2011,USA
+23,23,Servando Carrasco,USA,M,1.78,77,13-08-88,Coronado,UC Berkeley,Seattle Sounders,2011,USA
+24,24,Roger Levesque,USA,F,1.87,79,22-01-81,Portland,Seattle Sounders (USL),Seattle Sounders,2011,USA
+25,25,Pat Noonan,USA,F,1.83,79,02-08-80,Ballwin,Colorado Rapids,Seattle Sounders,2011,USA
+26,26,Taylor Graham,USA,D,1.93,86,03-06-80,Fair Oaks,Seattle Sounders (USL),Seattle Sounders,2011,USA
+27,27,Lamar Neagle,USA,M,1.80,75,07-05-87,Tacoma,IFK Mariehamn,Seattle Sounders,2011,USA
+28,28,Terry Boss,PUR,G,1.91,93,01-09-81,Philomath,New York Red Bulls,Seattle Sounders,2011,USA
+29,29,Josh Ford,USA,G,1.83,79,06-11-87,"Liverpool, NY",UConn,Seattle Sounders,2011,USA
+30,30,Amadou Sanyang,GAM,D,1.83,75,01-08-91,Bakau,Toronto FC,Seattle Sounders,2011,USA
+31,31,Jeff Parke,USA,D,1.85,73,23-03-82,Downington,Vancouver Whitecaps,Seattle Sounders,2011,USA
+32,32,Miguel Montaño,COL,F,1.80,68,25-06-91,Palmira,Quilmes,Seattle Sounders,2011,USA
+34,34,Jhon Hurtado,COL,D,1.82,83,16-05-84,Padilla,Deportivo Cali,Seattle Sounders,2011,USA
+35,35,Bryan Meredith,USA,G,1.88,88,02-08-89,Scotch Plains,Kitsap Pumas,Seattle Sounders,2011,USA
+1,1,Jimmy Nielsen,DEN,G,1.91,90,06-08-77,Aalborg,Vejle,Sporting Kansas City,2011,USA
+2,2,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Univ of Nth Carolina,Sporting Kansas City,2011,USA
+3,3,Korede Aiyegbusi,ENG,D,1.65,70,15-07-88,London,Nth Carolina State Univ,Sporting Kansas City,2011,USA
+4,4,Craig Rocastle,GRN,D,1.88,76,17-08-81,Lewisham,Forest Green R,Sporting Kansas City,2011,USA
+5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Sporting Kansas City,2011,USA
+6,6,Shavar Thomas,JAM,D,1.85,88,29-01-81,Hannah Town,Philadelphia Union,Sporting Kansas City,2011,USA
+7,7,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Sporting Kansas City,2011,USA
+8,8,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Sporting Kansas City,2011,USA
+9,9,Teal Bunbury,CAN,F,1.88,79,27-02-90,Hamilton [CAN],Univ of Akron,Sporting Kansas City,2011,USA
+10,10,Jéferson,BRA,M,1.80,76,15-07-84,Brasília,Vasco da Gama,Sporting Kansas City,2011,USA
+11,11,Soony Saad,USA,F,1.78,75,17-08-92,Dearborn,Univ of Michigan,Sporting Kansas City,2011,USA
+12,12,Konrad Warzycha,POL,M,1.85,86,14-02-89,Zabrze,Ohio State Univ,Sporting Kansas City,2011,USA
+13,13,Lawrence Olum,KEN,M,1.88,84,10-07-84,Nairobi,Orlando C,Sporting Kansas City,2011,USA
+14,14,Kevin Ellis,USA,D,1.75,73,30-06-91,"Kansas City, MO",None,Sporting Kansas City,2011,USA
+15,15,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Ohio State Univ,Sporting Kansas City,2011,USA
+16,16,Seth Sinovic,USA,D,1.78,77,28-01-87,Kansas City,New England Revolution,Sporting Kansas City,2011,USA
+17,17,C.J. Sapong,USA,F,1.88,84,27-12-88,Manassas,James Madison Univ,Sporting Kansas City,2011,USA
+18,18,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Sporting Kansas City,2011,USA
+19,19,Joseph Peterson,HAI,M,1.76,60,24-04-90,Port-au-Prince,Sporting Braga,Sporting Kansas City,2011,USA
+20,20,Birahim Diop,SEN,M,1.91,82,07-02-79,Thiès,Tiligul-Tiras Tiraspol,Sporting Kansas City,2011,USA
+21,21,Jon Kempin,USA,G,1.85,77,08-04-93,Leawood,None,Sporting Kansas City,2011,USA
+22,22,Davy  Arnuad,USA,M,1.83,75,22-06-80,Nederland,West  Texas A&M,Sporting Kansas City,2011,USA
+23,23,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale,Houston Dynamo,Sporting Kansas City,2011,USA
+24,24,Scott Lorenz,USA,D,1.83,78,23-07-87,Barrington,NSC Minnesota Stars,Sporting Kansas City,2011,USA
+25,25,Daneil Cyrus,TRI,D,1.93,76,15-12-90,Plymouth [TRI],Santa Rosa,Sporting Kansas City,2011,USA
+32,32,Luke Sassano,USA,M,1.85,77,14-10-85,Glendale,New York Red Bulls,Sporting Kansas City,2011,USA
+41,55,Júlio César,BRA,D,1.83,78,17-11-78,São Luis,Marítimo,Sporting Kansas City,2011,USA
+42,78,Aurélien Collin,FRA,D,1.85,77,08-03-86,Enghien-les-Bains,Vitória Setúbal,Sporting Kansas City,2011,USA
+43,88,Milo Stojčev,MNE,M,1.75,74,19-01-87,Belgrade,Borac Čačak,Sporting Kansas City,2011,USA
+44,99,Omar Bravo,MEX,F,1.69,71,04-03-80,Los Mochis,Guadalajara,Sporting Kansas City,2011,USA
+2,2,Demitrius Omphroy,PAN,D,1.78,75,30-05-89,Alameda,UC Berkeley,Toronto FC,2011,USA
+3,3,Andy Iro,ENG,D,1.96,93,26-11-84,Liverpool,Columbus Crew,Toronto FC,2011,USA
+4,4,Doneil Henry,CAN,D,1.88,82,20-04-93,Brampton,None,Toronto FC,2011,USA
+5,5,Ashtone Morgan,CAN,D,1.80,68,09-02-91,Toronto,None,Toronto FC,2011,USA
+6,6,Julian de  Guzmán,CAN,M,1.69,68,25-03-81,Toronto,Deportivo La Coruña,Toronto FC,2011,USA
+7,7,João Plata,ECU,F,1.60,64,01-03-92,Guayaquil,LDU Quito,Toronto FC,2011,USA
+8,8,Eric Avila,USA,M,1.73,68,24-11-87,San Diego,FC Dallas,Toronto FC,2011,USA
+9,9,Ryan  Johnson,JAM,F,1.85,82,26-11-84,Boston,San Jose Earthquakes,Toronto FC,2011,USA
+11,11,Nathan Sturgis,USA,D,1.78,68,06-07-87,St  Augustine,Seattle Sounders,Toronto FC,2011,USA
+12,12,Adrian Cann,CAN,D,1.90,80,19-09-80,Thornhill,Esbjerg,Toronto FC,2011,USA
+13,13,Keith Makubuya,CAN,F,1.80,66,26-01-93,St. Catharines,None,Toronto FC,2011,USA
+14,14,Danny Koevermans,NED,F,1.82,77,01-11-78,Schiedam,PSV Eindhoven,Toronto FC,2011,USA
+15,15,Matt Stinson,CAN,M,1.78,75,09-09-92,Toronto,None,Toronto FC,2011,USA
+16,16,Oscar Cordon,CAN,M,1.75,70,18-01-93,Toronto,None,Toronto FC,2011,USA
+17,17,Elbekay Bouchiba,NED,M,1.78,74,01-11-78,Weert,Al-Shamal,Toronto FC,2011,USA
+18,18,Nick Soolsma,NED,F,1.78,79,17-01-88,Andijk,VV Young Boys,Toronto FC,2011,USA
+19,19,Mikael Yourassowsky,BEL,D,1.79,77,26-02-83,Ixelles,Rijeka,Toronto FC,2011,USA
+20,20,Ty Harden,USA,D,1.85,86,06-03-84,Junction City,Colorado Rapids,Toronto FC,2011,USA
+21,21,Léandre Griffit,FRA,M,1.72,68,21-05-84,Maubeuge,Columbus Crew,Toronto FC,2011,USA
+22,22,Torsten Frings,GER,M,1.82,80,22-11-76,Würselen,Werder Bremen,Toronto FC,2011,USA
+23,23,Terry Dunfield,CAN,M,1.70,65,20-02-82,Vancouver,Vancouver Whitecaps,Toronto FC,2011,USA
+24,24,Stefan Frei,SUI,G,1.90,88,20-04-86,Altstätten,Univ of California,Toronto FC,2011,USA
+25,25,Danleigh Borman,RSA,M,1.75,73,25-01-86,Cape Town,New York Red Bulls,Toronto FC,2011,USA
+26,26,Matt Gold,USA,M,1.75,75,14-06-88,San Antonio,Ohio State Univ,Toronto FC,2011,USA
+27,27,Richard  Eckersley,ENG,D,1.76,75,12-03-89,Salford,Burnley,Toronto FC,2011,USA
+28,28,Gianluca Zavarise,CAN,M,1.82,73,28-07-86,Burnaby,Iraklis,Toronto FC,2011,USA
+29,29,Kyle Davies,USA,D,1.80,80,11-04-89,Oakland,LA Galaxy,Toronto FC,2011,USA
+30,30,Milo Kočić,SRB,G,1.93,91,04-06-85,Leskovac,DC United,Toronto FC,2011,USA
+31,31,Dicoy Williams,JAM,D,1.88,85,07-10-86,Kingston,Harbour View,Toronto FC,2011,USA
+33,33,Javier Martina,NED,F,1.75,67,01-02-87,Willemstad,Ajax,Toronto FC,2011,USA
+37,37,Nicholas Lindsay,CAN,F,1.75,71,03-09-92,Brampton,None,Toronto FC,2011,USA
+41,55,Eddy Viator,FRA,D,1.80,70,02-06-82,Colombes,Amiens,Toronto FC,2011,USA
+42,70,Perica Maroević,BIH,F,1.75,79,05-05-89,Brčko,FC Dallas,Toronto FC,2011,USA
+1,1,Joe  Cannon,USA,G,1.88,86,01-01-75,Sun  Valley,San Jose Earthquakes,Vancouver Whitecaps,2011,USA
+2,2,Michael Boxall,NZL,D,1.88,91,18-08-88,Auckland,UC Santa Barbara,Vancouver Whitecaps,2011,USA
+3,3,Bilal Duckett,USA,D,1.88,75,09-01-89,Peachtree City,Univ of Notre Dame,Vancouver Whitecaps,2011,USA
+4,4,Alain Rochat,SUI,D,1.82,78,01-02-83,St Jean sur Richelieu,Zürich,Vancouver Whitecaps,2011,USA
+6,6,Jay DeMerit,USA,D,1.80,82,04-12-79,Green Bay,Watford,Vancouver Whitecaps,2011,USA
+7,7,Mustapha Jarju,GAM,F,1.83,72,18-07-86,Banjul,RAEC Mons,Vancouver Whitecaps,2011,USA
+8,8,Peter Vagenas,USA,M,1.73,71,06-02-78,Pasadena,Seattle Sounders,Vancouver Whitecaps,2011,USA
+9,9,Atiba Harris,SKN,F,1.91,84,09-01-85,St Peter's,FC Dallas,Vancouver Whitecaps,2011,USA
+11,11,John Thorrington,USA,M,1.73,66,17-10-79,Johannesburg,Chicago Fire,Vancouver Whitecaps,2011,USA
+12,12,Jeb Brovsky,USA,D,1.85,77,03-12-88,Lakewood,Univ of Notre Dame,Vancouver Whitecaps,2011,USA
+13,13,Michael Nanchoff,USA,M,1.73,68,24-09-88,North Royalton,Univ of Akron,Vancouver Whitecaps,2011,USA
+14,14,Greg Janicki,USA,D,1.90,86,09-07-84,New Baltimore,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+15,15,Philippe Davies,CAN,M,1.83,75,12-12-90,Longueuil,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+16,16,Nizar Khalfan,TAN,M,1.73,68,21-06-88,Mtwara,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+17,17,Omar Salgado,USA,F,1.93,79,10-09-93,El Paso,Guadalajara,Vancouver Whitecaps,2011,USA
+18,18,Jay Nolly,USA,G,1.91,93,02-01-82,Orlando,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+19,19,Carlyle Mitchell,TRI,D,1.85,75,08-08-87,Arima,Joe Public,Vancouver Whitecaps,2011,USA
+20,20,Davide Chiumiento,SUI,M,1.73,67,22-11-84,Heiden,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+22,22,Shea Salinas,USA,M,1.78,68,24-06-86,Lubbock,Philadelphia Union,Vancouver Whitecaps,2011,USA
+23,23,Tan Long,CHN,F,1.85,77,01-04-88,Dalian,FC Tampa Bay,Vancouver Whitecaps,2011,USA
+24,24,Brian Sylvestre,USA,G,1.96,91,19-12-92,"Hollywood, FL",Whitecaps (USL),Vancouver Whitecaps,2011,USA
+25,25,Jonathan Leathers,USA,D,1.75,73,05-11-85,"Athens, GA",Kansas City Wizards,Vancouver Whitecaps,2011,USA
+26,26,Jordan Harvey,USA,D,1.80,77,28-01-84,Mission  Viejo,Philadelphia Union,Vancouver Whitecaps,2011,USA
+27,27,Alexandre Morfaw,CMR,M,1.75,75,31-08-87,Douala,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+28,28,Gershon Koffie,GHA,M,1.80,70,25-08-91,Koforidua,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+29,29,Eric Hassli,FRA,F,1.93,91,03-05-81,Sarreguemines,Zürich,Vancouver Whitecaps,2011,USA
+31,31,Russell Teibert,CAN,M,1.70,66,22-12-92,Niagara Falls,Whitecaps (USL),Vancouver Whitecaps,2011,USA
+37,37,Camilo,BRA,F,1.70,70,21-07-88,Presidente Prudente,Gyeongnam,Vancouver Whitecaps,2011,USA

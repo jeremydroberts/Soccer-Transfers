@@ -1,0 +1,354 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Nicolai Larsen,DEN,G,1.90,83,09-03-91,,Lyngby,Aalborg,2016,Danish
+2,2,Patrick Kristensen,DEN,D,1.73,68,28-04-87,Silkeborg,None,Aalborg,2016,Danish
+3,3,Jakob Ahlmann,DEN,D,1.79,70,18-01-91,Aalborg,FC Midtjylland,Aalborg,2016,Danish
+4,4,Jakob Blåbjerg,DEN,D,1.80,75,11-01-95,Aalborg,None,Aalborg,2016,Danish
+5,5,Markus Holgersson,SWE,D,1.90,78,12-04-85,Landskrona,Anorthosis Famagusta,Aalborg,2016,Danish
+7,7,Thomas Enevoldsen,DEN,M,1.81,74,27-06-87,Aalborg,Mechelen,Aalborg,2016,Danish
+8,8,Rasmus Würtz,DEN,M,1.79,68,18-09-83,Skive,FC København,Aalborg,2016,Danish
+9,9,Jannik Pohl,DEN,F,1.83,77,06-04-96,Hjørring,None,Aalborg,2016,Danish
+10,10,Edison Flores,PER,F,1.67,62,15-05-94,Lima,Universitario de Deportes,Aalborg,2016,Danish
+11,11,Jakub Sylvestr,SVK,F,1.78,80,02-02-89,Banská Bystrica,Nürnberg,Aalborg,2016,Danish
+14,14,Casper Sloth,DEN,M,1.81,73,26-03-92,Aarhus,Leeds U,Aalborg,2016,Danish
+16,16,Magnus Christensen,DEN,M,,,20-08-97,,None,Aalborg,2016,Danish
+18,18,Rasmus Thellufsen,DEN,M,,,09-01-97,,None,Aalborg,2016,Danish
+19,19,Marco Ramkilde,DEN,F,,,09-05-98,,None,Aalborg,2016,Danish
+20,20,Marco Meilinger,AUT,M,1.80,76,03-08-91,Salzburg,Austria Vienna,Aalborg,2016,Danish
+21,21,Kasper Risgård,DEN,M,1.85,75,04-01-83,Aars,Silkeborg,Aalborg,2016,Danish
+22,22,Ivan Lučić,AUT,G,1.93,92,23-03-95,Brčko,Bristol C,Aalborg,2016,Danish
+24,24,Morten Rokkedal,DEN,D,,,10-10-97,,None,Aalborg,2016,Danish
+25,25,Frederik Børsting,DEN,M,1.83,74,13-02-95,,None,Aalborg,2016,Danish
+26,26,Robert Kakeeto,UGA,M,1.75,65,19-05-95,,None,Aalborg,2016,Danish
+27,27,Oliver Abildgaard,DEN,M,1.75,66,10-06-96,Hasseris,None,Aalborg,2016,Danish
+29,29,Sebastian Grønning,DEN,M,,,03-02-97,,None,Aalborg,2016,Danish
+31,31,Joakim Mæhle,DEN,M,,,20-05-97,,None,Aalborg,2016,Danish
+32,32,Kasper Pedersen,DEN,D,1.85,75,21-04-93,Aabybro,None,Aalborg,2016,Danish
+33,33,Bardhec Bytyqi,DEN,D,,,08-01-97,,None,Aalborg,2016,Danish
+1,1,Steffen Rasmussen,DEN,G,1.80,85,30-09-82,Stenvad,Grenå IF,Aarhus,2016,Danish
+2,2,Dino Mikanović,CRO,D,1.74,72,05-07-94,Nova Gradika,Hajduk Split,Aarhus,2016,Danish
+3,3,Niklas Backman,SWE,D,1.86,80,13-11-88,Västerås,Dalian Yifang,Aarhus,2016,Danish
+4,4,Daniel Pedersen,DEN,M,1.85,72,27-07-92,Silkeborg,Silkeborg,Aarhus,2016,Danish
+5,5,Alexander Juel Andersen,DEN,D,1.88,76,29-01-91,Viborg,Horsens,Aarhus,2016,Danish
+6,6,Björn Sverrisson,ISL,M,1.74,74,29-05-90,,Viking,Aarhus,2016,Danish
+7,7,Stephan Petersen,DEN,M,1.87,79,15-11-85,Frederiksberg,FC Nordsjælland,Aarhus,2016,Danish
+8,8,Mustafa Amini,AUS,M,1.73,75,20-04-93,Sydney,Randers,Aarhus,2016,Danish
+9,9,Kasper Junker,DEN,F,1.86,70,05-03-94,Vinding,Randers,Aarhus,2016,Danish
+10,10,Martin Spelmann,DEN,M,1.74,70,21-03-87,Copenhagen,Gençlerbirliği,Aarhus,2016,Danish
+11,11,Danny Olsen,DEN,M,1.86,78,11-06-85,Hvidovre,FC Midtjylland,Aarhus,2016,Danish
+13,13,Morten D Rasmussen,DEN,F,1.85,77,31-01-85,Copenhagen,FC Midtjylland,Aarhus,2016,Danish
+14,14,Jens Stage,DEN,M,1.87,81,08-11-96,Aarhus,Brabrand,Aarhus,2016,Danish
+15,15,Mikkel Rask,DEN,D,1.85,70,22-06-83,Spentrup,Viborg,Aarhus,2016,Danish
+16,16,Christopher Oikonomidis,AUS,M,1.80,80,04-05-95,Sydney,Lazio,Aarhus,2016,Danish
+17,17,Oskar Buur,DEN,D,1.78,65,31-03-98,Skanderborg,None,Aarhus,2016,Danish
+18,18,Jesper Juelsgaard,DEN,D,1.82,78,26-01-89,Spjald,Brøndby,Aarhus,2016,Danish
+19,19,Mustapha Bundu,SLE,M,1.88,79,28-02-97,,Hereford,Aarhus,2016,Danish
+20,20,Teddy Bjarnason,ISL,M,1.83,75,04-03-87,Reykjavík,Randers,Aarhus,2016,Danish
+21,21,Thomas Juel-Nielsen,DEN,D,1.89,88,18-06-90,,Falkenbergs FF,Aarhus,2016,Danish
+22,22,Benjamin Hvidt,DEN,M,1.89,75,12-03-00,,None,Aarhus,2016,Danish
+24,24,Emil Christensen,DEN,D,1.90,83,10-07-97,,Vejle,Aarhus,2016,Danish
+26,26,Aleksandar Jovanović,SRB,G,1.91,86,06-12-92,Ni,Radnički Ni,Aarhus,2016,Danish
+27,27,Michael Zacho,DEN,M,1.86,74,11-11-96,Aarhus,None,Aarhus,2016,Danish
+28,28,Dzhamaldin Khodzhaniyazov,RUS,D,1.80,70,18-07-96,Baýramaly,Zenit St Petersburg,Aarhus,2016,Danish
+31,31,Thomas Hagelskjær,DEN,G,1.88,80,04-02-95,,None,Aarhus,2016,Danish
+33,33,Daniel Thøgersen,DEN,D,1.81,70,08-01-00,,None,Aarhus,2016,Danish
+34,34,Nimo Gribenco,DEN,M,1.88,74,23-01-97,,None,Aarhus,2016,Danish
+37,37,Sebastian Hausner,DEN,D,1.80,72,11-04-00,,None,Aarhus,2016,Danish
+41,44,Magnus Kaastrup,DEN,F,1.76,70,28-12-00,,None,Aarhus,2016,Danish
+1,1,Frederik Rønnow,DEN,G,1.88,76,04-08-92,,Horsens,Brшndby,2016,Danish
+4,4,Benedikt Röcker,GER,D,1.97,88,19-11-89,Bietigheim-Bissingen,Greuther Fürth,Brшndby,2016,Danish
+5,5,Gregor Sikoek,SVK,D,1.76,70,13-02-94,Breice,Koper,Brшndby,2016,Danish
+6,6,Hjörtur Hermannsson,ISL,D,1.89,81,08-02-95,Reykjavík,PSV Eindhoven,Brшndby,2016,Danish
+7,7,Thomas Kahlenberg,DEN,M,1.83,72,20-03-83,Hvidovre,Wolfsburg,Brшndby,2016,Danish
+8,8,Rodolph Austin,JAM,M,1.80,78,01-06-85,Clarendon,Leeds U,Brшndby,2016,Danish
+9,9,Teemu Pukki,FIN,F,1.76,66,29-03-90,Kotka,Celtic,Brшndby,2016,Danish
+10,10,Hany Mukhtar,GER,M,1.67,60,21-03-95,Berlin,Benfica,Brшndby,2016,Danish
+11,11,Zsolt Kalmár,HUN,M,1.84,78,09-06-95,Győr,RB Leipzig,Brшndby,2016,Danish
+12,12,Frederik Holst,DEN,D,1.77,70,24-09-94,Copenhagen,BK Union,Brшndby,2016,Danish
+13,13,Johan Larsson,SWE,D,1.81,75,05-05-90,Kinna,IF Elfsborg,Brшndby,2016,Danish
+14,14,Kevin Mensah,DEN,M,1.74,66,15-05-91,Viborg,Esbjerg,Brшndby,2016,Danish
+16,16,Adam Larsen Kwarasey,GHA,G,1.88,81,12-12-87,Oslo,Rosenborg,Brшndby,2016,Danish
+17,17,Rezan Corlu,DEN,M,1.70,70,07-08-97,Glostrup,None,Brшndby,2016,Danish
+18,18,Lebogang Phiri,RSA,M,1.76,72,09-11-94,Johannesburg,Bidvest Wits,Brшndby,2016,Danish
+19,19,Christian Nørgaard,DEN,M,1.86,75,10-03-94,Copenhagen,Hamburg,Brшndby,2016,Danish
+20,20,Kamil Wilczek,POL,F,1.86,78,14-01-88,Wodzisław Śląski,Carpi,Brшndby,2016,Danish
+22,22,Gustaf Nilsson,SWE,F,1.97,78,23-05-97,,Falkenbergs FF,Brшndby,2016,Danish
+23,23,Paulus Arajuuri,FIN,D,1.92,89,15-06-88,Helsinki,Lech Poznań,Brшndby,2016,Danish
+24,24,Joël Kabongo,DEN,D,1.90,78,05-04-98,,None,Brшndby,2016,Danish
+27,27,Svenn Crone,DEN,D,1.83,75,20-05-95,,None,Brшndby,2016,Danish
+29,29,Jan Kliment,CZE,F,1.85,76,01-09-93,Myjava,Stuttgart,Brшndby,2016,Danish
+30,30,Viktor Anker,DEN,G,1.94,,10-01-98,,Næstved,Brшndby,2016,Danish
+1,1,Jonas Jensen,DEN,G,1.88,86,25-10-85,Skive,Skive,Esbjerg,2016,Danish
+3,3,Konstantinos Tsimikas,GRE,D,1.77,70,12-05-96,,Olympiakos,Esbjerg,2016,Danish
+4,4,Victor Pálsson,ISL,M,1.85,75,30-04-91,Reykjavik,Helsingborgs IF,Esbjerg,2016,Danish
+5,5,Giorgos Katsikas,GRE,D,1.87,84,14-06-90,Thessaloniki,FC Twente,Esbjerg,2016,Danish
+7,7,Jesper Jørgensen,DEN,M,1.84,72,09-05-84,Varde,Zulte-Waregem,Esbjerg,2016,Danish
+8,8,Jeppe Andersen,DEN,M,1.78,75,06-12-92,,Vejle Kolding,Esbjerg,2016,Danish
+9,9,Mads Hvilsom,DEN,F,1.89,92,23-08-92,Himmelev,Eintracht Braunschweig,Esbjerg,2016,Danish
+10,10,Awer Mabil,AUS,M,1.79,65,15-09-95,Kakuma,FC Midtjylland,Esbjerg,2016,Danish
+11,11,Budu Zivzivadze,GEO,F,1.89,,10-03-94,Kutaisi,FC Samtredia,Esbjerg,2016,Danish
+14,14,Jesper Lauridsen,DEN,D,1.80,76,27-03-91,,FC Midtjylland,Esbjerg,2016,Danish
+16,16,Jeppe Højbjerg,DEN,G,1.88,78,30-04-95,,Sønderris,Esbjerg,2016,Danish
+17,17,Emmanuel Oti,GHA,F,1.70,65,24-09-96,Akim Oda,Sporting Braga,Esbjerg,2016,Danish
+18,18,Otar Kakabadze,GEO,D,1.85,76,27-06-95,Tbilisi,Nàstic,Esbjerg,2016,Danish
+21,21,Mark Brink,DEN,M,1.82,62,15-03-98,,None,Esbjerg,2016,Danish
+22,22,Brent McGrath,AUS,F,1.84,80,18-06-91,Sydney,Fredericia,Esbjerg,2016,Danish
+23,23,Andreas Nordvik,NOR,D,1.84,84,18-03-87,Trondheim,Sarpsborg 08,Esbjerg,2016,Danish
+24,24,Marco Lund,DEN,D,1.83,84,30-06-96,Ansager,None,Esbjerg,2016,Danish
+25,25,Jeppe Brinch,DEN,D,1.82,67,30-04-95,,None,Esbjerg,2016,Danish
+26,26,Mathias Kristensen,DEN,M,1.72,60,21-03-97,,None,Esbjerg,2016,Danish
+27,27,Robin Söder,SWE,F,1.76,67,01-04-91,Ellös,IFK Göteborg,Esbjerg,2016,Danish
+32,32,Nikolaj Hagelskjaer,DEN,D,1.86,75,06-05-90,,Fredericia,Esbjerg,2016,Danish
+35,35,Lasse Mikkelsen,DEN,G,1.88,86,18-01-98,,PSV Eindhoven,Esbjerg,2016,Danish
+38,38,Jakob Lungi Sørensen,DEN,M,,,03-03-98,,None,Esbjerg,2016,Danish
+39,39,Anders Dreyer,DEN,F,,,02-05-98,,None,Esbjerg,2016,Danish
+40,40,Daniel Anyembe,DEN,D,,,22-07-98,,None,Esbjerg,2016,Danish
+1,1,Nicklas Dannevang,DEN,G,1.95,78,11-09-90,,Brønshøj,Horsens,2016,Danish
+2,2,Elfar Freyr Helgason,ISL,D,1.90,82,27-07-89,Reykjavík,Breiðablik,Horsens,2016,Danish
+3,3,Martin Albrechtsen,DEN,D,1.88,78,31-03-80,Copenhagen,Brøndby,Horsens,2016,Danish
+4,4,Conor O'Brien,USA,M,1.77,69,20-10-88,Mount Sinai,Wiener Neustadt,Horsens,2016,Danish
+5,5,Frederik Møller,DEN,D,1.80,75,08-07-93,Ikast,FC Midtjylland,Horsens,2016,Danish
+7,7,Mathias Nielsen,DEN,M,1.87,80,02-03-91,Herfølge,Næstved,Horsens,2016,Danish
+8,8,Mikkel Jespersen,DEN,M,,,11-06-91,,Skive,Horsens,2016,Danish
+9,9,Kjartan Finnbogason,ISL,F,1.88,83,09-07-86,Reykjavík,KR Reykjavík,Horsens,2016,Danish
+10,10,Lasse Kryger,DEN,M,1.88,79,03-11-82,Svendborg,Odense,Horsens,2016,Danish
+11,11,Peter Nymann Mikkelsen,DEN,M,1.79,70,22-08-82,Lynge,FC Vestsjælland,Horsens,2016,Danish
+12,12,Joseph Mensah,GHA,M,1.68,65,29-09-94,Accra,Liberty Professionals,Horsens,2016,Danish
+13,13,Thomas Kortegaard,DEN,D,1.77,70,02-07-84,Thisted,Aalborg,Horsens,2016,Danish
+14,14,Jonas Gemmer,DEN,M,1.83,76,31-01-96,,FC Midtjylland,Horsens,2016,Danish
+15,15,Bubacarr Sanneh,GAM,D,1.83,75,14-11-94,,Real de Banjul,Horsens,2016,Danish
+16,16,Delphin Tshiembe,COD,M,1.88,85,17-07-91,,HB Køge,Horsens,2016,Danish
+17,17,Hállur Hánsson,FRO,M,1.82,77,08-07-92,Tórshavn,Vendsyssel,Horsens,2016,Danish
+18,18,Jeppe Mehl,DEN,M,1.85,75,21-09-86,Thisted,Esbjerg,Horsens,2016,Danish
+19,19,Kim Aabech,DEN,M,1.90,85,31-05-83,Copenhagen,Aarhus,Horsens,2016,Danish
+20,20,Mikkel Qvist,DEN,D,2.03,80,22-04-93,,Lyseng,Horsens,2016,Danish
+21,21,Steve Clark,USA,G,1.90,86,19-04-86,Mason,Columbus Crew,Horsens,2016,Danish
+22,22,Mads Bech Sørensen,DEN,D,,,07-01-99,,None,Horsens,2016,Danish
+23,23,Nicolai Dohn,DEN,M,,,18-08-98,,None,Horsens,2016,Danish
+29,29,André Bjerregaard,DEN,F,1.88,80,03-09-91,,None,Horsens,2016,Danish
+30,30,Marcus Bobjerg,DEN,G,1.88,76,26-01-98,,None,Horsens,2016,Danish
+1,1,Stephan Andersen,DEN,G,1.90,80,26-11-81,Copenhagen,Betis,FC Křbenhavn,2016,Danish
+2,2,Tom Høgli,NOR,D,1.75,75,14-02-84,Evenskjer,Club Brugge,FC Křbenhavn,2016,Danish
+3,3,Ludwig Augustinsson,SWE,D,1.81,75,21-04-94,Stockholm,IFK Göteborg,FC Křbenhavn,2016,Danish
+5,5,Erik Johansson,SWE,D,1.91,84,30-12-88,Falkenberg,KAA Gent,FC Křbenhavn,2016,Danish
+6,6,William Kvist,DEN,M,1.84,80,24-02-85,Odder,Wigan Ath,FC Křbenhavn,2016,Danish
+7,7,Benjamin Verbič,SVN,M,1.79,70,27-11-93,Celje,Celje,FC Křbenhavn,2016,Danish
+8,8,Uro Matić,SRB,M,1.84,73,23-05-90,abac,Sturm Graz,FC Křbenhavn,2016,Danish
+11,11,Andreas Cornelius,DEN,F,1.92,89,16-03-93,Copenhagen,Cardiff C,FC Křbenhavn,2016,Danish
+14,14,Nikolaj Thomsen,DEN,M,1.80,75,08-05-93,Skagen,Nantes,FC Křbenhavn,2016,Danish
+15,15,Mikael Antonsson,SWE,D,1.89,80,31-05-81,Karlskrona,Bologna,FC Křbenhavn,2016,Danish
+16,16,Ján Gregu,SVK,M,1.89,70,29-01-91,Nitra,Jablonec,FC Křbenhavn,2016,Danish
+17,17,Kasper Kusk,DEN,M,1.80,67,10-11-91,Aalborg,FC Twente,FC Křbenhavn,2016,Danish
+19,19,Federico Santander,PAR,F,1.81,79,04-06-91,San Lorenzo,Guaraní [PAR],FC Křbenhavn,2016,Danish
+20,20,Nicolai Boilesen,DEN,D,1.85,75,16-02-92,Ballerup,Ajax,FC Křbenhavn,2016,Danish
+22,22,Peter Ankersen,DEN,D,1.80,73,22-09-90,Esbjerg,Red Bull Salzburg,FC Křbenhavn,2016,Danish
+23,23,Andrija Pavlović,SRB,F,1.88,82,16-11-93,Belgrade,Čukarički,FC Křbenhavn,2016,Danish
+24,24,Youssef Toutouh,DEN,F,1.89,77,06-10-92,Copenhagen,Hvidovre,FC Křbenhavn,2016,Danish
+25,25,Mathias Zanka Jørgensen,DEN,D,1.91,79,23-04-90,Copenhagen,PSV Eindhoven,FC Křbenhavn,2016,Danish
+26,26,Jores Okore,DEN,D,1.83,80,11-08-92,Abidjan,Aston Villa,FC Křbenhavn,2016,Danish
+31,31,Robin Olsen,SWE,G,1.98,86,08-01-90,Malmö,PAOK,FC Křbenhavn,2016,Danish
+32,32,Danny Amankwaa,DEN,M,1.76,70,30-01-94,Oagaer,None,FC Křbenhavn,2016,Danish
+33,33,Rasmus Falk,DEN,M,1.77,65,15-01-92,,Odense,FC Křbenhavn,2016,Danish
+37,37,Julian Kristoffersen,NOR,F,1.95,77,10-01-97,,Ørn-Horten,FC Křbenhavn,2016,Danish
+41,41,Kim Christensen,DEN,G,1.85,81,16-07-79,Fredericia,IFK Göteborg,FC Křbenhavn,2016,Danish
+1,1,Jesper Hansen,DEN,G,1.88,78,31-03-85,Frederikssund,Bastia,Lyngby,2016,Danish
+2,2,Thomas Guldborg Christensen,DEN,D,1.86,82,20-01-84,Bagsværd,Valur,Lyngby,2016,Danish
+3,3,Michael Lumb,DEN,D,1.77,70,09-01-88,Aarhus,FC Vestsjælland,Lyngby,2016,Danish
+4,4,Mathias Tauber,DEN,D,1.83,75,24-08-84,Copenhagen,AB København,Lyngby,2016,Danish
+5,5,Martin Ørnskov Nielsen,DEN,M,1.84,75,10-10-85,Silkeborg,Brøndby,Lyngby,2016,Danish
+7,7,Jesper Christjansen,DEN,M,1.82,75,29-12-87,Skovlunde,Brønshøj,Lyngby,2016,Danish
+8,8,Lasse Rise,DEN,F,1.78,70,09-06-86,,Esbjerg,Lyngby,2016,Danish
+9,9,Lasse Fosgaard,DEN,F,1.81,77,06-09-86,Rødovre,Brønshøj,Lyngby,2016,Danish
+10,10,Mikkel Rygaard,DEN,F,1.79,73,25-12-90,Nykøbing Falster,Næstved,Lyngby,2016,Danish
+11,11,Danilo Arrieta,DEN,F,1.72,67,10-02-87,Villa Alemana,Skive,Lyngby,2016,Danish
+13,13,Alexander Munksgaard,DEN,D,1.81,71,13-12-97,,FC Midtjylland,Lyngby,2016,Danish
+15,15,Jeppe Kjær,DEN,F,1.72,71,06-11-85,Roskilde,Aarhus,Lyngby,2016,Danish
+16,16,Andreas Larsen,DEN,G,1.85,76,22-05-90,Copenhagen,Hvidovre,Lyngby,2016,Danish
+17,17,Casper Højer Nielsen,DEN,D,1.83,77,20-11-94,Copenhagen,FC København,Lyngby,2016,Danish
+19,19,Kristoffer Larsen,NOR,F,1.87,74,19-01-92,Bergen,Brann,Lyngby,2016,Danish
+20,20,Jeppe Brandrup,DEN,M,1.84,78,03-06-85,Copenhagen,Randers,Lyngby,2016,Danish
+21,21,David Boysen,DEN,F,1.77,63,30-04-91,Herlev,Roda JC,Lyngby,2016,Danish
+22,22,Bror Blume,DEN,M,1.77,73,22-01-92,Copenhagen,None,Lyngby,2016,Danish
+23,23,Jens Odgaard,DEN,F,1.88,77,31-03-99,,None,Lyngby,2016,Danish
+24,24,Thomas Sørensen,DEN,D,1.87,83,01-08-84,Copenhagen,ÍA Akranes,Lyngby,2016,Danish
+25,25,Emil Larsen,DEN,M,1.81,75,22-06-91,Copenhagen,Columbus Crew,Lyngby,2016,Danish
+27,27,Kim Ojo,NGA,F,1.92,82,02-12-88,Warri,OH Leuven,Lyngby,2016,Danish
+30,30,Hallgrímur Jónasson,ISL,D,1.84,79,04-05-86,Húsavík,Odense,Lyngby,2016,Danish
+2,2,Kian Hansen,DEN,D,1.84,74,03-03-89,Grindsted,Nantes,FC Midtjylland,2016,Danish
+3,3,Tim Sparv,FIN,M,1.94,86,20-02-87,Vaasa,Greuther Fürth,FC Midtjylland,2016,Danish
+5,5,Marc Dal Hende,DEN,M,1.78,75,06-11-90,Dragør,SønderjyskE,FC Midtjylland,2016,Danish
+6,6,Markus Halsti,FIN,D,1.85,82,19-03-84,Helsinki,DC United,FC Midtjylland,2016,Danish
+7,7,Jakob Poulsen,DEN,M,1.82,72,07-07-83,Varde,Monaco,FC Midtjylland,2016,Danish
+8,8,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk,Betis,FC Midtjylland,2016,Danish
+9,9,Janus Drachmann,DEN,M,1.79,70,11-05-88,,SønderjyskE,FC Midtjylland,2016,Danish
+11,11,Jonas Borring,DEN,M,1.93,76,04-01-85,Brejning,Brøndby,FC Midtjylland,2016,Danish
+14,14,Simon Kroon,SWE,M,1.80,69,16-06-93,Malmö,SønderjyskE,FC Midtjylland,2016,Danish
+16,16,Johan Dahlin,SWE,G,1.90,90,08-09-86,Trollhättan,Gençlerbirliği,FC Midtjylland,2016,Danish
+18,18,Kristian Riis,DEN,D,1.89,84,17-02-97,,SønderjyskE,FC Midtjylland,2016,Danish
+20,20,Rasmus Nicolaisen,DEN,D,1.90,81,16-03-97,,None,FC Midtjylland,2016,Danish
+21,21,Kaan Kairinen,FIN,M,1.78,70,22-12-98,,Inter Turku,FC Midtjylland,2016,Danish
+22,22,Mikkel Duelund,DEN,M,1.80,70,29-06-97,Aarhus,None,FC Midtjylland,2016,Danish
+24,24,Mads Døhr Thychosen,DEN,M,1.78,65,27-06-97,Vejle,Vejle,FC Midtjylland,2016,Danish
+28,28,André Rømer,DEN,D,1.86,78,18-07-93,,Køge,FC Midtjylland,2016,Danish
+31,31,Mikkel Andersen,DEN,G,1.95,80,17-12-88,Herlev,Reading,FC Midtjylland,2016,Danish
+33,33,Paul Onuachu,NGA,F,2.01,84,28-05-94,Owerri,FC Ebedei,FC Midtjylland,2016,Danish
+34,34,Mikael Anderson,ISL,M,1.80,69,01-07-98,Reykjavík,None,FC Midtjylland,2016,Danish
+35,35,Gloire Rutikanga,COD,M,,,04-02-97,,None,FC Midtjylland,2016,Danish
+36,36,Rilwan Hassan,NGA,M,1.72,64,09-02-91,Lagos,FC Ebedei,FC Midtjylland,2016,Danish
+40,40,Andreas Poulsen,DEN,D,,,13-10-99,,None,FC Midtjylland,2016,Danish
+41,43,Rasmus Nissen,DEN,D,1.82,75,11-07-97,,None,FC Midtjylland,2016,Danish
+42,70,Filip Novák,CZE,D,1.84,79,26-06-90,Přerov,Jablonec,FC Midtjylland,2016,Danish
+43,77,Bruno Sabino,BRA,M,1.80,77,29-09-89,Porto Alegre,Guangzhou R&F,FC Midtjylland,2016,Danish
+44,88,Gustav Wikheim,NOR,F,1.80,65,18-03-93,Drammen,KAA Gent,FC Midtjylland,2016,Danish
+1,1,Patrik Carlgren,SWE,G,1.88,82,08-01-92,Falun,AIK,FC Nordsjćlland,2016,Danish
+2,2,Karlo Bartolec,CRO,D,1.76,78,20-04-95,Zagreb,Lokomotiva Zagreb,FC Nordsjćlland,2016,Danish
+3,3,Pascal Gregor,DEN,D,1.85,74,18-02-94,,None,FC Nordsjćlland,2016,Danish
+4,4,Andreas Maxsø,DEN,D,1.85,79,18-03-94,Hvidovre,None,FC Nordsjćlland,2016,Danish
+6,6,Lasse Petry,DEN,M,1.72,69,19-09-92,Smørumnedre,None,FC Nordsjćlland,2016,Danish
+7,7,Stanislav Lobotka,SVK,M,1.70,64,25-11-94,Trenčín,AS Trenčín,FC Nordsjćlland,2016,Danish
+8,8,Patrick Mtiliga,DEN,D,1.72,73,28-01-81,Copenhagen,Málaga,FC Nordsjćlland,2016,Danish
+9,9,Tobias Mikkelsen,DEN,M,1.78,73,18-09-86,Helsingør,Rosenborg,FC Nordsjćlland,2016,Danish
+11,11,Mohammed Fellah,NOR,M,1.67,70,24-05-89,Oslo,Esbjerg,FC Nordsjćlland,2016,Danish
+12,12,Ernest Asante,GHA,F,1.71,69,06-11-88,Sunyani,Stabæk,FC Nordsjćlland,2016,Danish
+14,14,Mathias Rasmussen,NOR,M,1.72,65,25-11-97,Lyngdal,Start,FC Nordsjćlland,2016,Danish
+16,16,Rúnar Rúnarsson,ISL,G,1.85,73,18-02-95,,KR Reykjavík,FC Nordsjćlland,2016,Danish
+17,17,Andreas Skovgaard,DEN,D,,,27-03-97,,None,FC Nordsjćlland,2016,Danish
+18,18,Emiliano Marcondes,DEN,M,1.83,75,09-03-95,Hvidovre,None,FC Nordsjćlland,2016,Danish
+19,19,Marcus Ingvartsen,DEN,F,1.82,76,30-11-95,,None,FC Nordsjćlland,2016,Danish
+20,20,Patrick da Silva,DEN,D,1.72,75,23-10-94,Kalundborg,Brøndby,FC Nordsjćlland,2016,Danish
+21,21,Indy Groothuizen,NED,G,1.90,88,22-07-96,Alkmaar,Ajax,FC Nordsjćlland,2016,Danish
+22,22,Mads Pedersen,DEN,D,1.78,74,01-09-96,,None,FC Nordsjćlland,2016,Danish
+23,23,Mathias Jensen,DEN,M,,,01-01-96,,None,FC Nordsjćlland,2016,Danish
+24,24,Christian Køhler,DEN,M,1.77,68,10-04-96,,None,FC Nordsjćlland,2016,Danish
+25,25,Adnan Mohammed,DEN,F,,,02-07-96,,None,FC Nordsjćlland,2016,Danish
+27,27,Souheib Dhaflaoui,TUN,F,1.68,67,20-05-96,,B93,FC Nordsjćlland,2016,Danish
+28,28,Peter Vindahl Jensen,DEN,G,,,16-02-98,,None,FC Nordsjćlland,2016,Danish
+29,29,Benjamin Lund,NED,D,,,12-03-97,,None,FC Nordsjćlland,2016,Danish
+30,30,Abdul Mumin,GHA,D,,,06-06-98,,None,FC Nordsjćlland,2016,Danish
+31,31,Godsway Donyoh,GHA,F,1.80,71,14-10-94,Accra,Manchester C,FC Nordsjćlland,2016,Danish
+32,32,Viktor Tranberg,DEN,D,1.90,75,26-02-97,,None,FC Nordsjćlland,2016,Danish
+33,33,Collins Tanor,GHA,M,1.75,65,04-01-98,,Right to Dream,FC Nordsjćlland,2016,Danish
+35,35,Jakob Johansson,DEN,F,,,06-08-98,,None,FC Nordsjćlland,2016,Danish
+36,36,Victor Nelsson,DEN,M,,,14-10-98,,None,FC Nordsjćlland,2016,Danish
+1,1,Michael Falkesgaard,DEN,G,1.91,78,09-04-91,Kastrup,Brøndby,Odense,2016,Danish
+2,2,Kenneth Emil Petersen,DEN,D,1.87,83,15-01-85,Copenhagen,Aalborg,Odense,2016,Danish
+3,3,Frederik Tingager,DEN,D,1.98,74,22-02-93,,Holbæk B&I,Odense,2016,Danish
+4,4,Ryan Johnson Laursen,DEN,D,1.85,76,14-04-92,Los Angeles,Esbjerg,Odense,2016,Danish
+5,5,João Pereira,POR,D,1.83,79,10-05-90,Santarém,SønderjyskE,Odense,2016,Danish
+6,6,Jeppe Tverskov,DEN,D,1.85,84,12-03-93,Copenhagen,Randers,Odense,2016,Danish
+7,7,Jóan Edmundsson,FRO,M,1.74,70,26-07-91,Toftir,Vejle,Odense,2016,Danish
+9,9,Rasmus Jönsson,SWE,F,1.92,70,27-01-90,Helsingborg,Aalborg,Odense,2016,Danish
+10,10,Rasmus Festersen,DEN,F,1.78,76,26-08-86,Viborg,FC Vestsjælland,Odense,2016,Danish
+11,11,Casper Nielsen,DEN,M,1.82,71,29-04-94,Esbjerg,Esbjerg,Odense,2016,Danish
+13,13,Sten Grytebust,NOR,G,1.87,86,25-10-89,Ålesund,Aalesund,Odense,2016,Danish
+14,14,Jens Thomasen,DEN,M,1.81,73,25-06-96,,None,Odense,2016,Danish
+15,15,Izunna Uzochukwu,NGA,M,1.71,70,11-04-90,,Amkar Perm,Odense,2016,Danish
+17,17,Jacob Buus,DEN,D,1.77,67,07-03-97,,None,Odense,2016,Danish
+18,18,Mathias Thrane,DEN,M,1.91,86,04-09-93,,Aalborg,Odense,2016,Danish
+19,19,Mikkel Desler,DEN,M,1.87,77,19-02-95,,None,Odense,2016,Danish
+20,20,Jacob Laursen,DEN,D,1.79,76,17-11-94,Arden,Juventus,Odense,2016,Danish
+21,21,Mathias Greve,DEN,M,1.86,75,11-02-95,,None,Odense,2016,Danish
+22,22,Nana Welbeck,GHA,M,1.79,64,24-11-94,Accra,Krka,Odense,2016,Danish
+24,24,Oliver Lund,DEN,D,1.85,75,21-08-90,,FC Vestsjælland,Odense,2016,Danish
+26,26,Yao Dieudonne,CIV,M,1.78,72,14-02-97,,None,Odense,2016,Danish
+27,27,Oliver Christensen,DEN,G,,,22-03-99,,None,Odense,2016,Danish
+28,28,Anders Jacobsen,DEN,F,1.81,77,27-10-89,,Aalborg,Odense,2016,Danish
+29,29,Kristian Weber,DEN,F,1.81,70,03-01-97,,None,Odense,2016,Danish
+1,1,Hannes Halldórsson,ISL,G,1.82,75,27-04-84,Reykjavík,NEC Nijmegen,Randers,2016,Danish
+2,2,Kasper Enghardt,DEN,D,1.86,79,27-05-92,,Helsingør,Randers,2016,Danish
+4,4,Johnny Thomsen,DEN,D,1.80,73,26-02-82,Fredericia,FC København,Randers,2016,Danish
+5,5,Mads Agesen,DEN,D,1.90,85,17-03-83,Thisted,Horsens,Randers,2016,Danish
+6,6,Joni Kauko,FIN,M,1.85,80,12-07-90,Turku,Energie Cottbus,Randers,2016,Danish
+7,7,Andreas Bruhn,DEN,M,1.78,70,17-02-94,Støvring,Viborg,Randers,2016,Danish
+8,8,Brandur Hendriksson Olsen,FRO,M,1.74,73,19-12-95,Skálavík,FC København,Randers,2016,Danish
+9,9,Mayron George,CRC,F,1.90,80,23-10-93,Puerto Limón,Hobro,Randers,2016,Danish
+10,10,Marvin Pourié,GER,F,1.84,80,08-01-91,Werne,FC København,Randers,2016,Danish
+11,11,Erik Marxen,DEN,D,1.85,80,02-12-90,Middelfart,Horsens,Randers,2016,Danish
+13,13,Mads Fenger,DEN,D,1.85,84,10-09-90,,Randers Freja,Randers,2016,Danish
+15,15,Sam Lundholm,SWE,M,1.76,72,01-07-94,Stockholm,NEC Nijmegen,Randers,2016,Danish
+16,16,Kasper Fisker,DEN,M,1.70,69,22-05-88,Randers,Hobro,Randers,2016,Danish
+18,18,Lucas Haren,DEN,F,1.80,72,13-10-97,,Hellerup,Randers,2016,Danish
+19,19,Mikkel Kallesøe,DEN,M,1.93,80,20-04-97,Lemvig,None,Randers,2016,Danish
+20,20,Joel Allansson,SWE,M,1.73,66,03-11-92,,IFK Göteborg,Randers,2016,Danish
+21,21,Alexander Fischer,DEN,M,1.76,72,16-09-86,Holte,Lyngby,Randers,2016,Danish
+22,22,Frederik Due,DEN,G,1.87,79,18-07-92,,HB Køge,Randers,2016,Danish
+23,23,Viktor Lundberg,SWE,F,1.83,75,04-03-91,Solna,AIK,Randers,2016,Danish
+24,24,Jonas Bager,DEN,D,1.81,78,18-07-96,,None,Randers,2016,Danish
+28,28,Nikola Djurdjić,SRB,F,1.84,77,01-04-86,Pirot,Partizan Belgrade,Randers,2016,Danish
+38,38,Nicolai Poulsen,DEN,M,1.76,70,05-08-93,Helsted,None,Randers,2016,Danish
+41,51,Frederik Lauenborg,DEN,M,1.81,74,18-05-97,,None,Randers,2016,Danish
+42,70,Marcus Mølvadgaard,DEN,F,1.89,82,03-08-99,,None,Randers,2016,Danish
+43,71,Jonas Dakir,DEN,G,1.91,76,18-04-97,,None,Randers,2016,Danish
+1,1,Thomas Nørgaard,DEN,G,1.85,73,07-01-87,Silkeborg,Aarhus Fremad,Silkeborg,2016,Danish
+2,2,Sammy Skytte,DEN,M,1.90,81,20-02-97,,None,Silkeborg,2016,Danish
+4,4,Simon Jakobsen,DEN,D,1.90,82,17-11-90,Silkeborg,None,Silkeborg,2016,Danish
+5,5,Mikkel Cramer,DEN,D,1.84,83,25-01-92,,Skive,Silkeborg,2016,Danish
+6,6,Jens Martin Gammelby,DEN,D,1.93,81,05-02-95,Ikast,None,Silkeborg,2016,Danish
+7,7,Nicolaj Agger,DEN,F,1.85,78,23-10-88,Hvidovre,Vejle,Silkeborg,2016,Danish
+8,8,Davit Skhirtladze,GEO,M,1.87,79,16-03-93,Tbilisi,Aarhus,Silkeborg,2016,Danish
+9,9,Andreas Albers,DEN,F,1.92,88,23-03-90,Skive,Vejle,Silkeborg,2016,Danish
+10,10,Emil Scheel,DEN,M,1.85,79,18-03-90,Copenhagen,Aarhus,Silkeborg,2016,Danish
+11,11,Nicklas Helenius,DEN,F,1.95,83,08-05-91,Svenstrup,Aalborg,Silkeborg,2016,Danish
+13,13,Mikkel Vendelbo,DEN,M,1.85,82,15-08-87,Esbjerg,Holstein Kiel,Silkeborg,2016,Danish
+14,14,Dennis Flinta,DEN,D,1.84,81,14-11-83,,FC Midtjylland,Silkeborg,2016,Danish
+15,15,Gustav Dahl,DEN,M,1.81,71,21-01-96,Silkeborg,None,Silkeborg,2016,Danish
+18,18,Ibrahim Moro,GHA,M,1.82,69,11-10-93,Accra,Adana Demirspor,Silkeborg,2016,Danish
+20,20,Rubio Rubin,USA,F,1.78,74,01-03-96,Beaverton,FC Utrecht,Silkeborg,2016,Danish
+21,21,Mads Emil Madsen,DEN,M,1.83,71,14-01-98,Gammel Rye,None,Silkeborg,2016,Danish
+23,23,Jeppe Okkels,DEN,M,1.83,75,27-07-99,,None,Silkeborg,2016,Danish
+24,24,Jeppe Gertsen,DEN,D,1.88,79,09-02-97,Aarhus,None,Silkeborg,2016,Danish
+28,28,Tobias Salquist,DEN,D,1.90,78,18-05-95,,None,Silkeborg,2016,Danish
+29,29,Robert Skov,DEN,M,1.76,72,20-05-96,,None,Silkeborg,2016,Danish
+30,30,Oscar Hedvall,DEN,G,,,09-08-98,,None,Silkeborg,2016,Danish
+31,31,Jens Rinke,DEN,G,1.84,86,16-04-90,,SønderjyskE,Silkeborg,2016,Danish
+1,1,Marin Skender,CRO,G,1.89,88,12-08-79,Osijek,Dila Gori,SřnderjyskE,2016,Danish
+2,2,Nicolaj Ritter,DEN,D,1.80,70,08-05-92,Brovst,Silkeborg,SřnderjyskE,2016,Danish
+3,3,Marc Pedersen,DEN,D,1.83,80,31-07-89,Give,Fredericia,SřnderjyskE,2016,Danish
+4,4,Ramon,BRA,D,1.82,81,22-08-90,Ipiaú,FC Nordsjælland,SřnderjyskE,2016,Danish
+5,5,Kees Luijckx,NED,D,1.90,83,11-02-86,Beverwijk,Videoton,SřnderjyskE,2016,Danish
+6,6,Eggert Jónsson,ISL,M,1.88,72,18-08-88,Rekyjavik,Fleetwood T,SřnderjyskE,2016,Danish
+7,7,Simon Poulsen,DEN,D,1.84,76,07-10-84,Sønderborg,PSV Eindhoven,SřnderjyskE,2016,Danish
+8,8,Christian Jakobsen,DEN,M,1.89,85,27-03-93,,Brøndby,SřnderjyskE,2016,Danish
+9,9,Marko Mitrović,SWE,M,1.86,85,27-06-92,Malmö,Randers,SřnderjyskE,2016,Danish
+10,10,Nicolaj Madsen,DEN,M,1.76,78,16-07-88,,HB Køge,SřnderjyskE,2016,Danish
+11,11,Johan Absalonsen,DEN,M,1.78,75,16-09-85,Flemløse,FC København,SřnderjyskE,2016,Danish
+13,13,Casper Olesen,DEN,F,1.85,78,10-05-96,Haderslev,None,SřnderjyskE,2016,Danish
+14,14,Mikkel Hedegaard,DEN,D,1.86,80,03-07-96,Haderslev,None,SřnderjyskE,2016,Danish
+15,15,Troels Kløve,DEN,M,1.77,75,23-10-90,,Horsens,SřnderjyskE,2016,Danish
+16,16,Sakari Mattila,FIN,M,1.87,75,14-07-89,Tampere,Fulham,SřnderjyskE,2016,Danish
+17,17,Mikael Uhre,DEN,F,1.82,68,30-09-94,Skovlund,Skive,SřnderjyskE,2016,Danish
+18,18,Nicholas Marfelt,DEN,D,1.80,80,15-09-94,Brønshøj,Helsingør,SřnderjyskE,2016,Danish
+19,19,Philip Zinckernagel,DEN,F,1.75,70,16-12-94,,Helsingør,SřnderjyskE,2016,Danish
+21,21,Jeppe Simonsen,DEN,F,1.84,75,21-11-95,Kolding,None,SřnderjyskE,2016,Danish
+22,22,Teit Jacobsen,FRO,M,1.85,80,16-03-98,,HB Tórshavn,SřnderjyskE,2016,Danish
+23,23,Silas Songani,ZIM,F,1.70,63,28-06-89,,Harare C,SřnderjyskE,2016,Danish
+26,26,Pierre Kanstrup,DEN,D,1.86,78,21-02-89,Storkøbenhavn,Fredericia,SřnderjyskE,2016,Danish
+28,28,Lukas Fernandes,DEN,G,1.86,82,01-03-93,Copenhagen,Aarhus,SřnderjyskE,2016,Danish
+29,29,Rasmus Vinderslev,DEN,M,1.84,73,12-08-97,,Haderslev,SřnderjyskE,2016,Danish
+30,30,Marcel Rømer,DEN,M,1.81,80,08-08-91,Køge,Viborg,SřnderjyskE,2016,Danish
+31,31,Matthias Maak,AUT,D,1.92,88,12-05-92,Bruck an der Mur,Grödig,SřnderjyskE,2016,Danish
+35,35,Patrick Born,DEN,G,1.88,84,09-07-94,,Middlefart,SřnderjyskE,2016,Danish
+1,1,Peter Friis Jensen,DEN,G,1.90,91,02-05-88,,Randers,Viborg,2016,Danish
+2,2,Jonas Thorsen,DEN,D,1.85,77,19-04-90,Viby,Aarhus,Viborg,2016,Danish
+3,3,Christian Keller,DEN,M,1.81,80,17-08-80,Brorup,Randers,Viborg,2016,Danish
+4,4,Jacob Dehn Andersen,DEN,D,1.87,84,04-08-95,Randers,Vejle,Viborg,2016,Danish
+5,5,Erik Moberg,SWE,D,1.83,80,05-07-86,Motala,Örebro SK,Viborg,2016,Danish
+6,6,Kristoffer Pallesen,DEN,D,1.75,72,30-04-90,,Hobro,Viborg,2016,Danish
+7,7,Mathias Wichmann,DEN,M,1.80,82,06-08-91,Gug,Aalborg,Viborg,2016,Danish
+8,8,George Fochive,USA,M,1.75,78,24-03-92,"Washington, DC",Portland Timbers,Viborg,2016,Danish
+9,9,Oliver Thychosen,DEN,F,1.84,76,17-01-93,Vejle,FC Nordsjælland,Viborg,2016,Danish
+10,10,Jeppe Curth,DEN,F,1.78,75,21-03-84,Hillerød,Aalborg,Viborg,2016,Danish
+11,11,Jonas Kamper,DEN,M,1.86,80,03-05-83,Nørre Alslev,Randers,Viborg,2016,Danish
+12,12,Walter Viitala,FIN,G,1.90,84,16-08-92,Helsinki,IFK Mariehamn,Viborg,2016,Danish
+13,13,Jeppe Grønning,DEN,M,1.80,67,24-05-91,,Fyn,Viborg,2016,Danish
+14,14,Park Jung-Bin,KOR,M,1.77,73,22-02-94,Busan,Hobro,Viborg,2016,Danish
+16,16,Aleksandar Stankov,MKD,F,1.83,82,19-02-91,tip,Hobro,Viborg,2016,Danish
+18,18,Mate Vatsadze,GEO,F,1.80,76,17-12-88,Tbilisi,Locomotive Tbilisi,Viborg,2016,Danish
+19,19,Baba Mensah,GHA,D,1.85,80,20-08-94,,International Allies,Viborg,2016,Danish
+20,20,Søren Reese,DEN,D,1.80,71,29-07-93,Ingstrup,Jammerbugt,Viborg,2016,Danish
+21,21,Osama Akharraz,MAR,M,1.75,67,26-11-90,Copenhagen,FC Vestsjælland,Viborg,2016,Danish
+23,23,Christian Sivebæk,DEN,M,1.91,88,19-02-88,Vejle,Vejle,Viborg,2016,Danish
+25,25,Søren Frederiksen,DEN,D,1.85,79,08-07-89,Sønderborg,KR Reykjavík,Viborg,2016,Danish
+28,28,Serges Déblé,CIV,F,1.71,62,01-10-89,Anyama,Shirak,Viborg,2016,Danish
+29,29,Mikkel Vestergaard,DEN,F,1.86,75,22-11-92,,Esbjerg,Viborg,2016,Danish
+33,33,Sebastian John,DEN,G,,,26-03-96,,None,Viborg,2016,Danish
+41,70,Alexander Jakobsen,EGY,M,1.80,73,18-03-94,Hvidovre,Bodø/Glimt,Viborg,2016,Danish

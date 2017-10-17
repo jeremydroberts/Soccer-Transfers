@@ -1,0 +1,426 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Marcelo  Moretto,BRA,G,1.95,94,10-05-78,Eldorado,Olhanense,Arka Gdynia,2010,Polish
+2,2,Anté Rozić,AUS,D,1.90,82,08-03-86,Bankstown,Sedan,Arka Gdynia,2010,Polish
+7,7,Paweł Zawistowski,POL,M,1.83,80,04-06-84,Łódź,Jagiellonia Białystok,Arka Gdynia,2010,Polish
+8,8,Michał Płotka,POL,D,1.81,69,11-06-88,Puck,Motor Lublin,Arka Gdynia,2010,Polish
+10,10,Marcin Budziński,POL,M,1.84,80,06-07-90,Giżycko,Mamry Giżycko,Arka Gdynia,2010,Polish
+11,11,Tadas Labukas,LTU,F,1.82,78,10-01-84,Klaipėda,Oţelul Galaţi,Arka Gdynia,2010,Polish
+13,13,Piotr Robakowski,POL,D,1.83,77,01-05-90,Wejherowo,None,Arka Gdynia,2010,Polish
+15,15,Ervin Skela,ALB,M,1.73,68,17-11-76,Vlora,Germania Windeck,Arka Gdynia,2010,Polish
+17,17,Mateusz Siebert,POL,D,1.85,78,04-04-89,Poznań,Metz,Arka Gdynia,2010,Polish
+18,18,Giovanni Vemba-Duarte,ANG,F,1.77,70,21-01-91,Cabinda,FC Twente,Arka Gdynia,2010,Polish
+19,19,Miroslav Bożok,SVK,M,1.76,69,19-10-84,Michalovce,MFK Ruomberok,Arka Gdynia,2010,Polish
+20,20,Emil Noll,GER,M,1.94,82,21-11-78,Idiofa,Vaduz,Arka Gdynia,2010,Polish
+21,21,Joseph Desiré Mawaye,CMR,F,1.84,81,14-05-86,Douala,Kasımpaşa,Arka Gdynia,2010,Polish
+22,22,Marciano Bruma,NED,D,1.83,69,07-03-84,Rotterdam,Willem II,Arka Gdynia,2010,Polish
+23,23,Maciej Szmatiuk,POL,D,1.90,83,09-05-80,Gliwice,Podbeskidzie Bielsko-Biała,Arka Gdynia,2010,Polish
+24,24,Junior  Ross,PER,F,1.80,69,19-02-86,Callao,Juan Aurich,Arka Gdynia,2010,Polish
+25,25,Filip Burkhardt,POL,M,1.74,69,23-03-87,Poznań,Warta Poznań,Arka Gdynia,2010,Polish
+26,26,Rafał Siemiaszko,POL,F,1.70,68,11-09-86,Wejherowo,Orkan Rumia,Arka Gdynia,2010,Polish
+27,27,Mirko Ivanovski,MKD,F,1.80,78,31-10-89,Bitola,Slavia Prague,Arka Gdynia,2010,Polish
+28,28,Krystian Żołnierewicz,POL,D,1.90,86,21-04-93,Elbląg,UKS Cisowa,Arka Gdynia,2010,Polish
+29,29,Robert Bednarek,POL,D,1.80,80,23-02-79,Bydgoszcz,Korona Kielce,Arka Gdynia,2010,Polish
+31,31,Paweł Czoska,POL,F,1.81,64,31-07-90,Wejherowo,None,Arka Gdynia,2010,Polish
+32,32,Adrian Sulima,POL,M,1.70,66,20-06-90,Wejherowo,None,Arka Gdynia,2010,Polish
+35,35,Michał Szromnik,POL,G,1.90,80,04-03-93,Gdańsk,Gedania Gdańsk,Arka Gdynia,2010,Polish
+36,36,Denis Glavina,CRO,M,1.84,74,03-03-86,Čakovec,Vorskla Poltava,Arka Gdynia,2010,Polish
+37,37,Wojciech Wilczyński,POL,D,1.75,74,18-03-90,Słupsk,Gryf 95 Słupsk,Arka Gdynia,2010,Polish
+39,39,Hieronim Zoch,POL,G,1.83,79,30-09-90,Tczew,None,Arka Gdynia,2010,Polish
+3,3,Grzegorz Baran,POL,D,1.86,80,23-12-82,Przemyśl,Ruch Chorzów,GKS Bełchatów,2010,Polish
+4,4,Jacek Popek,POL,D,1.82,77,20-08-78,Płock,Orlen Płock,GKS Bełchatów,2010,Polish
+6,6,Szymon Sawala,POL,M,1.84,77,25-09-82,Sieraków,Polonia Bytom,GKS Bełchatów,2010,Polish
+8,8,Maciej  Małkowski,POL,M,1.70,65,19-03-85,Jastrzębie-Zdrój,Odra Wodzisław,GKS Bełchatów,2010,Polish
+9,9,Dawid Nowak,POL,F,1.78,68,30-11-84,Hrubieszów,Zdrój Ciechocinek,GKS Bełchatów,2010,Polish
+10,10,Mateusz Cetnarski,POL,M,1.75,71,06-07-88,Kolbuszowa,UKS SMS Bałucz,GKS Bełchatów,2010,Polish
+11,11,Pavel Komolov,RUS,M,1.75,67,10-03-89,St. Petersburg,algiris Vilnius,GKS Bełchatów,2010,Polish
+12,12,Łukasz Sapela,POL,G,1.86,81,21-09-82,Piotrków Trybunalski,None,GKS Bełchatów,2010,Polish
+14,14,Mate Lacić,CRO,D,1.86,80,12-09-80,Split,Zagłębie Lubin,GKS Bełchatów,2010,Polish
+15,15,Kamil Wenger,POL,D,1.87,70,12-12-91,Kluczbork,UKS SMS Łódź,GKS Bełchatów,2010,Polish
+17,17,Grzegorz Kuświk,POL,F,1.81,75,23-05-87,Ostrów Wielkopolski,Gawin Królewska Wola,GKS Bełchatów,2010,Polish
+19,19,Maciej Mysiak,POL,D,1.90,77,04-02-84,Radziszewo,Pogoń Szczecin,GKS Bełchatów,2010,Polish
+20,20,Paweł Buzała,POL,F,1.68,67,27-12-85,Złotów,Lechia Gdańsk,GKS Bełchatów,2010,Polish
+21,21,Marcin  Żewłakow,POL,F,1.83,79,22-04-76,Warsaw,APOEL,GKS Bełchatów,2010,Polish
+22,22,Grzegorz Fonfara,POL,D,1.76,70,08-06-83,Katowice,GKS Katowice,GKS Bełchatów,2010,Polish
+23,23,Tomasz Wróbel,POL,M,1.68,60,10-07-82,Tarnów,Górnik Polkowice,GKS Bełchatów,2010,Polish
+27,27,Zlatko Tanevski,MKD,D,1.89,84,03-08-83,Skopje,Lech  Poznań,GKS Bełchatów,2010,Polish
+28,28,Marcin Drzymont,POL,D,1.88,82,16-09-81,Sosnowiec,Korona Kielce,GKS Bełchatów,2010,Polish
+29,29,Mariusz Zawodziński,POL,M,1.71,65,11-02-89,Bełchatów,None,GKS Bełchatów,2010,Polish
+41,45,Bartłomiej Bartosiak,POL,M,1.76,68,26-02-91,Bełchatów,None,GKS Bełchatów,2010,Polish
+42,51,Łukasz Bocian,POL,M,1.78,72,29-05-88,Pabianice,Włókniarz Pabianice,GKS Bełchatów,2010,Polish
+43,52,Kamil Paprocki,POL,G,1.89,81,11-08-89,Bełchatów,None,GKS Bełchatów,2010,Polish
+44,53,Łukasz  Budziłek,POL,G,1.86,81,19-03-91,Bełchatów,None,GKS Bełchatów,2010,Polish
+45,84,Wojciech Jarmuż,POL,D,1.83,74,05-01-84,Włocławek,Flota Świnoujście,GKS Bełchatów,2010,Polish
+46,99,Marcus Vinícius,BRA,F,1.82,67,29-03-84,Belford Roxo,Orkan Rumia,GKS Bełchatów,2010,Polish
+3,3,Milo  Kosanović,SRB,D,1.91,83,28-05-90,Čonoplja,Mladost Apatin,Cracovia Kraków,2010,Polish
+4,4,Marián Jarabica,SVK,D,1.93,83,27-04-89,Čadca,České Budějovice,Cracovia Kraków,2010,Polish
+6,6,Arek Radomski,POL,M,1.77,77,27-06-77,Gnieźno,NEC Nijmegen,Cracovia Kraków,2010,Polish
+7,7,Piotr Giza,POL,M,1.79,80,28-02-80,Kraków,Legia Warszawa,Cracovia Kraków,2010,Polish
+8,8,Hesdey Suart,NED,D,1.73,71,30-01-86,Capelle aan den IJssel,AGOVV Apeldoorn,Cracovia Kraków,2010,Polish
+9,9,Aleksejs Viŋakovs,LVA,M,1.73,71,03-02-84,Riga,Ventspils,Cracovia Kraków,2010,Polish
+11,11,Bojan Puzigaća,BIH,D,1.88,80,10-05-85,Drvar,Borac Banja Luka,Cracovia Kraków,2010,Polish
+12,12,Szymon Gąsiński,POL,G,1.96,92,08-07-83,Łódź,Polonia Bytom,Cracovia Kraków,2010,Polish
+14,14,Mariusz Sacha,POL,M,1.76,70,19-07-87,Bielsko-Biała,Podbeskidzie Bielsko-Biała,Cracovia Kraków,2010,Polish
+15,15,Vladimir Boljević,MNE,M,1.75,73,17-01-88,Podgorica,Zeta Golubovci,Cracovia Kraków,2010,Polish
+17,17,Saïdi  Ntibazonkiza,BDI,F,1.70,64,01-05-87,Bujumbura,NEC Nijmegen,Cracovia Kraków,2010,Polish
+18,18,Mateusz Bartczak,POL,M,1.82,82,15-08-79,Legnica,Zagłębie Lubin,Cracovia Kraków,2010,Polish
+19,19,Alexandru Suvorov,MDA,F,1.75,68,02-02-87,Chişinău,Sheriff Tiraspol,Cracovia Kraków,2010,Polish
+20,20,Marcin  Krzywicki,POL,F,2.00,87,29-11-86,Bydgoszcz,Victoria Koronowo,Cracovia Kraków,2010,Polish
+21,21,Sławomir Szeliga,POL,M,1.81,70,17-07-82,Rzeszów,Widzew Łódź,Cracovia Kraków,2010,Polish
+24,24,Łukasz Mierzejewski,POL,M,1.82,76,31-08-82,Ciechanów,Widzew Łódź,Cracovia Kraków,2010,Polish
+25,25,Andra Struna,SVN,D,1.85,72,23-04-89,Piran,Koper,Cracovia Kraków,2010,Polish
+26,26,Vule Trivunović,BIH,D,1.88,83,13-03-83,Glamoč,Borac Banja Luka,Cracovia Kraków,2010,Polish
+30,30,Milo  Budaković,SRB,G,1.92,85,10-07-91,abac,Mačva abac,Cracovia Kraków,2010,Polish
+32,32,Łukasz Nawotczyński,POL,D,1.89,83,30-03-82,Ciechanów,Korona Kielce,Cracovia Kraków,2010,Polish
+33,33,Pavol Masaryk,SVK,F,1.84,84,11-02-80,Radimov,AEL Limassol,Cracovia Kraków,2010,Polish
+37,37,Bartłomiej Dudzic,POL,F,1.80,72,18-08-88,Oświęcim,Unia Oświęcim,Cracovia Kraków,2010,Polish
+41,66,Mateusz Klich,POL,M,1.80,67,13-06-90,Tarnów,Tarnovia Tarnów,Cracovia Kraków,2010,Polish
+42,83,Wojciech  Kaczmarek,POL,G,2.02,93,29-03-83,Gostyń,Śląsk Wrocław,Cracovia Kraków,2010,Polish
+1,1,Adam  Stachowiak,POL,G,1.90,80,18-12-86,Poznań,Odra Wodzisław,Górnik Zabrze,2010,Polish
+2,2,Michał Pazdan,POL,D,1.80,76,21-09-87,Kraków,Hutnik Kraków,Górnik Zabrze,2010,Polish
+3,3,Mariusz  Jop,POL,D,1.88,81,03-08-78,Ostrowiec  Świętokrzyski,Wisła Kraków,Górnik Zabrze,2010,Polish
+5,5,Grzegorz Bonin,POL,M,1.88,78,02-12-83,Tczew,Korona Kielce,Górnik Zabrze,2010,Polish
+6,6,Aleksander Kwiek,POL,M,1.76,70,13-01-83,Wodzisław Śląski,Odra Wodzisław,Górnik Zabrze,2010,Polish
+7,7,Maciej Bębenek,POL,M,1.73,68,22-09-84,Kraków,Sandecja Nowy Sącz,Górnik Zabrze,2010,Polish
+8,8,Piotr Gierczak,POL,F,1.76,68,02-05-76,Ostrowiec Świętokrzyski,Ruch Radzionków,Górnik Zabrze,2010,Polish
+9,9,Michał Jonczyk,POL,M,1.80,80,11-03-92,Piotrków Trybunalski,Sandecja Nowy Sącz,Górnik Zabrze,2010,Polish
+10,10,Daniel Sikorski,AUT,F,1.83,73,02-11-87,Waidhofen an der Thaya,Bayern Munich,Górnik Zabrze,2010,Polish
+11,11,Marcin Wodecki,POL,F,1.75,65,14-01-88,Rybnik,ROW Rybnik,Górnik Zabrze,2010,Polish
+13,13,Maciej Mańka,POL,D,1.82,74,30-06-89,Tychy,GKS Tychy,Górnik Zabrze,2010,Polish
+14,14,Mateusz Zachara,POL,F,1.80,71,27-03-90,Częstochowa,Raków Częstochowa,Górnik Zabrze,2010,Polish
+16,16,Adam Marciniak,POL,D,1.86,78,28-09-88,Łódź,ŁKS  Łódź,Górnik Zabrze,2010,Polish
+17,17,Sebastian Leszczak,POL,F,1.73,68,20-01-92,Kraków,Wisła Kraków,Górnik Zabrze,2010,Polish
+18,18,Bartosz Kopacz,POL,D,1.88,80,21-05-92,Jastrzębie Zdrój,GKS Jastrzębie Zdrój,Górnik Zabrze,2010,Polish
+19,19,Mariusz Przybylski,POL,M,1.83,73,19-01-82,Częstochowa,Polonia Bytom,Górnik Zabrze,2010,Polish
+21,21,Mariusz Magiera,POL,D,1.78,71,25-08-84,Andrychów,Wisła Kraków,Górnik Zabrze,2010,Polish
+22,22,Tomasz Zahorski,POL,F,1.90,80,22-11-84,Olsztyn,Górnik Łęczna,Górnik Zabrze,2010,Polish
+23,23,Rafał Pietrzak,POL,D,1.76,69,30-01-92,Sosnowiec,Zagłębie Sosnowiec,Górnik Zabrze,2010,Polish
+24,24,Michael Bemben,GER,M,1.81,77,28-01-76,Ruda,Union Berlin,Górnik Zabrze,2010,Polish
+25,25,Adam Banaś,POL,D,1.85,79,25-12-82,Bytom,Piast Gliwice,Górnik Zabrze,2010,Polish
+26,26,Adam Danch,POL,D,1.80,73,15-12-87,Ruda Śląska,Gwarek Zabrze,Górnik Zabrze,2010,Polish
+28,28,Mateusz Sławik,POL,G,1.83,80,03-11-80,Katowice,Górnik Wesoła,Górnik Zabrze,2010,Polish
+30,30,Gabriel Nowak,POL,M,1.86,78,26-07-86,Rybnik,GKS Katowice,Górnik Zabrze,2010,Polish
+41,81,Róbert Je,SVK,M,1.78,73,10-07-81,Nitra,MK ilina,Górnik Zabrze,2010,Polish
+42,82,Sebastian Nowak,POL,G,1.97,93,13-01-82,Jastrzębie,Ruch Chorzów,Górnik Zabrze,2010,Polish
+43,88,Michal Gaparík,SVK,M,1.78,66,19-12-81,Trnava,DAC Dunajská Streda,Górnik Zabrze,2010,Polish
+1,1,Jakub Słowik,POL,G,1.90,82,31-08-91,Nowy Sącz,Sparta Oborniki,Jagiellonia Białystok,2010,Polish
+3,3,Mladen Kaćelan,MNE,M,1.78,70,13-02-83,Kotor,Karpaty Lviv,Jagiellonia Białystok,2010,Polish
+5,5,Andrius  Skerla,LTU,D,1.85,81,29-04-77,Vilnius,Korona Kielce,Jagiellonia Białystok,2010,Polish
+6,6,Luka Pejović,MNE,D,1.84,75,31-07-85,Podgorica,Mogren Budva,Jagiellonia Białystok,2010,Polish
+7,7,Franck Essomba,CMR,M,1.76,73,09-02-87,Douala,CA Bordj Bou Arreridj,Jagiellonia Białystok,2010,Polish
+8,8,Tomasz Kupisz,POL,M,1.80,76,02-01-90,Radom,Wigan Ath,Jagiellonia Białystok,2010,Polish
+9,9,Bartłomiej Grzelak,POL,F,1.88,81,09-08-81,Płock,Sibir Novosibirsk,Jagiellonia Białystok,2010,Polish
+10,10,Przemysław Jastrzębski,POL,F,1.82,71,09-02-93,Zambrów,Olimpia Zambrów,Jagiellonia Białystok,2010,Polish
+11,11,Hermes,BRA,M,1.68,66,19-09-74,São Paulo,Korona Kielce,Jagiellonia Białystok,2010,Polish
+12,12,Grzegorz Sandomierski,POL,G,1.96,87,05-09-89,Białystok,None,Jagiellonia Białystok,2010,Polish
+13,13,Jarosław Lato,POL,M,1.83,77,17-06-77,Świdnica,Polonia Warszawa,Jagiellonia Białystok,2010,Polish
+14,14,El-Mehdi Sidqy,MAR,D,1.90,80,06-01-84,Mohammédia,El Massira,Jagiellonia Białystok,2010,Polish
+15,15,Thiago Rangel Cionek,BRA,M,1.84,81,21-04-86,Curitiba,CRB,Jagiellonia Białystok,2010,Polish
+17,17,Alexis Norambuena,CHI,D,1.76,70,31-03-84,Valdivia,Ñublense,Jagiellonia Białystok,2010,Polish
+18,18,Bartłomiej Pawłowski,POL,M,1.78,70,13-11-92,Zgierz,Promień Opalenica,Jagiellonia Białystok,2010,Polish
+20,20,Maciej Makuszewski,POL,M,1.76,70,29-09-89,Grajewo,Wigry Suwałki,Jagiellonia Białystok,2010,Polish
+21,21,Tomasz  Frankowski,POL,F,1.72,64,16-08-74,Białystok,Chicago Fire,Jagiellonia Białystok,2010,Polish
+22,22,Rafał Grzyb,POL,M,1.75,75,16-01-83,Jędrzejów,Polonia Bytom,Jagiellonia Białystok,2010,Polish
+23,23,Marcin Burkhardt,POL,M,1.86,80,25-09-83,Elbląg,Metalist Kharkiv,Jagiellonia Białystok,2010,Polish
+24,24,Tadas Kijanskas,LTU,D,1.84,76,06-09-85,Vilnius,Suduva,Jagiellonia Białystok,2010,Polish
+25,25,Robert Arzumanyan,ARM,D,1.83,69,24-07-85,Yerevan,Randers,Jagiellonia Białystok,2010,Polish
+26,26,Bartosz Soczyński,POL,D,1.85,78,15-06-90,Łódź,Grom Plewiska,Jagiellonia Białystok,2010,Polish
+29,29,Tomasz Ptak,POL,G,1.94,84,09-02-92,Braniewo,Górnik Konin,Jagiellonia Białystok,2010,Polish
+31,31,Ermin Seratlić,MNE,M,1.85,77,21-08-90,Podgorica,Mladost Podgorica,Jagiellonia Białystok,2010,Polish
+33,33,Piotr  Lipka,POL,G,1.93,83,28-04-93,Kętrzyn,MKS Korsze,Jagiellonia Białystok,2010,Polish
+3,3,Kamil Kuzera,POL,D,1.81,75,11-03-83,Kielce,Polonia Warszawa,Korona Kielce,2010,Polish
+4,4,Hernâni,BRA,D,1.90,90,03-02-84,Antônio Carlos,Górnik Zabrze,Korona Kielce,2010,Polish
+5,5,Aleksandar Vuković,SRB,M,1.86,82,25-08-79,Banja Luka,Iraklis,Korona Kielce,2010,Polish
+6,6,Paweł Golański,POL,D,1.83,74,12-10-82,Łódź,Steaua Bucureşti,Korona Kielce,2010,Polish
+7,7,Sander Puri,EST,M,1.77,65,07-05-88,Tartu,Larissa,Korona Kielce,2010,Polish
+8,8,Vlastimir Jovanović,BIH,M,1.82,77,03-04-85,Zenica,Slavija,Korona Kielce,2010,Polish
+11,11,Dawid Janczyk,POL,F,1.83,81,23-09-87,Nowy Sącz,CSKA Moscow,Korona Kielce,2010,Polish
+13,13,Grzegorz Szamotulski,POL,G,1.88,91,13-05-76,Gdańsk,Dunajská Streda,Korona Kielce,2010,Polish
+14,14,Marek Nowak,POL,M,1.74,68,27-02-92,Radom,Proch Pionki,Korona Kielce,2010,Polish
+15,15,Jacek Markiewicz,POL,M,1.82,78,18-04-76,Białystok,Jagiellonia Białystok,Korona Kielce,2010,Polish
+16,16,Edi Andradina,BRA,M,1.77,76,13-09-74,Andradina,Pogoń Szczecin,Korona Kielce,2010,Polish
+17,17,Pavol Staňo,SVK,D,1.92,90,29-09-77,Čierna,Jagiellonia Białystok,Korona Kielce,2010,Polish
+18,18,Tomasz  Lisowski,POL,D,1.80,80,04-04-85,Braniewo,Widzew Łódź,Korona Kielce,2010,Polish
+19,19,Artur Cebula,POL,D,1.70,65,17-02-93,Stalowa Wola,Stal Stalowa Wola,Korona Kielce,2010,Polish
+20,20,Maciej Korzym,POL,F,1.80,77,02-05-88,Nowy Sącz,Legia Warszawa,Korona Kielce,2010,Polish
+21,21,Łukasz Maliszewski,POL,M,1.84,71,27-04-85,,GKP Gorzów Wielkopolski,Korona Kielce,2010,Polish
+22,22,Grzegorz Lech,POL,M,1.80,72,10-01-83,Kętrzyn,Dolcan Ząbki,Korona Kielce,2010,Polish
+23,23,Andrzej Niedzielan,POL,F,1.80,76,27-02-79,Zary,Ruch Chorzów,Korona Kielce,2010,Polish
+27,27,Dirceu,BRA,D,1.81,80,29-01-89,São Paulo,Palmeiras,Korona Kielce,2010,Polish
+29,29,Paweł Sobolewski,POL,M,1.73,62,20-06-79,Ełk,Jagiellonia Białystok,Korona Kielce,2010,Polish
+30,30,Jakub Bąk,POL,F,1.73,66,28-05-93,Rzeszów,Stal Rzeszów,Korona Kielce,2010,Polish
+31,31,Maciej Tataj,POL,F,1.81,76,09-01-80,Warsaw,Dolcan Ząbki,Korona Kielce,2010,Polish
+32,32,Paweł Mech,POL,G,1.93,84,08-06-92,Kielce,None,Korona Kielce,2010,Polish
+33,33,Zbigniew Małkowski,POL,G,1.88,79,19-01-78,Olsztyn,OKS 1945 Olsztyn,Korona Kielce,2010,Polish
+34,34,Piotr Malarczyk,POL,D,1.89,74,01-08-91,Kielce,None,Korona Kielce,2010,Polish
+41,80,Krzysztof Pilarz,POL,G,1.84,78,09-11-80,Nowy Dwór Gdański,Ruch Chorzów,Korona Kielce,2010,Polish
+1,1,Paweł Kapsa,POL,G,1.86,80,24-07-82,Staszów,KSZO Ostrowiec,Lechia Gdańsk,2010,Polish
+2,2,Rafał Janicki,POL,D,1.88,79,05-07-92,Szczecin,Chemik Police,Lechia Gdańsk,2010,Polish
+3,3,Vytautas Andriukevičius,LTU,D,1.88,80,08-10-90,Alytus,FBK Kaunas,Lechia Gdańsk,2010,Polish
+4,4,Sergejs Kożans,LVA,D,1.92,88,18-02-86,Riga,Skonto,Lechia Gdańsk,2010,Polish
+5,5,Krzysztof  Bąk,POL,M,1.88,82,22-06-82,Warsaw,Polonia Warszawa,Lechia Gdańsk,2010,Polish
+6,6,Luka Vučko,CRO,D,1.97,93,11-04-84,Split,Eskişehirspor,Lechia Gdańsk,2010,Polish
+7,7,Abdou Razack Traoré,BFA,M,1.70,64,28-12-88,Abidjan,Rosenborg,Lechia Gdańsk,2010,Polish
+8,8,Łukasz Surma,POL,M,1.77,70,28-06-77,Kraków,Admira Wacker,Lechia Gdańsk,2010,Polish
+9,9,Aliaksandr Sazankov,BLR,F,1.81,78,18-03-84,Mogilev,Dinamo Minsk,Lechia Gdańsk,2010,Polish
+10,10,Tomasz Dawidowski,POL,F,1.79,77,04-02-78,Gdynia,Wisła Kraków,Lechia Gdańsk,2010,Polish
+11,11,Ivans Lukjanovs,LVA,F,1.85,72,24-01-87,Daugavpils,Skonto,Lechia Gdańsk,2010,Polish
+14,14,Piotr Wiśniewski,POL,F,1.77,72,11-08-82,Starogard Gdański,Kaszubia  Kościerzyna,Lechia Gdańsk,2010,Polish
+16,16,Jakub Popielarz,POL,M,1.76,71,16-03-90,Dukla,Karpaty Krosno,Lechia Gdańsk,2010,Polish
+17,17,Marcin Pietrowski,POL,M,1.84,79,01-03-88,Gdańsk,None,Lechia Gdańsk,2010,Polish
+18,18,Bédi Buval,FRA,F,1.80,70,16-06-86,Domont,Panionios,Lechia Gdańsk,2010,Polish
+19,19,Tomasz Bobrowski,POL,F,1.83,75,07-03-90,,Granica Kętrzyn,Lechia Gdańsk,2010,Polish
+20,20,Levon Hayrapetyan,ARM,D,1.78,73,17-04-89,Yerevan,Pyunik,Lechia Gdańsk,2010,Polish
+22,22,Paweł Nowak,POL,M,1.73,63,27-01-79,Kraków,Cracovia Kraków,Lechia Gdańsk,2010,Polish
+23,23,Marko Bajić,SRB,M,1.88,82,28-09-85,Belgrade,Górnik Zabrze,Lechia Gdańsk,2010,Polish
+24,24,Wojciech Pawłowski,POL,G,1.90,80,18-01-93,Koszalin,Bałtyk Koszalin,Lechia Gdańsk,2010,Polish
+25,25,Kamil Poźniak,POL,M,1.82,70,11-12-89,Krasnystaw,GKS Bełchatów,Lechia Gdańsk,2010,Polish
+26,26,Deleu,BRA,D,1.76,77,01-03-84,Penedo,Metropolitano,Lechia Gdańsk,2010,Polish
+27,27,Patryk Brzeski,POL,M,1.81,74,17-03-92,Gdańsk,None,Lechia Gdańsk,2010,Polish
+28,28,Krystian Żabko,POL,D,1.80,73,05-02-93,Pasłęk,Polonia Pasłęk,Lechia Gdańsk,2010,Polish
+33,33,Sebastian Małkowski,POL,G,1.94,90,02-03-87,Tczew,Olimpia Sztum,Lechia Gdańsk,2010,Polish
+1,1,Grzegorz Kasprzik,POL,G,1.87,83,20-09-83,Pyskowice,Piast Gliwice,Lech Poznań,2010,Polish
+2,2,Seweryn Gancarczyk,POL,D,1.83,74,22-11-81,Zamość,Metalist Kharkiv,Lech Poznań,2010,Polish
+3,3,Ivan Djurdjević,SRB,D,1.83,81,05-02-77,Belgrade,Belenenses,Lech Poznań,2010,Polish
+5,5,Manuel Arboleda,COL,D,1.88,84,02-08-79,Buenaventura,Zagłębie Lubin,Lech Poznań,2010,Polish
+6,6,Tomasz Bandrowski,POL,M,1.77,67,18-06-81,Zabrze,Energie Cottbus,Lech Poznań,2010,Polish
+7,7,Jakub Wilk,POL,M,1.77,70,11-07-85,Poznań,None,Lech Poznań,2010,Polish
+8,8,Jacek Kiełb,POL,F,1.83,70,10-01-88,Siedlce,Korona Kielce,Lech Poznań,2010,Polish
+10,10,Sergey Krivets,BLR,M,1.77,77,08-06-86,Grodno,BATE,Lech Poznań,2010,Polish
+11,11,Rafał Murawski,POL,M,1.75,76,09-10-81,Malbork,Rubin Kazan,Lech Poznań,2010,Polish
+14,14,Semir tilić,BIH,M,1.83,75,08-10-87,Sarajevo,eljezničar,Lech Poznań,2010,Polish
+15,15,Kamil Drygas,POL,M,1.84,72,07-09-91,Kępno,Amica Wronki,Lech Poznań,2010,Polish
+16,16,Artjoms  Rudņevs,LVA,F,1.78,80,13-01-88,Daugvapils,Zalaegerszeg,Lech Poznań,2010,Polish
+18,18,Bartosz Ślusarski,POL,F,1.85,79,11-12-81,Szamocin,Cracovia Kraków,Lech Poznań,2010,Polish
+19,19,Bartosz Bosacki,POL,D,1.89,81,20-12-75,Poznań,Nürnberg,Lech Poznań,2010,Polish
+20,20,Hubert Wołąkiewicz,POL,D,1.82,70,21-10-85,Skarżysko-Kamienna,Lechia Gdańsk,Lech Poznań,2010,Polish
+21,21,Dimitrije Injać,SRB,M,1.82,77,12-08-80,Novi Sad,Slavija Sarajevo,Lech Poznań,2010,Polish
+22,22,Grzegorz Wojtkowiak,POL,D,1.84,76,26-01-84,Kostrzyn nad Odrą,Amica Wronki,Lech Poznań,2010,Polish
+23,23,Marcin Kikut,POL,D,1.78,76,25-06-83,Barlinek,Amica Wronki,Lech Poznań,2010,Polish
+25,25,Luis Henriquez,PAN,D,1.75,69,23-11-81,Ciudad de Panamá,Tauro FC,Lech Poznań,2010,Polish
+26,26,Tomasz Mikołajczak,POL,F,1.88,82,11-12-87,,Nielba Wągrowiec,Lech Poznań,2010,Polish
+27,27,Krzysztof Kotorowski,POL,G,1.86,85,12-09-76,Poznań,Błękitni Stargard,Lech Poznań,2010,Polish
+28,28,Vojo Ubiparip,SRB,F,1.80,72,10-05-88,Novi Sad,Spartak Zlatibor Voda,Lech Poznań,2010,Polish
+30,30,Jasmin Burić,BIH,G,1.91,80,18-02-87,Zenica,Čelik Zenica,Lech Poznań,2010,Polish
+32,32,Mateusz Możdżeń,POL,M,1.80,76,14-03-91,Warsaw,Amica Wronki,Lech Poznań,2010,Polish
+34,34,Wojciech Golla,POL,M,1.82,80,12-01-92,Złotów,Sparta Złotów,Lech Poznań,2010,Polish
+35,35,Marcin  Kamiński,POL,D,1.89,71,15-01-92,Konin,Aluminium Konin,Lech Poznań,2010,Polish
+1,1,Marijan Antolović,CRO,G,1.95,87,07-05-89,Vinkovci,Cibalia,Legia Warszawa,2010,Polish
+2,2,Artur Jędrzejczyk,POL,D,1.89,78,04-11-87,Dębica,Igloopol Dębica,Legia Warszawa,2010,Polish
+4,4,Dickson Choto,ZIM,D,1.92,99,19-03-81,Wedza,Pogoń Szczecin,Legia Warszawa,2010,Polish
+5,5,Janusz Gol,POL,M,1.82,77,11-11-85,Świdnica,GKS Bełchatów,Legia Warszawa,2010,Polish
+7,7,Michal Hubník,CZE,F,1.84,80,01-06-83,,Sigma Olomouc,Legia Warszawa,2010,Polish
+9,9,Manú,POR,F,1.71,68,28-08-82,Setúbal,Marítimo,Legia Warszawa,2010,Polish
+11,11,Tomasz Kiełbowicz,POL,D,1.79,72,21-02-76,Hrubieszów,Polonia Warszawa,Legia Warszawa,2010,Polish
+13,13,Dejan Kelhar,SVN,D,1.88,85,05-04-84,Breice,Cercle Brugge,Legia Warszawa,2010,Polish
+14,14,Jakub Wawrzyniak,POL,D,1.88,85,07-07-83,Kutno,Widzew Łódź,Legia Warszawa,2010,Polish
+15,15,Iñaki Astiz,ESP,D,1.85,73,05-11-83,Pamplona,Osasuna,Legia Warszawa,2010,Polish
+16,16,Ariel Borysiuk,POL,M,1.78,70,29-07-91,Biała Podlaska,TOP 54 Biała Podlaska,Legia Warszawa,2010,Polish
+17,17,Marcin Komorowski,POL,D,1.86,75,17-04-84,Pabianice,Polonia Bytom,Legia Warszawa,2010,Polish
+18,18,Michał Kucharczyk,POL,F,1.78,72,20-03-91,Warsaw,Świt Nowy Dwór,Legia Warszawa,2010,Polish
+20,20,Sebastian Szałachowski,POL,M,1.74,71,21-01-84,Lublin,Górnik Łęczna,Legia Warszawa,2010,Polish
+21,21,Ivica Vrdoljak,CRO,D,1.87,83,19-09-83,Novi Sad,Dinamo Zagreb,Legia Warszawa,2010,Polish
+23,23,Srdjan Kneević,SRB,D,1.80,77,15-04-85,Belgrade,Partizan  Belgrade,Legia Warszawa,2010,Polish
+24,24,Michał Efir,POL,F,1.81,73,14-04-92,Lublin,Wieniawa Lublin,Legia Warszawa,2010,Polish
+25,25,Jakub Rzeźniczak,POL,D,1.83,79,26-10-86,Łódź,Widzew Łódź,Legia Warszawa,2010,Polish
+27,27,Alejandro Cabral,ARG,M,1.85,76,11-09-87,Capital Federal,Vélez Sarsfield,Legia Warszawa,2010,Polish
+28,28,Rafał Wolski,POL,M,1.79,66,10-11-92,Gmina Głowaczów,Jastrząb Głowaczów,Legia Warszawa,2010,Polish
+29,29,Jakub Szumski,POL,G,1.94,78,06-03-92,Warsaw,None,Legia Warszawa,2010,Polish
+31,31,Maciej Rybus,POL,M,1.72,75,19-08-89,Łowicz,MSP Szamotuły,Legia Warszawa,2010,Polish
+32,32,Miroslav Radović,SRB,M,1.82,76,16-01-84,Zemun,Partizan Belgrade,Legia Warszawa,2010,Polish
+33,33,Michał  Żyro,POL,M,1.89,78,20-09-92,Warsaw,KS Piaseczno,Legia Warszawa,2010,Polish
+34,34,Daniel Łukasik,POL,M,1.80,75,28-04-91,Giżycko,Warmia Olsztyn,Legia Warszawa,2010,Polish
+41,77,Felix Ogbuke,NGA,F,1.83,82,18-09-85,Enugu,Apollon Limassol,Legia Warszawa,2010,Polish
+42,80,Bruno Mezenga,BRA,F,1.85,75,08-08-88,Niterói,Flamengo,Legia Warszawa,2010,Polish
+43,82,Takesure Chinyama,ZIM,F,1.84,88,30-09-82,Seke,Groclin Dyskobolia,Legia Warszawa,2010,Polish
+44,84,Wojciech Skaba,POL,G,1.90,81,09-04-84,Rybnik,Odra Wodzisław,Legia Warszawa,2010,Polish
+1,1,Marcin Juszczyk,POL,G,1.86,77,23-01-85,Kraków,Wisła Kraków,Polonia Bytom,2010,Polish
+2,2,Luká Killar,CZE,D,1.91,83,05-08-81,Opočno,Kladno,Polonia Bytom,2010,Polish
+3,3,Mateusz  Żytko,POL,D,1.87,80,27-11-82,Wrocław,Wisła Płock,Polonia Bytom,2010,Polish
+4,4,Łukasz Tymiński,POL,M,1.73,67,08-11-90,Żywiec,Śląsk Wrocław,Polonia Bytom,2010,Polish
+5,5,Adrian Chomiuk,POL,D,1.70,68,23-06-88,Biała Podlaska,Gwarek Zabrze,Polonia Bytom,2010,Polish
+7,7,Miroslav Barčík,SVK,M,1.73,71,26-05-78,Čadca,Spartak Trnava,Polonia Bytom,2010,Polish
+8,8,Peter Hricko,SVK,D,1.77,76,25-07-81,Gelnica,HFC Humenné,Polonia Bytom,2010,Polish
+9,9,Clement Matawu,ZIM,M,1.77,74,29-11-82,,Motor Action,Polonia Bytom,2010,Polish
+10,10,Grzegorz Podstawek,POL,F,1.82,77,25-06-79,Wrocław,Podbeskidzie Bielsko-Biała,Polonia Bytom,2010,Polish
+11,11,Emil  Drozdowicz,POL,F,1.78,76,05-07-86,Sulęcin,GKP Gorzów  Wielkopolski,Polonia Bytom,2010,Polish
+13,13,David Kobylik,CZE,M,1.78,69,27-06-81,Olomouc,MK ilina,Polonia Bytom,2010,Polish
+14,14,Robert  Wojsyk,POL,F,1.85,75,11-09-90,Tarnowskie Góry,MLKS Woźniki,Polonia Bytom,2010,Polish
+15,15,Marcin Dziewulski,POL,M,1.82,76,24-10-82,Tarnowskie Góry,Ruch Radzionków,Polonia Bytom,2010,Polish
+16,16,Dariusz Jarecki,POL,M,1.82,72,23-03-81,Barlinek,Jagiellonia Białystok,Polonia Bytom,2010,Polish
+17,17,Łukasz Matusiak,POL,M,1.87,85,07-05-85,,Podbeskidzie Bielsko-Biała,Polonia Bytom,2010,Polish
+18,18,Blaej Vačák,SVK,F,1.85,84,21-11-83,Krompachy,MFK Koice,Polonia Bytom,2010,Polish
+19,19,Marek Baík,SVK,M,1.68,66,09-02-76,Banská Bystrica,Viktoria ikov,Polonia Bytom,2010,Polish
+20,20,Marcin Radzewicz,POL,M,1.76,69,30-06-80,Jastrzębie Zdrój,Piast Gliwice,Polonia Bytom,2010,Polish
+21,21,Karol Tomczyk,POL,D,1.87,72,05-09-89,Częstochowa,Victoria Częstochowa,Polonia Bytom,2010,Polish
+23,23,Błażej Telichowski,POL,D,1.87,81,06-06-84,Nowy Tomyśl,Polonia Warszawa,Polonia Bytom,2010,Polish
+26,26,Przemysław Trytko,POL,F,1.89,83,28-08-87,Strzelce Opolskie,Jagiellonia Białystok,Polonia Bytom,2010,Polish
+27,27,Michal Hanek,SVK,D,1.84,79,18-09-80,Trenčín,Tatran Preov,Polonia Bytom,2010,Polish
+28,28,Krzysztof  Król,POL,D,1.83,80,06-02-87,Rydułtowy,Jagiellonia Białystok,Polonia Bytom,2010,Polish
+29,29,Mateusz Zaczyński,POL,M,1.67,64,30-07-91,,MLKS Woźniki,Polonia Bytom,2010,Polish
+34,34,Michał  Płókarz,POL,F,1.77,68,19-09-90,Gdańsk,Lechia Gdańsk,Polonia Bytom,2010,Polish
+41,87,Seweryn Kiełpin,POL,G,1.84,81,18-12-87,Kościerzyna,Koszarawa Żywiec,Polonia Bytom,2010,Polish
+42,99,Michał Misiewicz,CAN,G,1.88,82,11-10-90,Athens,Sunderland,Polonia Bytom,2010,Polish
+1,1,Michał Gliwa,POL,G,1.88,76,08-04-88,Rzeszów,Groclin Dyskobolia,Polonia Warszawa,2010,Polish
+2,2,Radek Mynář,CZE,D,1.77,69,22-11-74,České Budějovice,Groclin Dyskobolia,Polonia Warszawa,2010,Polish
+3,3,Dariusz Pietrasiak,POL,D,1.86,81,12-02-80,Sandomierz,GKS Bełchatów,Polonia Warszawa,2010,Polish
+5,5,Djordje Čotra,SRB,D,1.86,75,13-09-84,Benkovac,Rad,Polonia Warszawa,2010,Polish
+6,6,Tomasz Jodłowiec,POL,D,1.90,86,22-03-85,Żywiec,Groclin Dyskobolia,Polonia Warszawa,2010,Polish
+7,7,Janusz  Gancarczyk,POL,M,1.79,75,19-06-84,Oława,Śląsk Wrocław,Polonia Warszawa,2010,Polish
+9,9,Ebi Smolarek,POL,F,1.78,68,09-01-81,Łódź,Kavala,Polonia Warszawa,2010,Polish
+10,10,Adrian Mierzejewski,POL,M,1.76,73,06-11-86,Olsztyn,Wisła Płock,Polonia Warszawa,2010,Polish
+13,13,Adam Kokoszka,POL,D,1.86,78,06-10-86,Andrychów,Empoli,Polonia Warszawa,2010,Polish
+15,15,Dzmitry  Rekish,BLR,M,1.85,77,14-09-88,Babruysk,Dinamo Minsk,Polonia Warszawa,2010,Polish
+16,16,Andreu,ESP,M,1.79,67,17-06-83,Barcelona,Sporting Gijón,Polonia Warszawa,2010,Polish
+17,17,Łukasz  Teodorczyk,POL,F,1.85,78,03-06-91,Żuromin,Wkra Żuromin,Polonia Warszawa,2010,Polish
+18,18,Łukasz Trałka,POL,M,1.86,77,11-05-84,Rzeszów,Lechia Gdańsk,Polonia Warszawa,2010,Polish
+19,19,Daniel Gołębiewski,POL,F,1.86,76,15-07-87,Wyszków,MOSiR Wyszków,Polonia Warszawa,2010,Polish
+20,20,Patryk Rachwał,POL,M,1.76,70,27-01-81,Zabrze,GKS Bełchatów,Polonia Warszawa,2010,Polish
+21,21,Maciej Sadlok,POL,M,1.81,72,29-06-89,Oświęcim,Ruch Chorzów,Polonia Warszawa,2010,Polish
+22,22,Tomasz Brzyski,POL,M,1.72,69,10-01-82,Lublin,Ruch Chorzów,Polonia Warszawa,2010,Polish
+23,23,Paweł Wszołek,POL,F,1.86,77,30-04-92,Tczew,Lechia Gdańsk,Polonia Warszawa,2010,Polish
+24,24,Jakub Tosik,POL,D,1.82,74,21-05-87,Zelów,GKS Bełchatów,Polonia Warszawa,2010,Polish
+28,28,Łukasz  Piątek,POL,M,1.80,71,21-09-85,Warsaw,None,Polonia Warszawa,2010,Polish
+30,30,Łukasz Skowron,POL,G,1.86,84,17-03-91,Sierpc,Wisła Płock,Polonia Warszawa,2010,Polish
+32,32,Bruno  Coutinho,BRA,M,1.85,80,21-06-86,Porto Alegre,Jagiellonia Białystok,Polonia Warszawa,2010,Polish
+41,44,Milo Adamović,SRB,M,1.76,69,19-06-88,Belgrade,Sheriff Tiraspol,Polonia Warszawa,2010,Polish
+42,81,Sebastian Przyrowski,POL,G,1.92,79,30-11-81,Białobrzegi,Groclin Dyskobolia,Polonia Warszawa,2010,Polish
+43,90,Artur Sobiech,POL,F,1.84,75,12-06-90,Ruda Śląska,Ruch Chorzów,Polonia Warszawa,2010,Polish
+1,1,Mateusz Struski,POL,G,1.95,84,18-05-88,Pszczyna,Walka Makoszowy,Ruch Chorzów,2010,Polish
+2,2,Piotr Stawarczyk,POL,D,1.92,87,29-09-83,Kraków,Widzew Łódź,Ruch Chorzów,2010,Polish
+4,4,eljko  Djokić,SRB,D,1.88,85,10-05-82,Novi Sad,Javor Ivanjica,Ruch Chorzów,2010,Polish
+5,5,Marek Zieńczuk,POL,M,1.83,75,24-09-78,Gdańsk,Lechia Gdańsk,Ruch Chorzów,2010,Polish
+6,6,Wojciech Grzyb,POL,D,1.76,73,21-12-74,Mysłowice,Odra Wodzisław,Ruch Chorzów,2010,Polish
+7,7,Maciej Jankowski,POL,F,1.80,69,04-01-90,Warsaw,KS Piaseczno,Ruch Chorzów,2010,Polish
+8,8,Krzysztof Nykiel,POL,D,1.86,79,08-08-82,Łódź,Radomiak Radom,Ruch Chorzów,2010,Polish
+10,10,Sebastian Olszar,POL,F,1.82,74,16-12-81,Cieszyn,Piast Gliwice,Ruch Chorzów,2010,Polish
+11,11,Łukasz Derbich,POL,D,1.87,84,23-10-83,Pleszew,Cracovia Kraków,Ruch Chorzów,2010,Polish
+14,14,Łukasz Janoszka,POL,F,1.80,73,18-03-87,Bytom,None,Ruch Chorzów,2010,Polish
+15,15,Rafał Grodzicki,POL,D,1.92,96,28-10-83,Kraków,GKS Bełchatów,Ruch Chorzów,2010,Polish
+17,17,Michał Pulkowski,POL,M,1.78,72,01-01-79,Warsaw,Świt Nowy Dwór,Ruch Chorzów,2010,Polish
+18,18,Arkadiusz Piech,POL,F,1.71,72,07-06-85,Świdnica,Widzew Łódź,Ruch Chorzów,2010,Polish
+19,19,Michal Steinke,POL,D,1.95,85,19-08-88,Poznań,Tur Turek,Ruch Chorzów,2010,Polish
+20,20,Marek Szyndrowski,POL,D,1.84,75,30-10-80,Świętochłowice,GKS Bełchatów,Ruch Chorzów,2010,Polish
+22,22,Andrej Komac,SVN,M,1.76,72,04-12-79,Nova Gorica,Maccabi Tel-Aviv,Ruch Chorzów,2010,Polish
+23,23,Marcin Malinowski,POL,M,1.79,74,06-11-75,Wodzisław Śląski,Odra Wodzisław,Ruch Chorzów,2010,Polish
+24,24,Grzegorz Bronowicki,POL,M,1.78,77,04-08-80,Jaszczów,Górnik Łęczna,Ruch Chorzów,2010,Polish
+27,27,Bartosz Flis,POL,F,1.72,60,14-04-91,Gryfino,Salos Szczecin,Ruch Chorzów,2010,Polish
+28,28,Gábor Straka,SVK,M,1.80,72,18-12-81,Dunajská Streda,Artmedia Petralka,Ruch Chorzów,2010,Polish
+29,29,Ariel Jakubowski,POL,D,1.82,80,07-09-77,Człuchów,Jagiellonia Białystok,Ruch Chorzów,2010,Polish
+30,30,Matko Perdijić,CRO,G,1.95,94,25-06-82,Split,GOK Dubrovnik,Ruch Chorzów,2010,Polish
+31,31,Paweł Lisowski,POL,M,1.78,76,08-10-91,Szczecin,Salos Szczecin,Ruch Chorzów,2010,Polish
+33,33,Michal Pekovič,SVK,G,1.88,86,08-02-82,Bratislava,Aris,Ruch Chorzów,2010,Polish
+41,99,Paweł Abbott,POL,F,1.87,87,05-05-82,York,Charlton Ath,Ruch Chorzów,2010,Polish
+2,2,Krzysztof  Wołczek,POL,D,1.80,72,17-04-79,Wrocław,Aluminium Konin,Śląsk Wrocław,2010,Polish
+3,3,Piotr  Celeban,POL,D,1.81,76,25-06-85,Szczecin,Korona Kielce,Śląsk Wrocław,2010,Polish
+4,4,Amir Spahić,BIH,D,1.88,84,13-09-83,Sarajevo,Torpedo Moscow,Śląsk Wrocław,2010,Polish
+5,5,Waldemar Sobota,POL,M,1.75,60,19-05-87,Ozimek,MKS Kluczbork,Śląsk Wrocław,2010,Polish
+6,6,Tomasz Szewczuk,POL,F,1.85,81,03-12-78,Lubin,Korona Kielce,Śląsk Wrocław,2010,Polish
+7,7,Sebastian Dudek,POL,M,1.82,76,19-01-80,Żary,Promień Żary,Śląsk Wrocław,2010,Polish
+8,8,Łukasz Madej,POL,M,1.76,70,14-04-82,Łódź,Académica,Śląsk Wrocław,2010,Polish
+9,9,Marek Gancarczyk,POL,F,1.78,72,19-02-83,Grodków,Górnik Polkowice,Śląsk Wrocław,2010,Polish
+11,11,Sebastian  Mila,POL,M,1.78,67,10-07-82,Koszalin,Vålerenga,Śląsk Wrocław,2010,Polish
+14,14,Ljubia Vukelja,SRB,F,1.81,78,22-07-83,Novi Sad,Borac Banja Luka,Śląsk Wrocław,2010,Polish
+15,15,Dawid Abramowicz,POL,D,1.86,76,16-05-91,Brzeg Dolny,KP Brzeg Dolny,Śląsk Wrocław,2010,Polish
+16,16,Remigiusz Jezierski,POL,F,1.78,78,19-01-76,Świdnica,Jagiellonia Białystok,Śląsk Wrocław,2010,Polish
+17,17,Mariusz Pawelec,POL,D,1.80,72,14-04-86,Lublin,Górnik Łęczna,Śląsk Wrocław,2010,Polish
+18,18,Robert Menzel,POL,D,1.92,80,14-02-91,Wrocław,Wratislavia Wrocław,Śląsk Wrocław,2010,Polish
+19,19,Dariusz Sztylka,POL,M,1.88,75,02-05-78,Wrocław,Polar Wrocław,Śląsk Wrocław,2010,Polish
+20,20,Piotr Ćwielong,POL,F,1.72,70,23-04-86,Chorzów,Wisła Kraków,Śląsk Wrocław,2010,Polish
+21,21,Cristián Omar Díaz,ARG,F,1.83,79,03-11-86,San Miguel de Tucumán,San José,Śląsk Wrocław,2010,Polish
+22,22,Antoni Łukasiewicz,POL,M,1.88,80,26-06-83,Warsaw,Elche,Śląsk Wrocław,2010,Polish
+23,23,Jarosław Fojut,POL,D,1.88,83,17-10-87,Legionowo,Bolton W,Śląsk Wrocław,2010,Polish
+24,24,Tadeusz Socha,POL,D,1.82,63,15-02-88,Wrocław,None,Śląsk Wrocław,2010,Polish
+25,25,Marijan  Kelemen,SVK,G,1.88,82,07-12-79,Michalovce,Aris,Śląsk Wrocław,2010,Polish
+26,26,Przemysław Kaźmierczak,POL,M,1.91,79,05-05-82,Łódź,FC Porto,Śląsk Wrocław,2010,Polish
+27,27,Łukasz Gikiewicz,POL,F,1.88,75,26-10-87,Olsztyn,ŁKS Łódź,Śląsk Wrocław,2010,Polish
+28,28,Jakub Więzik,POL,F,1.95,86,15-07-91,,Podbeskidzie Bielsko-Biała,Śląsk Wrocław,2010,Polish
+29,29,Rok Elsner,SVN,M,1.86,75,25-01-89,Ljubljana,Haugesund,Śląsk Wrocław,2010,Polish
+33,33,Rafał  Gikiewicz,POL,G,1.90,82,26-10-87,Olsztyn,Jagiellonia Białystok,Śląsk Wrocław,2010,Polish
+1,1,Michał Pytkowski,POL,G,1.95,86,20-04-89,Warsaw,Olimpia Grudziądz,Widzew Łódź,2010,Polish
+2,2,Wojciech Szymanek,POL,D,1.85,81,01-03-82,Warsaw,Egaleo,Widzew Łódź,2010,Polish
+3,3,Bruno Pinheiro,POR,D,1.85,75,21-08-87,Paranhos,Aris Limassol,Widzew Łódź,2010,Polish
+4,4,Ugo Ukah,NGA,D,1.85,85,18-01-84,Parma,Giulianova,Widzew Łódź,2010,Polish
+5,5,Jarosław Bieniuk,POL,D,1.92,83,04-06-79,Gdańsk,Omonia Nicosia,Widzew Łódź,2010,Polish
+7,7,Paul Grischok,GER,M,1.82,72,26-02-86,Kędzierzyn-Koźle,Servette,Widzew Łódź,2010,Polish
+8,8,Rafał Grzelak,POL,F,1.75,74,24-06-82,Łódź,Skoda Xanthi,Widzew Łódź,2010,Polish
+9,9,Darvydas ernas,LTU,M,1.80,75,22-07-84,Alytus,Vėtra,Widzew Łódź,2010,Polish
+10,10,Riku Riski,FIN,M,1.68,66,16-08-89,Turku,TPS Turku,Widzew Łódź,2010,Polish
+11,11,Jurijs igajevs,LVA,M,1.68,63,14-11-85,St. Petersburg,Ventspils,Widzew Łódź,2010,Polish
+13,13,Maciej Mielcarz,POL,G,1.94,93,15-10-80,Śrem,Korona Kielce,Widzew Łódź,2010,Polish
+14,14,Krzysztof Ostrowski,POL,M,1.78,73,03-05-82,Wrocław,Legia Warszawa,Widzew Łódź,2010,Polish
+16,16,Adrian Budka,POL,M,1.74,74,26-01-80,Zduńska Wola,Śląsk Wrocław,Widzew Łódź,2010,Polish
+17,17,Nika Dzalamidze,GEO,M,1.73,70,06-12-92,Tbilisi,Baia Zugdidi,Widzew Łódź,2010,Polish
+18,18,Mindaugas Panka,LTU,M,1.85,78,01-05-84,Alytus,Vėtra,Widzew Łódź,2010,Polish
+19,19,Sebastian Madera,POL,D,1.90,80,30-05-85,Rawicz,Miedź Legnica,Widzew Łódź,2010,Polish
+20,20,Przemysław Oziębała,POL,F,1.80,77,24-08-86,Koziegłowy,Zagłębie Sosnowiec,Widzew Łódź,2010,Polish
+21,21,Bogdan Straton,ROU,M,1.87,80,23-08-83,Iaşi,FC Botoşani,Widzew Łódź,2010,Polish
+22,22,Prejuce Nakoulma,BFA,F,1.78,76,21-04-87,Ouagadougou,Górnik Łęczna,Widzew Łódź,2010,Polish
+23,23,Bartosz Kaniecki,POL,G,1.96,91,11-07-88,Łódź,None,Widzew Łódź,2010,Polish
+24,24,Łukasz Grzeszczyk,POL,M,1.83,76,29-07-87,Ostrołęka,Wisła Płock,Widzew Łódź,2010,Polish
+25,25,Piotr Kuklis,POL,M,1.76,76,14-01-86,Łodź,ŁKS Łódz,Widzew Łódź,2010,Polish
+26,26,Piotr Grzelczak,POL,F,1.86,82,02-03-88,Łódź,None,Widzew Łódź,2010,Polish
+27,27,Piotr Wlazło,POL,M,1.81,68,03-06-89,Radom,Radomiak Radom,Widzew Łódź,2010,Polish
+28,28,Łukasz  Broź,POL,D,1.80,74,17-12-85,Giżycko,Kmita  Zabierzów,Widzew Łódź,2010,Polish
+29,29,Mikołaj Zwoliński,POL,F,1.83,75,18-10-91,Łódź,None,Widzew Łódź,2010,Polish
+30,30,Velibor Djurić,BIH,M,1.74,71,05-05-82,Vlasenica,Zrinjski Mostar,Widzew Łódź,2010,Polish
+33,33,Dudu Paraíba,BRA,D,1.81,71,11-03-85,Mari,Litex Lovech,Widzew Łódź,2010,Polish
+35,35,Damian  Radowicz,POL,M,1.78,68,20-12-89,Łódź,Omega Kleszczów,Widzew Łódź,2010,Polish
+37,37,Sebastian Radzio,POL,F,1.85,77,02-04-91,Augustów,Wigry Suwałki,Widzew Łódź,2010,Polish
+38,38,Sebastian Zalepa,POL,D,1.94,88,07-02-90,Łódź,UKS SMS Łódź,Widzew Łódź,2010,Polish
+40,40,Piotr Mroziński,POL,M,1.81,74,24-08-92,Przemyśl,Stal Mielec,Widzew Łódź,2010,Polish
+41,77,Souheïl Ben Radhia,TUN,D,1.78,74,26-08-85,Bizerte,Étoile du Sahel,Widzew Łódź,2010,Polish
+1,1,Milan Jovanić,SRB,G,1.87,85,31-07-85,Novi Sad,Spartak Zlatibor Voda,Wisła Kraków,2010,Polish
+2,2,Kew Jaliens,NED,D,1.83,68,15-09-78,Rotterdam,AZ Alkmaar,Wisła Kraków,2010,Polish
+4,4,Osman Chávez,HON,D,1.86,91,29-07-84,Santa Fé,Platense,Wisła Kraków,2010,Polish
+5,5,Maor Melikson,ISR,M,1.75,70,30-10-84,Yavne,Hapoel Be'er Sheva,Wisła Kraków,2010,Polish
+6,6,Gordan Bunoza,BIH,D,1.96,83,05-02-88,Ljubuki,Karlovac,Wisła Kraków,2010,Polish
+7,7,Radosław Sobolewski,POL,M,1.82,79,13-12-76,Białystok,Groclin Dyskobolia,Wisła Kraków,2010,Polish
+8,8,Mikhail Sivakov,BLR,M,1.86,77,16-01-88,Minsk,Cagliari,Wisła Kraków,2010,Polish
+9,9,Rafał Boguski,POL,F,1.73,70,09-06-84,Ostrołęka,GKS Bełchatów,Wisła Kraków,2010,Polish
+10,10,Łukasz Garguła,POL,M,1.78,73,25-02-81,Żagań,GKS Bełchatów,Wisła Kraków,2010,Polish
+11,11,Wojciech Łobodziński,POL,M,1.88,80,20-10-82,Bydgoszcz,Zagłębie Lubin,Wisła Kraków,2010,Polish
+12,12,Filip Kurto,POL,G,1.91,82,14-06-91,Olsztyn,Promień Opalenica,Wisła Kraków,2010,Polish
+13,13,Dragan  Paljić,GER,M,1.74,70,08-04-83,Starnberg,Kaiserslautern,Wisła Kraków,2010,Polish
+15,15,Serge Branco,CMR,D,1.76,74,11-10-80,Douala,Levadiakos,Wisła Kraków,2010,Polish
+16,16,Tomá Jirsák,CZE,M,1.72,65,29-06-84,Vysoké  Mýto,Teplice,Wisła Kraków,2010,Polish
+17,17,Andra Kirm,SVN,M,1.83,73,06-09-84,Ljubljana,Domale,Wisła Kraków,2010,Polish
+18,18,Tsvetan Genkov,BUL,F,1.84,83,08-08-84,Mezdra,Dynamo Moscow,Wisła Kraków,2010,Polish
+19,19,Patryk Małecki,POL,F,1.70,70,01-08-88,Suwałki,Wigry Suwałki,Wisła Kraków,2010,Polish
+21,21,Andrés  Ríos,ARG,F,1.79,78,08-01-89,Capital Federal,River Plate,Wisła Kraków,2010,Polish
+22,22,Erik Čiko,SVK,D,1.80,77,31-07-88,Bratislava,MFK Petralka,Wisła Kraków,2010,Polish
+24,24,Mateusz Kowalski,POL,D,1.86,79,30-09-86,Kraków,Kolejarz Stróże,Wisła Kraków,2010,Polish
+26,26,Sergei Pareiko,EST,G,1.93,84,31-01-77,Tallinn,Tom Tomsk,Wisła Kraków,2010,Polish
+28,28,Cezary Wilk,POL,M,1.80,74,12-02-86,Warsaw,Korona Kielce,Wisła Kraków,2010,Polish
+30,30,Łukasz Burliga,POL,M,1.86,78,15-05-88,Sucha Beskidzka,None,Wisła Kraków,2010,Polish
+41,45,Daniel Brud,POL,M,1.83,80,20-05-89,Kraków,Freiburg,Wisła Kraków,2010,Polish
+42,74,Nourdin Boukhari,MAR,M,1.84,78,30-06-80,Rotterdam,Kasımpaşa,Wisła Kraków,2010,Polish
+43,79,Maciej  Żurawski,POL,F,1.80,74,12-09-76,Poznań,Omonia Nicosia,Wisła Kraków,2010,Polish
+3,3,Csaba Horváth,SVK,D,1.92,82,02-05-82,Dunajská Streda,ADO Den Haag,Zagłębie Lubin,2010,Polish
+4,4,Michał Stasiak,POL,D,1.88,82,12-03-81,Zduńska Wola,Odra Wodzisław,Zagłębie Lubin,2010,Polish
+5,5,Fernando Dinis,POR,D,1.84,83,25-07-82,Vila Real,Beira-Mar,Zagłębie Lubin,2010,Polish
+7,7,Dawid Plizga,POL,F,1.73,73,17-11-85,Katowice,GKS Katowice,Zagłębie Lubin,2010,Polish
+9,9,Szymon  Kapias,POL,D,1.82,75,12-06-84,,Lech Poznań,Zagłębie Lubin,2010,Polish
+10,10,Deniss Rakeļs,LVA,F,1.79,73,20-08-92,Jēkabpils,Liepājas Metalurgs,Zagłębie Lubin,2010,Polish
+11,11,Arkadiusz Woźniak,POL,F,1.84,68,01-06-90,Lubin,None,Zagłębie Lubin,2010,Polish
+12,12,Konrad  Forenc,POL,G,1.91,97,17-07-92,Oława,MKS Oława,Zagłębie Lubin,2010,Polish
+13,13,Sergio Reina,COL,D,1.87,83,26-01-85,Cali,Inti Gas,Zagłębie Lubin,2010,Polish
+14,14,Damian Dąbrowski,POL,M,1.69,68,27-08-92,Kamienna Góra,Amico Lubin,Zagłębie Lubin,2010,Polish
+15,15,Przemysław Kocot,POL,D,1.78,65,31-01-86,Jelenia Góra,Górnik Polkowice,Zagłębie Lubin,2010,Polish
+17,17,Adrian Rakowski,POL,M,1.80,70,07-10-90,Żagań,Vitrosilicon Iłowa,Zagłębie Lubin,2010,Polish
+19,19,Grzegorz Bartczak,POL,D,1.82,75,21-05-85,Legnica,Konfeks Legnica,Zagłębie Lubin,2010,Polish
+20,20,David Solomon Abwo,NGA,M,1.70,70,10-05-86,Jos,Lombard Pápa,Zagłębie Lubin,2010,Polish
+21,21,Bartosz Rymaniak,POL,M,1.89,80,13-11-89,Gostyń,Jarota Jarocin,Zagłębie Lubin,2010,Polish
+22,22,Amer  Osmanagić,SRB,M,1.78,71,07-05-89,Loznica,OFK Belgrade,Zagłębie Lubin,2010,Polish
+23,23,Szymon Pawłowski,POL,M,1.75,69,04-11-86,Połczyn Zdrój,Mieszko Gniezno,Zagłębie Lubin,2010,Polish
+24,24,Adrian Błąd,POL,D,1.65,62,16-04-91,Lubin,None,Zagłębie Lubin,2010,Polish
+25,25,Łukasz Hanzel,POL,M,1.81,71,16-09-86,Cieszyn,Rozwój Katowice,Zagłębie Lubin,2010,Polish
+27,27,Wojciech  Kędziora,POL,F,1.87,93,20-12-80,Gliwice,Piast Gliwice,Zagłębie Lubin,2010,Polish
+29,29,Damian  Primel,POL,G,1.87,80,16-04-92,Lubin,Amico Lubin,Zagłębie Lubin,2010,Polish
+30,30,Aleksander Ptak,POL,G,1.87,85,04-11-77,Wałcz,Groclin Dyskobolia,Zagłębie Lubin,2010,Polish
+31,31,Duan Djokić,SRB,F,1.84,83,20-02-80,Prokuplje,Club Brugge,Zagłębie Lubin,2010,Polish
+33,33,Costa  Nhamoinesu,ZIM,D,1.87,74,06-01-86,Harare,Wisła Ustronianka,Zagłębie Lubin,2010,Polish
+41,50,Bojan  Isailović,SRB,G,1.87,86,25-03-80,Belgrade,Čukarički,Zagłębie Lubin,2010,Polish
+42,85,Martins  Ekwueme,NGA,M,1.82,80,02-10-85,Mbaise,Legia Warszawa,Zagłębie Lubin,2010,Polish
+43,86,Dominykas Galkevicius,LTU,M,1.78,68,16-10-86,Jonava,Ekranas,Zagłębie Lubin,2010,Polish
+44,88,Kamil Wilczek,POL,M,1.86,78,14-01-88,Wodzisław  Śląski,Piast Gliwice,Zagłębie Lubin,2010,Polish
+45,99,Mouhamadou Traoré,SEN,F,1.83,75,16-04-86,Thiès,GKP Gorzów Wielkopolski,Zagłębie Lubin,2010,Polish

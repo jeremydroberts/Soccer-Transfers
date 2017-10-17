@@ -1,0 +1,436 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Emilijus Zubas,LTU,G,1.92,90,10-07-90,Molainiu,Daugava Rīga,GKS Bełchatów,2012,Polish
+2,2,Rafał Kosznik,POL,D,1.83,75,17-12-83,Kościerzyna,Rafał Kosznik,GKS Bełchatów,2012,Polish
+3,3,Grzegorz Baran,POL,D,1.86,80,23-12-82,Przemyśl,Ruch Chorzów,GKS Bełchatów,2012,Polish
+6,6,Szymon Sawala,POL,M,1.84,77,25-09-82,Sieraków,Polonia Bytom,GKS Bełchatów,2012,Polish
+7,7,Bartosz Żurek,POL,M,1.81,68,15-03-93,Sosnowiec,Legia Warszawa,GKS Bełchatów,2012,Polish
+8,8,Michał Mak,POL,F,1.72,60,14-11-91,Sucha Beskidzka,Ruch Radzionków,GKS Bełchatów,2012,Polish
+9,9,Dawid Nowak,POL,F,1.78,68,30-11-84,Hrubieszów,Zdrój Ciechocinek,GKS Bełchatów,2012,Polish
+11,11,Łukasz Grzeszczyk,POL,M,1.83,76,29-07-87,Ostrołęka,Warta Poznań,GKS Bełchatów,2012,Polish
+12,12,Wiktor Baranowski,POL,G,1.92,82,30-12-94,Piotrków Trybunalski,None,GKS Bełchatów,2012,Polish
+14,14,Rafał Dzierbicki,POL,M,1.80,67,17-08-93,Słupsk,Mrągowia Mrągowo,GKS Bełchatów,2012,Polish
+15,15,Krzysztof Michalak,POL,M,1.76,70,15-04-87,Bełchatów,Polonia Bytom,GKS Bełchatów,2012,Polish
+16,16,Mateusz Mak,POL,M,1.73,60,14-11-91,Sucha Beskidzka,Ruch Radzionków,GKS Bełchatów,2012,Polish
+17,17,Adrian Basta,POL,D,1.80,77,01-12-88,Nowy Sącz,Kolejarz Stróże,GKS Bełchatów,2012,Polish
+18,18,Łukasz Madej,POL,M,1.76,70,14-04-82,Łódź,Śląsk Wrocław,GKS Bełchatów,2012,Polish
+19,19,Kamil Poźniak,POL,M,1.82,70,11-12-89,Krasnystaw,ŁKS Łódź,GKS Bełchatów,2012,Polish
+20,20,Patryk Rachwał,POL,M,1.76,70,27-01-81,Zabrze,Zagłębie Lubin,GKS Bełchatów,2012,Polish
+22,22,Mikołaj Grzelak,POL,D,1.82,77,20-06-91,Bełchatów,None,GKS Bełchatów,2012,Polish
+24,24,Maciej Wilusz,POL,D,1.88,85,25-09-88,Wrocław,MKS Kluczbork,GKS Bełchatów,2012,Polish
+27,27,Raúl González,VEN,D,1.71,69,28-06-85,Valencia [VEN],Carabobo,GKS Bełchatów,2012,Polish
+30,30,Kamil Wacławczyk,POL,M,1.78,68,29-03-87,Lubin,KS Polkowice,GKS Bełchatów,2012,Polish
+41,42,Seweryn Michalski,POL,D,1.92,82,12-09-94,Bełchatów,None,GKS Bełchatów,2012,Polish
+42,45,Bartłomiej Bartosiak,POL,M,1.76,68,26-02-91,Bełchatów,None,GKS Bełchatów,2012,Polish
+43,55,Łukasz Wroński,POL,M,1.77,74,13-01-94,Bełchatów,None,GKS Bełchatów,2012,Polish
+44,65,Marcin Flis,POL,D,1.84,75,10-02-94,Bychawa,Ruch Chorzów,GKS Bełchatów,2012,Polish
+45,66,Piotr Witasik,POL,D,1.85,79,04-12-92,Bełchatów,None,GKS Bełchatów,2012,Polish
+46,77,Damian Podleśny,POL,G,1.94,87,18-05-95,Lubartów,Lewart Lubartów,GKS Bełchatów,2012,Polish
+47,95,Krystian Paprocki,POL,G,1.78,67,13-06-95,Bełchatów,None,GKS Bełchatów,2012,Polish
+48,99,Mouhamadou Traoré,SEN,F,1.83,75,16-04-86,Thiès,Pogoń Szczecin,GKS Bełchatów,2012,Polish
+1,1,Mateusz Sławik,POL,G,1.83,80,03-11-80,Katowice,Górnik Wesoła,Górnik Zabrze,2012,Polish
+2,2,Bartosz Kopacz,POL,D,1.88,80,21-05-92,Jastrzębie Zdrój,GKS Jastrzębie,Górnik Zabrze,2012,Polish
+3,3,Antoni Łukasiewicz,POL,M,1.88,80,26-06-83,Warsaw,ŁKS Łódź,Górnik Zabrze,2012,Polish
+5,5,Oleksandr Shevelyukhin,UKR,D,1.92,85,27-08-82,Uzhgorod,Sevastopol,Górnik Zabrze,2012,Polish
+6,6,Aleksander Kwiek,POL,M,1.76,70,13-01-83,Wodzisław Śląski,Odra Wodzisław,Górnik Zabrze,2012,Polish
+7,7,Sergey Monikov,EST,M,1.77,71,07-01-88,Pärnu,Pogoń Szczecin,Górnik Zabrze,2012,Polish
+8,8,Przemysław Oziębała,POL,F,1.80,77,24-08-86,Koziegłowy,Widzew Łódź,Górnik Zabrze,2012,Polish
+10,10,Konrad Nowak,POL,F,1.75,69,07-11-94,Katowice,Rozwój Katowice,Górnik Zabrze,2012,Polish
+13,13,Tomasz Margol,POL,M,1.85,81,17-04-89,Krasnobród,Stal Rzeszów,Górnik Zabrze,2012,Polish
+14,14,Prejuce Nakoulma,BFA,F,1.78,76,21-04-87,Ouagadougou,Bogdanka Łęczna,Górnik Zabrze,2012,Polish
+15,15,Grzegorz Bonin,POL,M,1.88,78,02-12-83,Tczew,Pogoń Szczecin,Górnik Zabrze,2012,Polish
+17,17,Paweł Olkowski,POL,D,1.84,75,13-02-90,Ozimek,GKS Katowice,Górnik Zabrze,2012,Polish
+19,19,Mariusz Przybylski,POL,M,1.83,73,19-01-82,Częstochowa,Polonia Bytom,Górnik Zabrze,2012,Polish
+20,20,Mateusz Zachara,POL,F,1.80,71,27-03-90,Częstochowa,Raków Częstochowa,Górnik Zabrze,2012,Polish
+21,21,Mariusz Magiera,POL,D,1.78,71,25-08-84,Andrychów,Wisła Kraków,Górnik Zabrze,2012,Polish
+22,22,Seweryn Gancarczyk,POL,D,1.83,74,22-11-81,Zamość,ŁKS Łódź,Górnik Zabrze,2012,Polish
+23,23,Tomasz Zahorski,POL,F,1.90,80,22-11-84,Olsztyn,Jagiellonia Białystok,Górnik Zabrze,2012,Polish
+24,24,Michael Bemben,GER,M,1.81,77,28-01-76,Ruda,Union Berlin,Górnik Zabrze,2012,Polish
+26,26,Adam Danch,POL,D,1.80,73,15-12-87,Ruda Śląska,Gwarek Zabrze,Górnik Zabrze,2012,Polish
+27,27,Daniel Barbus,POL,F,1.82,65,10-02-96,Zabrze,Promotor Południe Zabrze,Górnik Zabrze,2012,Polish
+28,28,Łukasz Skorupski,POL,G,1.87,84,05-05-91,Zabrze,None,Górnik Zabrze,2012,Polish
+29,29,Krzysztof Mączyński,POL,M,1.75,66,23-05-87,Kraków,Wisła Kraków,Górnik Zabrze,2012,Polish
+30,30,Ireneusz Jeleń,POL,F,1.84,74,09-04-81,Cieszyn,Podbeskidzie Bielsko-Biała,Górnik Zabrze,2012,Polish
+33,33,Norbert Witkowski,POL,G,1.90,80,05-08-81,Olsztyn,Iraklis,Górnik Zabrze,2012,Polish
+38,38,Bartosz Iwan,POL,M,1.86,75,18-04-84,Kraków,Garbarnia Kraków,Górnik Zabrze,2012,Polish
+41,89,Wojciech Łuczak,POL,M,1.82,72,20-07-89,Zgorzelec,Bogdanka Łęczna,Górnik Zabrze,2012,Polish
+42,91,Mateusz Słodowy,POL,M,1.84,76,08-08-91,Wodzisław Śląski,Viktoria ikov,Górnik Zabrze,2012,Polish
+43,96,Mateusz Kuchta,POL,G,1.88,73,05-02-96,Katowice,Stadion Śląski Chorzów,Górnik Zabrze,2012,Polish
+1,1,Jakub Słowik,POL,G,1.90,82,31-08-91,Nowy Sącz,Sparta Oborniki,Jagiellonia Białystok,2012,Polish
+2,2,Filip Modelski,POL,D,1.80,73,28-09-92,Gdynia,West Ham U,Jagiellonia Białystok,2012,Polish
+3,3,Jonatan Straus,POL,D,1.82,71,30-06-94,Nowe Miasto Lubawskie,Warmia Olsztyn,Jagiellonia Białystok,2012,Polish
+4,4,Michał Pazdan,POL,D,1.80,76,21-09-87,Kraków,Górnik Zabrze,Jagiellonia Białystok,2012,Polish
+5,5,Tomasz Bandrowski,POL,M,1.77,67,18-06-81,Zabrze,Lech Poznań,Jagiellonia Białystok,2012,Polish
+6,6,Dawid Plizga,POL,F,1.73,73,17-11-85,Katowice,Zagłębie Lubin,Jagiellonia Białystok,2012,Polish
+7,7,Ebi Smolarek,POL,F,1.78,68,09-01-81,Łódź,ADO Den Haag,Jagiellonia Białystok,2012,Polish
+8,8,Tomasz Kupisz,POL,M,1.80,76,02-01-90,Radom,Wigan Ath,Jagiellonia Białystok,2012,Polish
+10,10,Nika Dzalamidze,GEO,M,1.73,70,06-12-92,Tbilisi,Widzew Łódź,Jagiellonia Białystok,2012,Polish
+11,11,Karol Mackiewicz,POL,F,1.78,66,01-06-92,Białystok,Hetman Białystok,Jagiellonia Białystok,2012,Polish
+13,13,Michał Pawlik,POL,D,1.82,73,08-05-95,Ryki,Mazur Karczew,Jagiellonia Białystok,2012,Polish
+14,14,Adam Dźwigała,POL,M,1.82,72,25-09-95,Warsaw,Mazur Karczew,Jagiellonia Białystok,2012,Polish
+17,17,Alexis Norambuena,CHI,D,1.76,70,31-03-84,Valdivia,Ñublense,Jagiellonia Białystok,2012,Polish
+18,18,Ľubo Hanzel,SVK,D,1.83,78,07-05-87,Zavar,Spartak Trnava,Jagiellonia Białystok,2012,Polish
+19,19,Ugo Ukah,NGA,D,1.85,85,18-01-84,Parma,Widzew Łódź,Jagiellonia Białystok,2012,Polish
+20,20,Maciej Gajos,POL,F,1.74,65,19-03-91,Kraków,Raków Częstochowa,Jagiellonia Białystok,2012,Polish
+21,21,Tomasz Frankowski,POL,F,1.72,64,16-08-74,Białystok,Chicago Fire,Jagiellonia Białystok,2012,Polish
+22,22,Rafał Grzyb,POL,M,1.75,75,16-01-83,Jędrzejów,Polonia Bytom,Jagiellonia Białystok,2012,Polish
+24,24,Tomasz Porębski,POL,D,1.95,84,12-01-92,Białystok,None,Jagiellonia Białystok,2012,Polish
+25,25,Michał Fidziukiewicz,POL,F,1.86,77,08-02-91,Białystok,None,Jagiellonia Białystok,2012,Polish
+30,30,Łukasz Skowron,POL,G,1.86,84,17-03-91,Sierpc,Radomiak Radom,Jagiellonia Białystok,2012,Polish
+41,77,Kim Min-Kyun,KOR,M,1.73,66,30-11-88,Gimpo,Fagiano Okayama,Jagiellonia Białystok,2012,Polish
+42,92,Tomasz Kowalski,POL,M,1.77,72,14-09-92,Kalisz,Tur Turek,Jagiellonia Białystok,2012,Polish
+43,99,Dani Quintana,ESP,M,1.73,65,08-03-87,Las Palmas,Nàstic,Jagiellonia Białystok,2012,Polish
+1,1,Zbigniew Małkowski,POL,G,1.88,79,19-01-78,Olsztyn,OKS 1945 Olsztyn,Korona Kielce,2012,Polish
+2,2,Tadas Kijanskas,LTU,D,1.84,76,06-09-85,Vilnius,Jagiellonia Białystok,Korona Kielce,2012,Polish
+3,3,Kamil Kuzera,POL,D,1.81,75,11-03-83,Kielce,Polonia Warszawa,Korona Kielce,2012,Polish
+4,4,Piotr Malarczyk,POL,D,1.89,74,01-08-91,Kielce,None,Korona Kielce,2012,Polish
+5,5,Aleksandar Vuković,SRB,M,1.86,82,25-08-79,Banja Luka,Iraklis,Korona Kielce,2012,Polish
+6,6,Tomasz Foszmańczyk,POL,M,1.69,65,07-02-86,Bytom,Warta Poznań,Korona Kielce,2012,Polish
+7,7,Tomasz Lisowski,POL,D,1.80,80,04-04-85,Braniewo,Widzew Łódź,Korona Kielce,2012,Polish
+8,8,Vlastimir Jovanović,BIH,M,1.82,77,03-04-85,Zenica,Slavija,Korona Kielce,2012,Polish
+9,9,Paweł Kal,POL,M,1.78,65,09-07-89,Kielce,None,Korona Kielce,2012,Polish
+10,10,Michał Janota,POL,F,1.71,68,29-07-90,Gubin,Go Ahead Eagles,Korona Kielce,2012,Polish
+11,11,Paweł Zawistowski,POL,M,1.83,80,04-06-84,Łódź,Zawisza Bydgoszcz,Korona Kielce,2012,Polish
+13,13,Krzysztof Kiercz,POL,D,1.89,80,16-02-89,Kielce,None,Korona Kielce,2012,Polish
+15,15,Łukasz Sierpina,POL,M,1.74,68,27-03-88,Złotoryja,KS Polkowice,Korona Kielce,2012,Polish
+16,16,Artur Lenartowski,POL,M,1.91,72,17-03-88,Częstochowa,Raków Częstochowa,Korona Kielce,2012,Polish
+17,17,Pavol Staňo,SVK,D,1.92,90,29-09-77,Čierna,Jagiellonia Białystok,Korona Kielce,2012,Polish
+18,18,Marcin Cebula,POL,M,1.74,60,06-12-95,Staszów,None,Korona Kielce,2012,Polish
+19,19,Łukasz Jamróz,POL,F,1.90,76,18-02-90,Kielce,None,Korona Kielce,2012,Polish
+20,20,Maciej Korzym,POL,F,1.80,77,02-05-88,Nowy Sącz,Legia Warszawa,Korona Kielce,2012,Polish
+23,23,Kamil Adamek,POL,F,1.72,68,09-02-89,,Drzewiarz Jasienica,Korona Kielce,2012,Polish
+24,24,Oleksiy Shlyakotin,UKR,G,1.97,72,02-09-89,Kyiv,Zagłębie Sosnowiec,Korona Kielce,2012,Polish
+25,25,Seweryn Derbisz,POL,G,1.96,93,02-04-95,Dzierżoniów,Lech Poznań,Korona Kielce,2012,Polish
+26,26,Wojciech Małecki,POL,G,1.88,83,11-10-90,Elbląg,None,Korona Kielce,2012,Polish
+27,27,Vanja Marković,SRB,M,1.85,80,20-06-94,Belgrade,Partizan Belgrade,Korona Kielce,2012,Polish
+28,28,Mateusz Bodzioch,POL,F,1.80,82,04-06-90,Gliwice,Piast Gliwice,Korona Kielce,2012,Polish
+29,29,Paweł Sobolewski,POL,M,1.73,62,20-06-79,Ełk,Jagiellonia Białystok,Korona Kielce,2012,Polish
+33,33,Ivan Marković,SRB,F,1.85,76,20-06-94,Belgrade,Partizan Belgrade,Korona Kielce,2012,Polish
+39,39,Bartosz Kwiecień,POL,M,1.86,80,07-05-94,Starachowice,Juventa Starachowice,Korona Kielce,2012,Polish
+41,44,Paweł Golański,POL,D,1.83,74,12-10-82,Łódź,Steaua Bucureşti,Korona Kielce,2012,Polish
+42,58,Karol Angielski,POL,F,1.77,70,20-03-96,Kielce,None,Korona Kielce,2012,Polish
+43,88,Kamil Sylwestrzak,POL,D,1.88,76,16-07-88,Słubice,Chojniczanka Chojnice,Korona Kielce,2012,Polish
+44,99,Mateusz Stąporski,POL,M,1.83,75,28-01-88,Nowa Dęba,ŁKS Łódź,Korona Kielce,2012,Polish
+1,1,Michał Buchalik,POL,G,1.90,83,03-02-89,Rybnik,Odra Wodzisław,Lechia Gdańsk,2012,Polish
+2,2,Rafał Janicki,POL,D,1.88,79,05-07-92,Szczecin,Chemik Police,Lechia Gdańsk,2012,Polish
+4,4,Piotr Brożek,POL,D,1.78,74,21-04-83,Kielce,Trabzonspor,Lechia Gdańsk,2012,Polish
+5,5,Krzysztof Bąk,POL,M,1.88,82,22-06-82,Warsaw,Polonia Warszawa,Lechia Gdańsk,2012,Polish
+6,6,Jarosław Bieniuk,POL,D,1.92,83,04-06-79,Gdańsk,Widzew Łódź,Lechia Gdańsk,2012,Polish
+8,8,Łukasz Surma,POL,M,1.77,70,28-06-77,Kraków,Admira Wacker,Lechia Gdańsk,2012,Polish
+11,11,Grzegorz Rasiak,POL,F,1.90,84,12-01-79,Szczecin,Jagiellonia Białystok,Lechia Gdańsk,2012,Polish
+12,12,Bartosz Kaniecki,POL,G,1.96,91,11-07-88,Łódź,Widzew Łódź,Lechia Gdańsk,2012,Polish
+13,13,Sebastian Madera,POL,D,1.90,80,30-05-85,Rawicz,Widzew Łódź,Lechia Gdańsk,2012,Polish
+14,14,Piotr Wiśniewski,POL,F,1.77,72,11-08-82,Starogard Gdański,Kaszubia Kościerzyna,Lechia Gdańsk,2012,Polish
+15,15,Adam Duda,POL,F,1.88,75,21-04-91,Gdańsk,None,Lechia Gdańsk,2012,Polish
+16,16,Damian Garbacik,POL,D,1.86,80,30-01-96,Kętrzyn,Granica Kętrzyn,Lechia Gdańsk,2012,Polish
+17,17,Marcin Pietrowski,POL,M,1.84,79,01-03-88,Gdańsk,None,Lechia Gdańsk,2012,Polish
+18,18,Kacper Łazaj,POL,F,1.87,76,24-07-95,Słupsk,None,Lechia Gdańsk,2012,Polish
+19,19,Ricardinho,BRA,F,1.75,69,04-09-89,São Paulo,Wisła Płock,Lechia Gdańsk,2012,Polish
+20,20,Paweł Buzała,POL,F,1.68,67,27-12-85,Złotów,GKS Bełchatów,Lechia Gdańsk,2012,Polish
+21,21,Mateusz Machaj,POL,M,1.74,67,28-06-89,Głogów,Lech Poznań,Lechia Gdańsk,2012,Polish
+22,22,Mohammed Rahoui,ALG,M,1.85,80,02-11-88,Oran,Noisy-le-Sec,Lechia Gdańsk,2012,Polish
+24,24,Patyrk Sobczak,POL,G,1.88,80,20-07-93,,None,Lechia Gdańsk,2012,Polish
+25,25,Wojciech Zyska,POL,M,1.83,76,08-01-94,,Olimpia Sztum,Lechia Gdańsk,2012,Polish
+26,26,Deleu,BRA,D,1.76,77,01-03-84,Penedo,Metropolitano,Lechia Gdańsk,2012,Polish
+28,28,Christopher Oualembo,COD,D,1.78,70,31-01-87,St-Germain-en-Laye,Chernomorets Burgas,Lechia Gdańsk,2012,Polish
+29,29,Łukasz Kacprzycki,POL,M,1.65,57,29-04-94,,Orzeł Mrzeżyno,Lechia Gdańsk,2012,Polish
+30,30,Maciej Kostrzewa,POL,M,1.90,78,16-05-91,,None,Lechia Gdańsk,2012,Polish
+31,31,Damian Kugiel,POL,F,1.87,82,30-05-95,Gdańsk,Olivia Gdańsk,Lechia Gdańsk,2012,Polish
+32,32,Adam Gołuński,POL,F,1.74,72,20-01-97,Starogard Gdański,Victoria Kaliska,Lechia Gdańsk,2012,Polish
+33,33,Sebastian Małkowski,POL,G,1.94,90,02-03-87,Tczew,Olimpia Sztum,Lechia Gdańsk,2012,Polish
+34,34,Paweł Dawidowicz,POL,M,1.88,76,20-05-95,Olsztyn,Sokół Ostróda,Lechia Gdańsk,2012,Polish
+35,35,Przemysław Frankowski,POL,M,1.75,68,12-04-95,Gdańsk,None,Lechia Gdańsk,2012,Polish
+36,36,Bartłomiej Smuczyński,POL,M,1.75,69,25-08-95,Skarszewy,None,Lechia Gdańsk,2012,Polish
+37,37,Przemysław Czerwiński,POL,M,1.76,69,26-09-95,Chojnice,Kolejarz Chojnice,Lechia Gdańsk,2012,Polish
+38,38,Adrian Bielawski,POL,D,,,14-04-96,,None,Lechia Gdańsk,2012,Polish
+1,1,Jasmin Burić,BIH,G,1.91,80,18-02-87,Zenica,Čelik Zenica,Lech Poznań,2012,Polish
+3,3,Ivan Djurdjević,SRB,D,1.83,81,05-02-77,Belgrade,Belenenses,Lech Poznań,2012,Polish
+4,4,Tomasz Kędziora,POL,D,1.83,73,11-06-94,Sulechów,UKP Zielona Góra,Lech Poznań,2012,Polish
+5,5,Manuel Arboleda,COL,D,1.88,84,02-08-79,Buenaventura,Zagłębie Lubin,Lech Poznań,2012,Polish
+6,6,Łukasz Trałka,POL,M,1.86,77,11-05-84,Rzeszów,Polonia Warszawa,Lech Poznań,2012,Polish
+9,9,Piotr Reiss,POL,F,1.78,67,20-06-72,Poznań,Warta Poznań,Lech Poznań,2012,Polish
+10,10,Łukasz Teodorczyk,POL,F,1.85,78,03-06-91,Żuromin,Polonia Warszawa,Lech Poznań,2012,Polish
+11,11,Gergő Lovrencsics,HUN,M,1.77,77,01-09-88,Pécs,Lombard Pápa,Lech Poznań,2012,Polish
+13,13,Patryk Wolski,POL,F,1.86,78,12-04-93,Radom,Młodzik 18 Radom,Lech Poznań,2012,Polish
+14,14,Vojo Ubiparip,SRB,F,1.80,72,10-05-88,Novi Sad,Spartak Zlatibor Voda,Lech Poznań,2012,Polish
+16,16,Rafał Murawski,POL,M,1.75,76,09-10-81,Malbork,Rubin Kazan,Lech Poznań,2012,Polish
+17,17,Szymon Drewniak,POL,M,1.79,70,11-07-93,Poznań,None,Lech Poznań,2012,Polish
+18,18,Bartosz Ślusarski,POL,F,1.85,79,11-12-81,Szamocin,Cracovia Kraków,Lech Poznań,2012,Polish
+19,19,Kasper Hämäläinen,FIN,M,1.87,74,08-08-86,Turku,Djurgårdens IF,Lech Poznań,2012,Polish
+20,20,Hubert Wołąkiewicz,POL,D,1.82,70,21-10-85,Skarżysko-Kamienna,Lechia Gdańsk,Lech Poznań,2012,Polish
+21,21,Kebba Ceesay,SWE,D,1.77,76,14-11-87,Bakau,Djurgårdens IF,Lech Poznań,2012,Polish
+23,23,Karol Linetty,POL,M,1.76,73,02-02-95,Żnin,Sokół Damasławek,Lech Poznań,2012,Polish
+24,24,Aleksander Tonev,BUL,F,1.76,70,03-02-90,Elin Pelin,CSKA Sofia,Lech Poznań,2012,Polish
+25,25,Luis Henriquez,PAN,D,1.75,69,23-11-81,Ciudad de Panamá,Tauro FC,Lech Poznań,2012,Polish
+27,27,Krzysztof Kotorowski,POL,G,1.86,85,12-09-76,Poznań,Błękitni Stargard,Lech Poznań,2012,Polish
+28,28,Dariusz Formella,POL,F,1.77,74,21-10-95,Gdynia,Arka Gdynia,Lech Poznań,2012,Polish
+32,32,Mateusz Możdżeń,POL,M,1.80,76,14-03-91,Warsaw,Amica Wronki,Lech Poznań,2012,Polish
+33,33,Aleksander Wandzel,POL,G,1.89,80,12-01-95,Poznań,MSP Szamotuły,Lech Poznań,2012,Polish
+35,35,Marcin Kamiński,POL,D,1.89,71,15-01-92,Konin,Aluminium Konin,Lech Poznań,2012,Polish
+38,38,Błażej Cyfert,POL,D,1.87,74,03-02-92,Ostrów Wielkopolski,KUKS Zębców,Lech Poznań,2012,Polish
+2,2,Artur Jędrzejczyk,POL,D,1.89,78,04-11-87,Dębica,Igloopol Dębica,Legia Warszawa,2012,Polish
+3,3,Tomasz Jodłowiec,POL,D,1.90,86,22-03-85,Żywiec,Śląsk Wrocław,Legia Warszawa,2012,Polish
+4,4,Dickson Choto,ZIM,D,1.92,99,19-03-81,Wedza,Pogoń Szczecin,Legia Warszawa,2012,Polish
+5,5,Janusz Gol,POL,M,1.82,77,11-11-85,Świdnica,GKS Bełchatów,Legia Warszawa,2012,Polish
+6,6,Michał Żewłakow,POL,D,1.83,79,22-04-76,Warsaw,Ankaragücü,Legia Warszawa,2012,Polish
+8,8,Marko uler,SVN,D,1.86,79,09-03-83,Slovenj Gradec,KAA Gent,Legia Warszawa,2012,Polish
+9,9,Marek Saganowski,POL,F,1.78,76,31-10-78,Łódź,ŁKS Łódź,Legia Warszawa,2012,Polish
+12,12,Duan Kuciak,SVK,G,1.94,87,21-05-85,Bratislava,FC Vaslui,Legia Warszawa,2012,Polish
+13,13,Vladimir Dvalishvili,GEO,F,1.82,82,20-04-86,Tbilisi,Polonia Warszawa,Legia Warszawa,2012,Polish
+14,14,Jakub Wawrzyniak,POL,D,1.88,85,07-07-83,Kutno,Widzew Łódź,Legia Warszawa,2012,Polish
+15,15,Iñaki Astiz,ESP,D,1.85,73,05-11-83,Pamplona,Osasuna,Legia Warszawa,2012,Polish
+17,17,Tomasz Brzyski,POL,M,1.72,69,10-01-82,Lublin,Polonia Warszawa,Legia Warszawa,2012,Polish
+18,18,Michał Kucharczyk,POL,F,1.78,72,20-03-91,Warsaw,Świt Nowy Dwór,Legia Warszawa,2012,Polish
+19,19,Bartosz Bereszyński,POL,F,1.82,72,12-07-92,Poznań,Lech Poznań,Legia Warszawa,2012,Polish
+20,20,Jakub Kosecki,POL,F,1.68,59,29-08-90,Warsaw,Kosa Konstancin,Legia Warszawa,2012,Polish
+21,21,Ivica Vrdoljak,CRO,D,1.87,83,19-09-83,Novi Sad,Dinamo Zagreb,Legia Warszawa,2012,Polish
+22,22,Michał Kopczyński,POL,M,1.80,70,15-06-92,Warsaw,None,Legia Warszawa,2012,Polish
+23,23,Ihor Berezovskyy,UKR,G,1.94,83,24-08-90,Kirovohrad,Obolon Kyiv,Legia Warszawa,2012,Polish
+24,24,Michał Efir,POL,F,1.81,73,14-04-92,Lublin,Wieniawa Lublin,Legia Warszawa,2012,Polish
+25,25,Jakub Rzeźniczak,POL,D,1.83,79,26-10-86,Łódź,Widzew Łódź,Legia Warszawa,2012,Polish
+28,28,Danijel Ljuboja,SRB,F,1.87,80,04-09-78,Vinkovci,Nice,Legia Warszawa,2012,Polish
+32,32,Miroslav Radović,SRB,M,1.82,76,16-01-84,Zemun,Partizan Belgrade,Legia Warszawa,2012,Polish
+33,33,Michał Żyro,POL,M,1.89,78,20-09-92,Warsaw,KS Piaseczno,Legia Warszawa,2012,Polish
+35,35,Daniel Łukasik,POL,M,1.80,75,28-04-91,Giżycko,Warmia Olsztyn,Legia Warszawa,2012,Polish
+37,37,Dominik Furman,POL,M,1.81,71,06-07-92,Szydłowiec,Szydłowianka Szydłowiec,Legia Warszawa,2012,Polish
+41,84,Wojciech Skaba,POL,G,1.90,81,09-04-84,Rybnik,Odra Wodzisław,Legia Warszawa,2012,Polish
+42,93,Oliwer Wienczatek,POL,G,1.88,82,11-09-93,Warsaw,None,Legia Warszawa,2012,Polish
+1,1,Jakub Szmatuła,POL,G,1.87,79,22-03-81,Poznań,Warta Poznań,Piast Gliwice,2012,Polish
+2,2,El-Mehdi Sidqy,MAR,D,1.90,80,06-01-84,Mohammédia,Bogdanka Łęczna,Piast Gliwice,2012,Polish
+4,4,Mateusz Matras,POL,M,1.93,87,23-01-91,Ornontowice,Gwarek Ornontowice,Piast Gliwice,2012,Polish
+5,5,Jan Polák,CZE,D,1.87,78,26-03-89,Liberec,Slovan Liberec,Piast Gliwice,2012,Polish
+6,6,Mariusz Zganiacz,POL,M,1.73,73,31-01-84,Wodzisław Śląski,Korona Kielce,Piast Gliwice,2012,Polish
+7,7,Tomasz Bzdęga,POL,M,1.85,82,18-03-85,Gostyń,KSZO Ostrowiec,Piast Gliwice,2012,Polish
+8,8,Rudolf Urban,SVK,M,1.81,75,01-03-80,Koice,Sandecja Nowy Sącz,Piast Gliwice,2012,Polish
+9,9,Radosław Murawski,POL,M,1.73,68,22-04-94,Gliwice,None,Piast Gliwice,2012,Polish
+10,10,Jakub Świerczok,POL,F,1.79,75,28-12-92,Tychy,Kaiserslautern,Piast Gliwice,2012,Polish
+11,11,Adrian Sikora,POL,F,1.70,67,19-03-80,Nierodzim,Podbeskidzie Bielsko-Biała,Piast Gliwice,2012,Polish
+12,12,Dariusz Trela,POL,G,1.83,83,05-12-89,Kraków,Okocimski KS Brzesko,Piast Gliwice,2012,Polish
+13,13,Tomá Dočekal,CZE,F,1.95,87,24-05-89,,Viktoria ikov,Piast Gliwice,2012,Polish
+14,14,Adrian Klepczyński,POL,D,1.87,73,01-04-81,Częstochowa,Widzew Łódź,Piast Gliwice,2012,Polish
+15,15,Łukasz Krzycki,POL,D,1.88,79,10-01-84,Tychy,GKS Tychy,Piast Gliwice,2012,Polish
+16,16,Pavol Cicman,SVK,M,1.75,71,30-01-85,,Tatran Preov,Piast Gliwice,2012,Polish
+17,17,Tomasz Podgórski,POL,M,1.75,70,30-12-85,Katowice,None,Piast Gliwice,2012,Polish
+18,18,Matej Ivolt,SVK,M,1.78,72,05-05-86,Ilava,MFK Dubnica,Piast Gliwice,2012,Polish
+19,19,Álvaro Jurado,ESP,M,1.82,82,05-09-81,Córdoba,Cádiz,Piast Gliwice,2012,Polish
+20,20,Jan Buryán,CZE,D,1.82,77,17-02-77,Benátky nad Jizerou,MFK Karviná,Piast Gliwice,2012,Polish
+21,21,Wojciech Lisowski,POL,D,1.86,74,10-02-92,Stargard Szczeciński,Legia Warszawa,Piast Gliwice,2012,Polish
+22,22,Rubén Jurado,ESP,F,1.78,74,25-04-86,Seville,Almansa,Piast Gliwice,2012,Polish
+23,23,Paweł Oleksy,POL,D,1.82,77,01-04-91,Kamienna Góra,Zagłębie Lubin,Piast Gliwice,2012,Polish
+24,24,Wojciech Kędziora,POL,F,1.87,93,20-12-80,Gliwice,Zagłębie Lubin,Piast Gliwice,2012,Polish
+25,25,Damian Zbozień,POL,D,1.86,80,25-04-89,Limanowa,Legia Warszawa,Piast Gliwice,2012,Polish
+26,26,Bartosz Szeliga,POL,M,1.84,74,10-01-93,Nowy Sącz,Sandecja Nowy Sącz,Piast Gliwice,2012,Polish
+27,27,Artis Lazdiņ,LVA,M,1.81,75,03-05-86,Limbai,Jelgava,Piast Gliwice,2012,Polish
+28,28,Kornel Osyra,POL,D,1.90,75,07-02-93,Brzeg Dolny,Zagłębie Lubin,Piast Gliwice,2012,Polish
+29,29,Jakub Szumski,POL,G,1.94,78,06-03-92,Warsaw,Legia Warszawa,Piast Gliwice,2012,Polish
+30,30,Marcin Robak,POL,F,1.82,78,29-11-82,Legnica,Mersin İsman Yurdu,Piast Gliwice,2012,Polish
+31,31,Paweł Lisowski,POL,M,1.78,76,08-10-91,Szczecin,Ruch Chorzów,Piast Gliwice,2012,Polish
+1,1,Richard Zajac,SVK,G,1.86,81,16-08-76,ilina,MFK Dubnica,Podbeskidzie Bielsko-Biała,2012,Polish
+2,2,Michal Piter-Bučko,SVK,D,1.88,82,28-10-85,Preov,Tatran Preov,Podbeskidzie Bielsko-Biała,2012,Polish
+3,3,Luka Gusić,CRO,D,1.92,86,27-09-89,Split,Jagiellonia Białystok,Podbeskidzie Bielsko-Biała,2012,Polish
+4,4,Daniel Gołuch,POL,M,1.82,72,20-07-93,Bielsko-Biała,Empoli,Podbeskidzie Bielsko-Biała,2012,Polish
+5,5,Daniel Bujok,POL,M,1.75,73,24-11-94,Cieszyn,Beskid Skoczów,Podbeskidzie Bielsko-Biała,2012,Polish
+6,6,Błażej Telichowski,POL,D,1.87,81,06-06-84,Nowy Tomyśl,Górnik Zabrze,Podbeskidzie Bielsko-Biała,2012,Polish
+7,7,Juraj Dančík,SVK,D,1.89,84,21-02-82,,Skałka Żabnica,Podbeskidzie Bielsko-Biała,2012,Polish
+8,8,Damian Chmiel,POL,M,1.74,73,06-05-87,Wadowice,GKS Katowice,Podbeskidzie Bielsko-Biała,2012,Polish
+9,9,Dariusz Kołodziej,POL,M,1.78,78,17-04-82,Kraków,Górnik Zabrze,Podbeskidzie Bielsko-Biała,2012,Polish
+10,10,Marek Sokołowski,POL,M,1.81,75,11-03-78,,Polonia Warszawa,Podbeskidzie Bielsko-Biała,2012,Polish
+11,11,Anton Sloboda,CZE,M,1.78,70,10-07-87,,Viktoria ikov,Podbeskidzie Bielsko-Biała,2012,Polish
+12,12,Krzysztof Baran,POL,G,1.95,92,12-02-90,Tomaszów Mazowiecki,Jagiellonia Białystok,Podbeskidzie Bielsko-Biała,2012,Polish
+13,13,Piotr Malinowski,POL,M,1.70,61,25-03-84,Częstochowa,Górnik Zabrze,Podbeskidzie Bielsko-Biała,2012,Polish
+17,17,Dariusz Pietrasiak,POL,D,1.86,81,12-02-80,Sandomierz,Maccabi Netanya,Podbeskidzie Bielsko-Biała,2012,Polish
+18,18,Łukasz Zakrzewski,POL,F,1.84,76,07-03-96,Bielsko-Biała,Zapora Porąbka,Podbeskidzie Bielsko-Biała,2012,Polish
+19,19,Marko Ćetković,MNE,M,1.70,65,10-07-86,Podgorica,Jagiellonia Białystok,Podbeskidzie Bielsko-Biała,2012,Polish
+20,20,Fabian Pawela,POL,F,1.87,81,30-11-85,Świdnica,Czarni Żagań,Podbeskidzie Bielsko-Biała,2012,Polish
+21,21,Tomasz Górkiewicz,POL,D,1.85,76,28-01-85,Wadowice,Polonia Bytom,Podbeskidzie Bielsko-Biała,2012,Polish
+22,22,Marcin Wodecki,POL,F,1.75,65,14-01-88,Rybnik,Górnik Zabrze,Podbeskidzie Bielsko-Biała,2012,Polish
+23,23,Róbert Demjan,SVK,F,1.81,76,26-10-82,Levoča,Viktoria ikov,Podbeskidzie Bielsko-Biała,2012,Polish
+24,24,Daniel Fabisiak,POL,M,1.82,76,15-02-94,Tychy,None,Podbeskidzie Bielsko-Biała,2012,Polish
+25,25,Piotr Adamek,POL,G,1.86,75,11-07-92,Mysłowice,Szczakowianka Jaworzno,Podbeskidzie Bielsko-Biała,2012,Polish
+26,26,Bartłomiej Konieczny,POL,D,1.93,92,09-06-81,Skwierzyna,Polonia Warszawa,Podbeskidzie Bielsko-Biała,2012,Polish
+27,27,Adam Deja,POL,M,1.85,82,24-06-93,Olesno,MKS Kluczbork,Podbeskidzie Bielsko-Biała,2012,Polish
+28,28,Dariusz Łatka,POL,D,1.71,66,14-09-78,Kraków,Korona Kielce,Podbeskidzie Bielsko-Biała,2012,Polish
+29,29,Mateusz Janeczko,POL,M,1.74,64,30-11-94,Pszczyna,Walcownia Czechowice-Dziedzice,Podbeskidzie Bielsko-Biała,2012,Polish
+1,1,Krystian Rudnicki,POL,G,1.86,77,20-04-94,Miastko,Chemik Police,Pogoń Szczecin,2012,Polish
+3,3,Maciej Dąbrowski,POL,D,1.94,88,20-04-87,Radziejów,Olimpia Grudziądz,Pogoń Szczecin,2012,Polish
+5,5,Edi Andradina,BRA,M,1.77,76,13-09-74,Andradina,Korona Kielce,Pogoń Szczecin,2012,Polish
+6,6,Przemysław Pietruszka,POL,D,1.86,76,18-03-84,Gryfino,Flota Świnoujście,Pogoń Szczecin,2012,Polish
+7,7,Tomasz Chałas,POL,F,1.85,73,20-07-88,Pruszków,Zawisza Bydgoszcz,Pogoń Szczecin,2012,Polish
+8,8,Peter Hricko,SVK,D,1.77,76,25-07-81,Gelnica,Polonia Bytom,Pogoń Szczecin,2012,Polish
+9,9,Adam Frączczak,POL,M,1.84,76,07-08-87,Kołobrzeg,Kotwica Kołobrzeg,Pogoń Szczecin,2012,Polish
+10,10,Donald Djoussé,CMR,F,1.83,81,18-03-90,Douala,Dinamo Tbilisi,Pogoń Szczecin,2012,Polish
+11,11,Robert Kolendowicz,POL,M,1.74,72,26-09-80,Poznań,Odra Wodzisław,Pogoń Szczecin,2012,Polish
+12,12,Duan Perni,SVK,G,1.91,91,28-11-84,Nitra,Dundee U,Pogoń Szczecin,2012,Polish
+13,13,Takuya Murayama,JPN,M,1.77,68,08-08-89,Osaka,Gwardia Koszalin,Pogoń Szczecin,2012,Polish
+14,14,Wojciech Golla,POL,M,1.82,80,12-01-92,Złotów,Lech Poznań,Pogoń Szczecin,2012,Polish
+16,16,Adrian Budka,POL,M,1.74,74,26-01-80,Zduńska Wola,Widzew Łódź,Pogoń Szczecin,2012,Polish
+17,17,Maksymilian Rogalski,POL,D,1.80,82,24-06-83,Częstochowa,Raków Częstochowa,Pogoń Szczecin,2012,Polish
+18,18,Radosław Wiśniewski,POL,M,1.72,65,10-09-92,Kamień Pomorski,Ina Goleniów,Pogoń Szczecin,2012,Polish
+19,19,Emil Noll,GER,M,1.94,82,21-11-78,Idiofa,Arka Gdynia,Pogoń Szczecin,2012,Polish
+20,20,Bartosz Ława,POL,M,1.76,68,26-02-79,Trzebiatów,Arka Gdynia,Pogoń Szczecin,2012,Polish
+21,21,Bartosz Fabiniak,POL,G,1.97,89,17-09-82,Szczecin,Widzew Łódź,Pogoń Szczecin,2012,Polish
+23,23,Julien Tadrowski,POL,D,1.83,65,17-05-93,Roncq,Arka Gdynia,Pogoń Szczecin,2012,Polish
+25,25,Sebastian Rudol,POL,M,1.83,77,21-02-95,Koszalin,Salos Szczecin,Pogoń Szczecin,2012,Polish
+26,26,Mateusz Wilk,POL,M,1.73,75,29-03-94,Nowy Sącz,Sandecja Nowy Sącz,Pogoń Szczecin,2012,Polish
+27,27,Takafumi Akahoshi,JPN,M,1.75,72,27-05-86,Shizuoka,Liepājas Metalurgs,Pogoń Szczecin,2012,Polish
+28,28,Mateusz Lewandowski,POL,M,1.82,72,18-03-93,Płock,Wisła Płock,Pogoń Szczecin,2012,Polish
+29,29,Norbert Neumann,POL,F,1.89,84,24-02-94,Kamień Pomorski,Chemik Police,Pogoń Szczecin,2012,Polish
+41,44,Hernâni,BRA,D,1.90,90,03-02-84,Antônio Carlos,Korona Kielce,Pogoń Szczecin,2012,Polish
+42,84,Radosław Janukiewicz,POL,G,1.91,89,05-05-84,Wrocław,GKP Gorzów Wielkopolski,Pogoń Szczecin,2012,Polish
+2,2,Wojciech Szymanek,POL,D,1.85,81,01-03-82,Warsaw,Chornomorets Odessa,Polonia Warszawa,2012,Polish
+3,3,Tomasz Wełna,POL,D,1.87,80,27-01-91,Ciechanów,Nadnarwianka Pułtusk,Polonia Warszawa,2012,Polish
+4,4,Igor Morozov,EST,D,1.91,75,27-05-89,Tallinn,Levadia Tallinn,Polonia Warszawa,2012,Polish
+5,5,Piotr Piekarski,POL,M,1.82,75,26-06-93,Lublin,GKS Bełchatów,Polonia Warszawa,2012,Polish
+6,6,Dimitrije Injać,SRB,M,1.82,77,12-08-80,Novi Sad,Lech Poznań,Polonia Warszawa,2012,Polish
+7,7,Paweł Wszołek,POL,F,1.86,77,30-04-92,Tczew,Lechia Gdańsk,Polonia Warszawa,2012,Polish
+8,8,Paweł Tarnowski,POL,F,1.74,72,28-06-90,Radom,Jagiellonia Białystok,Polonia Warszawa,2012,Polish
+9,9,Vytautas Luka,LTU,M,1.76,76,14-08-84,Alytus,Ekranas,Polonia Warszawa,2012,Polish
+11,11,Jacek Kiełb,POL,F,1.83,70,10-01-88,Siedlce,Lech Poznań,Polonia Warszawa,2012,Polish
+14,14,Miłosz Przybecki,POL,M,1.76,66,02-01-91,Śrem,Ruch Radzionków,Polonia Warszawa,2012,Polish
+16,16,Mateusz Michalski,POL,M,1.77,72,29-06-91,,KS Piaseczno,Polonia Warszawa,2012,Polish
+17,17,Diemé Yahiya,SEN,M,1.87,82,10-12-90,Badiana,Górnik Wesoła,Polonia Warszawa,2012,Polish
+18,18,Sebastian Olczak,POL,D,1.86,75,30-11-91,Warsaw,None,Polonia Warszawa,2012,Polish
+19,19,Daniel Gołębiewski,POL,F,1.86,76,15-07-87,Wyszków,MOSiR Wyszków,Polonia Warszawa,2012,Polish
+20,20,Tomasz Hołota,POL,M,1.85,83,27-01-91,Katowice,GKS Katowice,Polonia Warszawa,2012,Polish
+22,22,Krzysztof Kopciński,POL,M,1.80,68,14-07-92,Raciąż,Znicz Pruszków,Polonia Warszawa,2012,Polish
+23,23,Mateusz Gliński,POL,M,1.74,68,03-06-91,Warsaw,SMP UKS Bródno,Polonia Warszawa,2012,Polish
+24,24,Jakub Tosik,POL,D,1.82,74,21-05-87,Zelów,Karpaty Lviv,Polonia Warszawa,2012,Polish
+25,25,Konrad Wrzesiński,POL,M,1.77,65,10-09-93,Pułtusk,KP Piaseczno,Polonia Warszawa,2012,Polish
+26,26,Aleksandar Todorovski,SRB,D,1.81,73,26-02-84,Kraljevo,Rad,Polonia Warszawa,2012,Polish
+27,27,Piotr Grzelczak,POL,F,1.86,82,02-03-88,Łódź,Lechia Gdańsk,Polonia Warszawa,2012,Polish
+28,28,Łukasz Piątek,POL,M,1.80,71,21-09-85,Warsaw,None,Polonia Warszawa,2012,Polish
+31,31,Mariusz Pawełek,POL,G,1.85,81,17-03-81,Lubomia,Konyaspor,Polonia Warszawa,2012,Polish
+32,32,Adam Pazio,POL,M,1.82,72,27-09-92,Wołomin,Huragan Wołomin,Polonia Warszawa,2012,Polish
+37,37,Martin Baran,SVK,M,1.86,82,03-01-88,Preov,Polonia Bytom,Polonia Warszawa,2012,Polish
+41,81,Sebastian Przyrowski,POL,G,1.92,79,30-11-81,Białobrzegi,Groclin Dyskobolia,Polonia Warszawa,2012,Polish
+1,1,Kamil Lech,POL,G,1.88,80,15-09-94,Chorzów,None,Ruch Chorzów,2012,Polish
+2,2,Piotr Stawarczyk,POL,D,1.92,87,29-09-83,Kraków,Widzew Łódź,Ruch Chorzów,2012,Polish
+3,3,Igor Lewczuk,POL,D,1.87,83,30-05-85,Białystok,Jagiellonia Białystok,Ruch Chorzów,2012,Polish
+4,4,eljko Djokić,SRB,D,1.88,85,10-05-82,Novi Sad,Javor Ivanjica,Ruch Chorzów,2012,Polish
+5,5,Marek Zieńczuk,POL,M,1.83,75,24-09-78,Gdańsk,Lechia Gdańsk,Ruch Chorzów,2012,Polish
+6,6,Łukasz Tymiński,POL,M,1.73,67,08-11-90,Żywiec,Jagiellonia Białystok,Ruch Chorzów,2012,Polish
+7,7,Maciej Jankowski,POL,F,1.80,69,04-01-90,Warsaw,KS Piaseczno,Ruch Chorzów,2012,Polish
+8,8,Jakub Smektała,POL,F,1.84,75,26-08-87,Rawicz,Piast Gliwice,Ruch Chorzów,2012,Polish
+9,9,Grzegorz Kuświk,POL,F,1.81,75,23-05-87,Ostrów Wielkopolski,GKS Bełchatów,Ruch Chorzów,2012,Polish
+10,10,Marcin Kikut,POL,D,1.78,76,25-06-83,Barlinek,Lech Poznań,Ruch Chorzów,2012,Polish
+11,11,Mateusz Kwiatkowski,POL,F,1.67,60,23-11-92,Szczecinek,Bałtyk Koszalin,Ruch Chorzów,2012,Polish
+12,12,Krzysztof Kamiński,POL,G,1.91,81,26-11-90,Nowy Dwór Mazowiecki,Wisła Płock,Ruch Chorzów,2012,Polish
+14,14,Łukasz Janoszka,POL,F,1.80,73,18-03-87,Bytom,None,Ruch Chorzów,2012,Polish
+15,15,Martin Konczkowski,POL,D,1.81,74,14-08-93,Ruda Śląska,Wawel Wirek,Ruch Chorzów,2012,Polish
+19,19,Mindaugas Panka,LTU,M,1.85,78,01-05-84,Alytus,Widzew Łódź,Ruch Chorzów,2012,Polish
+20,20,Marek Szyndrowski,POL,D,1.84,75,30-10-80,Świętochłowice,GKS Bełchatów,Ruch Chorzów,2012,Polish
+21,21,Maciej Sadlok,POL,M,1.81,72,29-06-89,Oświęcim,Polonia Warszawa,Ruch Chorzów,2012,Polish
+22,22,Arkadiusz Lewiński,POL,D,1.81,73,18-08-90,Myślenice,Puszcza Niepołomice,Ruch Chorzów,2012,Polish
+23,23,Andrzej Niedzielan,POL,F,1.80,76,27-02-79,Zary,Cracovia Kraków,Ruch Chorzów,2012,Polish
+24,24,Robert Chwastek,POL,M,1.72,69,11-09-88,Chorzów,Dolcan Ząbki,Ruch Chorzów,2012,Polish
+27,27,Kamil Włodyka,POL,M,1.80,70,11-10-94,Jaworzno,MCKiS Sokół Jaworzno,Ruch Chorzów,2012,Polish
+28,28,Gábor Straka,SVK,M,1.80,72,18-12-81,Dunajská Streda,Artmedia Petralka,Ruch Chorzów,2012,Polish
+29,29,Pavel ultes,CZE,F,1.80,77,15-09-85,Valtice,Polonia Warszawa,Ruch Chorzów,2012,Polish
+32,32,Marcin Malinowski,POL,M,1.79,74,06-11-75,Wodzisław Śląski,Odra Wodzisław,Ruch Chorzów,2012,Polish
+33,33,Michal Pekovič,SVK,G,1.88,86,08-02-82,Bratislava,Aris,Ruch Chorzów,2012,Polish
+34,34,Filip Starzyński,POL,M,1.84,70,27-05-91,Szczecin,Salos Szczecin,Ruch Chorzów,2012,Polish
+41,44,Marcin Baszczyński,POL,D,1.82,75,07-06-77,Ruda Śląska,Polonia Warszawa,Ruch Chorzów,2012,Polish
+1,1,Krzysztof Żukowski,POL,G,1.92,88,26-09-85,Słupsk,Flota Świnoujście,Śląsk Wrocław,2012,Polish
+2,2,Krzysztof Ostrowski,POL,M,1.78,73,03-05-82,Wrocław,Widzew Łódź,Śląsk Wrocław,2012,Polish
+3,3,Adam Kokoszka,POL,D,1.86,78,06-10-86,Andrychów,Polonia Warszawa,Śląsk Wrocław,2012,Polish
+4,4,Amir Spahić,BIH,D,1.88,84,13-09-83,Sarajevo,Torpedo Moscow,Śląsk Wrocław,2012,Polish
+5,5,Waldemar Sobota,POL,M,1.75,60,19-05-87,Ozimek,MKS Kluczbork,Śląsk Wrocław,2012,Polish
+8,8,Éric Mouloungui,GAB,F,1.86,73,01-04-84,Port-Gentil,Al-Wahda,Śląsk Wrocław,2012,Polish
+9,9,Sylwester Patejuk,POL,F,1.88,80,30-11-82,Warsaw,Podbeskidzie Bielsko-Biała,Śląsk Wrocław,2012,Polish
+10,10,Mateusz Cetnarski,POL,M,1.75,71,06-07-88,Kolbuszowa,GKS Bełchatów,Śląsk Wrocław,2012,Polish
+11,11,Sebastian Mila,POL,M,1.78,67,10-07-82,Koszalin,Vålerenga,Śląsk Wrocław,2012,Polish
+14,14,Marcin Kowalczyk,POL,D,1.83,83,09-04-85,Wieruszów,Zagłębie Lubin,Śląsk Wrocław,2012,Polish
+15,15,Rafał Grodzicki,POL,D,1.92,96,28-10-83,Kraków,Ruch Chorzów,Śląsk Wrocław,2012,Polish
+16,16,Dalibor Stevanovič,SVN,M,1.83,75,27-09-84,Ljubljana,Volyn Lutsk,Śląsk Wrocław,2012,Polish
+17,17,Mariusz Pawelec,POL,D,1.80,72,14-04-86,Lublin,Górnik Łęczna,Śląsk Wrocław,2012,Polish
+18,18,Johan Voskamp,NED,F,1.93,88,15-10-84,De Lier,Sparta Rotterdam,Śląsk Wrocław,2012,Polish
+20,20,Piotr Ćwielong,POL,F,1.72,70,23-04-86,Chorzów,Wisła Kraków,Śląsk Wrocław,2012,Polish
+21,21,Cristián Omar Díaz,ARG,F,1.83,79,03-11-86,San Miguel de Tucumán,San José,Śląsk Wrocław,2012,Polish
+24,24,Tadeusz Socha,POL,D,1.82,63,15-02-88,Wrocław,None,Śląsk Wrocław,2012,Polish
+25,25,Marijan Kelemen,SVK,G,1.88,82,07-12-79,Michalovce,Aris,Śląsk Wrocław,2012,Polish
+26,26,Przemysław Kaźmierczak,POL,M,1.91,79,05-05-82,Łódź,FC Porto,Śląsk Wrocław,2012,Polish
+27,27,Łukasz Gikiewicz,POL,F,1.88,75,26-10-87,Olsztyn,ŁKS Łódź,Śląsk Wrocław,2012,Polish
+28,28,Marek Wasiluk,POL,D,1.97,88,03-06-87,Białystok,Cracovia Kraków,Śląsk Wrocław,2012,Polish
+29,29,Rok Elsner,SVN,M,1.86,75,25-01-89,Ljubljana,Haugesund,Śląsk Wrocław,2012,Polish
+31,31,Robert Menzel,POL,D,1.92,80,14-02-91,Wrocław,Wratislavia Wrocław,Śląsk Wrocław,2012,Polish
+33,33,Rafał Gikiewicz,POL,G,1.90,82,26-10-87,Olsztyn,Jagiellonia Białystok,Śląsk Wrocław,2012,Polish
+36,36,Kamil Juraszek,POL,D,1.87,80,26-03-91,Bielawa,Lechia Dzierżoniów,Śląsk Wrocław,2012,Polish
+2,2,Jakub Bartkowski,POL,D,1.82,74,07-11-91,Łódź,LKS Różyca,Widzew Łódź,2012,Polish
+4,4,Dino Gavrić,CRO,M,1.87,74,11-04-89,Osijek,Osijek,Widzew Łódź,2012,Polish
+5,5,Thomas Phibel,FRA,D,1.92,90,21-05-86,Les Abymes,Royal Antwerp,Widzew Łódź,2012,Polish
+7,7,Mehdi Ben Dhifallah,TUN,F,1.87,81,06-05-83,Kelibia,Stade Tunisien,Widzew Łódź,2012,Polish
+8,8,Princewill Okachi,NGA,F,1.68,68,20-06-91,Lagos,Dingli Swallows,Widzew Łódź,2012,Polish
+9,9,Marcin Kaczmarek,POL,M,1.70,65,03-12-79,Sieradz,ŁKS Łódź,Widzew Łódź,2012,Polish
+13,13,Maciej Mielcarz,POL,G,1.94,93,15-10-80,Śrem,Korona Kielce,Widzew Łódź,2012,Polish
+14,14,Radosław Bartoszewicz,POL,M,1.84,80,09-05-83,Sztum,Bogdanka Łęczna,Widzew Łódź,2012,Polish
+15,15,Mariusz Stępiński,POL,F,1.83,72,12-05-95,Sieradz,Pogoń Zduńska Wola,Widzew Łódź,2012,Polish
+16,16,Michał Jonczyk,POL,M,1.80,80,11-03-92,Piotrków Trybunalski,Górnik Zabrze,Widzew Łódź,2012,Polish
+17,17,Mateusz Rybicki,POL,F,1.75,55,13-03-93,Łódź,UKS SMS Łódź,Widzew Łódź,2012,Polish
+18,18,Krystian Nowak,POL,M,1.86,84,01-04-94,Ełk,UKS SMS Łódź,Widzew Łódź,2012,Polish
+19,19,Bartłomiej Pawłowski,POL,M,1.78,70,13-11-92,Zgierz,Jagiellonia Białystok,Widzew Łódź,2012,Polish
+20,20,Michał Płotka,POL,D,1.81,69,11-06-88,Puck,Warta Poznań,Widzew Łódź,2012,Polish
+21,21,Patryk Wolański,POL,G,1.88,81,15-08-91,Tuchów,Włókniarz Konstantynów Łódzki,Widzew Łódź,2012,Polish
+22,22,Sebastian Radzio,POL,F,1.85,77,02-04-91,Augustów,Wigry Suwałki,Widzew Łódź,2012,Polish
+23,23,Maciej Krakowiak,POL,G,1.88,76,07-09-92,Łódź,Chojniczanka Chojnice,Widzew Łódź,2012,Polish
+24,24,Milo Dragojević,MNE,G,1.90,88,03-02-89,Podgorica,Budućnost Podgorica,Widzew Łódź,2012,Polish
+28,28,Łukasz Broź,POL,D,1.80,74,17-12-85,Giżycko,Kmita Zabierzów,Widzew Łódź,2012,Polish
+29,29,Aléx Bruno,BRA,M,1.69,61,07-10-93,Queimados,Queimados,Widzew Łódź,2012,Polish
+30,30,Hachem Abbès,TUN,D,1.87,81,01-12-86,Sfax,CS Sfaxien,Widzew Łódź,2012,Polish
+31,31,Emerson Carvalho,BRA,M,1.68,58,16-06-93,Mage,Fluminense,Widzew Łódź,2012,Polish
+32,32,Maksymilian Rozwandowicz,POL,M,1.82,75,18-06-94,Pabianice,Włókniarz Pabianice,Widzew Łódź,2012,Polish
+33,33,Bartłomiej Kasprzak,POL,M,1.72,56,12-01-93,Nowy Targ,Garbarnia Kraków,Widzew Łódź,2012,Polish
+41,77,Sebastian Dudek,POL,M,1.82,76,19-01-80,Żary,Śląsk Wrocław,Widzew Łódź,2012,Polish
+42,94,Veljko Batrović,MNE,M,1.77,73,05-03-94,Radanović,Zeta Golubovci,Widzew Łódź,2012,Polish
+43,95,Patryk Stępiński,POL,D,1.83,72,12-05-95,Sieradz,Pogoń Zduńska Wola,Widzew Łódź,2012,Polish
+2,2,Kew Jaliens,NED,D,1.83,68,15-09-78,Rotterdam,AZ Alkmaar,Wisła Kraków,2012,Polish
+3,3,Gordan Bunoza,BIH,D,1.96,83,05-02-88,Ljubuki,Karlovac,Wisła Kraków,2012,Polish
+4,4,Osman Chávez,HON,D,1.86,91,29-07-84,Santa Fé,Platense,Wisła Kraków,2012,Polish
+5,5,Kamil Kosowski,POL,M,1.86,78,30-08-77,Ostrowiec Świętokrzyski,GKS Bełchatów,Wisła Kraków,2012,Polish
+6,6,Arkadiusz Głowacki,POL,D,1.86,78,13-03-79,Poznań,Trabzonspor,Wisła Kraków,2012,Polish
+7,7,Radosław Sobolewski,POL,M,1.82,79,13-12-76,Białystok,Groclin Dyskobolia,Wisła Kraków,2012,Polish
+8,8,Tsvetan Genkov,BUL,F,1.84,83,08-08-84,Mezdra,Dynamo Moscow,Wisła Kraków,2012,Polish
+9,9,Rafał Boguski,POL,F,1.73,70,09-06-84,Ostrołęka,GKS Bełchatów,Wisła Kraków,2012,Polish
+10,10,Łukasz Garguła,POL,M,1.78,73,25-02-81,Żagań,GKS Bełchatów,Wisła Kraków,2012,Polish
+12,12,Michał Miśkiewicz,POL,G,1.94,92,20-01-89,Kraków,Milan,Wisła Kraków,2012,Polish
+15,15,Emmanuel Sarki,NGA,M,1.78,70,26-12-87,Kaduna,Waasland-Beveren,Wisła Kraków,2012,Polish
+17,17,Daniel Brud,POL,M,1.83,80,20-05-89,Kraków,Freiburg,Wisła Kraków,2012,Polish
+19,19,Patryk Małecki,POL,F,1.70,70,01-08-88,Suwałki,Wigry Suwałki,Wisła Kraków,2012,Polish
+20,20,Michał Chrapek,POL,M,1.74,68,03-04-92,Jaworzno,Victoria Jaworzno,Wisła Kraków,2012,Polish
+21,21,Łukasz Burliga,POL,M,1.86,78,15-05-88,Sucha Beskidzka,None,Wisła Kraków,2012,Polish
+22,22,Marko Jovanović,SRB,D,1.89,76,26-03-88,Belgrade,Partizan Belgrade,Wisła Kraków,2012,Polish
+23,23,Daniel Sikorski,AUT,F,1.83,73,02-11-87,Waidhofen an der Thaya,Polonia Warszawa,Wisła Kraków,2012,Polish
+25,25,Sergei Pareiko,EST,G,1.93,84,31-01-77,Tallinn,Tom Tomsk,Wisła Kraków,2012,Polish
+28,28,Cezary Wilk,POL,M,1.80,74,12-02-86,Warsaw,Korona Kielce,Wisła Kraków,2012,Polish
+30,30,Gerard Bieszczad,POL,G,1.98,83,05-02-93,Dębica,Lech Poznań,Wisła Kraków,2012,Polish
+33,33,Michał Czekaj,POL,D,1.95,83,13-02-92,Kraków,None,Wisła Kraków,2012,Polish
+34,34,Alan Uryga,POL,M,1.91,85,19-02-94,Kraków,Hutnik Kraków,Wisła Kraków,2012,Polish
+36,36,Jan Kocoń,POL,G,1.86,82,11-02-93,,None,Wisła Kraków,2012,Polish
+41,41,Paweł Stolarski,POL,M,1.81,72,28-01-96,Kraków,None,Wisła Kraków,2012,Polish
+42,42,Michał Szewczyk,POL,F,1.76,74,17-10-92,Chorzów,Zatorzanka Zator,Wisła Kraków,2012,Polish
+43,77,Ivica Iliev,SRB,F,1.82,78,27-10-79,Belgrade,Partizan Belgrade,Wisła Kraków,2012,Polish
+1,1,Marek Kozioł,POL,G,1.99,91,01-06-88,Nowy Sącz,Sandecja Nowy Sącz,Zagłębie Lubin,2012,Polish
+2,2,Costa Nhamoinesu,ZIM,D,1.87,74,06-01-86,Harare,Wisła Ustronianka,Zagłębie Lubin,2012,Polish
+3,3,Csaba Horváth,SVK,D,1.92,82,02-05-82,Dunajská Streda,ADO Den Haag,Zagłębie Lubin,2012,Polish
+4,4,Pavel Vidanov,BUL,D,1.85,79,01-08-88,Sofia,CSKA Sofia,Zagłębie Lubin,2012,Polish
+5,5,Adam Banaś,POL,D,1.85,79,25-12-82,Bytom,Górnik Zabrze,Zagłębie Lubin,2012,Polish
+6,6,Elton Lira,BRA,M,1.85,75,21-09-86,São Paulo,Paysandu,Zagłębie Lubin,2012,Polish
+7,7,Jiří Bílek,CZE,M,1.83,70,04-11-83,Neratovice,Kaiserslautern,Zagłębie Lubin,2012,Polish
+11,11,Arkadiusz Woźniak,POL,F,1.84,68,01-06-90,Lubin,None,Zagłębie Lubin,2012,Polish
+12,12,Amadeusz Skrzyniarz,POL,G,1.84,76,07-07-94,Dzierżoniów,Orzeł Ząbkowice,Zagłębie Lubin,2012,Polish
+14,14,Djordje Čotra,SRB,D,1.86,75,13-09-84,Benkovac,Polonia Warszawa,Zagłębie Lubin,2012,Polish
+15,15,Adrian Błąd,POL,D,1.65,62,16-04-91,Lubin,None,Zagłębie Lubin,2012,Polish
+17,17,Adrian Rakowski,POL,M,1.80,70,07-10-90,Żagań,Vitrosilicon Iłowa,Zagłębie Lubin,2012,Polish
+19,19,Maciej Małkowski,POL,M,1.70,65,19-03-85,Jastrzębie-Zdrój,GKS Bełchatów,Zagłębie Lubin,2012,Polish
+20,20,David Solomon Abwo,NGA,M,1.70,70,10-05-86,Jos,Lombard Pápa,Zagłębie Lubin,2012,Polish
+21,21,Bartosz Rymaniak,POL,M,1.89,80,13-11-89,Gostyń,Jarota Jarocin,Zagłębie Lubin,2012,Polish
+22,22,Maciej Kowalski-Haberek,POL,D,1.83,74,16-05-94,Lubin,Górnik Polkowice,Zagłębie Lubin,2012,Polish
+23,23,Szymon Pawłowski,POL,M,1.75,69,04-11-86,Połczyn Zdrój,Mieszko Gniezno,Zagłębie Lubin,2012,Polish
+24,24,Michał Gliwa,POL,G,1.88,76,08-04-88,Rzeszów,Polonia Warszawa,Zagłębie Lubin,2012,Polish
+25,25,Łukasz Hanzel,POL,M,1.81,71,16-09-86,Cieszyn,Rozwój Katowice,Zagłębie Lubin,2012,Polish
+27,27,Michal Papadopulos,CZE,F,1.83,79,14-04-85,Ostrava,FC Rostov,Zagłębie Lubin,2012,Polish
+31,31,Róbert Je,SVK,M,1.78,73,10-07-81,Nitra,Polonia Warszawa,Zagłębie Lubin,2012,Polish
+33,33,Aleksandar Tunchev,BUL,D,1.88,84,10-07-81,Pazardzhik,Leicester C,Zagłębie Lubin,2012,Polish
+37,37,Boris Godál,SVK,D,1.88,78,27-05-87,Trenčín,AS Trenčín,Zagłębie Lubin,2012,Polish
+38,38,Damian Kowalczyk,POL,F,1.85,70,03-08-95,Jawor,Javoria Jawor,Zagłębie Lubin,2012,Polish
+41,77,Wojciech Trochim,POL,M,1.80,76,31-03-89,Mińsk Mazowiecki,Warta Poznań,Zagłębie Lubin,2012,Polish
+42,85,Martins Ekwueme,NGA,M,1.82,80,02-10-85,Mbaise,Legia Warszawa,Zagłębie Lubin,2012,Polish
+43,88,Kamil Wilczek,POL,M,1.86,78,14-01-88,Wodzisław Śląski,Piast Gliwice,Zagłębie Lubin,2012,Polish

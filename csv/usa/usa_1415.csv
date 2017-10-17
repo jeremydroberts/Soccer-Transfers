@@ -1,0 +1,550 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Alec Kann,USA,G,1.93,87,08-08-90,Decatur,Charleston Battery,Chicago Fire,2014,USA
+3,3,Hunter Jumper,USA,D,1.88,80,28-02-89,Plano,Univ of Virginia,Chicago Fire,2014,USA
+4,4,Bakary Soumaré,MLI,D,1.93,86,09-11-85,Bamako,Philadelphia Union,Chicago Fire,2014,USA
+5,5,Lovel Palmer,JAM,M,1.78,73,30-08-84,Mandeville,Real Salt Lake,Chicago Fire,2014,USA
+6,6,Patrick Ianni,USA,D,1.85,79,15-06-85,Lodi,Seattle Sounders,Chicago Fire,2014,USA
+7,7,Alex,BRA,M,1.74,70,15-12-88,São Paulo,Wohlen,Chicago Fire,2014,USA
+8,8,Grant Ward,ENG,M,1.78,73,04-12-94,Lewisham,Tottenham H,Chicago Fire,2014,USA
+9,9,Mike Magee,USA,F,1.75,68,02-09-84,Chicago,LA Galaxy,Chicago Fire,2014,USA
+11,11,Sanna Nyassi,GAM,M,1.72,66,31-01-89,Bwiam,Montreal Impact,Chicago Fire,2014,USA
+12,12,Logan Pause,USA,D,1.78,70,22-08-81,Raleigh,Univ of North Carolina,Chicago Fire,2014,USA
+13,13,Gonzalo Segares,CRC,D,1.80,73,13-10-82,San José [CRC],Apollon Limassol,Chicago Fire,2014,USA
+14,14,Patrick Nyarko,GHA,F,1.83,75,15-01-86,Kumasi,Virginia Tech Univ,Chicago Fire,2014,USA
+15,15,Matt Fondy,USA,F,1.85,77,28-07-89,Foster City,Chivas USA,Chicago Fire,2014,USA
+16,16,Greg Cochrane,USA,D,1.73,64,11-01-90,Holland,LA Galaxy,Chicago Fire,2014,USA
+18,18,Steven Kinney,USA,D,1.82,79,28-10-87,Norcross,Elon Univ,Chicago Fire,2014,USA
+19,19,Harrison Shipp,USA,F,1.75,66,07-11-91,Lake Forest,Univ of Notre Dame,Chicago Fire,2014,USA
+20,20,Jeff Larentowicz,USA,D,1.85,79,05-08-83,West Chester,Colorado Rapids,Chicago Fire,2014,USA
+21,21,Chris Ritter,USA,M,1.88,86,29-10-90,Winetka,Northwestern Univ,Chicago Fire,2014,USA
+22,22,Matt Watson,ENG,M,1.83,82,01-01-85,Bromsgrove,Vancouver Whitecaps,Chicago Fire,2014,USA
+23,23,Marco Franco,USA,D,1.80,70,06-10-91,Chino Hills,UC Irvine,Chicago Fire,2014,USA
+24,24,Quincy Amarikwa,USA,F,1.75,73,29-10-87,Bakersfield,Toronto FC,Chicago Fire,2014,USA
+25,25,Sean Johnson,USA,G,1.93,98,31-05-89,Lilburn,Univ of Central Florida,Chicago Fire,2014,USA
+27,27,Victor Pineda,USA,M,1.80,64,15-03-93,Bolingbrook,None,Chicago Fire,2014,USA
+28,28,Kyle Reynish,USA,G,1.91,91,03-11-83,"Valencia, CA",New York Cosmos,Chicago Fire,2014,USA
+30,30,Răzvan Cociş,ROU,F,1.81,72,19-02-83,Cluj-Napoca,Hoverla Uzhhorod,Chicago Fire,2014,USA
+33,33,Juan Luis Anangonó,ECU,F,1.85,75,13-04-89,Ibarra,Argentinos Juniors,Chicago Fire,2014,USA
+41,54,Benji Joya,USA,M,1.73,66,22-09-93,San Jose,Santos Laguna,Chicago Fire,2014,USA
+42,88,Robert Earnshaw,WAL,F,1.73,68,06-04-81,Mulfulira,Blackpool,Chicago Fire,2014,USA
+43,99,Florent Sinama-Pongolle,FRA,F,1.76,69,20-10-84,Saint-Pierre,FC Rostov,Chicago Fire,2014,USA
+1,1,Dan Kennedy,USA,G,1.85,91,22-07-82,Fullerton,Municipal Iquique,Chivas USA,2014,USA
+2,2,Bobby Burling,USA,D,1.96,87,15-10-85,Clear Lake City,San Jose Earthquakes,Chivas USA,2014,USA
+3,3,Carlos Bocanegra,USA,D,1.83,78,25-05-79,Alta Loma,Rangers,Chivas USA,2014,USA
+4,4,Tony Lochhead,NZL,D,1.83,75,12-01-82,Tauranga,Wellington Phoenix,Chivas USA,2014,USA
+5,5,Martín Rivero,ARG,M,1.75,72,13-11-89,Rosario,Rosario Central,Chivas USA,2014,USA
+6,6,Matthew Dunn,USA,M,1.78,74,13-01-94,Dallas,Univ of Maine,Chivas USA,2014,USA
+7,7,Nigel Reo-Coker,ENG,M,1.75,76,14-05-84,Southwark,Vancouver Whitecaps,Chivas USA,2014,USA
+8,8,Agustín Pelletieri,ARG,M,1.77,70,17-05-82,Capital Federal,Racing Club,Chivas USA,2014,USA
+9,9,Erick Torres,MEX,F,1.80,68,19-01-93,Guadalajara,Guadalajara,Chivas USA,2014,USA
+10,10,Luis Bolaños,ECU,M,1.75,65,27-03-85,Quito,LDU Quito,Chivas USA,2014,USA
+11,11,Leandro Barrera,ARG,F,1.79,78,22-02-91,Godoy Cruz,Argentinos Juniors,Chivas USA,2014,USA
+12,12,Marco Delgado,USA,M,1.75,67,16-05-95,Glendora,None,Chivas USA,2014,USA
+13,13,Michael Nwiloh,USA,D,1.90,93,10-11-90,Conyers,Georgia State Univ,Chivas USA,2014,USA
+14,14,Akira Kaji,JPN,D,1.77,73,13-01-80,Hyogo,Gamba Osaka,Chivas USA,2014,USA
+15,15,Eric Avila,USA,M,1.73,68,24-11-87,San Diego,Toronto FC,Chivas USA,2014,USA
+16,16,Andrew Jean-Baptiste,USA,D,1.88,93,16-06-92,Brooklyn,Portland Timbers,Chivas USA,2014,USA
+17,17,Thomas McNamara,USA,M,1.75,77,06-02-91,West Nyack,Clemson Univ,Chivas USA,2014,USA
+18,18,Marvin Chávez,HON,F,1.65,66,03-11-83,La Ceiba,Colorado Rapids,Chivas USA,2014,USA
+19,19,Ryan Finley,USA,F,1.83,82,27-03-91,Lumberton,Columbus Crew,Chivas USA,2014,USA
+20,20,Félix Borja,ECU,F,1.80,70,02-04-83,San Lorenzo [ECU],Pachuca,Chivas USA,2014,USA
+21,21,Kris Tyrpak,USA,F,1.80,66,07-05-92,Dripping Springs,Houston Baptist Univ,Chivas USA,2014,USA
+22,22,Eriq Zavaleta,USA,F,1.85,84,02-08-92,Westfield,Seattle Sounders,Chivas USA,2014,USA
+23,23,Trevor Spangenburg,USA,G,1.88,86,21-04-91,"Valparaiso, IN",Missouri State Univ,Chivas USA,2014,USA
+24,24,Nathan Sturgis,USA,D,1.78,68,06-07-87,St Augustine,Colorado Rapids,Chivas USA,2014,USA
+25,25,Donny Toia,USA,D,1.73,73,28-05-92,Tucson,Phoenix FC,Chivas USA,2014,USA
+29,29,Caleb Calvert,USA,F,1.88,73,22-10-96,Wrightwood,None,Chivas USA,2014,USA
+30,30,Oswaldo Minda,ECU,M,1.80,78,26-07-83,Quito,Deportivo Quito,Chivas USA,2014,USA
+34,34,Jhon Hurtado,COL,D,1.82,83,16-05-84,Padilla,Chicago Fire,Chivas USA,2014,USA
+1,1,Clint Irwin,USA,G,1.91,89,01-04-89,Charlotte,Charlotte Eagles,Colorado Rapids,2014,USA
+2,2,Nick LaBrocca,USA,M,1.78,75,04-12-84,Staten Island,Chivas USA,Colorado Rapids,2014,USA
+3,3,Drew Moor,USA,D,1.83,77,15-01-84,Dallas,FC Dallas,Colorado Rapids,2014,USA
+4,4,Marc Burch,USA,D,1.88,86,07-05-84,Cincinnati,Seattle Sounders,Colorado Rapids,2014,USA
+5,5,Thomas Piermayr,AUT,M,1.81,74,02-08-89,Linz,Lillestrøm,Colorado Rapids,2014,USA
+6,6,José Mari,ESP,M,1.81,65,06-12-87,Rota,Zaragoza,Colorado Rapids,2014,USA
+7,7,Vicente Sánchez,URU,F,1.70,63,07-12-79,Montevideo,Nacional [URU],Colorado Rapids,2014,USA
+8,8,Dillon Powers,USA,M,1.80,77,14-02-91,Plano,Univ of Notre Dame,Colorado Rapids,2014,USA
+9,9,Edson Buddle,USA,F,1.85,77,21-05-81,New Rochelle,LA Galaxy,Colorado Rapids,2014,USA
+10,10,Gabriel Torres,PAN,F,1.80,72,13-10-88,Ciudad de Panamá,Zamora,Colorado Rapids,2014,USA
+11,11,Brian Mullan,USA,F,1.73,68,23-04-78,Mineola,Houston Dynamo,Colorado Rapids,2014,USA
+12,12,John Berner,USA,G,1.91,93,14-02-91,St Louis,SIU Edwardsville,Colorado Rapids,2014,USA
+13,13,Kamani Hill,USA,F,1.83,77,28-12-85,Berkeley,Vitória Guimarães,Colorado Rapids,2014,USA
+15,15,Chris Klute,USA,D,1.86,78,05-03-90,Grand Prairie,Atlanta Silverbacks,Colorado Rapids,2014,USA
+16,16,John Neeskens,USA,D,1.85,73,17-11-93,Tulsa,Badalona,Colorado Rapids,2014,USA
+17,17,Dillon Serna,USA,M,1.70,64,25-03-94,"Brighton, CO",Univ of Akron,Colorado Rapids,2014,USA
+18,18,Zat Knight,ENG,D,1.98,86,02-05-80,Solihull,Bolton W,Colorado Rapids,2014,USA
+19,19,Charles Eloundou,CMR,F,1.70,70,04-12-94,Yaoundé,AS Fortuna de Mfou,Colorado Rapids,2014,USA
+21,21,Grant Van De Casteele,USA,D,1.88,75,10-05-91,Plano,Univ of Notre Dame,Colorado Rapids,2014,USA
+22,22,Marvell Wynne,USA,D,1.75,78,08-05-86,Pittsburgh,Toronto FC,Colorado Rapids,2014,USA
+23,23,Joe Nasco,USA,G,1.91,93,18-06-84,Kissimmee,Atlanta Silverbacks,Colorado Rapids,2014,USA
+26,26,Deshorn Brown,JAM,F,1.88,77,22-12-90,Manchester [JAM],Univ of Central Florida,Colorado Rapids,2014,USA
+27,27,Shane O'Neill,IRL,M,1.88,87,02-09-93,Middleton,None,Colorado Rapids,2014,USA
+28,28,Davy Armstrong,USA,M,1.78,68,03-11-91,Aurora,None,Colorado Rapids,2014,USA
+33,33,Jared Watts,USA,M,1.85,70,03-02-92,Statesville,Wake Forest Univ,Colorado Rapids,2014,USA
+41,44,Gale Agbossoumonde,USA,D,1.89,92,17-11-91,Lomé,Toronto FC,Colorado Rapids,2014,USA
+42,55,Danny Mwanga,COD,F,1.88,79,17-07-91,Kinshasa,Portland Timbers,Colorado Rapids,2014,USA
+43,57,Carlos Álvarez,USA,M,1.78,73,12-11-90,Los Angeles,Chivas USA,Colorado Rapids,2014,USA
+44,94,Marlon Hairston,USA,M,1.83,71,23-03-94,Jackson,Univ of Louisville,Colorado Rapids,2014,USA
+1,1,Steve Clark,USA,G,1.90,86,19-04-86,Mason,Hønefoss,Columbus Crew,2014,USA
+2,2,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport Beach,Colorado Rapids,Columbus Crew,2014,USA
+3,3,Josh Williams,USA,D,1.88,87,18-04-88,Akron,Cleveland State Univ,Columbus Crew,2014,USA
+4,4,Michael Parkhurst,USA,D,1.82,72,24-01-84,Providence,Augsburg,Columbus Crew,2014,USA
+5,5,Emanuel Pogatetz,AUT,D,1.89,76,16-01-83,Graz,Nürnberg,Columbus Crew,2014,USA
+6,6,Tony Tchani,CMR,M,1.93,83,13-04-89,Bafang,Toronto FC,Columbus Crew,2014,USA
+7,7,Bernardo Anor,VEN,M,1.73,72,24-05-88,Caracas,Univ of Sth Florida,Columbus Crew,2014,USA
+9,9,Justin Meram,USA,F,1.85,75,04-12-88,Shelby Township,Univ of Michigan,Columbus Crew,2014,USA
+10,10,Federico Higuaín,ARG,F,1.72,72,25-10-84,Villa Celina,Colón (Santa Fe),Columbus Crew,2014,USA
+11,11,Daniel Paladini,USA,M,1.75,75,11-12-84,Northridge,Chicago Fire,Columbus Crew,2014,USA
+12,12,Héctor Jiménez,USA,M,1.75,64,03-11-88,Huntington Park,LA Galaxy,Columbus Crew,2014,USA
+13,13,Ethan Finlay,USA,M,1.75,75,06-08-90,Marshfield,Creighton Univ,Columbus Crew,2014,USA
+14,14,Waylon Francis,CRC,D,1.75,73,20-09-90,Puerto Limón,CS Herediano,Columbus Crew,2014,USA
+16,16,Eric Gehrig,USA,M,1.85,73,15-12-87,Schererville,Loyola Univ,Columbus Crew,2014,USA
+17,17,Ben Speas,USA,F,1.73,71,17-01-91,Stow,Univ of Nth Carolina,Columbus Crew,2014,USA
+18,18,Aaron Schoenfeld,USA,F,1.93,87,17-04-90,Knoxville,East Tennessee State Univ,Columbus Crew,2014,USA
+19,19,Jairo Arrieta,CRC,F,1.75,68,25-08-83,Nicoya,Deportivo Saprissa,Columbus Crew,2014,USA
+20,20,Will Trapp,USA,M,1.73,68,15-01-93,Gahanna,Univ of Akron,Columbus Crew,2014,USA
+21,21,Chad Barson,USA,D,1.78,77,25-02-91,Lewis Center,Univ of Akron,Columbus Crew,2014,USA
+22,22,Ben Sweat,USA,D,1.88,79,04-09-91,Palm Harbor,Univ of Sth Florida,Columbus Crew,2014,USA
+23,23,Kevan George,TRI,M,1.88,77,30-01-90,Roxborough,Univ of Central Florida,Columbus Crew,2014,USA
+24,24,Agustín Viana,URU,M,1.81,79,23-08-83,Miami,Bella Vista,Columbus Crew,2014,USA
+25,25,Romain Gall,FRA,M,1.75,64,31-01-95,Paris,Lorient,Columbus Crew,2014,USA
+27,27,Ross Friedman,USA,D,1.75,70,08-01-92,Columbus,Harvard Univ,Columbus Crew,2014,USA
+28,28,Matt Lampson,USA,G,1.91,87,06-09-89,Cleveland,Ohio State Univ,Columbus Crew,2014,USA
+29,29,Adam Bedell,USA,F,2.01,93,01-12-91,Livonia,Univ of Detroit Mercy,Columbus Crew,2014,USA
+30,30,Fifi Baiden,GHA,M,1.70,68,11-11-91,Accra,UC Santa Barbara,Columbus Crew,2014,USA
+31,31,Matt Wiet,USA,D,1.80,77,23-09-90,Columbus,Dayton Dutch Lions,Columbus Crew,2014,USA
+33,33,Matt Walker,USA,M,1.68,68,16-09-92,Cincinnati,Xavier Univ,Columbus Crew,2014,USA
+41,41,Brad Stuver,USA,G,1.91,82,16-04-91,Mayfield,Cleveland State Univ,Columbus Crew,2014,USA
+1,1,Raúl Fernández,PER,G,1.84,81,06-10-85,Lima,Nice,FC Dallas,2014,USA
+3,3,Moisés Hernández,USA,D,1.83,70,05-03-92,Dallas,None,FC Dallas,2014,USA
+5,5,Jair Benítez,COL,D,1.70,67,12-01-79,Candelaria,Deportivo Cali,FC Dallas,2014,USA
+6,6,Adam Moffat,SCO,M,1.83,87,15-05-86,Linwood,Seattle Sounders,FC Dallas,2014,USA
+7,7,Blas Pérez,PAN,F,1.87,85,13-03-81,Ciudad de Panamá,UANL Tigres,FC Dallas,2014,USA
+8,8,Peter Luccin,FRA,M,1.81,75,09-04-79,Marseille,Lausanne-Sport,FC Dallas,2014,USA
+9,9,David Texeira,URU,F,1.81,82,27-02-91,Salto,FC Groningen,FC Dallas,2014,USA
+10,10,Mauro Díaz,ARG,M,1.70,62,10-03-91,Concepción del Uruguay,River Plate,FC Dallas,2014,USA
+11,11,Fábian Castillo,COL,F,1.71,68,17-06-92,Cali,Deportivo Cali,FC Dallas,2014,USA
+12,12,Ryan Hollingshead,USA,M,1.86,82,16-04-91,Sacramento,UCLA,FC Dallas,2014,USA
+13,13,Tesho Akindele,CAN,F,1.80,77,31-03-92,Calgary,Colorado School of Mines,FC Dallas,2014,USA
+14,14,George John,USA,M,1.90,91,20-03-87,Shoreline,Univ of Washington,FC Dallas,2014,USA
+15,15,Brian Span,USA,M,1.87,82,24-02-92,Somers,Djurgårdens IF,FC Dallas,2014,USA
+16,16,Coy Craft,USA,F,1.88,80,23-05-97,Abingdon,None,FC Dallas,2014,USA
+17,17,Zach Lloyd,USA,D,1.75,73,18-07-87,Tulsa,Univ of Nth Carolina,FC Dallas,2014,USA
+18,18,Chris Seitz,USA,G,1.93,100,12-03-87,San Luis Obispo,Philadelphia Union,FC Dallas,2014,USA
+20,20,Hendry Thomas,HON,M,1.80,80,23-02-85,La Ceiba,Colorado Rapids,FC Dallas,2014,USA
+21,21,Walter Cabrera,PAR,D,1.83,80,07-01-90,,General Díaz,FC Dallas,2014,USA
+22,22,Stephen Keel,USA,D,1.83,84,11-04-83,Littleton,New York Red Bulls,FC Dallas,2014,USA
+23,23,Kellyn Acosta,USA,M,1.77,68,24-07-95,Plano,None,FC Dallas,2014,USA
+24,24,Matt Hedges,USA,D,1.93,87,01-04-90,Rochester,Univ of Nth Carolina,FC Dallas,2014,USA
+25,25,Walker Zimmerman,USA,D,1.91,84,19-05-93,Lawrenceville,Furman Univ,FC Dallas,2014,USA
+26,26,Danny Garcia,USA,M,1.65,70,14-10-93,Dallas,Univ of Nth Carolina,FC Dallas,2014,USA
+27,27,JeVaughn Watson,JAM,M,1.83,79,22-10-83,St. Catherine,Houston Dynamo,FC Dallas,2014,USA
+28,28,Victor Ulloa,USA,M,1.83,72,04-03-92,Wylie,None,FC Dallas,2014,USA
+31,31,Michel,BRA,D,1.86,81,09-06-81,Serra,Aris,FC Dallas,2014,USA
+32,32,Jonathan Top,USA,F,1.73,73,26-01-93,Fort Worth,None,FC Dallas,2014,USA
+34,34,Nick Walker,TRI,D,1.90,86,23-01-90,Port of Spain,Fairleigh Dickinson Univ,FC Dallas,2014,USA
+40,40,Richard Sánchez,MEX,G,1.90,89,05-04-94,Mission Hills,None,FC Dallas,2014,USA
+41,44,Jesse González,MEX,G,1.93,82,25-04-95,Edenton,None,FC Dallas,2014,USA
+42,91,Andrés Escobar,COL,F,1.69,67,14-05-91,Puerto Tejada,Dynamo Kyiv,FC Dallas,2014,USA
+2,2,Jeff Parke,USA,D,1.85,73,23-03-82,Downington,Philadelphia Union,D.C. United,2014,USA
+3,3,David Estrada,USA,F,1.73,73,04-02-88,Morelia,Seattle Sounders,D.C. United,2014,USA
+4,4,Nana Attakora-Gyan,CAN,D,1.85,84,27-03-89,North York,San Jose Earthquakes,D.C. United,2014,USA
+5,5,Sean Franklin,USA,D,1.78,70,21-03-85,Panorama City,LA Galaxy,D.C. United,2014,USA
+6,6,Kofi Opare,CAN,D,1.88,87,12-10-90,Niagara Falls,LA Galaxy,D.C. United,2014,USA
+7,7,Eddie Johnson,USA,F,1.83,81,31-03-84,Daytona Beach,Seattle Sounders,D.C. United,2014,USA
+8,8,Davy Arnuad,USA,M,1.83,75,22-06-80,Nederland,Montreal Impact,D.C. United,2014,USA
+9,9,Fabian Espíndola,ARG,F,1.75,73,04-05-85,Merlo,New York Red Bulls,D.C. United,2014,USA
+11,11,Luis Silva,USA,M,1.80,77,10-12-88,Los Angeles,Toronto FC,D.C. United,2014,USA
+12,12,Alex Caskey,USA,M,1.78,69,22-07-88,Dunwoody,Seattle Sounders,D.C. United,2014,USA
+13,13,Chris Pontius,USA,F,1.83,77,12-05-87,Yorba Linda,UC Santa Barbara,D.C. United,2014,USA
+14,14,Nick DeLeon,USA,M,1.78,77,17-07-90,Phoenix,Univ of Louisville,D.C. United,2014,USA
+15,15,Steve Birnbaum,USA,D,1.85,82,23-01-91,Irvine,Univ of California,D.C. United,2014,USA
+17,17,Conor Shanosky,USA,M,1.93,84,13-12-91,Sterling,None,D.C. United,2014,USA
+18,18,Chris Rolfe,USA,F,1.73,66,17-01-83,"Kettering, OH",Chicago Fire,D.C. United,2014,USA
+19,19,Kyle Porter,CAN,F,1.83,73,19-01-90,Toronto,FC Edmonton,D.C. United,2014,USA
+20,20,Jalen Robinson,USA,D,1.75,66,08-05-94,Catonsville,Wake Forest Univ,D.C. United,2014,USA
+21,21,Samuel Inkoom,GHA,D,1.79,75,22-08-89,Sekondi-Takoradi,Dnipro Dnipropetrovsk,D.C. United,2014,USA
+22,22,Chris Korb,USA,D,1.75,73,08-10-87,Gates Mills,Univ of Akron,D.C. United,2014,USA
+23,23,Perry Kitchen,USA,D,1.83,73,29-02-92,Indianapolis,Univ of Akron,D.C. United,2014,USA
+24,24,Lewis Neal,ENG,M,1.80,69,14-07-81,Leicester,Orlando C,D.C. United,2014,USA
+25,25,Jared Jeffrey,USA,M,1.78,75,14-06-90,Dallas,Mainz II,D.C. United,2014,USA
+27,27,Collin Martin,USA,M,1.80,68,09-11-94,Chevy Chase,Wake Forest Univ,D.C. United,2014,USA
+28,28,Bill Hamid,USA,G,1.90,102,25-11-90,Annandale,None,D.C. United,2014,USA
+29,29,Michael Seaton,JAM,F,1.83,82,01-05-96,Spanish Town,None,D.C. United,2014,USA
+30,30,Conor Doyle,IRL,F,1.88,78,13-10-91,McKinney,Derby Co,D.C. United,2014,USA
+31,31,Joe Willis,USA,G,1.96,86,10-08-88,St Louis,Univ of Denver,D.C. United,2014,USA
+32,32,Bobby Boswell,USA,D,1.88,84,15-03-83,Tampa,Houston Dynamo,D.C. United,2014,USA
+33,33,Taylor Kemp,USA,D,1.80,70,23-07-90,Highland Ranch,Univ of Maryland,D.C. United,2014,USA
+41,50,Andrew Dykstra,USA,G,1.93,93,02-01-86,Honolulu,Charleston Battery,D.C. United,2014,USA
+1,1,Tally Hall,USA,G,1.93,93,12-05-85,SeaTac,Esbjerg,Houston Dynamo,2014,USA
+2,2,Eric Brunner,USA,D,1.93,77,12-02-86,"Dublin, OH",Portland Timbers,Houston Dynamo,2014,USA
+3,3,Anthony Arena,USA,D,1.80,77,03-08-90,Kenmore,Wake Forest Univ,Houston Dynamo,2014,USA
+4,4,Jermaine Taylor,JAM,D,1.81,82,14-01-85,Portland [JAM],St. George's SC,Houston Dynamo,2014,USA
+7,7,Omar Cummings,JAM,F,1.78,75,13-07-82,Old Harbour,Colorado Rapids,Houston Dynamo,2014,USA
+8,8,Kofi Sarkodie,USA,D,1.75,75,22-03-91,Dayton,Univ of Akron,Houston Dynamo,2014,USA
+9,9,Bryan Salazar,USA,F,1.75,71,17-10-94,Houston,None,Houston Dynamo,2014,USA
+10,10,Alex López,HON,M,1.76,70,05-06-92,Tegucigalpa,Olimpia [HON],Houston Dynamo,2014,USA
+11,11,Brad Davis,USA,M,1.80,75,08-11-81,St Charles,Dallas Burn,Houston Dynamo,2014,USA
+12,12,Will Bruin,USA,D,1.88,88,24-10-89,St Louis,Indiana Univ,Houston Dynamo,2014,USA
+13,13,Ricardo Clark,USA,M,1.78,68,10-02-83,Atlanta,Eintracht Frankfurt,Houston Dynamo,2014,USA
+14,14,Jason Johnson,JAM,F,1.83,82,09-10-90,Happy News,Virginia C'wealth Univ,Houston Dynamo,2014,USA
+15,15,Mark Sherrod,USA,F,1.91,84,13-08-90,Knoxville,Univ of Memphis,Houston Dynamo,2014,USA
+16,16,AJ Cochran,USA,D,1.90,88,09-02-93,St Louis,Univ of Wisconsin,Houston Dynamo,2014,USA
+17,17,Servando Carrasco,USA,M,1.78,77,13-08-88,Coronado,Seattle Sounders,Houston Dynamo,2014,USA
+18,18,David Horst,USA,D,1.93,95,25-10-85,Pine Grove,Portland Timbers,Houston Dynamo,2014,USA
+19,19,Luis Garrido,HON,M,1.78,70,05-11-90,Olancho,Olimpia [HON],Houston Dynamo,2014,USA
+20,20,Andrew Driver,ENG,M,1.75,68,12-11-87,Oldham,Hearts,Houston Dynamo,2014,USA
+21,21,DaMarcus Beasley,USA,M,1.73,66,24-05-82,Fort Wayne,Puebla,Houston Dynamo,2014,USA
+22,22,Brian Ownby,USA,M,1.80,75,16-07-90,"Richmond, VA",Univ of Virginia,Houston Dynamo,2014,USA
+23,23,Giles Barnes,ENG,F,1.83,82,05-08-88,Barking,Doncaster R,Houston Dynamo,2014,USA
+24,24,Tyler Deric,USA,G,1.91,84,30-08-88,Spring,Univ of Nth Carolina,Houston Dynamo,2014,USA
+26,26,Corey Ashe,USA,M,1.68,64,14-03-86,Virginia Beach,Virginia Beach Mariners,Houston Dynamo,2014,USA
+27,27,Óscar García,HON,M,1.75,72,04-09-84,Tegucigalpa,Olimpia [HON],Houston Dynamo,2014,USA
+28,28,Tony Cascio,USA,M,1.83,77,28-03-90,Gilbert,Colorado Rapids,Houston Dynamo,2014,USA
+30,30,Michael Lisch,USA,G,1.93,79,30-08-90,Austin,Univ of New Mexico,Houston Dynamo,2014,USA
+1,1,Brian Perk,USA,G,1.80,79,21-07-89,Rancho Santa Margarita,Philadelphia Union,Los Angeles Galaxy,2014,USA
+2,2,Todd Dunivant,CAN,D,1.83,79,26-12-80,Wheat Ridge,Toronto FC,Los Angeles Galaxy,2014,USA
+4,4,Omar Gonzalez,USA,D,1.96,95,11-10-88,Dallas,Univ of Maryland,Los Angeles Galaxy,2014,USA
+5,5,José Villarreal,USA,M,1.73,73,10-09-93,Inglewood,None,Los Angeles Galaxy,2014,USA
+6,6,Baggio Huidić,BIH,M,1.85,78,19-05-87,Velika Kladua,Hammarby IF,Los Angeles Galaxy,2014,USA
+7,7,Robbie Keane,IRL,F,1.76,72,08-07-80,Tallaght,Tottenham H,Los Angeles Galaxy,2014,USA
+8,8,Marcelo Sarvas,BRA,M,1.78,73,16-10-81,São Paulo,LD Alajuelense,Los Angeles Galaxy,2014,USA
+9,9,Alan Gordon,USA,F,1.91,83,16-10-81,Long Beach,San Jose Earthquakes,Los Angeles Galaxy,2014,USA
+10,10,Landon Donovan,USA,F,1.73,72,04-03-82,Ontario,Bayer  Leverkusen,Los Angeles Galaxy,2014,USA
+11,11,Gyasi Zerdes,USA,F,1.88,80,02-09-91,Hawthorne,CSU Bakersfield,Los Angeles Galaxy,2014,USA
+12,12,Brian Rowe,USA,G,1.85,84,16-11-88,Chicago,Portland Timbers,Los Angeles Galaxy,2014,USA
+14,14,Robbie Rogers,USA,F,1.78,82,12-05-87,Palos Verdes,Leeds U,Los Angeles Galaxy,2014,USA
+16,16,Rob Friend,CAN,F,1.95,94,23-01-81,Rosetown,Eintracht Frankfurt,Los Angeles Galaxy,2014,USA
+18,18,Jaime Penedo,PAN,G,1.83,71,24-09-81,Ciudad de Panamá,CSD Municipal,Los Angeles Galaxy,2014,USA
+19,19,Juninho,BRA,M,1.69,64,05-01-89,São José dos Campos,São Paulo,Los Angeles Galaxy,2014,USA
+20,20,A. J. DeLaGarza,USA,D,1.73,64,04-11-87,Bryans Road,Univ of Maryland,Los Angeles Galaxy,2014,USA
+21,21,Tommy Meyer,USA,D,1.88,80,20-03-90,St Louis,Indiana Univ,Los Angeles Galaxy,2014,USA
+22,22,Leonardo,BRA,D,1.87,81,08-02-88,São Paulo,São Paulo,Los Angeles Galaxy,2014,USA
+24,24,Stefan Ishizaki,SWE,M,1.80,76,15-05-82,Stockholm,IF Elfsborg,Los Angeles Galaxy,2014,USA
+25,25,Rafael García,USA,M,1.68,68,19-12-88,Canoga Park,Cal State Northridge,Los Angeles Galaxy,2014,USA
+26,26,James Riley,USA,D,1.78,68,27-10-82,Colorado Springs,DC United,Los Angeles Galaxy,2014,USA
+27,27,Charlie Rugg,USA,F,1.83,80,02-10-90,Roslindale,Boston College,Los Angeles Galaxy,2014,USA
+30,30,Chandler Hoffman,USA,F,1.83,73,17-08-90,"Birmingham, AL",Philadelphia Union,Los Angeles Galaxy,2014,USA
+31,31,Kyle Venter,USA,D,1.91,86,13-03-91,Aurora,Univ of New Mexico,Los Angeles Galaxy,2014,USA
+32,32,Jack McBean,USA,M,1.83,79,15-12-94,Newport Beach,None,Los Angeles Galaxy,2014,USA
+33,33,Dan Gargan,USA,M,1.80,79,14-12-82,Philadelphia,San Jose Earthquakes,Los Angeles Galaxy,2014,USA
+34,34,Kenney Walker,USA,M,1.75,80,12-12-88,Wickliffe,Univ of Louisville,Los Angeles Galaxy,2014,USA
+36,36,Oscar Sorto,USA,D,1.73,71,08-08-94,Los Angeles,None,Los Angeles Galaxy,2014,USA
+38,38,Bradford Jamieson IV,USA,F,1.85,75,18-10-96,Los Angeles,None,Los Angeles Galaxy,2014,USA
+40,40,Raúl Mendiola,MEX,F,1.73,68,18-05-94,Ciudad Juárez,None,Los Angeles Galaxy,2014,USA
+1,1,Troy Perkins,USA,G,1.88,83,29-07-81,Springfield,Portland Timbers,Montreal Impact,2014,USA
+3,3,Eric Miller,USA,D,1.83,79,15-01-93,Jacksonville,Creighton Univ,Montreal Impact,2014,USA
+5,5,Gege Soriola,NGA,D,1.88,80,21-11-88,Jos,Free State Stars,Montreal Impact,2014,USA
+6,6,Hassoun Camara,FRA,D,1.88,76,03-02-84,Nosiy-le-Sec,Montreal Impact (NASL),Montreal Impact,2014,USA
+7,7,Felipe Martins,BRA,M,1.70,68,30-09-90,Engenheiro Beltrão,Lugano,Montreal Impact,2014,USA
+8,8,Patrice Bernier,CAN,M,1.78,77,23-09-79,Montreal,Lyngby,Montreal Impact,2014,USA
+9,9,Marco Di Vaio,ITA,F,1.80,76,15-07-76,Rome,Bologna,Montreal Impact,2014,USA
+10,10,Ignacio Piatti,ARG,M,1.81,75,04-02-85,General Baldisera,San Lorenzo,Montreal Impact,2014,USA
+11,11,Dilly Duka,USA,M,1.75,73,15-09-89,Montvillers,Chicago Fire,Montreal Impact,2014,USA
+13,13,Matteo Ferrari,ITA,D,1.81,77,05-12-79,Aflou,Beşiktaş,Montreal Impact,2014,USA
+15,15,Andrés Romero,ARG,M,1.78,74,21-12-89,Justiniano Posse,Tombense,Montreal Impact,2014,USA
+16,16,Calum Mallace,SCO,D,1.85,85,01-10-90,Torphichen,Chicago Fire Premier,Montreal Impact,2014,USA
+17,17,Issey Nakajima-Farran,CAN,M,1.78,73,16-05-84,Calgary,Toronto FC,Montreal Impact,2014,USA
+19,19,Blake Smith,USA,M,1.78,68,17-01-91,El Paso,Univ of New Mexico,Montreal Impact,2014,USA
+21,21,Justin Mapp,USA,M,1.85,73,18-10-84,Brandon,Philadelphia Union,Montreal Impact,2014,USA
+23,23,Krzysztof Król,POL,D,1.83,80,06-02-87,Rydułtowy,Piast Gliwice,Montreal Impact,2014,USA
+24,24,Anthony Jackson-Hamel,CAN,F,1.85,82,02-08-93,Quebec City,None,Montreal Impact,2014,USA
+26,26,Piscu,ESP,D,1.84,77,25-02-87,As Pontes de García Rodríguez,Wigan Ath,Montreal Impact,2014,USA
+28,28,Jérémy Gagnon-Laparé,CAN,M,1.80,75,09-03-95,Sherbrooke,None,Montreal Impact,2014,USA
+29,29,Santiago González,URU,F,1.70,73,11-06-92,Montevideo,Sud América,Montreal Impact,2014,USA
+30,30,Evan Bush,USA,G,1.85,84,06-03-86,Concord Township,Montreal Impact (NASL),Montreal Impact,2014,USA
+33,33,Gorka Larrea,ESP,M,1.82,70,07-04-84,San Sebastián,Numancia,Montreal Impact,2014,USA
+34,34,Karl Ouimette,CAN,D,1.83,80,18-06-92,Repentigny,None,Montreal Impact,2014,USA
+40,40,Maxime Crépeau,CAN,G,1.83,83,11-05-94,Greenfield Park,None,Montreal Impact,2014,USA
+41,43,Zakaria Messoudi,CAN,M,1.77,70,30-10-93,Casablanca,None,Montreal Impact,2014,USA
+42,44,Heath Pearce,USA,D,1.80,77,13-08-84,Modesto,New York Red Bulls,Montreal Impact,2014,USA
+43,51,Maxim Tissot,CAN,D,1.75,68,13-04-92,Gatineau,Trois-Rivières Attak,Montreal Impact,2014,USA
+44,55,Wandrille Lefèvre,FRA,M,1.85,90,17-12-89,Chartres,Montreal Impact (NASL),Montreal Impact,2014,USA
+45,98,Mamadou Danso,GAM,D,1.91,84,27-04-83,Serrekunda,Portland Timbers,Montreal Impact,2014,USA
+46,99,Jack McInerney,USA,F,1.73,70,05-08-92,Alpharetta,Philadelphia Union,Montreal Impact,2014,USA
+2,2,Andrew Farrell,USA,D,1.80,84,02-04-92,Lima,Univ of Louisville,New England Revolution,2014,USA
+4,4,Steve Neumann,USA,M,1.83,75,07-10-91,Jacksonville,Georgetown Univ,New England Revolution,2014,USA
+5,5,A.J. Soares,USA,D,1.83,77,28-11-88,San Diego,UC Berkeley,New England Revolution,2014,USA
+6,6,Scott Caldwell,USA,M,1.73,68,15-03-91,"Weymouth, MA",Univ of Akron,New England Revolution,2014,USA
+7,7,Patrick Mullins,USA,F,1.85,79,02-02-92,New Orleans,Univ of Maryland,New England Revolution,2014,USA
+8,8,Chris Tierney,USA,D,1.83,80,09-10-86,Wellesley,Univ of Virginia,New England Revolution,2014,USA
+9,9,Charlie Davies,USA,F,1.78,74,25-06-86,"Manchester, NH",Randers,New England Revolution,2014,USA
+10,10,Teal Bunbury,CAN,F,1.88,79,27-02-90,Hamilton [CAN],Sporting Kansas City,New England Revolution,2014,USA
+11,11,Kelyn Rowe,USA,M,1.73,68,02-12-91,Federal Way,UCLA,New England Revolution,2014,USA
+12,12,Andy Dorman,WAL,M,1.83,68,01-05-82,Chester,Crystal Palace,New England Revolution,2014,USA
+13,13,Jermaine Jones,USA,M,1.84,78,03-11-81,Frankfurt am Main,Beşiktaş,New England Revolution,2014,USA
+14,14,Diego Fagundez,URU,F,1.73,57,14-02-95,Montevideo,None,New England Revolution,2014,USA
+15,15,Stephen McCarthy,USA,M,1.93,84,21-07-88,Honolulu,Univ of Nth Carolina,New England Revolution,2014,USA
+16,16,Daigo Kobayashi,JPN,M,1.78,70,19-02-83,Shizuoka,Vancouver Whitecaps,New England Revolution,2014,USA
+17,17,Andre Akpan,USA,F,1.83,86,09-12-87,Fort Worth,New York Red Bulls,New England Revolution,2014,USA
+18,18,Brad Knighton,USA,G,1.86,85,06-02-85,Hickory,Vancouver Whitecaps,New England Revolution,2014,USA
+19,19,Alec Sundly,USA,M,1.83,77,08-08-92,San Clemente,Univ of California,New England Revolution,2014,USA
+21,21,Shalrie Joseph,GRN,D,1.91,82,24-05-78,Saint George,Seattle Sounders,New England Revolution,2014,USA
+22,22,Bobby Shuttleworth,USA,G,1.88,88,13-05-87,Tonawanda,Austin Aztex,New England Revolution,2014,USA
+23,23,José Gonçalves,POR,D,1.88,85,17-09-85,Lisbon,Sion,New England Revolution,2014,USA
+24,24,Lee Nguyen,USA,M,1.72,68,07-10-86,Richardson,Becamex Binh Duong,New England Revolution,2014,USA
+25,25,Darrius Barnes,USA,D,1.85,79,24-12-86,Raleigh,Duke Univ,New England Revolution,2014,USA
+30,30,Kevin Alston,USA,D,1.73,73,05-05-88,Silver Spring,Indiana Univ,New England Revolution,2014,USA
+33,33,Donnie Smith,USA,M,1.80,73,15-01-90,Matthews,UNC Charlotte,New England Revolution,2014,USA
+36,36,Luis Soffner,USA,G,1.93,96,15-01-90,St. Louis,Indiana Univ,New England Revolution,2014,USA
+39,39,Geoffrey Castillion,NED,F,1.91,78,25-05-91,Amsterdam,Ajax,New England Revolution,2014,USA
+40,40,Larry Jackson,USA,G,1.85,82,28-09-90,Palo Alto,Santa Clara Univ,New England Revolution,2014,USA
+41,44,Jossimar Sánchez,USA,D,1.75,77,04-09-91,Paterson,UConn,New England Revolution,2014,USA
+42,92,Dimitry Imbongo Boele,FRA,F,1.85,68,28-03-90,Kinshasa,1860 Munich II,New England Revolution,2014,USA
+43,99,Tony Taylor,USA,F,1.83,74,13-07-89,Long Beach,Omonia Nicosia,New England Revolution,2014,USA
+2,2,Richard Eckersley,ENG,D,1.76,75,12-03-89,Salford,Toronto FC,New York Red Bulls,2014,USA
+3,3,Ambroise Oyongo,CMR,D,1.75,68,22-06-91,Ndikiniméki,Coton Sport,New York Red Bulls,2014,USA
+4,4,Jámison Olave,COL,D,1.86,90,21-04-81,Medellín,Real Salt Lake,New York Red Bulls,2014,USA
+5,5,Armando,ESP,D,1.86,79,16-12-84,Motril,Córdoba,New York Red Bulls,2014,USA
+6,6,Ian Christianson,USA,M,1.80,71,06-03-91,Cedar Rapids,Georgetown Univ,New York Red Bulls,2014,USA
+7,7,Roy Miller,CRC,D,1.87,75,24-11-84,San José [CRC],Rosenborg,New York Red Bulls,2014,USA
+8,8,Péguy Luyindula,FRA,F,1.78,72,25-05-79,Kinshasa,Paris St-Germain,New York Red Bulls,2014,USA
+10,10,Lloyd Sam,ENG,M,1.73,64,27-09-84,Leeds,Leeds U,New York Red Bulls,2014,USA
+11,11,Dax McCarty,USA,M,1.75,64,30-04-87,Winter Park,DC United,New York Red Bulls,2014,USA
+12,12,Eric Alexander,USA,M,1.85,75,14-04-88,Portage,Portland Timbers,New York Red Bulls,2014,USA
+13,13,Marius Obekop,CMR,M,1.78,77,19-12-94,Yaoundé,Renaissance de Ngoumou,New York Red Bulls,2014,USA
+14,14,Thierry Henry,FRA,F,1.88,83,17-08-77,Les Ulis,Barcelona,New York Red Bulls,2014,USA
+15,15,Bobby Convey,USA,M,1.75,73,27-05-83,Philadelphia,Toronto FC,New York Red Bulls,2014,USA
+16,16,Connor Lade,USA,D,1.70,66,16-11-89,Livingston,St Johns Univ,New York Red Bulls,2014,USA
+17,17,Tim Cahill,AUS,M,1.78,69,06-12-79,Sydney,Everton,New York Red Bulls,2014,USA
+18,18,Ryan Meara,IRL,G,1.93,84,15-11-90,Yonkers,Fordham Univ,New York Red Bulls,2014,USA
+19,19,Eric Stevenson,USA,M,1.73,66,30-08-90,Columbus,Univ of Akron,New York Red Bulls,2014,USA
+20,20,Matt Miazga,USA,D,1.90,84,19-07-95,Clifton,None,New York Red Bulls,2014,USA
+21,21,Ruben Bover,ESP,M,1.70,66,24-06-92,Palma de Mallorca,Charlton Ath,New York Red Bulls,2014,USA
+23,23,Michael Bustamante,COL,M,1.75,73,21-09-89,Medellín,Boston Univ,New York Red Bulls,2014,USA
+24,24,Santiago Castaño,USA,G,1.88,84,14-04-95,Queens,None,New York Red Bulls,2014,USA
+25,25,Chris Duvall,USA,D,1.78,68,10-09-91,Duluth,Wake Forest Univ,New York Red Bulls,2014,USA
+27,27,Kosuke Kimura,JPN,M,1.55,69,14-05-84,Kobe,Portland Timbers,New York Red Bulls,2014,USA
+31,31,Luis Robles,USA,G,1.85,86,11-05-84,Fort Anachuca,Karlsruhe,New York Red Bulls,2014,USA
+32,32,Ibrahim Sekagya,UGA,D,1.86,75,19-12-80,Kampala,Red Bull Salzburg,New York Red Bulls,2014,USA
+39,39,Saër Sène,FRA,F,1.80,70,04-11-86,Paris,New England Revolution,New York Red Bulls,2014,USA
+41,55,Damien Perrinelle,FRA,D,1.87,78,12-09-83,Suresnes,Istres,New York Red Bulls,2014,USA
+42,99,Bradley Wright-Phillips,ENG,F,1.73,70,12-03-85,Lewisham,Charlton Ath,New York Red Bulls,2014,USA
+1,1,Andre Blake,JAM,G,1.93,79,21-11-90,May Pen,UConn,Philadelphia Union,2014,USA
+2,2,Carlos Valdés,COL,D,1.84,80,22-05-85,Cali,Santa Fe,Philadelphia Union,2014,USA
+4,4,Austin Berry,USA,D,1.88,82,06-06-88,Cincinnati,Chicago Fire,Philadelphia Union,2014,USA
+5,5,Vincent Nogueira,FRA,M,1.70,60,16-01-88,Besançon,Sochaux,Philadelphia Union,2014,USA
+6,6,Conor Casey,USA,F,1.88,85,25-07-81,New Hampshire,Colorado Rapids,Philadelphia Union,2014,USA
+7,7,Brian Carroll,USA,M,1.78,69,20-07-81,Springfield,Columbus Crew,Philadelphia Union,2014,USA
+8,8,Fred,BRA,F,1.75,70,18-08-79,Belo Horizonte,Melbourne Heart,Philadelphia Union,2014,USA
+9,9,Andrew Wenger,USA,F,1.83,84,25-12-90,"Lancaster, PA",Montreal Impact,Philadelphia Union,2014,USA
+10,10,Cristian Maidana,ARG,M,1.82,69,24-01-87,Chaco,Argentinos Juniors,Philadelphia Union,2014,USA
+11,11,Sébastien Le Toux,FRA,F,1.85,75,10-01-84,Mont-Saint-Aignan,New York Red Bulls,Philadelphia Union,2014,USA
+12,12,Aaron Wheeler,USA,F,1.93,90,11-05-88,Baltimore,FC KooTeePee,Philadelphia Union,2014,USA
+13,13,Michael Lahoud,USA,M,1.73,74,15-09-86,"Washington, DC",Chivas USA,Philadelphia Union,2014,USA
+14,14,Amobi Okugo,USA,M,1.83,79,13-03-91,Hayward,UCLA,Philadelphia Union,2014,USA
+15,15,Ethan White,USA,D,1.83,83,01-01-91,"Kensington, MD",DC United,Philadelphia Union,2014,USA
+16,16,Richie Marquez,USA,D,1.88,84,26-05-92,Pomona,Univ of Redlands,Philadelphia Union,2014,USA
+17,17,Brian Brown,JAM,F,1.85,84,24-12-92,Sandy Bay,Harbour View,Philadelphia Union,2014,USA
+18,18,Zac MacMath,USA,G,1.88,80,07-08-91,"St. Petersburg, FL",Univ of Maryland,Philadelphia Union,2014,USA
+19,19,Corben Bone,USA,M,1.75,68,16-09-88,Plano,Chicago Fire,Philadelphia Union,2014,USA
+20,20,Jimmy McLaughlin,USA,M,1.73,62,30-04-93,Malvern,None,Philadelphia Union,2014,USA
+21,21,Maurice Edu,USA,M,1.83,77,18-04-86,San Bernardino,Stoke C,Philadelphia Union,2014,USA
+22,22,Leo Fernandes,USA,M,1.85,75,23-12-91,São Paulo,Stony Brook Univ,Philadelphia Union,2014,USA
+23,23,Cristhian Hernandez,MEX,F,1.80,73,30-10-93,Guadalajara,None,Philadelphia Union,2014,USA
+25,25,Sheanon Williams,USA,M,1.80,77,17-03-90,Boston,Harrisburg City Islanders,Philadelphia Union,2014,USA
+27,27,Zach Pfeffer,USA,M,1.70,64,06-01-95,Dresher,None,Philadelphia Union,2014,USA
+28,28,Ray Gaddis,USA,D,1.75,69,13-01-90,Indianapolis,Reading U,Philadelphia Union,2014,USA
+29,29,Antoine Hoppenot,USA,F,1.73,71,23-11-90,Paris,Princeton Univ,Philadelphia Union,2014,USA
+30,30,Pedro Ribeiro,BRA,M,1.93,94,13-06-90,Belo Horizonte,Coastal Carolina Univ,Philadelphia Union,2014,USA
+33,33,Fabinho,BRA,D,1.73,73,16-03-85,Ariquenes,Sydney FC,Philadelphia Union,2014,USA
+41,44,Danny Cruz,USA,M,1.73,77,03-01-90,Petersburg,DC United,Philadelphia Union,2014,USA
+42,92,Raïs M'Bolhi,ALG,G,1.88,80,25-04-86,Paris,CSKA Sofia,Philadelphia Union,2014,USA
+1,1,Donovan Ricketts,JAM,G,1.91,92,07-06-77,Montego Bay,Montreal Impact,Portland Timbers,2014,USA
+2,2,Alvas Powell,JAM,D,1.82,75,18-07-94,Danvers Pen,Portmore U,Portland Timbers,2014,USA
+4,4,Will Johnson,CAN,F,1.80,70,21-01-87,Toronto,Real Salt Lake,Portland Timbers,2014,USA
+5,5,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Sporting Kansas City,Portland Timbers,2014,USA
+6,6,Darlington Nagbe,LBR,M,1.75,75,19-07-90,Monrovia,Univ of Akron,Portland Timbers,2014,USA
+7,7,Steve Zakuani,COD,F,1.80,73,09-02-88,Kinshasa,Seattle Sounders,Portland Timbers,2014,USA
+8,8,Diego Váleri,ARG,M,1.78,75,01-05-86,Lanús,Lanús,Portland Timbers,2014,USA
+9,9,Fanendo Adi,NGA,F,1.92,90,10-10-90,Lagos,FC København,Portland Timbers,2014,USA
+10,10,Gastón Fernández,ARG,F,1.70,72,12-10-83,Capital Federal,Estudiantes (LP),Portland Timbers,2014,USA
+11,11,Kalif Alhassan,GHA,M,1.78,73,15-10-90,Accra,Portland Timbers (USL),Portland Timbers,2014,USA
+12,12,Schillo Tshuma,ZIM,M,1.78,73,21-09-92,Bulawayo,Univ of Maryland,Portland Timbers,2014,USA
+13,13,Jack Jewsbury,USA,F,1.83,84,13-04-81,Joplin,Kansas City Wizards,Portland Timbers,2014,USA
+14,14,Ben Zemanski,USA,M,1.88,68,12-05-88,Akron,Chivas USA,Portland Timbers,2014,USA
+15,15,Steven Evans,USA,M,1.85,82,19-09-91,Portland,Univ of Portland,Portland Timbers,2014,USA
+16,16,Bryan Gallego,USA,D,1.78,75,10-03-93,Kinnelon,Univ of Akron,Portland Timbers,2014,USA
+17,17,Michael Nanchoff,USA,M,1.73,68,24-09-88,North Royalton,Vancouver Whitecaps,Portland Timbers,2014,USA
+19,19,Jorge Villafaña,USA,F,1.75,75,16-09-89,Anaheim,Chivas USA,Portland Timbers,2014,USA
+20,20,Taylor Peay,USA,D,1.88,82,05-09-91,Salt Lake City,Univ of Washington,Portland Timbers,2014,USA
+21,21,Diego Chará,COL,M,1.70,65,05-04-86,Cali,Deportes Tolima,Portland Timbers,2014,USA
+22,22,Rodney Wallace,CRC,D,1.80,70,17-06-88,San José [CRC],FC United,Portland Timbers,2014,USA
+23,23,Norberto Paparatto,ARG,D,1.92,82,03-01-84,Adrogué,Tigre,Portland Timbers,2014,USA
+24,24,Liam Ridgewell,ENG,D,1.88,79,21-07-84,Bexley,WBA,Portland Timbers,2014,USA
+25,25,Danny O'Rourke,USA,M,1.83,75,31-05-83,Columbus,Columbus Crew,Portland Timbers,2014,USA
+26,26,George Fochive,USA,M,1.75,78,24-03-92,"Washington, DC",UConn,Portland Timbers,2014,USA
+31,31,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Chivas USA,Portland Timbers,2014,USA
+33,33,Andrew Weber,USA,G,1.88,84,09-08-83,Phoenix,Phoenix FC,Portland Timbers,2014,USA
+37,37,Maximiliano Urruti,ARG,F,1.82,73,22-02-91,Rosario,Toronto FC,Portland Timbers,2014,USA
+41,44,Pa-Modou Kah,NOR,D,1.83,80,30-07-80,Banjul,Al-Wehda,Portland Timbers,2014,USA
+42,90,Jake Gleeson,NZL,G,1.93,91,26-06-90,Palmerston North,Portland Timbers (USL),Portland Timbers,2014,USA
+1,1,Eduardo Fernández,MEX,G,1.91,77,16-12-92,Guadalajara,Peñarol,Real Salt Lake,2014,USA
+2,2,Tony Beltran,USA,D,1.75,65,11-10-87,Claremont,UCLA,Real Salt Lake,2014,USA
+4,4,Aaron Maund,USA,D,1.85,84,19-09-90,"Dorchester, MA",Toronto FC,Real Salt Lake,2014,USA
+5,5,Kyle Beckerman,USA,M,1.78,70,23-04-82,Crofton,Colorado Rapids,Real Salt Lake,2014,USA
+6,6,Nat Borchers,USA,D,1.88,79,13-04-81,Tuscan,Odd,Real Salt Lake,2014,USA
+7,7,Jordan Allen,USA,M,1.80,73,25-04-95,Rochester,None,Real Salt Lake,2014,USA
+8,8,João Plata,ECU,F,1.60,64,01-03-92,Guayaquil,Toronto FC,Real Salt Lake,2014,USA
+10,10,Robbie Findley,USA,F,1.75,75,04-08-85,Phoenix,Nottingham F,Real Salt Lake,2014,USA
+11,11,Javier Morales,ARG,M,1.74,64,10-01-80,Lomas de Zamora,Salamanca,Real Salt Lake,2014,USA
+12,12,Cole Grossman,USA,M,1.83,75,10-04-89,St Louis,Columbus Crew,Real Salt Lake,2014,USA
+13,13,Olmes García,COL,F,1.83,79,21-10-92,Barranquilla,Deportes Quindío,Real Salt Lake,2014,USA
+14,14,Justen Glad,USA,D,1.83,66,28-02-97,Pasadena,None,Real Salt Lake,2014,USA
+15,15,Álvaro Saborío,CRC,F,1.83,77,25-03-82,Ciudad Quesada,Sion,Real Salt Lake,2014,USA
+16,16,Carlos Salcedo,MEX,D,1.85,77,29-09-93,Guadalajara,None,Real Salt Lake,2014,USA
+17,17,Chris Wingert,USA,D,1.78,70,16-06-82,Babylon,Colorado Rapids,Real Salt Lake,2014,USA
+18,18,Nick Rimando,USA,G,1.78,86,17-06-79,Montclair,DC United,Real Salt Lake,2014,USA
+19,19,Luke Mulholland,ENG,M,1.75,68,07-08-88,Preston,Tampa Bay Rowdies,Real Salt Lake,2014,USA
+20,20,Ned Grabavoy,USA,M,1.70,70,01-07-83,Joilet,San Jose Earthquakes,Real Salt Lake,2014,USA
+21,21,Luis Gil,USA,M,1.73,70,14-11-93,Garden Grove,US U-17s,Real Salt Lake,2014,USA
+22,22,Benji Lopez,USA,F,1.82,75,16-02-95,San Diego,None,Real Salt Lake,2014,USA
+23,23,Sebastián Jaime,ARG,F,1.76,72,30-01-87,La Plata,Unión Española,Real Salt Lake,2014,USA
+24,24,Jeff Attinella,USA,G,1.88,86,29-09-88,Clearwater,Tampa Bay Rowdies,Real Salt Lake,2014,USA
+25,25,Rich Balchan,USA,D,1.83,75,18-01-89,Carmel,Columbus Crew,Real Salt Lake,2014,USA
+26,26,Sebastián Velásquez,COL,M,1.80,71,11-02-91,Medellín,Spartanburg Methodist College,Real Salt Lake,2014,USA
+27,27,John Stertzer,USA,M,1.83,77,04-10-90,Fairfax,Univ of Maryland,Real Salt Lake,2014,USA
+28,28,Chris Schuler,USA,D,1.93,88,06-09-87,St Louis,Creighton Univ,Real Salt Lake,2014,USA
+29,29,Abdoulie Mansally,GAM,M,1.75,70,29-01-89,Banjul,New England Revolution,Real Salt Lake,2014,USA
+41,49,Devon Sandoval,USA,F,1.85,84,16-06-91,Albuquerque,Univ of New Mexico,Real Salt Lake,2014,USA
+1,1,David Bingham,USA,G,1.88,84,19-10-89,Castro Valley,UC Berkeley,San Jose Earthquakes,2014,USA
+2,2,Ty Harden,USA,D,1.85,86,06-03-84,Junction City,Toronto FC,San Jose Earthquakes,2014,USA
+3,3,Jordan Stewart,ENG,D,1.83,78,03-03-82,Birmingham,Coventry C,San Jose Earthquakes,2014,USA
+4,4,Sam Cronin,USA,M,1.78,75,12-12-86,Atlanta,Toronto FC,San Jose Earthquakes,2014,USA
+5,5,Víctor Bernárdez,HON,D,1.84,78,24-05-82,La Ceiba,Anderlecht,San Jose Earthquakes,2014,USA
+6,6,Shea Salinas,USA,M,1.78,68,24-06-86,Lubbock,Vancouver Whitecaps,San Jose Earthquakes,2014,USA
+7,7,Cordell Cato,TRI,F,1.75,68,15-07-92,Carenage,Seattle Sounders,San Jose Earthquakes,2014,USA
+8,8,Chris Wondolowski,USA,F,1.85,75,28-07-83,Danville,Houston Dynamo,San Jose Earthquakes,2014,USA
+9,9,Khari Stephenson,JAM,M,1.85,85,18-01-81,Kingston,Real Salt Lake,San Jose Earthquakes,2014,USA
+10,10,Yannick Djaló,POR,F,1.71,60,05-05-86,Bissau,Benfica,San Jose Earthquakes,2014,USA
+11,11,Matías Pérez García,ARG,M,1.65,68,13-10-84,Tartagal,Tigre,San Jose Earthquakes,2014,USA
+13,13,Bryan Meredith,USA,G,1.88,88,02-08-89,Scotch Plains,New York Cosmos,San Jose Earthquakes,2014,USA
+14,14,Adam Jahn,USA,F,1.90,84,05-01-91,El Macero,Stanford Univ,San Jose Earthquakes,2014,USA
+15,15,JJ Koval,USA,M,1.86,79,19-05-92,Westlake Village,Stanford Univ,San Jose Earthquakes,2014,USA
+16,16,Pablo Pintos,URU,D,1.82,78,01-07-87,Montevideo,Defensor Sporting,San Jose Earthquakes,2014,USA
+18,18,Jon Busch,USA,G,1.78,75,18-08-76,Queens,Chicago Fire,San Jose Earthquakes,2014,USA
+19,19,Mike Fucito,USA,M,1.75,75,29-03-86,Concord,Portland Timbers,San Jose Earthquakes,2014,USA
+20,20,Shaun Francis,JAM,D,1.83,75,02-10-86,Mandeville,Chicago Fire,San Jose Earthquakes,2014,USA
+21,21,Jason Hernández,PUR,D,1.78,73,26-08-83,Englewood,Chivas USA,San Jose Earthquakes,2014,USA
+22,22,Tommy Thompson,USA,F,1.70,66,15-08-95,Hinsdale,Indiana Univ,San Jose Earthquakes,2014,USA
+23,23,Atiba Harris,SKN,F,1.91,84,09-01-85,St Peter's,Colorado Rapids,San Jose Earthquakes,2014,USA
+24,24,Steven Lenhart,USA,F,1.86,86,28-08-86,Jacksonville,Columbus Crew,San Jose Earthquakes,2014,USA
+25,25,Tommy Muller,USA,D,1.80,77,04-04-91,Orlando,Georgetown Univ,San Jose Earthquakes,2014,USA
+26,26,Brandon Barklage,USA,M,1.80,75,02-11-86,St Louis,New York Red Bulls,San Jose Earthquakes,2014,USA
+31,31,Billy Knutsen,USA,G,1.88,84,05-05-92,San Francisco,American Univ,San Jose Earthquakes,2014,USA
+32,32,Billy Schuler,USA,F,1.81,77,27-04-90,"Hamilton, NJ",Hammarby IF,San Jose Earthquakes,2014,USA
+41,44,Clarence Goodson,USA,D,1.93,77,17-05-82,Alexandria,Brøndby,San Jose Earthquakes,2014,USA
+42,77,Andreas Görlitz,GER,M,1.79,76,31-01-82,Weilheim,Ingolstadt,San Jose Earthquakes,2014,USA
+43,80,Jean-Baptiste Pierazzi,FRA,M,1.85,74,17-06-85,Ajaccio,Ajaccio,San Jose Earthquakes,2014,USA
+1,1,Marcus Hahnemann,USA,G,1.91,99,15-06-72,Seattle,Everton,Seattle Sounders,2014,USA
+2,2,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches,Tottenham H,Seattle Sounders,2014,USA
+3,3,Brad Evans,USA,F,1.85,73,20-04-85,Phoenix,Columbus Crew,Seattle Sounders,2014,USA
+4,4,Jalil Anibaba,USA,D,1.83,73,19-10-88,Fontana,Chicago Fire,Seattle Sounders,2014,USA
+5,5,Andy Rose,ENG,M,1.88,77,13-02-90,Melbourne,UCLA,Seattle Sounders,2014,USA
+6,6,Osvaldo Alonso,CUB,M,1.80,75,11-11-85,San Cristóbal,Charleston Battery,Seattle Sounders,2014,USA
+7,7,Tristan Bowen,USA,F,1.80,75,31-01-91,Van Nuys,Chivas USA,Seattle Sounders,2014,USA
+8,8,Gonzalo Pineda,MEX,M,1.77,67,19-10-82,Mexico City,Guadalajara,Seattle Sounders,2014,USA
+9,9,Obafemi Martins,NGA,F,1.76,67,28-10-84,Lagos,Levante,Seattle Sounders,2014,USA
+10,10,Marco Pappa,GUA,M,1.78,70,15-11-87,Guatemala City,SC Heerenveen,Seattle Sounders,2014,USA
+11,11,Aaron Kovar,USA,M,1.78,71,14-08-93,Seattle,Stanford Univ,Seattle Sounders,2014,USA
+12,12,Leonardo González,CRC,D,1.86,76,21-11-80,San José [CRC],Municipal Liberia,Seattle Sounders,2014,USA
+13,13,Sean Okoli,USA,F,1.85,83,03-02-93,Federal Way,Wake Forest Univ,Seattle Sounders,2014,USA
+14,14,Chad Marshall,USA,D,1.91,86,22-08-84,Riverside,Columbus Crew,Seattle Sounders,2014,USA
+15,15,Dylan Remick,USA,D,1.83,75,19-05-91,"Inverness, IL",Brown Univ,Seattle Sounders,2014,USA
+17,17,DeAndre Yedlin,USA,D,1.73,68,09-07-93,Seattle,Univ of Akron,Seattle Sounders,2014,USA
+18,18,Djimi Traoré,MLI,D,1.91,87,01-03-80,Saint-Ouen,Marseille,Seattle Sounders,2014,USA
+19,19,Chad Barrett,USA,F,1.80,82,30-04-85,San Diego,New England Revolution,Seattle Sounders,2014,USA
+20,20,Zach Scott,USA,D,1.80,79,02-07-80,Haiku,Seattle Sounders (USL),Seattle Sounders,2014,USA
+23,23,Cam Weaver,USA,F,1.93,86,10-06-83,"Kent, WA",Houston Dynamo,Seattle Sounders,2014,USA
+24,24,Stefan Frei,SUI,G,1.90,88,20-04-86,Altstätten,Toronto FC,Seattle Sounders,2014,USA
+25,25,Aaron Long,USA,M,1.85,78,12-10-92,Oak Hills,Portland Timbers,Seattle Sounders,2014,USA
+27,27,Lamar Neagle,USA,M,1.80,75,07-05-87,Tacoma,Montreal Impact,Seattle Sounders,2014,USA
+29,29,Josh Ford,USA,G,1.83,79,06-11-87,"Liverpool, NY",UConn,Seattle Sounders,2014,USA
+31,31,Damion Lowe,JAM,D,1.91,79,05-05-93,Kingston,Univ of Hartford,Seattle Sounders,2014,USA
+33,33,Kenny Cooper,USA,F,1.92,88,21-10-84,Baltimore,FC Dallas,Seattle Sounders,2014,USA
+41,42,Michael Azira,UGA,M,1.78,73,22-08-87,Kampala,Charleston Battery,Seattle Sounders,2014,USA
+42,77,Kévin Parsemain,FRA,F,1.78,75,13-02-88,Le François,Rivière-Pilote,Seattle Sounders,2014,USA
+1,1,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Sporting Kansas City,2014,USA
+2,2,Erik Palmer-Brown,USA,D,1.85,70,24-04-97,Napoleon,None,Sporting Kansas City,2014,USA
+3,3,Ike Opara,USA,D,1.88,82,21-02-89,"Durham, NC",San Jose Earthquakes,Sporting Kansas City,2014,USA
+4,4,Kevin Ellis,USA,D,1.75,73,30-06-91,"Kansas City, MO",None,Sporting Kansas City,2014,USA
+5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Sporting Kansas City,2014,USA
+6,6,Paulo Nagamura,BRA,M,1.73,70,05-02-83,São Paulo,Chivas USA,Sporting Kansas City,2014,USA
+7,7,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Sporting Kansas City,2014,USA
+8,8,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Sporting Kansas City,2014,USA
+9,9,Toni,ESP,F,1.76,74,04-04-90,La Coruña,Celta Vigo,Sporting Kansas City,2014,USA
+10,10,Benny Feilhaber,USA,M,1.75,68,19-01-85,Rio de Janeiro,New England Revolution,Sporting Kansas City,2014,USA
+11,11,Salvatore Zizzo,USA,M,1.80,82,03-04-87,San Diego,Portland Timbers,Sporting Kansas City,2014,USA
+12,12,Mikey Lopez,USA,M,1.73,73,20-02-93,Dallas,Univ of Nth Carolina,Sporting Kansas City,2014,USA
+13,13,Lawrence Olum,KEN,M,1.88,84,10-07-84,Nairobi,Orlando C,Sporting Kansas City,2014,USA
+14,14,Dom Dwyer,ENG,F,1.76,82,30-07-90,Cuckfield,Univ of Sth Florida,Sporting Kansas City,2014,USA
+15,15,Seth Sinovic,USA,D,1.78,77,28-01-87,Kansas City,New England Revolution,Sporting Kansas City,2014,USA
+16,16,Claudio Bieler,ARG,F,1.79,77,01-03-84,Vera,LQU Quito,Sporting Kansas City,2014,USA
+17,17,C.J. Sapong,USA,F,1.88,84,27-12-88,Manassas,James Madison Univ,Sporting Kansas City,2014,USA
+18,18,Víctor Muñoz,ESP,M,1.70,73,25-07-90,Madrid,DC United,Sporting Kansas City,2014,USA
+20,20,Jorge Claros,HON,M,1.76,67,08-01-86,La Ceiba,Motagua,Sporting Kansas City,2014,USA
+21,21,Jon Kempin,USA,G,1.85,77,08-04-93,Leawood,None,Sporting Kansas City,2014,USA
+22,22,Soony Saad,USA,F,1.78,75,17-08-92,Dearborn,Univ of Michigan,Sporting Kansas City,2014,USA
+23,23,Martin Steuble,SUI,F,1.70,70,09-06-88,Schlieren,Wil,Sporting Kansas City,2014,USA
+24,24,Michael Kafari,GHA,M,1.85,80,30-10-91,Accra,Charleston Battery,Sporting Kansas City,2014,USA
+25,25,Christian Duke,USA,M,1.75,71,05-06-91,Overland Park,Univ of San Diego,Sporting Kansas City,2014,USA
+28,28,Tim Melia,USA,G,1.85,86,15-05-86,Great River,Chivas USA,Sporting Kansas City,2014,USA
+30,30,Andy Gruenebaum,USA,G,1.85,91,30-12-82,Overland Park,Columbus Crew,Sporting Kansas City,2014,USA
+37,37,Jacob Peterson,USA,F,1.78,73,27-01-86,Portage,San Jose Earthquakes,Sporting Kansas City,2014,USA
+40,40,Igor Julião,BRA,D,1.75,62,23-08-94,Rio de Janeiro,Fluminense,Sporting Kansas City,2014,USA
+41,78,Aurélien Collin,FRA,D,1.85,77,08-03-86,Enghien-les-Bains,Vitória Setúbal,Sporting Kansas City,2014,USA
+42,94,Jimmy Medranda,COL,M,1.65,68,07-02-94,Mosquera,Deportivo Pereira,Sporting Kansas City,2014,USA
+1,1,Chris Konopka,USA,G,1.96,98,14-04-85,Toms River,Philadelphia Union,Toronto FC,2014,USA
+2,2,Justin Morrow,USA,D,1.75,75,04-10-87,Cleveland,San Jose Earthquakes,Toronto FC,2014,USA
+3,3,Warren Creavalle,USA,D,1.80,77,14-08-90,Brooklyn,Houston Dynamo,Toronto FC,2014,USA
+4,4,Michael Bradley,USA,M,1.85,75,31-07-87,Princeton,Roma,Toronto FC,2014,USA
+5,5,Ashtone Morgan,CAN,D,1.80,68,09-02-91,Toronto,None,Toronto FC,2014,USA
+7,7,Bright Dike,USA,F,1.85,100,02-02-87,Edmond,Portland Timbers,Toronto FC,2014,USA
+8,8,Kyle Bekker,CAN,M,1.78,75,02-09-90,Oakville,Boston College,Toronto FC,2014,USA
+9,9,Gilberto,BRA,F,1.78,70,05-06-89,Piranhas,Internacional,Toronto FC,2014,USA
+11,11,Jackson,BRA,D,1.76,70,03-06-88,Franca,FC Dallas,Toronto FC,2014,USA
+12,12,Joseph Bendik,USA,G,1.91,93,25-04-89,Marietta,Portland Timbers,Toronto FC,2014,USA
+13,13,Stephen Caldwell,SCO,D,1.80,72,12-09-80,Stirling,Birmingham C,Toronto FC,2014,USA
+14,14,Dwayne DeRosario,CAN,F,1.80,74,15-05-78,Scarborough [CAN],DC United,Toronto FC,2014,USA
+15,15,Doneil Henry,CAN,D,1.88,82,20-04-93,Brampton,Apollon Limassol,Toronto FC,2014,USA
+16,16,Bradley Orr,ENG,D,1.83,75,01-11-82,Liverpool,Blackburn R,Toronto FC,2014,USA
+17,17,Nick Hagglund,USA,D,1.85,88,14-09-92,Cincinnati,Xavier Univ,Toronto FC,2014,USA
+18,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton,Tottenham H,Toronto FC,2014,USA
+21,21,Jonathan Osorio,CAN,M,1.75,73,12-06-92,Toronto,SC Toronto,Toronto FC,2014,USA
+22,22,Jordan Hamilton,CAN,F,1.83,84,17-03-96,Scarborough [CAN],None,Toronto FC,2014,USA
+23,23,Dominic Oduro,GHA,F,1.83,73,13-08-85,Pramso,Columbus Crew,Toronto FC,2014,USA
+25,25,Jeremy Hall,USA,M,1.80,74,11-09-88,Tampa,FC Dallas,Toronto FC,2014,USA
+26,26,Collen Warner,USA,M,1.78,70,24-06-88,Denver,Montreal Impact,Toronto FC,2014,USA
+27,27,Luke Moore,ENG,F,1.80,76,13-02-86,Birmingham,Colorado Rapids,Toronto FC,2014,USA
+28,28,Mark Bloom,USA,D,1.83,75,25-11-87,Marietta,Atlanta Silverbacks,Toronto FC,2014,USA
+32,32,Andrew Wiedeman,USA,F,1.80,75,22-08-89,San Ramon,FC Dallas,Toronto FC,2014,USA
+33,33,Ryan Richter,USA,F,1.88,79,12-04-89,"Southampton, PA",Charleston Battery,Toronto FC,2014,USA
+34,34,Manny Aparicio,ARG,M,1.70,68,17-09-95,Buenos Aires,None,Toronto FC,2014,USA
+35,35,Daniel Lovitz,USA,M,1.78,77,27-08-91,Wyndmoor,Elon Univ,Toronto FC,2014,USA
+40,40,Quillan Roberts,CAN,G,1.83,88,13-09-94,Toronto,None,Toronto FC,2014,USA
+1,1,David Ousted,DEN,G,1.92,88,01-02-85,Kildebrønde,Randers,Vancouver Whitecaps,2014,USA
+2,2,Jordan Harvey,USA,D,1.80,77,28-01-84,Mission Viejo,Philadelphia Union,Vancouver Whitecaps,2014,USA
+3,3,Sam Adekugbe,CAN,D,1.75,75,16-01-95,London,None,Vancouver Whitecaps,2014,USA
+4,4,Kendall Waston,CRC,D,1.96,88,01-01-88,San José [CRC],Deportivo Saprissa,Vancouver Whitecaps,2014,USA
+7,7,Sebastián Fernández,URU,F,1.74,75,15-11-89,Montevideo,Boston River,Vancouver Whitecaps,2014,USA
+8,8,Mehdi Ballouchy,MAR,M,1.80,77,06-04-83,Casablanca,San Jose Earthquakes,Vancouver Whitecaps,2014,USA
+11,11,Darren Mattocks,JAM,F,1.78,71,02-09-90,Portmore,Univ of Akron,Vancouver Whitecaps,2014,USA
+15,15,Matías Laba,ARG,M,1.74,70,11-12-91,Capital Federal,Toronto FC,Vancouver Whitecaps,2014,USA
+16,16,Johnny Leverón,HON,D,1.80,66,07-02-90,Yoro,Motagua,Vancouver Whitecaps,2014,USA
+17,17,Omar Salgado,USA,F,1.93,79,10-09-93,El Paso,Guadalajara,Vancouver Whitecaps,2014,USA
+19,19,Erik Hurtado,USA,F,1.78,82,05-11-90,Fredericksburg,Santa Clara Univ,Vancouver Whitecaps,2014,USA
+22,22,Christian Dean,USA,D,1.91,91,14-03-93,Alvin,Univ of California,Vancouver Whitecaps,2014,USA
+23,23,Kekuta Manneh,GAM,F,1.75,66,30-12-94,Bakau,Austin Aztex,Vancouver Whitecaps,2014,USA
+24,24,Carlyle Mitchell,TRI,D,1.85,75,08-08-87,Arima,Joe Public,Vancouver Whitecaps,2014,USA
+27,27,Ethen Sampson,RSA,D,1.78,75,28-12-93,Mitchell's Plain,ASD Cape Town,Vancouver Whitecaps,2014,USA
+28,28,Gershon Koffie,GHA,M,1.80,70,25-08-91,Koforidua,Whitecaps (USL),Vancouver Whitecaps,2014,USA
+29,29,Nicolás Mezquida,URU,F,1.72,66,21-01-92,Paysandú,Rampla Juniors,Vancouver Whitecaps,2014,USA
+30,30,Mauro Rosales,ARG,F,1.72,75,24-02-81,Villa María,Chivas USA,Vancouver Whitecaps,2014,USA
+31,31,Russell Teibert,CAN,M,1.70,66,22-12-92,Niagara Falls,Whitecaps (USL),Vancouver Whitecaps,2014,USA
+33,33,Steven Beitashour,IRN,D,1.78,77,01-02-87,San Jose,San Jose Earthquakes,Vancouver Whitecaps,2014,USA
+34,34,Caleb Clarke,CAN,F,1.85,84,23-06-93,Richmond,None,Vancouver Whitecaps,2014,USA
+36,36,Bryce Alderson,CAN,M,1.78,73,05-02-94,Kitchener,None,Vancouver Whitecaps,2014,USA
+40,40,Andy O'Brien,IRL,D,1.91,74,29-06-79,Harrogate,Leeds U,Vancouver Whitecaps,2014,USA
+41,44,Marco Carducci,CAN,G,1.85,84,24-09-96,Calgary,Calgary Villains,Vancouver Whitecaps,2014,USA
+42,70,Paolo Tornaghi,ITA,G,1.92,78,21-06-88,Garbagnate,Internazionale,Vancouver Whitecaps,2014,USA
+43,77,Pedro Morales,CHI,M,1.78,77,25-05-85,Hualpén,Málaga,Vancouver Whitecaps,2014,USA

@@ -1,0 +1,536 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Takaya Kurokawa,JPN,G,1.84,76,07-04-81,Ehime,Shimizu S-Pulse,Albirex Niigata,2013,Japanese
+3,3,Kentaro Oi,JPN,D,1.80,74,14-05-84,Shizuoka,Júbilo Iwata,Albirex Niigata,2013,Japanese
+4,4,Kim Kun-Hoan,KOR,D,1.93,86,12-08-86,,Yokohama F Marinos,Albirex Niigata,2013,Japanese
+5,5,Mizuki Hamada,JPN,D,1.85,80,18-05-90,New Jersey,Urawa Red Diamonds,Albirex Niigata,2013,Japanese
+6,6,Yuta Mikado,JPN,M,1.74,68,26-12-86,Saitama,None,Albirex Niigata,2013,Japanese
+7,7,Seiya Fujita,JPN,M,1.75,63,02-06-87,Hokkaido,Consadole Sapporo,Albirex Niigata,2013,Japanese
+8,8,Léo Silva,BRA,M,1.78,78,24-12-85,São Luis,Portuguesa,Albirex Niigata,2013,Japanese
+9,9,Tatsuya Tanaka,JPN,F,1.67,63,27-11-82,Yamaguchi,Urawa Red Diamonds,Albirex Niigata,2013,Japanese
+11,11,Roger Gaúcho,BRA,F,1.77,68,30-03-86,São Leopoldo,Ponte Preta,Albirex Niigata,2013,Japanese
+13,13,Noriyoshi Sakai,JPN,F,1.78,73,09-11-92,Niigata,Teikyo Nagaoka HS,Albirex Niigata,2013,Japanese
+14,14,Kazuki Kozuka,JPN,M,1.73,68,02-08-94,Mitsuke,Teikyo Nagaoka HS,Albirex Niigata,2013,Japanese
+15,15,Isao Homma,JPN,M,1.72,60,19-04-81,Niigata,None,Albirex Niigata,2013,Japanese
+16,16,Hideya Okamoto,JPN,F,1.83,67,18-05-87,Osaka,Kashima Antlers,Albirex Niigata,2013,Japanese
+17,17,Jun Uchida,JPN,D,1.75,68,14-10-77,Hyogo,Kashima Antlers,Albirex Niigata,2013,Japanese
+18,18,Sho Naruoka,JPN,M,1.75,72,31-05-84,Shizuoka,Avispa Fukuoka,Albirex Niigata,2013,Japanese
+19,19,Kim Jin-Su,KOR,D,1.76,67,13-06-92,Jeonju,Kyunghee Univ,Albirex Niigata,2013,Japanese
+20,20,Kengo Kawamata,JPN,F,1.83,67,14-10-89,Ehime,None,Albirex Niigata,2013,Japanese
+21,21,Masaaki Higashiguchi,JPN,G,1.84,75,12-05-86,Osaka,None,Albirex Niigata,2013,Japanese
+22,22,Yasuhiro Watanabe,JPN,G,1.81,74,04-10-92,Niigata,None,Albirex Niigata,2013,Japanese
+23,23,Atomu Tanaka,JPN,M,1.67,65,04-10-87,Niigata,None,Albirex Niigata,2013,Japanese
+24,24,Naoki Kawaguchi,JPN,F,1.76,70,24-05-94,Niigata,None,Albirex Niigata,2013,Japanese
+25,25,Yusuke Murakami,JPN,D,1.79,77,27-04-84,Tokyo,Kashiwa Reysol,Albirex Niigata,2013,Japanese
+26,26,Kenji Koyano,JPN,M,1.70,62,22-06-88,Ibaraki,Kashima Antlers,Albirex Niigata,2013,Japanese
+27,27,Musashi Okuyama,JPN,M,1.75,64,15-05-91,Tokyo,None,Albirex Niigata,2013,Japanese
+28,28,Musashi Suzuki,JPN,F,1.84,70,11-02-94,Montego Bay,Kiryu Daiichi HS,Albirex Niigata,2013,Japanese
+29,29,Michael Fitzgerald,NZL,D,1.85,66,17-09-88,Auckland,None,Albirex Niigata,2013,Japanese
+30,30,Goson Sakai,JPN,D,1.83,75,20-03-96,Niigata,None,Albirex Niigata,2013,Japanese
+32,32,Yuto Koike,JPN,M,1.67,58,06-11-96,Tochigi,None,Albirex Niigata,2013,Japanese
+35,35,Sho Honda,JPN,G,1.84,70,21-04-95,Fukushima,None,Albirex Niigata,2013,Japanese
+39,39,Shusuke Tsubouchi,JPN,D,1.80,75,05-05-83,Gumma,Omiya Ardija,Albirex Niigata,2013,Japanese
+1,1,Yohei Takeda,JPN,G,1.89,76,30-06-87,Osaka,Shimizu S-Pulse,Cerezo Osaka,2013,Japanese
+2,2,Takahiro Ogihara,JPN,D,1.80,61,05-10-91,Osaka,None,Cerezo Osaka,2013,Japanese
+3,3,Teruyuki Moniwa,JPN,D,1.81,77,08-09-81,Kanagawa,FC Tokyo,Cerezo Osaka,2013,Japanese
+4,4,Kota Fujimoto,JPN,D,1.77,67,02-04-86,Kumamoto,None,Cerezo Osaka,2013,Japanese
+6,6,Hotaru Yamaguchi,JPN,M,1.73,64,06-10-90,Mie,None,Cerezo Osaka,2013,Japanese
+7,7,Toru Araiba,JPN,D,1.82,74,12-07-79,Osaka,Kashima Antlers,Cerezo Osaka,2013,Japanese
+8,8,Yoichiro Kakitani,JPN,F,1.73,62,03-01-90,Osaka,None,Cerezo Osaka,2013,Japanese
+9,9,Edno,BRA,M,1.82,73,31-05-83,Lages,UANL Tigres,Cerezo Osaka,2013,Japanese
+10,10,Jumpei Kusukami,JPN,M,1.70,61,27-08-87,Shiga,Kawasaki Frontale,Cerezo Osaka,2013,Japanese
+13,13,Takumi Minamino,JPN,F,1.74,67,16-01-95,Osaka,None,Cerezo Osaka,2013,Japanese
+14,14,Yusuke Maruhashi,JPN,M,1.78,68,02-09-90,Osaka,None,Cerezo Osaka,2013,Japanese
+15,15,Takamitsu Yoshino,JPN,M,1.76,67,24-04-89,Kyoto,Kokushikan Univ,Cerezo Osaka,2013,Japanese
+16,16,Takuma Edamura,JPN,M,1.76,67,16-11-86,Shizuoka,Shimizu S-Pulse,Cerezo Osaka,2013,Japanese
+17,17,Noriyuki Sakemoto,JPN,M,1.75,65,08-09-84,Wakayama,None,Cerezo Osaka,2013,Japanese
+18,18,Tomonobu Yokoyama,JPN,D,1.84,75,18-03-85,Tokyo,Kawasaki Frontale,Cerezo Osaka,2013,Japanese
+20,20,Kenyu Sugimoto,JPN,F,1.81,67,18-11-92,Osaka,None,Cerezo Osaka,2013,Japanese
+21,21,Kim Jin-Hyeon,KOR,G,1.92,85,06-07-87,Suwon,Dongguk Univ,Cerezo Osaka,2013,Japanese
+22,22,Daisuke Tada,JPN,G,1.85,75,11-08-82,Okayama,Gainare Tottori,Cerezo Osaka,2013,Japanese
+23,23,Tatsuya Yamashita,JPN,D,1.82,73,07-11-87,Hyogo,Consadole Sapporo,Cerezo Osaka,2013,Japanese
+25,25,Masato Kurogi,JPN,M,1.80,67,24-10-89,Miyazaki,Nissho Gakuen HS,Cerezo Osaka,2013,Japanese
+26,26,Daichi Akiyama,JPN,M,1.72,66,28-07-94,Osaka,None,Cerezo Osaka,2013,Japanese
+27,27,Gu Sung-Yun,KOR,G,1.95,82,27-06-94,Seoul,Jaehyun HS,Cerezo Osaka,2013,Japanese
+29,29,Daiki Kogure,JPN,M,1.74,68,17-05-94,Ibaraki,None,Cerezo Osaka,2013,Japanese
+30,30,Fábio Simplício,BRA,M,1.71,75,23-09-79,São Paulo,Roma,Cerezo Osaka,2013,Japanese
+31,31,Branquinho,BRA,M,1.72,71,02-01-83,São José do Rio Preto,Atlético Paranaense,Cerezo Osaka,2013,Japanese
+33,33,Kenta Mukuhara,JPN,D,1.72,64,06-07-89,Tokyo,FC Tokyo,Cerezo Osaka,2013,Japanese
+1,1,Yoshikatsu Kawaguchi,JPN,G,1.80,77,15-08-75,Shizuoka,FC Nordsjaelland,Júbilo Iwata,2013,Japanese
+2,2,Shunya Suganuma,JPN,D,1.82,80,17-05-90,Osaka,Gamba Osaka,Júbilo Iwata,2013,Japanese
+4,4,Yuki Kobayashi,JPN,M,1.82,68,24-04-92,Tokyo,Tokyo Verdy,Júbilo Iwata,2013,Japanese
+5,5,Yuichi Komano,JPN,D,1.72,76,25-07-81,Wakayama,Sanfrecce Hiroshima,Júbilo Iwata,2013,Japanese
+6,6,Hiroto Tanaka,JPN,M,1.77,71,26-04-90,Osaka,Kansai Univ,Júbilo Iwata,2013,Japanese
+7,7,Yuki Kobayashi,JPN,M,1.79,70,18-10-88,Kanagawa,Meiji Univ,Júbilo Iwata,2013,Japanese
+8,8,Baek Sung-Dong,KOR,M,1.71,66,13-08-91,Gwangju,Yonsei Univ,Júbilo Iwata,2013,Japanese
+9,9,Ryohei Yamazaki,JPN,F,1.71,66,14-03-89,Chiba,None,Júbilo Iwata,2013,Japanese
+10,10,Hiroki Yamada,JPN,M,1.73,66,27-12-88,Shizuoka,Meiji Univ,Júbilo Iwata,2013,Japanese
+11,11,Takuya Matsuura,JPN,M,1.66,62,21-12-88,Shizuoka,None,Júbilo Iwata,2013,Japanese
+13,13,Tomohiko Miyazaki,JPN,D,1.70,65,21-11-86,Tokyo,Kashima Antlers,Júbilo Iwata,2013,Japanese
+15,15,Minoru Suganuma,JPN,F,1.73,69,16-05-85,Saitama,Kashiwa Reysol,Júbilo Iwata,2013,Japanese
+16,16,Jo Kanazawa,JPN,D,1.73,72,09-07-76,Saitama,FC Tokyo,Júbilo Iwata,2013,Japanese
+17,17,Hidetaka Kanazono,JPN,F,1.84,75,01-09-88,Osaka,Kansai Univ,Júbilo Iwata,2013,Japanese
+18,18,Ryoichi Maeda,JPN,F,1.83,80,09-10-81,Hyogo,None,Júbilo Iwata,2013,Japanese
+19,19,Masahiko Inoha,JPN,D,1.79,73,28-08-85,Miyazaki,Vissel Kobe,Júbilo Iwata,2013,Japanese
+20,20,Shuto Yamamoto,JPN,M,1.80,69,01-06-85,Iwate,None,Júbilo Iwata,2013,Japanese
+21,21,Naoki Hatta,JPN,G,1.85,80,24-06-86,Mie,None,Júbilo Iwata,2013,Japanese
+22,22,Jung Woo-Young,KOR,M,1.86,78,14-12-89,Ulsan,Kyoto Sanga,Júbilo Iwata,2013,Japanese
+23,23,Kosuke Yamamoto,JPN,M,1.77,76,29-10-89,Shizuoka,None,Júbilo Iwata,2013,Japanese
+24,24,Cho Byung-Kuk,KOR,D,1.83,78,01-07-81,Ulsan,Vegalta Sendai,Júbilo Iwata,2013,Japanese
+25,25,Nagisa Sakurauchi,JPN,D,1.76,70,11-08-89,Osaka,Kansai Univ,Júbilo Iwata,2013,Japanese
+26,26,Ryosuke Matsuoka,JPN,M,1.73,65,23-10-84,Aichi,Vissel Kobe,Júbilo Iwata,2013,Japanese
+27,27,Takaaki Kinoshita,JPN,D,1.82,72,11-06-93,Shizuoka,Hamamatsu Kaiseikan HS,Júbilo Iwata,2013,Japanese
+28,28,Riki Kitawaki,JPN,M,1.77,72,22-11-85,Inagi,Tacuary,Júbilo Iwata,2013,Japanese
+29,29,Ayumi Niekawa,JPN,G,1.90,72,12-05-94,Shizuoka,None,Júbilo Iwata,2013,Japanese
+30,30,Yoshiro Abe,JPN,F,1.74,72,05-07-80,Ehime,Shonan Bellmare,Júbilo Iwata,2013,Japanese
+31,31,Akihiko Takeshige,JPN,G,1.86,75,21-08-87,Yamaguchi,Hannan Univ,Júbilo Iwata,2013,Japanese
+32,32,Kei Uemura,JPN,G,1.81,77,24-09-81,Kanagawa,Shonan Bellmare,Júbilo Iwata,2013,Japanese
+33,33,Yoshiaki Fujita,JPN,D,1.80,75,12-01-83,Tochigi,Oita Trinita,Júbilo Iwata,2013,Japanese
+37,37,Michihiro Yasuda,JPN,M,1.73,65,20-12-87,Osaka,Vitesse,Júbilo Iwata,2013,Japanese
+41,50,Carlinhos Paraíba,BRA,M,1.70,69,03-04-83,Rio Tinto,Omiya Ardija,Júbilo Iwata,2013,Japanese
+1,1,Akihiro Sato,JPN,G,1.83,73,30-08-86,Mie,Sanfrecce Hiroshima,Kashima Antlers,2013,Japanese
+3,3,Daiki Iwamasa,JPN,D,1.87,85,30-01-82,Yamaguchi,None,Kashima Antlers,2013,Japanese
+4,4,Kazuya Yamamura,JPN,D,1.84,75,02-12-89,Nagasaki,Ryutsu Keizai Univ,Kashima Antlers,2013,Japanese
+5,5,Takeshi Aoki,JPN,M,1.83,75,28-09-82,Takasaki,None,Kashima Antlers,2013,Japanese
+6,6,Koji Nakata,JPN,M,1.82,74,09-07-79,Shiga,Basel,Kashima Antlers,2013,Japanese
+8,8,Juninho,BRA,F,1.74,60,15-09-77,Salvador,Kawasaki Frontale,Kashima Antlers,2013,Japanese
+9,9,Yuya Osako,JPN,F,1.82,70,18-05-90,Kagoshima,None,Kashima Antlers,2013,Japanese
+10,10,Masahi Motoyama,JPN,M,1.75,66,20-06-79,Fukuoka,None,Kashima Antlers,2013,Japanese
+11,11,Davi,BRA,F,1.83,80,10-03-84,Fortaleza,Umm-Salal,Kashima Antlers,2013,Japanese
+13,13,Atsutaka Nakamura,JPN,F,1.73,67,13-09-90,Osaka,Kyoto Sanga,Kashima Antlers,2013,Japanese
+15,15,Gen Shoji,JPN,D,1.80,73,11-12-92,Hyogo,Yonago Kita HS,Kashima Antlers,2013,Japanese
+17,17,Takanori Maeno,JPN,D,1.70,63,14-04-88,Matsuyama,Ehime FC,Kashima Antlers,2013,Japanese
+18,18,Yoshiki Nakagawa,JPN,F,1.76,70,14-07-93,Ibaraki,None,Kashima Antlers,2013,Japanese
+19,19,Yuta Toyokawa,JPN,F,1.73,62,09-09-94,Kumamoto,Ozu HS,Kashima Antlers,2013,Japanese
+20,20,Gaku Shibasaki,JPN,M,1.75,62,28-05-92,Aomori,Aomori Yamada HS,Kashima Antlers,2013,Japanese
+21,21,Hitoshi Sogahata,JPN,G,1.87,80,02-08-79,Ibaraki,None,Kashima Antlers,2013,Japanese
+22,22,Daigo Nishi,JPN,M,1.75,64,28-08-87,Hokkaido,Consadole Sapporo,Kashima Antlers,2013,Japanese
+23,23,Naomichi Ueda,JPN,D,1.86,77,24-10-94,Kumamoto,Ozu HS,Kashima Antlers,2013,Japanese
+24,24,Yukitoshi Ito,JPN,D,1.75,68,03-09-93,Shizuoka,Shizuoka Gakuen HS,Kashima Antlers,2013,Japanese
+25,25,Yasushi Endo,JPN,M,1.68,69,07-04-88,Miyagi,Shiogama FC,Kashima Antlers,2013,Japanese
+27,27,Takahide Umebachi,JPN,M,1.75,66,08-06-92,Osaka,Kansai Univ,Kashima Antlers,2013,Japanese
+28,28,Shoma Doi,JPN,M,1.68,59,21-05-92,Yamagata,Kashima Antlers,Kashima Antlers,2013,Japanese
+29,29,Shinichiro Kawamata,JPN,G,1.88,86,23-07-89,Shizuoka,None,Kashima Antlers,2013,Japanese
+30,30,Ryuta Miyauchi,JPN,M,1.69,66,02-03-94,Chiba,None,Kashima Antlers,2013,Japanese
+31,31,Naoki Yagi,JPN,G,1.97,70,18-12-91,Gumma,None,Kashima Antlers,2013,Japanese
+33,33,Daichi Kawashima,JPN,M,1.68,64,21-11-86,Ibaraki,None,Kashima Antlers,2013,Japanese
+35,35,Takuya Nozawa,JPN,M,1.76,70,12-08-81,Ibaraki,Vissel Kobe,Kashima Antlers,2013,Japanese
+36,36,Shuhei Akasaki,JPN,F,1.74,70,01-09-91,Kagoshima,Tsukuba Univ,Kashima Antlers,2013,Japanese
+37,37,Yuto Koizumi,JPN,G,1.90,83,14-09-95,Ibaraki,None,Kashima Antlers,2013,Japanese
+40,40,Mitsuo Ogasawara,JPN,M,1.73,72,05-04-79,Iwate,None,Kashima Antlers,2013,Japanese
+1,1,Kazushige Kirihata,JPN,G,1.85,77,30-06-87,Yamanashi,None,Kashiwa Reysol,2013,Japanese
+2,2,Masato Fujita,JPN,D,1.76,70,08-05-86,Oita,Yokohama F Marinos,Kashiwa Reysol,2013,Japanese
+3,3,Naoya Kondo,JPN,D,1.80,76,03-10-83,Tochigi,None,Kashiwa Reysol,2013,Japanese
+4,4,Daisuke Suzuki,JPN,D,1.81,69,29-01-90,Tokyo,Albirex Niigata,Kashiwa Reysol,2013,Japanese
+5,5,Tatsuya Masushima,JPN,D,1.80,74,22-04-85,Chiba,Kyoto Sanga,Kashiwa Reysol,2013,Japanese
+7,7,Hidekazu Otani,JPN,M,1.74,67,06-11-84,Chiba,None,Kashiwa Reysol,2013,Japanese
+8,8,Masakatsu Sawa,JPN,F,1.73,70,12-01-83,Moriya,Cienciano,Kashiwa Reysol,2013,Japanese
+9,9,Masato Kudo,JPN,F,1.75,60,06-05-90,Tokyo,None,Kashiwa Reysol,2013,Japanese
+10,10,Leandro Domingues,BRA,M,1.73,70,24-08-83,Vitória da Conquista,Vitória,Kashiwa Reysol,2013,Japanese
+11,11,Cléo,BRA,F,1.85,80,09-08-85,Guarapuava,Guangzhou Evergrande,Kashiwa Reysol,2013,Japanese
+14,14,Kenta Kano,JPN,M,1.75,64,02-05-86,Shizuoka,Yokohama F Marinos,Kashiwa Reysol,2013,Japanese
+15,15,Jorge Wágner,BRA,M,1.78,73,17-11-78,Feira de Santana,São Paulo,Kashiwa Reysol,2013,Japanese
+16,16,Koji Inada,JPN,G,1.87,82,19-06-85,Osaka,Roasso Kumamoto,Kashiwa Reysol,2013,Japanese
+17,17,Hiroki Akino,JPN,M,1.76,62,08-10-94,Chiba,None,Kashiwa Reysol,2013,Japanese
+18,18,Junya Tanaka,JPN,F,1.80,73,15-07-87,Tokyo,None,Kashiwa Reysol,2013,Japanese
+19,19,Yu Kimura,JPN,F,1.75,67,03-06-94,Chiba,None,Kashiwa Reysol,2013,Japanese
+20,20,Akimi Barada,JPN,M,1.70,58,30-05-91,Chiba,None,Kashiwa Reysol,2013,Japanese
+21,21,Takanori Sugeno,JPN,G,1.79,75,03-05-84,Saitama,Yokohama FC,Kashiwa Reysol,2013,Japanese
+22,22,Wataru Hashimoto,JPN,D,1.81,72,14-09-86,Shiga,None,Kashiwa Reysol,2013,Japanese
+23,23,Hirofumi Watanabe,JPN,D,1.85,75,07-07-87,Yamagata,None,Kashiwa Reysol,2013,Japanese
+25,25,Yusuke Kobayashi,JPN,M,1.72,60,23-10-94,Saitama,None,Kashiwa Reysol,2013,Japanese
+26,26,Tetsuro Ota,JPN,M,1.76,71,02-07-89,Ibaraki,Montedio Yamagata,Kashiwa Reysol,2013,Japanese
+27,27,Kim Chang-Soo,KOR,D,1.79,72,12-09-85,Yeosu,Busan I'Park,Kashiwa Reysol,2013,Japanese
+28,28,Ryoichi Kurisawa,JPN,M,1.70,64,05-09-82,Chiba,FC Tokyo,Kashiwa Reysol,2013,Japanese
+29,29,Hiroyuki Taniguchi,JPN,D,1.82,73,27-06-85,Yokosuka,Yokohama F Marinos,Kashiwa Reysol,2013,Japanese
+30,30,Ryosuke Yamanaka,JPN,M,1.68,58,20-04-93,Chiba,None,Kashiwa Reysol,2013,Japanese
+31,31,Kosuke Nakamura,JPN,G,1.84,72,27-02-95,Tokyo,None,Kashiwa Reysol,2013,Japanese
+32,32,Shunsuke Ito,JPN,G,1.77,65,26-09-95,Kanagawa,None,Kashiwa Reysol,2013,Japanese
+33,33,Shinnosuke Nakatani,JPN,D,1.80,74,24-03-96,Chiba,None,Kashiwa Reysol,2013,Japanese
+34,34,Yuta Nakayama,JPN,D,1.79,73,16-02-97,Saitama,None,Kashiwa Reysol,2013,Japanese
+1,1,Rikihiro Sugiyama,JPN,G,1.86,77,01-05-87,Shizuoka,None,Kawasaki Frontale,2013,Japanese
+2,2,Hiroki Ito,JPN,D,1.83,74,27-07-78,Ehime,None,Kawasaki Frontale,2013,Japanese
+3,3,Yusuke Tanaka,JPN,D,1.81,73,14-04-86,Tokyo,Yokohama F Marinos,Kawasaki Frontale,2013,Japanese
+4,4,Yusuke Igawa,JPN,D,1.82,75,30-10-82,Osaka,Gamba Osaka,Kawasaki Frontale,2013,Japanese
+5,5,Jeci,BRA,D,1.84,77,22-04-80,Guaratinguetá,Coritiba,Kawasaki Frontale,2013,Japanese
+6,6,Masaki Yamamoto,JPN,M,1.75,65,24-08-87,Shizuoka,Consadole Sapporo,Kawasaki Frontale,2013,Japanese
+7,7,Sota Nakazawa,JPN,D,1.88,79,26-10-82,Tokyo,Gamba Osaka,Kawasaki Frontale,2013,Japanese
+8,8,Takanobu Komiyama,JPN,D,1.74,72,03-10-84,Chiba,Yokohama F Marinos,Kawasaki Frontale,2013,Japanese
+9,9,Takuro Yajima,JPN,F,1.82,78,28-03-84,Shiga,Shimizu S-Pulse,Kawasaki Frontale,2013,Japanese
+10,10,Renato,BRA,F,1.67,68,04-10-88,Cardoso,Coritiba,Kawasaki Frontale,2013,Japanese
+11,11,Yu Kobayashi,JPN,F,1.75,68,23-09-87,Aomori,Takushoku Univ,Kawasaki Frontale,2013,Japanese
+13,13,Yoshito Ōkubo,JPN,F,1.70,73,09-06-82,Fukuoka,Vissel Kobe,Kawasaki Frontale,2013,Japanese
+14,14,Kengo Nakamura,JPN,M,1.75,67,31-10-80,Tokyo,None,Kawasaki Frontale,2013,Japanese
+15,15,Yuki Saneto,JPN,D,1.78,71,19-01-89,Saitama,Kochi Univ,Kawasaki Frontale,2013,Japanese
+16,16,Ryota Oshima,JPN,M,1.68,64,23-01-93,Shizuoka,Shizuoka Gakuen HS,Kawasaki Frontale,2013,Japanese
+17,17,Yuki Natsume,JPN,F,1.84,76,18-11-88,Fukui,Komazawa Univ,Kawasaki Frontale,2013,Japanese
+18,18,Alan Pinheiro,BRA,F,1.80,72,13-05-92,Brumado,Vitória,Kawasaki Frontale,2013,Japanese
+19,19,Kentaro Moriya,JPN,M,1.73,63,21-09-88,Yokohama,Yokohama F Marinos,Kawasaki Frontale,2013,Japanese
+20,20,Junichi Inamoto,JPN,M,1.81,75,18-09-79,Yūsui,Rennes,Kawasaki Frontale,2013,Japanese
+21,21,Yohei Nishibe,JPN,G,1.87,77,01-12-80,Hyogo,Shonan Bellmare,Kawasaki Frontale,2013,Japanese
+22,22,Akito Fukumori,JPN,D,1.81,73,16-12-92,Kanagawa,Toko Gakuen HS,Kawasaki Frontale,2013,Japanese
+23,23,Kyohei Noborizato,JPN,M,1.68,60,13-11-90,Osaka,None,Kawasaki Frontale,2013,Japanese
+24,24,Koya Kazama,JPN,M,1.80,71,16-04-93,Hiroshima,Shimizu Commercial HS,Kawasaki Frontale,2013,Japanese
+25,25,Kyotaro Yamakoshi,JPN,D,1.72,69,18-03-91,Tochigi,Tsukuba Univ,Kawasaki Frontale,2013,Japanese
+27,27,An Byong-Jun,PRK,F,1.83,73,22-05-90,Kokubunji,Chuo Univ,Kawasaki Frontale,2013,Japanese
+28,28,Robson,BRA,D,1.85,80,14-02-94,Espírito Santo,Bahia,Kawasaki Frontale,2013,Japanese
+29,29,Shun Takagi,JPN,G,1.81,75,22-05-89,Kanagawa,Meiji Univ,Kawasaki Frontale,2013,Japanese
+30,30,Shota Arai,JPN,G,1.85,80,01-11-88,Chichibu,Tokyo Verdy,Kawasaki Frontale,2013,Japanese
+31,31,Koki Kazama,JPN,M,1.77,70,19-06-91,Hiroshima,Koblenz,Kawasaki Frontale,2013,Japanese
+32,32,Jun Sonoda,JPN,D,1.81,73,23-01-89,Shizuoka,None,Kawasaki Frontale,2013,Japanese
+33,33,Shogo Taniguchi,JPN,M,1.82,70,15-07-91,Kumamoto,Tsukuba Univ,Kawasaki Frontale,2013,Japanese
+34,34,Masataka Kani,JPN,M,1.72,63,18-04-91,Kanagawa,Hannan Univ,Kawasaki Frontale,2013,Japanese
+1,1,Seigo Narazaki,JPN,G,1.87,80,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2013,Japanese
+3,3,Yusuke Muta,JPN,D,1.87,80,22-09-90,Fukuoka,Fukuoka Univ,Nagoya Grampus,2013,Japanese
+4,4,Marcus Tulio Tanaka,JPN,D,1.85,82,24-04-81,São Paulo,Urawa Red Diamonds,Nagoya Grampus,2013,Japanese
+5,5,Takahiro Masukawa,JPN,D,1.91,93,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus,2013,Japanese
+6,6,Shohei Abe,JPN,D,1.71,70,01-12-83,Chiba,None,Nagoya Grampus,2013,Japanese
+7,7,Naoshi Nakamura,JPN,M,1.76,72,27-01-79,Chiba,None,Nagoya Grampus,2013,Japanese
+8,8,Jungo Fujimoto,JPN,M,1.73,69,24-03-84,Kanagawa,Shimizu S-Pulse,Nagoya Grampus,2013,Japanese
+9,9,Nikola Jakimovski,MKD,M,1.82,73,26-02-90,Skopje,Javor Ivanjica,Nagoya Grampus,2013,Japanese
+10,10,Yoshizumi Ogawa,JPN,M,1.73,67,25-08-84,Tokyo,None,Nagoya Grampus,2013,Japanese
+11,11,Keiji Tamada,JPN,F,1.73,67,11-04-80,Chiba,None,Nagoya Grampus,2013,Japanese
+13,13,Ryota Isomura,JPN,M,1.81,70,16-03-91,Aichi,None,Nagoya Grampus,2013,Japanese
+15,15,Yuki Honda,JPN,D,1.72,65,02-01-91,Ichinomiya,Hannan Univ,Nagoya Grampus,2013,Japanese
+16,16,Joshua Kennedy,AUS,F,1.94,84,20-08-82,Wodonga,Karlsruhe,Nagoya Grampus,2013,Japanese
+18,18,Kensuke Nagai,JPN,F,1.77,67,05-03-89,Hiroshima,Standard Liège,Nagoya Grampus,2013,Japanese
+19,19,Kisho Yano,JPN,F,1.85,74,05-04-84,Shizuoka,Albirex Niigata,Nagoya Grampus,2013,Japanese
+20,20,Danilson Córdoba,COL,M,1.85,80,06-09-86,Quibdó,Consadole Sapporo,Nagoya Grampus,2013,Japanese
+21,21,Koji Nishimura,JPN,G,1.86,78,07-07-87,Mie,Kyoto Sanga,Nagoya Grampus,2013,Japanese
+22,22,Daniel,BRA,M,1.86,79,30-05-82,Cabo Frio,Ventforet Kofu,Nagoya Grampus,2013,Japanese
+23,23,Yosuke Ishibitsu,JPN,M,1.78,73,23-07-83,Osaka,Vissel Kobe,Nagoya Grampus,2013,Japanese
+24,24,Nikki Havenaar,JPN,D,1.97,82,16-02-95,Nagoya,None,Nagoya Grampus,2013,Japanese
+25,25,Reo Mochizuki,JPN,M,1.67,57,18-01-95,Ryuo,Yasu HS,Nagoya Grampus,2013,Japanese
+26,26,Tiago,BRA,F,1.83,78,30-04-94,São Paulo,Shibuya Makuhari HS,Nagoya Grampus,2013,Japanese
+27,27,Ryota Tanabe,JPN,M,1.78,70,10-04-93,Tokyo,Mitsubishi Yowa,Nagoya Grampus,2013,Japanese
+28,28,Taishi Taguchi,JPN,M,1.74,65,16-03-91,Okinawa,None,Nagoya Grampus,2013,Japanese
+29,29,Kazuki Sato,JPN,D,1.74,65,18-05-93,Aichi,None,Nagoya Grampus,2013,Japanese
+31,31,Motoki Takahara,JPN,F,1.68,61,28-05-93,Aichi,None,Nagoya Grampus,2013,Japanese
+32,32,Hayuma Tanaka,JPN,M,1.74,64,31-07-82,Nagano,Yokohama F Marinos,Nagoya Grampus,2013,Japanese
+35,35,Teruki Tanaka,JPN,M,1.83,73,26-08-92,Tokya,Mitsubishi Yowa,Nagoya Grampus,2013,Japanese
+36,36,Ryosuke Kojima,JPN,G,1.82,68,30-01-97,Aichi,None,Nagoya Grampus,2013,Japanese
+41,50,Yoshinari Takagi,JPN,G,1.87,86,20-05-79,Tokyo,Tokyo Verdy,Nagoya Grampus,2013,Japanese
+1,1,Keisuke Shimizu,JPN,G,1.83,74,25-11-88,Hyogo,None,Oita Trinita,2013,Japanese
+2,2,Arata Kodama,JPN,D,1.78,70,08-10-82,Osaka,Cerezo Osaka,Oita Trinita,2013,Japanese
+3,3,Akihiro Sakata,JPN,D,1.78,72,16-05-84,Kyoto,Shonan Bellmare,Oita Trinita,2013,Japanese
+4,4,Yuki Fukaya,JPN,D,1.80,73,01-08-82,Aichi,Omiya Ardija,Oita Trinita,2013,Japanese
+5,5,Masashi Wakasa,JPN,D,1.80,70,24-07-89,Saitama,Toyo Univ,Oita Trinita,2013,Japanese
+6,6,Kohei Tokita,JPN,M,1.76,72,16-03-86,Tokyo,Omiya Ardija,Oita Trinita,2013,Japanese
+7,7,Yuji Kimura,JPN,M,1.77,70,05-10-87,Tokyo,Giravanz Kitakyushu,Oita Trinita,2013,Japanese
+8,8,Hironori Nishi,JPN,M,1.68,59,25-02-87,Kumamoto,Roasso Kumamoto,Oita Trinita,2013,Japanese
+10,10,Choi Jung-Han,KOR,F,1.79,73,03-06-89,Incheon,Yonsei Univ,Oita Trinita,2013,Japanese
+11,11,Shinji Murai,JPN,M,1.75,70,01-12-79,Chiba,JEF United,Oita Trinita,2013,Japanese
+13,13,Daiki Takamatsu,JPN,F,1.83,75,08-09-81,Yamaguchi,None,Oita Trinita,2013,Japanese
+15,15,Takuma Nagayoshi,JPN,M,1.79,68,18-04-86,Kurashiki,FC Gifu,Oita Trinita,2013,Japanese
+16,16,Takenori Hayashi,JPN,F,1.68,70,14-10-80,Nara,BEC Tero Sasana,Oita Trinita,2013,Japanese
+17,17,Rei Matsumoto,JPN,M,1.75,64,25-02-88,Hokkaido,Yokohama F Marinos,Oita Trinita,2013,Japanese
+18,18,Kazumichi Takagi,JPN,D,1.88,75,21-11-80,Shiga,Vissel Kobe,Oita Trinita,2013,Japanese
+19,19,Shinji Tsujio,JPN,D,1.80,72,23-12-85,Osaka,Shimizu S-Pulse,Oita Trinita,2013,Japanese
+20,20,Yasuhito Morishima,JPN,F,1.86,80,18-09-87,Hyogo,Cerezo Osaka,Oita Trinita,2013,Japanese
+21,21,Kenta Tanno,JPN,G,1.84,75,30-08-86,Miyagi,Cerezo Osaka,Oita Trinita,2013,Japanese
+22,22,Kim Jeong-Hyun,KOR,M,1.85,77,01-06-93,,Jung Dong HS,Oita Trinita,2013,Japanese
+23,23,Yu Yasukawa,JPN,D,1.83,70,24-05-88,Fukuoka,Doshisha Univ,Oita Trinita,2013,Japanese
+24,24,Yu Kijima,JPN,F,1.69,64,18-05-86,Hyogo,Shimizu S-Pulse,Oita Trinita,2013,Japanese
+26,26,Yusuke Goto,JPN,F,1.70,64,23-04-93,Kanoya,None,Oita Trinita,2013,Japanese
+27,27,Ken Matsubara,JPN,D,1.80,70,16-02-93,Usa,None,Oita Trinita,2013,Japanese
+28,28,Hirotaka Tameda,JPN,M,1.75,66,24-08-93,Nagasaki,None,Oita Trinita,2013,Japanese
+29,29,Masaya Matsumoto,JPN,M,1.72,64,25-01-95,Nakatsu,JFA Academy Fukushima,Oita Trinita,2013,Japanese
+30,30,Rodrigo Mancha,BRA,M,1.86,80,16-06-86,Curitiba,Vitória,Oita Trinita,2013,Japanese
+31,31,Naoto Kamifukumoto,JPN,G,1.81,75,17-11-89,Chiba,Juntendo Univ,Oita Trinita,2013,Japanese
+32,32,Masashi Miyazawa,JPN,M,1.75,67,24-04-78,Yamanashi,FC Tokyo,Oita Trinita,2013,Japanese
+33,33,Takuya Marutani,JPN,F,1.79,71,30-05-89,Tottori,Sanfrecce Hiroshima,Oita Trinita,2013,Japanese
+38,38,Riki Matsuda,JPN,F,1.75,68,24-07-91,Osaka,Biwako Seikei SC,Oita Trinita,2013,Japanese
+41,49,Yohei Kajiyama,JPN,M,1.80,77,24-09-85,Tokyo,FC Tokyo,Oita Trinita,2013,Japanese
+1,1,Takashi Kitano,JPN,G,1.86,75,04-10-82,Hokkaido,Albirex Niigata,Omiya Ardija,2013,Japanese
+2,2,Kosuke Kikuchi,JPN,M,1.82,72,16-12-85,Saitama,Kawasaki Frontale,Omiya Ardija,2013,Japanese
+3,3,Shunsuke Fukuda,JPN,D,1.86,83,17-04-86,Saitama,None,Omiya Ardija,2013,Japanese
+6,6,Takuya Aoki,JPN,M,1.79,72,16-09-89,Gumma,None,Omiya Ardija,2013,Japanese
+7,7,Kota Ueda,JPN,M,1.74,68,09-05-86,Tokyo,Júbilo Iwata,Omiya Ardija,2013,Japanese
+8,8,Takumi Shimohira,JPN,D,1.76,68,06-10-88,Osaka,Gamba Osaka,Omiya Ardija,2013,Japanese
+9,9,Cho Young-Cheol,KOR,F,1.82,74,31-05-89,Ulsan,Albirex Niigata,Omiya Ardija,2013,Japanese
+11,11,Zlatan Ljubijankič,SVN,F,1.82,84,15-12-83,Ljubljana,KAA Gent,Omiya Ardija,2013,Japanese
+13,13,Daigo Watanabe,JPN,M,1.71,62,03-12-84,Nagasaki,Kyoto Sanga,Omiya Ardija,2013,Japanese
+17,17,Shohei Takahashi,JPN,D,1.80,70,27-10-91,Tokyo,Tokyo Verdy,Omiya Ardija,2013,Japanese
+18,18,Hayato Hashimoto,JPN,M,1.75,63,15-09-81,Fukui,None,Omiya Ardija,2013,Japanese
+19,19,Milivoje Novakovič,SVN,F,1.92,85,18-05-79,Ljubljana,Köln,Omiya Ardija,2013,Japanese
+20,20,Takuya Wada,JPN,D,1.70,63,28-07-90,Kanagawa,Vegalta Sendai,Omiya Ardija,2013,Japanese
+21,21,Koji Ezumi,JPN,G,1.91,84,18-12-78,Shimane,Oita Trinita,Omiya Ardija,2013,Japanese
+22,22,Lucas Neill,AUS,D,1.85,78,09-03-78,Sydney,Sydney FC,Omiya Ardija,2013,Japanese
+23,23,Shin Kanazawa,JPN,M,1.74,67,09-09-83,Saitama,None,Omiya Ardija,2013,Japanese
+24,24,Norio Suzuki,JPN,M,1.77,77,14-02-84,Chiba,Angers,Omiya Ardija,2013,Japanese
+25,25,Taisuke Miyazaki,JPN,M,1.67,62,05-05-92,Saitama,None,Omiya Ardija,2013,Japanese
+26,26,Kazuhiro Murakami,JPN,M,1.78,74,20-01-81,Mie,Kawasaki Frontale,Omiya Ardija,2013,Japanese
+27,27,Tomoki Imai,JPN,D,1.78,78,29-11-90,Tokyo,Chuo Univ,Omiya Ardija,2013,Japanese
+28,28,Takamitsu Tomiyama,JPN,F,1.80,73,26-12-90,Tochigi,Waseda Univ,Omiya Ardija,2013,Japanese
+30,30,Daisuke Watabe,JPN,F,1.70,67,19-04-89,Saitama,None,Omiya Ardija,2013,Japanese
+31,31,Keiki Shimizu,JPN,G,1.83,75,10-12-85,Gumma,None,Omiya Ardija,2013,Japanese
+32,32,Yu Hasegawa,JPN,F,1.87,78,05-07-87,Yamanashi,Montedio Yamagata,Omiya Ardija,2013,Japanese
+34,34,Yosuke Kataoka,JPN,D,1.79,73,26-05-82,Saitama,Kyoto Sanga,Omiya Ardija,2013,Japanese
+35,35,Shuhei Kawata,JPN,G,1.85,77,05-04-94,Saitama,None,Omiya Ardija,2013,Japanese
+36,36,Keisuke Oyama,JPN,M,1.74,62,07-05-95,Saitama,None,Omiya Ardija,2013,Japanese
+37,37,Hikaru Koinuma,JPN,D,1.83,70,03-10-95,Saitama,None,Omiya Ardija,2013,Japanese
+38,38,Yuta Fujii,JPN,D,1.80,75,25-05-91,Saitama,Toyo Univ,Omiya Ardija,2013,Japanese
+39,39,Jin Izumisawa,JPN,F,1.65,63,17-12-91,Chiba,Hannan Univ,Omiya Ardija,2013,Japanese
+40,40,Yuko Takase,JPN,D,1.72,68,25-11-91,Saitama,Chuo Univ,Omiya Ardija,2013,Japanese
+1,1,Taku Akahoshi,JPN,G,1.85,80,21-04-84,Fukuoka,Fukuoka Univ,Sagan Tosu,2013,Japanese
+3,3,Keita Isozaki,JPN,D,1.80,76,17-11-80,Odawara,Vegalta Sendai,Sagan Tosu,2013,Japanese
+4,4,Teruaki Kobayashi,JPN,D,1.85,78,20-06-79,Ibaraki,Ventforet Kofu,Sagan Tosu,2013,Japanese
+5,5,Tatsuya Sakai,JPN,D,1.83,71,19-11-90,Fukuoka,NIFS Kanoya,Sagan Tosu,2013,Japanese
+6,6,Jonathan Restrepo,COL,M,1.84,73,14-08-94,,Millonarios,Sagan Tosu,2013,Japanese
+8,8,Kota Mizunuma,JPN,F,1.75,66,22-02-90,Tokyo,Yokohama F Marinos,Sagan Tosu,2013,Japanese
+9,9,Ryuji Bando,JPN,F,1.71,65,02-08-79,Hyogo,Cerezo Osaka,Sagan Tosu,2013,Japanese
+10,10,Kim Min-Woo,KOR,M,1.72,69,25-02-90,Seoul,Yonsei Univ,Sagan Tosu,2013,Japanese
+11,11,Yohei Toyoda,JPN,F,1.85,79,11-04-85,Ishikawa,Kyoto Sanga,Sagan Tosu,2013,Japanese
+12,12,Tatsuro Okuda,JPN,G,1.85,78,20-09-88,Nara,Aichi Gakuin Univ,Sagan Tosu,2013,Japanese
+13,13,Kim Jung-Ya,KOR,D,1.83,74,17-05-88,Hyogo,Gamba Osaka,Sagan Tosu,2013,Japanese
+14,14,Naoyuki Fujita,JPN,M,1.75,68,22-06-87,Fukuoka,Fukuoka Univ,Sagan Tosu,2013,Japanese
+15,15,Ryuhei Niwa,JPN,M,1.76,68,13-01-86,Yokohama,Vissel Kobe,Sagan Tosu,2013,Japanese
+16,16,Nilson,BRA,M,1.83,78,31-03-89,Recife,Itabaiana,Sagan Tosu,2013,Japanese
+18,18,Ryunosuke Noda,JPN,F,1.83,74,28-09-88,Fukuoka,Japan Univ of Economics,Sagan Tosu,2013,Japanese
+19,19,Shohei Okada,JPN,F,1.68,65,29-04-89,Kanagawa,NIFS Kanoya,Sagan Tosu,2013,Japanese
+20,20,Yeo Sung-Hye,KOR,D,1.86,80,06-08-87,,Hanyang Univ,Sagan Tosu,2013,Japanese
+21,21,Takuya Muro,JPN,G,1.81,78,02-11-82,Osaka,Tokyo Verdy,Sagan Tosu,2013,Japanese
+22,22,Kei Ikeda,JPN,F,1.78,72,20-10-86,Inzai,Ryutsu Keizai Univ,Sagan Tosu,2013,Japanese
+23,23,Toshiya Sueyoshi,JPN,M,1.75,73,18-11-87,Fukuoka,Avispa Fukuoka,Sagan Tosu,2013,Japanese
+24,24,Takashi Kanai,JPN,D,1.74,60,05-02-90,Tokyo,Yokohama F Marinos,Sagan Tosu,2013,Japanese
+25,25,Ryota Hayasaka,JPN,M,1.83,73,19-09-85,Nara,Honda FC,Sagan Tosu,2013,Japanese
+26,26,Shuto Hira,JPN,F,1.70,66,25-06-94,Kagoshima,Saga Higashi HS,Sagan Tosu,2013,Japanese
+27,27,Koki Kiyotake,JPN,M,1.77,65,20-03-91,Oita,Fukuoka Univ,Sagan Tosu,2013,Japanese
+28,28,Yoshiki Takahashi,JPN,M,1.70,67,14-05-85,Nagano,Vegalta Sendai,Sagan Tosu,2013,Japanese
+29,29,Shohei Kishida,JPN,D,1.80,70,03-04-90,Oita,Fukuoka Univ,Sagan Tosu,2013,Japanese
+30,30,Akito Fukuta,JPN,M,1.70,63,01-05-92,Mie,NIFS Kanoya,Sagan Tosu,2013,Japanese
+31,31,Eisuke Fujishima,JPN,G,1.87,82,31-01-92,Kumamoto,Fukuoka Univ,Sagan Tosu,2013,Japanese
+32,32,Ryogo Yamasaki,JPN,F,1.87,75,20-09-92,Okayama,Fukuoka Univ,Sagan Tosu,2013,Japanese
+33,33,Akihiro Hayashi,JPN,G,1.95,89,07-05-87,Tokyo,Shimizu S-Pulse,Sagan Tosu,2013,Japanese
+36,36,Naoya Kikuchi,JPN,M,1.81,74,24-11-84,Shizuoka,Albirex Niigata,Sagan Tosu,2013,Japanese
+1,1,Shusaku Nishikawa,JPN,G,1.83,79,18-06-86,Oita,Oita Trinita,Sanfrecce Hiroshima,2013,Japanese
+2,2,Hwang Seok-Ho,KOR,D,1.82,80,27-06-89,Cheongju,Daegu Univ,Sanfrecce Hiroshima,2013,Japanese
+4,4,Hiroki Mizumoto,JPN,D,1.83,72,12-09-85,Mie,Kyoto Sanga,Sanfrecce Hiroshima,2013,Japanese
+5,5,Kazuhiko Chiba,JPN,M,1.83,74,21-06-85,Hakkaido,Albirex Niigata,Sanfrecce Hiroshima,2013,Japanese
+6,6,Toshihiro Aoyama,JPN,M,1.73,72,22-02-86,Okayama,None,Sanfrecce Hiroshima,2013,Japanese
+7,7,Koji Morisaki,JPN,M,1.77,76,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+8,8,Kazuyuki Morisaki,JPN,M,1.77,72,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+9,9,Naoki Ishihara,JPN,F,1.73,61,14-08-84,Gumma,Omiya Ardija,Sanfrecce Hiroshima,2013,Japanese
+10,10,Yojiro Takahagi,JPN,M,1.83,66,02-08-86,Fukushima,None,Sanfrecce Hiroshima,2013,Japanese
+11,11,Hisato Sato,JPN,F,1.70,68,12-03-82,Saitama,Vegalta Sendai,Sanfrecce Hiroshima,2013,Japanese
+13,13,Takuya Masuda,JPN,G,1.84,83,29-06-89,Hiroshima,Ryutsu Keizai Univ,Sanfrecce Hiroshima,2013,Japanese
+14,14,Mihael Mikić,CRO,M,1.76,70,06-01-80,Zagreb,Dinamo Zagreb,Sanfrecce Hiroshima,2013,Japanese
+15,15,Tomotaka Okamoto,JPN,M,1.79,65,29-06-90,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+16,16,Satoru Yamagishi,JPN,M,1.81,77,03-05-83,Chiba,Kawasaki Frontale,Sanfrecce Hiroshima,2013,Japanese
+17,17,Park Hyung-Jin,KOR,D,1.82,74,24-06-90,,Korea Univ,Sanfrecce Hiroshima,2013,Japanese
+19,19,Lee Dae-Heon,KOR,M,1.85,78,17-11-93,Samcheok,Gangneung HS,Sanfrecce Hiroshima,2013,Japanese
+21,21,Yutaro Hara,JPN,G,1.87,87,23-04-90,Shimane,None,Sanfrecce Hiroshima,2013,Japanese
+24,24,Gakuto Notsuda,JPN,M,1.75,68,06-06-94,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+26,26,Sena Inami,JPN,F,1.80,73,25-06-92,Ishikawa,None,Sanfrecce Hiroshima,2013,Japanese
+27,27,Kohei Shimizu,JPN,F,1.66,62,30-04-89,Oita,None,Sanfrecce Hiroshima,2013,Japanese
+29,29,Takuma Asano,JPN,F,1.71,67,10-11-94,Mie,None,Sanfrecce Hiroshima,2013,Japanese
+32,32,Kim Jeong-Seok,KOR,M,1.79,65,03-01-94,Incheon,Chuncheon Tech Mech HS,Sanfrecce Hiroshima,2013,Japanese
+33,33,Tsukasa Shiotani,JPN,D,1.80,74,05-12-88,Tokushima,Mito HollyHock,Sanfrecce Hiroshima,2013,Japanese
+35,35,Koji Nakajima,JPN,M,1.81,68,20-08-77,Osaka,JEF United,Sanfrecce Hiroshima,2013,Japanese
+36,36,Hayao Kawabe,JPN,M,1.74,65,08-09-95,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+37,37,Kazuya Miyahara,JPN,M,1.70,61,22-03-96,Hiroshima,None,Sanfrecce Hiroshima,2013,Japanese
+2,2,Lee Ki-Je,KOR,D,1.75,72,09-07-91,Jeju,Dongguk Univ,Shimizu S-Pulse,2013,Japanese
+3,3,Yasuhiro Hiraoka,JPN,D,1.82,65,23-05-86,Shizuoka,None,Shimizu S-Pulse,2013,Japanese
+4,4,Calvin Jong-a-Pin,NED,D,1.83,75,18-07-86,Amsterdam,SC Heerenveen,Shimizu S-Pulse,2013,Japanese
+5,5,Taisuke Muramatsu,JPN,D,1.76,77,16-12-89,Shizuoka,Shonan Bellmare,Shimizu S-Pulse,2013,Japanese
+6,6,Kota Sugiyama,JPN,M,1.77,67,24-01-85,Shizuoka,None,Shimizu S-Pulse,2013,Japanese
+7,7,Kohei Hattanda,JPN,M,1.71,62,08-01-90,Kagoshima,Tsukuba Univ,Shimizu S-Pulse,2013,Japanese
+8,8,Hideki Ishige,JPN,M,1.68,66,21-09-94,Shizuoka,None,Shimizu S-Pulse,2013,Japanese
+10,10,Yosuke Kawai,JPN,M,1.65,59,04-08-89,Shizuoka,Keio Univ,Shimizu S-Pulse,2013,Japanese
+11,11,Yuji Senuma,JPN,F,1.85,77,01-09-90,Sagamihara,Tsukuba Univ,Shimizu S-Pulse,2013,Japanese
+13,13,Toshiyuki Takagi,JPN,F,1.70,62,25-05-91,Kanagawa,Tokyo Verdy,Shimizu S-Pulse,2013,Japanese
+14,14,Sho Ito,JPN,F,1.84,74,24-07-88,Kasugai,Grenoble,Shimizu S-Pulse,2013,Japanese
+16,16,Mitsunari Musaka,JPN,M,1.75,65,16-01-91,Tokyo,Chuo Univ,Shimizu S-Pulse,2013,Japanese
+17,17,Ibuki Fujita,JPN,M,1.70,67,30-01-91,Nagoya,Keio Univ,Shimizu S-Pulse,2013,Japanese
+18,18,Lee Min-Soo,KOR,M,1.78,73,11-01-92,,Hannam Univ,Shimizu S-Pulse,2013,Japanese
+19,19,Akito Tachibana,JPN,M,1.73,68,13-10-88,Hyogo,Osaka Sangyo Univ,Shimizu S-Pulse,2013,Japanese
+20,20,Ryo Takeuchi,JPN,M,1.73,66,08-03-91,Shizuoka,None,Shimizu S-Pulse,2013,Japanese
+21,21,Masatoshi Kushibiki,JPN,G,1.85,75,29-01-93,Aomori,Aomori Yamada HS,Shimizu S-Pulse,2013,Japanese
+22,22,Kenta Uchida,JPN,M,1.77,63,02-10-89,Mie,Ehime FC,Shimizu S-Pulse,2013,Japanese
+27,27,Tomonobu Hiroi,JPN,D,1.80,75,11-01-85,Tokyo,None,Shimizu S-Pulse,2013,Japanese
+28,28,Yutaka Yoshida,JPN,D,1.68,66,17-02-90,Shizuoka,Ventforet Kofu,Shimizu S-Pulse,2013,Japanese
+29,29,Genta Miura,JPN,D,1.82,74,01-03-95,Aichi,None,Shimizu S-Pulse,2013,Japanese
+30,30,Naoya Okane,JPN,D,1.89,80,19-04-88,Osaka,None,Shimizu S-Pulse,2013,Japanese
+31,31,Toshiyasu Takahara,JPN,G,1.84,77,18-10-80,Gifu,Consadole Sapporo,Shimizu S-Pulse,2013,Japanese
+32,32,Atomu Nabeta,JPN,F,1.77,65,01-05-91,Shizuoka,None,Shimizu S-Pulse,2013,Japanese
+33,33,Sho Kagami,JPN,F,1.73,64,22-04-94,Fuji,None,Shimizu S-Pulse,2013,Japanese
+34,34,Jumpei Takaki,JPN,M,1.70,62,01-09-82,Kumamoto,Consadole Sapporo,Shimizu S-Pulse,2013,Japanese
+35,35,Kazuya Murata,JPN,M,1.68,62,07-10-88,Shiga,Cerezo Osaka,Shimizu S-Pulse,2013,Japanese
+36,36,Yuya Miura,JPN,G,1.83,78,02-04-89,Aichi,Kashiwa Reysol,Shimizu S-Pulse,2013,Japanese
+37,37,Shota Kaneko,JPN,M,1.62,58,02-05-95,Nikko,JFA Academy Fukushima,Shimizu S-Pulse,2013,Japanese
+38,38,Takuya Honda,JPN,M,1.77,70,17-04-85,Kanagawa,Kashima Antlers,Shimizu S-Pulse,2013,Japanese
+39,39,Denan Radončić,MNE,F,1.92,89,02-08-83,Gusinje,Suwon Samsung Bluewings,Shimizu S-Pulse,2013,Japanese
+41,50,Genki Omae,JPN,F,1.66,61,10-12-89,Kanagawa,Fortuna Düsseldorf,Shimizu S-Pulse,2013,Japanese
+1,1,Nobuyuki Abe,JPN,G,1.85,77,27-04-84,Tokyo,FC Tokyo,Shonan Bellmare,2013,Japanese
+2,2,Shoma Kamata,JPN,D,1.72,69,15-06-89,Chigasaki,None,Shonan Bellmare,2013,Japanese
+3,3,Wataru Endo,JPN,D,1.76,73,09-02-93,Ibaraki,None,Shonan Bellmare,2013,Japanese
+4,4,Hirokazu Usami,JPN,D,1.71,68,18-06-87,Osaka,Tochigi SC,Shonan Bellmare,2013,Japanese
+5,5,Shota Kobayashi,JPN,D,1.73,70,11-05-91,Kanagawa,None,Shonan Bellmare,2013,Japanese
+6,6,Ryota Nagaki,JPN,M,1.73,65,04-06-88,Kanagawa,Chuo Univ,Shonan Bellmare,2013,Japanese
+7,7,Han Kook-Young,KOR,M,1.83,73,19-04-90,Seoul,Soongsil Univ,Shonan Bellmare,2013,Japanese
+8,8,Kaoru Takayama,JPN,M,1.74,67,08-07-88,Kawasaki,Senshu Univ,Shonan Bellmare,2013,Japanese
+9,9,Stevica Ristić,MKD,F,1.88,85,23-05-82,Vrac,Suwon Samsung Bluewings,Shonan Bellmare,2013,Japanese
+10,10,Daisuke Kikuchi,JPN,F,1.72,68,12-04-94,Kanagawa,None,Shonan Bellmare,2013,Japanese
+11,11,Yuya Nakamura,JPN,M,1.67,68,14-04-86,Saitama,Urawa Red Diamonds,Shonan Bellmare,2013,Japanese
+13,13,Ken Iwao,JPN,M,1.75,67,18-04-88,Tatebayashi,NSSU,Shonan Bellmare,2013,Japanese
+14,14,Tomi Shimomura,JPN,M,1.81,76,18-12-80,Hokkaido,Montedio Yamagata,Shonan Bellmare,2013,Japanese
+16,16,Wellington,BRA,F,1.86,84,11-02-88,Ourinhos,Pelotas,Shonan Bellmare,2013,Japanese
+17,17,Kenji Baba,JPN,M,1.77,70,07-07-85,Kanagawa,Vissel Kobe,Shonan Bellmare,2013,Japanese
+18,18,Tatsuya Furuhashi,JPN,M,1.72,70,07-11-80,Shizuoka,Montedio Yamagata,Shonan Bellmare,2013,Japanese
+19,19,Shuhei Otsuki,JPN,F,1.78,70,26-05-89,Fukuchiyama,Osaka Gakuin Univ,Shonan Bellmare,2013,Japanese
+20,20,Yuki Igari,JPN,M,1.70,68,07-04-88,Kanagawa,None,Shonan Bellmare,2013,Japanese
+21,21,Shunsuke Ando,JPN,G,1.85,75,10-08-90,Tokyo,Kawasaki Frontale,Shonan Bellmare,2013,Japanese
+22,22,Kazunari Ono,JPN,D,1.80,71,04-08-89,Niigata,Albirex Niigata,Shonan Bellmare,2013,Japanese
+23,23,Ryota Kajikawa,JPN,M,1.64,58,17-04-89,Hyogo,Tokyo Verdy,Shonan Bellmare,2013,Japanese
+25,25,Kenji Arabori,JPN,M,1.68,64,31-07-88,Shiga,Tochigi SC,Shonan Bellmare,2013,Japanese
+26,26,Masashi Kamekawa,JPN,D,1.76,68,28-05-93,Minoh,Teikyo Daisan HS,Shonan Bellmare,2013,Japanese
+27,27,Yuta Suzuki,JPN,G,1.88,75,28-05-87,Kanagawa,Montedio Yamagata,Shonan Bellmare,2013,Japanese
+28,28,Kosuke Taketomi,JPN,M,1.75,60,23-09-90,Tokushima,Kashiwa Reysol,Shonan Bellmare,2013,Japanese
+30,30,Tsuyoshi Shimamura,JPN,D,1.83,77,10-08-85,Saitama,Waseda Univ,Shonan Bellmare,2013,Japanese
+31,31,Takuya Muraoka,JPN,D,1.86,72,24-07-90,Yokohama,Kanagawa Univ,Shonan Bellmare,2013,Japanese
+33,33,Shota Tamura,JPN,F,1.68,62,04-02-95,Owariasahi,Yokkaichi Chuo Tech HS,Shonan Bellmare,2013,Japanese
+34,34,Hiroto Nakagawa,JPN,M,1.55,48,03-11-94,Saitama,Kashiwa Reysol,Shonan Bellmare,2013,Japanese
+35,35,Ryosuke Kawano,JPN,F,1.76,68,24-12-94,Kanagawa,None,Shonan Bellmare,2013,Japanese
+36,36,Naoki Maeda,JPN,M,1.67,60,11-06-96,Yokosuka,None,Shonan Bellmare,2013,Japanese
+37,37,Yuto Misao,JPN,D,1.75,66,16-04-91,Tokyo,Waseda Univ,Shonan Bellmare,2013,Japanese
+38,38,Alex Muralha,BRA,G,1.86,89,10-11-89,Três Corações,Comercial-SP,Shonan Bellmare,2013,Japanese
+39,39,Tsuyoshi Miyaichi,JPN,F,1.86,68,01-06-95,Aichi,Chukyo Univ,Shonan Bellmare,2013,Japanese
+40,40,Yohei Otake,JPN,M,1.65,60,02-05-89,Saitama,FC Tokyo,Shonan Bellmare,2013,Japanese
+1,1,Hitoshi Shiota,JPN,G,1.85,80,28-05-81,Ibaraki,None,FC Tokyo,2013,Japanese
+2,2,Yuhei Tokunaga,JPN,D,1.79,76,25-09-83,Nagasaki,None,FC Tokyo,2013,Japanese
+3,3,Masato Morishige,JPN,M,1.79,72,21-05-87,Hiroshima,Oita Trinita,FC Tokyo,2013,Japanese
+4,4,Hideto Takahashi,JPN,D,1.82,74,17-10-87,Gumma,None,FC Tokyo,2013,Japanese
+5,5,Kenichi Kaga,JPN,D,1.81,72,30-09-83,Akita,Júbilo Iwata,FC Tokyo,2013,Japanese
+6,6,Kosuke Ota,JPN,D,1.78,74,23-07-87,Tokyo,Shimizu S-Pulse,FC Tokyo,2013,Japanese
+7,7,Takuji Yonemoto,JPN,M,1.76,63,03-12-90,Hyogo,None,FC Tokyo,2013,Japanese
+8,8,Ariajasuru Hasegawa,JPN,M,1.86,70,29-10-88,Saitama,Yokohama F Marinos,FC Tokyo,2013,Japanese
+9,9,Kazuma Watanabe,JPN,F,1.81,75,10-08-86,Nagasaki,Yokohama F Marinos,FC Tokyo,2013,Japanese
+13,13,Sota Hirayama,JPN,F,1.90,85,06-06-85,Fukuoka,Heracles Almelo,FC Tokyo,2013,Japanese
+14,14,Hokuto Nakamura,JPN,D,1.67,69,10-07-85,Tarami,Avispa Fukuoka,FC Tokyo,2013,Japanese
+15,15,Daishi Hiramatsu,JPN,D,1.76,70,03-07-83,Tochigi,Mito HollyHock,FC Tokyo,2013,Japanese
+16,16,Yuichi Maruyama,JPN,D,1.83,73,16-06-89,Tokyo,Meiji Univ,FC Tokyo,2013,Japanese
+17,17,Hiroki Kawano,JPN,M,1.65,58,30-03-90,Kanagawa,Tokyo Verdy,FC Tokyo,2013,Japanese
+18,18,Naohiro Ishikawa,JPN,M,1.75,68,12-05-81,Kanagawa,Yokohama Marinos,FC Tokyo,2013,Japanese
+20,20,Shuichi Gonda,JPN,G,1.87,82,03-03-89,Tokyo,None,FC Tokyo,2013,Japanese
+21,21,Ryotaro Hironaga,JPN,G,1.85,75,09-01-90,Tokyo,None,FC Tokyo,2013,Japanese
+23,23,Yohei Hayashi,JPN,F,1.77,63,16-07-89,Saitama,Chuo Univ,FC Tokyo,2013,Japanese
+29,29,Kazunori Yoshimoto,JPN,D,1.85,83,24-04-88,Tokyo,None,FC Tokyo,2013,Japanese
+30,30,Jang Hyun-Soo,KOR,D,1.86,79,28-09-91,Seoul,Yonsei Univ,FC Tokyo,2013,Japanese
+32,32,Nemanja Vučićević,SRB,F,1.81,73,11-08-79,Belgrade,Manisaspor,FC Tokyo,2013,Japanese
+34,34,Hideyuki Nozawa,JPN,M,1.80,68,15-08-94,Wakō,None,FC Tokyo,2013,Japanese
+35,35,Riku Matsuda,JPN,D,1.71,67,24-07-91,Osaka,Biwako Seikei SC,FC Tokyo,2013,Japanese
+36,36,Hirotaka Mita,JPN,M,1.73,62,14-09-90,Tokyo,Meiji Univ,FC Tokyo,2013,Japanese
+37,37,Kento Hashimoto,JPN,M,1.79,72,16-08-93,Tokyo,None,FC Tokyo,2013,Japanese
+38,38,Keigo Higashi,JPN,M,1.77,63,20-07-90,Fukuoka,Omiya Ardija,FC Tokyo,2013,Japanese
+40,40,Yoshinori Muto,JPN,M,1.78,69,15-07-92,Tokyo,Keio Univ,FC Tokyo,2013,Japanese
+41,49,Lucas Sévérino,BRA,F,1.83,75,03-01-79,Ribeirão Preto,Atlético Paranaense,FC Tokyo,2013,Japanese
+1,1,Norihiro Yamagashi,JPN,G,1.85,84,17-03-74,Ibaraki,FC Tokyo,Urawa Red Diamonds,2013,Japanese
+2,2,Keisuke Tsuboi,JPN,D,1.79,67,16-09-79,Tokyo,None,Urawa Red Diamonds,2013,Japanese
+3,3,Tomoya Ugajin,JPN,M,1.71,71,23-03-88,Saitama,None,Urawa Red Diamonds,2013,Japanese
+4,4,Daisuke Nasu,JPN,D,1.80,75,10-10-81,Kanagawa,Kashiwa Reysol,Urawa Red Diamonds,2013,Japanese
+5,5,Tomoaki Makino,JPN,D,1.82,77,11-05-87,Hiroshima,Köln,Urawa Red Diamonds,2013,Japanese
+6,6,Nobuhisa Yamada,JPN,D,1.75,66,10-09-75,Shizuoka,None,Urawa Red Diamonds,2013,Japanese
+7,7,Tsukasa Umesaki,JPN,M,1.67,64,23-02-87,Nagasaki,Oita Trinita,Urawa Red Diamonds,2013,Japanese
+8,8,Yosuke Kashiwagi,JPN,M,1.75,68,15-12-87,Hyogo,Sanfrecce Hiroshima,Urawa Red Diamonds,2013,Japanese
+10,10,Marcio Richardes,BRA,M,1.73,67,30-11-81,Andradina,Albirex Niigata,Urawa Red Diamonds,2013,Japanese
+11,11,Kunimitsu Sekiguchi,JPN,M,1.70,64,26-12-85,Tokyo,Vegalta Sendai,Urawa Red Diamonds,2013,Japanese
+12,12,Koji Noda,JPN,D,1.69,64,17-08-86,Fukuoka,Hannan Univ,Urawa Red Diamonds,2013,Japanese
+13,13,Keita Suzuki,JPN,M,1.77,67,08-07-81,Shizuoka,None,Urawa Red Diamonds,2013,Japanese
+14,14,Tadaaki Hirakawa,JPN,M,1.71,67,01-05-79,Shizuoka,None,Urawa Red Diamonds,2013,Japanese
+17,17,Mitsuru Nagata,JPN,D,1.83,72,06-04-83,Shizuoka,Albirex Niigata,Urawa Red Diamonds,2013,Japanese
+18,18,Nobuhiro Kato,JPN,G,1.80,71,11-12-84,Saitama,None,Urawa Red Diamonds,2013,Japanese
+19,19,Toyofumi Sakano,JPN,F,1.81,76,04-06-90,Misato,Meiji Univ,Urawa Red Diamonds,2013,Japanese
+22,22,Yuki Abe,JPN,M,1.77,77,06-09-81,Chiba,Leicester C,Urawa Red Diamonds,2013,Japanese
+23,23,Masaya Nozaki,JPN,M,1.76,65,03-08-93,Saitama,None,Urawa Red Diamonds,2013,Japanese
+24,24,Genki Haraguchi,JPN,F,1.77,63,09-05-91,Saitama,None,Urawa Red Diamonds,2013,Japanese
+25,25,Koki Otani,JPN,G,1.85,80,08-04-89,Kumamoto,Lanza Kumamoto,Urawa Red Diamonds,2013,Japanese
+26,26,Takuya Nagata,JPN,D,1.69,58,08-09-90,Shizuoka,None,Urawa Red Diamonds,2013,Japanese
+27,27,Shuto Kojima,JPN,M,1.78,65,30-07-92,Tochigi,Maebashi Ikuei HS,Urawa Red Diamonds,2013,Japanese
+29,29,Shinya Yajima,JPN,M,1.71,67,18-01-94,Saitama,None,Urawa Red Diamonds,2013,Japanese
+30,30,Shinzo Koroki,JPN,M,1.75,67,31-07-86,Miyazaki,Kashima Antlers,Urawa Red Diamonds,2013,Japanese
+34,34,Naoki Yamada,JPN,M,1.66,64,04-07-90,Saitama,None,Urawa Red Diamonds,2013,Japanese
+41,46,Ryota Moriwaki,JPN,D,1.77,74,06-04-86,Hiroshima,Sanfrecce Hiroshima,Urawa Red Diamonds,2013,Japanese
+1,1,Shigeru Sakurai,JPN,G,1.84,81,29-06-79,Ibaraki,Montedio Yamagata,Vegalta Sendai,2013,Japanese
+2,2,Jiro Kamata,JPN,D,1.79,77,28-07-85,Tokyo,Kashiwa Reysol,Vegalta Sendai,2013,Japanese
+3,3,Kodai Watanabe,JPN,D,1.80,77,04-12-86,Chiba,None,Vegalta Sendai,2013,Japanese
+5,5,Naoki Ishikawa,JPN,D,1.80,73,13-09-85,Chiba,Albirex Niigata,Vegalta Sendai,2013,Japanese
+6,6,Makoto Kakuda,JPN,D,1.80,75,10-07-83,Kyoto,Kyoto Sanga,Vegalta Sendai,2013,Japanese
+8,8,Toshihiro Matsushita,JPN,M,1.74,68,17-10-83,Kagoshima,FC Tokyo,Vegalta Sendai,2013,Japanese
+9,9,Takayuki Nakahara,JPN,F,1.81,76,18-11-84,Yamaguchi,None,Vegalta Sendai,2013,Japanese
+10,10,Ryang Yong-Gi,PRK,M,1.73,72,07-01-82,Osaka,None,Vegalta Sendai,2013,Japanese
+11,11,Yoshiaki Ota,JPN,M,1.75,68,11-06-83,Shizuoka,Júbilo Iwata,Vegalta Sendai,2013,Japanese
+13,13,Atsushi Yanagisawa,JPN,F,1.77,75,27-05-77,Toyama,Kyoto Sanga,Vegalta Sendai,2013,Japanese
+14,14,Hayato Sasaki,JPN,M,1.67,58,29-11-82,Miyagi,Gamba Osaka,Vegalta Sendai,2013,Japanese
+15,15,Heberty,BRA,M,1.73,72,29-08-88,São Paulo,Thespa Kusatsu,Vegalta Sendai,2013,Japanese
+16,16,Takuto Hayashi,JPN,G,1.88,87,09-08-82,Osaka,Consadole Sapporo,Vegalta Sendai,2013,Japanese
+17,17,Shingo Tomita,JPN,M,1.69,64,20-06-86,Tochigi,Tokyo Verdy,Vegalta Sendai,2013,Japanese
+18,18,Wilson,BRA,F,1.79,85,21-03-85,Araras,Shaanxi Chanba,Vegalta Sendai,2013,Japanese
+19,19,Yuki Muto,JPN,F,1.70,68,07-11-88,Zama,Ryutsu Keizai Univ,Vegalta Sendai,2013,Japanese
+21,21,Kentaro Seki,JPN,G,1.77,74,09-03-86,Fujioka,Meiji Univ,Vegalta Sendai,2013,Japanese
+23,23,Naoya Tamura,JPN,M,1.75,70,20-11-84,Tokyo,Chuo Univ,Vegalta Sendai,2013,Japanese
+24,24,Shingo Akamine,JPN,F,1.79,77,08-12-83,Okinawa,FC Tokyo,Vegalta Sendai,2013,Japanese
+25,25,Naoki Sugai,JPN,M,1.78,70,21-09-84,Yamagata,None,Vegalta Sendai,2013,Japanese
+26,26,Keita Fujimura,JPN,M,1.80,65,02-09-93,Iwate,Morioka Commercial HS,Vegalta Sendai,2013,Japanese
+27,27,Diogo,BRA,M,1.81,80,20-10-86,Arapongas,Sport Recife,Vegalta Sendai,2013,Japanese
+28,28,Koji Hachisuka,JPN,D,1.80,77,20-07-90,Tochigi,Sendai Univ,Vegalta Sendai,2013,Japanese
+29,29,Taikai Uemoto,JPN,D,1.80,68,01-06-82,Kagoshima,Cerezo Osaka,Vegalta Sendai,2013,Japanese
+30,30,Yuta Echigo,JPN,M,1.76,67,27-04-93,Miyagi,None,Vegalta Sendai,2013,Japanese
+33,33,Hironori Ishikawa,JPN,M,1.70,65,06-01-88,Tokyo,Sanfrecce Hiroshima,Vegalta Sendai,2013,Japanese
+34,34,Hirosho Futami,JPN,D,1.79,75,20-03-92,Osaka,Hannan Univ,Vegalta Sendai,2013,Japanese
+1,1,Kota Ogi,JPN,G,1.85,76,05-05-83,Gifu,Vissel Kobe,Ventforet Kofu,2013,Japanese
+2,2,Kensuke Fukuda,JPN,D,1.74,70,24-07-84,Shizuoka,Tokyo Verdy,Ventforet Kofu,2013,Japanese
+4,4,Hideomi Yamamoto,JPN,D,1.75,69,26-06-80,Chiba,JEF United,Ventforet Kofu,2013,Japanese
+5,5,Marquinhos Paraná,BRA,M,1.74,71,20-07-77,Recife,América Mineiro,Ventforet Kofu,2013,Japanese
+6,6,Sho Sasaki,JPN,D,1.76,67,02-10-89,Zama,Kanagawa Univ,Ventforet Kofu,2013,Japanese
+7,7,Katsuya Ishihara,JPN,M,1.76,64,02-10-78,Yamanashi,Juntendo Univ,Ventforet Kofu,2013,Japanese
+8,8,Ryohei Arai,JPN,M,1.83,67,03-11-90,Tokyo,Giravanz Kitakyushu,Ventforet Kofu,2013,Japanese
+9,9,Gilsinho,BRA,F,1.68,65,04-04-84,Américo Brasiliense,Sport Recife,Ventforet Kofu,2013,Japanese
+10,10,Atsushi Izawa,JPN,M,1.70,60,23-07-89,Tokyo,FC Tokyo,Ventforet Kofu,2013,Japanese
+11,11,Patric,BRA,F,1.89,82,26-10-87,Macapá,Atlético Goianiense,Ventforet Kofu,2013,Japanese
+13,13,Choi Sung-Keun,KOR,D,1.81,69,28-07-91,Seoul,Korea Univ,Ventforet Kofu,2013,Japanese
+15,15,Akito Kawamoto,JPN,F,1.74,71,01-05-90,Shiga,Ryutsu Keizai Univ,Ventforet Kofu,2013,Japanese
+16,16,Masaru Matsuhashi,JPN,F,1.73,69,22-03-85,Nagasaki,Oita Trinita,Ventforet Kofu,2013,Japanese
+17,17,Takuma Tsuda,JPN,D,1.79,71,04-10-80,Saitama,Ehime FC,Ventforet Kofu,2013,Japanese
+18,18,Yoshifumi Kashiwa,JPN,M,1.68,60,28-07-87,Yamanashi,Kokushikan Univ,Ventforet Kofu,2013,Japanese
+19,19,Kohei Morita,JPN,F,1.89,85,13-07-76,Aichi,Sanfrecce Hiroshima,Ventforet Kofu,2013,Japanese
+20,20,Masahiro Kaneko,JPN,M,1.69,60,02-02-91,Saitama,Kokushikan Univ,Ventforet Kofu,2013,Japanese
+21,21,Kohei Kawata,JPN,G,1.83,73,13-10-87,Oita,Gamba Osaka,Ventforet Kofu,2013,Japanese
+22,22,Naotake Hanyu,JPN,M,1.67,63,22-12-79,Chiba,FC Tokyo,Ventforet Kofu,2013,Japanese
+25,25,Kazuki Hiramoto,JPN,F,1.80,75,18-08-81,Tokyo,Tokyo Verdy,Ventforet Kofu,2013,Japanese
+26,26,Naoaki Aoyama,JPN,D,1.82,72,18-07-86,Aichi,Yokohama F Marinos,Ventforet Kofu,2013,Japanese
+27,27,Teruyoshi Ito,JPN,M,1.68,70,31-08-74,Shizuoka,Shimizu S-Pulse,Ventforet Kofu,2013,Japanese
+28,28,Yuki Hashizume,JPN,F,1.75,65,10-08-90,Nagano,Yamanashi Gakuin Univ,Ventforet Kofu,2013,Japanese
+29,29,Koki Mizuno,JPN,M,1.73,58,06-09-85,Shizuoka,Kashiwa Reysol,Ventforet Kofu,2013,Japanese
+30,30,Kazunari Hosaka,JPN,M,1.72,63,24-03-83,Tokyo,Fagiano Okayama,Ventforet Kofu,2013,Japanese
+31,31,Hidetoshi Miyuki,JPN,M,1.72,64,23-05-93,Ichikawa,JFA Academy Fukushima,Ventforet Kofu,2013,Japanese
+32,32,Kosuke Okanishi,JPN,G,1.86,78,17-07-90,Osaka,Chuo Univ,Ventforet Kofu,2013,Japanese
+33,33,Hiroki Oka,JPN,G,1.85,68,18-04-88,Aichi,Komazawa Univ,Ventforet Kofu,2013,Japanese
+34,34,Koki Wakasugi,JPN,M,1.74,64,08-11-95,Yamanashi,None,Ventforet Kofu,2013,Japanese
+35,35,William Pottker,BRA,M,1.80,78,22-12-93,Foz do Iguaçu,Figueirense,Ventforet Kofu,2013,Japanese
+41,41,Yukio Tsuchiya,JPN,D,1.77,74,31-07-74,Tokyo,Tokyo Verdy,Ventforet Kofu,2013,Japanese
+1,1,Tetsuya Enomoto,JPN,G,1.80,76,02-05-83,Kawasaki,None,Yokohama F Marinos,2013,Japanese
+2,2,Takashi Amano,JPN,D,1.62,60,13-04-86,Yokohama,None,Yokohama F Marinos,2013,Japanese
+4,4,Yuzo Kurihara,JPN,D,1.84,80,18-09-83,Yokohama,None,Yokohama F Marinos,2013,Japanese
+5,5,Dutra,BRA,D,1.69,70,11-08-73,Duque Bacelar,Santa Cruz,Yokohama F Marinos,2013,Japanese
+6,6,Shohei Ogura,JPN,M,1.75,64,08-09-85,Chiba,Mito HollyHock,Yokohama F Marinos,2013,Japanese
+7,7,Shingo Hyodo,JPN,M,1.71,65,29-07-85,Nagasaki,None,Yokohama F Marinos,2013,Japanese
+8,8,Kosuke Nakamachi,JPN,M,1.74,70,01-09-85,Saitama,Avispa Fukuoka,Yokohama F Marinos,2013,Japanese
+11,11,Manabu Saito,JPN,F,1.65,54,04-04-90,Kanagawa,None,Yokohama F Marinos,2013,Japanese
+13,13,Yuzo Kobayashi,JPN,D,1.76,72,15-11-85,Tokyo,Kashiwa Reysol,Yokohama F Marinos,2013,Japanese
+14,14,Andrew Kumagai,JPN,M,1.81,72,06-06-93,Kanagawa,None,Yokohama F Marinos,2013,Japanese
+15,15,Fábio Aguiar,BRA,D,1.86,78,28-02-89,Bom Jardim,Jacuipense,Yokohama F Marinos,2013,Japanese
+16,16,Yusuke Higa,JPN,D,1.68,68,15-05-89,Okinawa,Ryutsu Keizai Univ,Yokohama F Marinos,2013,Japanese
+17,17,Jin Hanato,JPN,F,1.74,60,31-05-90,Kanagawa,None,Yokohama F Marinos,2013,Japanese
+18,18,Marquinhos,BRA,F,1.74,76,23-03-76,Rio Brilhante,Atlético Mineiro,Yokohama F Marinos,2013,Japanese
+19,19,Yoshihito Fujita,JPN,F,1.85,75,13-04-83,Hyogo,JEF United,Yokohama F Marinos,2013,Japanese
+20,20,Yuhei Sato,JPN,M,1.72,62,29-10-90,Kanagawa,Kokushikan Univ,Yokohama F Marinos,2013,Japanese
+21,21,Hiroki Iikura,JPN,G,1.80,72,01-06-86,Aomori,None,Yokohama F Marinos,2013,Japanese
+22,22,Yuji Nakazawa,JPN,D,1.87,78,25-02-78,Saitama,Tokyo Verdy,Yokohama F Marinos,2013,Japanese
+23,23,Masakazu Tashiro,JPN,D,1.82,68,26-06-88,Tokyo,None,Yokohama F Marinos,2013,Japanese
+24,24,Yuta Narawa,JPN,D,1.72,65,29-08-87,Yokohama,Sagawa Shiga,Yokohama F Marinos,2013,Japanese
+25,25,Shunsuke Nakamura,JPN,M,1.78,69,24-06-78,Yokohama,Espanyol,Yokohama F Marinos,2013,Japanese
+26,26,Jeong Dong-Ho,KOR,D,1.75,67,07-03-90,Busan,None,Yokohama F Marinos,2013,Japanese
+27,27,Seitaro Tomisawa,JPN,D,1.81,73,08-07-82,Tokyo,Tokyo Verdy,Yokohama F Marinos,2013,Japanese
+28,28,Takuya Kida,JPN,M,1.68,55,23-08-94,Kanagawa,None,Yokohama F Marinos,2013,Japanese
+30,30,Yuji Rokutan,JPN,G,1.88,78,10-04-87,Kagoshima,Avispa Fukuoka,Yokohama F Marinos,2013,Japanese
+31,31,Ryota Suzuki,JPN,G,1.91,82,10-02-94,Aichi,None,Yokohama F Marinos,2013,Japanese
+37,37,Kazuki Nagasawa,JPN,M,1.73,66,16-12-91,Chiba,Senshu Univ,Yokohama F Marinos,2013,Japanese

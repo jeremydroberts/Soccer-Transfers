@@ -1,0 +1,746 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlético Mineiro,2015,Brazilian
+2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlético Mineiro,2015,Brazilian
+3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlético Mineiro,2015,Brazilian
+4,4,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlético Mineiro,2015,Brazilian
+5,5,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Atlético Mineiro,2015,Brazilian
+6,6,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Udinese,Atlético Mineiro,2015,Brazilian
+8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlético Mineiro,2015,Brazilian
+9,9,Lucas Pratto,ARG,F,1.88,87,04-06-88,La Plata,Vélez Sarsfield,Atlético Mineiro,2015,Brazilian
+10,10,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlético Mineiro,2015,Brazilian
+13,13,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlético Mineiro,2015,Brazilian
+14,14,Giovanni Augusto,BRA,M,1.75,65,05-09-89,Belém,None,Atlético Mineiro,2015,Brazilian
+15,15,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Atlético Mineiro,2015,Brazilian
+16,16,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Atlético Mineiro,2015,Brazilian
+18,18,Carlos César,BRA,D,1.72,70,21-04-87,Uberaba,Boa,Atlético Mineiro,2015,Brazilian
+19,19,Sherman Cárdenas,COL,M,1.67,68,07-08-89,Bucaramanga,Atlético Nacional,Atlético Mineiro,2015,Brazilian
+20,20,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlético Mineiro,2015,Brazilian
+22,22,Thiago Ribeiro,BRA,F,1.85,74,24-02-86,Pontes Gestal,Santos,Atlético Mineiro,2015,Brazilian
+23,23,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlético Mineiro,2015,Brazilian
+25,25,Danilo Pires,BRA,M,1.78,76,21-03-92,São Luís,Corinthians Alagoano,Atlético Mineiro,2015,Brazilian
+26,26,Tiago,BRA,D,1.91,89,17-06-90,São Jorge d'Oeste,Caxias,Atlético Mineiro,2015,Brazilian
+27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlético Mineiro,2015,Brazilian
+28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlético Mineiro,2015,Brazilian
+29,29,Patric,BRA,D,1.72,71,25-03-89,Criciúma,Benfica,Atlético Mineiro,2015,Brazilian
+30,30,Eduardo,BRA,M,1.84,73,17-05-95,Limeira,São Paulo,Atlético Mineiro,2015,Brazilian
+31,31,Jesiel,BRA,D,1.86,79,05-03-94,Cândido Mota,Red Bull Brasil,Atlético Mineiro,2015,Brazilian
+32,32,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlético Mineiro,2015,Brazilian
+33,33,Rodolfo Pereira,BRA,G,1.86,75,12-04-95,Sete Lagoas,None,Atlético Mineiro,2015,Brazilian
+37,37,Mansur,BRA,D,1.81,72,17-04-93,Laranjeiras,Vitória,Atlético Mineiro,2015,Brazilian
+38,38,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlético Mineiro,2015,Brazilian
+1,,Rodolfo,BRA,G,1.89,85,19-03-91,Santos,Internacional,Atlético Paranaense,2015,Brazilian
+2,,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlético Paranaense,2015,Brazilian
+3,,Weverton,BRA,G,1.89,85,13-12-87,Rio Branco,Portuguesa,Atlético Paranaense,2015,Brazilian
+4,,Alan Ruschel,BRA,D,1.75,73,23-08-89,Taquara,Internacional,Atlético Paranaense,2015,Brazilian
+5,,Alessandro,BRA,D,1.73,68,21-09-77,Campos dos Goytacazes,Metropolitano,Atlético Paranaense,2015,Brazilian
+6,,Cleberson,BRA,D,1.85,75,17-08-92,Maracatuba,None,Atlético Paranaense,2015,Brazilian
+7,,Eduardo,BRA,D,1.70,70,20-11-86,Maceió,Criciúma,Atlético Paranaense,2015,Brazilian
+8,,Kadu,BRA,D,1.90,80,20-07-86,Brasília,Bragantino,Atlético Paranaense,2015,Brazilian
+9,,Matheus Ribeiro,BRA,D,1.78,72,23-02-93,Erechim,Ypiranga,Atlético Paranaense,2015,Brazilian
+10,,Bruno Pereirinha,POR,D,1.73,72,02-03-88,Rio de Mouro,Lazio,Atlético Paranaense,2015,Brazilian
+11,,Ricardo Silva,BRA,D,1.90,78,13-08-92,São José do Seridó,Ceará,Atlético Paranaense,2015,Brazilian
+12,,Roberto,BRA,D,1.76,76,04-12-90,Picos,Bragantino,Atlético Paranaense,2015,Brazilian
+13,,Sidcley,BRA,D,1.76,77,13-05-93,Vila Velha,Catanduvense,Atlético Paranaense,2015,Brazilian
+14,,Cristián Vilches,CHI,D,1.82,80,27-10-83,Santiago,Colo-Colo,Atlético Paranaense,2015,Brazilian
+15,,Wagner Silva,BRA,D,1.83,78,24-09-89,Esteio,Mogi Mirim,Atlético Paranaense,2015,Brazilian
+16,,Wellington,BRA,D,1.88,83,30-09-91,Bauru,Palmeiras,Atlético Paranaense,2015,Brazilian
+17,,Fernando Barrientos,ARG,M,1.74,71,17-11-91,Lanús,Lanús,Atlético Paranaense,2015,Brazilian
+18,,Bruno Mota,BRA,M,1.87,75,22-05-95,Curitiba,None,Atlético Paranaense,2015,Brazilian
+19,,Deivid,BRA,M,1.74,69,18-01-89,Londrina,None,Atlético Paranaense,2015,Brazilian
+20,,Giovanni,BRA,M,1.74,74,04-04-94,Sorocaba,Corinthians,Atlético Paranaense,2015,Brazilian
+21,,Daniel Hernández,COL,M,1.76,65,10-12-90,Medellín,Once Caldas,Atlético Paranaense,2015,Brazilian
+22,,Hernani,BRA,M,1.88,77,27-03-94,São Gonçalo do Sapucaí,None,Atlético Paranaense,2015,Brazilian
+23,,Jadson,BRA,M,1.71,64,30-08-93,São Bernardo do Campo,Udinese,Atlético Paranaense,2015,Brazilian
+24,,João Pedro Heinen,BRA,M,1.73,65,20-01-97,Terra Roxa,None,Atlético Paranaense,2015,Brazilian
+25,,Marcos Guilherme,BRA,M,1.72,62,05-08-95,Itararé,None,Atlético Paranaense,2015,Brazilian
+26,,Nikão,BRA,M,1.74,73,29-07-92,Belo Horizonte,Atlético Mineiro,Atlético Paranaense,2015,Brazilian
+27,,Otávio,BRA,M,1.76,73,04-05-94,Maceió,None,Atlético Paranaense,2015,Brazilian
+28,,Cléo,BRA,F,1.85,80,09-08-85,Guarapuava,Guangzhou Evergrande,Atlético Paranaense,2015,Brazilian
+29,,Crysan,BRA,F,1.90,82,07-07-96,Sud Menucci,None,Atlético Paranaense,2015,Brazilian
+30,,Douglas Coutinho,BRA,F,1.83,71,08-02-94,Volta Redonda,None,Atlético Paranaense,2015,Brazilian
+31,,Ewandro,BRA,F,1.74,61,15-03-96,Recife,São Paulo,Atlético Paranaense,2015,Brazilian
+32,,Guilherme Dellatorre,BRA,F,1.81,76,01-05-92,São José do Rio Preto,Desportivo Brasil,Atlético Paranaense,2015,Brazilian
+33,,Marco Damasceno,BRA,F,1.76,51,11-04-96,Brasília,None,Atlético Paranaense,2015,Brazilian
+34,,Walter,BRA,F,1.76,86,22-07-89,Recife,FC Porto,Atlético Paranaense,2015,Brazilian
+35,,Ytalo,BRA,F,1.77,67,12-01-88,Maceió,Audax-SP,Atlético Paranaense,2015,Brazilian
+2,2,Nino Paraíba,BRA,D,1.68,62,10-01-86,Rio Tinto,Vitória,Avaí,2015,Brazilian
+3,3,Jéci,BRA,D,1.84,77,22-04-80,Guaratinguetá,Coritiba,Avaí,2015,Brazilian
+4,4,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Atlético Mineiro,Avaí,2015,Brazilian
+6,6,Eltinho,BRA,D,1.71,66,07-07-87,Guaira,Coritiba,Avaí,2015,Brazilian
+7,7,Éverton Silva,BRA,M,1.70,65,04-08-88,Rio de Janeiro,Red Bull Brasil,Avaí,2015,Brazilian
+8,8,Eduardo Neto,BRA,M,1.83,73,24-10-88,Salvador,Tombense,Avaí,2015,Brazilian
+9,9,William Souza,BRA,F,1.81,72,14-05-83,Rolândia,Ceará,Avaí,2015,Brazilian
+10,10,Marquinhos,BRA,M,1.83,83,29-09-81,Biguaçu,Grêmio,Avaí,2015,Brazilian
+11,11,Anderson Lopes,BRA,F,1.80,72,15-09-93,Recife,Tombense,Avaí,2015,Brazilian
+13,13,Philipe Maia,BRA,D,1.85,80,11-07-95,Brasília,None,Avaí,2015,Brazilian
+14,14,Jubal,BRA,D,1.90,79,29-08-93,Inhuma,Santos,Avaí,2015,Brazilian
+15,15,Adriano,BRA,M,1.70,65,29-05-87,São Vicente,Grêmio,Avaí,2015,Brazilian
+16,16,Néstor Camacho,PAR,M,1.75,68,15-10-87,Villa Florida,Libertad,Avaí,2015,Brazilian
+17,17,Rômulo,BRA,F,1.75,75,28-04-95,Campo Grande,None,Avaí,2015,Brazilian
+18,18,Raphinha,BRA,F,1.76,68,14-02-96,Porto Alegre,None,Avaí,2015,Brazilian
+19,19,Toshiya Tōjō,JPN,M,1.73,62,13-10-92,Tokyo,Friburguense,Avaí,2015,Brazilian
+20,20,Diego,BRA,G,1.86,87,02-02-82,São Gonçalo,Boavista-RJ,Avaí,2015,Brazilian
+22,22,Pablo,BRA,M,1.76,66,03-08-88,São João Nepomuceno,Tombense,Avaí,2015,Brazilian
+23,23,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,Atlético Mineiro,Avaí,2015,Brazilian
+25,25,Antonio Carlos,BRA,D,1.91,74,07-03-93,Rio de Janeiro,Corinthians,Avaí,2015,Brazilian
+27,27,Claudinei,BRA,M,1.72,70,08-10-88,Sete Lagoas,Coimbra,Avaí,2015,Brazilian
+30,30,Léo Gamalho,BRA,F,1.88,87,30-01-86,Porto Alegre,Bahia,Avaí,2015,Brazilian
+31,31,Roberto,BRA,F,1.76,66,19-12-85,Veranópolis,FC Tokyo,Avaí,2015,Brazilian
+32,32,Vagner,BRA,G,1.91,82,24-08-89,Bom Sucesso do Sul,Tombense,Avaí,2015,Brazilian
+33,33,Renanzinho,BRA,M,1.73,69,19-09-97,Ariquemes,None,Avaí,2015,Brazilian
+36,36,Lucas Lovat,BRA,D,1.78,70,15-01-97,Caxias do Sul,None,Avaí,2015,Brazilian
+38,38,Vitor Prada,BRA,G,1.87,89,04-08-92,Nova Trento,None,Avaí,2015,Brazilian
+41,49,Aleks,BRA,G,1.93,86,20-02-91,Criciúma,None,Avaí,2015,Brazilian
+42,66,Romário Guilherme,BRA,D,1.71,71,13-03-92,Diadema,Red Bull Brasil,Avaí,2015,Brazilian
+43,70,Marrone,BRA,D,1.72,67,15-09-92,Ouro Preto do Oeste,None,Avaí,2015,Brazilian
+44,77,Tinga,BRA,M,1.73,65,12-10-90,Bom Jardim,Júbilo Iwata,Avaí,2015,Brazilian
+45,80,Denner,BRA,M,1.80,69,06-05-94,Fortaleza,Grêmio,Avaí,2015,Brazilian
+46,84,Rudnei,BRA,M,1.88,78,07-10-84,Florianópolis,Portuguesa,Avaí,2015,Brazilian
+47,89,Juninho,TLS,M,1.74,70,28-05-89,São Paulo,TOT SC,Avaí,2015,Brazilian
+48,90,Iury,BRA,F,1.83,71,06-09-95,Rio de Janeiro,None,Avaí,2015,Brazilian
+49,93,Tauã,BRA,F,1.78,75,19-12-93,Mongaguá,None,Avaí,2015,Brazilian
+50,94,Wilker,BRA,F,,,04-10-94,Vitória,None,Avaí,2015,Brazilian
+51,95,Duda,BRA,G,1.86,79,15-03-95,Florianópolis,None,Avaí,2015,Brazilian
+52,97,Kevin,BRA,D,1.74,68,07-09-97,Teresina,Mirassol,Avaí,2015,Brazilian
+53,99,André Lima,BRA,F,1.85,84,03-05-85,Rio de Janeiro,Beijing Guoan,Avaí,2015,Brazilian
+1,1,Danilo,BRA,G,1.85,80,31-07-85,Cianorte,Londrina,Chapecoense,2015,Brazilian
+2,2,Apodi,BRA,D,1.72,65,13-12-86,Apodi,Bastia,Chapecoense,2015,Brazilian
+3,3,Rafael Lima,BRA,D,1.87,78,08-03-86,Florianópolis,Inter-SM,Chapecoense,2015,Brazilian
+5,5,Wanderson,BRA,M,1.81,78,06-10-80,Cornélio Procópio,Vilhena,Chapecoense,2015,Brazilian
+6,6,Dener,BRA,D,1.78,71,28-06-91,Bagé,Coritiba,Chapecoense,2015,Brazilian
+7,7,Willian Barbio,BRA,F,1.73,71,22-10-92,Belford Roxo,Vasco da Gama,Chapecoense,2015,Brazilian
+8,8,Gil,BRA,M,1.68,66,09-03-87,Santo Antônio,Coritiba,Chapecoense,2015,Brazilian
+9,9,Bruno Rangel,BRA,F,1.81,72,11-12-81,Campos,Al-Arabi [QAT],Chapecoense,2015,Brazilian
+10,10,Camilo,BRA,M,1.74,72,09-03-86,Rio de Janeiro,Botafogo-SP,Chapecoense,2015,Brazilian
+11,11,Ananias,BRA,F,1.66,60,20-01-89,São Luis,Cruzeiro,Chapecoense,2015,Brazilian
+12,12,Pedrinho,BRA,D,1.78,67,23-03-95,Curitiba,Grêmio,Chapecoense,2015,Brazilian
+13,13,Silvio,BRA,G,1.97,81,11-10-88,Ponta Grossa,América de Natal,Chapecoense,2015,Brazilian
+14,14,Felipe Zang,BRA,D,1.90,82,21-05-94,Santa Helena,Sampaio Corrêa,Chapecoense,2015,Brazilian
+15,15,João Afonso,BRA,M,1.81,81,09-02-95,Criciúma,Internacional,Chapecoense,2015,Brazilian
+17,17,Elicarlos,BRA,M,1.76,72,08-06-85,Laranjeiras,Náutico,Chapecoense,2015,Brazilian
+18,18,Maylson,BRA,M,1.80,71,06-03-89,São Bernardo,Criciúma,Chapecoense,2015,Brazilian
+19,19,Yuri,BRA,F,1.79,74,28-06-94,Teodoro Sampaio,Flamengo-SP,Chapecoense,2015,Brazilian
+20,20,Richarlyson,BRA,M,1.76,72,27-12-82,Rio Grande de Norte,Vitória,Chapecoense,2015,Brazilian
+21,21,Hyoran,BRA,M,1.74,70,25-05-93,Chapecó,Corinthians,Chapecoense,2015,Brazilian
+25,25,Wesley,BRA,D,,,25-08-96,Chapecó,None,Chapecoense,2015,Brazilian
+26,26,Michel,BRA,D,1.70,62,13-09-95,Chapecó,None,Chapecoense,2015,Brazilian
+27,27,Thiego,BRA,D,1.85,75,22-07-86,Aracajú,Khazar Lankaran,Chapecoense,2015,Brazilian
+28,28,Bruno Brum,BRA,D,,,08-02-95,Chapecó,None,Chapecoense,2015,Brazilian
+29,29,Neto,BRA,D,1.95,94,16-08-85,Rio de Janeiro,Santos,Chapecoense,2015,Brazilian
+30,30,Jajá,BRA,M,,,07-09-95,Caçapava do Sul,Grêmio,Chapecoense,2015,Brazilian
+31,31,Bruno Silva,BRA,M,1.79,78,03-08-86,Nova Lima,Ponte Preta,Chapecoense,2015,Brazilian
+32,32,Mateus Caramelo,BRA,D,1.81,79,30-08-94,Araçatuba,São Paulo,Chapecoense,2015,Brazilian
+33,33,Neném,BRA,M,1.73,71,04-02-82,Santa Catarina,Criciúma,Chapecoense,2015,Brazilian
+34,34,Vilson,BRA,D,1.89,79,03-04-88,São Gonçalo,SEV Hortolândia,Chapecoense,2015,Brazilian
+35,35,Igor,BRA,D,1.91,85,21-03-95,Cruz Alta,None,Chapecoense,2015,Brazilian
+36,36,Nivaldo,BRA,G,1.81,77,18-03-74,Torres,Esportivo-RS,Chapecoense,2015,Brazilian
+37,37,William Bergamin,BRA,G,,,30-11-95,Chapecó,None,Chapecoense,2015,Brazilian
+39,39,João Paulo,BRA,G,1.94,80,12-02-81,Limeira,CSA,Chapecoense,2015,Brazilian
+40,40,Maranhão,BRA,M,1.68,63,03-05-90,São Luis,Ypiranga,Chapecoense,2015,Brazilian
+41,45,Tiago Costa,BRA,D,1.76,76,13-04-87,Rio de Janeiro,Santa Cruz,Chapecoense,2015,Brazilian
+42,47,Wagner,BRA,M,1.78,74,27-05-91,Eldorado do Sul,Cianorte,Chapecoense,2015,Brazilian
+43,83,Flavinho,BRA,M,1.78,68,27-07-83,Jardim,Neftchi Baku,Chapecoense,2015,Brazilian
+44,88,Cléber Santana,BRA,M,1.87,84,27-06-81,Recife,Criciúma,Chapecoense,2015,Brazilian
+45,89,Tiago Luís,BRA,F,1.76,74,13-03-89,Ribeirão Preto,Cianorte,Chapecoense,2015,Brazilian
+46,99,Túlio De Melo,BRA,F,1.93,83,31-01-85,Montes Claros,Valladolid,Chapecoense,2015,Brazilian
+2,2,Edu Dracena,BRA,D,1.87,80,18-05-81,Dracena,Santos,Corinthians,2015,Brazilian
+3,3,Yago,BRA,D,1.85,80,29-08-92,São Paulo,Portuguesa,Corinthians,2015,Brazilian
+4,4,Gil,BRA,D,1.90,89,12-06-87,Campos dos Goytacazes,Valenciennes,Corinthians,2015,Brazilian
+5,5,Ralf,BRA,M,1.80,73,09-06-84,São Paulo,Barueri,Corinthians,2015,Brazilian
+6,6,Uendel,BRA,D,1.78,64,08-10-88,Araranguá,Ponte Preta,Corinthians,2015,Brazilian
+7,7,Elias,BRA,M,1.73,64,16-05-85,São Paulo,Sporting CP,Corinthians,2015,Brazilian
+8,8,Renato Augusto,BRA,M,1.85,81,08-02-88,Rio de Janeiro,Bayer Leverkusen,Corinthians,2015,Brazilian
+9,9,Lincom,BRA,F,1.92,95,17-02-84,Birigui,Bragantino,Corinthians,2015,Brazilian
+10,10,Jádson,BRA,M,1.68,67,05-10-83,Londrina,São Paulo,Corinthians,2015,Brazilian
+11,11,Ángel Romero,PAR,F,1.77,73,04-07-92,Fernando de la Mora,Cerro Porteño,Corinthians,2015,Brazilian
+12,12,Cássio,BRA,G,1.95,92,06-06-87,Veranópolis,PSV Eindhoven,Corinthians,2015,Brazilian
+13,13,Guilherme Arana,BRA,D,1.76,70,14-04-97,São Paulo,None,Corinthians,2015,Brazilian
+14,14,Gustavo Viera,PAR,M,1.75,74,28-08-94,Asunción,Rubio Ñú,Corinthians,2015,Brazilian
+15,15,Matheus Vargas,BRA,M,1.81,74,18-06-96,Claudia,None,Corinthians,2015,Brazilian
+16,16,Cristian Baroni,BRA,M,1.83,82,25-06-83,Belo Horizonte,Fenerbahçe,Corinthians,2015,Brazilian
+18,18,Luciano,BRA,F,1.78,69,18-05-93,Anápolis,Avaí,Corinthians,2015,Brazilian
+19,19,Matheus Pereira,BRA,M,1.81,71,25-02-98,São Paulo,None,Corinthians,2015,Brazilian
+20,20,Danilo,BRA,M,1.86,84,11-06-79,São Gotardo,Kashima Antlers,Corinthians,2015,Brazilian
+21,21,Malcom,BRA,F,1.71,65,26-02-97,São Paulo,None,Corinthians,2015,Brazilian
+22,22,Marciel,BRA,M,1.70,67,08-03-95,Porto Alegre,None,Corinthians,2015,Brazilian
+23,23,Fagner,BRA,D,1.68,67,11-06-89,São Paulo,Wolfsburg,Corinthians,2015,Brazilian
+25,25,Bruno Henrique,BRA,M,1.80,75,21-10-89,Apucarana,Portuguesa,Corinthians,2015,Brazilian
+26,26,Rodriguinho,BRA,M,1.80,73,27-03-88,Natal,Coimbra,Corinthians,2015,Brazilian
+27,27,Walter,BRA,G,1.88,82,18-11-87,Jaú,União Barbarense,Corinthians,2015,Brazilian
+28,28,Felipe,BRA,D,1.85,77,16-05-89,Mogi das Cruzes,Coimbra,Corinthians,2015,Brazilian
+29,29,Rodrigo Sam,BRA,D,1.85,74,24-07-95,Marília,Marília,Corinthians,2015,Brazilian
+30,30,Lucca,BRA,F,1.78,70,14-02-90,Alto Parnaíba,Criciúma,Corinthians,2015,Brazilian
+31,31,Rildo,BRA,F,1.80,67,20-03-89,São Paulo,Ponte Preta,Corinthians,2015,Brazilian
+32,32,Matheus Vidotto,BRA,G,1.89,82,10-04-93,São Paulo,None,Corinthians,2015,Brazilian
+33,33,Edílson,BRA,D,1.77,78,27-07-86,Nova Esperança,Botafogo,Corinthians,2015,Brazilian
+34,34,Pedro Henrique,BRA,D,1.88,79,02-10-95,Lauro Müller,None,Corinthians,2015,Brazilian
+35,35,Samuel,BRA,D,1.77,70,19-01-98,São Paulo,None,Corinthians,2015,Brazilian
+41,99,Vágner Love,BRA,F,1.71,72,11-06-84,Rio de Janeiro,Shandong Luneng,Corinthians,2015,Brazilian
+1,1,Vaná,BRA,G,1.94,80,25-04-91,Planaltina,None,Coritiba,2015,Brazilian
+3,3,Luccas Claro,BRA,D,1.82,83,20-10-91,Ribeirão Preto,None,Coritiba,2015,Brazilian
+4,4,Rafael Marques,BRA,D,1.84,78,21-09-83,Rio de Janeiro,Verona,Coritiba,2015,Brazilian
+5,5,Alan Santos,BRA,M,1.85,75,24-04-91,Salvador,Santos,Coritiba,2015,Brazilian
+6,6,Luis Cáceres,PAR,M,1.75,68,16-04-88,Asunción,Vitória,Coritiba,2015,Brazilian
+7,7,Negueba,BRA,F,1.78,70,07-04-92,Rio de Janeiro,Flamengo,Coritiba,2015,Brazilian
+8,8,Lúcio Flávio,BRA,M,1.75,69,03-02-79,Curitiba,Paraná,Coritiba,2015,Brazilian
+9,9,Keirrison,BRA,F,1.81,63,03-12-88,Dourados,Barcelona,Coritiba,2015,Brazilian
+11,11,Michel,BRA,F,1.85,84,19-05-89,São Gabriel,Passo Fundo,Coritiba,2015,Brazilian
+12,12,William Menezes,BRA,G,1.92,87,05-04-89,Campanha,Taubaté,Coritiba,2015,Brazilian
+13,13,Ivan,BRA,D,1.70,68,25-08-92,Jaú,Portuguesa,Coritiba,2015,Brazilian
+15,15,Leandro Silva,BRA,D,1.83,78,07-04-86,Iretama,J. Malucelli,Coritiba,2015,Brazilian
+17,17,Evandro,BRA,F,1.74,71,14-01-97,Messias,None,Coritiba,2015,Brazilian
+18,18,Misael,BRA,M,1.76,73,15-07-94,Três de Maio,Deportivo Maldonado,Coritiba,2015,Brazilian
+19,19,Wallyson,BRA,F,1.78,65,17-10-88,Natal,Deportivo Maldonado,Coritiba,2015,Brazilian
+20,20,Rodolfo,BRA,M,1.73,68,03-05-93,Mesquita,Flamengo,Coritiba,2015,Brazilian
+21,21,Walisson Maia,BRA,D,1.87,83,21-08-91,Natividade,None,Coritiba,2015,Brazilian
+26,26,Ruy,BRA,M,1.70,74,26-01-89,Itapeva,Operário,Coritiba,2015,Brazilian
+27,27,Rodrigo Ramos,BRA,D,1.73,66,24-05-95,Juazeiro,None,Coritiba,2015,Brazilian
+28,28,Juninho,BRA,D,1.86,75,02-01-95,Londrina,None,Coritiba,2015,Brazilian
+29,29,Bruno Brigido,BRA,G,1.87,76,09-03-91,Criciúma,Criciúma,Coritiba,2015,Brazilian
+30,30,Carlinhos,BRA,D,1.67,71,29-11-86,Piripiri,Icasa,Coritiba,2015,Brazilian
+31,31,João Paulo,BRA,M,1.78,69,22-02-85,Pinhais,Atlético Paranaense,Coritiba,2015,Brazilian
+35,35,Ícaro,BRA,M,1.85,76,05-08-93,Joinville,None,Coritiba,2015,Brazilian
+37,37,Thiago Lopes,BRA,M,1.78,76,27-10-96,Mogi Mirim,None,Coritiba,2015,Brazilian
+38,38,Samuel,BRA,G,1.88,80,29-03-94,Teixeira de Freitas,None,Coritiba,2015,Brazilian
+39,39,Rafael Martins,BRA,G,1.90,79,29-11-91,Pariquera-Açu,None,Coritiba,2015,Brazilian
+41,46,Eberson,BRA,D,1.81,84,06-07-93,Rio de Janeiro,None,Coritiba,2015,Brazilian
+42,48,Ednei,BRA,D,1.85,81,05-07-90,Senhor do Bonfim,Vitória,Coritiba,2015,Brazilian
+43,52,Kléber,BRA,F,1.73,70,12-08-83,Osasco,Grêmio,Coritiba,2015,Brazilian
+44,55,Juan,BRA,D,1.67,66,06-02-82,São Paulo,Vitória,Coritiba,2015,Brazilian
+45,65,Esquerdinha,BRA,M,1.73,65,10-10-89,Recife,Goiás,Coritiba,2015,Brazilian
+46,66,Henrique,BRA,D,1.80,81,05-01-95,Carazinho,None,Coritiba,2015,Brazilian
+47,70,Fabrício,BRA,M,1.77,75,13-06-92,Camacan,Novo Hamburgo,Coritiba,2015,Brazilian
+48,77,Guilherme Parede,BRA,F,1.75,69,19-09-95,Nova Andradina,None,Coritiba,2015,Brazilian
+49,80,Marcos Aurélio,BRA,F,1.67,64,10-02-84,Cuiabá,Ceará,Coritiba,2015,Brazilian
+50,84,Wilson,BRA,G,1.85,79,31-01-84,Santo André,Vitória,Coritiba,2015,Brazilian
+51,89,Thiago Galhardo,BRA,M,1.82,69,20-07-89,São João del-Rei,Madureira,Coritiba,2015,Brazilian
+52,91,Henrique Almeida,BRA,F,1.78,76,27-05-91,Brasília,Botafogo,Coritiba,2015,Brazilian
+53,94,Paulinho,BRA,F,1.69,62,16-03-94,São Francisco do Sul,Grêmio,Coritiba,2015,Brazilian
+54,95,Mateus Oliveira,BRA,F,1.71,70,19-08-95,Londrina,None,Coritiba,2015,Brazilian
+55,99,Rafhael Lucas,BRA,F,1.74,71,30-11-92,Curitiba,None,Coritiba,2015,Brazilian
+1,1,Fábio,BRA,G,1.90,93,30-09-80,Nobres,Vasco da Gama,Cruzeiro,2015,Brazilian
+2,2,Ceará,BRA,D,1.75,75,16-06-80,Crato,Paris St-Germain,Cruzeiro,2015,Brazilian
+3,3,Léo,BRA,D,1.84,81,30-01-88,Belo Horizonte,Palmeiras,Cruzeiro,2015,Brazilian
+4,4,Bruno Rodrigo,BRA,D,1.84,73,12-04-85,São Paulo,Monte Azul,Cruzeiro,2015,Brazilian
+5,5,Willians,BRA,M,1.75,71,29-01-86,São Paulo,Internacional,Cruzeiro,2015,Brazilian
+6,6,Fabricio,BRA,D,1.85,72,11-01-87,São Paulo,Internacional,Cruzeiro,2015,Brazilian
+7,7,Diederrick Joel,CMR,F,1.78,76,06-12-93,Nkongsamba,Londrina,Cruzeiro,2015,Brazilian
+8,8,Henrique,BRA,M,1.79,72,16-05-85,Londrina,Santos,Cruzeiro,2015,Brazilian
+9,9,Leandro Damião,BRA,F,1.88,81,22-07-89,Jardim Alegre,Santos,Cruzeiro,2015,Brazilian
+10,10,Giorgian De Arrascaeta,URU,M,1.72,67,01-06-94,Nuevo Berlín,Defensor Sporting,Cruzeiro,2015,Brazilian
+11,11,Alisson,BRA,M,1.74,73,25-06-93,Rio Pomba,None,Cruzeiro,2015,Brazilian
+12,12,Rafael,BRA,G,1.92,81,23-06-89,Coronel Fabriciano,None,Cruzeiro,2015,Brazilian
+13,13,Douglas Grolli,BRA,D,1.88,79,05-10-89,São Miguel do Oeste,Grêmio,Cruzeiro,2015,Brazilian
+14,14,Eurico,BRA,M,1.82,70,16-04-94,Santa Luzia,None,Cruzeiro,2015,Brazilian
+15,15,Willian Farias,BRA,M,1.76,75,06-06-89,Curitiba,Coritiba,Cruzeiro,2015,Brazilian
+16,16,Judivan,BRA,F,1.77,81,21-05-95,Sousa,None,Cruzeiro,2015,Brazilian
+17,17,Uillian Correia,BRA,M,1.84,78,27-09-89,Fátima do Sul,Ceará,Cruzeiro,2015,Brazilian
+18,18,Gabriel Xavier,BRA,M,1.70,70,15-07-93,São Paulo,Portuguesa,Cruzeiro,2015,Brazilian
+19,19,Júlio Baptista,BRA,M,1.83,72,01-10-81,São Paulo,Málaga,Cruzeiro,2015,Brazilian
+20,20,Paulo André,BRA,D,1.88,82,20-08-83,Campinas,Shanghai Shenhua,Cruzeiro,2015,Brazilian
+21,21,Eugenio Mena,CHI,D,1.71,73,18-07-88,Viña del Mar,Santos,Cruzeiro,2015,Brazilian
+22,22,Mayke,BRA,D,1.78,68,10-11-92,Carangola,None,Cruzeiro,2015,Brazilian
+23,23,Fabiano,BRA,D,1.88,82,18-11-91,São José do Oeste,Chapecoense,Cruzeiro,2015,Brazilian
+24,24,Elisson,BRA,G,1.87,85,26-03-87,Belo Horizonte,Nacional [POR],Cruzeiro,2015,Brazilian
+25,25,Willian,BRA,F,1.71,78,19-11-86,Três Fronteiras,Metalist Kharkiv,Cruzeiro,2015,Brazilian
+26,26,Dedé,BRA,D,1.93,87,01-07-88,Volta Redonda,Vasco da Gama,Cruzeiro,2015,Brazilian
+27,27,Manoel,BRA,D,1.79,82,26-02-90,Bacabal,Atlético Paranaense,Cruzeiro,2015,Brazilian
+28,28,Charles,BRA,M,1.73,72,14-02-85,Rio de Janeiro,Lokomotiv Moscow,Cruzeiro,2015,Brazilian
+29,29,Pará,BRA,D,1.67,70,23-08-95,Capanema,Bahia,Cruzeiro,2015,Brazilian
+30,30,Marquinhos,BRA,F,1.75,68,19-10-89,Prado,Vitória,Cruzeiro,2015,Brazilian
+31,31,Alex,BRA,D,1.86,80,21-01-93,Salvador,None,Cruzeiro,2015,Brazilian
+32,32,Alan,BRA,G,2.01,99,22-06-94,Medianeira,Londrina,Cruzeiro,2015,Brazilian
+33,33,Bruno Ramires,BRA,M,1.89,77,18-03-94,Salvador,None,Cruzeiro,2015,Brazilian
+34,34,Marcos Vinícius,BRA,M,1.78,70,26-12-94,Marabá,Náutico,Cruzeiro,2015,Brazilian
+35,35,Allano,BRA,F,1.82,73,24-04-95,Rio de Janeiro,Botafogo,Cruzeiro,2015,Brazilian
+36,36,Bruno Viana,BRA,D,1.87,75,05-02-95,Macaé,None,Cruzeiro,2015,Brazilian
+37,37,Marinho,BRA,M,1.76,62,29-05-90,Penedo,Ceará,Cruzeiro,2015,Brazilian
+39,39,Vinícius Araújo,BRA,F,1.76,76,22-02-93,João Monlevade,Valencia,Cruzeiro,2015,Brazilian
+40,40,Alejandro Cabral,ARG,M,1.85,76,11-09-87,Capital Federal,Vélez Sarsfield,Cruzeiro,2015,Brazilian
+1,1,Felipe,BRA,G,1.90,86,22-02-84,Rio de Janeiro,Flamengo,Figueirense,2015,Brazilian
+2,2,Leandro Silva,BRA,D,1.81,76,22-09-88,Sorocaba,América Mineiro,Figueirense,2015,Brazilian
+3,3,Marquinhos,BRA,D,1.94,80,21-10-82,São Paulo,Comercial-SP,Figueirense,2015,Brazilian
+4,4,Thiago Heleno,BRA,D,1.85,84,17-09-88,Sete Lagoas,Deportivo Maldonado,Figueirense,2015,Brazilian
+5,5,Bruno Dybal,BRA,M,1.81,67,03-03-94,Guarulhos,Palmeiras,Figueirense,2015,Brazilian
+6,6,Marquinhos Pedroso,BRA,D,1.75,73,04-10-93,Tubarão,None,Figueirense,2015,Brazilian
+7,7,Clayton,BRA,F,1.73,69,23-10-95,Rio de Janeiro,None,Figueirense,2015,Brazilian
+8,8,Ricardinho,BRA,M,1.74,69,10-06-85,Votuporanga,Criciúma,Figueirense,2015,Brazilian
+9,9,Marcão,BRA,F,1.90,83,25-09-85,Camaçari,Bahia,Figueirense,2015,Brazilian
+10,10,Alemão,BRA,F,1.85,71,02-03-89,Valinhos,Ponte Preta,Figueirense,2015,Brazilian
+11,11,Dudu,BRA,F,1.88,72,21-04-90,Itanhanhém,Bragantino,Figueirense,2015,Brazilian
+12,12,Thiago Santana,BRA,F,1.84,81,04-02-93,Serrinha,São Carlos,Figueirense,2015,Brazilian
+15,15,Jefferson,BRA,M,1.81,80,22-01-94,Campinas,None,Figueirense,2015,Brazilian
+16,16,Rafael Bastos,BRA,M,1.85,72,01-01-85,Rio de Janeiro,Kuwait SC,Figueirense,2015,Brazilian
+17,17,Celsinho,BRA,M,1.77,67,25-08-88,Americana,Londrina,Figueirense,2015,Brazilian
+18,18,Jean Deretti,BRA,M,1.73,60,01-05-93,Jaraguá do Sul,None,Figueirense,2015,Brazilian
+19,19,Carlos Alberto,BRA,M,1.77,71,11-12-84,Rio de Janeiro,Botafogo,Figueirense,2015,Brazilian
+20,20,Saimon,BRA,D,1.83,74,03-03-91,Erechim,Vitória,Figueirense,2015,Brazilian
+21,21,Luan,BRA,M,1.79,76,11-02-91,São Bento do Sul,None,Figueirense,2015,Brazilian
+22,22,Luan Polli,BRA,G,1.87,86,06-04-93,Meleiro,Flamengo,Figueirense,2015,Brazilian
+23,23,Hyago,BRA,M,,,03-01-95,,None,Figueirense,2015,Brazilian
+25,25,Juninho,BRA,D,1.71,64,11-01-90,Salvador,Coimbra,Figueirense,2015,Brazilian
+27,27,Yago,BRA,M,1.72,65,13-02-95,Limoeiro do Norte,None,Figueirense,2015,Brazilian
+28,28,Paulo Roberto,BRA,M,1.76,79,06-03-87,Lavras,Audax,Figueirense,2015,Brazilian
+30,30,Júnior Oliveira,BRA,G,1.88,77,02-01-90,Cabo Frio,São José,Figueirense,2015,Brazilian
+33,33,Talhetti,BRA,M,1.73,70,23-02-90,Caçador,Tombense,Figueirense,2015,Brazilian
+35,35,Carlos,BRA,D,1.83,70,15-09-95,Curitiba,Internacional,Figueirense,2015,Brazilian
+36,36,Roberto Cereceda,CHI,D,1.73,71,10-10-84,Santiago,Universidad de Chile,Figueirense,2015,Brazilian
+38,38,Alex Muralha,BRA,G,1.86,89,10-11-89,Três Corações,Mirassol,Figueirense,2015,Brazilian
+39,39,Elias,BRA,F,1.82,78,13-02-87,Campos,Nova Iguaçu,Figueirense,2015,Brazilian
+41,44,Henrique Trevisan,BRA,D,1.80,70,20-01-97,Umuarama,None,Figueirense,2015,Brazilian
+42,52,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão,Joinville,Figueirense,2015,Brazilian
+43,55,Dener,BRA,M,1.79,76,12-04-95,Carapicuiba,None,Figueirense,2015,Brazilian
+44,59,Bruno Alves,BRA,D,1.84,81,16-04-91,Jacareí,CRAC,Figueirense,2015,Brazilian
+45,70,João Vitor,BRA,M,1.76,66,01-06-88,Maceió,Deportivo Maldonado,Figueirense,2015,Brazilian
+46,77,Fabinho,BRA,M,1.80,69,19-11-86,Cruzeiro,América de Natal,Figueirense,2015,Brazilian
+47,88,Nirley,BRA,D,1.86,84,09-04-88,Itaocara,Criciúma,Figueirense,2015,Brazilian
+48,91,França,BRA,M,1.88,82,21-04-91,Bauru,Hannover 96,Figueirense,2015,Brazilian
+49,94,Marcelinho,BRA,F,1.75,68,23-05-94,Suzano,Portuguesa,Figueirense,2015,Brazilian
+50,95,Bruno Santos,BRA,D,1.72,70,13-06-95,Jaraguá do Sul,None,Figueirense,2015,Brazilian
+51,97,Matheusinho,BRA,M,1.65,59,18-10-97,Capivari de Baixo,None,Figueirense,2015,Brazilian
+2,2,Pablo Armero,COL,D,1.74,81,02-11-86,Tumaco,Udinese,Flamengo,2015,Brazilian
+3,3,César,BRA,D,1.90,78,28-12-92,Mairinque,Benfica,Flamengo,2015,Brazilian
+4,4,Samir,BRA,D,1.88,80,05-12-94,Rio de Janeiro,Audax Rio,Flamengo,2015,Brazilian
+7,7,Marcelo Cirino,BRA,F,1.82,74,22-01-92,Maringá,Atlético Paranaense,Flamengo,2015,Brazilian
+8,8,Marcio Araújo,BRA,M,1.72,70,11-06-84,São Luiz,Palmeiras,Flamengo,2015,Brazilian
+9,9,José Paolo Guerrero,PER,F,1.84,72,01-01-84,Lima,Corinthians,Flamengo,2015,Brazilian
+10,10,Ederson,BRA,M,1.81,74,13-01-86,Parapua,Lazio,Flamengo,2015,Brazilian
+11,11,Emerson,BRA,F,1.71,69,06-12-78,Nova Iguaçu,Corinthians,Flamengo,2015,Brazilian
+13,13,Marcelo,BRA,D,1.86,80,26-08-91,Juiz de Fora,Cianorte,Flamengo,2015,Brazilian
+14,14,Wallace,BRA,D,1.83,76,26-12-87,Conceição do Coité,Corinthians,Flamengo,2015,Brazilian
+15,15,Luiz Antônio,BRA,M,1.84,73,11-03-91,Rio de Janeiro,None,Flamengo,2015,Brazilian
+17,17,Gabriel,BRA,F,1.78,64,06-01-90,Salvador,Bahia,Flamengo,2015,Brazilian
+18,18,Jonas,BRA,M,1.80,79,03-10-91,Teresina,Sampaio Corrêa,Flamengo,2015,Brazilian
+19,19,Alan Patrick,BRA,M,1.75,66,13-05-91,Catanduva,Shakhtar Donetsk,Flamengo,2015,Brazilian
+20,20,Héctor Canteros,ARG,M,1.76,73,15-03-89,Capital Federal,Vélez Sarsfield,Flamengo,2015,Brazilian
+21,21,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Grêmio,Flamengo,2015,Brazilian
+22,22,Éverton,BRA,M,1.74,66,11-12-88,Nortelândia,UANL Tigres,Flamengo,2015,Brazilian
+26,26,Paulinho,BRA,F,1.77,63,14-06-88,Guarulhos,XV de Piracicaba,Flamengo,2015,Brazilian
+27,27,Kayke,BRA,F,1.82,72,01-04-88,Brasília,ABC,Flamengo,2015,Brazilian
+28,28,Almir,BRA,M,1.77,75,20-05-82,Santa Rita,Bangu,Flamengo,2015,Brazilian
+29,29,Nixon,BRA,F,1.76,62,20-07-92,Bahia,Porto-PE,Flamengo,2015,Brazilian
+30,30,Matheus Sávio,BRA,M,1.72,66,15-04-97,Ribeirão Preto,Desportivo Brasil,Flamengo,2015,Brazilian
+31,31,Douglas Baggio,BRA,F,1.72,68,02-02-95,Jaboatão dos Guararapes,None,Flamengo,2015,Brazilian
+32,32,Ayrton,BRA,D,1.76,73,19-04-85,Piracicaba,Palmeiras,Flamengo,2015,Brazilian
+34,34,Rafael Dumas,BRA,D,1.84,80,13-03-95,Rio de Janeiro,None,Flamengo,2015,Brazilian
+35,35,Jajá,BRA,M,1.78,70,18-03-95,Rio de Janeiro,None,Flamengo,2015,Brazilian
+36,36,Jorge,BRA,D,1.84,70,28-03-96,Rio de Janeiro,None,Flamengo,2015,Brazilian
+37,37,César,BRA,G,1.94,78,27-01-92,Rio de Janeiro,Sendas Pão de Açúcar,Flamengo,2015,Brazilian
+38,38,Daniel,BRA,G,1.88,80,19-04-95,Rio de Janeiro,None,Flamengo,2015,Brazilian
+39,39,Thiago,BRA,G,1.85,77,12-06-96,Rio de Janeiro,None,Flamengo,2015,Brazilian
+40,40,Thiago Santos,BRA,F,1.78,70,12-04-95,Mari,Duque de Caxias,Flamengo,2015,Brazilian
+41,48,Paulo Victor,BRA,G,1.87,76,12-01-87,Assis,América-RJ,Flamengo,2015,Brazilian
+1,1,Kléver,BRA,G,1.88,82,20-06-89,Mirassol,None,Fluminense,2015,Brazilian
+2,2,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,São Paulo,Fluminense,2015,Brazilian
+3,3,Gum,BRA,D,1.89,86,04-01-86,São Paulo,Ponte Preta,Fluminense,2015,Brazilian
+4,4,Marlon,BRA,D,1.82,80,07-09-95,Duque de Caxias,None,Fluminense,2015,Brazilian
+5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Atlético Mineiro,Fluminense,2015,Brazilian
+6,6,Giovanni,BRA,D,1.82,73,23-06-89,Santos,Criciúma,Fluminense,2015,Brazilian
+7,7,Jean,BRA,M,1.70,70,24-06-86,Campo Grande,São Paulo,Fluminense,2015,Brazilian
+8,8,Edson,BRA,M,1.83,75,01-07-91,Touros,São Bernardo,Fluminense,2015,Brazilian
+9,9,Fred,BRA,F,1.85,84,03-10-83,Téofilo Otoni,Lyon,Fluminense,2015,Brazilian
+11,11,Cícero,BRA,M,1.80,72,26-08-84,Castelo,Tombense,Fluminense,2015,Brazilian
+12,12,Diego Cavalieri,BRA,G,1.89,86,01-12-82,São Paulo,Cesena,Fluminense,2015,Brazilian
+13,13,João Filipe,BRA,D,1.90,76,11-06-88,Rio de Janeiro,Tombense,Fluminense,2015,Brazilian
+14,14,Victor Oliveira,BRA,D,1.90,78,28-05-94,Conceição do Araguaia,Atlético Goianiense,Fluminense,2015,Brazilian
+15,15,Rafinha,BRA,M,1.77,74,05-08-93,Rio de Janeiro,None,Fluminense,2015,Brazilian
+16,16,Renato,BRA,D,1.75,65,19-01-90,Maceió,Sport Recife,Fluminense,2015,Brazilian
+17,17,Osvaldo,BRA,F,1.69,62,11-04-87,Fortaleza,Al-Ahli [KSA],Fluminense,2015,Brazilian
+18,18,Jonathan,BRA,D,1.70,72,27-02-86,Conselheiro Lafaiete,Internazionale,Fluminense,2015,Brazilian
+19,19,Michael,BRA,F,1.86,80,19-04-93,São Francisco de Sales,None,Fluminense,2015,Brazilian
+20,20,Magno Alves,BRA,F,1.75,64,13-01-76,Aporá,Ceará,Fluminense,2015,Brazilian
+21,21,Henrique,BRA,D,1.88,78,02-05-83,São Gonçalo,Bordeaux,Fluminense,2015,Brazilian
+22,22,Júlio César,BRA,G,1.90,85,02-09-86,Guaramirim,Getafe,Fluminense,2015,Brazilian
+23,23,Léo,BRA,D,1.83,80,06-03-96,Rio de Janeiro,None,Fluminense,2015,Brazilian
+25,25,Wellington Silva,BRA,D,1.77,88,06-03-88,Rio de Janeiro,Resende,Fluminense,2015,Brazilian
+26,26,Breno Lopes,BRA,D,1.81,70,28-09-90,Itacarambi,Cruzeiro,Fluminense,2015,Brazilian
+27,27,Douglas,BRA,M,1.73,70,13-01-97,Rio de Janeiro,None,Fluminense,2015,Brazilian
+28,28,Willian,BRA,M,1.84,71,16-05-93,Junqueirópolis,None,Fluminense,2015,Brazilian
+29,29,Vinícius,BRA,M,1.77,75,15-04-91,Curitiba,Náutico,Fluminense,2015,Brazilian
+30,30,Gerson,BRA,M,1.75,65,20-05-97,Belford Roxo,None,Fluminense,2015,Brazilian
+31,31,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo,Internacional,Fluminense,2015,Brazilian
+32,32,Lucas Gomes,BRA,F,1.77,75,29-05-90,Bragança,Londrina,Fluminense,2015,Brazilian
+34,34,Robert,BRA,M,1.75,70,28-09-96,São Gonçalo,None,Fluminense,2015,Brazilian
+35,35,Marcos Júnior,BRA,F,1.67,63,19-01-93,Gama,None,Fluminense,2015,Brazilian
+36,36,Ayrton,BRA,D,1.80,72,19-06-97,Carnaúba dos Dantas,ABC,Fluminense,2015,Brazilian
+37,37,Artur,BRA,D,1.89,73,11-06-90,Rio de Janeiro,Nova Iguaçu,Fluminense,2015,Brazilian
+38,38,Higor,BRA,M,1.77,62,02-06-93,Goiás,Internacional,Fluminense,2015,Brazilian
+39,39,Luiz Fernando,BRA,M,1.78,74,08-05-94,Rio de Janeiro,None,Fluminense,2015,Brazilian
+40,40,Gustavo Scarpa,BRA,M,1.76,65,05-01-94,Campinas,Desportivo Brasil,Fluminense,2015,Brazilian
+41,44,Ygor Nogueira,BRA,D,1.87,80,27-03-95,Itaperuna,None,Fluminense,2015,Brazilian
+1,,Matheus Alves,BRA,G,1.89,82,15-12-94,Brazlândia,None,Goiás,2015,Brazilian
+2,,Paulo Henrique,BRA,G,1.84,75,12-05-94,Goiânia,None,Goiás,2015,Brazilian
+3,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Internacional,Goiás,2015,Brazilian
+4,,Wallace,BRA,G,1.83,85,14-04-92,Goiânia,None,Goiás,2015,Brazilian
+5,,Alex Alves,BRA,D,1.82,82,25-08-92,Assis Chateaubriand,Paraná,Goiás,2015,Brazilian
+6,,Baiano,BRA,D,1.89,87,12-10-94,Jaguaquara,None,Goiás,2015,Brazilian
+7,,Clayton Sales,BRA,D,1.70,74,24-02-93,Goiânia,None,Goiás,2015,Brazilian
+8,,David Duarte,BRA,D,1.92,84,24-01-95,Rio Grande do Sul,None,Goiás,2015,Brazilian
+9,,Diogo Barbosa,BRA,D,1.79,70,17-08-92,Terra Nova do Norte,Coimbra,Goiás,2015,Brazilian
+10,,Everton,BRA,D,1.75,64,21-08-95,Goiânia,None,Goiás,2015,Brazilian
+11,,Felipe Macedo,BRA,D,1.87,76,27-03-94,São Miguel do Araguaia,None,Goiás,2015,Brazilian
+12,,Felipe Saturnino,BRA,D,1.80,76,10-08-95,Rio de Janeiro,None,Goiás,2015,Brazilian
+13,,Fred,BRA,D,1.89,83,15-01-86,Novo Hamburgo,Novo Hamburgo,Goiás,2015,Brazilian
+14,,Gimenez,BRA,D,1.76,72,18-06-95,Ribeirão Preto,Cianorte,Goiás,2015,Brazilian
+15,,Rafael Forster,BRA,D,1.81,81,23-07-90,São José,Brasil de Pelotas,Goiás,2015,Brazilian
+16,,Valmir Lucas,BRA,D,1.85,76,12-01-89,Edéia,None,Goiás,2015,Brazilian
+17,,Arthur,BRA,M,1.79,73,21-03-94,São Francisco do Sul,None,Goiás,2015,Brazilian
+18,,David,BRA,M,1.77,70,29-05-82,Araxá,Vila Nova,Goiás,2015,Brazilian
+19,,Felipe Menezes,BRA,M,1.85,76,20-01-88,Goiânia,Palmeiras,Goiás,2015,Brazilian
+20,,Gelson,BRA,M,1.86,73,20-01-94,Brasília,Sobradinho,Goiás,2015,Brazilian
+21,,Juliano,BRA,M,1.83,77,06-04-90,Pelotas,Internacional,Goiás,2015,Brazilian
+22,,Liniker,BRA,M,1.73,69,08-03-93,Santa Helena,None,Goiás,2015,Brazilian
+23,,Murilo,BRA,M,1.77,66,20-11-94,Jataí,None,Goiás,2015,Brazilian
+24,,Patrick,BRA,M,1.75,74,29-07-92,Rio de Janeiro,Caxias,Goiás,2015,Brazilian
+25,,Péricles,BRA,M,1.76,73,24-03-94,Goiânia,None,Goiás,2015,Brazilian
+26,,Pither,BRA,M,1.64,75,25-04-94,,None,Goiás,2015,Brazilian
+27,,Rodrigo,BRA,M,1.76,70,11-02-94,Ituiutaba,None,Goiás,2015,Brazilian
+28,,Túlio,BRA,M,1.84,76,04-03-93,Taquaral,None,Goiás,2015,Brazilian
+29,,Wiliam Kozlowski,BRA,M,1.79,75,19-11-83,Curitiba,Aparecidense,Goiás,2015,Brazilian
+30,,Ygor,BRA,M,1.79,76,01-06-84,Santana do Livramento,Internacional,Goiás,2015,Brazilian
+31,,Zé Eduardo,BRA,M,1.79,82,29-10-87,Promissão,Shanghai Shenxin,Goiás,2015,Brazilian
+32,,Bruno Henrique,BRA,F,1.84,71,30-12-90,Belo Horizone,Uberlândia,Goiás,2015,Brazilian
+33,,Carlos Eduardo,BRA,F,1.73,68,10-10-96,Nerópolis,None,Goiás,2015,Brazilian
+34,,Erik,BRA,F,1.70,64,18-07-94,Novo Repartimento,None,Goiás,2015,Brazilian
+35,,Juba,BRA,F,1.80,77,03-11-84,Ivaiporã,Opérario,Goiás,2015,Brazilian
+36,,Lucas Coelho,BRA,F,1.83,80,20-07-94,Lages,Grêmio,Goiás,2015,Brazilian
+37,,Paulo,BRA,F,1.74,68,12-01-93,Goiânia,None,Goiás,2015,Brazilian
+38,,Ruan,BRA,F,1.78,75,17-08-93,Natal,Sport Recife,Goiás,2015,Brazilian
+39,,Wesley,BRA,F,1.78,70,24-04-90,Sertãozinho,Cruzeiro-RS,Goiás,2015,Brazilian
+1,1,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Gręmio,2015,Brazilian
+2,2,Rafael Galhardo,BRA,D,1.76,70,30-10-91,Nova Friburgo,Santos,Gręmio,2015,Brazilian
+3,3,Pedro Geromel,BRA,D,1.90,84,21-09-85,São Paulo,Köln,Gręmio,2015,Brazilian
+4,4,Bressan,BRA,D,1.82,74,15-01-93,Caxias do Sul,Juventude,Gręmio,2015,Brazilian
+5,5,Walace,BRA,M,1.78,75,04-04-95,Salvador,Avaí,Gręmio,2015,Brazilian
+7,7,Luan,BRA,F,1.80,71,27-03-93,São José do Rio Preto,América-SP,Gręmio,2015,Brazilian
+8,8,Giuliano,BRA,M,1.72,68,31-05-90,Curitiba,Dnipro Dnipropetrovsk,Gręmio,2015,Brazilian
+9,9,Braian Rodríguez,URU,F,1.91,84,14-08-86,Salto,Betis,Gręmio,2015,Brazilian
+10,10,Douglas,BRA,M,1.75,66,18-02-82,Criciúma,Monte Azul,Gręmio,2015,Brazilian
+11,11,Yuri Mamute,BRA,F,1.80,68,07-05-95,Porto Alegre,None,Gręmio,2015,Brazilian
+12,12,Tiago Machowski,BRA,G,1.90,90,16-05-93,Rio Azul,None,Gręmio,2015,Brazilian
+13,13,Bobô,BRA,F,1.86,85,01-01-85,Gravatá,Kayserispor,Gręmio,2015,Brazilian
+14,14,Júnior Tavares,BRA,D,1.78,80,07-08-96,Porto Alegre,None,Gręmio,2015,Brazilian
+15,15,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Fluminense,Gręmio,2015,Brazilian
+16,16,Araújo,BRA,M,1.81,76,16-05-95,Aparecida de Goiânia,Guarani de Juazeiro,Gręmio,2015,Brazilian
+17,17,Ramiro,BRA,M,1.68,67,22-05-93,Gramado,Juventude,Gręmio,2015,Brazilian
+18,18,Lucas Ramon,BRA,D,1.78,72,07-03-94,Montes Claros,Londrina,Gręmio,2015,Brazilian
+19,19,Maicon,BRA,M,1.84,87,14-09-85,Rio de Janeiro,São Paulo,Gręmio,2015,Brazilian
+20,20,Léo,BRA,G,1.88,74,20-03-95,Ribeirão Preto,None,Gręmio,2015,Brazilian
+21,21,Gabriel Silva,BRA,D,1.90,81,03-03-95,Brasília,1899 Hoffenheim,Gręmio,2015,Brazilian
+22,22,Marcelo Hermes,BRA,D,1.77,68,02-01-95,Sarandi,None,Gręmio,2015,Brazilian
+23,23,Everton,BRA,F,1.74,72,22-03-96,Fortaleza,Fortaleza,Gręmio,2015,Brazilian
+25,25,William Schuster,BRA,M,1.80,79,31-05-87,Porto Alegre,Novo Hamburgo,Gręmio,2015,Brazilian
+26,26,Marcelo Oliveira,BRA,D,1.84,76,29-03-87,Salvador,Cruzeiro,Gręmio,2015,Brazilian
+27,27,Lincoln,BRA,M,1.78,65,07-11-98,Porto Alegre,None,Gręmio,2015,Brazilian
+28,28,Maxi Rodríguez,URU,M,1.81,65,02-10-90,Montevideo,Montevideo Wanderers,Gręmio,2015,Brazilian
+29,29,Vitinho,BRA,F,1.80,77,08-09-90,Vitória,Guarani de Palhoça,Gręmio,2015,Brazilian
+30,30,Bruno Grassi,BRA,G,1.90,88,05-03-87,Tubarão,Cruzeiro-RS,Gręmio,2015,Brazilian
+31,31,Rafael Thyere,BRA,D,1.90,86,17-05-93,João Pessoa,None,Gręmio,2015,Brazilian
+32,32,Pedro Rocha,BRA,F,1.78,74,01-10-94,Vila Velha,Juventus-SP,Gręmio,2015,Brazilian
+33,33,Frickson Erazo,ECU,D,1.90,78,05-05-88,Esmeraldas,Barcelona [ECU],Gręmio,2015,Brazilian
+34,34,Raul,BRA,D,1.75,70,04-04-97,Porto Alegre,None,Gręmio,2015,Brazilian
+35,35,Arthur,BRA,M,1.72,67,12-08-96,Goiânia,None,Gręmio,2015,Brazilian
+36,36,Balbino,BRA,M,1.82,75,19-01-97,Porto Alegre,None,Gręmio,2015,Brazilian
+37,37,Moisés,BRA,M,1.81,73,24-09-94,Santa Clara do Sul,None,Gręmio,2015,Brazilian
+41,77,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Al-Jazira,Gręmio,2015,Brazilian
+1,1,Dida,BRA,G,1.95,85,07-10-73,Irarà,Grêmio,Internacional,2015,Brazilian
+2,2,Léo,BRA,D,1.71,62,03-10-91,Salvador,Flamengo,Internacional,2015,Brazilian
+3,3,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Atlético Mineiro,Internacional,2015,Brazilian
+4,4,Juan,BRA,D,1.82,78,01-02-79,Rio de Janeiro,Roma,Internacional,2015,Brazilian
+5,5,Nicolás Freitas,URU,M,1.83,77,08-06-87,Montevideo,Montevideo Wanderers,Internacional,2015,Brazilian
+6,6,William,BRA,D,1.76,68,03-04-95,Pelotas,None,Internacional,2015,Brazilian
+8,8,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre,Manchester U,Internacional,2015,Brazilian
+9,9,Eduardo Sasha,BRA,F,1.73,65,24-02-92,Porto Alegre,None,Internacional,2015,Brazilian
+10,10,Andrés D'Alessandro,ARG,M,1.74,68,15-04-81,La Paternal,San Lorenzo,Internacional,2015,Brazilian
+11,11,Rafael Moura,BRA,F,1.89,85,23-05-83,Belo Horizonte,Fluminense,Internacional,2015,Brazilian
+12,12,Alex,BRA,M,1.75,71,25-03-82,Cornélio Procópio,Al-Gharafa,Internacional,2015,Brazilian
+13,13,Rodrigo Dourado,BRA,M,1.86,75,17-06-94,Pelotas,None,Internacional,2015,Brazilian
+14,14,Ernando,BRA,D,1.84,75,14-07-88,Formosa,Goiás,Internacional,2015,Brazilian
+17,17,Lisandro López,ARG,F,1.75,74,02-03-83,Rafael Obligado,Al-Gharafa,Internacional,2015,Brazilian
+19,19,Nílton,BRA,M,1.84,74,21-04-87,Barra do Garças,Cruzeiro,Internacional,2015,Brazilian
+21,21,Vitinho,BRA,F,1.78,69,09-10-93,Rio de Janeiro,CSKA Moscow,Internacional,2015,Brazilian
+22,22,Alisson Becker,BRA,G,1.93,91,02-10-92,Novo Hamburgo,None,Internacional,2015,Brazilian
+24,24,Geferson,BRA,D,1.82,75,13-05-94,Lauro de Freitas,None,Internacional,2015,Brazilian
+25,25,Paulão,BRA,D,1.87,82,25-02-86,Bahia,Guangzhou Evergrande,Internacional,2015,Brazilian
+26,26,Alan Costa,BRA,D,1.94,82,31-10-90,Araraquara,Ferroviária,Internacional,2015,Brazilian
+27,27,Alisson Farias,BRA,M,1.71,67,07-04-96,Lages,Atlético Paranaense,Internacional,2015,Brazilian
+28,28,Taiberson,BRA,F,1.72,74,18-11-93,Alegrete,Atlético Paranaense,Internacional,2015,Brazilian
+29,29,Valdívia,BRA,M,1.74,70,04-10-94,Jaciara,None,Internacional,2015,Brazilian
+30,30,Muriel,BRA,G,1.89,78,14-02-87,Novo Hamburgo,None,Internacional,2015,Brazilian
+32,32,Matheus Bertotto,BRA,M,1.89,79,15-06-93,Porto Alegre,Resende,Internacional,2015,Brazilian
+33,33,Artur,BRA,D,1.78,75,05-08-94,Rondon do Pará,JV Lideral,Internacional,2015,Brazilian
+34,34,Bruno Baio,BRA,F,1.97,89,03-10-95,Cosmopólis,None,Internacional,2015,Brazilian
+35,35,Bruno Gomes,BRA,F,1.80,73,19-07-96,São Paulo,Desportivo Brasil,Internacional,2015,Brazilian
+36,36,Silva,BRA,M,1.83,81,07-09-95,Paraibano,None,Internacional,2015,Brazilian
+37,37,Silas,BRA,M,1.76,72,30-05-96,Progresso,None,Internacional,2015,Brazilian
+38,38,Eduardo,BRA,D,1.87,85,13-02-96,Estancia Velha,None,Internacional,2015,Brazilian
+39,39,Jair,BRA,M,1.78,70,28-08-94,Ibirubá,None,Internacional,2015,Brazilian
+40,40,Lucas Marques,BRA,M,1.76,63,24-05-95,Osasco,None,Internacional,2015,Brazilian
+41,41,Wellington,BRA,M,1.73,70,28-01-91,São Paulo,São Paulo,Internacional,2015,Brazilian
+42,42,Jacsson,BRA,G,1.89,82,12-03-94,Getúlio Vargas,None,Internacional,2015,Brazilian
+43,43,Zé Márío,BRA,M,1.75,70,20-02-92,Medianeira,None,Internacional,2015,Brazilian
+44,44,Andrigo,BRA,F,1.70,71,27-02-95,Estrela,None,Internacional,2015,Brazilian
+45,45,Rodrigo Moledo,BRA,D,1.88,84,27-10-87,Rio de Janeiro,Metalist Kharkiv,Internacional,2015,Brazilian
+46,46,Gustavinho,BRA,F,1.75,69,02-07-96,Crixás,Vila Nova,Internacional,2015,Brazilian
+1,,Agenor,BRA,G,1.87,84,11-12-89,Erechim,Internacional,Joinville,2015,Brazilian
+2,,Jhonatan,BRA,G,1.89,79,08-05-91,São Miguel do Oeste,None,Joinville,2015,Brazilian
+3,,Oliveira,BRA,G,1.89,82,17-10-81,Carlópolis,São Luiz,Joinville,2015,Brazilian
+4,,Vitor,BRA,G,1.87,87,13-12-94,Curitiba,None,Joinville,2015,Brazilian
+5,,Alef,BRA,D,1.86,80,10-09-93,Itabuna,Internacional,Joinville,2015,Brazilian
+6,,Arnaldo,BRA,D,1.73,68,15-04-92,Uberaba,Penapolense,Joinville,2015,Brazilian
+7,,Bruno Aguiar,BRA,D,1.86,80,25-03-86,Amparo,Sport Recife,Joinville,2015,Brazilian
+8,,Dankler,BRA,D,1.87,80,24-01-92,Salvador,Botafogo,Joinville,2015,Brazilian
+9,,Danrlei,BRA,D,1.87,79,01-08-94,Capivari do Sul,None,Joinville,2015,Brazilian
+10,,Diego,BRA,D,1.83,77,21-09-95,Corumbá,Metropolitano,Joinville,2015,Brazilian
+11,,Domingues,BRA,D,1.90,82,28-09-88,Santo Antônio da Grama,Botafogo-SP,Joinville,2015,Brazilian
+12,,Dráusio,BRA,D,1.88,86,21-08-91,Campinas,Atlético Paranaense,Joinville,2015,Brazilian
+13,,Edson Ratinho,BRA,D,1.70,62,31-05-86,João Pessoa,Mogi Mirim,Joinville,2015,Brazilian
+14,,Eusébio,BRA,D,1.68,63,22-09-85,Eusébio,Ceará,Joinville,2015,Brazilian
+15,,Guti,BRA,D,1.87,83,29-06-91,São Bento do Sul,Figueirense,Joinville,2015,Brazilian
+16,,Héracles,BRA,D,1.70,70,18-09-92,Fortaleza,Atlético Paranaense,Joinville,2015,Brazilian
+17,,Mario Sérgio,BRA,D,1.74,67,19-01-92,Baixa Grande,Atlético Paranaense,Joinville,2015,Brazilian
+18,,Rafael Donato,BRA,D,1.93,90,17-03-89,Rio de Janeiro,Cruzeiro,Joinville,2015,Brazilian
+19,,Rafael Furlan,BRA,D,1.77,75,20-09-94,Quirinópolis,None,Joinville,2015,Brazilian
+20,,Rogério,BRA,D,1.80,75,14-03-84,Americana,Criciúma,Joinville,2015,Brazilian
+21,,Anselmo,BRA,M,1.82,78,20-02-89,São Paulo,São Caetano,Joinville,2015,Brazilian
+22,,Geandro,BRA,M,1.79,65,26-11-87,Jacaréi,Bragantino,Joinville,2015,Brazilian
+23,,Italo Melo,BRA,M,1.76,71,25-05-93,Salvador,Bahia,Joinville,2015,Brazilian
+24,,Kadu,BRA,M,1.80,76,08-09-96,Itajaí,Marcílio Dias,Joinville,2015,Brazilian
+25,,Luiz Meneses,BRA,M,1.83,78,15-10-96,Brasília,None,Joinville,2015,Brazilian
+26,,Marcelo Costa,BRA,M,1.76,70,24-07-80,Campinas do Sul,São Caetano,Joinville,2015,Brazilian
+27,,Marcelinho,BRA,M,1.74,73,17-05-75,Campina Grande,Inter de Lages,Joinville,2015,Brazilian
+28,,Naldo,BRA,M,1.85,75,13-05-90,Maitinga,Atlético Paranaense,Joinville,2015,Brazilian
+29,,Renato,BRA,M,1.72,68,29-01-92,Caieiras,Palmeiras,Joinville,2015,Brazilian
+30,,Yuri,BRA,M,1.80,70,07-10-89,Rio Negro,Caldense,Joinville,2015,Brazilian
+31,,Bruno Furlan,BRA,F,1.75,74,09-07-92,Campo Grande,Atlético Paranaense,Joinville,2015,Brazilian
+32,,Edigar Junio,BRA,F,1.75,72,06-05-91,Brasília,Atlético Paranaense,Joinville,2015,Brazilian
+33,,Fernando Viana,BRA,F,1.77,75,20-02-92,Brasília,None,Joinville,2015,Brazilian
+34,,Kempes,BRA,F,1.82,77,03-08-82,Rio de Janeiro,JEF United,Joinville,2015,Brazilian
+35,,Lucas Crispim,BRA,F,1.78,72,16-06-94,Brasília,Santos,Joinville,2015,Brazilian
+36,,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,Atlético Mineiro,Joinville,2015,Brazilian
+37,,Mateus Silva,BRA,F,1.61,65,27-08-96,Florianópolis,None,Joinville,2015,Brazilian
+38,,Ricardo Bueno,BRA,F,1.88,70,15-08-87,São Paulo,Seongnam,Joinville,2015,Brazilian
+39,,Mariano Trípodi,ARG,F,1.81,76,03-07-87,Capital Federal,Metropolitano,Joinville,2015,Brazilian
+40,,Silvinho,BRA,F,1.75,72,01-07-90,Guajará Mirim,Penapolense,Joinville,2015,Brazilian
+41,,William Henrique,BRA,F,1.78,74,28-01-92,Ribeirão Preto,Vitória,Joinville,2015,Brazilian
+42,,Willian Popp,BRA,F,1.88,73,13-04-94,Joinville,None,Joinville,2015,Brazilian
+1,1,Fernando Prass,BRA,G,1.91,79,09-07-78,Porto Alegre,Vasco da Gama,Palmeiras,2015,Brazilian
+3,3,Victor Ramos,BRA,D,1.92,76,05-05-89,Salvador,Monterrey,Palmeiras,2015,Brazilian
+4,4,Nathan,BRA,D,1.88,80,13-05-95,São Paulo,None,Palmeiras,2015,Brazilian
+5,5,Arouca,BRA,M,1.69,65,11-08-86,Duas Barras,Santos,Palmeiras,2015,Brazilian
+6,6,João Paulo,BRA,D,1.73,72,01-07-86,Belo Horizonte,Desportivo Brasil,Palmeiras,2015,Brazilian
+7,7,Dudu,BRA,M,1.65,69,07-01-92,Goiânia,Dynamo Kyiv,Palmeiras,2015,Brazilian
+8,8,Lucas Barrios,PAR,F,1.87,87,13-11-84,San Fernando,Spartak Moscow,Palmeiras,2015,Brazilian
+9,9,Jonathan Cristaldo,ARG,F,1.78,70,05-03-89,Ingeniero Budge,Metalist Kharkiv,Palmeiras,2015,Brazilian
+10,10,Cleiton Xavier,BRA,M,1.78,72,23-03-83,Alagoas,Metalist Kharkiv,Palmeiras,2015,Brazilian
+11,11,Zé Roberto,BRA,M,1.72,72,06-07-74,Ipiranga,Grêmio,Palmeiras,2015,Brazilian
+14,14,Pablo Mouche,ARG,F,1.75,74,11-10-87,San Martín,Kayserispor,Palmeiras,2015,Brazilian
+15,15,Amaral,BRA,M,1.82,67,07-10-86,Goiânia,Goiás,Palmeiras,2015,Brazilian
+18,18,Gabriel,BRA,M,1.72,69,10-07-92,Campinas,Monte Azul,Palmeiras,2015,Brazilian
+19,19,Rafael Marques,BRA,M,1.90,80,27-05-83,Araraquara,Henan Jianye,Palmeiras,2015,Brazilian
+20,20,Agustín Allione,ARG,M,1.69,69,28-10-94,Santa Fe,Vélez Sarsfield,Palmeiras,2015,Brazilian
+22,22,João Pedro,BRA,D,1.79,75,15-11-96,Presidente Prudente,None,Palmeiras,2015,Brazilian
+25,25,Aranha,BRA,G,1.91,89,17-11-80,Pouso Alegre,Santos,Palmeiras,2015,Brazilian
+26,26,Jackson,BRA,D,1.86,77,01-05-90,Cuiabá,Internacional,Palmeiras,2015,Brazilian
+27,27,Robinho,BRA,M,1.70,67,10-11-87,Marialva,Coritiba,Palmeiras,2015,Brazilian
+28,28,Andrei Girotto,BRA,M,1.85,77,17-02-92,Bento Gonçalves,Tombense,Palmeiras,2015,Brazilian
+29,29,Kelvin,BRA,M,1.75,71,01-06-93,Paraná,FC Porto,Palmeiras,2015,Brazilian
+30,30,Fellype Gabriel,BRA,M,1.76,68,06-12-85,Rio de Janeiro,Al-Sharjah,Palmeiras,2015,Brazilian
+31,31,Vitor Hugo,BRA,D,1.87,80,20-05-91,Guaraci,Tombense,Palmeiras,2015,Brazilian
+32,32,Lucas,BRA,D,1.73,67,26-03-88,Passos,Botafogo,Palmeiras,2015,Brazilian
+33,33,Gabriel Jesus,BRA,F,1.75,73,03-04-97,São Paulo,None,Palmeiras,2015,Brazilian
+34,34,Eduardo Júnior,BRA,M,1.75,70,03-09-95,Rio das Pedras,None,Palmeiras,2015,Brazilian
+35,35,Thiago Santos,BRA,M,1.81,78,05-09-89,Curitiba,Américo Mineiro,Palmeiras,2015,Brazilian
+36,36,Matheus Sales,BRA,M,1.78,68,13-05-95,Guarulhos,None,Palmeiras,2015,Brazilian
+37,37,Kauê,BRA,F,,,04-01-97,,None,Palmeiras,2015,Brazilian
+38,38,Daniel,BRA,M,,,13-05-96,,None,Palmeiras,2015,Brazilian
+39,39,Francisco Arancibia,CHI,M,1.70,62,12-11-96,Rancagua,O'Higgins,Palmeiras,2015,Brazilian
+40,40,Julen,BRA,M,1.76,70,09-06-94,Brasília,Vasco da Gama,Palmeiras,2015,Brazilian
+41,41,Jobson,BRA,F,,,13-09-95,,None,Palmeiras,2015,Brazilian
+42,42,Lucas Taylor,BRA,D,,,10-04-95,Guarulhos,None,Palmeiras,2015,Brazilian
+43,43,Augusto,BRA,D,,,16-04-97,,None,Palmeiras,2015,Brazilian
+44,44,Leandro Almeida,BRA,D,1.88,83,14-03-87,Belo Horizonte,Coritiba,Palmeiras,2015,Brazilian
+45,47,Fabio,BRA,G,1.96,85,11-05-90,Osasco,None,Palmeiras,2015,Brazilian
+46,48,Vinícius Silvestre,BRA,G,1.95,90,28-03-94,Guarulhos,None,Palmeiras,2015,Brazilian
+47,49,Jailson,BRA,G,1.86,80,20-07-81,São José dos Campos,Ceará,Palmeiras,2015,Brazilian
+48,66,Egídio,BRA,D,1.75,69,16-06-86,Rio de Janerio,Dnipro Dnipropetrovsk,Palmeiras,2015,Brazilian
+49,90,Alecsandro,BRA,F,1.83,80,04-02-81,Bauru,Flamengo,Palmeiras,2015,Brazilian
+1,,Ivan,BRA,G,1.84,64,02-07-97,Rio das Pedras,None,Ponte Preta,2015,Brazilian
+2,,João Carlos,BRA,G,1.90,92,06-04-88,Paranavaí,Atlético Paranaense,Ponte Preta,2015,Brazilian
+3,,Marcelo Lomba,BRA,G,1.87,80,18-12-86,Rio de Janeiro,Bahia,Ponte Preta,2015,Brazilian
+4,,Matheus Inácio,BRA,G,1.91,81,27-04-92,Mairinque,Bragantino,Ponte Preta,2015,Brazilian
+5,,Diego Ivo,BRA,D,1.88,82,06-04-89,Ibirapuera,Belomonte,Ponte Preta,2015,Brazilian
+6,,Fábio Ferreira,BRA,D,1.88,82,04-10-84,Campina Grande,Criciúma,Ponte Preta,2015,Brazilian
+7,,Ferron,BRA,D,1.87,83,11-11-85,Rondonópolis,Figueirense,Ponte Preta,2015,Brazilian
+8,,Gilson,BRA,D,1.78,70,14-05-86,Campo Grande,Cruzeiro,Ponte Preta,2015,Brazilian
+9,,Jeferson,BRA,D,1.70,60,22-06-96,Campinas,None,Ponte Preta,2015,Brazilian
+10,,Jefferson Recife,BRA,D,1.70,65,13-06-93,Recife,Campinense,Ponte Preta,2015,Brazilian
+11,,Renato Chaves,BRA,D,1.85,85,04-05-90,São Paulo,Atlético Paranaense,Ponte Preta,2015,Brazilian
+12,,Rodinei,BRA,D,1.75,70,29-01-92,Tatuí,SEV Hortolândia,Ponte Preta,2015,Brazilian
+13,,Tiago Alves,BRA,D,1.86,78,29-05-84,Belo Horizonte,Palmeiras,Ponte Preta,2015,Brazilian
+14,,Adrianinho,BRA,M,1.74,69,11-07-80,Campo Limpo Paulista,Sobradinho,Ponte Preta,2015,Brazilian
+15,,Bady,BRA,M,1.70,65,27-04-89,São José do Rio Preto,Atlético Paranaense,Ponte Preta,2015,Brazilian
+16,,Cristian,BRA,M,1.69,65,28-08-79,Uruguaiana,Ituano,Ponte Preta,2015,Brazilian
+17,,Diego Oliveira,BRA,M,1.81,75,22-06-90,Curitiba,Novorizontino,Ponte Preta,2015,Brazilian
+18,,Elton,BRA,M,1.80,78,17-03-90,Teodoro Sampaio,Internacional,Ponte Preta,2015,Brazilian
+19,,Felipe,BRA,M,1.71,69,28-05-90,Piracicaba,Atlético Paranaense,Ponte Preta,2015,Brazilian
+20,,Fernando Bob,BRA,M,1.80,74,07-01-88,Cabo Frio,SEV Hortolândia,Ponte Preta,2015,Brazilian
+21,,Josimar,BRA,M,1.81,78,18-08-86,Pelotas,Internacional,Ponte Preta,2015,Brazilian
+22,,Juninho,BRA,M,1.73,66,23-10-87,Goiânia,Atlético Paranaense,Ponte Preta,2015,Brazilian
+23,,Léo Costa,BRA,M,1.81,73,03-03-86,São José dos Campos,Portuguesa,Ponte Preta,2015,Brazilian
+24,,Nathan,BRA,M,1.79,73,16-09-93,Varginha,Internacional,Ponte Preta,2015,Brazilian
+25,,Serrato,BRA,M,1.75,77,08-02-94,Curitiba,Paraná,Ponte Preta,2015,Brazilian
+26,,Alexandro,BRA,F,1.84,80,06-11-86,Cabo Frio,Penapolense,Ponte Preta,2015,Brazilian
+27,,Biro Biro,BRA,F,1.69,60,22-11-94,Rio de Janeiro,Fluminense,Ponte Preta,2015,Brazilian
+28,,Borges,BRA,F,1.76,75,05-10-80,Salvador,Cruzeiro,Ponte Preta,2015,Brazilian
+29,,Cesinha,BRA,F,1.77,74,29-11-89,São José do Rio Preto,Bragantino,Ponte Preta,2015,Brazilian
+30,,Clayson,BRA,F,1.70,63,19-03-95,Botucatu,Ituano,Ponte Preta,2015,Brazilian
+31,,Felipe Azevedo,BRA,F,1.74,74,10-01-87,Ubatuba,Sport Recife,Ponte Preta,2015,Brazilian
+32,,Keno,BRA,F,1.74,69,10-09-89,Salvador,São José,Ponte Preta,2015,Brazilian
+33,,Leandrinho,BRA,F,1.73,66,11-10-98,Ribeirão Claro,Ituano,Ponte Preta,2015,Brazilian
+34,,Vitor Xavier,BRA,F,1.78,73,27-03-94,Mogi Guaçu,None,Ponte Preta,2015,Brazilian
+1,1,Vanderlei,BRA,G,1.95,86,01-02-84,Porecatu,Coritiba,Santos,2015,Brazilian
+2,2,Werley,BRA,D,1.84,81,05-09-88,Oliveira,Grêmio,Santos,2015,Brazilian
+3,3,Caju,BRA,D,1.85,70,17-07-95,Irecê,None,Santos,2015,Brazilian
+4,4,Victor Ferraz,BRA,D,1.74,74,14-01-88,João Pessoa,Coritiba,Santos,2015,Brazilian
+5,5,Alison,BRA,M,1.80,70,01-03-93,Mongaguá,None,Santos,2015,Brazilian
+6,6,Gustavo Henrique,BRA,D,1.93,84,24-03-93,São Paulo,None,Santos,2015,Brazilian
+7,7,Leandro,BRA,F,1.77,71,12-05-93,Brasília,Palmeiras,Santos,2015,Brazilian
+8,8,Renato,BRA,M,1.77,71,15-05-79,Santa Mercedes,Botafogo,Santos,2015,Brazilian
+9,9,Ricardo Oliveira,BRA,F,1.83,81,06-05-80,São Paulo,Al-Wasl,Santos,2015,Brazilian
+10,10,Gabriel Barbosa,BRA,F,1.78,68,30-08-96,São Bernardo do Campo,None,Santos,2015,Brazilian
+11,11,Geuvânio,BRA,F,1.75,62,05-04-92,Ilha das Flores,None,Santos,2015,Brazilian
+12,12,Vladimir,BRA,G,1.90,84,16-07-89,Ipiaú,None,Santos,2015,Brazilian
+14,14,David Braz,BRA,D,1.87,82,21-05-87,Guarulhos,Flamengo,Santos,2015,Brazilian
+15,15,Edwin Valencia,COL,M,1.81,85,29-03-85,Florida Valle,Fluminense,Santos,2015,Brazilian
+16,16,Fernando Medeiros,BRA,M,1.81,79,02-10-96,Santos,None,Santos,2015,Brazilian
+17,17,Rafael Longuine,BRA,M,1.73,67,30-05-90,Paranavaí,Audax-SP,Santos,2015,Brazilian
+18,18,Vitor Bueno,BRA,M,1.83,79,05-09-94,Monte Alto,Botafogo-SP,Santos,2015,Brazilian
+19,19,Marquinhos,BRA,M,1.70,68,15-06-89,Rio de Janeiro,Audax-SP,Santos,2015,Brazilian
+20,20,Lucas Lima,BRA,M,1.75,69,09-07-90,Marília,Internacional,Santos,2015,Brazilian
+21,21,Leandrinho,BRA,M,1.78,70,25-09-93,Espinosa,None,Santos,2015,Brazilian
+23,23,Chiquinho,BRA,M,1.70,70,27-01-89,Caxias,Fluminense,Santos,2015,Brazilian
+24,24,Cristian Ledesma,ITA,M,1.80,78,24-09-82,Morón,Lazio,Santos,2015,Brazilian
+25,25,Lucas Otávio,BRA,M,1.64,61,09-10-94,Bandeirantes,None,Santos,2015,Brazilian
+27,27,Léo Cittadini,BRA,M,1.78,70,27-02-94,Rio Claro,Guarani,Santos,2015,Brazilian
+29,29,Thiago Maia,BRA,M,1.79,64,23-03-97,Boa Vista,São Caetano,Santos,2015,Brazilian
+31,31,Marquinhos,BRA,F,1.74,69,21-07-90,Selbach,Al-Nassr,Santos,2015,Brazilian
+32,32,Paulo Ricardo,BRA,D,1.86,80,13-07-94,Laguna,None,Santos,2015,Brazilian
+33,33,Gabriel Gasparotto,BRA,G,1.96,99,09-12-93,Lucélia,None,Santos,2015,Brazilian
+34,34,João Paulo,BRA,G,1.87,86,29-06-95,Dourados,None,Santos,2015,Brazilian
+35,35,Diogo,BRA,M,1.70,63,11-02-97,Três Pontas,None,Santos,2015,Brazilian
+37,37,Zeca,BRA,D,1.69,66,16-05-94,Paranavaí,None,Santos,2015,Brazilian
+38,38,Daniel Guedes,BRA,D,1.80,69,02-04-94,São Paulo,None,Santos,2015,Brazilian
+39,39,Nilson,BRA,F,1.86,75,06-04-91,São Paulo,Cianorte,Santos,2015,Brazilian
+40,40,Neto Berola,BRA,F,1.71,66,18-11-87,Itabuna,Atlético Mineiro,Santos,2015,Brazilian
+41,41,Serginho,BRA,M,1.80,82,15-03-95,Monte Aprazível,São Paulo,Santos,2015,Brazilian
+42,44,Leonardo,BRA,D,1.88,72,09-03-86,Guarulhos,Ituano,Santos,2015,Brazilian
+1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,Săo Paulo,2015,Brazilian
+3,3,Rodrigo Caio,BRA,D,1.82,70,17-08-93,Dracena,None,Săo Paulo,2015,Brazilian
+4,4,Matheus Reis,BRA,D,1.83,79,18-02-95,São João da Boa Vista,None,Săo Paulo,2015,Brazilian
+6,6,Carlinhos,BRA,D,1.76,72,23-01-87,Vitória da Conquista,Fluminense,Săo Paulo,2015,Brazilian
+7,7,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Al-Ain,Săo Paulo,2015,Brazilian
+9,9,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas,Sevilla,Săo Paulo,2015,Brazilian
+10,10,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,Santos,Săo Paulo,2015,Brazilian
+11,11,Alexandre Pato,BRA,F,1.79,71,02-09-89,Pato Branco,Corinthians,Săo Paulo,2015,Brazilian
+12,12,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,Săo Paulo,2015,Brazilian
+13,13,Wilder Guisao,COL,F,1.77,75,30-07-91,Apartadó,Toluca,Săo Paulo,2015,Brazilian
+14,14,Alan Kardec,BRA,F,1.85,78,12-01-89,Barra Mansa,Benfica,Săo Paulo,2015,Brazilian
+16,16,Reinaldo,BRA,D,1.78,74,28-09-89,Porto Calvo,Penapolense,Săo Paulo,2015,Brazilian
+17,17,Rogério,BRA,F,1.74,66,24-12-90,Pesqueira,Náutico,Săo Paulo,2015,Brazilian
+19,19,Wesley,BRA,M,1.79,63,24-06-87,Catanduva,Palmeiras,Săo Paulo,2015,Brazilian
+20,20,Ricardo Centurión,ARG,M,1.74,65,19-01-93,Avellaneda,Racing Club,Săo Paulo,2015,Brazilian
+21,21,Édson Silva,BRA,D,1.87,92,09-05-86,Palmares,Villa Rio,Săo Paulo,2015,Brazilian
+22,22,Bruno Vieira,BRA,D,1.78,69,30-08-85,Mato Grosso,Fluminense,Săo Paulo,2015,Brazilian
+23,23,Thiago Mendes,BRA,M,1.76,73,15-03-92,São Luís,Goiás,Săo Paulo,2015,Brazilian
+25,25,Hudson,BRA,M,1.79,68,30-01-88,Juiz de Fora,Botafogo-SP,Săo Paulo,2015,Brazilian
+26,26,Luiz Eduardo,BRA,D,1.91,83,21-03-87,Uberlândia,São Caetano,Săo Paulo,2015,Brazilian
+27,27,Auro,BRA,D,1.68,65,23-01-96,Jaú,None,Săo Paulo,2015,Brazilian
+28,28,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,Atlético Mineiro,Săo Paulo,2015,Brazilian
+29,29,Daniel,BRA,M,1.72,66,22-01-94,Juiz de Fora,Botafogo,Săo Paulo,2015,Brazilian
+30,30,Lucão,BRA,D,1.85,78,23-03-96,Brasília,None,Săo Paulo,2015,Brazilian
+33,33,Breno,BRA,D,1.87,83,13-10-89,Cruzeiro,Bayern Munich,Săo Paulo,2015,Brazilian
+34,34,Lyanco,BRA,D,1.87,84,01-02-97,Vitória,None,Săo Paulo,2015,Brazilian
+36,36,João Schmidt,BRA,M,1.83,82,19-05-93,São Paulo,None,Săo Paulo,2015,Brazilian
+37,37,João Paulo,BRA,F,1.78,77,28-11-96,Tietê,None,Săo Paulo,2015,Brazilian
+38,38,Jeferson Lima,BRA,M,,,02-07-97,,None,Săo Paulo,2015,Brazilian
+39,39,Murilo,BRA,F,,,22-10-97,,None,Săo Paulo,2015,Brazilian
+40,40,Léo,BRA,G,1.93,77,22-09-90,Suzano,None,Săo Paulo,2015,Brazilian
+41,41,Lucas Perri,BRA,G,1.96,95,10-12-97,Campinas,None,Săo Paulo,2015,Brazilian
+1,1,Magrão,BRA,G,1.87,79,09-04-77,São Paulo,Rio Branco-SP,Sport Recife,2015,Brazilian
+3,3,Ewerton Páscoa,BRA,D,1.90,78,14-03-89,São Paulo,Audax-SP,Sport Recife,2015,Brazilian
+4,4,Durval,BRA,D,1.84,82,11-07-80,Espurito Santo,Santos,Sport Recife,2015,Brazilian
+5,5,Rodrigo Mancha,BRA,M,1.86,80,16-06-86,Curitiba,Oita Trinita,Sport Recife,2015,Brazilian
+6,6,Renê,BRA,D,1.74,72,14-09-92,Picos,None,Sport Recife,2015,Brazilian
+7,7,Élber,BRA,M,1.70,63,27-05-92,Passo de Camaragibe,Cruzeiro,Sport Recife,2015,Brazilian
+8,8,Marlone,BRA,M,1.80,78,02-04-92,Augustinópolis,Penapolense,Sport Recife,2015,Brazilian
+9,9,Hernane,BRA,F,1.83,80,04-08-86,Bom Jesus da Lapa,Mirassol,Sport Recife,2015,Brazilian
+10,10,Régis,BRA,M,1.70,72,30-11-92,Jales,Chapecoense,Sport Recife,2015,Brazilian
+11,11,Maikon Leite,BRA,F,1.68,62,03-08-88,Mogi das Cruzes,Palmeiras,Sport Recife,2015,Brazilian
+12,12,Danilo Fernandes,BRA,G,1.89,84,03-04-88,Guarulhos,Corinthians,Sport Recife,2015,Brazilian
+14,14,Danilo,BRA,D,1.86,75,17-08-91,Coronel Fabriciano,América Mineiro,Sport Recife,2015,Brazilian
+16,16,Matheus Ferraz,BRA,D,1.90,82,12-02-85,São José do Rio Pardo,Boa,Sport Recife,2015,Brazilian
+17,17,Wendel,BRA,M,1.84,71,08-04-82,Mariana,Vasco da Gama,Sport Recife,2015,Brazilian
+18,18,Matheus Galdezani,BRA,M,1.77,74,13-03-92,Limeira,Mirassol,Sport Recife,2015,Brazilian
+19,19,Samuel,BRA,F,1.85,83,25-02-91,São Borja,Fluminense,Sport Recife,2015,Brazilian
+20,20,Mike,BRA,F,1.75,64,08-03-93,Suzano,Internacional,Sport Recife,2015,Brazilian
+21,21,Rithely,BRA,M,1.74,73,27-01-91,São Luís,Goiás,Sport Recife,2015,Brazilian
+22,22,Oswaldo,BRA,D,1.88,78,27-12-92,Olinda,None,Sport Recife,2015,Brazilian
+23,23,Luiz Carlos,BRA,G,1.91,87,24-05-88,Porto Alegre,Internacional,Sport Recife,2015,Brazilian
+25,25,Neto Moura,BRA,M,1.77,70,06-08-96,Atalaia,None,Sport Recife,2015,Brazilian
+27,27,Samuel Xavier,BRA,D,1.66,67,06-06-90,São Paulo,Ceará,Sport Recife,2015,Brazilian
+29,29,Ronaldo,BRA,M,1.80,73,27-06-94,Recife,None,Sport Recife,2015,Brazilian
+30,30,Fábio Matos,BRA,M,1.75,67,31-01-96,Recife,None,Sport Recife,2015,Brazilian
+31,31,Anderson,BRA,M,,,14-08-96,,None,Sport Recife,2015,Brazilian
+32,32,Evandro,BRA,D,1.70,66,06-01-97,Recife,None,Sport Recife,2015,Brazilian
+33,33,Henrique Mattos,BRA,D,1.91,82,25-07-90,Ribeirão Preto,Botafogo-SP,Sport Recife,2015,Brazilian
+34,34,Adryelson,BRA,D,1.82,74,23-03-98,Recife,None,Sport Recife,2015,Brazilian
+35,35,Italo,BRA,M,,,03-01-95,,None,Sport Recife,2015,Brazilian
+36,36,Kelvenny,BRA,F,,,27-06-98,,None,Sport Recife,2015,Brazilian
+37,37,James Dean,BRA,F,1.69,60,22-07-97,Maceió,Corinthians Alagoano,Sport Recife,2015,Brazilian
+38,38,Alison,BRA,M,,,01-04-98,,None,Sport Recife,2015,Brazilian
+41,41,Wallace,BRA,F,1.80,70,17-07-97,São Luís,None,Sport Recife,2015,Brazilian
+42,77,Ferrugem,BRA,D,1.82,67,28-03-88,Pedro Canário,Ponte Preta,Sport Recife,2015,Brazilian
+43,87,Diego Souza,BRA,M,1.86,89,17-06-85,Rio de Janeiro,Metalist Kharkiv,Sport Recife,2015,Brazilian
+44,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Atlético Mineiro,Sport Recife,2015,Brazilian
+1,,Charles,BRA,G,1.85,81,04-02-94,Belo Horizonte,Cruzeiro,Vasco da Gama,2015,Brazilian
+2,,Jordi,BRA,G,1.91,81,03-09-93,Volta Redonda,None,Vasco da Gama,2015,Brazilian
+3,,Martín Silva,URU,G,1.86,80,25-03-83,Montevideo,Olimpia [PAR],Vasco da Gama,2015,Brazilian
+4,,Aislan,BRA,D,1.97,90,11-01-88,Bahia,Madureira,Vasco da Gama,2015,Brazilian
+5,,Anderson Salles,BRA,D,1.78,73,16-02-88,Araçariguama,Ituano,Vasco da Gama,2015,Brazilian
+6,,Bruno Ferreira,BRA,D,1.80,70,14-09-94,São Paulo,Portuguesa,Vasco da Gama,2015,Brazilian
+7,,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Krylia Sovetov,Vasco da Gama,2015,Brazilian
+8,,Christianno,BRA,D,1.85,78,29-10-91,Rio de Janeiro,Bangu,Vasco da Gama,2015,Brazilian
+9,,Henrique Silva,BRA,D,1.73,72,25-04-94,Rio de Janeiro,None,Vasco da Gama,2015,Brazilian
+10,,João Carlos,BRA,D,1.89,85,01-01-82,Realengo,Spartak Moscow,Vasco da Gama,2015,Brazilian
+11,,Jomar,BRA,D,1.85,78,28-09-92,Rio de Janeiro,Tigres do Brasil,Vasco da Gama,2015,Brazilian
+12,,Júlio César,BRA,D,1.73,70,15-06-82,São Paulo,Botafogo,Vasco da Gama,2015,Brazilian
+13,,Lorran,BRA,D,1.71,65,28-01-96,Armação dos Búzios,None,Vasco da Gama,2015,Brazilian
+14,,Luan,BRA,D,1.83,79,10-05-93,Vitória,None,Vasco da Gama,2015,Brazilian
+15,,Madson,BRA,D,1.82,67,13-01-92,Salvador,Bahia,Vasco da Gama,2015,Brazilian
+16,,Nei,BRA,D,1.77,75,06-12-85,Bragança Paulista,Internacional,Vasco da Gama,2015,Brazilian
+17,,Rafael Vaz,BRA,D,1.88,76,17-09-88,São Paulo,Ceará,Vasco da Gama,2015,Brazilian
+18,,Rodrigo,BRA,D,1.82,84,27-08-80,Lençóis Paulista,Goiás,Vasco da Gama,2015,Brazilian
+19,,Andrezinho,BRA,M,1.78,68,30-07-83,Campinas,Tianjin Teda,Vasco da Gama,2015,Brazilian
+20,,Bruno Gallo,BRA,M,1.79,74,07-05-88,Niterói,Marítimo,Vasco da Gama,2015,Brazilian
+21,,Emanuel Biancucchi,ARG,M,1.77,65,28-07-88,Rosario,Bahia,Vasco da Gama,2015,Brazilian
+22,,Diguinho,BRA,M,1.71,69,20-03-83,Canoas,Fluminense,Vasco da Gama,2015,Brazilian
+23,,Julio dos Santos,PAR,M,1.86,88,07-05-83,Asunción,Cerro Porteño,Vasco da Gama,2015,Brazilian
+24,,Pablo Guiñazú,ARG,M,1.72,71,26-08-78,General Cabrera,Libertad,Vasco da Gama,2015,Brazilian
+25,,Jean Patrick,BRA,M,1.72,72,25-06-92,São Miguel do Iguaçu,Luverdense,Vasco da Gama,2015,Brazilian
+26,,Jéferson,BRA,M,1.80,76,15-07-84,Brasília,Boavista-RJ,Vasco da Gama,2015,Brazilian
+27,,Lucas,BRA,M,1.81,70,23-09-88,Bom Jardim,Friburgense,Vasco da Gama,2015,Brazilian
+28,,Matheus Índio,BRA,M,1.70,70,28-02-96,Rio de Janeiro,None,Vasco da Gama,2015,Brazilian
+29,,Nenê,BRA,M,1.81,72,19-07-81,Jundiaí,West Ham U,Vasco da Gama,2015,Brazilian
+30,,Serginho Mineiro,BRA,M,1.78,70,04-08-86,Contagem,Atlético Mineiro,Vasco da Gama,2015,Brazilian
+31,,Felipe Seymour,CHI,M,1.74,75,23-07-87,Pirque,Cruzeiro,Vasco da Gama,2015,Brazilian
+32,,Dagoberto,BRA,F,1.75,75,22-03-83,Dois Vizinhos,Cruzeiro,Vasco da Gama,2015,Brazilian
+33,,Duvier Riascos,COL,F,1.80,73,26-06-86,Buenaventura,Cruzeiro,Vasco da Gama,2015,Brazilian
+34,,Éder Luís,BRA,F,1.70,69,19-04-85,Uberaba,Benfica,Vasco da Gama,2015,Brazilian
+35,,Jorge Henrique,BRA,F,1.69,69,23-04-82,Resende,Internacional,Vasco da Gama,2015,Brazilian
+36,,Germán Herrera,ARG,F,1.80,80,19-07-83,Santa Fe,Emirates Club,Vasco da Gama,2015,Brazilian
+37,,Leandrão,BRA,F,1.89,87,18-07-83,Uberlândia,Brasil de Pelotas,Vasco da Gama,2015,Brazilian
+38,,Rafael Silva,BRA,F,1.76,68,08-10-90,Feira de Santana,Ituano,Vasco da Gama,2015,Brazilian
+39,,Renato Kayser,BRA,F,1.78,68,17-02-96,Jotaesse,Desportivo Brasil,Vasco da Gama,2015,Brazilian
+40,,Romarinho,BRA,F,1.76,70,20-09-93,Barcelona,None,Vasco da Gama,2015,Brazilian
+41,,Thalles,BRA,F,1.85,77,18-05-95,Rio de Janeiro,None,Vasco da Gama,2015,Brazilian

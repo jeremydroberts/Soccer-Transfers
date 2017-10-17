@@ -1,0 +1,429 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Pāvels teinbors,LVA,G,1.91,81,21-09-85,Riga,Nea Salamis,Arka Gdynia,2016,Polish
+2,2,Tadeusz Socha,POL,D,1.82,63,15-02-88,Wrocław,Bytovia Bytów,Arka Gdynia,2016,Polish
+3,3,Krzysztof Sobieraj,POL,D,1.89,87,25-08-81,Kielce,Warta Poznań,Arka Gdynia,2016,Polish
+4,4,Dawid Sołdecki,POL,D,1.85,78,29-04-87,Krasnystaw,TBB Nieciecza,Arka Gdynia,2016,Polish
+6,6,Antoni Łukasiewicz,POL,M,1.88,80,26-06-83,Warsaw,Górnik Zabrze,Arka Gdynia,2016,Polish
+7,7,Adrian Błąd,POL,M,1.65,62,16-04-91,Lubin,Zagłębie Lubin,Arka Gdynia,2016,Polish
+8,8,Marcus Vinícius,BRA,M,1.82,67,29-03-84,Belford Roxo,Orkan Rumia,Arka Gdynia,2016,Polish
+9,9,Paweł Abbott,POL,F,1.87,87,05-05-82,York,Zawisza Bydgoszcz,Arka Gdynia,2016,Polish
+10,10,Mateusz Szwoch,POL,M,1.73,60,19-03-93,Starogard Gdański,Legia Warszawa,Arka Gdynia,2016,Polish
+11,11,Rafał Siemaszko,POL,F,1.70,68,11-09-86,Wejherowo,Chojniczanka Chojnice,Arka Gdynia,2016,Polish
+13,13,Konrad Jałocha,POL,G,2.00,85,09-05-91,Warsaw,Legia Warszawa,Arka Gdynia,2016,Polish
+14,14,Michał Nalepa,POL,M,1.70,74,24-03-95,Wejherowo,Jedynka Reda,Arka Gdynia,2016,Polish
+17,17,Adam Marciniak,POL,D,1.86,78,28-09-88,Łódź,AEK Larnaca,Arka Gdynia,2016,Polish
+19,19,Miroslav Bożok,SVK,M,1.76,69,19-10-84,Michalovce,Górnik Łęczna,Arka Gdynia,2016,Polish
+20,20,Dominik Hofbauer,AUT,M,1.82,79,19-09-90,Eggenburg,Rheindorf Altach,Arka Gdynia,2016,Polish
+21,21,Yannick Kakoko,GER,M,1.75,64,26-01-90,Saarbrücken,Miedź Legnica,Arka Gdynia,2016,Polish
+23,23,Marcin Warcholak,POL,D,1.82,81,08-08-89,Wschowa,Stomil Olsztyn,Arka Gdynia,2016,Polish
+26,26,Przemysław Trytko,POL,F,1.89,83,28-08-87,Strzelce Opolskie,Atyrau,Arka Gdynia,2016,Polish
+29,29,Michał Marcjanik,POL,D,1.86,79,15-12-94,Gdynia,None,Arka Gdynia,2016,Polish
+30,30,Arkadiusz Moczadło,POL,G,1.82,78,13-03-97,Chojnice,Chojniczanka Chojnice,Arka Gdynia,2016,Polish
+32,32,Przemysław Stolc,POL,D,1.86,76,03-07-94,Gdynia,UKS Cisowa,Arka Gdynia,2016,Polish
+33,33,Damian Zbozień,POL,D,1.86,80,25-04-89,Limanowa,Zagłębie Lubin,Arka Gdynia,2016,Polish
+41,45,Luka Zarandia,GEO,M,1.79,74,17-02-96,Tbilisi,Lokomotivi Tbilisi,Arka Gdynia,2016,Polish
+42,77,Dariusz Formella,POL,M,1.77,74,21-10-95,Gdynia,Lech Poznań,Arka Gdynia,2016,Polish
+43,90,Josip Bariić,CRO,F,1.86,80,14-11-86,Osijek,Piast Gliwice,Arka Gdynia,2016,Polish
+1,1,Krzysztof Baran,POL,G,1.95,92,12-02-90,Tomaszów Mazowiecki,Jagiellonia Białystok,Bruk-Bet Termalica Nieciecza,2016,Polish
+3,3,Adrian Pikul,POL,M,1.78,75,13-01-96,Dąbrowa Tarnowska,LZS Luszowice,Bruk-Bet Termalica Nieciecza,2016,Polish
+5,5,Sebastian Ziajka,POL,D,1.82,75,15-12-82,Kostrzyn nad Odrą,Zawisza Bydgoszcz,Bruk-Bet Termalica Nieciecza,2016,Polish
+6,6,Bartłomiej Babiarz,POL,M,1.68,61,03-02-89,Katowice,Ruch Chorzów,Bruk-Bet Termalica Nieciecza,2016,Polish
+7,7,Samuel tefánik,SVK,M,1.78,74,16-11-91,Bánovce nad Bebravou,Slovan Bratislava,Bruk-Bet Termalica Nieciecza,2016,Polish
+8,8,Patryk Fryc,POL,D,1.76,71,24-02-93,Krosno,Wisła Kraków,Bruk-Bet Termalica Nieciecza,2016,Polish
+9,9,Bartłomiej Smuczyński,POL,M,1.75,69,25-08-95,Skarszewy,Lechia Gdańsk,Bruk-Bet Termalica Nieciecza,2016,Polish
+10,10,Roman Gergel,SVK,M,1.80,77,22-02-88,Banovce,Górnik Zabrze,Bruk-Bet Termalica Nieciecza,2016,Polish
+11,11,Patrik Miák,SVK,M,1.84,75,29-03-91,Trenčín,Baník Ostrava,Bruk-Bet Termalica Nieciecza,2016,Polish
+12,12,Dariusz Trela,POL,G,1.83,83,05-12-89,Kraków,Lechia Gdańsk,Bruk-Bet Termalica Nieciecza,2016,Polish
+14,14,Jakub Wróbel,POL,D,1.78,74,30-07-93,Dąbrowa Tarnowska,Unia Tarnów,Bruk-Bet Termalica Nieciecza,2016,Polish
+15,15,Kornel Osyra,POL,D,1.90,75,07-02-93,Brzeg Dolny,Piast Gliwice,Bruk-Bet Termalica Nieciecza,2016,Polish
+16,16,Martin Mikovič,SVK,M,1.68,67,12-09-90,Trnava,Spartak Trnava,Bruk-Bet Termalica Nieciecza,2016,Polish
+17,17,Dalibor Pleva,SVK,M,1.81,69,02-04-84,Trenčín,Dukla Banská Bystrica,Bruk-Bet Termalica Nieciecza,2016,Polish
+19,19,Dávid Guba,SVK,M,1.81,79,29-06-91,Humenné,AS Trenčín,Bruk-Bet Termalica Nieciecza,2016,Polish
+20,20,Dawid Nowak,POL,F,1.78,68,30-11-84,Hrubieszów,Cracovia Kraków,Bruk-Bet Termalica Nieciecza,2016,Polish
+21,21,Vladislavs Gutkovskis,LTU,F,1.87,82,02-04-95,Riga,Skonto,Bruk-Bet Termalica Nieciecza,2016,Polish
+22,22,Guilherme Sityá,BRA,D,1.79,76,01-04-90,Porto Alegre,Steaua București,Bruk-Bet Termalica Nieciecza,2016,Polish
+23,23,Szczepan Kogut,POL,M,1.80,78,11-01-96,Tarnów,Dąbrovia Dąbrowa Tarnowska,Bruk-Bet Termalica Nieciecza,2016,Polish
+24,24,Wojciech Kędziora,POL,F,1.87,93,20-12-80,Gliwice,Piast Gliwice,Bruk-Bet Termalica Nieciecza,2016,Polish
+25,25,Mateusz Kupczak,POL,M,1.87,76,20-02-92,Żywiec,Podbeskidzie Bielsko-Biała,Bruk-Bet Termalica Nieciecza,2016,Polish
+26,26,Krzysztof Miroszka,POL,M,1.73,68,31-10-98,Dąbrowa Tarnowska,None,Bruk-Bet Termalica Nieciecza,2016,Polish
+27,27,Piotr Nowak,POL,M,1.75,67,06-03-98,Busko Zdrój,None,Bruk-Bet Termalica Nieciecza,2016,Polish
+28,28,Vlastimir Jovanović,BIH,M,1.82,77,03-04-85,Zenica,Korona Kielce,Bruk-Bet Termalica Nieciecza,2016,Polish
+33,33,Krystian Peda,POL,M,1.74,69,05-09-97,Police,Pogoń Szczecin,Bruk-Bet Termalica Nieciecza,2016,Polish
+41,77,Artem Putivtsev,UKR,D,1.86,79,29-08-88,Kharkiv,Metalist Kharkiv,Bruk-Bet Termalica Nieciecza,2016,Polish
+42,80,Krzysztof Pilarz,POL,G,1.84,78,09-11-80,Nowy Dwór Gdański,Cracovia Kraków,Bruk-Bet Termalica Nieciecza,2016,Polish
+43,88,Volodymyr Koval,UKR,M,1.78,72,06-03-92,Kyiv,Stomil Olsztyn,Bruk-Bet Termalica Nieciecza,2016,Polish
+44,96,Przemysław Szarek,POL,D,1.85,80,22-04-96,Nowy Sącz,Sandecja Nowy Sącz,Bruk-Bet Termalica Nieciecza,2016,Polish
+2,2,Tomasz Brzyski,POL,D,1.72,69,10-01-82,Lublin,Legia Warszawa,Cracovia Kraków,2016,Polish
+4,4,Róbert Litauszki,HUN,D,1.87,80,15-03-90,Budapest,Újpest,Cracovia Kraków,2016,Polish
+5,5,Miroslav Čovilo,BIH,M,1.77,66,06-05-86,Hrasnica,Koper,Cracovia Kraków,2016,Polish
+6,6,Mateusz Jarzynka,POL,D,1.86,75,03-06-98,Biała Podlaska,TOP 54 Biała Podlaska,Cracovia Kraków,2016,Polish
+7,7,Jakub Wójcicki,POL,D,1.90,80,09-07-88,Warsaw,Zawisza Bydgoszcz,Cracovia Kraków,2016,Polish
+8,8,Milan Dimun,SVK,M,1.86,76,19-09-96,Koice,MFK Koice,Cracovia Kraków,2016,Polish
+9,9,Tomá Vestenický,SVK,F,1.75,75,06-04-96,Topoľčany,Roma,Cracovia Kraków,2016,Polish
+10,10,Mateusz Cetnarski,POL,M,1.75,71,06-07-88,Kolbuszowa,Widzew Łódź,Cracovia Kraków,2016,Polish
+13,13,Radosław Kanach,POL,M,1.81,73,03-04-99,Rzeszów,Stal Rzeszów,Cracovia Kraków,2016,Polish
+14,14,Damian Dąbrowski,POL,M,1.69,68,27-08-92,Kamienna Góra,Zagłębie Lubin,Cracovia Kraków,2016,Polish
+17,17,Sebastian Steblecki,POL,M,1.86,70,16-01-92,Kraków,Górnik Zabrze,Cracovia Kraków,2016,Polish
+18,18,Hubert Adamczyk,POL,M,1.74,69,23-02-98,Bydgoszcz,Chelsea,Cracovia Kraków,2016,Polish
+19,19,Krystian Stępniowski,POL,G,1.91,80,05-12-92,Kraków,Puszcza Niepołomice,Cracovia Kraków,2016,Polish
+20,20,Mateusz Szczepaniak,POL,F,1.84,73,23-01-91,Lubin,Miedź Legnica,Cracovia Kraków,2016,Polish
+21,21,Hubert Wołąkiewicz,POL,D,1.82,70,21-10-85,Skarżysko-Kamienna,Astra Giurgiu,Cracovia Kraków,2016,Polish
+22,22,Piotr Malarczyk,POL,D,1.89,74,01-08-91,Kielce,Ipswich T,Cracovia Kraków,2016,Polish
+23,23,Jaroslav Mihalík,SVK,M,1.80,77,27-07-94,Spiská Nová Ves,Slavia Prague,Cracovia Kraków,2016,Polish
+24,24,Piotr Polczak,POL,D,1.92,75,25-09-86,Kraków,Volga Nizhny Novgorod,Cracovia Kraków,2016,Polish
+26,26,Deleu,BRA,D,1.76,77,01-03-84,Penedo,Lechia Gdańsk,Cracovia Kraków,2016,Polish
+27,27,Marcin Budziński,POL,M,1.84,80,06-07-90,Giżycko,Arka Gdynia,Cracovia Kraków,2016,Polish
+29,29,Grzegorz Sandomierski,POL,G,1.96,87,05-09-89,Białystok,Zawisza Bydgoszcz,Cracovia Kraków,2016,Polish
+33,33,Kamil Pestka,POL,D,1.87,76,22-08-98,Kraków,Progres Kraków,Cracovia Kraków,2016,Polish
+40,40,Rafał Dobroliński,POL,G,1.94,81,13-09-88,Żagań,GKS Katowice,Cracovia Kraków,2016,Polish
+41,44,Paweł Jaroszyński,POL,D,1.84,77,02-10-94,Lublin,Bogdanka Łęczna,Cracovia Kraków,2016,Polish
+42,62,Erik Jendriek,SVK,F,1.76,74,26-10-86,Trstená,Spartak Trnava,Cracovia Kraków,2016,Polish
+43,74,Przemysław Pyrdek,POL,F,1.75,72,12-07-96,Rzeszów,CWKS Resovia,Cracovia Kraków,2016,Polish
+44,87,Diego Ferraresso,BRA,D,1.71,71,21-05-92,Serra Negra,Slavia Sofia,Cracovia Kraków,2016,Polish
+45,99,Krzysztof Piątek,POL,F,1.83,76,01-07-95,Dzierżoniów,Zagłębie Lubin,Cracovia Kraków,2016,Polish
+1,1,Wojciech Małecki,POL,G,1.88,83,11-10-90,Elbląg,Kotwica Kołobrzeg,Górnik Łęczna,2016,Polish
+2,2,Leandro Messias,BRA,D,1.82,76,29-12-83,Rio de Janeiro,Korona Kielce,Górnik Łęczna,2016,Polish
+3,3,Aleksander Komor,POL,D,1.90,82,24-06-94,Lublin,Motor Lublin,Górnik Łęczna,2016,Polish
+4,4,Gerson,BRA,M,1.86,85,07-01-92,Rio de Janeiro,Lechia Gdańsk,Górnik Łęczna,2016,Polish
+5,5,Łukasz Tymiński,POL,M,1.73,67,08-11-90,Żywiec,Jagiellonia Białystok,Górnik Łęczna,2016,Polish
+6,6,Paweł Sasin,POL,D,1.77,68,02-10-83,Radom,Dolcan Ząbki,Górnik Łęczna,2016,Polish
+7,7,Dragomir Vukobratović,SRB,M,1.81,71,12-05-88,Novi Sad,OFK Belgrade,Górnik Łęczna,2016,Polish
+8,8,Grzegorz Piesio,POL,M,1.85,81,17-07-88,Garwolin,Dolcan Ząbki,Górnik Łęczna,2016,Polish
+9,9,Piotr Grzelczak,POL,F,1.86,82,02-03-88,Łódź,Jagiellonia Białystok,Górnik Łęczna,2016,Polish
+10,10,Javi Hernández,ESP,F,1.84,77,06-06-89,Salamanca,ACS Poli Timișoara,Górnik Łęczna,2016,Polish
+11,11,Slaven Juria,CRO,M,1.75,64,18-01-92,Pančevo,Dinamo Pančevo,Górnik Łęczna,2016,Polish
+12,12,Nika Dzalamidze,GEO,M,1.73,70,06-12-92,Tbilisi,Rizespor,Górnik Łęczna,2016,Polish
+13,13,Josimar Atoche,PER,M,1.76,81,29-09-89,Callao,Alianza Lima,Górnik Łęczna,2016,Polish
+14,14,Gabriel Matei,ROU,D,1.74,66,26-02-90,Curtea de Argeş,ASA Târgu Mureș,Górnik Łęczna,2016,Polish
+15,15,Grzegorz Bonin,POL,M,1.88,78,02-12-83,Tczew,Górnik Zabrze,Górnik Łęczna,2016,Polish
+16,16,Adam Dźwigała,POL,D,1.82,72,25-09-95,Warsaw,Lechia Gdańsk,Górnik Łęczna,2016,Polish
+18,18,Bartosz Śpiączka,POL,F,1.84,70,19-08-91,,Podbeskidzie Bielsko-Biała,Górnik Łęczna,2016,Polish
+19,19,Vojo Ubiparip,SRB,F,1.80,72,10-05-88,Novi Sad,Novi Pazar,Górnik Łęczna,2016,Polish
+20,20,Kamil Poźniak,POL,M,1.82,70,11-12-89,Krasnystaw,GKS Bełchatów,Górnik Łęczna,2016,Polish
+21,21,Dariusz Jarecki,POL,D,1.82,72,23-03-81,Barlinek,TBB Nieciecza,Górnik Łęczna,2016,Polish
+22,22,Łukasz Mierzejewski,POL,M,1.82,76,31-08-82,Ciechanów,Rijeka,Górnik Łęczna,2016,Polish
+23,23,Maciej Szmatiuk,POL,D,1.90,83,09-05-80,Gliwice,GKS Bełchatów,Górnik Łęczna,2016,Polish
+25,25,Szymon Drewniak,POL,M,1.79,70,11-07-93,Poznań,Lech Poznań,Górnik Łęczna,2016,Polish
+30,30,Dawid Smug,POL,G,1.94,85,14-01-94,Konin,Miedź Legnica,Górnik Łęczna,2016,Polish
+41,45,Przemysław Pitry,POL,F,1.85,81,11-09-81,Pszczyna,GKS Katowice,Górnik Łęczna,2016,Polish
+42,77,Krzysztof Danielewicz,POL,M,1.82,75,26-07-91,Wrocław,Śląsk Wrocław,Górnik Łęczna,2016,Polish
+43,79,Sergiusz Prusak,POL,G,1.93,93,01-05-79,Pleszew,Flota Świnoujście,Górnik Łęczna,2016,Polish
+44,,Stefan Akovski,MKD,D,1.79,63,24-02-92,Skopje,Fortuna Sittard,Górnik Łęczna,2016,Polish
+2,2,Ziggy Gordon,SCO,D,1.80,77,23-04-93,Glasgow,Partick Thistle,Jagiellonia Białystok,2016,Polish
+3,3,Jonatan Straus,POL,D,1.82,71,30-06-94,Nowe Miasto Lubawskie,Warmia Olsztyn,Jagiellonia Białystok,2016,Polish
+4,4,Jacek Góralski,POL,M,1.72,66,21-09-92,Bydgoszcz,Wisła Płock,Jagiellonia Białystok,2016,Polish
+5,5,Konstantin Vassiljev,EST,M,1.73,69,16-08-84,Tallinn,Piast Gliwice,Jagiellonia Białystok,2016,Polish
+6,6,Taras Romanczuk,UKR,M,1.86,73,14-11-91,Kovel,Legionovia Legionowo,Jagiellonia Białystok,2016,Polish
+7,7,Dmytro Khomchenovskyy,UKR,M,1.80,72,16-04-90,Uhledar,Ponferradina,Jagiellonia Białystok,2016,Polish
+8,8,Łukasz Burliga,POL,D,1.86,78,15-05-88,Sucha Beskidzka,Wisła Kraków,Jagiellonia Białystok,2016,Polish
+9,9,Arvydas Novikovas,LTU,M,1.79,76,18-12-90,Vilnius,Bochum,Jagiellonia Białystok,2016,Polish
+10,10,Fedor Černych,LTU,F,1.82,75,21-05-91,Moscow,Górnik Łęczna,Jagiellonia Białystok,2016,Polish
+11,11,Karol Mackiewicz,POL,M,1.78,66,01-06-92,Białystok,Hetman Białystok,Jagiellonia Białystok,2016,Polish
+13,13,Przemysław Mystkowski,POL,M,1.74,62,25-04-98,Białystok,None,Jagiellonia Białystok,2016,Polish
+14,14,Marek Wasiluk,POL,D,1.97,88,03-06-87,Białystok,Widzew Łódź,Jagiellonia Białystok,2016,Polish
+16,16,Guti,BRA,D,1.87,83,29-06-91,São Bento do Sul,Joinville,Jagiellonia Białystok,2016,Polish
+17,17,Ivan Runje,CRO,D,1.92,76,09-10-90,Split,Omonia Nicosia,Jagiellonia Białystok,2016,Polish
+18,18,Cillian Sheridan,IRL,F,1.96,87,23-02-89,Bailieborough,Omonia Nicosia,Jagiellonia Białystok,2016,Polish
+20,20,Dawid Szymonowicz,POL,D,1.84,67,07-07-95,Lidzbark Warmiński,Stomil Olsztyn,Jagiellonia Białystok,2016,Polish
+21,21,Przemysław Frankowski,POL,M,1.75,68,12-04-95,Gdańsk,Lechia Gdańsk,Jagiellonia Białystok,2016,Polish
+22,22,Rafał Grzyb,POL,M,1.75,75,16-01-83,Jędrzejów,Polonia Bytom,Jagiellonia Białystok,2016,Polish
+23,23,Damian Szymański,POL,M,1.81,70,16-06-95,Kraśnik,GKS Bełchatów,Jagiellonia Białystok,2016,Polish
+25,25,Marijan Kelemen,SVK,G,1.88,82,07-12-79,Michalovce,MFK Zemplín Michalovce,Jagiellonia Białystok,2016,Polish
+27,27,Patryk Klimala,POL,F,1.83,76,05-08-98,Świdnica,Legia Warszawa,Jagiellonia Białystok,2016,Polish
+28,28,Karol Świderski,POL,F,1.84,74,23-01-97,Rawicz,UKS SMS Łódź,Jagiellonia Białystok,2016,Polish
+35,35,Dawid Polkowski,POL,M,1.85,76,21-08-98,Madrid,None,Jagiellonia Białystok,2016,Polish
+39,39,Krzysztof Karpieszuk,POL,G,1.87,82,30-11-96,Białystok,None,Jagiellonia Białystok,2016,Polish
+41,44,Emil Łupiński,POL,M,1.81,71,13-01-96,Białystok,None,Jagiellonia Białystok,2016,Polish
+42,46,Hubert Gostomski,POL,G,1.91,82,25-02-98,Warsaw,Legionovia Legionowo,Jagiellonia Białystok,2016,Polish
+43,77,Piotr Tomasik,POL,D,1.77,72,31-10-87,Kraków,Podbeskidzie Bielsko-Biała,Jagiellonia Białystok,2016,Polish
+44,96,Damian Węglarz,POL,G,1.87,75,21-03-96,Bydgoszcz,Zawisza Bydgoszcz,Jagiellonia Białystok,2016,Polish
+4,4,Maciej Załęcki,POL,D,1.85,77,17-06-96,Płońsk,Tęcza 34 Płońsk,Korona Kielce,2016,Polish
+5,5,Serhiy Pylypchuk,UKR,M,1.87,80,26-11-84,Zmiiv,Volyn Lutsk,Korona Kielce,2016,Polish
+6,6,Vanja Marković,SRB,M,1.85,80,20-06-94,Belgrade,Partizan Belgrade,Korona Kielce,2016,Polish
+7,7,Marcin Cebula,POL,M,1.74,60,06-12-95,Staszów,None,Korona Kielce,2016,Polish
+8,8,Mateusz Możdżeń,POL,M,1.80,76,14-03-91,Warsaw,Podbeskidzie Bielsko-Biała,Korona Kielce,2016,Polish
+9,9,Dani Abalo,ESP,M,1.74,68,29-09-87,Pontevedra,Alavés,Korona Kielce,2016,Polish
+10,10,Nabil Aankour,MAR,M,1.72,70,09-08-93,Temsamane,Bastia,Korona Kielce,2016,Polish
+13,13,Dzmitry Verkhawtsow,BLR,D,1.90,85,10-10-86,Mogilev,FC Ufa,Korona Kielce,2016,Polish
+14,14,Jakub Żubrowski,POL,M,1.81,73,21-03-92,Szczecin,Stal Mielec,Korona Kielce,2016,Polish
+15,15,Jacek Kiełb,POL,M,1.83,70,10-01-88,Siedlce,Śląsk Wrocław,Korona Kielce,2016,Polish
+16,16,Maciej Górski,POL,F,1.83,75,01-03-90,Warsaw,Jagiellonia Białystok,Korona Kielce,2016,Polish
+17,17,Miquel Palanca,ESP,M,1.70,72,18-12-87,Tarragona,Nàstic,Korona Kielce,2016,Polish
+18,18,Adrian Uniat,POL,M,1.71,67,16-03-97,Kielce,None,Korona Kielce,2016,Polish
+19,19,Ken Kallaste,EST,D,1.82,80,31-08-88,Tallinn,Górnik Zabrze,Korona Kielce,2016,Polish
+20,20,Ilijan Micanski,BUL,F,1.86,79,20-12-85,Blagoevgrad,Levski Sofia,Korona Kielce,2016,Polish
+23,23,Elhadji Diaw,SEN,D,1.93,85,31-12-94,Dakar,Verbroedering Geel,Korona Kielce,2016,Polish
+25,25,Leonid Otchenashenko,UKR,G,1.92,77,09-06-98,Lutsk,Wisła Puławy,Korona Kielce,2016,Polish
+26,26,Bartosz Rymaniak,POL,D,1.89,80,13-11-89,Gostyń,Cracovia Kraków,Korona Kielce,2016,Polish
+27,27,Rafał Grzelak,POL,D,1.87,83,07-08-88,Mława,Podbeskidzie Bielsko-Biała,Korona Kielce,2016,Polish
+28,28,Vladislavs Gabovs,LVA,D,1.76,73,13-07-87,Riga,Skonto,Korona Kielce,2016,Polish
+30,30,Michal Pekovič,SVK,G,1.88,86,08-02-82,Bratislava,Neftchi Baku,Korona Kielce,2016,Polish
+32,32,Radek Dejmek,CZE,D,1.88,84,02-02-88,Vrchlabí,Slovan Liberec,Korona Kielce,2016,Polish
+37,37,Jakub Mrozik,POL,M,1.78,73,21-06-93,Bydgoszcz,Chojniczanka Chojnice,Korona Kielce,2016,Polish
+41,55,Jakub Kotarzewski,POL,M,1.73,64,22-01-94,Kielce,None,Korona Kielce,2016,Polish
+42,82,Milan Borjan,CAN,G,1.93,88,23-10-87,Knin,Ludogorets Razgrad,Korona Kielce,2016,Polish
+43,93,Michał Smolarczyk,POL,F,1.80,73,11-09-93,Kielce,Wierna Małogoszcz,Korona Kielce,2016,Polish
+44,99,Bartosz Kwiecień,POL,M,1.86,80,07-05-94,Starachowice,Juventa Starachowice,Korona Kielce,2016,Polish
+1,1,Duan Kuciak,SVK,G,1.94,87,21-05-85,Bratislava,Hull C,Lechia Gdańsk,2016,Polish
+2,2,Rafał Janicki,POL,D,1.88,79,05-07-92,Szczecin,Chemik Police,Lechia Gdańsk,2016,Polish
+3,3,Jakub Wawrzyniak,POL,D,1.88,85,07-07-83,Kutno,Amkar Perm,Lechia Gdańsk,2016,Polish
+5,5,Steven Vitória,POR,D,1.95,86,11-01-87,Toronto,Benfica,Lechia Gdańsk,2016,Polish
+6,6,Simeon Slavchev,BUL,M,1.85,78,25-09-93,Sofia,Sporting CP,Lechia Gdańsk,2016,Polish
+7,7,Milo Krasić,SRB,M,1.86,78,01-11-84,Belgrade,Fenerbahçe,Lechia Gdańsk,2016,Polish
+9,9,Michał Mak,POL,M,1.72,60,14-11-91,Sucha Beskidzka,GKS Bełchatów,Lechia Gdańsk,2016,Polish
+10,10,Sebastian Mila,POL,M,1.78,67,10-07-82,Koszalin,Śląsk Wrocław,Lechia Gdańsk,2016,Polish
+11,11,Grzegorz Kuświk,POL,F,1.81,75,23-05-87,Ostrów Wielkopolski,Ruch Chorzów,Lechia Gdańsk,2016,Polish
+13,13,Bartłomiej Pawłowski,POL,M,1.78,70,13-11-92,Zgierz,Widzew Łódź,Lechia Gdańsk,2016,Polish
+14,14,Piotr Wiśniewski,POL,M,1.77,72,11-08-82,Starogard Gdański,Kaszubia Kościerzyna,Lechia Gdańsk,2016,Polish
+16,16,Ariel Borysiuk,POL,M,1.78,70,29-07-91,Biała Podlaska,QPR,Lechia Gdańsk,2016,Polish
+17,17,Luká Haraslín,SVK,M,1.74,64,26-05-96,Bratislava,Parma,Lechia Gdańsk,2016,Polish
+19,19,Marco Paixão,POR,F,1.85,76,19-09-84,Sesimbra,Sparta Prague,Lechia Gdańsk,2016,Polish
+20,20,Michał Chrapek,POL,M,1.74,68,03-04-92,Jaworzno,Catania,Lechia Gdańsk,2016,Polish
+21,21,Sławomir Peszko,POL,M,1.74,67,19-02-85,Jedlicze,Köln,Lechia Gdańsk,2016,Polish
+22,22,Mario Maloča,CRO,D,1.89,75,04-05-89,Zagreb,Hajduk Split,Lechia Gdańsk,2016,Polish
+23,23,Grzegorz Wojtkowiak,POL,D,1.84,76,26-01-84,Kostrzyn nad Odrą,1860 Munich,Lechia Gdańsk,2016,Polish
+24,24,Mateusz Bąk,POL,G,1.86,85,24-02-83,Pruszcz Gdański,Etar Veliko Tarnovo,Lechia Gdańsk,2016,Polish
+27,27,Rafał Wolski,POL,M,1.79,66,10-11-92,Kozienice,Fiorentina,Lechia Gdańsk,2016,Polish
+28,28,Flávio Paixão,POR,M,1.81,75,19-09-84,Sesimbra,Śląsk Wrocław,Lechia Gdańsk,2016,Polish
+29,29,Karol Fila,POL,M,1.80,72,13-06-98,Gdańsk,Żuławy Nowy Dwór Gdański,Lechia Gdańsk,2016,Polish
+30,30,João Nunes,POR,D,1.88,80,19-11-95,Setúbal,Benfica,Lechia Gdańsk,2016,Polish
+32,32,Vanja Milinković-Savić,SRB,G,2.02,92,20-02-97,Ourense,Manchester U,Lechia Gdańsk,2016,Polish
+33,33,Oliver Zelenika,CRO,G,1.91,82,14-05-93,Zagreb,Dinamo Zagreb,Lechia Gdańsk,2016,Polish
+41,41,Paweł Stolarski,POL,D,1.81,72,28-01-96,Kraków,Wisła Kraków,Lechia Gdańsk,2016,Polish
+42,43,Denis Perger,SVN,D,1.79,73,10-06-93,Ptuj,Drava Ptuj,Lechia Gdańsk,2016,Polish
+43,99,Gino van Kessel,NED,F,1.86,79,09-03-93,Alkmaar,Slavia Prague,Lechia Gdańsk,2016,Polish
+1,1,Jasmin Burić,BIH,G,1.91,80,18-02-87,Zenica,Čelik Zenica,Lech Poznań,2016,Polish
+3,3,Lasse Nielsen,DEN,D,1.88,77,03-03-87,,Odense,Lech Poznań,2016,Polish
+4,4,Tomasz Kędziora,POL,D,1.83,73,11-06-94,Sulechów,UKP Zielona Góra,Lech Poznań,2016,Polish
+6,6,Łukasz Trałka,POL,M,1.86,77,11-05-84,Rzeszów,Polonia Warszawa,Lech Poznań,2016,Polish
+8,8,Szymon Pawłowski,POL,M,1.75,69,04-11-86,Połczyn Zdrój,Zagłębie Lubin,Lech Poznań,2016,Polish
+10,10,Darko Jevtić,SUI,M,1.77,62,08-02-93,Basel,Basel,Lech Poznań,2016,Polish
+11,11,Marcin Robak,POL,F,1.82,78,29-11-82,Legnica,Pogoń Szczecin,Lech Poznań,2016,Polish
+14,14,Maciej Gajos,POL,M,1.74,65,19-03-91,Kraków,Jagiellonia Białystok,Lech Poznań,2016,Polish
+15,15,Dariusz Dudka,POL,D,1.82,71,09-12-83,Kostrzyn nad Odrą,Wisła Kraków,Lech Poznań,2016,Polish
+17,17,Maciej Makuszewski,POL,M,1.76,70,29-09-89,Grajewo,Lechia Gdańsk,Lech Poznań,2016,Polish
+18,18,Mihai Răduţ,ROU,M,1.78,65,18-03-90,Slatina,Hatta Club,Lech Poznań,2016,Polish
+19,19,Nicki Bille Nielsen,DEN,F,1.84,76,07-02-88,Vigerslev,Esbjerg,Lech Poznań,2016,Polish
+21,21,Víctor Gutiérrez,COL,M,1.78,72,20-04-96,Valledupar,Deportes Tolima,Lech Poznań,2016,Polish
+22,22,Volodymyr Kostevych,UKR,D,1.75,62,23-10-92,Zhovkva,Karpaty Lviv,Lech Poznań,2016,Polish
+24,24,Dawid Kownacki,POL,F,1.85,75,14-03-97,Gorzów Wielkopolski,None,Lech Poznań,2016,Polish
+25,25,Paweł Tomczyk,POL,F,1.84,76,04-05-98,Poznań,None,Lech Poznań,2016,Polish
+26,26,Maciej Wilusz,POL,D,1.88,85,25-09-88,Wrocław,GKS Bełchatów,Lech Poznań,2016,Polish
+27,27,Tymoteusz Puchacz,POL,D,1.80,74,23-01-99,Sulechów,UKP Zielona Góra,Lech Poznań,2016,Polish
+28,28,Marcin Wasielewski,POL,D,1.72,73,23-08-94,Poznań,None,Lech Poznań,2016,Polish
+30,30,Matú Putnocký,SVK,G,1.95,91,01-11-84,Preov,Ruch Chorzów,Lech Poznań,2016,Polish
+33,33,Miłosz Mleczko,POL,G,1.91,84,01-03-99,Gorlice,Ruch Chorzów,Lech Poznań,2016,Polish
+35,35,Jan Bednarek,POL,D,1.89,77,12-04-96,Słupca,None,Lech Poznań,2016,Polish
+41,44,Elvis Kokalović,CRO,D,1.84,82,17-07-88,Novo Mesto,Karabükspor,Lech Poznań,2016,Polish
+42,55,Abdul Aziz Tetteh,GHA,M,1.88,76,25-05-90,Dansoman,Platanias,Lech Poznań,2016,Polish
+43,86,Radosław Majewski,POL,M,1.70,66,15-12-86,Pruszków,Veria,Lech Poznań,2016,Polish
+1,1,Arkadiusz Malarz,POL,G,1.90,84,19-06-80,Pułtusk,GKS Bełchatów,Legia Warszawa,2016,Polish
+2,2,Michał Pazdan,POL,D,1.80,76,21-09-87,Kraków,Jagiellonia Białystok,Legia Warszawa,2016,Polish
+3,3,Tomasz Jodłowiec,POL,M,1.90,86,22-03-85,Żywiec,Śląsk Wrocław,Legia Warszawa,2016,Polish
+4,4,Jakub Czerwinski,POL,D,1.83,75,06-08-91,Krynica Zdrój,Pogoń Szczecin,Legia Warszawa,2016,Polish
+5,5,Maciej Dąbrowski,POL,D,1.94,88,20-04-87,Radziejów,Zagłębie Lubin,Legia Warszawa,2016,Polish
+6,6,Guilherme,BRA,M,1.74,70,21-05-91,Três Rios,Olé Brasil,Legia Warszawa,2016,Polish
+8,8,Vadis Odjidja-Ofoe,BEL,M,1.85,79,21-02-89,Gent,Norwich C,Legia Warszawa,2016,Polish
+9,9,Valeri Kazaishvili,GEO,F,1.83,74,29-01-93,Ozurgeti,Vitesse,Legia Warszawa,2016,Polish
+14,14,Adam Hlouek,CZE,D,1.83,71,20-12-88,Turnov,Stuttgart,Legia Warszawa,2016,Polish
+15,15,Michał Kopczyński,POL,M,1.80,70,15-06-92,Warsaw,None,Legia Warszawa,2016,Polish
+18,18,Michał Kucharczyk,POL,M,1.78,72,20-03-91,Warsaw,Świt Nowy Dwór,Legia Warszawa,2016,Polish
+21,21,Dominik Nagy,HUN,M,1.82,77,08-05-95,Mohács,Ferencváros,Legia Warszawa,2016,Polish
+22,22,Kasper Hämäläinen,FIN,M,1.87,74,08-08-86,Turku,Lech Poznań,Legia Warszawa,2016,Polish
+23,23,Mateusz Hołownia,POL,D,1.84,70,06-05-88,Biała Podlaska,TOP 54 Biała Podlaska,Legia Warszawa,2016,Polish
+24,24,Tomá Necid,CZE,F,1.90,81,13-08-89,Prague,Bursaspor,Legia Warszawa,2016,Polish
+25,25,Jakub Rzeźniczak,POL,D,1.83,79,26-10-86,Łódź,Widzew Łódź,Legia Warszawa,2016,Polish
+26,26,Sandro Kulenović,CRO,F,1.88,76,04-12-99,Zagreb,Dinamo Zagreb,Legia Warszawa,2016,Polish
+27,27,Daniel Chima,NGA,F,1.80,74,04-04-91,Kano,Shanghai Shenxin,Legia Warszawa,2016,Polish
+28,28,Łukasz Broź,POL,D,1.80,74,17-12-85,Giżycko,Widzew Łódź,Legia Warszawa,2016,Polish
+30,30,Radosław Majecki,POL,G,1.91,78,16-11-99,Starachowice,KSZO Ostrowiec,Legia Warszawa,2016,Polish
+32,32,Miroslav Radović,SRB,M,1.82,76,16-01-84,Zemun,Partizan Belgrade,Legia Warszawa,2016,Polish
+33,33,Radosław Cierzniak,POL,G,1.87,81,24-04-83,Szamocin,Wisła Kraków,Legia Warszawa,2016,Polish
+41,42,Bartłomiej Urbański,POL,M,1.74,61,15-05-98,Grójec,Polonia Warszawa,Legia Warszawa,2016,Polish
+42,53,Sebastian Szymanski,POL,M,1.74,58,10-05-99,Biała Podlaska,TOP 54 Biała Podlaska,Legia Warszawa,2016,Polish
+43,55,Artur Jędrzejczyk,POL,D,1.89,78,04-11-87,Dębica,FC Krasnodar,Legia Warszawa,2016,Polish
+44,75,Thibault Moulin,FRA,M,1.73,68,13-01-90,Flers,Waasland-Beveren,Legia Warszawa,2016,Polish
+1,1,Jakub Szmatuła,POL,G,1.87,79,22-03-81,Poznań,Warta Poznań,Piast Gliwice,2016,Polish
+2,2,Patrik Mráz,SVK,D,1.87,75,01-02-87,Púchov,Górnik Łęczna,Piast Gliwice,2016,Polish
+3,3,Denis Gojko,POL,M,1.76,56,16-02-98,Gliwice,None,Piast Gliwice,2016,Polish
+4,4,Marcin Flis,POL,D,1.85,75,10-02-94,Bychowa,GKS Katowice,Piast Gliwice,2016,Polish
+5,5,Marcin Pietrowski,POL,M,1.84,79,01-03-88,Gdańsk,Lechia Gdańsk,Piast Gliwice,2016,Polish
+7,7,Maciej Jankowski,POL,F,1.80,69,04-01-90,Warsaw,Wisła Kraków,Piast Gliwice,2016,Polish
+9,9,Radosław Murawski,POL,M,1.73,68,22-04-94,Gliwice,None,Piast Gliwice,2016,Polish
+12,12,Saa ivec,SVN,M,1.70,70,02-04-91,empeter pri Gorici,Domale,Piast Gliwice,2016,Polish
+15,15,Michał Masłowski,POL,M,1.78,76,19-12-89,Strzelin,Legia Warszawa,Piast Gliwice,2016,Polish
+16,16,Patryk Dziczek,POL,M,1.81,68,25-02-98,Gliwice,None,Piast Gliwice,2016,Polish
+17,17,Adam Mójta,POL,D,1.78,70,30-06-86,Jelenia Góra,Wisła Kraków,Piast Gliwice,2016,Polish
+18,18,Łukasz Krakowczyk,POL,F,1.78,69,21-02-98,Rydułtowy,Odra Wodzisław,Piast Gliwice,2016,Polish
+19,19,Mateusz Mak,POL,M,1.73,60,14-11-91,Sucha Beskidzka,GKS Bełchatów,Piast Gliwice,2016,Polish
+21,21,Gerard,ESP,M,1.76,72,18-10-89,Horta de Sant Joan,Noja,Piast Gliwice,2016,Polish
+22,22,Tomasz Mokwa,POL,D,1.81,76,10-02-93,Słupsk,Flota Świnoujście,Piast Gliwice,2016,Polish
+23,23,Stojan Vranje,BIH,M,1.83,75,22-06-85,Banja Luka,Legia Warszawa,Piast Gliwice,2016,Polish
+25,25,Aleksandar Sedlar,SRB,D,1.78,79,13-12-91,Novi Sad,Metalac Gornji Milanovac,Piast Gliwice,2016,Polish
+26,26,Bartosz Szeliga,POL,M,1.84,74,10-01-93,Nowy Sącz,Sandecja Nowy Sącz,Piast Gliwice,2016,Polish
+27,27,Michal Papadopulos,CZE,F,1.83,79,14-04-85,Ostrava,Zagłębie Lubin,Piast Gliwice,2016,Polish
+31,31,Dobrivoj Rusov,SVK,G,1.88,77,13-01-93,Trnava,Spartak Trnava,Piast Gliwice,2016,Polish
+41,44,Łukasz Sekulski,POL,F,1.87,78,03-11-90,Płock,Jagiellonia Białystok,Piast Gliwice,2016,Polish
+42,45,Luká Čmelík,SVK,M,1.82,74,13-04-96,ilina,MK ilina,Piast Gliwice,2016,Polish
+43,46,Aleksander Sopel,POL,M,1.68,67,05-04-98,Gliwice,None,Piast Gliwice,2016,Polish
+44,53,Jakub Freitag,POL,G,1.93,85,05-03-95,Gliwice,Carbo Gliwice,Piast Gliwice,2016,Polish
+45,82,Martin Bukata,SVK,M,1.75,69,02-10-93,Koice,VSS Koice,Piast Gliwice,2016,Polish
+46,88,Uro Korun,SVN,D,1.88,79,25-05-87,Celje,Domale,Piast Gliwice,2016,Polish
+47,91,Hebert,BRA,D,1.91,87,23-05-91,Barra Mansa,Sporting Braga,Piast Gliwice,2016,Polish
+48,93,Edvinas Girdvainis,LTU,D,1.83,70,17-01-93,Klaipėda,Marbella,Piast Gliwice,2016,Polish
+1,1,Jakub Słowik,POL,G,1.90,82,31-08-91,Nowy Sącz,Jagiellonia Białystok,Pogoń Szczecin,2016,Polish
+2,2,Cornel Râpă,ROU,D,1.80,72,16-01-90,Galaţi,Steaua Bucureşti,Pogoń Szczecin,2016,Polish
+3,3,Jarosław Fojut,POL,D,1.88,83,17-10-87,Legionowo,Dundee U,Pogoń Szczecin,2016,Polish
+6,6,Rafał Murawski,POL,M,1.75,76,09-10-81,Malbork,Lech Poznań,Pogoń Szczecin,2016,Polish
+7,7,Ádám Gyurcsó,HUN,M,1.79,63,06-03-91,Tatabánya,Videoton,Pogoń Szczecin,2016,Polish
+8,8,Mate Tsintsadze,GEO,M,1.79,73,07-01-95,Poti,Dinamo Tbilisi,Pogoń Szczecin,2016,Polish
+9,9,Adam Frączczak,POL,F,1.84,76,07-08-87,Kołobrzeg,Kotwica Kołobrzeg,Pogoń Szczecin,2016,Polish
+10,10,Dawid Kort,POL,M,1.75,65,29-04-95,Szczecin,None,Pogoń Szczecin,2016,Polish
+11,11,Spas Delev,BUL,M,1.69,61,22-09-89,Blagoevgrad,Beroe Stara Zagora,Pogoń Szczecin,2016,Polish
+12,12,Adrian Henger,POL,G,1.89,80,18-05-96,Goleniów,Ina Goleniów,Pogoń Szczecin,2016,Polish
+14,14,Kamil Drygas,POL,M,1.84,72,07-09-91,Kępno,Zawisza Bydgoszcz,Pogoń Szczecin,2016,Polish
+15,15,Hubert Matynia,POL,D,1.81,70,04-11-95,Września,Vineta Wolin,Pogoń Szczecin,2016,Polish
+17,17,Nadir Çiftçi,NED,F,1.83,77,12-02-92,Den Haag,Celtic,Pogoń Szczecin,2016,Polish
+18,18,Seiya Kitano,JPN,M,1.68,64,08-02-97,Oita,Nagoya Grampus,Pogoń Szczecin,2016,Polish
+21,21,Sebastian Rudol,POL,D,1.83,77,21-02-95,Koszalin,Salos Szczecin,Pogoń Szczecin,2016,Polish
+23,23,Mateusz Matras,POL,M,1.93,87,23-01-91,Ornontowice,Piast Gliwice,Pogoń Szczecin,2016,Polish
+24,24,David Niepsuj,POL,D,1.83,76,16-08-95,Wuppertal,Bochum,Pogoń Szczecin,2016,Polish
+29,29,Marcin Listkowski,POL,F,1.79,66,29-03-95,Rypin,Lech Rypin,Pogoń Szczecin,2016,Polish
+32,32,Robert Obst,POL,M,1.89,78,06-07-95,Szczecin,None,Pogoń Szczecin,2016,Polish
+41,55,Sebastian Kowalczyk,POL,D,1.69,54,22-08-98,Szczecin,Salos Szczecin,Pogoń Szczecin,2016,Polish
+42,66,Dawid Kudła,POL,G,1.89,84,21-03-92,Ruda Śląska,Zagłębie Sosnowiec,Pogoń Szczecin,2016,Polish
+43,77,Ricardo Nunes,RSA,D,1.79,75,18-06-86,Johannesburg,Levski Sofia,Pogoń Szczecin,2016,Polish
+1,1,Kamil Lech,POL,G,1.88,80,15-09-94,Chorzów,None,Ruch Chorzów,2016,Polish
+2,2,Mateusz Cichocki,POL,D,1.87,79,31-01-92,Warsaw,Legia Warszawa,Ruch Chorzów,2016,Polish
+4,4,Łukasz Surma,POL,M,1.77,70,28-06-77,Kraków,Lechia Gdańsk,Ruch Chorzów,2016,Polish
+5,5,Marcin Kowalczyk,POL,D,1.83,83,09-04-85,Wieruszów,FC Tosno,Ruch Chorzów,2016,Polish
+6,6,Kamil Słoma,POL,M,1.83,73,20-08-98,Rzeszów,CWKS Resovia,Ruch Chorzów,2016,Polish
+8,8,Michał Walski,POL,M,1.69,62,27-02-97,Tarnobrzeg,Pogoń Szczecin,Ruch Chorzów,2016,Polish
+9,9,Jakub Arak,POL,F,1.82,72,02-04-95,Warsaw,Legia Warszawa,Ruch Chorzów,2016,Polish
+10,10,Patryk Lipski,POL,M,1.85,74,12-06-94,Szczecin,Salos Szczecin,Ruch Chorzów,2016,Polish
+11,11,Jarosław Niezgoda,POL,F,1.85,73,15-03-95,Poniatowa,Legia Warszawa,Ruch Chorzów,2016,Polish
+13,13,Łukasz Moneta,POL,M,1.72,70,13-05-94,Racibórz,Legia Warszawa,Ruch Chorzów,2016,Polish
+14,14,Michał Koj,POL,D,1.88,81,28-07-93,Ruda Śląska,Pogoń Szczecin,Ruch Chorzów,2016,Polish
+15,15,Martin Konczkowski,POL,D,1.81,74,14-08-93,Ruda Śląska,Wawel Wirek,Ruch Chorzów,2016,Polish
+16,16,Miłosz Przybecki,POL,M,1.76,66,02-01-91,Śrem,Pogoń Szczecin,Ruch Chorzów,2016,Polish
+17,17,Maciej Urbańczyk,POL,M,1.73,66,02-04-95,Mikołów,None,Ruch Chorzów,2016,Polish
+21,21,Adam Pazio,POL,D,1.82,72,27-09-92,Wołomin,Podbeskidzie Bielsko-Biała,Ruch Chorzów,2016,Polish
+23,23,Paweł Oleksy,POL,D,1.82,77,01-04-91,Kamienna Góra,Zagłębie Lubin,Ruch Chorzów,2016,Polish
+24,24,Jakub Miszczuk,POL,G,1.86,76,06-08-90,Sokołów Podlaski,Arka Gdynia,Ruch Chorzów,2016,Polish
+28,28,Gracjan Komarnicki,POL,D,1.82,70,02-11-97,Lubsko,None,Ruch Chorzów,2016,Polish
+33,33,Libor Hrdlička,SVK,G,1.90,84,02-01-86,Bratislava,Dinamo Tbilisi,Ruch Chorzów,2016,Polish
+37,37,Bartosz Nowak,POL,M,1.80,73,25-08-93,Radom,Miedź Legnica,Ruch Chorzów,2016,Polish
+38,38,Milen Gamakov,POL,M,1.89,77,12-04-94,Burgas,Lechia Gdańsk,Ruch Chorzów,2016,Polish
+39,39,Michał Helik,POL,D,1.91,77,09-09-95,Chorzów,None,Ruch Chorzów,2016,Polish
+41,51,Rafał Grodzicki,POL,D,1.92,96,28-10-83,Kraków,Śląsk Wrocław,Ruch Chorzów,2016,Polish
+42,66,Miłosz Trojak,POL,M,1.91,81,05-05-94,Wałbrzych,Górnik Wałbrzych,Ruch Chorzów,2016,Polish
+43,72,Przemysław Bargiel,POL,M,1.79,67,26-03-00,Ruda Śląska,None,Ruch Chorzów,2016,Polish
+44,90,Eduards Viņakovs,LVA,F,1.88,70,10-05-90,Riga,KVC Westerlo,Ruch Chorzów,2016,Polish
+1,1,Ľubo Kamenár,SVK,G,1.93,78,17-06-87,Trnava,Spartak Trnava,Śląsk Wrocław,2016,Polish
+3,3,Piotr Celeban,POL,D,1.81,76,25-06-85,Szczecin,FC Vaslui,Śląsk Wrocław,2016,Polish
+5,5,Augusto Loureiro,POR,D,1.80,78,30-08-87,Matosinhos,Créteil,Śląsk Wrocław,2016,Polish
+7,7,Joan Román,ESP,M,1.75,65,18-05-93,Reus,Sporting Braga,Śląsk Wrocław,2016,Polish
+8,8,Aleksandar Kovačević,SRB,M,1.73,67,09-01-92,Belgrade,Lechia Gdańsk,Śląsk Wrocław,2016,Polish
+9,9,Mario Engels,GER,M,1.83,80,22-10-93,Cologne,FSV Frankfurt,Śląsk Wrocław,2016,Polish
+10,10,Ryota Morioka,JPN,M,1.80,70,12-04-91,Hyogo,Vissel Kobe,Śląsk Wrocław,2016,Polish
+11,11,Łukasz Zwoliński,POL,F,1.82,72,24-02-93,Szczecin,Pogoń Szczecin,Śląsk Wrocław,2016,Polish
+12,12,Dominik Budzyński,POL,G,1.89,83,02-06-92,Lubartów,Miedź Legnica,Śląsk Wrocław,2016,Polish
+14,14,Alvarinho,POR,F,1.70,67,03-09-90,Faro,Jagiellonia Białystok,Śląsk Wrocław,2016,Polish
+15,15,Łukasz Wiech,POL,D,1.94,84,25-03-97,Lublin,BKS Lublin,Śląsk Wrocław,2016,Polish
+16,16,Róbert Pich,SVK,M,1.73,68,12-11-88,Svidník,Kaiserslautern,Śląsk Wrocław,2016,Polish
+17,17,Mariusz Pawelec,POL,D,1.80,72,14-04-86,Lublin,Górnik Łęczna,Śląsk Wrocław,2016,Polish
+18,18,Łukasz Madej,POL,M,1.76,70,14-04-82,Łódź,Górnik Zabrze,Śląsk Wrocław,2016,Polish
+19,19,Kamil Biliński,POL,F,1.80,71,23-01-88,Wrocław,Dinamo Bucureşti,Śląsk Wrocław,2016,Polish
+20,20,Adam Kokoszka,POL,D,1.86,78,06-10-86,Andrychów,Beskid Andrychów,Śląsk Wrocław,2016,Polish
+21,21,Lasha Dvali,GEO,D,1.91,80,14-05-95,Tbilisi,Duisburg,Śląsk Wrocław,2016,Polish
+22,22,Sito Riera,ESP,F,1.83,75,05-01-87,Manacor,Kairat Almaty,Śląsk Wrocław,2016,Polish
+23,23,Paweł Zieliński,POL,D,1.78,79,17-07-90,Ząbkowice Śląskie,Ślęza Wrocław,Śląsk Wrocław,2016,Polish
+25,25,Adrian Łyszczarz,POL,M,1.76,68,22-08-99,Oleśnica,Wrocław Academy,Śląsk Wrocław,2016,Polish
+26,26,Daniel Łuczak,POL,F,1.78,72,12-07-96,Wrocław,None,Śląsk Wrocław,2016,Polish
+28,28,Mateusz Lewandowski,POL,D,1.82,72,18-03-93,Płock,Pogoń Szczecin,Śląsk Wrocław,2016,Polish
+29,29,Peter Grajciar,SVK,M,1.82,76,17-09-83,Zvolen,Graffin Vlaim,Śląsk Wrocław,2016,Polish
+30,30,Kamil Dankowski,POL,M,1.77,67,22-07-96,Duszniki Zdrój,None,Śląsk Wrocław,2016,Polish
+32,32,Ostoja Stjepanović,MKD,M,1.75,74,17-01-85,Skopje,AEL Limassol,Śląsk Wrocław,2016,Polish
+33,33,Mariusz Pawełek,POL,G,1.85,81,17-03-81,Lubomia,Rizespor,Śląsk Wrocław,2016,Polish
+1,1,Michał Miśkiewicz,POL,G,1.94,92,20-01-89,Kraków,Milan,Wisła Kraków,2016,Polish
+2,2,Rafał Pietrzak,POL,D,1.76,69,30-01-92,Sosnowiec,GKS Katowice,Wisła Kraków,2016,Polish
+4,4,Maciej Sadlok,POL,D,1.81,72,29-06-89,Oświęcim,Ruch Chorzów,Wisła Kraków,2016,Polish
+5,5,Jakub Bartkowski,POL,D,1.82,74,07-11-91,Łódź,Wigry Suwałki,Wisła Kraków,2016,Polish
+6,6,Arkadiusz Głowacki,POL,D,1.86,78,13-03-79,Poznań,Trabzonspor,Wisła Kraków,2016,Polish
+7,7,Pol Llonch,ESP,M,1.71,70,07-10-92,Barcelona,Girona,Wisła Kraków,2016,Polish
+8,8,Alan Uryga,POL,M,1.91,85,19-02-94,Kraków,Hutnik Kraków,Wisła Kraków,2016,Polish
+9,9,Rafał Boguski,POL,M,1.73,70,09-06-84,Ostrołęka,GKS Bełchatów,Wisła Kraków,2016,Polish
+10,10,Ever Valencia,COL,M,1.75,69,23-01-97,Villavicencio,Independiente Medellín,Wisła Kraków,2016,Polish
+11,11,Wojciech Słomka,POL,M,1.78,67,04-11-98,Brzesko,Progres Kraków,Wisła Kraków,2016,Polish
+14,14,Zdeněk Ondráek,CZE,F,1.86,79,22-12-88,Strakonice,Tromsø,Wisła Kraków,2016,Polish
+16,16,Cristian Echavarría,COL,M,1.64,61,10-06-97,Medellín,Independiente Medellín,Wisła Kraków,2016,Polish
+17,17,Jakub Bartosz,POL,D,1.83,76,13-08-96,Myślenice,Karpaty Siepraw,Wisła Kraków,2016,Polish
+18,18,Semir tilić,BIH,M,1.83,75,08-10-87,Sarajevo,APOEL,Wisła Kraków,2016,Polish
+19,19,Tomasz Cywka,POL,M,1.80,76,27-06-88,Gliwice,Blackpool,Wisła Kraków,2016,Polish
+20,20,Mateusz Zachara,POL,F,1.80,71,27-03-90,Częstochowa,Henan Jianye,Wisła Kraków,2016,Polish
+21,21,Petar Brlek,CRO,M,1.80,74,29-01-94,Varadin,Slaven Belupo,Wisła Kraków,2016,Polish
+22,22,Michał Buchalik,POL,G,1.90,83,03-02-89,Rybnik,Ruch Chorzów,Wisła Kraków,2016,Polish
+23,23,Paweł Brożek,POL,F,1.80,73,21-04-83,Kielce,Recreativo Huelva,Wisła Kraków,2016,Polish
+24,24,Łukasz Załuska,POL,G,1.90,88,16-06-82,Wysokie Mazowieckie,Darmstadt,Wisła Kraków,2016,Polish
+29,29,Krzysztof Mączyński,POL,M,1.75,66,23-05-87,Kraków,Guizhou Renhe,Wisła Kraków,2016,Polish
+32,32,Iván González,ESP,D,1.84,80,15-02-88,Málaga,Alcorcón,Wisła Kraków,2016,Polish
+33,33,Matija pičić,CRO,M,1.73,75,24-02-88,Zagreb,Dinamo Tbilisi,Wisła Kraków,2016,Polish
+40,40,Przemysław Porębski,POL,M,1.70,622,30-06-98,Kraków,None,Wisła Kraków,2016,Polish
+41,41,Jakub Ptak,POL,D,1.80,70,19-06-98,Kraków,Prądniczanka Kraków,Wisła Kraków,2016,Polish
+42,43,Bartłomiej Purcha,POL,M,1.74,64,05-05-98,Jarosław,Karpaty Krosno,Wisła Kraków,2016,Polish
+43,88,Patryk Małecki,POL,M,1.70,70,01-08-88,Suwałki,Pogoń Szczecin,Wisła Kraków,2016,Polish
+44,93,Hugo Vidémont,FRA,M,1.73,70,19-02-93,Marseille,Ajaccio,Wisła Kraków,2016,Polish
+1,1,Mateusz Kryczka,POL,G,1.94,86,20-07-92,Warsaw,Dolcan Ząbki,Wisła Płock,2016,Polish
+2,2,Kamil Sylwestrzak,POL,D,1.88,76,16-07-88,Słubice,Korona Kielce,Wisła Płock,2016,Polish
+5,5,Bartłomiej Sielewski,POL,D,1.87,83,09-08-84,Płock,Piast Gliwice,Wisła Płock,2016,Polish
+6,6,Harmeet Singh,NOR,M,1.80,72,12-11-90,Oslo,Molde,Wisła Płock,2016,Polish
+7,7,Damian Piotrowski,POL,M,1.73,68,09-01-87,Głogów,Chrobry Głogów,Wisła Płock,2016,Polish
+8,8,Dominik Furman,POL,M,1.81,71,06-07-92,Szydłowiec,Toulouse,Wisła Płock,2016,Polish
+9,9,Arkadiusz Reca,POL,M,1.87,76,17-06-95,Chojnice,Flota Świnoujście,Wisła Płock,2016,Polish
+10,10,Giorgi Merebashvili,GEO,M,1.78,74,15-08-86,Tbilisi,Levadiakos,Wisła Płock,2016,Polish
+17,17,Damian Byrtek,POL,D,1.93,84,07-03-91,Bielsko-Biała,Chrobry Głogów,Wisła Płock,2016,Polish
+18,18,Piotr Wlazło,POL,M,1.81,68,03-06-89,Radom,Radomiak Radom,Wisła Płock,2016,Polish
+19,19,Emil Drozdowicz,POL,F,1.78,76,05-07-86,Sulęcin,TBB Nieciecza,Wisła Płock,2016,Polish
+20,20,Cezary Stefanczyk,POL,D,1.84,78,21-02-84,Radomsko,Bogdanka Łęczna,Wisła Płock,2016,Polish
+21,21,Maksymilian Rogalski,POL,M,1.80,82,24-06-83,Częstochowa,Pogoń Szczecin,Wisła Płock,2016,Polish
+22,22,Dominik Kun,POL,M,1.73,63,22-06-93,Giżycko,Pogoń Szczecin,Wisła Płock,2016,Polish
+24,24,Tomislav Boić,CRO,D,1.84,77,01-11-87,Poega,Górnik Łęczna,Wisła Płock,2016,Polish
+25,25,Przemysław Szymiński,POL,D,1.85,73,24-06-94,Katowice,Rozwój Katowice,Wisła Płock,2016,Polish
+26,26,Bartosz Kaniecki,POL,G,1.96,91,11-07-88,Łódź,Lechia Gdańsk,Wisła Płock,2016,Polish
+27,27,Mateusz Piątkowski,POL,F,1.86,75,22-11-84,Bielawa,APOEL,Wisła Płock,2016,Polish
+29,29,José Kanté,ESP,F,1.84,76,27-09-90,Sabadell,Górnik Zabrze,Wisła Płock,2016,Polish
+30,30,Sergey Krivets,BLR,M,1.77,77,08-06-86,Grodno,Metz,Wisła Płock,2016,Polish
+41,41,Dimitar Iliev,BUL,F,1.85,79,25-09-88,Plovdiv,Lokomotiv Sofia,Wisła Płock,2016,Polish
+42,87,Seweryn Kiełpin,POL,G,1.84,81,18-12-87,Kościerzyna,Ruch Radzionków,Wisła Płock,2016,Polish
+43,94,Seweryn Truskolaski,POL,M,1.72,62,29-01-94,Płock,None,Wisła Płock,2016,Polish
+44,95,Patryk Stępiński,POL,D,1.83,72,12-05-95,Sieradz,Widzew Łódź,Wisła Płock,2016,Polish
+45,97,Dawid Kieplin,POL,D,1.70,64,10-07-97,Gostynin,None,Wisła Płock,2016,Polish
+46,98,Marcin Mielczarski,POL,D,1.76,65,24-05-98,Drobin,None,Wisła Płock,2016,Polish
+1,1,Martin Poláček,SVK,G,1.98,95,02-04-90,Preov,Slovan Bratislava,Zagłębie Lubin,2016,Polish
+3,3,Djordje Čotra,SRB,D,1.86,75,13-09-84,Benkovac,Polonia Warszawa,Zagłębie Lubin,2016,Polish
+4,4,Aleksandar Todorovski,SRB,D,1.81,73,26-02-84,Kraljevo,Sturm Graz,Zagłębie Lubin,2016,Polish
+5,5,Jarosław Jach,POL,D,1.90,81,17-02-94,Bielawa,Lechia Dzierżoniów,Zagłębie Lubin,2016,Polish
+6,6,Kamil Mazek,POL,M,1.74,65,22-07-94,Warsaw,Ruch Chorzów,Zagłębie Lubin,2016,Polish
+7,7,Krzysztof Janus,POL,M,1.76,73,25-03-86,Brzeg Dolny,Wisła Płock,Zagłębie Lubin,2016,Polish
+9,9,Arkadiusz Woźniak,POL,F,1.84,68,01-06-90,Lubin,None,Zagłębie Lubin,2016,Polish
+11,11,Artur Siemaszko,POL,F,1.81,74,06-01-97,,Stomil Olsztyn,Zagłębie Lubin,2016,Polish
+12,12,Konrad Forenc,POL,G,1.91,97,17-07-92,Oława,MKS Oława,Zagłębie Lubin,2016,Polish
+13,13,Martin Nepor,CZE,F,1.84,75,05-06-90,Prague,Sparta Prague,Zagłębie Lubin,2016,Polish
+14,14,Łukasz Janoszka,POL,F,1.80,73,18-03-87,Bytom,Ruch Chorzów,Zagłębie Lubin,2016,Polish
+16,16,Paweł Żyra,POL,M,1.78,74,07-04-98,Wałbrzych,Górnik Wałbrzych,Zagłębie Lubin,2016,Polish
+17,17,Adrian Rakowski,POL,M,1.80,70,07-10-90,Żagań,Vitrosilicon Iłowa,Zagłębie Lubin,2016,Polish
+18,18,Filip Starzyński,POL,M,1.84,70,27-05-91,Szczecin,Lokeren,Zagłębie Lubin,2016,Polish
+19,19,Filip Jagiełło,POL,M,1.80,70,08-08-97,Lubin,None,Zagłębie Lubin,2016,Polish
+20,20,Jarosław Kubicki,POL,M,1.79,69,07-08-95,Lubin,None,Zagłębie Lubin,2016,Polish
+21,21,Adam Buksa,POL,F,1.91,78,12-07-96,Kraków,Lechia Gdańsk,Zagłębie Lubin,2016,Polish
+22,22,Zbigniew Małkowski,POL,G,1.88,79,19-01-78,Olsztyn,Korona Kielce,Zagłębie Lubin,2016,Polish
+23,23,Daniel Dziwniel,POL,D,1.78,72,19-08-92,Frankfurt am Main,St. Gallen,Zagłębie Lubin,2016,Polish
+24,24,Jakub Tosik,POL,D,1.82,74,21-05-87,Zelów,Jagiellonia Białystok,Zagłębie Lubin,2016,Polish
+25,25,Patyrk Mucha,POL,M,1.78,65,11-09-97,Głogów,UKP Zielona Góra,Zagłębie Lubin,2016,Polish
+27,27,Dominik Jończy,POL,D,1.89,83,17-05-97,Jelenia Góra,Chojnik Jelenia Góra,Zagłębie Lubin,2016,Polish
+28,28,Łukasz Piątek,POL,M,1.80,71,21-09-85,Warsaw,Polonia Warszawa,Zagłębie Lubin,2016,Polish
+30,30,Dominik Hładun,POL,G,1.90,77,17-09-95,Lubin,None,Zagłębie Lubin,2016,Polish
+33,33,Ľubomír Guldan,SVK,D,1.83,79,30-01-83,Banská Bystrica,Ludogorets Razgrad,Zagłębie Lubin,2016,Polish
+41,77,Sebastian Madera,POL,D,1.90,80,30-05-85,Rawicz,Jagiellonia Białystok,Zagłębie Lubin,2016,Polish
+42,88,Deimantas Petravičius,LTU,M,1.78,74,02-09-95,Vilnius,Nottingham F,Zagłębie Lubin,2016,Polish
+43,90,Ján Vlasko,SVK,M,1.74,65,11-01-90,Bojnice,Spartak Trnava,Zagłębie Lubin,2016,Polish

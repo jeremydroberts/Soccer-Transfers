@@ -1,0 +1,534 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Takaya Kurokawa,JPN,G,1.84,76,07-04-81,Ehime,Shimizu S-Pulse,Albirex Niigata,2012,Japanese
+3,3,Kentaro Oi,JPN,D,1.80,74,14-05-84,Shizuoka,Júbilo Iwata,Albirex Niigata,2012,Japanese
+4,4,Daisuke Suzuki,JPN,D,1.81,69,29-01-90,Tokyo,None,Albirex Niigata,2012,Japanese
+5,5,Naoki Ishikawa,JPN,D,1.80,73,13-09-85,Chiba,Kashiwa Reysol,Albirex Niigata,2012,Japanese
+6,6,Yuta Mikado,JPN,M,1.74,68,26-12-86,Saitama,None,Albirex Niigata,2012,Japanese
+7,7,Seiya Fujita,JPN,M,1.75,63,02-06-87,Hokkaido,Consadole Sapporo,Albirex Niigata,2012,Japanese
+8,8,Fumiya Kogure,JPN,M,1.77,60,28-06-89,Tokyo,None,Albirex Niigata,2012,Japanese
+9,9,Kisho Yano,JPN,F,1.85,74,05-04-84,Shizuoka,Freiburg,Albirex Niigata,2012,Japanese
+10,10,Michael,BRA,M,1.71,60,21-01-82,São Paulo,JEF United,Albirex Niigata,2012,Japanese
+11,11,Bruno Lopes,BRA,F,1.81,75,19-08-86,Curitiba,Grêmio Anápolis,Albirex Niigata,2012,Japanese
+13,13,Taisuke Nakamura,JPN,M,1.82,68,19-07-89,Kyoto,Kyoto Sanga,Albirex Niigata,2012,Japanese
+14,14,Shoki Hirai,JPN,F,1.79,67,04-12-87,Tokushima,Gamba Osaka,Albirex Niigata,2012,Japanese
+15,15,Isao Homma,JPN,M,1.72,60,19-04-81,Niigata,None,Albirex Niigata,2012,Japanese
+16,16,Kim Young-Geun,KOR,M,1.78,70,15-11-90,Pohang,Soongsil Univ,Albirex Niigata,2012,Japanese
+17,17,Jun Uchida,JPN,D,1.75,68,14-10-77,Hyogo,Kashima Antlers,Albirex Niigata,2012,Japanese
+18,18,Alan Mineiro,BRA,M,1.74,79,29-09-87,Três Corações,Paulista,Albirex Niigata,2012,Japanese
+19,19,Kim Jin-Su,KOR,D,1.76,67,13-06-92,Jeonju,Kyunghee Univ,Albirex Niigata,2012,Japanese
+20,20,Shigeto Masusa,JPN,D,1.89,75,11-06-92,Chiba,Ryutsu Keizai Univ,Albirex Niigata,2012,Japanese
+21,21,Masaaki Higashiguchi,JPN,G,1.84,75,12-05-86,Osaka,None,Albirex Niigata,2012,Japanese
+22,22,Yasuhiro Watanabe,JPN,G,1.81,74,04-10-92,Niigata,None,Albirex Niigata,2012,Japanese
+23,23,Atomu Tanaka,JPN,M,1.67,65,04-10-87,Niigata,None,Albirex Niigata,2012,Japanese
+25,25,Yusuke Murakami,JPN,D,1.79,77,27-04-84,Tokyo,Kashiwa Reysol,Albirex Niigata,2012,Japanese
+26,26,Kenji Koyano,JPN,M,1.70,62,22-06-88,Ibaraki,Kashima Antlers,Albirex Niigata,2012,Japanese
+27,27,Bruno Castanheira,BRA,F,1.75,73,20-05-90,,None,Albirex Niigata,2012,Japanese
+28,28,Musashi Suzuki,JPN,F,1.84,70,11-02-94,Montego Bay,Kiryu Daiichi HS,Albirex Niigata,2012,Japanese
+29,29,Noriyoshi Sakai,JPN,F,1.78,73,09-11-92,Niigata,Teikyo Nagaoka HS,Albirex Niigata,2012,Japanese
+30,30,Hideaki Ozawa,JPN,G,1.88,84,17-03-74,Ibaraki,Sportivo Luqueño,Albirex Niigata,2012,Japanese
+31,31,Naoki Kawaguchi,JPN,F,1.76,70,24-05-94,Niigata,None,Albirex Niigata,2012,Japanese
+32,32,Yoshiyuki Kobayashi,JPN,M,1.78,71,27-01-78,Saitama,Omiya Ardija,Albirex Niigata,2012,Japanese
+34,34,Kazuki Kozuka,JPN,M,1.73,68,02-08-94,Mitsuke,Teikyo Nagaoka HS,Albirex Niigata,2012,Japanese
+35,35,Sho Honda,JPN,G,1.84,70,21-04-95,Fukushima,None,Albirex Niigata,2012,Japanese
+36,36,Naoya Kikuchi,JPN,M,1.81,74,24-11-84,Shizuoka,Oita Trinita,Albirex Niigata,2012,Japanese
+37,37,Shusuke Tsubouchi,JPN,D,1.80,75,05-05-83,Gumma,Omiya Ardija,Albirex Niigata,2012,Japanese
+1,1,Kenya Matsui,JPN,G,1.87,72,10-09-85,Shizuoka,Júbilo Iwata,Cerezo Osaka,2012,Japanese
+2,2,Takahiro Ogihara,JPN,D,1.80,61,05-10-91,Osaka,None,Cerezo Osaka,2012,Japanese
+3,3,Teruyuki Moniwa,JPN,D,1.81,77,08-09-81,Kanagawa,FC Tokyo,Cerezo Osaka,2012,Japanese
+4,4,Kota Fujimoto,JPN,D,1.77,67,02-04-86,Kumamoto,None,Cerezo Osaka,2012,Japanese
+5,5,Tetsuya Funatsu,JPN,D,1.78,68,09-02-87,Osaka,Kataller Toyama,Cerezo Osaka,2012,Japanese
+6,6,Hotaru Yamaguchi,JPN,M,1.73,64,06-10-90,Mie,None,Cerezo Osaka,2012,Japanese
+7,7,Fábio Simplício,BRA,M,1.71,75,23-09-79,São Paulo,Roma,Cerezo Osaka,2012,Japanese
+9,9,Kempes,BRA,F,1.82,77,03-08-82,Rio de Janeiro,Portuguesa,Cerezo Osaka,2012,Japanese
+11,11,Ryuji Bando,JPN,F,1.71,65,02-08-79,Hyogo,Gamba Osaka,Cerezo Osaka,2012,Japanese
+13,13,Yoichiro Kakitani,JPN,F,1.73,62,03-01-90,Osaka,None,Cerezo Osaka,2012,Japanese
+14,14,Yusuke Maruhashi,JPN,M,1.78,68,02-09-90,Osaka,None,Cerezo Osaka,2012,Japanese
+15,15,Takamitsu Yoshino,JPN,M,1.76,67,24-04-89,Kyoto,Kokushikan Univ,Cerezo Osaka,2012,Japanese
+16,16,Takuma Edamura,JPN,M,1.76,67,16-11-86,Shizuoka,Shimizu S-Pulse,Cerezo Osaka,2012,Japanese
+17,17,Noriyuki Sakemoto,JPN,M,1.75,65,08-09-84,Wakayama,None,Cerezo Osaka,2012,Japanese
+18,18,Tomonobu Yokoyama,JPN,D,1.84,75,18-03-85,Tokyo,Kawasaki Frontale,Cerezo Osaka,2012,Japanese
+20,20,Daisuke Takahashi,JPN,F,1.78,74,18-09-83,Fukuoka,Oita Trinita,Cerezo Osaka,2012,Japanese
+21,21,Kim Jin-Hyeon,KOR,G,1.92,85,06-07-87,Suwon,Dongguk Univ,Cerezo Osaka,2012,Japanese
+22,22,Arata Kodama,JPN,D,1.78,70,08-10-82,Osaka,Shimizu S-Pulse,Cerezo Osaka,2012,Japanese
+23,23,Tatsuya Yamashita,JPN,D,1.82,73,07-11-87,Hyogo,Consadole Sapporo,Cerezo Osaka,2012,Japanese
+24,24,Kim Song-Gi,KOR,D,1.90,83,23-10-88,Hyogo,Korea Univ,Cerezo Osaka,2012,Japanese
+25,25,Masato Kurogi,JPN,M,1.80,67,24-10-89,Miyazaki,Nissho Gakuen HS,Cerezo Osaka,2012,Japanese
+26,26,Kazuya Murata,JPN,M,1.68,62,07-10-88,Shiga,Osaka Taiiku Univ,Cerezo Osaka,2012,Japanese
+27,27,Gu Sung-Yun,KOR,G,1.95,82,27-06-94,Seoul,Jaehyun HS,Cerezo Osaka,2012,Japanese
+28,28,Shota Inoue,JPN,M,1.70,63,24-04-89,Ehime,Hannan Univ,Cerezo Osaka,2012,Japanese
+29,29,Kanta Goto,JPN,M,1.78,64,05-12-93,Fukuoka,Nishinomiya HS,Cerezo Osaka,2012,Japanese
+30,30,Kenjiro Ogino,JPN,G,1.87,76,14-09-91,Kyoto,Mineyama HS,Cerezo Osaka,2012,Japanese
+31,31,Kotaro Iba,JPN,G,1.82,73,07-12-95,Osaka,Gamba Osaka,Cerezo Osaka,2012,Japanese
+32,32,Daichi Akiyama,JPN,M,1.72,66,28-07-94,Osaka,None,Cerezo Osaka,2012,Japanese
+34,34,Takumi Minamino,JPN,F,1.74,67,16-01-95,Osaka,None,Cerezo Osaka,2012,Japanese
+37,37,Heberty,BRA,M,1.73,72,29-08-88,São Paulo,Thespa Kusatsu,Cerezo Osaka,2012,Japanese
+41,41,Kenyu Sugimoto,JPN,F,1.81,67,18-11-92,Osaka,None,Cerezo Osaka,2012,Japanese
+1,1,Takahiro Takagi,JPN,G,1.85,76,01-07-82,Ishikawa,Albirex Niigata,Consadole Sapporo,2012,Japanese
+2,2,Takuma Hidaka,JPN,D,1.77,70,08-04-83,Hiroshima,Sagan Tosu,Consadole Sapporo,2012,Japanese
+3,3,Jade North,AUS,D,1.80,78,07-01-82,Taree,FC Tokyo,Consadole Sapporo,2012,Japanese
+4,4,Ryuji Kawai,JPN,D,1.83,75,14-07-78,Tokyo,Yokohama F Marinos,Consadole Sapporo,2012,Japanese
+5,5,Masaki Yamamoto,JPN,M,1.75,65,24-08-87,Shizuoka,Shimizu S-Pulse,Consadole Sapporo,2012,Japanese
+6,6,Shunsuke Iwanuma,JPN,M,1.75,65,02-06-88,Gumma,None,Consadole Sapporo,2012,Japanese
+7,7,Jumpei Takaki,JPN,M,1.70,62,01-09-82,Kumamoto,Shimizu S-Pulse,Consadole Sapporo,2012,Japanese
+8,8,Makoto Sunakawa,JPN,M,1.73,67,10-08-77,Chiba,Kashiwa Reysol,Consadole Sapporo,2012,Japanese
+9,9,Masashi Nakayama,JPN,F,1.78,72,23-09-67,Shizuoka,Júbilo Iwata,Consadole Sapporo,2012,Japanese
+10,10,Hiroki Miyazawa,JPN,F,1.82,72,28-06-89,Date,None,Consadole Sapporo,2012,Japanese
+11,11,Shunsuke Maeda,JPN,F,1.72,72,09-06-86,Nara,Oita Trinita,Consadole Sapporo,2012,Japanese
+13,13,Yoshihiro Uchimura,JPN,M,1.74,67,24-08-84,Oita,Ehime FC,Consadole Sapporo,2012,Japanese
+14,14,Issei Takayanagi,JPN,D,1.74,67,14-09-86,Kanagawa,Sanfrecce Hiroshima,Consadole Sapporo,2012,Japanese
+15,15,Hiroyuki Furuta,JPN,M,1.70,64,23-05-91,Sapporo,None,Consadole Sapporo,2012,Japanese
+16,16,Lee Ho-Seung,KOR,G,1.88,74,21-12-89,,Dongguk Univ,Consadole Sapporo,2012,Japanese
+17,17,Yasuaki Okamoto,JPN,M,1.70,65,09-04-88,Kumamoto,None,Consadole Sapporo,2012,Japanese
+18,18,Hironobu Haga,JPN,M,1.73,66,21-12-82,Miyagi,JEF United,Consadole Sapporo,2012,Japanese
+21,21,Toshiyasu Takahara,JPN,G,1.84,77,18-10-80,Gifu,Júbilo Iwata,Consadole Sapporo,2012,Japanese
+22,22,Yosuke Mikami,JPN,F,1.76,70,05-05-92,Sapporo,None,Consadole Sapporo,2012,Japanese
+23,23,Hideo Oshima,JPN,F,1.84,78,07-03-80,Gumma,Albirex Niigata,Consadole Sapporo,2012,Japanese
+25,25,Kazuki Kushibiki,JPN,D,1.78,72,12-02-93,Noboribetsu,Muroran Otani HS,Consadole Sapporo,2012,Japanese
+26,26,Shinya Uehara,JPN,F,1.86,72,29-09-86,Okinawa,Okinawa Univ,Consadole Sapporo,2012,Japanese
+27,27,Takuma Arano,JPN,M,1.76,60,20-04-93,Sapporo,None,Consadole Sapporo,2012,Japanese
+28,28,Yuya Hikichi,JPN,G,1.92,84,02-09-90,Sapporo,None,Consadole Sapporo,2012,Japanese
+29,29,Tatsuki Nara,JPN,D,1.80,70,19-09-93,Kitami,None,Consadole Sapporo,2012,Japanese
+30,30,Tetsu Sugiyama,JPN,G,1.84,78,26-06-81,Kumamoto,Kashima Antlers,Consadole Sapporo,2012,Japanese
+31,31,Takayuki Mae,JPN,M,1.72,62,16-09-93,Sapporo,None,Consadole Sapporo,2012,Japanese
+32,32,Yusuke Kondo,JPN,F,1.80,78,05-12-84,Tokyo,FC Tokyo,Consadole Sapporo,2012,Japanese
+33,33,Shota Sakaki,JPN,F,1.63,57,03-08-93,Shimizu,None,Consadole Sapporo,2012,Japanese
+34,34,Kazunari Okayama,JPN,D,1.87,74,24-04-78,Sakai,Pohang Steelers,Consadole Sapporo,2012,Japanese
+35,35,Takaya Osanai,JPN,D,1.76,67,15-06-93,Sapporo,None,Consadole Sapporo,2012,Japanese
+37,37,Ramón,BRA,M,1.80,72,24-05-88,Nova Era,Náutico,Consadole Sapporo,2012,Japanese
+38,38,Tele,BRA,F,1.86,82,02-02-90,Dom Pedrito,Foz do Iguaçu,Consadole Sapporo,2012,Japanese
+39,39,Kim Jae-Hwan,KOR,D,1.84,76,27-05-88,,Jeonbuk Hyundai Motors,Consadole Sapporo,2012,Japanese
+1,1,Yosuke Fujigaya,JPN,G,1.85,78,13-02-81,Shizuoka,Consadole Sapporo,Gamba Osaka,2012,Japanese
+2,2,Sota Nakazawa,JPN,D,1.88,79,26-10-82,Tokyo,Kashiwa Reysol,Gamba Osaka,2012,Japanese
+3,3,Kim Jung-Ya,KOR,D,1.83,74,17-05-88,Hyogo,Komazawa Univ,Gamba Osaka,2012,Japanese
+4,4,Hiroki Fujiharu,JPN,D,1.75,60,28-11-88,Osaka,Osaka Taiiku Univ,Gamba Osaka,2012,Japanese
+5,5,Daiki Niwa,JPN,D,1.80,76,16-01-86,Osaka,None,Gamba Osaka,2012,Japanese
+6,6,Shigeru Yokotani,JPN,M,1.79,67,03-05-87,Hyogo,None,Gamba Osaka,2012,Japanese
+7,7,Yasuhito Endo,JPN,M,1.78,75,28-01-80,Kagoshima,Kyoto Purple Sanga,Gamba Osaka,2012,Japanese
+8,8,Hayato Sasaki,JPN,M,1.67,58,29-11-82,Miyagi,Montedio Yamagata,Gamba Osaka,2012,Japanese
+9,9,Leandro,BRA,F,1.76,68,12-02-85,São Paulo,Al-Sadd,Gamba Osaka,2012,Japanese
+10,10,Takahiro Futagawa,JPN,M,1.68,63,27-06-80,Kagoshima,None,Gamba Osaka,2012,Japanese
+11,11,Paulinho,BRA,F,1.68,62,16-07-82,Cuiabá,Ventforet Kofu,Gamba Osaka,2012,Japanese
+13,13,Keisuke Iwashita,JPN,D,1.81,72,24-09-86,Kagoshima,Shimizu S-Pulse,Gamba Osaka,2012,Japanese
+14,14,Shu Kuruta,JPN,M,1.72,68,26-11-88,Osaka,None,Gamba Osaka,2012,Japanese
+15,15,Yasuyuki Konno,JPN,D,1.78,73,25-01-83,Miyagi,FC Tokyo,Gamba Osaka,2012,Japanese
+17,17,Tomokazu Myojin,JPN,M,1.73,70,24-01-78,Hyogo,Kashiwa Reysol,Gamba Osaka,2012,Japanese
+18,18,Shota Kawanishi,JPN,F,1.77,72,28-10-88,Nara,Osaka Taiiku Univ,Gamba Osaka,2012,Japanese
+19,19,Kataro Omori,JPN,M,1.67,63,28-04-92,Osaka,None,Gamba Osaka,2012,Japanese
+20,20,Akihiro Sato,JPN,F,1.84,71,22-10-86,Kanagawa,Tokushima Vortis,Gamba Osaka,2012,Japanese
+21,21,Akira Kaji,JPN,D,1.77,73,13-01-80,Hyogo,FC Tokyo,Gamba Osaka,2012,Japanese
+22,22,Yohei Takeda,JPN,G,1.89,76,30-06-87,Osaka,Shimizu S-Pulse,Gamba Osaka,2012,Japanese
+23,23,Takuya Takei,JPN,M,1.79,72,25-01-86,Tochigi,None,Gamba Osaka,2012,Japanese
+25,25,Hiroyuki Abe,JPN,M,1.70,69,05-07-89,Nara,Kwansei Gakuin Univ,Gamba Osaka,2012,Japanese
+26,26,Takaharu Nishino,JPN,D,1.87,72,14-09-93,Osaka,None,Gamba Osaka,2012,Japanese
+27,27,Tatsuya Uchida,JPN,D,1.77,70,08-02-92,Hyogo,None,Gamba Osaka,2012,Japanese
+28,28,Katsuhisa Inamori,JPN,D,1.85,73,08-03-94,Osaka,None,Gamba Osaka,2012,Japanese
+29,29,Atsushi Kimura,JPN,G,1.84,78,01-05-84,Osaka,None,Gamba Osaka,2012,Japanese
+30,30,Eduardo,BRA,D,1.79,68,18-04-89,Guaraí,Paulista,Gamba Osaka,2012,Japanese
+31,31,Ken Tajiri,JPN,G,1.82,76,11-06-93,Osaka,None,Gamba Osaka,2012,Japanese
+33,33,Keigo Numata,JPN,D,1.70,65,24-07-90,Gifu,Taquaritinga,Gamba Osaka,2012,Japanese
+41,41,Akihiro Ienaga,JPN,M,1.73,70,13-06-86,Hyogo,Mallorca,Gamba Osaka,2012,Japanese
+1,1,Yoshikatsu Kawaguchi,JPN,G,1.80,77,15-08-75,Shizuoka,FC Nordsjaelland,Júbilo Iwata,2012,Japanese
+4,4,Mitsuru Chiyotanda,JPN,D,1.83,80,01-06-80,Miyazaki,Nagoya Grampus,Júbilo Iwata,2012,Japanese
+5,5,Yuichi Komano,JPN,D,1.72,76,25-07-81,Wakayama,Sanfrecce Hiroshima,Júbilo Iwata,2012,Japanese
+6,6,Rodrigo Souto,BRA,M,1.81,75,09-09-83,Rio de Janeiro,São Paulo,Júbilo Iwata,2012,Japanese
+7,7,Yuki Kobayashi,JPN,M,1.79,70,18-10-88,Kanagawa,Meiji Univ,Júbilo Iwata,2012,Japanese
+8,8,Baek Sung-Dong,KOR,M,1.71,66,13-08-91,Gwangju,Yonsei Univ,Júbilo Iwata,2012,Japanese
+9,9,Ryohei Yamazaki,JPN,F,1.71,66,14-03-89,Chiba,None,Júbilo Iwata,2012,Japanese
+10,10,Hiroki Yamada,JPN,M,1.73,66,27-12-88,Shizuoka,Meiji Univ,Júbilo Iwata,2012,Japanese
+11,11,Takuya Matsuura,JPN,M,1.66,62,21-12-88,Shizuoka,None,Júbilo Iwata,2012,Japanese
+13,13,Tomohiko Miyazaki,JPN,D,1.70,65,21-11-86,Tokyo,Kashima Antlers,Júbilo Iwata,2012,Japanese
+14,14,Yuki Oshitani,JPN,F,1.69,69,23-09-89,Shizuoka,None,Júbilo Iwata,2012,Japanese
+15,15,Minoru Suganuma,JPN,F,1.73,69,16-05-85,Saitama,Kashiwa Reysol,Júbilo Iwata,2012,Japanese
+16,16,Jo Kanazawa,JPN,D,1.73,72,09-07-76,Saitama,FC Tokyo,Júbilo Iwata,2012,Japanese
+17,17,Hidetaka Kanazono,JPN,F,1.84,75,01-09-88,Osaka,Kansai Univ,Júbilo Iwata,2012,Japanese
+18,18,Ryoichi Maeda,JPN,F,1.83,80,09-10-81,Hyogo,None,Júbilo Iwata,2012,Japanese
+20,20,Shuto Yamamoto,JPN,M,1.80,69,01-06-85,Iwate,None,Júbilo Iwata,2012,Japanese
+21,21,Naoki Hatta,JPN,G,1.85,80,24-06-86,Mie,None,Júbilo Iwata,2012,Japanese
+22,22,Shunya Suganuma,JPN,D,1.82,80,17-05-90,Osaka,Gamba Osaka,Júbilo Iwata,2012,Japanese
+23,23,Kosuke Yamamoto,JPN,M,1.77,76,29-10-89,Shizuoka,None,Júbilo Iwata,2012,Japanese
+24,24,Cho Byung-Kuk,KOR,D,1.83,78,01-07-81,Ulsan,Vegalta Sendai,Júbilo Iwata,2012,Japanese
+25,25,Nagisa Sakurauchi,JPN,D,1.76,70,11-08-89,Osaka,Kansai Univ,Júbilo Iwata,2012,Japanese
+26,26,Ryosuke Matsuoka,JPN,M,1.73,65,23-10-84,Aichi,Vissel Kobe,Júbilo Iwata,2012,Japanese
+27,27,Takaaki Kinoshita,JPN,D,1.82,72,11-06-93,Shizuoka,Hamamatsu Kaiseikan HS,Júbilo Iwata,2012,Japanese
+28,28,Riki Kitawaki,JPN,M,1.77,72,22-11-85,Inagi,Tacuary,Júbilo Iwata,2012,Japanese
+30,30,Yoshiro Abe,JPN,F,1.74,72,05-07-80,Ehime,Shonan Bellmare,Júbilo Iwata,2012,Japanese
+31,31,Akihiko Takeshige,JPN,G,1.86,75,21-08-87,Yamaguchi,Hannan Univ,Júbilo Iwata,2012,Japanese
+32,32,Kei Uemura,JPN,G,1.81,77,24-09-81,Kanagawa,Shonan Bellmare,Júbilo Iwata,2012,Japanese
+33,33,Yoshiaki Fujita,JPN,D,1.80,75,12-01-83,Tochigi,Oita Trinita,Júbilo Iwata,2012,Japanese
+34,34,Hwang Song-Su,KOR,F,1.77,73,10-07-87,Tokyo,Korea Univ,Júbilo Iwata,2012,Japanese
+35,35,Haruki Unemura,JPN,M,1.63,54,14-05-95,Shizuoka,None,Júbilo Iwata,2012,Japanese
+36,36,Yuito Kimpara,JPN,M,1.65,50,23-04-95,Shizuoka,None,Júbilo Iwata,2012,Japanese
+37,37,Toki Miyamura,JPN,F,1.78,73,23-05-94,Kumamoto,None,Júbilo Iwata,2012,Japanese
+38,38,Kenshiro Suzuki,JPN,M,1.72,60,20-03-96,Shizuoka,None,Júbilo Iwata,2012,Japanese
+41,41,Ayumi Niekawa,JPN,G,1.90,72,12-05-94,Shizuoka,None,Júbilo Iwata,2012,Japanese
+42,44,Han Sang-Woon,KOR,F,1.82,76,03-05-86,Taebaek,Seongnam Ilhwa Chunma,Júbilo Iwata,2012,Japanese
+43,50,Yuki Kobayashi,JPN,M,1.82,68,24-04-92,Tokyo,Tokyo Verdy,Júbilo Iwata,2012,Japanese
+1,1,Akihiro Sato,JPN,G,1.83,73,30-08-86,Mie,Sanfrecce Hiroshima,Kashima Antlers,2012,Japanese
+3,3,Daiki Iwamasa,JPN,D,1.87,85,30-01-82,Yamaguchi,None,Kashima Antlers,2012,Japanese
+4,4,Kazuya Yamamura,JPN,D,1.84,75,02-12-89,Nagasaki,Ryutsu Keizai Univ,Kashima Antlers,2012,Japanese
+6,6,Koji Nakata,JPN,M,1.82,74,09-07-79,Shiga,Basel,Kashima Antlers,2012,Japanese
+7,7,Toru Araiba,JPN,D,1.82,74,12-07-79,Osaka,Gamba Osaka,Kashima Antlers,2012,Japanese
+8,8,Juninho,BRA,F,1.74,60,15-09-77,Salvador,Kawasaki Frontale,Kashima Antlers,2012,Japanese
+9,9,Yuya Osako,JPN,F,1.82,70,18-05-90,Kagoshima,None,Kashima Antlers,2012,Japanese
+10,10,Masahi Motoyama,JPN,M,1.75,66,20-06-79,Fukuoka,None,Kashima Antlers,2012,Japanese
+11,11,Júnior Dutra,BRA,M,1.84,76,25-04-88,Santos,Kyoto Sanga,Kashima Antlers,2012,Japanese
+13,13,Shinzo Koroki,JPN,M,1.75,67,31-07-86,Miyazaki,None,Kashima Antlers,2012,Japanese
+14,14,Chikashi Masuda,JPN,M,1.79,75,19-06-85,Miyazaki,None,Kashima Antlers,2012,Japanese
+15,15,Takeshi Aoki,JPN,M,1.83,75,28-09-82,Takasaki,None,Kashima Antlers,2012,Japanese
+16,16,Takuya Honda,JPN,M,1.77,70,17-04-85,Kanagawa,Shimizu S-Pulse,Kashima Antlers,2012,Japanese
+18,18,Yoshiki Nakagawa,JPN,F,1.76,70,14-07-93,Ibaraki,None,Kashima Antlers,2012,Japanese
+19,19,Hideya Okamoto,JPN,F,1.83,67,18-05-87,Osaka,Avispa Fukuoka,Kashima Antlers,2012,Japanese
+20,20,Gaku Shibasaki,JPN,M,1.75,62,28-05-92,Aomori,Aomori Yamada HS,Kashima Antlers,2012,Japanese
+21,21,Hitoshi Sogahata,JPN,G,1.87,80,02-08-79,Ibaraki,None,Kashima Antlers,2012,Japanese
+22,22,Daigo Nishi,JPN,M,1.75,64,28-08-87,Hokkaido,Consadole Sapporo,Kashima Antlers,2012,Japanese
+23,23,Gen Shoji,JPN,D,1.80,73,11-12-92,Hyogo,Yonago Kita HS,Kashima Antlers,2012,Japanese
+24,24,Yukitoshi Ito,JPN,D,1.75,68,03-09-93,Shizuoka,Shizuoka Gakuen HS,Kashima Antlers,2012,Japanese
+25,25,Yasushi Endo,JPN,M,1.68,69,07-04-88,Miyagi,Shiogama FC,Kashima Antlers,2012,Japanese
+26,26,Ryuga Suzuki,JPN,D,1.80,66,28-02-94,Miyagi,None,Kashima Antlers,2012,Japanese
+27,27,Takahide Umebachi,JPN,M,1.75,66,08-06-92,Osaka,Kansai Univ,Kashima Antlers,2012,Japanese
+28,28,Shoma Doi,JPN,M,1.68,59,21-05-92,Yamagata,Kashima Antlers,Kashima Antlers,2012,Japanese
+29,29,Shinichiro Kawamata,JPN,G,1.88,86,23-07-89,Shizuoka,None,Kashima Antlers,2012,Japanese
+30,30,Ryuta Miyauchi,JPN,M,1.69,66,02-03-94,Chiba,None,Kashima Antlers,2012,Japanese
+31,31,Naoki Yagi,JPN,G,1.97,70,18-12-91,Gumma,None,Kashima Antlers,2012,Japanese
+33,33,Renato Cajá,BRA,M,1.73,70,15-09-84,Paraíba,Guangzhou Evergrande,Kashima Antlers,2012,Japanese
+40,40,Mitsuo Ogasawara,JPN,M,1.73,72,05-04-79,Iwate,None,Kashima Antlers,2012,Japanese
+1,1,Kazushige Kirihata,JPN,G,1.85,77,30-06-87,Yamanashi,None,Kashiwa Reysol,2012,Japanese
+3,3,Naoya Kondo,JPN,D,1.80,76,03-10-83,Tochigi,None,Kashiwa Reysol,2012,Japanese
+5,5,Tatsuya Masushima,JPN,D,1.80,74,22-04-85,Chiba,Kyoto Sanga,Kashiwa Reysol,2012,Japanese
+6,6,Daisuke Nasu,JPN,D,1.80,75,10-10-81,Kanagawa,Júbilo Iwata,Kashiwa Reysol,2012,Japanese
+7,7,Hidekazu Otani,JPN,M,1.74,67,06-11-84,Chiba,None,Kashiwa Reysol,2012,Japanese
+8,8,Masakatsu Sawa,JPN,F,1.73,70,12-01-83,Moriya,Cienciano,Kashiwa Reysol,2012,Japanese
+10,10,Leandro Domingues,BRA,M,1.73,70,24-08-83,Vitória da Conquista,Vitória,Kashiwa Reysol,2012,Japanese
+11,11,Neto Baiano,BRA,F,1.87,82,17-09-82,Ituaçu,Vitória,Kashiwa Reysol,2012,Japanese
+14,14,Kweon Han-Jin,KOR,D,1.87,79,19-05-88,Changwon,Kyunghee Univ,Kashiwa Reysol,2012,Japanese
+15,15,Jorge Wágner,BRA,M,1.78,73,17-11-78,Feira de Santana,São Paulo,Kashiwa Reysol,2012,Japanese
+16,16,Koji Inada,JPN,G,1.87,82,19-06-85,Osaka,Roasso Kumamoto,Kashiwa Reysol,2012,Japanese
+17,17,An Yong-Hak,PRK,M,1.82,76,25-10-78,Okayama,Omiya Ardija,Kashiwa Reysol,2012,Japanese
+18,18,Junya Tanaka,JPN,F,1.80,73,15-07-87,Tokyo,None,Kashiwa Reysol,2012,Japanese
+19,19,Masato Kudo,JPN,F,1.75,60,06-05-90,Tokyo,None,Kashiwa Reysol,2012,Japanese
+20,20,Akimi Barada,JPN,M,1.70,58,30-05-91,Chiba,None,Kashiwa Reysol,2012,Japanese
+21,21,Takanori Sugeno,JPN,G,1.79,75,03-05-84,Saitama,Yokohama FC,Kashiwa Reysol,2012,Japanese
+22,22,Wataru Hashimoto,JPN,D,1.81,72,14-09-86,Shiga,None,Kashiwa Reysol,2012,Japanese
+23,23,Hirofumi Watanabe,JPN,D,1.85,75,07-07-87,Yamagata,None,Kashiwa Reysol,2012,Japanese
+26,26,Ryoji Fukui,JPN,D,1.80,73,07-08-87,Hyogo,Tokyo Verdy,Kashiwa Reysol,2012,Japanese
+27,27,Masato Fujita,JPN,D,1.76,70,08-05-86,Oita,Yokohama F Marinos,Kashiwa Reysol,2012,Japanese
+28,28,Ryoichi Kurisawa,JPN,M,1.70,64,05-09-82,Chiba,FC Tokyo,Kashiwa Reysol,2012,Japanese
+29,29,Koki Mizuno,JPN,M,1.73,58,06-09-85,Shizuoka,Celtic,Kashiwa Reysol,2012,Japanese
+30,30,Ryosuke Yamanaka,JPN,M,1.68,58,20-04-93,Chiba,None,Kashiwa Reysol,2012,Japanese
+31,31,Goro Kawanami,JPN,G,1.92,82,30-04-91,Ibaraki,None,Kashiwa Reysol,2012,Japanese
+33,33,Yu Kimura,JPN,F,1.75,67,03-06-94,Chiba,None,Kashiwa Reysol,2012,Japanese
+34,34,Hiroki Akino,JPN,M,1.76,62,08-10-94,Chiba,None,Kashiwa Reysol,2012,Japanese
+35,35,Yusuke Kobayashi,JPN,M,1.72,60,23-10-94,Saitama,None,Kashiwa Reysol,2012,Japanese
+1,1,Rikihiro Sugiyama,JPN,G,1.86,77,01-05-87,Shizuoka,None,Kawasaki Frontale,2012,Japanese
+2,2,Hiroki Ito,JPN,D,1.83,74,27-07-78,Ehime,None,Kawasaki Frontale,2012,Japanese
+3,3,Yusuke Tanaka,JPN,D,1.81,73,14-04-86,Tokyo,Yokohama F Marinos,Kawasaki Frontale,2012,Japanese
+4,4,Yusuke Igawa,JPN,D,1.82,75,30-10-82,Osaka,Gamba Osaka,Kawasaki Frontale,2012,Japanese
+5,5,Jeci,BRA,D,1.84,77,22-04-80,Guaratinguetá,Coritiba,Kawasaki Frontale,2012,Japanese
+7,7,Masaru Kurotsu,JPN,F,1.79,70,20-08-82,Ibaraki,None,Kawasaki Frontale,2012,Japanese
+8,8,Takanobu Komiyama,JPN,D,1.74,72,03-10-84,Chiba,Yokohama F Marinos,Kawasaki Frontale,2012,Japanese
+9,9,Takuro Yajima,JPN,F,1.82,78,28-03-84,Shiga,Shimizu S-Pulse,Kawasaki Frontale,2012,Japanese
+10,10,Renato,BRA,F,1.67,68,04-10-88,Cardoso,Coritiba,Kawasaki Frontale,2012,Japanese
+11,11,Yu Kobayashi,JPN,F,1.75,68,23-09-87,Aomori,Takushoku Univ,Kawasaki Frontale,2012,Japanese
+13,13,Koji Yamase,JPN,M,1.73,70,22-09-81,Hokkaido,Yokohama F Marinos,Kawasaki Frontale,2012,Japanese
+14,14,Kengo Nakamura,JPN,M,1.75,67,31-10-80,Tokyo,None,Kawasaki Frontale,2012,Japanese
+15,15,Yuki Saneto,JPN,D,1.78,71,19-01-89,Saitama,Kochi Univ,Kawasaki Frontale,2012,Japanese
+16,16,Jumpei Kusukami,JPN,M,1.70,61,27-08-87,Shiga,None,Kawasaki Frontale,2012,Japanese
+17,17,Rui Komatsu,JPN,F,1.87,77,29-08-83,Kochi,Cerezo Osaka,Kawasaki Frontale,2012,Japanese
+18,18,Kyohei Sugiura,JPN,M,1.76,66,11-01-89,Shizuoka,None,Kawasaki Frontale,2012,Japanese
+20,20,Junichi Inamoto,JPN,M,1.81,75,18-09-79,Yūsui,Rennes,Kawasaki Frontale,2012,Japanese
+21,21,Yohei Nishibe,JPN,G,1.87,77,01-12-80,Hyogo,Shonan Bellmare,Kawasaki Frontale,2012,Japanese
+22,22,Akito Fukumori,JPN,D,1.81,73,16-12-92,Kanagawa,Toko Gakuen HS,Kawasaki Frontale,2012,Japanese
+23,23,Kyohei Noborizato,JPN,M,1.68,60,13-11-90,Osaka,None,Kawasaki Frontale,2012,Japanese
+25,25,Renê Santos,BRA,D,1.84,74,21-04-92,Salvador,Grêmio,Kawasaki Frontale,2012,Japanese
+26,26,Koya Tanio,JPN,F,1.78,70,29-05-92,Tottori,Yonago Kita HS,Kawasaki Frontale,2012,Japanese
+27,27,Shunsuke Ando,JPN,G,1.85,75,10-08-90,Tokyo,None,Kawasaki Frontale,2012,Japanese
+28,28,Junichi Tanaka,JPN,M,1.69,68,23-10-93,Hyogo,Osaka Toin HS,Kawasaki Frontale,2012,Japanese
+29,29,Shun Takagi,JPN,G,1.81,75,22-05-89,Kanagawa,Meiji Univ,Kawasaki Frontale,2012,Japanese
+30,30,Ryota Oshima,JPN,M,1.68,64,23-01-93,Shizuoka,Shizuoka Gakuen HS,Kawasaki Frontale,2012,Japanese
+31,31,Koki Kazama,JPN,M,1.77,70,19-06-91,Hiroshima,Koblenz,Kawasaki Frontale,2012,Japanese
+32,32,Daniel Schmidt,JPN,G,1.96,90,03-02-92,Illinois,Chuo Univ,Kawasaki Frontale,2012,Japanese
+33,33,Shun Morishita,JPN,D,1.78,70,11-05-86,Mie,Kyoto Sanga,Kawasaki Frontale,2012,Japanese
+34,34,Koya Kazama,JPN,M,1.80,71,16-04-93,Hiroshima,Shimizu Commercial HS,Kawasaki Frontale,2012,Japanese
+35,35,Kyotaro Yamakoshi,JPN,D,1.72,69,18-03-91,Tochigi,Tsukuba Univ,Kawasaki Frontale,2012,Japanese
+1,1,Seigo Narazaki,JPN,G,1.87,80,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2012,Japanese
+4,4,Marcus Tulio Tanaka,JPN,D,1.85,82,24-04-81,São Paulo,Urawa Red Diamonds,Nagoya Grampus,2012,Japanese
+5,5,Takahiro Masukawa,JPN,D,1.91,93,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus,2012,Japanese
+6,6,Shohei Abe,JPN,D,1.71,70,01-12-83,Chiba,None,Nagoya Grampus,2012,Japanese
+7,7,Naoshi Nakamura,JPN,M,1.76,72,27-01-79,Chiba,None,Nagoya Grampus,2012,Japanese
+8,8,Jungo Fujimoto,JPN,M,1.73,69,24-03-84,Kanagawa,Shimizu S-Pulse,Nagoya Grampus,2012,Japanese
+10,10,Yoshizumi Ogawa,JPN,M,1.73,67,25-08-84,Tokyo,None,Nagoya Grampus,2012,Japanese
+11,11,Keiji Tamada,JPN,F,1.73,67,11-04-80,Chiba,None,Nagoya Grampus,2012,Japanese
+13,13,Ryota Isomura,JPN,M,1.81,70,16-03-91,Aichi,None,Nagoya Grampus,2012,Japanese
+14,14,Keiji Yoshimura,JPN,M,1.76,72,08-08-79,Ehime,None,Nagoya Grampus,2012,Japanese
+16,16,Joshua Kennedy,AUS,F,1.94,84,20-08-82,Wodonga,Karlsruhe,Nagoya Grampus,2012,Japanese
+17,17,Yuki Maki,JPN,F,1.82,75,26-06-84,Kumamoto,Shonan Bellmare,Nagoya Grampus,2012,Japanese
+18,18,Kensuke Nagai,JPN,F,1.77,67,05-03-89,Hiroshima,Fukuoka Univ,Nagoya Grampus,2012,Japanese
+20,20,Danilson Córdoba,COL,M,1.85,80,06-09-86,Quibdó,Consadole Sapporo,Nagoya Grampus,2012,Japanese
+21,21,Koji Nishimura,JPN,G,1.86,78,07-07-87,Mie,Kyoto Sanga,Nagoya Grampus,2012,Japanese
+22,22,Daniel,BRA,M,1.86,79,30-05-82,Cabo Frio,Ventforet Kofu,Nagoya Grampus,2012,Japanese
+23,23,Yosuke Ishibitsu,JPN,M,1.78,73,23-07-83,Osaka,Vissel Kobe,Nagoya Grampus,2012,Japanese
+25,25,Mu Kanasaki,JPN,M,1.80,70,16-02-89,Mie,Oita Trinita,Nagoya Grampus,2012,Japanese
+27,27,Ryota Tanabe,JPN,M,1.78,70,10-04-93,Tokyo,Mitsubishi Yowa,Nagoya Grampus,2012,Japanese
+28,28,Taishi Taguchi,JPN,M,1.74,65,16-03-91,Okinawa,None,Nagoya Grampus,2012,Japanese
+29,29,Kazuki Sato,JPN,D,1.74,65,18-05-93,Aichi,None,Nagoya Grampus,2012,Japanese
+30,30,Taisuke Mizuno,JPN,M,1.70,60,04-05-93,Aichi,None,Nagoya Grampus,2012,Japanese
+31,31,Motoki Takahara,JPN,F,1.68,61,28-05-93,Aichi,None,Nagoya Grampus,2012,Japanese
+32,32,Hayuma Tanaka,JPN,M,1.74,64,31-07-82,Nagano,Yokohama F Marinos,Nagoya Grampus,2012,Japanese
+34,34,Makito Yoshida,JPN,M,1.80,72,20-10-92,Chiba,Ryukei Keizai Univ,Nagoya Grampus,2012,Japanese
+35,35,Teruki Tanaka,JPN,M,1.83,73,26-08-92,Tokya,Mitsubishi Yowa,Nagoya Grampus,2012,Japanese
+37,37,Hiroki Fuchigami,JPN,G,1.84,69,27-11-94,Aichi,None,Nagoya Grampus,2012,Japanese
+38,38,Alex,JPN,M,1.78,69,20-07-77,Maringá,Urawa Red Diamonds,Nagoya Grampus,2012,Japanese
+39,39,Tetta Itakura,JPN,G,1.78,83,26-04-95,Aichi,None,Nagoya Grampus,2012,Japanese
+41,50,Yoshinari Takagi,JPN,G,1.87,86,20-05-79,Tokyo,Tokyo Verdy,Nagoya Grampus,2012,Japanese
+1,1,Takashi Kitano,JPN,G,1.86,75,04-10-82,Hokkaido,Albirex Niigata,Omiya Ardija,2012,Japanese
+2,2,Kosuke Kikuchi,JPN,M,1.82,72,16-12-85,Saitama,Kawasaki Frontale,Omiya Ardija,2012,Japanese
+3,3,Hiroyuki Komoto,JPN,D,1.83,72,04-09-85,Kyoto,Vissel Kobe,Omiya Ardija,2012,Japanese
+4,4,Yuki Fukaya,JPN,D,1.80,73,01-08-82,Aichi,Oita Trinita,Omiya Ardija,2012,Japanese
+5,5,Carlinhos Paraíba,BRA,M,1.70,69,03-04-83,Rio Tinto,São Paulo,Omiya Ardija,2012,Japanese
+6,6,Takuya Aoki,JPN,M,1.79,72,16-09-89,Gumma,None,Omiya Ardija,2012,Japanese
+7,7,Kota Ueda,JPN,M,1.74,68,09-05-86,Tokyo,Júbilo Iwata,Omiya Ardija,2012,Japanese
+8,8,Keigo Higashi,JPN,M,1.77,63,20-07-90,Fukuoka,Oita Trinita,Omiya Ardija,2012,Japanese
+9,9,Cho Young-Cheol,KOR,F,1.82,74,31-05-89,Ulsan,Albirex Niigata,Omiya Ardija,2012,Japanese
+11,11,Zlatan Ljubijankič,SVN,F,1.82,84,15-12-83,Ljubljana,KAA Gent,Omiya Ardija,2012,Japanese
+13,13,Daigo Watanabe,JPN,M,1.71,62,03-12-84,Nagasaki,Kyoto Sanga,Omiya Ardija,2012,Japanese
+16,16,Jun Kanakubo,JPN,M,1.70,64,26-07-87,Ibaraki,Ryutsu Keizai Univ,Omiya Ardija,2012,Japanese
+18,18,Hayato Hashimoto,JPN,M,1.75,63,15-09-81,Fukui,None,Omiya Ardija,2012,Japanese
+19,19,Milivoje Novakovič,SVN,F,1.92,85,18-05-79,Ljubljana,Köln,Omiya Ardija,2012,Japanese
+21,21,Koji Ezumi,JPN,G,1.91,84,18-12-78,Shimane,Oita Trinita,Omiya Ardija,2012,Japanese
+22,22,Takumi Shimohira,JPN,D,1.76,68,06-10-88,Osaka,Gamba Osaka,Omiya Ardija,2012,Japanese
+23,23,Shin Kanazawa,JPN,M,1.74,67,09-09-83,Saitama,None,Omiya Ardija,2012,Japanese
+24,24,Norio Suzuki,JPN,M,1.77,77,14-02-84,Chiba,Angers,Omiya Ardija,2012,Japanese
+26,26,Kazuhiro Murakami,JPN,M,1.78,74,20-01-81,Mie,Kawasaki Frontale,Omiya Ardija,2012,Japanese
+27,27,Masahiko Ichikawa,JPN,F,1.68,68,17-06-85,Tokyo,None,Omiya Ardija,2012,Japanese
+29,29,Shintaro Shimizu,JPN,F,1.76,71,23-08-92,Saitama,Seibudai HS,Omiya Ardija,2012,Japanese
+30,30,Daisuke Watabe,JPN,F,1.70,67,19-04-89,Saitama,None,Omiya Ardija,2012,Japanese
+31,31,Keiki Shimizu,JPN,G,1.83,75,10-12-85,Gumma,None,Omiya Ardija,2012,Japanese
+32,32,Yu Hasegawa,JPN,F,1.87,78,05-07-87,Yamanashi,Montedio Yamagata,Omiya Ardija,2012,Japanese
+33,33,Lee Keun-Ho,KOR,M,1.72,65,27-02-93,,FC Seoul,Omiya Ardija,2012,Japanese
+34,34,Yosuke Kataoka,JPN,D,1.79,73,26-05-82,Saitama,Kyoto Sanga,Omiya Ardija,2012,Japanese
+35,35,Shuhei Kawata,JPN,G,1.85,77,05-04-94,Saitama,None,Omiya Ardija,2012,Japanese
+36,36,Keisuke Oyama,JPN,M,1.74,62,07-05-95,Saitama,None,Omiya Ardija,2012,Japanese
+37,37,Hikaru Koinuma,JPN,D,1.83,70,03-10-95,Saitama,None,Omiya Ardija,2012,Japanese
+1,1,Taku Akahoshi,JPN,G,1.85,80,21-04-84,Fukuoka,Fukuoka Univ,Sagan Tosu,2012,Japanese
+2,2,Kosuke Kitani,JPN,D,1.83,77,09-10-78,Kamagaya,Vegalta Sendai,Sagan Tosu,2012,Japanese
+3,3,Keita Isozaki,JPN,D,1.80,76,17-11-80,Odawara,Vegalta Sendai,Sagan Tosu,2012,Japanese
+4,4,Teruaki Kobayashi,JPN,D,1.85,78,20-06-79,Ibaraki,Ventforet Kofu,Sagan Tosu,2012,Japanese
+5,5,Kim Kun-Hoan,KOR,D,1.93,86,12-08-86,,Yokohama F Marinos,Sagan Tosu,2012,Japanese
+6,6,Tomotaka Okamoto,JPN,M,1.79,65,29-06-90,Hiroshima,Sanfrecce Hiroshima,Sagan Tosu,2012,Japanese
+7,7,Keisuke Funatani,JPN,M,1.74,68,07-01-86,Mie,Júbilo Iwata,Sagan Tosu,2012,Japanese
+8,8,Kota Mizunuma,JPN,F,1.75,66,22-02-90,Tokyo,Yokohama F Marinos,Sagan Tosu,2012,Japanese
+9,9,Tozin,BRA,F,1.79,79,10-11-84,Gurupi,Corinthians Alagoano,Sagan Tosu,2012,Japanese
+10,10,Kim Min-Woo,KOR,M,1.72,69,25-02-90,Seoul,Yonsei Univ,Sagan Tosu,2012,Japanese
+11,11,Yohei Toyoda,JPN,F,1.85,79,11-04-85,Ishikawa,Kyoto Sanga,Sagan Tosu,2012,Japanese
+12,12,Tatsuro Okuda,JPN,G,1.85,78,20-09-88,Nara,Aichi Gakuin Univ,Sagan Tosu,2012,Japanese
+13,13,Yusuke Inuzuka,JPN,M,1.78,75,13-12-83,Shizuoka,Ventforet Kofu,Sagan Tosu,2012,Japanese
+14,14,Naoyuki Fujita,JPN,M,1.75,68,22-06-87,Fukuoka,Fukuoka Univ,Sagan Tosu,2012,Japanese
+15,15,Ryuhei Niwa,JPN,M,1.76,68,13-01-86,Yokohama,Vissel Kobe,Sagan Tosu,2012,Japanese
+18,18,Ryunosuke Noda,JPN,F,1.83,74,28-09-88,Fukuoka,Japan Univ of Economics,Sagan Tosu,2012,Japanese
+19,19,Shohei Okada,JPN,F,1.68,65,29-04-89,Kanagawa,NIFS Kanoya,Sagan Tosu,2012,Japanese
+20,20,Yeo Sung-Hye,KOR,D,1.86,80,06-08-87,,Hanyang Univ,Sagan Tosu,2012,Japanese
+21,21,Takuya Muro,JPN,G,1.81,78,02-11-82,Osaka,Tokyo Verdy,Sagan Tosu,2012,Japanese
+22,22,Kei Ikeda,JPN,F,1.78,72,20-10-86,Inzai,Ryutsu Keizai Univ,Sagan Tosu,2012,Japanese
+23,23,So Morita,JPN,D,1.73,61,14-05-92,Kumamoto,None,Sagan Tosu,2012,Japanese
+24,24,Kyohei Kuroki,JPN,D,1.75,65,31-07-89,Kumamoto,Fukuoka Univ,Sagan Tosu,2012,Japanese
+25,25,Ryota Hayasaka,JPN,M,1.83,73,19-09-85,Nara,Honda FC,Sagan Tosu,2012,Japanese
+26,26,Tatsuya Sakai,JPN,D,1.83,71,19-11-90,Fukuoka,NIFS Kanoya,Sagan Tosu,2012,Japanese
+27,27,Koki Kiyotake,JPN,M,1.77,65,20-03-91,Oita,Fukuoka Univ,Sagan Tosu,2012,Japanese
+28,28,Yoshiki Takahashi,JPN,M,1.70,67,14-05-85,Nagano,Vegalta Sendai,Sagan Tosu,2012,Japanese
+29,29,Shohei Kishida,JPN,D,1.80,70,03-04-90,Oita,Fukuoka Univ,Sagan Tosu,2012,Japanese
+30,30,Kohei Kuroki,JPN,M,1.75,70,31-07-89,Kumamoto,Saga Univ,Sagan Tosu,2012,Japanese
+1,1,Shusaku Nishikawa,JPN,G,1.83,79,18-06-86,Oita,Oita Trinita,Sanfrecce Hiroshima,2012,Japanese
+2,2,Hwang Seok-Ho,KOR,D,1.82,80,27-06-89,Cheongju,Daegu Univ,Sanfrecce Hiroshima,2012,Japanese
+3,3,Daiki Nishioka,JPN,D,1.80,72,21-08-88,Miyazaki,Fukuoka Univ,Sanfrecce Hiroshima,2012,Japanese
+4,4,Hiroki Mizumoto,JPN,D,1.83,72,12-09-85,Mie,Kyoto Sanga,Sanfrecce Hiroshima,2012,Japanese
+5,5,Kazuhiko Chiba,JPN,M,1.83,74,21-06-85,Hakkaido,Albirex Niigata,Sanfrecce Hiroshima,2012,Japanese
+6,6,Toshihiro Aoyama,JPN,M,1.73,72,22-02-86,Okayama,None,Sanfrecce Hiroshima,2012,Japanese
+7,7,Koji Morisaki,JPN,M,1.77,76,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2012,Japanese
+8,8,Kazuyuki Morisaki,JPN,M,1.77,72,09-05-81,Hiroshima,None,Sanfrecce Hiroshima,2012,Japanese
+9,9,Naoki Ishihara,JPN,F,1.73,61,14-08-84,Gumma,Omiya Ardija,Sanfrecce Hiroshima,2012,Japanese
+11,11,Hisato Sato,JPN,F,1.70,68,12-03-82,Saitama,Vegalta Sendai,Sanfrecce Hiroshima,2012,Japanese
+13,13,Takuya Masuda,JPN,G,1.84,83,29-06-89,Hiroshima,Ryutsu Keizai Univ,Sanfrecce Hiroshima,2012,Japanese
+14,14,Mihael Mikić,CRO,M,1.76,70,06-01-80,Zagreb,Dinamo Zagreb,Sanfrecce Hiroshima,2012,Japanese
+15,15,Yojiro Takahagi,JPN,M,1.83,66,02-08-86,Fukushima,None,Sanfrecce Hiroshima,2012,Japanese
+16,16,Satoru Yamagishi,JPN,M,1.81,77,03-05-83,Chiba,Kawasaki Frontale,Sanfrecce Hiroshima,2012,Japanese
+18,18,Ryuichi Hirashige,JPN,F,1.75,75,15-06-88,Hiroshima,None,Sanfrecce Hiroshima,2012,Japanese
+19,19,Lee Dae-Heon,KOR,M,1.85,78,17-11-93,Samcheok,Gangneung HS,Sanfrecce Hiroshima,2012,Japanese
+20,20,Hironori Ishikawa,JPN,M,1.70,65,06-01-88,Tokyo,Ryutsu Keizai Univ,Sanfrecce Hiroshima,2012,Japanese
+21,21,Yutaro Hara,JPN,G,1.87,87,23-04-90,Shimane,None,Sanfrecce Hiroshima,2012,Japanese
+22,22,Tsubasa Yokotake,JPN,M,1.77,78,30-08-89,Hiroshima,None,Sanfrecce Hiroshima,2012,Japanese
+23,23,Kota Sameshima,JPN,M,1.80,71,24-06-92,Kagoshima,Kagoshima Josei HS,Sanfrecce Hiroshima,2012,Japanese
+24,24,Ryota Moriwaki,JPN,D,1.77,74,06-04-86,Hiroshima,None,Sanfrecce Hiroshima,2012,Japanese
+25,25,Junya Osaki,JPN,F,1.70,71,02-04-91,Toyama,None,Sanfrecce Hiroshima,2012,Japanese
+26,26,Sena Inami,JPN,F,1.80,73,25-06-92,Ishikawa,None,Sanfrecce Hiroshima,2012,Japanese
+27,27,Kohei Shimizu,JPN,F,1.66,62,30-04-89,Oita,None,Sanfrecce Hiroshima,2012,Japanese
+30,30,Shinji Tsujio,JPN,D,1.80,72,23-12-85,Osaka,Shimizu S-Pulse,Sanfrecce Hiroshima,2012,Japanese
+33,33,Tsukasa Shiotani,JPN,D,1.80,74,05-12-88,Tokushima,Mito HollyHock,Sanfrecce Hiroshima,2012,Japanese
+35,35,Koji Nakajima,JPN,M,1.81,68,20-08-77,Osaka,JEF United,Sanfrecce Hiroshima,2012,Japanese
+1,1,Kaito Yamamoto,JPN,G,1.88,81,10-07-85,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+2,2,Taisuke Muramatsu,JPN,D,1.76,77,16-12-89,Shizuoka,Shonan Bellmare,Shimizu S-Pulse,2012,Japanese
+3,3,Yasuhiro Hiraoka,JPN,D,1.82,65,23-05-86,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+4,4,Calvin Jong-a-Pin,NED,D,1.83,75,18-07-86,Amsterdam,SC Heerenveen,Shimizu S-Pulse,2012,Japanese
+6,6,Kota Sugiyama,JPN,M,1.77,67,24-01-85,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+10,10,Daigo Kobayashi,JPN,M,1.78,70,19-02-83,Shizuoka,Iraklis,Shimizu S-Pulse,2012,Japanese
+11,11,Genki Omae,JPN,F,1.66,61,10-12-89,Kanagawa,None,Shimizu S-Pulse,2012,Japanese
+13,13,Toshiyuki Takagi,JPN,F,1.70,62,25-05-91,Kanagawa,Tokyo Verdy,Shimizu S-Pulse,2012,Japanese
+14,14,Sho Ito,JPN,F,1.84,74,24-07-88,Kasugai,Grenoble,Shimizu S-Pulse,2012,Japanese
+16,16,Kohei Hattanda,JPN,M,1.71,62,08-01-90,Kagoshima,Tsukuba Univ,Shimizu S-Pulse,2012,Japanese
+17,17,Yosuke Kawai,JPN,M,1.65,59,04-08-89,Shizuoka,Keio Univ,Shimizu S-Pulse,2012,Japanese
+19,19,Naohiro Takahara,JPN,F,1.81,75,04-06-79,Shizuoka,Suwon Samsung Bluewings,Shimizu S-Pulse,2012,Japanese
+21,21,Kempei Usui,JPN,G,1.81,75,15-05-87,Kashiwa,Tsukuba Univ,Shimizu S-Pulse,2012,Japanese
+23,23,Ryohei Shirasaki,JPN,F,1.80,67,18-05-93,Tokyo,Yamanashi Gakuin HS,Shimizu S-Pulse,2012,Japanese
+24,24,Makoto Shibahara,JPN,M,1.65,60,23-04-92,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+25,25,Tomoya Inukai,JPN,D,1.80,70,12-05-93,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+26,26,Satoru Kashiwase,JPN,F,1.82,72,01-06-93,Chiba,None,Shimizu S-Pulse,2012,Japanese
+27,27,Atomu Nabeta,JPN,F,1.77,65,01-05-91,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+28,28,Yutaka Yoshida,JPN,D,1.68,66,17-02-90,Shizuoka,Ventforet Kofu,Shimizu S-Pulse,2012,Japanese
+29,29,Masatoshi Kushibiki,JPN,G,1.85,75,29-01-93,Aomori,Aomori Yamada HS,Shimizu S-Pulse,2012,Japanese
+30,30,Kang Song-Ho,PRK,D,1.86,80,28-05-87,Tokyo,Oita Trinita,Shimizu S-Pulse,2012,Japanese
+31,31,Akihiro Hayashi,JPN,G,1.95,89,07-05-87,Tokyo,Olympic Charleroi,Shimizu S-Pulse,2012,Japanese
+32,32,Hideki Ishige,JPN,M,1.68,66,21-09-94,Shizuoka,None,Shimizu S-Pulse,2012,Japanese
+33,33,Lee Ki-Je,KOR,D,1.75,72,09-07-91,Jeju,Dongguk Univ,Shimizu S-Pulse,2012,Japanese
+34,34,Yuji Senuma,JPN,F,1.85,77,01-09-90,Sagamihara,Tsukuba Univ,Shimizu S-Pulse,2012,Japanese
+35,35,Kim Hyun-Sung,KOR,F,1.86,77,27-09-89,Suwon,FC Seoul,Shimizu S-Pulse,2012,Japanese
+36,36,Kiyotaka Miyoshi,JPN,D,1.80,74,10-07-85,Tokyo,Boston River,Shimizu S-Pulse,2012,Japanese
+1,1,Hitoshi Shiota,JPN,G,1.85,80,28-05-81,Ibaraki,None,FC Tokyo,2012,Japanese
+2,2,Yuhei Tokunaga,JPN,D,1.79,76,25-09-83,Nagasaki,None,FC Tokyo,2012,Japanese
+3,3,Masato Morishige,JPN,M,1.79,72,21-05-87,Hiroshima,Oita Trinita,FC Tokyo,2012,Japanese
+4,4,Hideto Takahashi,JPN,D,1.82,74,17-10-87,Gumma,None,FC Tokyo,2012,Japanese
+5,5,Kenichi Kaga,JPN,D,1.81,72,30-09-83,Akita,Júbilo Iwata,FC Tokyo,2012,Japanese
+6,6,Kosuke Ota,JPN,D,1.78,74,23-07-87,Tokyo,Shimizu S-Pulse,FC Tokyo,2012,Japanese
+7,7,Takuji Yonemoto,JPN,M,1.76,63,03-12-90,Hyogo,None,FC Tokyo,2012,Japanese
+8,8,Ariajasuru Hasegawa,JPN,M,1.86,70,29-10-88,Saitama,Yokohama F Marinos,FC Tokyo,2012,Japanese
+9,9,Edmilson,BRA,F,1.83,77,15-09-82,Salvador,Al-Gharafa,FC Tokyo,2012,Japanese
+10,10,Yohei Kajiyama,JPN,M,1.80,77,24-09-85,Tokyo,None,FC Tokyo,2012,Japanese
+11,11,Kazuma Watanabe,JPN,F,1.81,75,10-08-86,Nagasaki,Yokohama F Marinos,FC Tokyo,2012,Japanese
+13,13,Sota Hirayama,JPN,F,1.90,85,06-06-85,Fukuoka,Heracles Almelo,FC Tokyo,2012,Japanese
+14,14,Hokuto Nakamura,JPN,D,1.67,69,10-07-85,Tarami,Avispa Fukuoka,FC Tokyo,2012,Japanese
+15,15,Daishi Hiramatsu,JPN,D,1.76,70,03-07-83,Tochigi,Mito HollyHock,FC Tokyo,2012,Japanese
+16,16,Yuichi Maruyama,JPN,D,1.83,73,16-06-89,Tokyo,Meiji Univ,FC Tokyo,2012,Japanese
+17,17,Hiroki Kawano,JPN,M,1.65,58,30-03-90,Kanagawa,Tokyo Verdy,FC Tokyo,2012,Japanese
+18,18,Naohiro Ishikawa,JPN,M,1.75,68,12-05-81,Kanagawa,Yokohama Marinos,FC Tokyo,2012,Japanese
+19,19,Yohei Otake,JPN,M,1.65,60,02-05-89,Saitama,None,FC Tokyo,2012,Japanese
+20,20,Shuichi Gonda,JPN,G,1.87,82,03-03-89,Tokyo,None,FC Tokyo,2012,Japanese
+21,21,Ryotaro Hironaga,JPN,G,1.85,75,09-01-90,Tokyo,None,FC Tokyo,2012,Japanese
+22,22,Naotake Hanyu,JPN,M,1.67,63,22-12-79,Chiba,JEF United,FC Tokyo,2012,Japanese
+23,23,Yohei Hayashi,JPN,F,1.77,63,16-07-89,Saitama,Chuo Univ,FC Tokyo,2012,Japanese
+27,27,Sotan Tanabe,JPN,M,1.75,65,06-04-90,Tokyo,None,FC Tokyo,2012,Japanese
+30,30,Jang Hyun-Soo,KOR,D,1.86,79,28-09-91,Seoul,Yonsei Univ,FC Tokyo,2012,Japanese
+31,31,Satoshi Tokizawa,JPN,G,1.86,81,31-07-85,Gumma,Thespa Kusatsu,FC Tokyo,2012,Japanese
+32,32,Nemanja Vučićević,SRB,F,1.81,73,11-08-79,Belgrade,Manisaspor,FC Tokyo,2012,Japanese
+33,33,Kenta Mukuhara,JPN,D,1.72,64,06-07-89,Tokyo,None,FC Tokyo,2012,Japanese
+34,34,Yoshinori Muto,JPN,M,1.78,69,15-07-92,Tokyo,Keio Univ,FC Tokyo,2012,Japanese
+36,36,Hirotaka Mita,JPN,M,1.73,62,14-09-90,Tokyo,Meiji Univ,FC Tokyo,2012,Japanese
+37,37,Kento Hashimoto,JPN,M,1.79,72,16-08-93,Tokyo,None,FC Tokyo,2012,Japanese
+41,49,Lucas Sévérino,BRA,F,1.83,75,03-01-79,Ribeirão Preto,Atlético Paranaense,FC Tokyo,2012,Japanese
+1,1,Norihiro Yamagashi,JPN,G,1.85,84,17-03-74,Ibaraki,FC Tokyo,Urawa Red Diamonds,2012,Japanese
+2,2,Keisuke Tsuboi,JPN,D,1.79,67,16-09-79,Tokyo,None,Urawa Red Diamonds,2012,Japanese
+3,3,Tomoya Ugajin,JPN,M,1.71,71,23-03-88,Saitama,None,Urawa Red Diamonds,2012,Japanese
+6,6,Nobuhisa Yamada,JPN,D,1.75,66,10-09-75,Shizuoka,None,Urawa Red Diamonds,2012,Japanese
+7,7,Tsukasa Umesaki,JPN,M,1.67,64,23-02-87,Nagasaki,Oita Trinita,Urawa Red Diamonds,2012,Japanese
+8,8,Yosuke Kashiwagi,JPN,M,1.75,68,15-12-87,Hyogo,Sanfrecce Hiroshima,Urawa Red Diamonds,2012,Japanese
+10,10,Marcio Richardes,BRA,M,1.73,67,30-11-81,Andradina,Albirex Niigata,Urawa Red Diamonds,2012,Japanese
+11,11,Tatsuya Tanaka,JPN,F,1.67,63,27-11-82,Yamaguchi,None,Urawa Red Diamonds,2012,Japanese
+12,12,Koji Noda,JPN,D,1.69,64,17-08-86,Fukuoka,Hannan Univ,Urawa Red Diamonds,2012,Japanese
+13,13,Keita Suzuki,JPN,M,1.77,67,08-07-81,Shizuoka,None,Urawa Red Diamonds,2012,Japanese
+14,14,Tadaaki Hirakawa,JPN,M,1.71,67,01-05-79,Shizuoka,None,Urawa Red Diamonds,2012,Japanese
+16,16,Popó,BRA,M,1.68,69,01-09-78,Andradina,Vissel Kobe,Urawa Red Diamonds,2012,Japanese
+17,17,Mitsuru Nagata,JPN,D,1.83,72,06-04-83,Shizuoka,Albirex Niigata,Urawa Red Diamonds,2012,Japanese
+18,18,Nobuhiro Kato,JPN,G,1.80,71,11-12-84,Saitama,None,Urawa Red Diamonds,2012,Japanese
+20,20,Tomoaki Makino,JPN,D,1.82,77,11-05-87,Hiroshima,Köln,Urawa Red Diamonds,2012,Japanese
+21,21,Ranko Despotović,SRB,F,1.85,75,21-01-83,Loznica,Girona,Urawa Red Diamonds,2012,Japanese
+22,22,Yuki Abe,JPN,M,1.77,77,06-09-81,Chiba,Leicester C,Urawa Red Diamonds,2012,Japanese
+23,23,Masaya Nozaki,JPN,M,1.76,65,03-08-93,Saitama,None,Urawa Red Diamonds,2012,Japanese
+24,24,Genki Haraguchi,JPN,F,1.77,63,09-05-91,Saitama,None,Urawa Red Diamonds,2012,Japanese
+25,25,Koki Otani,JPN,G,1.85,80,08-04-89,Kumamoto,Lanza Kumamoto,Urawa Red Diamonds,2012,Japanese
+26,26,Mizuki Hamada,JPN,D,1.85,80,18-05-90,New Jersey,None,Urawa Red Diamonds,2012,Japanese
+27,27,Shuto Kojima,JPN,M,1.78,65,30-07-92,Tochigi,Maebashi Ikuei HS,Urawa Red Diamonds,2012,Japanese
+28,28,Takuya Okamoto,JPN,D,1.74,73,18-06-92,Saitama,None,Urawa Red Diamonds,2012,Japanese
+29,29,Shinya Yajima,JPN,M,1.71,67,18-01-94,Saitama,None,Urawa Red Diamonds,2012,Japanese
+34,34,Naoki Yamada,JPN,M,1.66,64,04-07-90,Saitama,None,Urawa Red Diamonds,2012,Japanese
+1,1,Shigeru Sakurai,JPN,G,1.84,81,29-06-79,Ibaraki,Montedio Yamagata,Vegalta Sendai,2012,Japanese
+2,2,Jiro Kamata,JPN,D,1.79,77,28-07-85,Tokyo,Kashiwa Reysol,Vegalta Sendai,2012,Japanese
+3,3,Kodai Watanabe,JPN,D,1.80,77,04-12-86,Chiba,None,Vegalta Sendai,2012,Japanese
+6,6,Makoto Kakuda,JPN,D,1.80,75,10-07-83,Kyoto,Kyoto Sanga,Vegalta Sendai,2012,Japanese
+7,7,Hiroaki Okuno,JPN,F,1.71,67,14-08-89,Osaka,None,Vegalta Sendai,2012,Japanese
+8,8,Toshihiro Matsushita,JPN,M,1.74,68,17-10-83,Kagoshima,FC Tokyo,Vegalta Sendai,2012,Japanese
+9,9,Takayuki Nakahara,JPN,F,1.81,76,18-11-84,Yamaguchi,None,Vegalta Sendai,2012,Japanese
+10,10,Ryang Yong-Gi,PRK,M,1.73,72,07-01-82,Osaka,None,Vegalta Sendai,2012,Japanese
+11,11,Kunimitsu Sekiguchi,JPN,M,1.70,64,26-12-85,Tokyo,None,Vegalta Sendai,2012,Japanese
+13,13,Atsushi Yanagisawa,JPN,F,1.77,75,27-05-77,Toyama,Kyoto Sanga,Vegalta Sendai,2012,Japanese
+14,14,Deyvid Sacconi,BRA,M,1.74,67,10-04-87,Alfenas,Palmeiras,Vegalta Sendai,2012,Japanese
+15,15,Yoshiaki Ota,JPN,M,1.75,68,11-06-83,Shizuoka,Júbilo Iwata,Vegalta Sendai,2012,Japanese
+16,16,Takuto Hayashi,JPN,G,1.88,87,09-08-82,Osaka,Consadole Sapporo,Vegalta Sendai,2012,Japanese
+17,17,Shingo Tomita,JPN,M,1.69,64,20-06-86,Tochigi,Tokyo Verdy,Vegalta Sendai,2012,Japanese
+18,18,Wilson,BRA,F,1.79,85,21-03-85,Araras,Shaanxi Chanba,Vegalta Sendai,2012,Japanese
+19,19,Yuki Muto,JPN,F,1.70,68,07-11-88,Zama,Ryutsu Keizai Univ,Vegalta Sendai,2012,Japanese
+20,20,Toshihiko Uchiyama,JPN,D,1.80,70,21-10-78,Kagoshima,Ventforet Kofu,Vegalta Sendai,2012,Japanese
+21,21,Yosuke Abe,JPN,G,1.87,89,24-05-90,Hokkaido,Yokohama F Marinos,Vegalta Sendai,2012,Japanese
+22,22,Kei Ishikawa,JPN,G,1.85,79,30-09-92,Niigata,Niigata Meikun HS,Vegalta Sendai,2012,Japanese
+23,23,Naoya Tamura,JPN,M,1.75,70,20-11-84,Tokyo,Chuo Univ,Vegalta Sendai,2012,Japanese
+24,24,Shingo Akamine,JPN,F,1.79,77,08-12-83,Okinawa,FC Tokyo,Vegalta Sendai,2012,Japanese
+25,25,Naoki Sugai,JPN,M,1.78,70,21-09-84,Yamagata,None,Vegalta Sendai,2012,Japanese
+26,26,Keita Fujimura,JPN,M,1.80,65,02-09-93,Iwate,Morioka Commercial HS,Vegalta Sendai,2012,Japanese
+27,27,Park Ju-Sung,KOR,M,1.83,84,20-02-84,Jinhae,Suwon Samsung Bluewings,Vegalta Sendai,2012,Japanese
+28,28,Keisuke Harada,JPN,D,1.75,67,11-06-88,Hokkaido,Tsukuba Univ,Vegalta Sendai,2012,Japanese
+29,29,Taikai Uemoto,JPN,D,1.80,68,01-06-82,Kagoshima,Cerezo Osaka,Vegalta Sendai,2012,Japanese
+30,30,Yuta Echigo,JPN,M,1.76,67,27-04-93,Miyagi,None,Vegalta Sendai,2012,Japanese
+36,36,Koji Hachisuka,JPN,D,1.80,77,20-07-90,Tochigi,Sendai Univ,Vegalta Sendai,2012,Japanese
+1,1,Yuki Uekusa,JPN,G,1.86,80,02-07-82,Chiba,Montedio Yamagata,Vissel Kobe,2012,Japanese
+2,2,Gakuto Kondo,JPN,D,1.74,71,10-02-81,Aichi,Biwako Seikei SC,Vissel Kobe,2012,Japanese
+3,3,Takahito Soma,JPN,D,1.76,74,10-12-81,Kanagawa,Energie Cottbus,Vissel Kobe,2012,Japanese
+4,4,Kunie Kitamoto,JPN,D,1.81,78,18-09-81,Nara,None,Vissel Kobe,2012,Japanese
+6,6,Kenji Haneda,JPN,D,1.80,74,01-12-81,Chiba,Cerezo Osaka,Vissel Kobe,2012,Japanese
+7,7,Park Kang-Jo,KOR,M,1.66,58,24-01-80,Hyogo,Seongnam Ilhwa,Vissel Kobe,2012,Japanese
+8,8,Takuya Nozawa,JPN,M,1.76,70,12-08-81,Ibaraki,Kashima Antlers,Vissel Kobe,2012,Japanese
+9,9,Ken Tokura,JPN,F,1.87,80,16-06-86,Tokyo,Thespa Kusatsu,Vissel Kobe,2012,Japanese
+10,10,Yoshito Ōkubo,JPN,F,1.70,73,09-06-82,Fukuoka,Wolfsburg,Vissel Kobe,2012,Japanese
+11,11,Yuzo Tashiro,JPN,F,1.81,77,22-07-82,Fukuoka,Kashima Antlers,Vissel Kobe,2012,Japanese
+13,13,Keijiro Ogawa,JPN,F,1.68,62,14-07-92,Hyogo,None,Vissel Kobe,2012,Japanese
+14,14,Ryota Morioka,JPN,M,1.80,70,12-04-91,Hyogo,Kumiyama HS,Vissel Kobe,2012,Japanese
+17,17,Takayuki Yoshida,JPN,F,1.74,67,14-03-77,Hyogo,Yokohama F Marinos,Vissel Kobe,2012,Japanese
+18,18,Hideo Tanaka,JPN,M,1.72,65,01-03-83,Kumamoto,None,Vissel Kobe,2012,Japanese
+19,19,Masahiko Inoha,JPN,D,1.79,73,28-08-85,Miyazaki,Hajduk Split,Vissel Kobe,2012,Japanese
+20,20,Bae Chun-Suk,KOR,F,1.87,80,27-04-90,Daegu,Pohang Steelers,Vissel Kobe,2012,Japanese
+21,21,Hiroto Mogi,JPN,F,1.74,71,02-03-84,Fukushima,Sanfrecce Hiroshima,Vissel Kobe,2012,Japanese
+22,22,Kazumichi Takagi,JPN,D,1.88,75,21-11-80,Shiga,Gamba Osaka,Vissel Kobe,2012,Japanese
+23,23,Lee Kwang-Seon,KOR,D,1.93,88,06-09-89,Ulsan,Kyunghee Univ,Vissel Kobe,2012,Japanese
+24,24,Masatoshi Mihara,JPN,M,1.75,67,02-08-88,Kumamoto,None,Vissel Kobe,2012,Japanese
+25,25,Ryo Okui,JPN,D,1.69,62,07-03-90,Toyonaka,Waseda Univ,Vissel Kobe,2012,Japanese
+27,27,Hideo Hashimoto,JPN,M,1.73,68,21-05-79,Osaka,Gamba Osaka,Vissel Kobe,2012,Japanese
+28,28,Jun Kamita,JPN,G,1.83,80,17-01-92,Wakayama,None,Vissel Kobe,2012,Japanese
+29,29,Keisuke Hayashi,JPN,D,1.65,62,25-07-88,Hyogo,Doshisha Univ,Vissel Kobe,2012,Japanese
+30,30,Kenta Tokushige,JPN,G,1.87,87,09-03-84,Kagoshima,Urawa Red Diamonds,Vissel Kobe,2012,Japanese
+31,31,Takuya Iwanami,JPN,D,1.86,72,18-06-94,Hyogo,None,Vissel Kobe,2012,Japanese
+32,32,Ryo Matsumura,JPN,M,1.68,58,15-06-94,Kyoto,None,Vissel Kobe,2012,Japanese
+33,33,Fernando,BRA,F,1.82,76,08-01-93,São Caetano do Sul,São Caetano,Vissel Kobe,2012,Japanese
+34,34,Anderson Carvalho,BRA,M,1.76,74,20-05-90,Cubatão,Santos,Vissel Kobe,2012,Japanese
+1,1,Tetsuya Enomoto,JPN,G,1.80,76,02-05-83,Kawasaki,None,Yokohama F Marinos,2012,Japanese
+2,2,Takashi Amano,JPN,D,1.62,60,13-04-86,Yokohama,None,Yokohama F Marinos,2012,Japanese
+4,4,Yuzo Kurihara,JPN,D,1.84,80,18-09-83,Yokohama,None,Yokohama F Marinos,2012,Japanese
+5,5,Dutra,BRA,D,1.69,70,11-08-73,Duque Bacelar,Santa Cruz,Yokohama F Marinos,2012,Japanese
+6,6,Shohei Ogura,JPN,M,1.75,64,08-09-85,Chiba,Mito HollyHock,Yokohama F Marinos,2012,Japanese
+7,7,Shingo Hyodo,JPN,M,1.71,65,29-07-85,Nagasaki,None,Yokohama F Marinos,2012,Japanese
+8,8,Kosuke Nakamachi,JPN,M,1.74,70,01-09-85,Saitama,Avispa Fukuoka,Yokohama F Marinos,2012,Japanese
+9,9,Masashi Oguro,JPN,F,1.78,73,04-05-80,Osaka,Tokyo Verdy,Yokohama F Marinos,2012,Japanese
+10,10,Yuji Ono,JPN,F,1.70,62,22-12-92,Kanagawa,None,Yokohama F Marinos,2012,Japanese
+11,11,Manabu Saito,JPN,F,1.65,54,04-04-90,Kanagawa,None,Yokohama F Marinos,2012,Japanese
+13,13,Yuzo Kobayashi,JPN,D,1.76,72,15-11-85,Tokyo,Kashiwa Reysol,Yokohama F Marinos,2012,Japanese
+14,14,Kenta Kano,JPN,M,1.75,64,02-05-86,Shizuoka,None,Yokohama F Marinos,2012,Japanese
+16,16,Yusuke Higa,JPN,D,1.68,68,15-05-89,Okinawa,Ryutsu Keizai Univ,Yokohama F Marinos,2012,Japanese
+17,17,Rei Matsumoto,JPN,M,1.75,64,25-02-88,Hokkaido,Waseda Univ,Yokohama F Marinos,2012,Japanese
+18,18,Marquinhos,BRA,F,1.74,76,23-03-76,Rio Brilhante,Atlético Mineiro,Yokohama F Marinos,2012,Japanese
+19,19,Kentaro Moriya,JPN,M,1.73,63,21-09-88,Yokohama,Tsukuba Univ,Yokohama F Marinos,2012,Japanese
+21,21,Hiroki Iikura,JPN,G,1.80,72,01-06-86,Aomori,None,Yokohama F Marinos,2012,Japanese
+22,22,Yuji Nakazawa,JPN,D,1.87,78,25-02-78,Saitama,Tokyo Verdy,Yokohama F Marinos,2012,Japanese
+23,23,Sho Matsumoto,JPN,M,1.62,58,04-04-92,Fukuoka,None,Yokohama F Marinos,2012,Japanese
+24,24,Takashi Kanai,JPN,D,1.74,60,05-02-90,Tokyo,None,Yokohama F Marinos,2012,Japanese
+25,25,Shunsuke Nakamura,JPN,M,1.78,69,24-06-78,Yokohama,Espanyol,Yokohama F Marinos,2012,Japanese
+26,26,Naoaki Aoyama,JPN,D,1.82,72,18-07-86,Aichi,Shimizu S-Pulse,Yokohama F Marinos,2012,Japanese
+27,27,Seitaro Tomisawa,JPN,D,1.81,73,08-07-82,Tokyo,Tokyo Verdy,Yokohama F Marinos,2012,Japanese
+28,28,Andrew Kumagai,JPN,M,1.81,72,06-06-93,Kanagawa,None,Yokohama F Marinos,2012,Japanese
+29,29,Hiroyuki Taniguchi,JPN,D,1.82,73,27-06-85,Yokosuka,Kawasaki Frontale,Yokohama F Marinos,2012,Japanese
+30,30,Yuji Rokutan,JPN,G,1.88,78,10-04-87,Kagoshima,Avispa Fukuoka,Yokohama F Marinos,2012,Japanese
+31,31,Ryota Suzuki,JPN,G,1.91,82,10-02-94,Aichi,None,Yokohama F Marinos,2012,Japanese
+40,40,Takuya Kida,JPN,M,1.68,55,23-08-94,Kanagawa,None,Yokohama F Marinos,2012,Japanese

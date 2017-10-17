@@ -1,0 +1,572 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Takashi Kitano,JPN,G,1.86,75,04-10-82,Hokkaido,None,Albirex Niigata,2008,Japanese
+2,2,Hiroshi Nakano,JPN,D,1.74,69,23-10-83,Saga,None,Albirex Niigata,2008,Japanese
+3,3,Kazuhiko Chiba,JPN,M,1.83,74,21-06-85,Hakkaido,FC Dordrecht,Albirex Niigata,2008,Japanese
+5,5,Mitsuru Chiyotanda,JPN,D,1.83,80,01-06-80,Miyazaki,Avispa Fukuoka,Albirex Niigata,2008,Japanese
+6,6,Mitsuru Nagata,JPN,D,1.83,72,06-04-83,Shizuoka,Kashiwa Reysol,Albirex Niigata,2008,Japanese
+7,7,Toshihiro Matsushita,JPN,M,1.74,68,17-10-83,Kagoshima,Gamba Osaka,Albirex Niigata,2008,Japanese
+9,9,Alessandro,BRA,F,1.77,67,02-03-82,São João de Boa Vista,Tombense,Albirex Niigata,2008,Japanese
+10,10,Marcio Richardes,BRA,M,1.73,67,30-11-81,Andradina,São Caetano,Albirex Niigata,2008,Japanese
+11,11,Kisho Yano,JPN,F,1.85,74,05-04-84,Shizuoka,Kashiwa Reysol,Albirex Niigata,2008,Japanese
+13,13,Fumiya Kogure,JPN,M,1.77,60,28-06-89,Tokyo,None,Albirex Niigata,2008,Japanese
+15,15,Isao Homma,JPN,M,1.72,60,19-04-81,Niigata,None,Albirex Niigata,2008,Japanese
+16,16,Yoshito Terakawa,JPN,M,1.81,65,06-09-74,Hyogo,Oita Trinita,Albirex Niigata,2008,Japanese
+17,17,Jun Uchida,JPN,D,1.75,68,14-10-77,Hyogo,Kashima Antlers,Albirex Niigata,2008,Japanese
+18,18,Kengo Kawamata,JPN,F,1.83,67,14-10-89,Ehime,None,Albirex Niigata,2008,Japanese
+19,19,Keiji Kaimoto,JPN,D,1.81,75,26-11-72,Osaka,Nagoya Grampus Eight,Albirex Niigata,2008,Japanese
+20,20,Kazuhisa Kawahara,JPN,F,1.73,65,29-01-87,Saitama,None,Albirex Niigata,2008,Japanese
+21,21,Yosuke Nozawa,JPN,G,1.81,77,09-11-79,Shizuoka,Shimizu S-Pulse,Albirex Niigata,2008,Japanese
+22,22,Takaya Kurokawa,JPN,G,1.84,76,07-04-81,Ehime,Shimizu S-Pulse,Albirex Niigata,2008,Japanese
+23,23,Atomu Tanaka,JPN,M,1.67,65,04-10-87,Niigata,None,Albirex Niigata,2008,Japanese
+24,24,Ayato Hasebe,JPN,M,1.72,64,06-02-90,Niigata,None,Albirex Niigata,2008,Japanese
+25,25,Kazunari Ono,JPN,D,1.80,71,04-08-89,Niigata,None,Albirex Niigata,2008,Japanese
+26,26,Daisuke Suzuki,JPN,D,1.81,69,29-01-90,Tokyo,None,Albirex Niigata,2008,Japanese
+27,27,Michael Fitzgerald,NZL,D,1.85,66,17-09-88,Auckland,None,Albirex Niigata,2008,Japanese
+28,28,Naoto Matsuo,JPN,D,1.81,77,10-09-79,Wakayama,FC Tokyo,Albirex Niigata,2008,Japanese
+29,29,Gotoku Sakai,JPN,D,1.75,72,14-03-91,New York,None,Albirex Niigata,2008,Japanese
+30,30,Masaaki Higashiguchi,JPN,G,1.84,75,12-05-86,Osaka,None,Albirex Niigata,2008,Japanese
+31,31,Keigo Isomoto,JPN,F,1.70,62,16-04-90,Hyogo,Sanfrecce Mirokunosato,Albirex Niigata,2008,Japanese
+32,32,Musashi Okuyama,JPN,M,1.75,64,15-05-91,Tokyo,None,Albirex Niigata,2008,Japanese
+1,1,Yuya Sato,JPN,G,1.86,85,10-02-86,Chiba,Ventforet Kofu,Consadole Sapporo,2008,Japanese
+2,2,Mitsuyuki Yoshihiro,JPN,D,1.82,73,04-05-85,Yamaguchi,Sanfrecce Hiroshima,Consadole Sapporo,2008,Japanese
+3,3,Junji Nishizawa,JPN,D,1.81,79,10-05-74,Tokyo,Nagoya Grampus Eight,Consadole Sapporo,2008,Japanese
+4,4,Yushi Soda,JPN,D,1.81,78,05-07-78,Hokkaido,None,Consadole Sapporo,2008,Japanese
+5,5,Tomohiko Ikeuchi,JPN,D,1.81,73,01-11-77,Hokkaido,Kashima Antlers,Consadole Sapporo,2008,Japanese
+6,6,Hiroyuki Nishijima,JPN,D,1.80,72,07-04-82,Nara,Vissel Kobe,Consadole Sapporo,2008,Japanese
+7,7,Seiya Fujita,JPN,M,1.75,63,02-06-87,Hokkaido,None,Consadole Sapporo,2008,Japanese
+8,8,Makoto Sunakawa,JPN,M,1.73,67,10-08-77,Chiba,Kashiwa Reysol,Consadole Sapporo,2008,Japanese
+9,9,Kengo Ishii,JPN,F,1.78,73,02-04-86,Ishikari,None,Consadole Sapporo,2008,Japanese
+10,10,Davi,BRA,F,1.83,80,10-03-84,Fortaleza,Vitória,Consadole Sapporo,2008,Japanese
+11,11,Anderson,BRA,F,1.87,80,01-02-78,Apucarana,Ituano,Consadole Sapporo,2008,Japanese
+13,13,Genki Nakayama,JPN,F,1.86,74,15-09-81,Yamaguchi,Sanfrecce Hiroshima,Consadole Sapporo,2008,Japanese
+14,14,Tomoki Suzuki,JPN,M,1.72,65,08-06-85,Hokkaido,None,Consadole Sapporo,2008,Japanese
+15,15,Claiton,BRA,M,1.79,82,25-01-78,Porto Alegre,Flamengo,Consadole Sapporo,2008,Japanese
+16,16,Shinji Otsuka,JPN,M,1.79,71,29-12-75,Chiba,Montedio Yamagata,Consadole Sapporo,2008,Japanese
+17,17,Yasuaki Okamoto,JPN,M,1.70,65,09-04-88,Kumamoto,None,Consadole Sapporo,2008,Japanese
+18,18,Hironobu Haga,JPN,M,1.73,66,21-12-82,Miyagi,JEF United,Consadole Sapporo,2008,Japanese
+19,19,Shusuke Tsubouchi,JPN,D,1.80,75,05-05-83,Gumma,Vissel Kobe,Consadole Sapporo,2008,Japanese
+20,20,Kazumasa Uesato,JPN,M,1.70,66,13-03-86,Okinawa,None,Consadole Sapporo,2008,Japanese
+21,21,Yasuhiro Hiraoka,JPN,D,1.82,65,23-05-86,Shizuoka,Shimizu S-Pulse,Consadole Sapporo,2008,Japanese
+22,22,Daigo Nishi,JPN,M,1.75,64,28-08-87,Hokkaido,None,Consadole Sapporo,2008,Japanese
+23,23,Shunsuke Iwanuma,JPN,M,1.75,65,02-06-88,Gumma,None,Consadole Sapporo,2008,Japanese
+24,24,Masaya Nishitani,JPN,M,1.70,69,16-09-78,Tokushima,Urawa Red Diamonds,Consadole Sapporo,2008,Japanese
+25,25,Hiroki Miyazawa,JPN,F,1.82,72,28-06-89,Date,None,Consadole Sapporo,2008,Japanese
+26,26,Yasuhiro Tominaga,JPN,G,1.93,88,22-05-80,Fukuoka,Yokohama F Marinos,Consadole Sapporo,2008,Japanese
+27,27,Junki Yokono,JPN,F,1.83,72,07-10-89,Kitahiroshima,None,Consadole Sapporo,2008,Japanese
+28,28,Takahiro Takagi,JPN,G,1.85,76,01-07-82,Ishikawa,Omiya Ardija,Consadole Sapporo,2008,Japanese
+29,29,Jun Marques Davidson,JPN,M,1.86,75,07-06-83,Tokyo,Albirex Niigata,Consadole Sapporo,2008,Japanese
+30,30,Shuhei Hotta,JPN,D,1.81,74,12-05-89,Chiba,Kashiwa Reysol,Consadole Sapporo,2008,Japanese
+31,31,Toshiyasu Takahara,JPN,G,1.84,77,18-10-80,Gifu,Júbilo Iwata,Consadole Sapporo,2008,Japanese
+32,32,Shingo Shibata,JPN,D,1.87,82,13-07-85,Tokyo,Kashiwa Reysol,Consadole Sapporo,2008,Japanese
+33,33,Chong Yong-Dae,KOR,M,1.78,75,04-02-78,Aichi,Yokohama FC,Consadole Sapporo,2008,Japanese
+34,34,Edson,BRA,F,1.81,75,26-02-90,Bahia,Vitória,Consadole Sapporo,2008,Japanese
+35,35,Yoshinobu Minowa,JPN,D,1.87,83,02-06-76,Kanagawa,Kawasaki  Frontale,Consadole Sapporo,2008,Japanese
+1,1,Naoki Matsuyo,JPN,G,1.81,73,09-04-74,Nara,None,Gamba Osaka,2008,Japanese
+2,2,Sota Nakazawa,JPN,D,1.88,79,26-10-82,Tokyo,Kashiwa Reysol,Gamba Osaka,2008,Japanese
+3,3,Mineiro,BRA,D,1.84,72,05-12-81,Iguatama,Internacional,Gamba Osaka,2008,Japanese
+5,5,Satoshi Yamaguchi,JPN,D,1.78,74,17-04-78,Kochi,JEF United,Gamba Osaka,2008,Japanese
+6,6,Yohei Fukumoto,JPN,D,1.81,68,12-04-87,Oita,Oita Trinita,Gamba Osaka,2008,Japanese
+7,7,Yasuhito Endo,JPN,M,1.78,75,28-01-80,Kagoshima,Kyoto Purple Sanga,Gamba Osaka,2008,Japanese
+8,8,Shinichi Terada,JPN,M,1.70,65,10-06-85,Osaka,None,Gamba Osaka,2008,Japanese
+9,9,Lucas Sévérino,BRA,F,1.83,75,03-01-79,Ribeirão Preto,FC Tokyo,Gamba Osaka,2008,Japanese
+10,10,Takahiro Futagawa,JPN,M,1.68,63,27-06-80,Kagoshima,None,Gamba Osaka,2008,Japanese
+11,11,Ryuji Bando,JPN,F,1.71,65,02-08-79,Hyogo,Vissel Kobe,Gamba Osaka,2008,Japanese
+13,13,Michihiro Yasuda,JPN,M,1.73,65,20-12-87,Osaka,None,Gamba Osaka,2008,Japanese
+14,14,Shoki Hirai,JPN,F,1.79,67,04-12-87,Tokushima,None,Gamba Osaka,2008,Japanese
+16,16,Hayato Sasaki,JPN,M,1.67,58,29-11-82,Miyagi,Montedio Yamagata,Gamba Osaka,2008,Japanese
+17,17,Tomokazu Myojin,JPN,M,1.73,70,24-01-78,Hyogo,Kashiwa Reysol,Gamba Osaka,2008,Japanese
+18,18,Roni,BRA,F,1.73,70,28-04-77,Aurora,Cruzeiro,Gamba Osaka,2008,Japanese
+19,19,Takumi Shimohira,JPN,D,1.76,68,06-10-88,Osaka,None,Gamba Osaka,2008,Japanese
+20,20,Shu Kuruta,JPN,M,1.72,68,26-11-88,Osaka,None,Gamba Osaka,2008,Japanese
+21,21,Akira Kaji,JPN,D,1.77,73,13-01-80,Hyogo,FC Tokyo,Gamba Osaka,2008,Japanese
+22,22,Yosuke Fujigaya,JPN,G,1.85,78,13-02-81,Shizuoka,Consadole Sapporo,Gamba Osaka,2008,Japanese
+23,23,Takuya Takei,JPN,M,1.79,72,25-01-86,Tochigi,None,Gamba Osaka,2008,Japanese
+24,24,Kenta Hoshihara,JPN,F,1.73,66,01-05-88,Osaka,None,Gamba Osaka,2008,Japanese
+25,25,Hideya Okamoto,JPN,F,1.83,67,18-05-87,Osaka,None,Gamba Osaka,2008,Japanese
+26,26,Masaki Kinoshita,JPN,G,1.85,80,22-06-89,Hyogo,None,Gamba Osaka,2008,Japanese
+27,27,Hideo Hashimoto,JPN,M,1.73,68,21-05-79,Osaka,None,Gamba Osaka,2008,Japanese
+28,28,Ryujiro Ueda,JPN,D,1.85,74,29-01-88,Osaka,None,Gamba Osaka,2008,Japanese
+29,29,Atsushi Kimura,JPN,G,1.84,78,01-05-84,Osaka,None,Gamba Osaka,2008,Japanese
+30,30,Masato Yamazaki,JPN,F,1.74,68,04-12-81,Kyoto,Oita Trinita,Gamba Osaka,2008,Japanese
+31,31,Kodai Yasuda,JPN,M,1.65,60,08-08-89,Osaka,None,Gamba Osaka,2008,Japanese
+1,1,Tomonori Tateishi,JPN,G,1.84,78,22-04-74,Chiba,Avispa Fukuoka,JEF United,2008,Japanese
+2,2,Masataka Sakamoto,JPN,M,1.71,70,24-02-78,Saitama,Albirex Niigata,JEF United,2008,Japanese
+3,3,Daisuke Saito,JPN,D,1.82,78,19-11-74,Aichi,Cerezo Osaka,JEF United,2008,Japanese
+4,4,Eddy Bosnar,AUS,D,1.91,88,29-04-80,Sydney,Heracles Almelo,JEF United,2008,Japanese
+6,6,Tomi Shimomura,JPN,M,1.81,76,18-12-80,Hokkaido,Cerezo Osaka,JEF United,2008,Japanese
+7,7,Kohei Kudo,JPN,M,1.66,63,28-08-84,Chiba,None,JEF United,2008,Japanese
+9,9,Kota Aoki,JPN,F,1.76,67,27-04-87,Shiga,None,JEF United,2008,Japanese
+10,10,Reinaldo,BRA,F,1.87,77,14-03-79,Itaguay,Al-Ittihad,JEF United,2008,Japanese
+11,11,Tatsunori Arai,JPN,F,1.72,65,22-12-83,Hokkaido,Sagan Tosu,JEF United,2008,Japanese
+13,13,Mitsuki Ichihara,JPN,F,1.80,74,31-01-86,Chiba,None,JEF United,2008,Japanese
+14,14,Shohei Ikeda,JPN,D,1.80,70,27-04-81,Shizuoka,Shimizu S-Pulse,JEF United,2008,Japanese
+15,15,Koji Nakajima,JPN,M,1.81,68,20-08-77,Osaka,Vegalta Sendai,JEF United,2008,Japanese
+16,16,Tatsuya Yazawa,JPN,M,1.75,72,03-10-84,Shizuoka,Kashiwa Reysol,JEF United,2008,Japanese
+17,17,Ryo Kushino,JPN,G,1.85,78,03-03-79,Kumamoto,None,JEF United,2008,Japanese
+18,18,Seiichiro Maki,JPN,F,1.84,81,07-08-80,Kumamoto,None,JEF United,2008,Japanese
+19,19,Atsushi Ito,JPN,M,1.80,73,24-09-83,Yamaguchi,None,JEF United,2008,Japanese
+20,20,Takuya Kokeguchi,JPN,F,1.79,71,13-07-85,Okayama,Cerezo Osaka,JEF United,2008,Japanese
+21,21,Daisuke Nakamaki,JPN,G,1.93,89,27-05-86,Tokyo,None,JEF United,2008,Japanese
+22,22,Koki Yonekura,JPN,M,1.76,69,17-05-88,Chiba,None,JEF United,2008,Japanese
+24,24,Junya Tanaka,JPN,D,1.88,79,24-04-83,Osaka,None,JEF United,2008,Japanese
+25,25,Hibiki Kato,JPN,F,1.81,75,14-11-87,Gifu,None,JEF United,2008,Japanese
+26,26,Ryo Kanazawa,JPN,F,1.75,69,19-10-88,Kyoto,None,JEF United,2008,Japanese
+27,27,Tomoya Kumagai,JPN,D,1.80,73,25-03-88,Akita,None,JEF United,2008,Japanese
+28,28,Kyohei Horikawa,JPN,F,1.80,71,18-09-86,Ehime,None,JEF United,2008,Japanese
+29,29,Tsukasa Masuyama,JPN,M,1.80,68,25-01-90,Gifu,None,JEF United,2008,Japanese
+30,30,Masahiro Okamoto,JPN,G,1.87,76,17-05-83,Chiba,None,JEF United,2008,Japanese
+31,31,Ryota Aoki,JPN,D,1.81,73,19-08-84,Osaka,Gamba Osaka,JEF United,2008,Japanese
+32,32,Kim Dong Soo,KOR,F,1.83,75,08-09-86,Tokyo,None,JEF United,2008,Japanese
+33,33,Seiko Yamanaka,JPN,D,1.77,75,22-01-89,Kochi,None,JEF United,2008,Japanese
+34,34,Kosuke Nakahara,JPN,M,1.80,70,17-03-87,Osaka,None,JEF United,2008,Japanese
+35,35,Kengo Takata,JPN,D,1.79,68,24-08-89,Hiroshima,None,JEF United,2008,Japanese
+36,36,Masaki Fukai,JPN,F,1.61,61,13-09-80,Yamanashi,Kashima Antlers,JEF United,2008,Japanese
+38,38,Norihiro Kawakami,JPN,D,1.84,80,04-04-87,Shimane,None,JEF United,2008,Japanese
+39,39,Ken Matsumoto,JPN,M,1.74,65,28-08-87,Kanagawa,None,JEF United,2008,Japanese
+41,41,Kazuyuki  Toda,JPN,M,1.79,75,30-12-77,Tokyo,Sanfrecce Hiroshima,JEF United,2008,Japanese
+42,42,Yasuhiro  Okuyama,JPN,F,1.70,62,21-11-85,Miyagi,None,JEF United,2008,Japanese
+43,43,Yuichi Nemoto,JPN,D,1.74,66,21-07-81,Ibaraki,Oita  Trinita,JEF United,2008,Japanese
+44,44,Michael,BRA,M,1.71,60,21-01-82,São Paulo,Coritiba,JEF United,2008,Japanese
+45,45,Tomonobu  Hayakawa,JPN,D,1.83,73,11-07-77,Shizuoka,Yokohama FC,JEF United,2008,Japanese
+1,1,Yoshikatsu Kawaguchi,JPN,G,1.80,77,15-08-75,Shizuoka,FC Nordsjaelland,Júbilo Iwata,2008,Japanese
+2,2,Hideto Suzuki,JPN,D,1.80,71,07-10-74,Shizuoka,None,Júbilo Iwata,2008,Japanese
+3,3,Takayuki Chano,JPN,D,1.78,76,23-11-76,Chiba,JEF United,Júbilo Iwata,2008,Japanese
+4,4,Kentaro Oi,JPN,D,1.80,74,14-05-84,Shizuoka,None,Júbilo Iwata,2008,Japanese
+5,5,Makoto Tanaka,JPN,D,1.77,76,08-08-75,Shizuoka,None,Júbilo Iwata,2008,Japanese
+6,6,Takahiro Kawamura,JPN,M,1.81,75,04-10-79,Shizuoka,River Plate,Júbilo Iwata,2008,Japanese
+7,7,Yoshiaki Ota,JPN,M,1.75,68,11-06-83,Shizuoka,None,Júbilo Iwata,2008,Japanese
+8,8,Gilsinho,BRA,F,1.68,65,04-04-84,Américo Brasiliense,Paulista,Júbilo Iwata,2008,Japanese
+9,9,Masashi Nakayama,JPN,F,1.78,72,23-09-67,Shizuoka,None,Júbilo Iwata,2008,Japanese
+10,10,Sho Naruoka,JPN,M,1.75,72,31-05-84,Shizuoka,None,Júbilo Iwata,2008,Japanese
+11,11,Norihiro Nishi,JPN,M,1.75,72,09-05-80,Osaka,None,Júbilo Iwata,2008,Japanese
+13,13,Shun Morishita,JPN,D,1.78,70,11-05-86,Mie,None,Júbilo Iwata,2008,Japanese
+14,14,Shinji Murai,JPN,M,1.75,70,01-12-79,Chiba,JEF United,Júbilo Iwata,2008,Japanese
+15,15,Kenichi Kaga,JPN,D,1.81,72,30-09-83,Akita,None,Júbilo Iwata,2008,Japanese
+16,16,Hiroshi Nanami,JPN,M,1.77,70,28-11-72,Shizuoka,Venezia,Júbilo Iwata,2008,Japanese
+17,17,Yusuke Inuzuka,JPN,M,1.78,75,13-12-83,Shizuoka,None,Júbilo Iwata,2008,Japanese
+18,18,Ryoichi Maeda,JPN,F,1.83,80,09-10-81,Hyogo,None,Júbilo Iwata,2008,Japanese
+19,19,Ryu Okada,JPN,D,1.70,69,10-04-84,Shizuoka,None,Júbilo Iwata,2008,Japanese
+20,20,Ryosuke Nakashima,JPN,M,1.62,52,28-04-88,Gifu,None,Júbilo Iwata,2008,Japanese
+21,21,Kenya Matsui,JPN,G,1.87,72,10-09-85,Shizuoka,None,Júbilo Iwata,2008,Japanese
+22,22,Robert Cullen,JPN,F,1.80,75,07-06-85,Ibaraki,Kashiwa Reysol,Júbilo Iwata,2008,Japanese
+23,23,Kosuke Yamamoto,JPN,M,1.77,76,29-10-89,Shizuoka,None,Júbilo Iwata,2008,Japanese
+24,24,Takuya Matsuura,JPN,M,1.66,62,21-12-88,Shizuoka,None,Júbilo Iwata,2008,Japanese
+25,25,Yuichi Komano,JPN,D,1.72,76,25-07-81,Wakayama,Sanfrecce Hiroshima,Júbilo Iwata,2008,Japanese
+26,26,Toru Morino,JPN,M,1.70,67,12-05-87,Chiba,None,Júbilo Iwata,2008,Japanese
+27,27,Kota Ueda,JPN,M,1.74,68,09-05-86,Tokyo,Kashiwa Reysol,Júbilo Iwata,2008,Japanese
+29,29,Ryohei Yamazaki,JPN,F,1.71,66,14-03-89,Chiba,None,Júbilo Iwata,2008,Japanese
+30,30,Takashi Fujii,JPN,F,1.74,66,28-04-86,Aichi,None,Júbilo Iwata,2008,Japanese
+31,31,Naoki Hatta,JPN,G,1.85,80,24-06-86,Mie,None,Júbilo Iwata,2008,Japanese
+32,32,Hiroki Bandai,JPN,F,1.84,71,19-02-86,Miyagi,Vegalta Sendai,Júbilo Iwata,2008,Japanese
+33,33,Kyohei Suzaki,JPN,D,1.76,68,21-06-89,Shizuoka,None,Júbilo Iwata,2008,Japanese
+34,34,Yuki Oshitani,JPN,F,1.69,69,23-09-89,Shizuoka,None,Júbilo Iwata,2008,Japanese
+35,35,Takuya Ohata,JPN,G,1.78,71,28-05-90,Mie,None,Júbilo Iwata,2008,Japanese
+37,37,Shuto Yamamoto,JPN,M,1.80,69,01-06-85,Iwate,None,Júbilo Iwata,2008,Japanese
+38,38,Rodrigo Lacerda Ramos,BRA,M,1.84,84,06-10-80,São Bernardo da Campo,Ajaccio,Júbilo Iwata,2008,Japanese
+1,1,Hideaki Ozawa,JPN,G,1.88,84,17-03-74,Ibaraki,FC Tokyo,Kashima Antlers,2008,Japanese
+2,2,Atsuto Uchida,JPN,D,1.76,62,27-03-88,Shizuoka,None,Kashima Antlers,2008,Japanese
+3,3,Daiki Iwamasa,JPN,D,1.87,85,30-01-82,Yamaguchi,None,Kashima Antlers,2008,Japanese
+4,4,Go Oiwa,JPN,D,1.80,75,23-06-72,Shizuoka,Jubilo Iwata,Kashima Antlers,2008,Japanese
+6,6,Koji Nakata,JPN,M,1.82,74,09-07-79,Shiga,Basel,Kashima Antlers,2008,Japanese
+7,7,Toru Araiba,JPN,D,1.82,74,12-07-79,Osaka,Gamba Osaka,Kashima Antlers,2008,Japanese
+8,8,Takuya Nozawa,JPN,M,1.76,70,12-08-81,Ibaraki,CFZ Do Rio,Kashima Antlers,2008,Japanese
+9,9,Yuzo Tashiro,JPN,F,1.81,77,22-07-82,Fukuoka,None,Kashima Antlers,2008,Japanese
+10,10,Masahi Motoyama,JPN,M,1.75,66,20-06-79,Fukuoka,None,Kashima Antlers,2008,Japanese
+11,11,Danilo,BRA,M,1.86,84,11-06-79,São Gotardo,São Paulo,Kashima Antlers,2008,Japanese
+13,13,Shinzo Koroki,JPN,M,1.75,67,31-07-86,Miyazaki,None,Kashima Antlers,2008,Japanese
+14,14,Chikashi Masuda,JPN,M,1.79,75,19-06-85,Miyazaki,None,Kashima Antlers,2008,Japanese
+15,15,Takeshi Aoki,JPN,M,1.83,75,28-09-82,Takasaki,None,Kashima Antlers,2008,Japanese
+16,16,Masaki Chugo,JPN,M,1.78,73,16-05-82,Chiba,JEF United,Kashima Antlers,2008,Japanese
+17,17,Ryuta Sasaki,JPN,F,1.80,74,07-02-87,Ibaraki,None,Kashima Antlers,2008,Japanese
+18,18,Marquinhos,BRA,F,1.74,76,23-03-76,Rio Brilhante,Shimizu S-Pulse,Kashima Antlers,2008,Japanese
+19,19,Masahiko Inoha,JPN,D,1.79,73,28-08-85,Miyazaki,FC Tokyo,Kashima Antlers,2008,Japanese
+20,20,Shuto Suzuki,JPN,M,1.71,67,31-08-85,Chiba,None,Kashima Antlers,2008,Japanese
+21,21,Hitoshi Sogahata,JPN,G,1.87,80,02-08-79,Ibaraki,None,Kashima Antlers,2008,Japanese
+22,22,Naoya Ishigami,JPN,D,1.81,74,02-03-85,Ibaraki,None,Kashima Antlers,2008,Japanese
+23,23,Yuji Funayama,JPN,M,1.76,72,19-01-85,Chiba,None,Kashima Antlers,2008,Japanese
+24,24,Takefumi Toma,JPN,D,1.78,72,21-03-89,Okinawa,None,Kashima Antlers,2008,Japanese
+25,25,Yasushi Endo,JPN,M,1.68,69,07-04-88,Miyagi,Shiogama FC,Kashima Antlers,2008,Japanese
+26,26,Kenji Koyano,JPN,M,1.70,62,22-06-88,Ibaraki,None,Kashima Antlers,2008,Japanese
+27,27,Kenta Kasai,JPN,D,1.78,74,25-12-85,Shizuoka,Paulista,Kashima Antlers,2008,Japanese
+28,28,Shinichiro Kawamata,JPN,G,1.88,86,23-07-89,Shizuoka,None,Kashima Antlers,2008,Japanese
+29,29,Tetsu Sugiyama,JPN,G,1.84,78,26-06-81,Kumamoto,None,Kashima Antlers,2008,Japanese
+30,30,Hiroyuki Omichi,JPN,M,1.77,68,25-06-87,Ibaraki,None,Kashima Antlers,2008,Japanese
+31,31,Keita Goto,JPN,D,1.83,75,08-09-86,Ibaraki,None,Kashima Antlers,2008,Japanese
+32,32,Seiji Kaneko,JPN,D,1.80,79,27-05-80,Fukuoka,None,Kashima Antlers,2008,Japanese
+33,33,Marcinho,BRA,M,1.71,70,20-03-81,Campinas,Cruzeiro,Kashima Antlers,2008,Japanese
+40,40,Mitsuo Ogasawara,JPN,M,1.73,72,05-04-79,Iwate,None,Kashima Antlers,2008,Japanese
+1,1,Kazushige Kirihata,JPN,G,1.85,77,30-06-87,Yamanashi,None,Kashiwa Reysol,2008,Japanese
+2,2,Jiro Kamata,JPN,D,1.79,77,28-07-85,Tokyo,FC Tokyo,Kashiwa Reysol,2008,Japanese
+3,3,Naoya Kondo,JPN,D,1.80,76,03-10-83,Tochigi,None,Kashiwa Reysol,2008,Japanese
+4,4,Naoki Ishikawa,JPN,D,1.80,73,13-09-85,Chiba,None,Kashiwa Reysol,2008,Japanese
+5,5,Masahiro Koga,JPN,D,1.85,79,08-09-78,Fukuoka,Nagoya Grampus Eight,Kashiwa Reysol,2008,Japanese
+6,6,Alex,BRA,D,1.72,69,16-04-83,Diamantina,Avispa Fukuoka,Kashiwa Reysol,2008,Japanese
+7,7,Hidekazu Otani,JPN,M,1.74,67,06-11-84,Chiba,None,Kashiwa Reysol,2008,Japanese
+8,8,Masakatsu Sawa,JPN,F,1.73,70,12-01-83,Moriya,Cienciano,Kashiwa Reysol,2008,Japanese
+9,9,Hideaki Kitajima,JPN,F,1.82,77,23-05-78,Chiba,Shimizu S-Pulse,Kashiwa Reysol,2008,Japanese
+10,10,França,BRA,F,1.83,78,02-03-76,Codó,Bayer Leverkusen,Kashiwa Reysol,2008,Japanese
+11,11,Popó,BRA,M,1.68,69,01-09-78,Andradina,Gyeongnam,Kashiwa Reysol,2008,Japanese
+13,13,Yuzo Kobayashi,JPN,D,1.76,72,15-11-85,Tokyo,None,Kashiwa Reysol,2008,Japanese
+14,14,Keisuke Ota,JPN,M,1.68,60,23-07-81,Shizuoka,Shimizu S-Pulse,Kashiwa Reysol,2008,Japanese
+15,15,Minoru Suganuma,JPN,F,1.73,69,16-05-85,Saitama,Vitória Bahia,Kashiwa Reysol,2008,Japanese
+17,17,Shunta Nagai,JPN,M,1.75,66,12-07-82,Tokyo,Mito Hollyhock,Kashiwa Reysol,2008,Japanese
+18,18,Iwao Yamane,JPN,M,1.70,63,31-07-76,Hiroshima,Kawasaki Frontale,Kashiwa Reysol,2008,Japanese
+19,19,Shu Abe,JPN,M,1.74,62,07-06-84,Osaka,None,Kashiwa Reysol,2008,Japanese
+20,20,Tadanari Lee,JPN,F,1.82,74,19-12-85,Tokyo,FC Tokyo,Kashiwa Reysol,2008,Japanese
+21,21,Yuta Minami,JPN,G,1.85,78,30-09-79,Kanagawa,None,Kashiwa Reysol,2008,Japanese
+23,23,Yohei Kurakawa,JPN,D,1.73,70,10-08-77,Yamaguchi,FC Horikoshi,Kashiwa Reysol,2008,Japanese
+24,24,Jun Yanagisawa,JPN,M,1.74,66,27-06-87,Ibaraki,None,Kashiwa Reysol,2008,Japanese
+25,25,Yusuke Murakami,JPN,D,1.79,77,27-04-84,Tokyo,None,Kashiwa Reysol,2008,Japanese
+26,26,Takahiro Oshima,JPN,D,1.78,73,14-04-88,Chiba,None,Kashiwa Reysol,2008,Japanese
+27,27,Yuki Otsu,JPN,M,1.80,73,24-03-90,Ibaraki,None,Kashiwa Reysol,2008,Japanese
+28,28,Ryoichi Kurisawa,JPN,M,1.70,64,05-09-82,Chiba,FC Tokyo,Kashiwa Reysol,2008,Japanese
+29,29,Kohei Higa,JPN,M,1.65,59,30-04-90,Saitama,None,Kashiwa Reysol,2008,Japanese
+30,30,Hiroki Sakai,JPN,D,1.83,70,12-04-90,Nagano,None,Kashiwa Reysol,2008,Japanese
+31,31,Shinya Kato,JPN,G,1.87,77,19-09-80,Tochigi,Kashima Antlers,Kashiwa Reysol,2008,Japanese
+32,32,Hirofumi Watanabe,JPN,D,1.85,75,07-07-87,Yamagata,None,Kashiwa Reysol,2008,Japanese
+33,33,Takanori Sugeno,JPN,G,1.79,75,03-05-84,Saitama,Yokohama FC,Kashiwa Reysol,2008,Japanese
+34,34,Kota Sugiyama,JPN,M,1.77,67,24-01-85,Shizuoka,Shimizu S-Pulse,Kashiwa Reysol,2008,Japanese
+1,1,Eiji Kawashima,JPN,G,1.85,80,20-03-83,Saitama,Nagoya Grampus Eight,Kawasaki Frontale,2008,Japanese
+2,2,Hiroki Ito,JPN,D,1.83,74,27-07-78,Ehime,None,Kawasaki Frontale,2008,Japanese
+4,4,Yusuke Igawa,JPN,D,1.82,75,30-10-82,Osaka,Gamba Osaka,Kawasaki Frontale,2008,Japanese
+6,6,Yusuke Tasaka,JPN,M,1.72,61,08-07-85,Hiroshima,None,Kawasaki Frontale,2008,Japanese
+7,7,Masaru Kurotsu,JPN,F,1.79,70,20-08-82,Ibaraki,None,Kawasaki Frontale,2008,Japanese
+8,8,Satoru Yamagishi,JPN,M,1.81,77,03-05-83,Chiba,JEF United,Kawasaki Frontale,2008,Japanese
+9,9,Kazuki Ganaha,JPN,F,1.82,76,26-09-80,Okinawa,None,Kawasaki Frontale,2008,Japanese
+10,10,Juninho,BRA,F,1.74,60,15-09-77,Salvador,Palmeiras,Kawasaki Frontale,2008,Japanese
+11,11,Vítor Júnior,BRA,M,1.67,63,15-09-86,Porto Alegre,Santos,Kawasaki Frontale,2008,Japanese
+13,13,Shuhei Terada,JPN,D,1.89,80,23-06-75,Mie,None,Kawasaki Frontale,2008,Japanese
+14,14,Kengo Nakamura,JPN,M,1.75,67,31-10-80,Tokyo,None,Kawasaki Frontale,2008,Japanese
+15,15,Taku Harada,JPN,M,1.79,72,27-10-82,Kumamoto,Oita Trinita,Kawasaki Frontale,2008,Japanese
+16,16,Jong Tae-Se,PRK,F,1.81,80,02-03-84,Nagoya,None,Kawasaki Frontale,2008,Japanese
+17,17,Kosuke Kikuchi,JPN,M,1.82,72,16-12-85,Saitama,None,Kawasaki Frontale,2008,Japanese
+18,18,Tomonobu Yokoyama,JPN,D,1.84,75,18-03-85,Tokyo,None,Kawasaki Frontale,2008,Japanese
+19,19,Yusuke Mori,JPN,M,1.75,74,24-07-80,Shizuoka,Kyoto Purple Sanga,Kawasaki Frontale,2008,Japanese
+20,20,Yuji Yabu,JPN,M,1.76,71,24-05-84,Kanagawa,None,Kawasaki Frontale,2008,Japanese
+21,21,Shinya Yoshihara,JPN,G,1.85,76,19-04-78,Ibaraki,Yokohama Marinos,Kawasaki Frontale,2008,Japanese
+22,22,Yuki Uekusa,JPN,G,1.86,80,02-07-82,Chiba,None,Kawasaki Frontale,2008,Japanese
+23,23,Satoshi Kukino,JPN,F,1.73,68,16-04-87,Miyazaki,None,Kawasaki Frontale,2008,Japanese
+24,24,Masahiro Ohashi,JPN,M,1.68,65,23-06-81,Kanagawa,Tokyo Verdy,Kawasaki Frontale,2008,Japanese
+25,25,Tausuya Suzuki,JPN,M,1.71,63,29-02-88,Kanagawa,None,Kawasaki Frontale,2008,Japanese
+26,26,Kazuhiro Murakami,JPN,M,1.78,74,20-01-81,Mie,Vegalta Sendai,Kawasaki Frontale,2008,Japanese
+28,28,Rikihiro Sugiyama,JPN,G,1.86,77,01-05-87,Shizuoka,None,Kawasaki Frontale,2008,Japanese
+29,29,Hiroyuki Taniguchi,JPN,D,1.82,73,27-06-85,Yokosuka,Yokohama Marinos,Kawasaki Frontale,2008,Japanese
+30,30,Yuji Kimura,JPN,M,1.77,70,05-10-87,Tokyo,None,Kawasaki Frontale,2008,Japanese
+31,31,Kyohei Sugiura,JPN,M,1.76,66,11-01-89,Shizuoka,None,Kawasaki Frontale,2008,Japanese
+32,32,Yuki Yoshida,JPN,D,1.75,71,03-05-89,Tokyo,None,Kawasaki Frontale,2008,Japanese
+33,33,Jun Sonoda,JPN,D,1.81,73,23-01-89,Shizuoka,None,Kawasaki Frontale,2008,Japanese
+34,34,Renatinho,BRA,F,1.73,65,14-05-87,São Vicente,Santos,Kawasaki Frontale,2008,Japanese
+1,1,Naohito Hirai,JPN,G,1.83,80,16-07-78,Kyoto,None,Kyoto Sanga,2008,Japanese
+2,2,Ataliba,BRA,M,1.80,80,02-03-79,Campinas,CRB,Kyoto Sanga,2008,Japanese
+3,3,Sidiclei,BRA,D,1.87,84,13-05-72,Cascavel,Gamba Osaka,Kyoto Sanga,2008,Japanese
+4,4,Yusuke Nakatani,JPN,D,1.78,69,22-09-78,Osaka,Kashiwa Reysol,Kyoto Sanga,2008,Japanese
+5,5,Kazuki Teshima,JPN,D,1.80,72,07-06-79,Fukuoka,Gamba Osaka,Kyoto Sanga,2008,Japanese
+6,6,Ryuzo Morioka,JPN,D,1.80,71,07-10-75,Kanagawa,Shimizu S-Pulse,Kyoto Sanga,2008,Japanese
+7,7,Takaaki Tokushige,JPN,F,1.74,64,18-02-75,Kagoshima,Cerezo Osaka,Kyoto Sanga,2008,Japanese
+8,8,Hiroki Mizumoto,JPN,D,1.83,72,12-09-85,Mie,Gamba Osaka,Kyoto Sanga,2008,Japanese
+9,9,Yutaka Tahara,JPN,F,1.87,84,27-04-82,Kagoshima,Yokohama F Marinos,Kyoto Sanga,2008,Japanese
+10,10,Fernandinho,BRA,M,1.61,66,13-01-81,Florianópolis,Shimizu  S-Pulse,Kyoto Sanga,2008,Japanese
+11,11,Takenori Hayashi,JPN,F,1.68,70,14-10-80,Nara,JEF United,Kyoto Sanga,2008,Japanese
+13,13,Atsushi Yanagisawa,JPN,F,1.77,75,27-05-77,Toyama,Kashima Antlers,Kyoto Sanga,2008,Japanese
+14,14,Yuto Sato,JPN,M,1.70,67,12-03-82,Saitama,JEF United,Kyoto Sanga,2008,Japanese
+15,15,Hiroki Nakayama,JPN,M,1.77,70,13-12-85,Kagoshima,None,Kyoto Sanga,2008,Japanese
+17,17,Toshiya Ishii,JPN,M,1.73,63,19-01-78,Shizuoka,Vegalta Sendai,Kyoto Sanga,2008,Japanese
+18,18,Jun Ando,JPN,M,1.78,71,26-07-83,Shiga,None,Kyoto Sanga,2008,Japanese
+21,21,Yuichi Mizutani,JPN,G,1.87,79,26-05-80,Tokyo,Kashiwa Reysol,Kyoto Sanga,2008,Japanese
+22,22,Daigo Watanabe,JPN,M,1.71,62,03-12-84,Nagasaki,None,Kyoto Sanga,2008,Japanese
+23,23,Yuki Okubo,JPN,D,1.77,74,17-04-84,Chiba,Sanfrecce Hiroshima,Kyoto Sanga,2008,Japanese
+24,24,Tatsuya Masushima,JPN,D,1.80,74,22-04-85,Chiba,FC Tokyo,Kyoto Sanga,2008,Japanese
+25,25,Yasumasa Nishino,JPN,D,1.83,79,14-09-82,Toyama,Júbilo Iwata,Kyoto Sanga,2008,Japanese
+26,26,Makoto Kakuda,JPN,D,1.80,75,10-07-83,Kyoto,Nagoya Grampus Eight,Kyoto Sanga,2008,Japanese
+27,27,Daishi Kato,JPN,M,1.65,60,26-07-83,Saitama,Shonan Bellmare,Kyoto Sanga,2008,Japanese
+28,28,William,BRA,M,1.80,73,10-01-89,,None,Kyoto Sanga,2008,Japanese
+29,29,Taisuke Nakamura,JPN,M,1.82,68,19-07-89,Kyoto,None,Kyoto Sanga,2008,Japanese
+30,30,Koken Kato,JPN,M,1.78,72,03-04-89,Chiba,None,Kyoto Sanga,2008,Japanese
+31,31,Takumi Miyayoshi,JPN,F,1.72,64,07-08-92,Shiga,None,Kyoto Sanga,2008,Japanese
+33,33,Hideaki Ueno,JPN,G,1.84,80,31-05-81,Hokkaido,Sanfrecce Hiroshima,Kyoto Sanga,2008,Japanese
+34,34,Takuma Ito,JPN,G,1.82,82,11-08-86,Gumma,None,Kyoto Sanga,2008,Japanese
+1,1,Seigo Narazaki,JPN,G,1.87,80,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2008,Japanese
+2,2,Takashi Miki,JPN,D,1.79,73,23-07-78,Kanagawa,Oita Trinita,Nagoya Grampus,2008,Japanese
+3,3,Milo Bajalica,SRB,D,1.85,78,15-12-81,Belgrade,Crvena Zvezda,Nagoya Grampus,2008,Japanese
+4,4,Masayuki Omori,JPN,M,1.76,73,09-11-76,Saitama,Sagan Tosu,Nagoya Grampus,2008,Japanese
+5,5,Atsushi Yoneyama,JPN,D,1.80,74,20-11-76,Tochigi,Kawasaki Frontale,Nagoya Grampus,2008,Japanese
+6,6,Shohei Abe,JPN,D,1.71,70,01-12-83,Chiba,None,Nagoya Grampus,2008,Japanese
+7,7,Naoshi Nakamura,JPN,M,1.76,72,27-01-79,Chiba,None,Nagoya Grampus,2008,Japanese
+8,8,Magnum,BRA,M,1.74,72,24-03-82,Belém,Kawasaki Frontale,Nagoya Grampus,2008,Japanese
+9,9,Frode Johnsen,NOR,F,1.86,79,17-03-74,Skien,Rosenborg,Nagoya Grampus,2008,Japanese
+10,10,Toshiya Fujita,JPN,M,1.74,64,04-10-71,Shizuoka,Jubilo Iwata,Nagoya Grampus,2008,Japanese
+11,11,Keiji Tamada,JPN,F,1.73,67,11-04-80,Chiba,None,Nagoya Grampus,2008,Japanese
+13,13,Kei Yamaguchi,JPN,M,1.72,70,11-06-83,Kyoto,None,Nagoya Grampus,2008,Japanese
+14,14,Keiji Yoshimura,JPN,M,1.76,72,08-08-79,Ehime,None,Nagoya Grampus,2008,Japanese
+16,16,Takahiro Masukawa,JPN,D,1.91,93,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus,2008,Japanese
+17,17,Yuki Maki,JPN,F,1.82,75,26-06-84,Kumamoto,None,Nagoya Grampus,2008,Japanese
+19,19,Keita Sugimoto,JPN,F,1.73,70,13-06-82,Ibaraki,None,Nagoya Grampus,2008,Japanese
+21,21,Koji Nishimura,JPN,G,1.86,78,07-07-87,Mie,Kyoto Sanga,Nagoya Grampus,2008,Japanese
+22,22,Kazuto Tsuyuki,JPN,D,1.71,66,14-08-84,Shizuoka,None,Nagoya Grampus,2008,Japanese
+26,26,Tomohiro Tsuda,JPN,F,1.79,76,06-05-86,Gifu,None,Nagoya Grampus,2008,Japanese
+27,27,Shosuke Katayama,JPN,D,1.69,68,08-09-83,Nara,None,Nagoya Grampus,2008,Japanese
+28,28,Keiji Watanabe,JPN,M,1.74,68,28-01-85,Shizuoka,None,Nagoya Grampus,2008,Japanese
+29,29,Yoshizumi Ogawa,JPN,M,1.73,67,25-08-84,Tokyo,None,Nagoya Grampus,2008,Japanese
+30,30,Akira Takeuchi,JPN,D,1.80,71,18-06-83,Kanagawa,None,Nagoya Grampus,2008,Japanese
+31,31,Sho Hanai,JPN,M,1.79,66,10-11-89,Aichi,None,Nagoya Grampus,2008,Japanese
+33,33,Masaya Sato,JPN,M,1.78,74,10-02-90,Shizuoka,None,Nagoya Grampus,2008,Japanese
+34,34,Maya Yoshida,JPN,D,1.86,78,24-08-88,Nagasaki,None,Nagoya Grampus,2008,Japanese
+35,35,Wataru Inoue,JPN,M,1.78,67,07-08-86,Shizuoka,None,Nagoya Grampus,2008,Japanese
+36,36,Koichi Hirono,JPN,G,1.81,76,16-04-80,Nara,Takada FC,Nagoya Grampus,2008,Japanese
+37,37,Toru Hasegawa,JPN,G,1.87,70,11-12-88,Aichi,None,Nagoya Grampus,2008,Japanese
+38,38,Oribe Niikawa,JPN,F,1.68,63,16-07-88,Gifu,None,Nagoya Grampus,2008,Japanese
+39,39,Shinta Fukushima,JPN,M,1.71,69,28-01-89,Aichi,None,Nagoya Grampus,2008,Japanese
+1,1,Shusaku Nishikawa,JPN,G,1.83,79,18-06-86,Oita,None,Oita Trinita,2008,Japanese
+2,2,Ryo Kobayashi,JPN,D,1.70,67,12-09-82,Saitama,Kashiwa Reysol,Oita Trinita,2008,Japanese
+3,3,Roberto,BRA,M,1.80,77,20-02-79,,Avispa Fukuoka,Oita Trinita,2008,Japanese
+4,4,Yuki Fukaya,JPN,D,1.80,73,01-08-82,Aichi,None,Oita Trinita,2008,Japanese
+5,5,Edmilson,BRA,M,1.82,72,17-02-76,,Ceará,Oita Trinita,2008,Japanese
+6,6,Masato Morishige,JPN,M,1.79,72,21-05-87,Hiroshima,Sanfrecce Hiroshima,Oita Trinita,2008,Japanese
+7,7,Teppei Nishiyama,JPN,M,1.78,72,22-02-75,Chiba,Montedio Yamagata,Oita Trinita,2008,Japanese
+8,8,Mu Kanasaki,JPN,M,1.80,70,16-02-89,Mie,None,Oita Trinita,2008,Japanese
+9,9,Yasuhito Morishima,JPN,F,1.86,80,18-09-87,Hyogo,Cerezo Osaka,Oita Trinita,2008,Japanese
+10,10,Ueslei,BRA,F,1.77,89,19-04-72,Salvador,Bahia,Oita Trinita,2008,Japanese
+11,11,Shingo Suzuki,JPN,M,1.68,63,20-03-78,Saitama,Albirex Niigata,Oita Trinita,2008,Japanese
+13,13,Daiki Takamatsu,JPN,F,1.83,75,08-09-81,Yamaguchi,None,Oita Trinita,2008,Japanese
+14,14,Akihiro Ienaga,JPN,M,1.73,70,13-06-86,Hyogo,Gamba Osaka,Oita Trinita,2008,Japanese
+16,16,Seigo Shimokawa,JPN,G,1.84,78,17-11-75,Hyogo,Kawasaki Frontale,Oita Trinita,2008,Japanese
+18,18,Hiroshi Ichihara,JPN,F,1.80,72,24-04-87,Kumamoto,None,Oita Trinita,2008,Japanese
+19,19,Shunsuke Maeda,JPN,F,1.72,72,09-06-86,Nara,Sanfrecce Hiroshima,Oita Trinita,2008,Japanese
+20,20,Daisuke Takahashi,JPN,F,1.78,74,18-09-83,Fukuoka,None,Oita Trinita,2008,Japanese
+21,21,Masaru Matsuhashi,JPN,F,1.73,69,22-03-85,Nagasaki,None,Oita Trinita,2008,Japanese
+22,22,Taikai Uemoto,JPN,D,1.80,68,01-06-82,Kagoshima,Jubilo Iwata,Oita Trinita,2008,Japanese
+23,23,Ryosuke Ishida,JPN,G,1.83,74,04-07-89,Osaka,None,Oita Trinita,2008,Japanese
+24,24,Tetsuya Yamazaki,JPN,D,1.79,73,25-07-78,Shizuoka,Cerezo Osaka,Oita Trinita,2008,Japanese
+25,25,Hiroyuki Kobayashi,JPN,D,1.80,72,18-04-80,Hokkaido,TDK,Oita Trinita,2008,Japanese
+26,26,Tatsuya Ikeda,JPN,D,1.84,73,18-05-88,Hyogo,Gamba Osaka,Oita Trinita,2008,Japanese
+27,27,Koki Kotegawa,JPN,F,1.73,64,12-09-89,Oita,None,Oita Trinita,2008,Japanese
+28,28,Hiroshi Kiyotake,JPN,M,1.72,63,12-11-89,Oita,None,Oita Trinita,2008,Japanese
+29,29,Keisuke Shimizu,JPN,G,1.83,74,25-11-88,Hyogo,None,Oita Trinita,2008,Japanese
+30,30,Yudai Inoue,JPN,M,1.70,65,30-05-89,Oita,None,Oita Trinita,2008,Japanese
+33,33,Yoshiaki Fujita,JPN,D,1.80,75,12-01-83,Tochigi,JEF United,Oita Trinita,2008,Japanese
+1,1,Hiroki Aratani,JPN,G,1.92,82,06-08-75,Toyama,Kawasaki Frontale,Omiya Ardija,2008,Japanese
+2,2,Taishi Tsukamoto,JPN,D,1.77,68,04-07-85,Saitama,None,Omiya Ardija,2008,Japanese
+3,3,Leandro Euzébio,BRA,D,1.87,83,18-08-81,Cabo Frio,Cruzeiro,Omiya Ardija,2008,Japanese
+4,4,Yasuhiro Hato,JPN,D,1.78,72,04-05-76,Hyogo,Kashiwa Reysol,Omiya Ardija,2008,Japanese
+5,5,Daisuke Tomita,JPN,D,1.80,70,24-04-77,Yamaguchi,Mito Hollyhock,Omiya Ardija,2008,Japanese
+6,6,Yosuke Kataoka,JPN,D,1.79,73,26-05-82,Saitama,None,Omiya Ardija,2008,Japanese
+7,7,Naoya Saeki,JPN,M,1.73,66,18-12-77,Tokyo,Vissel Kobe,Omiya Ardija,2008,Japanese
+8,8,Daigo Kobayashi,JPN,M,1.78,70,19-02-83,Shizuoka,Tokyo Verdy,Omiya Ardija,2008,Japanese
+9,9,Kota Yoshihara,JPN,F,1.70,66,02-02-78,Osaka,Gamba Osaka,Omiya Ardija,2008,Japanese
+10,10,Dênis Marques,BRA,F,1.83,74,22-02-81,Maceió,Atlético Paranaense,Omiya Ardija,2008,Japanese
+11,11,Chikara Fujimoto,JPN,M,1.68,68,31-10-77,Yamaguchi,Nagoya Grampus Eight,Omiya Ardija,2008,Japanese
+14,14,Hiroshi Morita,JPN,F,1.88,78,18-05-78,Kumamoto,Albirex Niigata,Omiya Ardija,2008,Japanese
+15,15,Masato Saito,JPN,M,1.72,65,01-12-75,Saitama,None,Omiya Ardija,2008,Japanese
+16,16,Klemen Lavrič,SVN,F,1.90,80,12-06-81,Trbovlje,Duisburg,Omiya Ardija,2008,Japanese
+17,17,Hayato Hashimoto,JPN,M,1.75,63,15-09-81,Fukui,None,Omiya Ardija,2008,Japanese
+18,18,Takuro Nishimura,JPN,D,1.76,68,15-08-77,Tokyo,Urawa Red Diamonds,Omiya Ardija,2008,Japanese
+19,19,Yusuke Murayama,JPN,D,1.80,70,10-06-81,Fukuoka,Shonan Bellmare,Omiya Ardija,2008,Japanese
+20,20,Nobuhisa Kobayashi,JPN,G,1.86,82,11-04-83,Tochigi,None,Omiya Ardija,2008,Japanese
+21,21,Koji Ezumi,JPN,G,1.91,84,18-12-78,Shimane,Oita Trinita,Omiya Ardija,2008,Japanese
+22,22,Terukazu Tanaka,JPN,D,1.72,66,14-07-85,Osaka,Gamba Osaka,Omiya Ardija,2008,Japanese
+23,23,Shin Kanazawa,JPN,M,1.74,67,09-09-83,Saitama,None,Omiya Ardija,2008,Japanese
+24,24,Takaya Kawanabe,JPN,M,1.74,62,22-12-88,Saitama,None,Omiya Ardija,2008,Japanese
+25,25,Tomoya Uchida,JPN,M,1.66,58,10-07-83,Mie,Yokohama FC,Omiya Ardija,2008,Japanese
+27,27,Masahiko Ichikawa,JPN,F,1.68,68,17-09-85,Tokyo,None,Omiya Ardija,2008,Japanese
+28,28,Kohei Tokita,JPN,M,1.76,72,16-03-86,Tokyo,None,Omiya Ardija,2008,Japanese
+29,29,Tatsuya Kawahara,JPN,D,1.83,79,16-12-85,Ibaraki,Kashima Antlers,Omiya Ardija,2008,Japanese
+30,30,Naoto Sakurai,JPN,F,1.70,65,02-09-75,Saitama,Tokyo Verdy,Omiya Ardija,2008,Japanese
+31,31,Keiki Shimizu,JPN,G,1.83,75,10-12-85,Gumma,None,Omiya Ardija,2008,Japanese
+32,32,Yoshiyuki Kobayashi,JPN,M,1.78,71,27-01-78,Saitama,None,Omiya Ardija,2008,Japanese
+34,34,Takuya Aoki,JPN,M,1.79,72,16-09-89,Gumma,None,Omiya Ardija,2008,Japanese
+35,35,Daisuke Watabe,JPN,F,1.70,67,19-04-89,Saitama,None,Omiya Ardija,2008,Japanese
+1,1,Makoto Kakegawa,JPN,G,1.91,83,23-05-73,Saitama,Vissel Kobe,Shimizu S-Pulse,2008,Japanese
+2,2,Arata Kodama,JPN,D,1.78,70,08-10-82,Osaka,Gamba Osaka,Shimizu S-Pulse,2008,Japanese
+3,3,Takahiro Yamanishi,JPN,D,1.73,70,02-04-76,Shizuoka,Jubilo Iwata,Shimizu S-Pulse,2008,Japanese
+4,4,Kazumichi Takagi,JPN,D,1.88,75,21-11-80,Shiga,Vissel Kobe,Shimizu S-Pulse,2008,Japanese
+5,5,Keisuke Iwashita,JPN,D,1.81,72,24-09-86,Kagoshima,None,Shimizu S-Pulse,2008,Japanese
+6,6,Marcos Paulo,BRA,M,1.80,74,11-05-77,Doresopolis,Portuguesa,Shimizu S-Pulse,2008,Japanese
+7,7,Teruyoshi Ito,JPN,M,1.68,70,31-08-74,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+8,8,Takuma Edamura,JPN,M,1.76,67,16-11-86,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+9,9,Takuro Yajima,JPN,F,1.82,78,28-03-84,Shiga,Kawasaki Frontale,Shimizu S-Pulse,2008,Japanese
+10,10,Jungo Fujimoto,JPN,M,1.73,69,24-03-84,Kanagawa,None,Shimizu S-Pulse,2008,Japanese
+11,11,Mitsuhiro Toda,JPN,F,1.80,74,10-09-77,Miyazaki,FC Tokyo,Shimizu S-Pulse,2008,Japanese
+13,13,Akihiro Hyodo,JPN,M,1.80,72,12-05-82,Chiba,None,Shimizu S-Pulse,2008,Japanese
+14,14,Jumpei Takaki,JPN,M,1.70,62,01-09-82,Kumamoto,None,Shimizu S-Pulse,2008,Japanese
+15,15,Shinji Tsujio,JPN,D,1.80,72,23-12-85,Osaka,None,Shimizu S-Pulse,2008,Japanese
+16,16,Takuya Honda,JPN,M,1.77,70,17-04-85,Kanagawa,None,Shimizu S-Pulse,2008,Japanese
+18,18,Marcos  Aurélio,BRA,F,1.67,64,10-02-84,Cuiabá,Santos,Shimizu S-Pulse,2008,Japanese
+19,19,Kazuki Hara,JPN,F,1.77,73,05-01-85,Chiba,None,Shimizu S-Pulse,2008,Japanese
+20,20,Akinori Nishizawa,JPN,F,1.80,76,18-06-76,Shizuoka,Cerezo Osaka,Shimizu S-Pulse,2008,Japanese
+21,21,Yohei Nishibe,JPN,G,1.87,77,01-12-80,Hyogo,Urawa Red Diamonds,Shimizu S-Pulse,2008,Japanese
+22,22,Genki Omae,JPN,F,1.66,61,10-12-89,Kanagawa,None,Shimizu S-Pulse,2008,Japanese
+23,23,Shinji Okazaki,JPN,F,1.73,70,16-04-86,Hyogo,None,Shimizu S-Pulse,2008,Japanese
+24,24,Yuki Nagahata,JPN,M,1.65,55,02-05-89,Kagoshima,None,Shimizu S-Pulse,2008,Japanese
+25,25,Daisuke Ichikawa,JPN,D,1.81,74,14-05-80,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+26,26,Naoaki Aoyama,JPN,D,1.82,72,18-07-86,Aichi,None,Shimizu S-Pulse,2008,Japanese
+27,27,Tomonobu Hiroi,JPN,D,1.80,75,11-01-85,Tokyo,None,Shimizu S-Pulse,2008,Japanese
+28,28,Masaki Yamamoto,JPN,M,1.75,65,24-08-87,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+29,29,Kaito Yamamoto,JPN,G,1.88,81,10-07-85,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+30,30,Yohei Takeda,JPN,G,1.89,76,30-06-87,Osaka,None,Shimizu S-Pulse,2008,Japanese
+31,31,Shun Nagasawa,JPN,F,1.89,72,25-08-88,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+32,32,Katsuhiko Sano,JPN,D,1.81,67,30-04-88,Shizuoka,None,Shimizu S-Pulse,2008,Japanese
+33,33,Kim Dong-Sub,KOR,F,1.87,76,29-03-89,Icheon,None,Shimizu S-Pulse,2008,Japanese
+34,34,Naoya Okane,JPN,D,1.89,80,19-04-88,Osaka,None,Shimizu S-Pulse,2008,Japanese
+1,1,Hitoshi Shiota,JPN,G,1.85,80,28-05-81,Ibaraki,None,FC Tokyo,2008,Japanese
+2,2,Teruyuki Moniwa,JPN,D,1.81,77,08-09-81,Kanagawa,Shonan Bellmare,FC Tokyo,2008,Japanese
+3,3,Hideki Sahara,JPN,D,1.84,76,15-05-78,Kanagawa,Kawasaki Frontale,FC Tokyo,2008,Japanese
+4,4,Bruno Quadros,BRA,D,1.84,78,03-02-77,Rio de Janeiro,Consadole Sapporo,FC Tokyo,2008,Japanese
+5,5,Yuto Nagatomo,JPN,D,1.70,65,12-09-86,Ehime,None,FC Tokyo,2008,Japanese
+6,6,Yasuyuki Konno,JPN,D,1.78,73,25-01-83,Miyagi,Consadole Sapporo,FC Tokyo,2008,Japanese
+7,7,Satoru Asari,JPN,M,1.76,70,10-06-74,Saitama,None,FC Tokyo,2008,Japanese
+8,8,Ryuji Fujiyama,JPN,D,1.70,68,09-06-73,Kagoshima,None,FC Tokyo,2008,Japanese
+9,9,Cabore,BRA,F,1.86,78,19-02-80,Salvador,Gyeongnam,FC Tokyo,2008,Japanese
+10,10,Yohei Kajiyama,JPN,M,1.80,77,24-09-85,Tokyo,None,FC Tokyo,2008,Japanese
+13,13,Sota Hirayama,JPN,F,1.90,85,06-06-85,Fukuoka,Heracles  Almelo,FC Tokyo,2008,Japanese
+15,15,Emerson,BRA,M,1.72,65,23-04-80,São Paulo,Iraklis,FC Tokyo,2008,Japanese
+17,17,Jo Kanazawa,JPN,D,1.73,72,09-07-76,Saitama,Jubilo Iwata,FC Tokyo,2008,Japanese
+18,18,Naohiro Ishikawa,JPN,M,1.75,68,12-05-81,Kanagawa,Yokohama Marinos,FC Tokyo,2008,Japanese
+19,19,Shuichi Gonda,JPN,G,1.87,82,03-03-89,Tokyo,None,FC Tokyo,2008,Japanese
+20,20,Nobuo Kawaguchi,JPN,F,1.78,72,10-04-75,Niigata,None,FC Tokyo,2008,Japanese
+21,21,Nobuyuki Abe,JPN,G,1.85,77,27-04-84,Tokyo,None,FC Tokyo,2008,Japanese
+22,22,Naotake Hanyu,JPN,M,1.67,63,22-12-79,Chiba,JEF United,FC Tokyo,2008,Japanese
+23,23,Kota Morimura,JPN,M,1.80,68,14-08-88,Tokyo,None,FC Tokyo,2008,Japanese
+24,24,Shingo Akamine,JPN,F,1.79,77,08-12-83,Okinawa,None,FC Tokyo,2008,Japanese
+25,25,Yuhei Tokunaga,JPN,D,1.79,76,25-09-83,Nagasaki,None,FC Tokyo,2008,Japanese
+26,26,Taishi Koyama,JPN,D,1.77,73,29-04-88,Yamanashi,None,FC Tokyo,2008,Japanese
+29,29,Kazunori Yoshimoto,JPN,D,1.85,83,24-04-88,Tokyo,None,FC Tokyo,2008,Japanese
+30,30,Yohei Otake,JPN,M,1.65,60,02-05-89,Saitama,None,FC Tokyo,2008,Japanese
+31,31,Kota Ogi,JPN,G,1.85,76,05-05-83,Gifu,Vissel Kobe,FC Tokyo,2008,Japanese
+32,32,Yusuke Kondo,JPN,F,1.80,78,05-12-84,Tokyo,None,FC Tokyo,2008,Japanese
+33,33,Kenta Mukuhara,JPN,D,1.72,64,06-07-89,Tokyo,None,FC Tokyo,2008,Japanese
+34,34,Ryotaro Hironaga,JPN,G,1.85,75,09-01-90,Tokyo,None,FC Tokyo,2008,Japanese
+35,35,Kohei Shimoda,JPN,M,1.80,70,08-04-89,Akita,None,FC Tokyo,2008,Japanese
+36,36,Hideto Takahashi,JPN,D,1.82,74,17-10-87,Gumma,None,FC Tokyo,2008,Japanese
+40,40,Tatsuya Suzuki,JPN,M,1.71,68,01-08-82,Kanagawa,Kashiwa Reysol,FC Tokyo,2008,Japanese
+1,1,Yoichi Doi,JPN,G,1.84,84,25-07-73,Kumamoto,FC Tokyo,Tokyo Verdy,2008,Japanese
+2,2,Kensuke Fukuda,JPN,D,1.74,70,24-07-84,Shizuoka,Yokohama F Marinos,Tokyo Verdy,2008,Japanese
+3,3,Shigenori Hagimura,JPN,D,1.83,75,31-07-76,Mie,Kyoto Purple Sanga,Tokyo Verdy,2008,Japanese
+4,4,Takumi Wada,JPN,D,1.76,71,20-10-81,Shizuoka,Shimizu S-Pulse,Tokyo Verdy,2008,Japanese
+5,5,Daisuke Nasu,JPN,D,1.80,75,10-10-81,Kanagawa,Yokohama F Marinos,Tokyo Verdy,2008,Japanese
+6,6,Tomo Sugawara,JPN,M,1.74,68,03-06-76,Hokkaido,Vissel Kobe,Tokyo Verdy,2008,Japanese
+7,7,Leandro,BRA,F,1.73,70,13-08-80,Araras,São Paulo,Tokyo Verdy,2008,Japanese
+8,8,Kosei Shibasaki,JPN,M,1.75,65,28-08-84,Nagasaki,None,Tokyo Verdy,2008,Japanese
+10,10,Diego,BRA,M,1.84,79,22-03-84,São Paulo,Palmeiras,Tokyo Verdy,2008,Japanese
+11,11,Harutaka Ono,JPN,M,1.73,72,12-05-78,Saitama,Kashiwa Reysol,Tokyo Verdy,2008,Japanese
+13,13,Taira Inoue,JPN,F,1.75,63,11-04-83,Tokyo,None,Tokyo Verdy,2008,Japanese
+14,14,Seitaro Tomisawa,JPN,D,1.81,73,08-07-82,Tokyo,Vegalta Sendai,Tokyo Verdy,2008,Japanese
+16,16,Kazunori Iio,JPN,F,1.68,65,23-02-82,Iwate,None,Tokyo Verdy,2008,Japanese
+17,17,Yukio Tsuchiya,JPN,D,1.77,74,31-07-74,Tokyo,Omiya Ardija,Tokyo Verdy,2008,Japanese
+18,18,Kojiro Kaimoto,JPN,M,1.83,76,14-10-77,Osaka,Albirex Niigata,Tokyo Verdy,2008,Japanese
+19,19,Yuzo Funakoshi,JPN,F,1.94,88,12-06-77,Hyogo,Albirex Niigata,Tokyo Verdy,2008,Japanese
+20,20,Nozomi Hiroyama,JPN,M,1.75,68,06-05-77,Chiba,Cerezo Osaka,Tokyo Verdy,2008,Japanese
+21,21,Yoshinari Takagi,JPN,G,1.87,86,20-05-79,Tokyo,None,Tokyo Verdy,2008,Japanese
+22,22,Toshihiro Hattori,JPN,M,1.78,73,23-09-73,Shizuoka,Júbilo Iwata,Tokyo Verdy,2008,Japanese
+23,23,Takashi Fukunishi,JPN,M,1.81,77,01-09-76,Ehime,FC Tokyo,Tokyo Verdy,2008,Japanese
+24,24,Tsuyoshi Yoshitake,JPN,M,1.74,66,08-09-81,Mie,Yokohama FC,Tokyo Verdy,2008,Japanese
+25,25,Kazuki Hiramoto,JPN,F,1.80,75,18-08-81,Tokyo,None,Tokyo Verdy,2008,Japanese
+26,26,Takahiro Shibasaki,JPN,G,1.89,85,23-05-82,Kanagawa,FC Tokyo,Tokyo Verdy,2008,Japanese
+27,27,Masaka Iida,JPN,D,1.85,80,15-09-85,Ibaraki,None,Tokyo Verdy,2008,Japanese
+28,28,Sho Asuke,JPN,D,1.78,68,28-10-85,Tokyo,None,Tokyo Verdy,2008,Japanese
+29,29,Sho Miyasaka,JPN,D,1.91,79,06-06-88,Kumamoto,None,Tokyo Verdy,2008,Japanese
+31,31,Jumpei Shimmura,JPN,M,1.82,73,13-10-88,Osaka,None,Tokyo Verdy,2008,Japanese
+32,32,Osama Elsamni,EGY,F,1.80,73,29-09-88,Okinawa,None,Tokyo Verdy,2008,Japanese
+33,33,Hiroki Kawano,JPN,M,1.65,58,30-03-90,Kanagawa,None,Tokyo Verdy,2008,Japanese
+34,34,Tomoyuki Suzuki,JPN,G,1.85,76,20-12-85,Saitama,None,Tokyo Verdy,2008,Japanese
+36,36,Masashi Oguro,JPN,F,1.78,73,04-05-80,Osaka,Torino,Tokyo Verdy,2008,Japanese
+1,1,Norihiro Yamagashi,JPN,G,1.85,84,17-03-74,Ibaraki,FC Tokyo,Urawa Red Diamonds,2008,Japanese
+2,2,Keisuke Tsuboi,JPN,D,1.79,67,16-09-79,Tokyo,None,Urawa Red Diamonds,2008,Japanese
+3,3,Hajime Hosogai,JPN,M,1.77,64,10-06-86,Gumma,None,Urawa Red Diamonds,2008,Japanese
+4,4,Marcus Tulio Tanaka,JPN,D,1.85,82,24-04-81,São Paulo,Sanfrecce Hiroshima,Urawa Red Diamonds,2008,Japanese
+6,6,Nobuhisa Yamada,JPN,D,1.75,66,10-09-75,Shizuoka,None,Urawa Red Diamonds,2008,Japanese
+7,7,Naohiro  Takahara,JPN,F,1.81,75,04-06-79,Shizuoka,Eintracht Frankfurt,Urawa Red Diamonds,2008,Japanese
+8,8,Alex,JPN,M,1.78,69,20-07-77,Maringá,Shimizu S-Pulse,Urawa Red Diamonds,2008,Japanese
+9,9,Yuichiro Nagai,JPN,F,1.84,75,14-02-79,Tokyo,Karlsruhe,Urawa Red Diamonds,2008,Japanese
+10,10,Róbson Ponte,BRA,M,1.74,69,06-11-76,São Paulo,Bayer Leverkusen,Urawa Red Diamonds,2008,Japanese
+11,11,Tatsuya Tanaka,JPN,F,1.67,63,27-11-82,Yamaguchi,None,Urawa Red Diamonds,2008,Japanese
+12,12,Shunsuke Tsutsumi,JPN,D,1.77,69,08-06-87,Saitama,None,Urawa Red Diamonds,2008,Japanese
+13,13,Keita Suzuki,JPN,M,1.77,67,08-07-81,Shizuoka,None,Urawa Red Diamonds,2008,Japanese
+14,14,Tadaaki Hirakawa,JPN,M,1.71,67,01-05-79,Shizuoka,None,Urawa Red Diamonds,2008,Japanese
+15,15,Sergio Ariel Escudero,JPN,M,1.71,71,01-09-88,Granada,None,Urawa Red Diamonds,2008,Japanese
+16,16,Takahito Soma,JPN,D,1.76,74,10-12-81,Kanagawa,Tokyo Verdy,Urawa Red Diamonds,2008,Japanese
+17,17,Edmilson,BRA,F,1.83,77,15-09-82,Salvador,Albirex Niigata,Urawa Red Diamonds,2008,Japanese
+18,18,Junki Koike,JPN,F,1.79,71,11-05-87,Saitama,Sakado Dipromats,Urawa Red Diamonds,2008,Japanese
+19,19,Hideki Uchidate,JPN,M,1.80,65,15-01-74,Saitama,None,Urawa Red Diamonds,2008,Japanese
+20,20,Satoshi Horinouchi,JPN,M,1.78,72,26-10-79,Saitama,None,Urawa Red Diamonds,2008,Japanese
+21,21,Tsukasa Umesaki,JPN,M,1.67,64,23-02-87,Nagasaki,Oita Trinita,Urawa Red Diamonds,2008,Japanese
+22,22,Yuki Abe,JPN,M,1.77,77,06-09-81,Chiba,JEF United,Urawa Red Diamonds,2008,Japanese
+23,23,Ryota Tsuzuki,JPN,G,1.85,81,18-04-78,Nara,Gamba Osaka,Urawa Red Diamonds,2008,Japanese
+24,24,Kazuya Sakamoto,JPN,D,1.80,67,02-09-87,Kumamoto,None,Urawa Red Diamonds,2008,Japanese
+25,25,Tetsushi Kondo,JPN,D,1.87,77,04-11-86,Fukuoka,None,Urawa Red Diamonds,2008,Japanese
+26,26,Hiroyuki Takasaki,JPN,F,1.88,78,17-03-86,Ibaraki,None,Urawa Red Diamonds,2008,Japanese
+27,27,Yoshiya Nishizawa,JPN,M,1.74,66,13-06-87,Saitama,None,Urawa Red Diamonds,2008,Japanese
+28,28,Nobuhiro Kato,JPN,G,1.80,71,11-12-84,Saitama,None,Urawa Red Diamonds,2008,Japanese
+29,29,Koki Otani,JPN,G,1.85,80,08-04-89,Kumamoto,Lanza Kumamoto,Urawa Red Diamonds,2008,Japanese
+30,30,Masayuki Okano,JPN,F,1.75,71,25-07-72,Kanagawa,Vissel Kobe,Urawa Red Diamonds,2008,Japanese
+31,31,Masato  Hashimoto,JPN,D,1.90,76,12-10-89,Chiba,None,Urawa Red Diamonds,2008,Japanese
+32,32,Yusuke Hayashi,JPN,F,1.70,60,23-01-90,Iwate,None,Urawa Red Diamonds,2008,Japanese
+33,33,Shunki Takahashi,JPN,M,1.69,68,04-05-90,Saitama,None,Urawa Red Diamonds,2008,Japanese
+34,34,Naoki Yamada,JPN,M,1.66,64,04-07-90,Saitama,None,Urawa Red Diamonds,2008,Japanese
+35,35,Genki Haraguchi,JPN,F,1.77,63,09-05-91,Saitama,None,Urawa Red Diamonds,2008,Japanese
+1,1,Tatsuya Enomoto,JPN,G,1.90,83,16-03-79,Tokyo,Yokohama F Marinos,Vissel Kobe,2008,Japanese
+2,2,Teruaki Kobayashi,JPN,D,1.85,78,20-06-79,Ibaraki,Montedio Yamagata,Vissel Kobe,2008,Japanese
+4,4,Kunie Kitamoto,JPN,D,1.81,78,18-09-81,Nara,None,Vissel Kobe,2008,Japanese
+5,5,Hiroyuki Komoto,JPN,D,1.83,72,04-09-85,Kyoto,None,Vissel Kobe,2008,Japanese
+6,6,Kim Nam-Il,KOR,M,1.82,76,14-03-77,Incheon,Suwon Samsung Bluewings,Vissel Kobe,2008,Japanese
+7,7,Park Kang-Jo,KOR,M,1.66,58,24-01-80,Hyogo,Seongnam Ilhwa,Vissel Kobe,2008,Japanese
+8,8,Keisuke Kurihara,JPN,M,1.74,67,20-05-73,Tokyo,Albirex Niigata,Vissel Kobe,2008,Japanese
+9,9,Leandro,BRA,F,1.76,68,12-02-85,São Paulo,Montedio Yamagata,Vissel Kobe,2008,Japanese
+10,10,Botti,BRA,M,1.72,68,23-02-81,Minas Gerais,Jeonbuk Hyundai Motors,Vissel Kobe,2008,Japanese
+11,11,Shota Matsuhashi,JPN,F,1.71,65,03-08-82,Nagasaki,Oita Trinita,Vissel Kobe,2008,Japanese
+13,13,Yoshito Okubo,JPN,F,1.70,73,09-06-82,Fukuoka,Cerezo Osaka,Vissel Kobe,2008,Japanese
+14,14,Tomoyuki Sakai,JPN,M,1.70,67,29-06-79,Saitama,Urawa Red Diamonds,Vissel Kobe,2008,Japanese
+15,15,Toshihiko Uchiyama,JPN,D,1.80,70,21-10-78,Kagoshima,Montedio Yamagata,Vissel Kobe,2008,Japanese
+16,16,Seiji Koga,JPN,M,1.71,74,07-08-79,Fukuoka,Avispa Fukuoka,Vissel Kobe,2008,Japanese
+17,17,Takayuki Yoshida,JPN,F,1.74,67,14-03-77,Hyogo,Yokohama F Marinos,Vissel Kobe,2008,Japanese
+18,18,Hideo Tanaka,JPN,M,1.72,65,01-03-83,Kumamoto,None,Vissel Kobe,2008,Japanese
+19,19,Daisuke Sudo,JPN,F,1.83,72,25-04-77,Kanagawa,Ventforet Kofu,Vissel Kobe,2008,Japanese
+20,20,Norio Suzuki,JPN,M,1.77,77,14-02-84,Chiba,FC Tokyo,Vissel Kobe,2008,Japanese
+21,21,Hiroto Mogi,JPN,F,1.74,71,02-03-84,Fukushima,Sanfrecce Hiroshima,Vissel Kobe,2008,Japanese
+22,22,Kenji Baba,JPN,M,1.77,70,07-07-85,Kanagawa,None,Vissel Kobe,2008,Japanese
+23,23,Gakuto Kondo,JPN,D,1.74,71,10-02-81,Aichi,Biwako Seikei SC,Vissel Kobe,2008,Japanese
+24,24,Masatoshi Mihara,JPN,M,1.75,67,02-08-88,Kumamoto,None,Vissel Kobe,2008,Japanese
+25,25,Yosuke Ishibitsu,JPN,M,1.78,73,23-07-83,Osaka,None,Vissel Kobe,2008,Japanese
+26,26,Ryosuke Matsuoka,JPN,M,1.73,65,23-10-84,Aichi,Cerezo Osaka,Vissel Kobe,2008,Japanese
+27,27,Hiroki Kishida,JPN,F,1.69,63,07-06-81,Hyogo,YKK AP,Vissel Kobe,2008,Japanese
+28,28,Takayuki Toyomitsu,JPN,M,1.68,63,02-04-87,Kagoshima,None,Vissel Kobe,2008,Japanese
+29,29,Takahide Kishi,JPN,G,1.88,90,28-04-87,Hyogo,None,Vissel Kobe,2008,Japanese
+30,30,Kenta Tokushige,JPN,G,1.87,87,09-03-84,Kagoshima,Urawa Red Diamonds,Vissel Kobe,2008,Japanese
+32,32,Masaki Yanagawa,JPN,D,1.83,78,01-05-87,Osaka,None,Vissel Kobe,2008,Japanese
+33,33,Kohei Doi,JPN,G,1.83,74,24-12-88,Hyogo,None,Vissel Kobe,2008,Japanese
+34,34,Keita Sogabe,JPN,M,1.73,65,02-07-88,Hyogo,None,Vissel Kobe,2008,Japanese
+35,35,Masahiro Ito,JPN,F,1.63,57,09-11-88,Hyogo,None,Vissel Kobe,2008,Japanese
+36,36,Keiichi Misawa,JPN,D,1.69,63,11-06-88,Nagano,None,Vissel Kobe,2008,Japanese
+37,37,Nobuhiro Uetani,JPN,F,1.80,72,15-05-89,Hyogo,None,Vissel Kobe,2008,Japanese
+38,38,Takuji Yonemoto,JPN,M,1.76,63,03-12-90,Hyogo,None,Vissel Kobe,2008,Japanese
+1,1,Tetsuya Enomoto,JPN,G,1.80,76,02-05-83,Kawasaki,None,Yokohama F Marinos,2008,Japanese
+3,3,Naoki Matsuda,JPN,D,1.83,78,14-03-77,Gumma,None,Yokohama F Marinos,2008,Japanese
+4,4,Yuzo Kurihara,JPN,D,1.84,80,18-09-83,Yokohama,None,Yokohama F Marinos,2008,Japanese
+6,6,Ryuji Kawai,JPN,D,1.83,75,14-07-78,Tokyo,Urawa Red Diamonds,Yokohama F Marinos,2008,Japanese
+7,7,Hayuma Tanaka,JPN,M,1.74,64,31-07-82,Nagano,Tokyo Verdy,Yokohama F Marinos,2008,Japanese
+8,8,Lopes,BRA,M,1.86,78,01-06-79,Volta Redonda,Cruzeiro,Yokohama F Marinos,2008,Japanese
+10,10,Koji Yamase,JPN,M,1.73,70,22-09-81,Hokkaido,Urawa Red Diamonds,Yokohama F Marinos,2008,Japanese
+11,11,Daisuke Sakata,JPN,F,1.73,65,16-01-83,Kanagawa,Yokohama Flugels,Yokohama F Marinos,2008,Japanese
+13,13,Takanobu Komiyama,JPN,D,1.74,72,03-10-84,Chiba,JEF United,Yokohama F Marinos,2008,Japanese
+14,14,Kenta Kano,JPN,M,1.75,64,02-05-86,Shizuoka,None,Yokohama F Marinos,2008,Japanese
+15,15,Hideo Oshima,JPN,F,1.84,78,07-03-80,Gumma,Montedio Yamagata,Yokohama F Marinos,2008,Japanese
+16,16,Yukihiro Yamase,JPN,M,1.76,68,22-04-84,Hokkaido,None,Yokohama F Marinos,2008,Japanese
+17,17,Shingo Hyodo,JPN,M,1.71,65,29-07-85,Nagasaki,None,Yokohama F Marinos,2008,Japanese
+18,18,Norihisa Shimizu,JPN,F,1.70,66,04-10-76,Gumma,Jubilo Iwata,Yokohama F Marinos,2008,Japanese
+20,20,Kota Mizunuma,JPN,F,1.75,66,22-02-90,Tokyo,None,Yokohama F Marinos,2008,Japanese
+21,21,Daijiro Takakuwa,JPN,G,1.90,82,10-08-73,Tokyo,Vegalta Sendai,Yokohama F Marinos,2008,Japanese
+22,22,Yuji Nakazawa,JPN,D,1.87,78,25-02-78,Saitama,Tokyo Verdy,Yokohama F Marinos,2008,Japanese
+23,23,Masakazu Tashiro,JPN,D,1.82,68,26-06-88,Tokyo,None,Yokohama F Marinos,2008,Japanese
+24,24,Takashi Kanai,JPN,D,1.74,60,05-02-90,Tokyo,None,Yokohama F Marinos,2008,Japanese
+25,25,Fumiya Yamamoto,JPN,M,1.68,58,12-07-88,Osaka,None,Yokohama F Marinos,2008,Japanese
+26,26,Yusuke Tanaka,JPN,D,1.81,73,14-04-86,Tokyo,None,Yokohama F Marinos,2008,Japanese
+27,27,Yosuke Saito,JPN,F,1.74,68,07-04-88,Tokyo,None,Yokohama F Marinos,2008,Japanese
+28,28,Nobuhisa Urata,JPN,D,1.78,74,13-09-89,Tokyo,None,Yokohama F Marinos,2008,Japanese
+29,29,Ariajasuru Hasegawa,JPN,M,1.86,70,29-10-88,Saitama,None,Yokohama F Marinos,2008,Japanese
+30,30,Shohei Ogura,JPN,M,1.75,64,08-09-85,Chiba,Mito HollyHock,Yokohama F Marinos,2008,Japanese
+31,31,Hiroki Iikura,JPN,G,1.80,72,01-06-86,Aomori,None,Yokohama F Marinos,2008,Japanese
+32,32,Kenta Furube,JPN,M,1.80,72,30-11-85,Hyogo,None,Yokohama F Marinos,2008,Japanese
+33,33,Daiki Umei,JPN,D,1.91,84,05-10-89,Fukui,None,Yokohama F Marinos,2008,Japanese
+35,35,Takashi Amano,JPN,D,1.62,60,13-04-86,Yokohama,None,Yokohama F Marinos,2008,Japanese
+36,36,Yota Akimoto,JPN,G,1.81,75,11-07-87,Tokyo,None,Yokohama F Marinos,2008,Japanese
+37,37,Manabu Saito,JPN,F,1.65,54,04-04-90,Kanagawa,None,Yokohama F Marinos,2008,Japanese
+38,38,Kim Kun-Hoan,KOR,D,1.93,86,12-08-86,,Kyung Hee Univ,Yokohama F Marinos,2008,Japanese
