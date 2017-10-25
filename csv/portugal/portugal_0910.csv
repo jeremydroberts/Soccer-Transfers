@@ -1,32 +1,32 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Rui Nereu,POR,G,1.83,74,04-02-86,Odivelas,Benfica,Acadйmica,2009,Portuguese
-2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Acadйmica,2009,Portuguese
-4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Acadйmica,2009,Portuguese
-5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Acadйmica,2009,Portuguese
-6,6,Niamien Amessan,CIV,M,1.77,68,27-09-90,Abidjan,None,Acadйmica,2009,Portuguese
-8,8,Paulo Sérgio,POR,M,1.84,83,21-07-81,Rio de Janeiro,Moreirense,Acadйmica,2009,Portuguese
-11,11,Lito,CPV,M,1.70,66,03-02-75,Praia,Naval,Acadйmica,2009,Portuguese
-12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Acadйmica,2009,Portuguese
-14,14,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Nacional [POR],Acadйmica,2009,Portuguese
-15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Acadйmica,2009,Portuguese
-17,17,Cris,POR,M,1.78,70,17-01-84,Oliveira de Azemeis,Feirense,Acadйmica,2009,Portuguese
-18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Acadйmica,2009,Portuguese
-19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Acadйmica,2009,Portuguese
-20,20,André Fontes,POR,M,1.79,75,27-05-85,Tábua,Tourizense,Acadйmica,2009,Portuguese
-21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Acadйmica,2009,Portuguese
-22,22,Emídio Rafael,POR,D,1.82,73,24-01-86,Lisbon,Portimonense,Acadйmica,2009,Portuguese
-25,25,João Ribeiro,POR,M,1.76,75,13-08-87,Porto,Naval,Acadйmica,2009,Portuguese
-27,27,Dijilly Vouho,CIV,F,1.85,75,25-06-87,Séguéla,Sabé Sports de Bouna,Acadйmica,2009,Portuguese
-28,28,Jonathan Bru,FRA,M,1.82,72,02-05-85,Neuilly-sur-Seine,AE Paphos,Acadйmica,2009,Portuguese
-30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Acadйmica,2009,Portuguese
-31,31,Barroca,POR,G,1.86,82,29-07-86,Mealhada,Tourizense,Acadйmica,2009,Portuguese
-32,32,Krum Bibishkov,BUL,F,1.90,84,02-09-82,Marikostinovo,Steaua Bucureşti,Acadйmica,2009,Portuguese
-33,33,William Tiero,GHA,M,1.74,71,03-12-80,Tema,Naval,Acadйmica,2009,Portuguese
-41,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Acadйmica,2009,Portuguese
-42,61,Bruno Amaro,POR,M,1.81,76,17-02-83,Penafiel,Nacional [POR],Acadйmica,2009,Portuguese
-43,66,Nuno Coelho,POR,M,1.81,73,23-11-87,Covilhã,FC Porto,Acadйmica,2009,Portuguese
-44,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Acadйmica,2009,Portuguese
-45,91,Ibrahim Sissoko,CIV,M,1.77,71,29-11-91,Abidjan,None,Acadйmica,2009,Portuguese
+1,1,Rui Nereu,POR,G,1.83,74,04-02-86,Odivelas,Benfica,Académica,2009,Portuguese
+2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Académica,2009,Portuguese
+4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Académica,2009,Portuguese
+5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Académica,2009,Portuguese
+6,6,Niamien Amessan,CIV,M,1.77,68,27-09-90,Abidjan,None,Académica,2009,Portuguese
+8,8,Paulo Sérgio,POR,M,1.84,83,21-07-81,Rio de Janeiro,Moreirense,Académica,2009,Portuguese
+11,11,Lito,CPV,M,1.70,66,03-02-75,Praia,Naval,Académica,2009,Portuguese
+12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Académica,2009,Portuguese
+14,14,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Nacional [POR],Académica,2009,Portuguese
+15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Académica,2009,Portuguese
+17,17,Cris,POR,M,1.78,70,17-01-84,Oliveira de Azemeis,Feirense,Académica,2009,Portuguese
+18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Académica,2009,Portuguese
+19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Académica,2009,Portuguese
+20,20,André Fontes,POR,M,1.79,75,27-05-85,Tábua,Tourizense,Académica,2009,Portuguese
+21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Académica,2009,Portuguese
+22,22,Emídio Rafael,POR,D,1.82,73,24-01-86,Lisbon,Portimonense,Académica,2009,Portuguese
+25,25,João Ribeiro,POR,M,1.76,75,13-08-87,Porto,Naval,Académica,2009,Portuguese
+27,27,Dijilly Vouho,CIV,F,1.85,75,25-06-87,Séguéla,Sabé Sports de Bouna,Académica,2009,Portuguese
+28,28,Jonathan Bru,FRA,M,1.82,72,02-05-85,Neuilly-sur-Seine,AE Paphos,Académica,2009,Portuguese
+30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Académica,2009,Portuguese
+31,31,Barroca,POR,G,1.86,82,29-07-86,Mealhada,Tourizense,Académica,2009,Portuguese
+32,32,Krum Bibishkov,BUL,F,1.90,84,02-09-82,Marikostinovo,Steaua Bucureşti,Académica,2009,Portuguese
+33,33,William Tiero,GHA,M,1.74,71,03-12-80,Tema,Naval,Académica,2009,Portuguese
+41,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Académica,2009,Portuguese
+42,61,Bruno Amaro,POR,M,1.81,76,17-02-83,Penafiel,Nacional [POR],Académica,2009,Portuguese
+43,66,Nuno Coelho,POR,M,1.81,73,23-11-87,Covilhã,FC Porto,Académica,2009,Portuguese
+44,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Académica,2009,Portuguese
+45,91,Ibrahim Sissoko,CIV,M,1.77,71,29-11-91,Abidjan,None,Académica,2009,Portuguese
 1,1,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,None,Belenenses,2009,Portuguese
 3,3,Nélson,POR,G,1.87,77,20-10-75,Torres Vedras,Estrela da Amadora,Belenenses,2009,Portuguese
 4,4,Barge,POR,M,1.74,69,04-01-84,Ovar,Estoril,Belenenses,2009,Portuguese
@@ -84,33 +84,33 @@
 31,31,Alan Kardec,BRA,F,1.85,78,12-01-89,Barra Mansa,Vasco da Gama,Benfica,2009,Portuguese
 32,32,Éder Luís,BRA,F,1.70,69,19-04-85,Uberaba,Atlético Mineiro,Benfica,2009,Portuguese
 35,35,Jorge  Ribeiro,POR,D,1.72,67,09-11-81,Lisbon,Boavista,Benfica,2009,Portuguese
-1,1,Hans-Peter Berger,AUT,G,1.79,82,28-09-81,Salzburg,SV Ried,Leixőes,2009,Portuguese
-2,2,Rúben Ribeiro,POR,D,1.75,67,01-08-87,Ramalde,None,Leixőes,2009,Portuguese
-4,4,Robert Tucker,ARG,D,1.83,85,27-06-83,Olavarría,Quilmes,Leixőes,2009,Portuguese
-5,5,Vitorino Antunes,POR,D,1.75,69,01-04-87,Freamunde,Roma,Leixőes,2009,Portuguese
-6,6,Bruno Gallo,BRA,M,1.79,74,07-05-88,Niterói,Vasco de Gama,Leixőes,2009,Portuguese
-7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Barreirense,Leixőes,2009,Portuguese
-8,8,Zé Manuel,POR,F,1.70,65,22-02-75,Fraião,Sporting Braga,Leixőes,2009,Portuguese
-9,9,Braga,POR,M,1.79,71,17-06-83,Porto,Leça,Leixőes,2009,Portuguese
-10,10,Fábio Espinho,POR,M,1.71,64,18-08-85,Espinho,Sporting Espinho,Leixőes,2009,Portuguese
-12,12,Fonseca,POR,G,1.82,80,05-01-85,Senhora da Hora,None,Leixőes,2009,Portuguese
-13,13,Joel,POR,D,1.87,87,15-06-80,Matosinhos,None,Leixőes,2009,Portuguese
-15,15,Christian Pouga,CMR,F,1.93,90,19-06-86,Douala,Sevilla B,Leixőes,2009,Portuguese
-16,16,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Sporting Braga,Leixőes,2009,Portuguese
-18,18,Cauê,BRA,M,1.86,79,24-05-89,São Paulo,Santo André,Leixőes,2009,Portuguese
-19,19,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Estoril,Leixőes,2009,Portuguese
-20,20,Nuno Filipe Laranjeiro,POR,D,1.84,76,18-01-83,Ourém,União de Leiria,Leixőes,2009,Portuguese
-21,21,Tiago Cintra,POR,F,1.85,82,05-07-89,Matosinhos,Amarante,Leixőes,2009,Portuguese
-22,22,Nélson,POR,D,1.79,73,22-03-84,Viana do Castelo,Freamunde,Leixőes,2009,Portuguese
-23,23,Seabra,POR,M,1.84,75,11-11-87,Lavra,None,Leixőes,2009,Portuguese
-25,25,Diego,BRA,G,1.88,88,11-05-79,Itaqui,Santo André,Leixőes,2009,Portuguese
-26,26,Léo,BRA,F,1.76,68,14-12-83,São Paulo,Paulista,Leixőes,2009,Portuguese
-27,27,Nuno Silva,POR,D,1.80,77,27-10-75,Lisboa,Penafiel,Leixőes,2009,Portuguese
-28,28,Jean Sony,HAI,M,1.74,73,23-01-86,Port-au-Prince,Aigle Noir,Leixőes,2009,Portuguese
-30,30,Cristian Trombetta,ARG,M,1.87,79,15-10-86,Rancúl,Nueva Chicago,Leixőes,2009,Portuguese
-33,33,Fernando Cardozo,BRA,D,1.86,79,17-03-79,Pelotas,Marítimo,Leixőes,2009,Portuguese
-41,80,João Paulo,POR,F,1.87,80,08-04-80,Porto,Rapid Bucureşti,Leixőes,2009,Portuguese
-42,99,Didi,BRA,F,1.76,71,09-10-82,Itabira,CFR Cluj,Leixőes,2009,Portuguese
+1,1,Hans-Peter Berger,AUT,G,1.79,82,28-09-81,Salzburg,SV Ried,Leixões,2009,Portuguese
+2,2,Rúben Ribeiro,POR,D,1.75,67,01-08-87,Ramalde,None,Leixões,2009,Portuguese
+4,4,Robert Tucker,ARG,D,1.83,85,27-06-83,Olavarría,Quilmes,Leixões,2009,Portuguese
+5,5,Vitorino Antunes,POR,D,1.75,69,01-04-87,Freamunde,Roma,Leixões,2009,Portuguese
+6,6,Bruno Gallo,BRA,M,1.79,74,07-05-88,Niterói,Vasco de Gama,Leixões,2009,Portuguese
+7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Barreirense,Leixões,2009,Portuguese
+8,8,Zé Manuel,POR,F,1.70,65,22-02-75,Fraião,Sporting Braga,Leixões,2009,Portuguese
+9,9,Braga,POR,M,1.79,71,17-06-83,Porto,Leça,Leixões,2009,Portuguese
+10,10,Fábio Espinho,POR,M,1.71,64,18-08-85,Espinho,Sporting Espinho,Leixões,2009,Portuguese
+12,12,Fonseca,POR,G,1.82,80,05-01-85,Senhora da Hora,None,Leixões,2009,Portuguese
+13,13,Joel,POR,D,1.87,87,15-06-80,Matosinhos,None,Leixões,2009,Portuguese
+15,15,Christian Pouga,CMR,F,1.93,90,19-06-86,Douala,Sevilla B,Leixões,2009,Portuguese
+16,16,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Sporting Braga,Leixões,2009,Portuguese
+18,18,Cauê,BRA,M,1.86,79,24-05-89,São Paulo,Santo André,Leixões,2009,Portuguese
+19,19,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Estoril,Leixões,2009,Portuguese
+20,20,Nuno Filipe Laranjeiro,POR,D,1.84,76,18-01-83,Ourém,União de Leiria,Leixões,2009,Portuguese
+21,21,Tiago Cintra,POR,F,1.85,82,05-07-89,Matosinhos,Amarante,Leixões,2009,Portuguese
+22,22,Nélson,POR,D,1.79,73,22-03-84,Viana do Castelo,Freamunde,Leixões,2009,Portuguese
+23,23,Seabra,POR,M,1.84,75,11-11-87,Lavra,None,Leixões,2009,Portuguese
+25,25,Diego,BRA,G,1.88,88,11-05-79,Itaqui,Santo André,Leixões,2009,Portuguese
+26,26,Léo,BRA,F,1.76,68,14-12-83,São Paulo,Paulista,Leixões,2009,Portuguese
+27,27,Nuno Silva,POR,D,1.80,77,27-10-75,Lisboa,Penafiel,Leixões,2009,Portuguese
+28,28,Jean Sony,HAI,M,1.74,73,23-01-86,Port-au-Prince,Aigle Noir,Leixões,2009,Portuguese
+30,30,Cristian Trombetta,ARG,M,1.87,79,15-10-86,Rancúl,Nueva Chicago,Leixões,2009,Portuguese
+33,33,Fernando Cardozo,BRA,D,1.86,79,17-03-79,Pelotas,Marítimo,Leixões,2009,Portuguese
+41,80,João Paulo,POR,F,1.87,80,08-04-80,Porto,Rapid Bucureşti,Leixões,2009,Portuguese
+42,99,Didi,BRA,F,1.76,71,09-10-82,Itabira,CFR Cluj,Leixões,2009,Portuguese
 1,1,Marcelo  Boeck,BRA,G,1.91,83,28-11-84,Santa Cruz,Internacional,Marítimo,2009,Portuguese
 2,2,Alonso,BRA,D,1.75,72,11-08-80,Montes Claros,Nacional [POR],Marítimo,2009,Portuguese
 6,6,Robson,BRA,D,1.86,80,10-07-83,Recife,Vitória Setúbal,Marítimo,2009,Portuguese
@@ -228,37 +228,37 @@
 29,29,Rabiola,POR,M,1.80,69,25-07-89,Guimarães,FC Porto,Olhanense,2009,Portuguese
 30,30,Guga,BRA,F,1.77,78,14-03-77,Rosário do Catete,Larissa,Olhanense,2009,Portuguese
 41,49,Miguel Ângelo,POR,D,1.85,76,10-10-84,São Sebastião  da Pedreira,Marítimo,Olhanense,2009,Portuguese
-1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paзos de Ferreira,2009,Portuguese
-3,3,Jason Davidson,AUS,D,1.80,72,29-06-91,Melbourne,Hume C,Paзos de Ferreira,2009,Portuguese
-4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,FC Khimki,Paзos de Ferreira,2009,Portuguese
-6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paзos de Ferreira,2009,Portuguese
-7,7,Maykon,BRA,M,1.76,67,20-04-84,Araranguá,Belenenses,Paзos de Ferreira,2009,Portuguese
-11,11,Leandrinho,BRA,F,1.80,78,06-06-86,Cotia,CS Herediano,Paзos de Ferreira,2009,Portuguese
-13,13,Berlin Nlome-Ndebi,CMR,F,1.78,77,28-10-87,Douala,Atlético Monzón,Paзos de Ferreira,2009,Portuguese
-14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paзos de Ferreira,2009,Portuguese
-15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Belenenses,Paзos de Ferreira,2009,Portuguese
-16,16,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Gil Vicente,Paзos de Ferreira,2009,Portuguese
-17,17,Kelly Berville,FRA,D,1.80,92,05-01-78,Colombes,Penafiel,Paзos de Ferreira,2009,Portuguese
-19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Beira-Mar,Paзos de Ferreira,2009,Portuguese
-20,20,Romeu,POR,F,1.80,70,07-08-86,Santo Tirso,None,Paзos de Ferreira,2009,Portuguese
-22,22,Paulo Leal,POR,M,1.78,73,22-05-88,Paços de Ferreira,None,Paзos de Ferreira,2009,Portuguese
-23,23,Diego Brandão,POR,F,1.85,66,19-02-90,Paços de Ferreira,None,Paзos de Ferreira,2009,Portuguese
-25,25,Fábio Pacheco,POR,M,1.78,67,26-05-88,Paredes,None,Paзos de Ferreira,2009,Portuguese
-27,27,Cristelo,POR,M,1.65,65,27-03-89,Paredes,None,Paзos de Ferreira,2009,Portuguese
-30,30,Bruno,BRA,M,1.74,69,05-02-89,Andradas,Internacional,Paзos de Ferreira,2009,Portuguese
-31,31,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Sporting Braga,Paзos de Ferreira,2009,Portuguese
-32,32,Candeias,POR,F,1.77,77,25-02-88,Fornos de Algodres,FC Porto,Paзos de Ferreira,2009,Portuguese
-33,33,Celso,POR,D,1.87,77,09-06-90,Paredes,None,Paзos de Ferreira,2009,Portuguese
-37,37,Carlitos,POR,F,1.83,72,24-09-88,Vale de Cambra,Oliveirense,Paзos de Ferreira,2009,Portuguese
-41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paзos de Ferreira,2009,Portuguese
-42,50,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paзos de Ferreira,2009,Portuguese
-43,66,Marco,POR,M,1.75,74,24-06-90,,None,Paзos de Ferreira,2009,Portuguese
-44,77,José Coelho,POR,F,1.75,75,04-02-90,Paços de Ferreira,Benfica,Paзos de Ferreira,2009,Portuguese
-45,80,João Gouveia,POR,F,1.76,63,09-05-90,Gouveia,None,Paзos de Ferreira,2009,Portuguese
-46,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paзos de Ferreira,2009,Portuguese
-47,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paзos de Ferreira,2009,Portuguese
-48,88,António Livramento,POR,M,1.73,67,03-03-82,Tavira,Rio Ave,Paзos de Ferreira,2009,Portuguese
-49,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paзos de Ferreira,2009,Portuguese
+1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paços de Ferreira,2009,Portuguese
+3,3,Jason Davidson,AUS,D,1.80,72,29-06-91,Melbourne,Hume C,Paços de Ferreira,2009,Portuguese
+4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,FC Khimki,Paços de Ferreira,2009,Portuguese
+6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paços de Ferreira,2009,Portuguese
+7,7,Maykon,BRA,M,1.76,67,20-04-84,Araranguá,Belenenses,Paços de Ferreira,2009,Portuguese
+11,11,Leandrinho,BRA,F,1.80,78,06-06-86,Cotia,CS Herediano,Paços de Ferreira,2009,Portuguese
+13,13,Berlin Nlome-Ndebi,CMR,F,1.78,77,28-10-87,Douala,Atlético Monzón,Paços de Ferreira,2009,Portuguese
+14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paços de Ferreira,2009,Portuguese
+15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Belenenses,Paços de Ferreira,2009,Portuguese
+16,16,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Gil Vicente,Paços de Ferreira,2009,Portuguese
+17,17,Kelly Berville,FRA,D,1.80,92,05-01-78,Colombes,Penafiel,Paços de Ferreira,2009,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Beira-Mar,Paços de Ferreira,2009,Portuguese
+20,20,Romeu,POR,F,1.80,70,07-08-86,Santo Tirso,None,Paços de Ferreira,2009,Portuguese
+22,22,Paulo Leal,POR,M,1.78,73,22-05-88,Paços de Ferreira,None,Paços de Ferreira,2009,Portuguese
+23,23,Diego Brandão,POR,F,1.85,66,19-02-90,Paços de Ferreira,None,Paços de Ferreira,2009,Portuguese
+25,25,Fábio Pacheco,POR,M,1.78,67,26-05-88,Paredes,None,Paços de Ferreira,2009,Portuguese
+27,27,Cristelo,POR,M,1.65,65,27-03-89,Paredes,None,Paços de Ferreira,2009,Portuguese
+30,30,Bruno,BRA,M,1.74,69,05-02-89,Andradas,Internacional,Paços de Ferreira,2009,Portuguese
+31,31,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Sporting Braga,Paços de Ferreira,2009,Portuguese
+32,32,Candeias,POR,F,1.77,77,25-02-88,Fornos de Algodres,FC Porto,Paços de Ferreira,2009,Portuguese
+33,33,Celso,POR,D,1.87,77,09-06-90,Paredes,None,Paços de Ferreira,2009,Portuguese
+37,37,Carlitos,POR,F,1.83,72,24-09-88,Vale de Cambra,Oliveirense,Paços de Ferreira,2009,Portuguese
+41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paços de Ferreira,2009,Portuguese
+42,50,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paços de Ferreira,2009,Portuguese
+43,66,Marco,POR,M,1.75,74,24-06-90,,None,Paços de Ferreira,2009,Portuguese
+44,77,José Coelho,POR,F,1.75,75,04-02-90,Paços de Ferreira,Benfica,Paços de Ferreira,2009,Portuguese
+45,80,João Gouveia,POR,F,1.76,63,09-05-90,Gouveia,None,Paços de Ferreira,2009,Portuguese
+46,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paços de Ferreira,2009,Portuguese
+47,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paços de Ferreira,2009,Portuguese
+48,88,António Livramento,POR,M,1.73,67,03-03-82,Tavira,Rio Ave,Paços de Ferreira,2009,Portuguese
+49,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paços de Ferreira,2009,Portuguese
 1,1,Helton,BRA,G,1.89,84,18-05-78,Alcântara,União de Leiria,FC Porto,2009,Portuguese
 2,2,Bruno Alves,POR,D,1.89,80,27-11-81,Porto,AEK Athens,FC Porto,2009,Portuguese
 3,3,Raul Meireles,POR,M,1.79,69,17-03-83,Porto,Boavista,FC Porto,2009,Portuguese
@@ -372,61 +372,61 @@
 43,46,Renato Neto,BRA,F,1.84,75,27-09-91,Camacan,None,Sporting CP,2009,Portuguese
 44,50,Ruben Luís,POR,G,1.80,67,27-06-91,Alcobaça,None,Sporting CP,2009,Portuguese
 45,78,Abel Ferreira,POR,D,1.78,75,22-12-78,Penafiel,Sporting Braga,Sporting CP,2009,Portuguese
-1,1,Hélder Godinho,POR,G,1.90,82,08-09-77,Covilhã,Feirense,Uniăo de Leiria,2009,Portuguese
-3,3,Diego Gaúcho,BRA,D,1.86,84,15-11-81,Porto Alegre,Gil Vicente,Uniăo de Leiria,2009,Portuguese
-4,4,Ricardo Pateiro,POR,M,1.78,72,31-05-80,Setúbal,Nacional [POR],Uniăo de Leiria,2009,Portuguese
-5,5,Paulo Vinícius,BRA,M,1.86,84,12-08-84,Cuiabá,Leixões,Uniăo de Leiria,2009,Portuguese
-6,6,Nuno Gomes,POR,D,1.80,76,27-09-78,Lisbon,Varzim,Uniăo de Leiria,2009,Portuguese
-8,8,André Santos,POR,M,1.76,70,02-03-89,Sobreiro Curvo,Sporting CP,Uniăo de Leiria,2009,Portuguese
-9,9,Seydou Koné,CIV,F,1.79,79,28-03-83,Abidjan,FC Botoşani,Uniăo de Leiria,2009,Portuguese
-11,11,Silas,POR,M,1.78,72,01-09-76,Lisbon,Belenenses,Uniăo de Leiria,2009,Portuguese
-12,12,Ronny,BRA,D,1.75,74,11-05-86,Fortaleza,Sporting CP,Uniăo de Leiria,2009,Portuguese
-13,13,Bruno Miguel,POR,D,1.88,84,24-09-82,São João da Madeira,Varzim,Uniăo de Leiria,2009,Portuguese
-14,14,Vjateslav Zahovaiko,EST,F,1.87,73,29-12-81,Rapla,Flora Tallinn,Uniăo de Leiria,2009,Portuguese
-16,16,Elias,BRA,M,1.77,73,04-09-81,Montalvani,Vitória Setúbal,Uniăo de Leiria,2009,Portuguese
-19,19,Tiago Luís,BRA,F,1.76,74,13-03-89,Ribeirão Preto,Santos,Uniăo de Leiria,2009,Portuguese
-20,20,Marco Soares,CPV,M,1.80,75,16-06-84,Setúbal,Barreirense,Uniăo de Leiria,2009,Portuguese
-24,24,Andjelko Djuričić,SRB,G,1.93,87,21-11-80,Zemun,Hajduk Kula,Uniăo de Leiria,2009,Portuguese
-25,25,Hugo Gomes,POR,D,1.72,68,11-10-79,Faro,Estrela da Amadora,Uniăo de Leiria,2009,Portuguese
-26,26,Madi  Panandétigiuri,BFA,D,1.80,75,22-03-84,Ouahigouya,Wehen-Wiesbaden,Uniăo de Leiria,2009,Portuguese
-28,28,Rúben Brígido,POR,M,1.71,65,23-06-91,Leiria,None,Uniăo de Leiria,2009,Portuguese
-30,30,Mamadou Tall,BFA,D,1.85,85,04-12-82,Attecoube,Wydad Casablanca,Uniăo de Leiria,2009,Portuguese
-32,32,Vítor Moreno,CPV,D,1.80,86,29-11-80,Lisbon,Estrela da Amadora,Uniăo de Leiria,2009,Portuguese
-41,50,Rafael Bitencourt,BRA,M,1.78,71,13-04-87,Venancio Aires,Joinville,Uniăo de Leiria,2009,Portuguese
-42,77,Zé António,POR,D,1.85,81,14-03-77,Torres Vedras,Racing Santander,Uniăo de Leiria,2009,Portuguese
-43,80,Patrick,BRA,D,1.80,70,20-08-80,Muriaé,Ituano,Uniăo de Leiria,2009,Portuguese
-44,81,Pedro Cervantes,POR,M,1.75,72,13-07-82,Porto,Leixões,Uniăo de Leiria,2009,Portuguese
-45,83,Carlão,BRA,F,1.90,78,01-08-86,Caxias,São Cristóvão,Uniăo de Leiria,2009,Portuguese
-46,88,Issouf Ouattara,BFA,F,1.83,70,07-10-88,Ouagadougou,Étoile Filante Ouagadougou,Uniăo de Leiria,2009,Portuguese
-47,91,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,None,Uniăo de Leiria,2009,Portuguese
-48,99,Cássio,BRA,F,1.86,80,25-11-83,Porto Alegre,Nacional [POR],Uniăo de Leiria,2009,Portuguese
-1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitуria Guimarгes,2009,Portuguese
-5,5,Valdomiro,BRA,D,1.91,89,06-02-79,Salvador da Bahia,Ajman Club,Vitуria Guimarгes,2009,Portuguese
-7,7,Carlitos,POR,F,1.68,66,06-03-77,Barcelos,Belenenses,Vitуria Guimarгes,2009,Portuguese
-8,8,Tiago Targino,POR,F,1.80,67,06-06-86,Beja,None,Vitуria Guimarгes,2009,Portuguese
-9,9,Roberto,BRA,F,1.90,86,29-07-78,Linhares,Varzim,Vitуria Guimarгes,2009,Portuguese
-10,10,Nuno Assis,POR,M,1.68,63,25-11-77,Coimbra,Benfica,Vitуria Guimarгes,2009,Portuguese
-11,11,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,Atlético Mineiro,Vitуria Guimarгes,2009,Portuguese
-13,13,Jorge Gonçalves,POR,F,1.78,82,31-10-83,Vila Nova de Gaia,Racing Santander,Vitуria Guimarгes,2009,Portuguese
-15,15,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitуria Guimarгes,2009,Portuguese
-16,16,Cláudio Ramos,POR,G,1.83,83,16-11-91,Viseu,None,Vitуria Guimarгes,2009,Portuguese
-17,17,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Vitуria Guimarгes,2009,Portuguese
-18,18,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Caçadores das Taipas,Vitуria Guimarгes,2009,Portuguese
-20,20,Yves Desmarets,FRA,M,1.78,72,19-07-79,Paris,Les Lilas,Vitуria Guimarгes,2009,Portuguese
-22,22,Gustavo,BRA,D,1.85,84,09-03-84,Curitiba,Atlético Paranaense,Vitуria Guimarгes,2009,Portuguese
-25,25,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,FC Timişoara,Vitуria Guimarгes,2009,Portuguese
-26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitуria Guimarгes,2009,Portuguese
-27,27,Custódio,POR,M,1.80,80,24-05-83,Guimarães,Dynamo Moscow,Vitуria Guimarгes,2009,Portuguese
-31,31,Andrezinho,BRA,D,1.72,67,09-10-81,Mineiros,Vila Nova,Vitуria Guimarгes,2009,Portuguese
-34,34,Leandro Silva,BRA,D,1.84,82,11-01-89,Rio Branco do Sul,Coritiba,Vitуria Guimarгes,2009,Portuguese
-37,37,Tiago,POR,F,,,27-01-91,Vizela,None,Vitуria Guimarгes,2009,Portuguese
-39,39,Marquinho,BRA,F,1.77,74,08-07-86,Curitiba,J. Malucelli,Vitуria Guimarгes,2009,Portuguese
-41,52,Serginho,POR,G,1.92,85,06-12-82,Santa Maria Feira,Lourosa,Vitуria Guimarгes,2009,Portuguese
-42,79,Alex,POR,D,1.69,69,06-09-79,Guimarães,Wolfsburg,Vitуria Guimarгes,2009,Portuguese
-43,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitуria Guimarгes,2009,Portuguese
-44,81,Fábio Felício,POR,F,1.70,60,02-05-82,Faro,Rubin Kazan,Vitуria Guimarгes,2009,Portuguese
-45,98,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Grêmio,Vitуria Guimarгes,2009,Portuguese
-46,99,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitуria Guimarгes,2009,Portuguese
+1,1,Hélder Godinho,POR,G,1.90,82,08-09-77,Covilhã,Feirense,União de Leiria,2009,Portuguese
+3,3,Diego Gaúcho,BRA,D,1.86,84,15-11-81,Porto Alegre,Gil Vicente,União de Leiria,2009,Portuguese
+4,4,Ricardo Pateiro,POR,M,1.78,72,31-05-80,Setúbal,Nacional [POR],União de Leiria,2009,Portuguese
+5,5,Paulo Vinícius,BRA,M,1.86,84,12-08-84,Cuiabá,Leixões,União de Leiria,2009,Portuguese
+6,6,Nuno Gomes,POR,D,1.80,76,27-09-78,Lisbon,Varzim,União de Leiria,2009,Portuguese
+8,8,André Santos,POR,M,1.76,70,02-03-89,Sobreiro Curvo,Sporting CP,União de Leiria,2009,Portuguese
+9,9,Seydou Koné,CIV,F,1.79,79,28-03-83,Abidjan,FC Botoşani,União de Leiria,2009,Portuguese
+11,11,Silas,POR,M,1.78,72,01-09-76,Lisbon,Belenenses,União de Leiria,2009,Portuguese
+12,12,Ronny,BRA,D,1.75,74,11-05-86,Fortaleza,Sporting CP,União de Leiria,2009,Portuguese
+13,13,Bruno Miguel,POR,D,1.88,84,24-09-82,São João da Madeira,Varzim,União de Leiria,2009,Portuguese
+14,14,Vjateslav Zahovaiko,EST,F,1.87,73,29-12-81,Rapla,Flora Tallinn,União de Leiria,2009,Portuguese
+16,16,Elias,BRA,M,1.77,73,04-09-81,Montalvani,Vitória Setúbal,União de Leiria,2009,Portuguese
+19,19,Tiago Luís,BRA,F,1.76,74,13-03-89,Ribeirão Preto,Santos,União de Leiria,2009,Portuguese
+20,20,Marco Soares,CPV,M,1.80,75,16-06-84,Setúbal,Barreirense,União de Leiria,2009,Portuguese
+24,24,Andjelko Djuričić,SRB,G,1.93,87,21-11-80,Zemun,Hajduk Kula,União de Leiria,2009,Portuguese
+25,25,Hugo Gomes,POR,D,1.72,68,11-10-79,Faro,Estrela da Amadora,União de Leiria,2009,Portuguese
+26,26,Madi  Panandétigiuri,BFA,D,1.80,75,22-03-84,Ouahigouya,Wehen-Wiesbaden,União de Leiria,2009,Portuguese
+28,28,Rúben Brígido,POR,M,1.71,65,23-06-91,Leiria,None,União de Leiria,2009,Portuguese
+30,30,Mamadou Tall,BFA,D,1.85,85,04-12-82,Attecoube,Wydad Casablanca,União de Leiria,2009,Portuguese
+32,32,Vítor Moreno,CPV,D,1.80,86,29-11-80,Lisbon,Estrela da Amadora,União de Leiria,2009,Portuguese
+41,50,Rafael Bitencourt,BRA,M,1.78,71,13-04-87,Venancio Aires,Joinville,União de Leiria,2009,Portuguese
+42,77,Zé António,POR,D,1.85,81,14-03-77,Torres Vedras,Racing Santander,União de Leiria,2009,Portuguese
+43,80,Patrick,BRA,D,1.80,70,20-08-80,Muriaé,Ituano,União de Leiria,2009,Portuguese
+44,81,Pedro Cervantes,POR,M,1.75,72,13-07-82,Porto,Leixões,União de Leiria,2009,Portuguese
+45,83,Carlão,BRA,F,1.90,78,01-08-86,Caxias,São Cristóvão,União de Leiria,2009,Portuguese
+46,88,Issouf Ouattara,BFA,F,1.83,70,07-10-88,Ouagadougou,Étoile Filante Ouagadougou,União de Leiria,2009,Portuguese
+47,91,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,None,União de Leiria,2009,Portuguese
+48,99,Cássio,BRA,F,1.86,80,25-11-83,Porto Alegre,Nacional [POR],União de Leiria,2009,Portuguese
+1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitória Guimarães,2009,Portuguese
+5,5,Valdomiro,BRA,D,1.91,89,06-02-79,Salvador da Bahia,Ajman Club,Vitória Guimarães,2009,Portuguese
+7,7,Carlitos,POR,F,1.68,66,06-03-77,Barcelos,Belenenses,Vitória Guimarães,2009,Portuguese
+8,8,Tiago Targino,POR,F,1.80,67,06-06-86,Beja,None,Vitória Guimarães,2009,Portuguese
+9,9,Roberto,BRA,F,1.90,86,29-07-78,Linhares,Varzim,Vitória Guimarães,2009,Portuguese
+10,10,Nuno Assis,POR,M,1.68,63,25-11-77,Coimbra,Benfica,Vitória Guimarães,2009,Portuguese
+11,11,Renan Oliveira,BRA,M,1.82,72,29-12-89,Itabira,Atlético Mineiro,Vitória Guimarães,2009,Portuguese
+13,13,Jorge Gonçalves,POR,F,1.78,82,31-10-83,Vila Nova de Gaia,Racing Santander,Vitória Guimarães,2009,Portuguese
+15,15,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitória Guimarães,2009,Portuguese
+16,16,Cláudio Ramos,POR,G,1.83,83,16-11-91,Viseu,None,Vitória Guimarães,2009,Portuguese
+17,17,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Vitória Guimarães,2009,Portuguese
+18,18,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Caçadores das Taipas,Vitória Guimarães,2009,Portuguese
+20,20,Yves Desmarets,FRA,M,1.78,72,19-07-79,Paris,Les Lilas,Vitória Guimarães,2009,Portuguese
+22,22,Gustavo,BRA,D,1.85,84,09-03-84,Curitiba,Atlético Paranaense,Vitória Guimarães,2009,Portuguese
+25,25,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,FC Timişoara,Vitória Guimarães,2009,Portuguese
+26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarães,2009,Portuguese
+27,27,Custódio,POR,M,1.80,80,24-05-83,Guimarães,Dynamo Moscow,Vitória Guimarães,2009,Portuguese
+31,31,Andrezinho,BRA,D,1.72,67,09-10-81,Mineiros,Vila Nova,Vitória Guimarães,2009,Portuguese
+34,34,Leandro Silva,BRA,D,1.84,82,11-01-89,Rio Branco do Sul,Coritiba,Vitória Guimarães,2009,Portuguese
+37,37,Tiago,POR,F,,,27-01-91,Vizela,None,Vitória Guimarães,2009,Portuguese
+39,39,Marquinho,BRA,F,1.77,74,08-07-86,Curitiba,J. Malucelli,Vitória Guimarães,2009,Portuguese
+41,52,Serginho,POR,G,1.92,85,06-12-82,Santa Maria Feira,Lourosa,Vitória Guimarães,2009,Portuguese
+42,79,Alex,POR,D,1.69,69,06-09-79,Guimarães,Wolfsburg,Vitória Guimarães,2009,Portuguese
+43,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitória Guimarães,2009,Portuguese
+44,81,Fábio Felício,POR,F,1.70,60,02-05-82,Faro,Rubin Kazan,Vitória Guimarães,2009,Portuguese
+45,98,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Grêmio,Vitória Guimarães,2009,Portuguese
+46,99,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitória Guimarães,2009,Portuguese
 1,1,Matos,POR,G,1.91,91,15-02-79,Santo Ildefonso,Varzim,Vitória Setúbal,2009,Portuguese
 2,2,Aurélien Collin,FRA,D,1.85,77,08-03-86,Enghien-les-Bains,Wrexham,Vitória Setúbal,2009,Portuguese
 3,3,Ruben Lima,POR,D,1.76,72,03-10-89,Lisbon,Benfica,Vitória Setúbal,2009,Portuguese

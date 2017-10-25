@@ -1,29 +1,29 @@
 ,Number,Name,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Rui Nereu,G,5'07'',10 03,04-02-86,Odivelas,Benfica,Acadйmica,2007,Portuguese
-2,2,Joeano,F,"5'09""",11 05,12-08-79,Fortaleza,Beitar Jerusalem,Acadйmica,2007,Portuguese
-3,3,Fofana,M,"5'07""",11 05,17-04-84,Abidjan,Sports Bouna,Acadйmica,2007,Portuguese
-4,4,Kaká,D,"6'02""",12 11,16-05-81,São José do Belmonte,Grémio Jaciára,Acadйmica,2007,Portuguese
-5,5,Markus Berger,D,"6'01""",11 07,21-01-85,Salzburg,SV Ried,Acadйmica,2007,Portuguese
-6,6,Irineu,D,"6'01""",11 11,27-03-83,São  Paulo,Cruzeiro,Acadйmica,2007,Portuguese
-8,8,Paulo Sérgio,M,6'00'',13 03,21-07-81,Rio de Janeiro,Moreirense,Acadйmica,2007,Portuguese
-10,10,Miguel Pedro,F,5'09'',11 00,11-06-83,Porto,Desportivo Aves,Acadйmica,2007,Portuguese
-11,11,Lito,M,5'07'',10 06,03-02-75,Lisbon,Naval,Acadйmica,2007,Portuguese
-12,12,Ricardo,G,"6'02""",12 08,06-07-82,Póvoa do Varzim,Varzim,Acadйmica,2007,Portuguese
-14,14,Pedro Ribeiro,F,"6'00""",12 04,24-05-88,Figueira da Foz,None,Acadйmica,2007,Portuguese
-15,15,Orlando,D,6'00'',12 13,24-10-79,Santo Tirso,Freamunde,Acadйmica,2007,Portuguese
-17,17,Cris,M,5'10'',11 00,17-01-84,Oliveira de Azemeis,Feirense,Acadйmica,2007,Portuguese
-18,18,Vítor Vinha,M,5'11'',11 03,11-11-85,Viseu,None,Acadйmica,2007,Portuguese
-19,19,Pedrinho,F,"5'09""",11 05,06-03-85,Vila do Conde,Varzim,Acadйmica,2007,Portuguese
-24,24,Pedro Roma,G,6'01'',13 01,13-08-70,Pombal,Gil Vicente,Acadйmica,2007,Portuguese
-25,25,Ivanildo,F,"5'09""",11 03,09-01-86,Bissau,FC Porto,Acadйmica,2007,Portuguese
-26,26,Edgar,F,"6'03""",12 00,03-01-87,São Carlos,FC Porto,Acadйmica,2007,Portuguese
-28,28,Nuno Piloto,M,5'10'',11 07,19-03-82,Viseu,None,Acadйmica,2007,Portuguese
-30,30,Pedro Costa,D,5'06'',10 10,21-11-81,Arouca,Sporting Braga,Acadйmica,2007,Portuguese
-32,32,Miloš Pavlovic,F,"6'03""",12 11,27-11-83,Belgrade,Voždovac,Acadйmica,2007,Portuguese
-33,33,William Tiero,F,"5'09""",11 03,03-12-80,Tema,Naval,Acadйmica,2007,Portuguese
-38,38,Cristiano,M,"5'07""",11 00,11-07-89,Portalegre,None,Acadйmica,2007,Portuguese
-41,82,Cléber Manttuy,D,"5'10""",12 00,24-03-82,São  Bernardo do Campo,Marília,Acadйmica,2007,Portuguese
-42,85,Luis Aguiar,M,"6'00""",12 11,17-11-85,Mercedes,FC Porto,Acadйmica,2007,Portuguese
+1,1,Rui Nereu,G,5'07'',10 03,04-02-86,Odivelas,Benfica,Académica,2007,Portuguese
+2,2,Joeano,F,"5'09""",11 05,12-08-79,Fortaleza,Beitar Jerusalem,Académica,2007,Portuguese
+3,3,Fofana,M,"5'07""",11 05,17-04-84,Abidjan,Sports Bouna,Académica,2007,Portuguese
+4,4,Kaká,D,"6'02""",12 11,16-05-81,São José do Belmonte,Grémio Jaciára,Académica,2007,Portuguese
+5,5,Markus Berger,D,"6'01""",11 07,21-01-85,Salzburg,SV Ried,Académica,2007,Portuguese
+6,6,Irineu,D,"6'01""",11 11,27-03-83,São  Paulo,Cruzeiro,Académica,2007,Portuguese
+8,8,Paulo Sérgio,M,6'00'',13 03,21-07-81,Rio de Janeiro,Moreirense,Académica,2007,Portuguese
+10,10,Miguel Pedro,F,5'09'',11 00,11-06-83,Porto,Desportivo Aves,Académica,2007,Portuguese
+11,11,Lito,M,5'07'',10 06,03-02-75,Lisbon,Naval,Académica,2007,Portuguese
+12,12,Ricardo,G,"6'02""",12 08,06-07-82,Póvoa do Varzim,Varzim,Académica,2007,Portuguese
+14,14,Pedro Ribeiro,F,"6'00""",12 04,24-05-88,Figueira da Foz,None,Académica,2007,Portuguese
+15,15,Orlando,D,6'00'',12 13,24-10-79,Santo Tirso,Freamunde,Académica,2007,Portuguese
+17,17,Cris,M,5'10'',11 00,17-01-84,Oliveira de Azemeis,Feirense,Académica,2007,Portuguese
+18,18,Vítor Vinha,M,5'11'',11 03,11-11-85,Viseu,None,Académica,2007,Portuguese
+19,19,Pedrinho,F,"5'09""",11 05,06-03-85,Vila do Conde,Varzim,Académica,2007,Portuguese
+24,24,Pedro Roma,G,6'01'',13 01,13-08-70,Pombal,Gil Vicente,Académica,2007,Portuguese
+25,25,Ivanildo,F,"5'09""",11 03,09-01-86,Bissau,FC Porto,Académica,2007,Portuguese
+26,26,Edgar,F,"6'03""",12 00,03-01-87,São Carlos,FC Porto,Académica,2007,Portuguese
+28,28,Nuno Piloto,M,5'10'',11 07,19-03-82,Viseu,None,Académica,2007,Portuguese
+30,30,Pedro Costa,D,5'06'',10 10,21-11-81,Arouca,Sporting Braga,Académica,2007,Portuguese
+32,32,Miloš Pavlovic,F,"6'03""",12 11,27-11-83,Belgrade,Voždovac,Académica,2007,Portuguese
+33,33,William Tiero,F,"5'09""",11 03,03-12-80,Tema,Naval,Académica,2007,Portuguese
+38,38,Cristiano,M,"5'07""",11 00,11-07-89,Portalegre,None,Académica,2007,Portuguese
+41,82,Cléber Manttuy,D,"5'10""",12 00,24-03-82,São  Bernardo do Campo,Marília,Académica,2007,Portuguese
+42,85,Luis Aguiar,M,"6'00""",12 11,17-11-85,Mercedes,FC Porto,Académica,2007,Portuguese
 1,1,Marco,G,"6'04""",12 13,01-03-78,Amares,Sporting Braga,Belenenses,2007,Portuguese
 2,2,Amaral,D,"5'07""",10 12,28-02-72,Capivari,Leixões,Belenenses,2007,Portuguese
 3,3,Miguel Areias,D,6'02'',12 13,02-06-77,Gaia,FC Porto,Belenenses,2007,Portuguese
@@ -132,33 +132,33 @@
 34,34,Wagnão,D,"6'03""",13 05,29-12-78,Marília,Rio Claro,Estrela da Amadora,2007,Portuguese
 41,55,Hélder Cabral,D,"5'10""",12 08,07-05-84,Peniche,Vitória Guimarães,Estrela da Amadora,2007,Portuguese
 42,77,Giancarlo,F,"6'03""",13 05,18-10-82,Aranranguá,Náutico,Estrela da Amadora,2007,Portuguese
-1,1,Beto,G,"5'11""",12 08,01-05-82,Loures,Marco,Leixőes,2007,Portuguese
-2,2,Rúben Ribeiro,D,"5'09""",10 08,01-08-87,Ramalde,None,Leixőes,2007,Portuguese
-3,3,Ezequias,D,5'11'',10 12,28-01-81,Junidia,FC Porto,Leixőes,2007,Portuguese
-4,4,Elvis,D,"6'01""",12 08,23-08-77,São Paulo,Portuguesa Santista,Leixőes,2007,Portuguese
-5,5,Nuno Diogo,D,"6'02""",11 11,13-06-81,Lisboa,Penafiel,Leixőes,2007,Portuguese
-6,6,Paulo Machado,M,"5'10""",11 05,31-03-86,Cerco,FC Porto,Leixőes,2007,Portuguese
-7,7,Hugo Morais,M,"5'11""",12 06,12-02-78,Quatar,Barreirense,Leixőes,2007,Portuguese
-8,8,Pedro Cervantes,M,"5'09""",11 07,13-07-82,Porto,Naval,Leixőes,2007,Portuguese
-9,9,Roberto Alcântara,F,"6'01""",13 03,25-06-77,Osasco,Penafiel,Leixőes,2007,Portuguese
-11,11,Diogo Valente,F,"5'10""",11 07,23-09-84,Aveiro,FC Porto,Leixőes,2007,Portuguese
-13,13,Joel,D,"6'02""",13 10,15-06-80,Matosinhos,None,Leixőes,2007,Portuguese
-14,14,Bruno China,M,"6'00""",11 11,05-08-82,Matosinhos,None,Leixőes,2007,Portuguese
-15,15,João Moreira,F,"6'00""",11 09,07-02-86,Amadora,Valencia B,Leixőes,2007,Portuguese
-17,17,Vierinha,M,5'07'',10 06,24-01-86,Guimarães,FC Porto,Leixőes,2007,Portuguese
-18,18,Udochukwu Nwoko,M,"5'07""",10 08,15-10-84,Lagos,Marsaxlokk,Leixőes,2007,Portuguese
-19,19,Jorge Gonçalves,F,"5'10""",12 13,31-10-83,Vila Nova de Gaia,Pedras Rubras,Leixőes,2007,Portuguese
-22,22,Vítor Ilídio Castanheira,M,5'09'',11 03,07-09-77,Chaves,Sporting Braga,Leixőes,2007,Portuguese
-23,23,Filipe Oliveira,F,5'10'',10 12,27-05-84,Braga,Marítimo,Leixőes,2007,Portuguese
-24,24,Marco,G,"5'11""",12 04,06-04-80,Vila Nova de Gaia,Canelas,Leixőes,2007,Portuguese
-25,25,Jorge Duarte,M,5'11'',12 04,18-12-74,Fafe,Moreirense,Leixőes,2007,Portuguese
-26,26,Nuno Amaro,D,5'10'',11 09,15-01-76,Odemira,Gil Vicente,Leixőes,2007,Portuguese
-27,27,Nuno Silva,D,"5'09""",11 09,27-10-75,Lisboa,Penafiel,Leixőes,2007,Portuguese
-29,29,Jaime Júnior,M,6'00'',12 06,27-04-79,Belem do Pará,Racing  Ferrol,Leixőes,2007,Portuguese
-37,37,André Simões,M,"5'09""",10 06,16-12-89,,None,Leixőes,2007,Portuguese
-38,38,Gonçalo,M,"5'07""",10 03,22-09-89,,None,Leixőes,2007,Portuguese
-39,39,Cacheira,F,"5'07""",10 03,30-06-89,,None,Leixőes,2007,Portuguese
-41,77,Jorge Baptista,G,"6'01""",13 10,02-04-77,Mafamude,Gil Vicente,Leixőes,2007,Portuguese
+1,1,Beto,G,"5'11""",12 08,01-05-82,Loures,Marco,Leixões,2007,Portuguese
+2,2,Rúben Ribeiro,D,"5'09""",10 08,01-08-87,Ramalde,None,Leixões,2007,Portuguese
+3,3,Ezequias,D,5'11'',10 12,28-01-81,Junidia,FC Porto,Leixões,2007,Portuguese
+4,4,Elvis,D,"6'01""",12 08,23-08-77,São Paulo,Portuguesa Santista,Leixões,2007,Portuguese
+5,5,Nuno Diogo,D,"6'02""",11 11,13-06-81,Lisboa,Penafiel,Leixões,2007,Portuguese
+6,6,Paulo Machado,M,"5'10""",11 05,31-03-86,Cerco,FC Porto,Leixões,2007,Portuguese
+7,7,Hugo Morais,M,"5'11""",12 06,12-02-78,Quatar,Barreirense,Leixões,2007,Portuguese
+8,8,Pedro Cervantes,M,"5'09""",11 07,13-07-82,Porto,Naval,Leixões,2007,Portuguese
+9,9,Roberto Alcântara,F,"6'01""",13 03,25-06-77,Osasco,Penafiel,Leixões,2007,Portuguese
+11,11,Diogo Valente,F,"5'10""",11 07,23-09-84,Aveiro,FC Porto,Leixões,2007,Portuguese
+13,13,Joel,D,"6'02""",13 10,15-06-80,Matosinhos,None,Leixões,2007,Portuguese
+14,14,Bruno China,M,"6'00""",11 11,05-08-82,Matosinhos,None,Leixões,2007,Portuguese
+15,15,João Moreira,F,"6'00""",11 09,07-02-86,Amadora,Valencia B,Leixões,2007,Portuguese
+17,17,Vierinha,M,5'07'',10 06,24-01-86,Guimarães,FC Porto,Leixões,2007,Portuguese
+18,18,Udochukwu Nwoko,M,"5'07""",10 08,15-10-84,Lagos,Marsaxlokk,Leixões,2007,Portuguese
+19,19,Jorge Gonçalves,F,"5'10""",12 13,31-10-83,Vila Nova de Gaia,Pedras Rubras,Leixões,2007,Portuguese
+22,22,Vítor Ilídio Castanheira,M,5'09'',11 03,07-09-77,Chaves,Sporting Braga,Leixões,2007,Portuguese
+23,23,Filipe Oliveira,F,5'10'',10 12,27-05-84,Braga,Marítimo,Leixões,2007,Portuguese
+24,24,Marco,G,"5'11""",12 04,06-04-80,Vila Nova de Gaia,Canelas,Leixões,2007,Portuguese
+25,25,Jorge Duarte,M,5'11'',12 04,18-12-74,Fafe,Moreirense,Leixões,2007,Portuguese
+26,26,Nuno Amaro,D,5'10'',11 09,15-01-76,Odemira,Gil Vicente,Leixões,2007,Portuguese
+27,27,Nuno Silva,D,"5'09""",11 09,27-10-75,Lisboa,Penafiel,Leixões,2007,Portuguese
+29,29,Jaime Júnior,M,6'00'',12 06,27-04-79,Belem do Pará,Racing  Ferrol,Leixões,2007,Portuguese
+37,37,André Simões,M,"5'09""",10 06,16-12-89,,None,Leixões,2007,Portuguese
+38,38,Gonçalo,M,"5'07""",10 03,22-09-89,,None,Leixões,2007,Portuguese
+39,39,Cacheira,F,"5'07""",10 03,30-06-89,,None,Leixões,2007,Portuguese
+41,77,Jorge Baptista,G,"6'01""",13 10,02-04-77,Mafamude,Gil Vicente,Leixões,2007,Portuguese
 1,1,Marcelo  Boeck,G,"6'03""",12 11,28-11-84,Santa Cruz,Internacional,Marítimo,2007,Portuguese
 3,3,Ediglê,D,"6'01""",12 06,13-05-78,Fortaleza,Internacional,Marítimo,2007,Portuguese
 4,4,Antoine van der Linden,D,"6'02""",12 01,17-03-76,Rotterdam,FC Groningen,Marítimo,2007,Portuguese
@@ -245,37 +245,37 @@
 33,33,Gaúcho,D,"6'00""",12 08,06-07-80,Coronel Vivida,Portuguesa,Naval,2007,Portuguese
 41,66,Diego,D,"6'04""",14 00,12-02-86,,Ituano,Naval,2007,Portuguese
 42,77,Marinho,M,5'05'',09 11,26-04-83,Lisboa,Fátima,Naval,2007,Portuguese
-1,1,Pedro,G,5'11'',12 04,22-11-74,Paços de Ferreira,None,Paзos de Ferreira,2007,Portuguese
-3,3,Chico Silva,D,5'09'',11 00,09-05-78,Lamego,Trofense,Paзos de Ferreira,2007,Portuguese
-4,4,Rovérsio,D,"6'02""",11 00,17-01-84,Igrassú,Gil Vicente,Paзos de Ferreira,2007,Portuguese
-7,7,Edson Nobre,F,5'09'',12 02,03-02-80,Benguela,Oliveira do Bairro,Paзos de Ferreira,2007,Portuguese
-8,8,Pedrinha,M,5'10'',11 05,03-05-78,Oliveira de Azemeis,Penafiel,Paзos de Ferreira,2007,Portuguese
-10,10,Cristiano,M,5'09'',10 08,28-09-83,Manaus,S. Raimundo,Paзos de Ferreira,2007,Portuguese
-11,11,Édson Di,F,5'07'',10 10,14-11-79,Capim Grosso,Coruripe,Paзos de Ferreira,2007,Portuguese
-12,12,Julio Coelho,G,"5'10""",11 07,18-07-84,Paços de Ferreira,None,Paзos de Ferreira,2007,Portuguese
-13,13,Renato Queirós,F,5'09'',11 05,20-07-77,Amarante,União Leiria,Paзos de Ferreira,2007,Portuguese
-14,14,Luiz Carlos,D,6'03'',13 01,10-03-80,Porto Alegre,Juventus-SP,Paзos de Ferreira,2007,Portuguese
-15,15,Ricardinho,F,"5'09""",10 10,03-10-78,Serra Talhada,Vasco da Gama,Paзos de Ferreira,2007,Portuguese
-16,16,Kiko,D,"6'00""",12 08,24-08-78,Pernambuco,Coruripe,Paзos de Ferreira,2007,Portuguese
-17,17,Fernando Pilar,M,"6'00""",11 11,02-02-79,Paraiba,C. Caruaru,Paзos de Ferreira,2007,Portuguese
-18,18,Mangualde,D,5'07'',10 12,14-02-82,Mangualde,Felgueiras,Paзos de Ferreira,2007,Portuguese
-20,20,José Emilio Furtado,F,"6'01""",12 04,14-03-83,Porto,CSKA Sofia,Paзos de Ferreira,2007,Portuguese
-21,21,Silvério,F,"5'10""",11 07,05-05-88,,None,Paзos de Ferreira,2007,Portuguese
-22,22,Paulo Leal,M,"5'10""",11 07,22-05-88,,None,Paзos de Ferreira,2007,Portuguese
-24,24,Peterson Peçanha,G,6'00'',12 02,01-11-80,S. Gonçalo,São Raimundo,Paзos de Ferreira,2007,Portuguese
-25,25,Fábio Pacheco,M,5'10'',10 08,26-05-88,Paredes,None,Paзos de Ferreira,2007,Portuguese
-27,27,Cristelo,M,5'05'',10 03,27-03-89,Paredes,None,Paзos de Ferreira,2007,Portuguese
-30,30,Ferreira,D,5'10'',10 12,14-10-83,Campina Grande,Marítimo,Paзos de Ferreira,2007,Portuguese
-36,36,Hugo Valdir,D,"5'07""",09 13,01-01-84,Olhão,Naval,Paзos de Ferreira,2007,Portuguese
-41,55,Tiago Valente,D,6'01'',12 13,24-04-85,Macedo Cavaleiros,None,Paзos de Ferreira,2007,Portuguese
-42,66,Paulo Sousa,M,"5'09""",11 00,13-05-75,Lousada,APOP,Paзos de Ferreira,2007,Portuguese
-43,74,Carlos Carneiro,F,"6'01""",12 04,27-12-74,Paços de Ferreira,Walsall,Paзos de Ferreira,2007,Portuguese
-44,77,Dedé,M,6'00'',12 08,04-07-81,Lobito,Trofense,Paзos de Ferreira,2007,Portuguese
-45,80,Wesley,M,"5'10""",11  05,10-11-80,Espírito  Santo,Grasshoppers,Paзos de Ferreira,2007,Portuguese
-46,88,Fábio Paim,M,"5'09""",10 06,15-02-88,Lisbon,Sporting CP,Paзos de Ferreira,2007,Portuguese
-47,90,William,M,"6'01""",12 13,27-07-82,,,Paзos de Ferreira,2007,Portuguese
-48,96,Filipe Anunciação,M,5'10'',11 11,27-05-79,Matosinhos,Desportivo Aves,Paзos de Ferreira,2007,Portuguese
-49,99,Jorginho,F,"5'10""",10 12,18-03-88,Meixomil,None,Paзos de Ferreira,2007,Portuguese
+1,1,Pedro,G,5'11'',12 04,22-11-74,Paços de Ferreira,None,Paços de Ferreira,2007,Portuguese
+3,3,Chico Silva,D,5'09'',11 00,09-05-78,Lamego,Trofense,Paços de Ferreira,2007,Portuguese
+4,4,Rovérsio,D,"6'02""",11 00,17-01-84,Igrassú,Gil Vicente,Paços de Ferreira,2007,Portuguese
+7,7,Edson Nobre,F,5'09'',12 02,03-02-80,Benguela,Oliveira do Bairro,Paços de Ferreira,2007,Portuguese
+8,8,Pedrinha,M,5'10'',11 05,03-05-78,Oliveira de Azemeis,Penafiel,Paços de Ferreira,2007,Portuguese
+10,10,Cristiano,M,5'09'',10 08,28-09-83,Manaus,S. Raimundo,Paços de Ferreira,2007,Portuguese
+11,11,Édson Di,F,5'07'',10 10,14-11-79,Capim Grosso,Coruripe,Paços de Ferreira,2007,Portuguese
+12,12,Julio Coelho,G,"5'10""",11 07,18-07-84,Paços de Ferreira,None,Paços de Ferreira,2007,Portuguese
+13,13,Renato Queirós,F,5'09'',11 05,20-07-77,Amarante,União Leiria,Paços de Ferreira,2007,Portuguese
+14,14,Luiz Carlos,D,6'03'',13 01,10-03-80,Porto Alegre,Juventus-SP,Paços de Ferreira,2007,Portuguese
+15,15,Ricardinho,F,"5'09""",10 10,03-10-78,Serra Talhada,Vasco da Gama,Paços de Ferreira,2007,Portuguese
+16,16,Kiko,D,"6'00""",12 08,24-08-78,Pernambuco,Coruripe,Paços de Ferreira,2007,Portuguese
+17,17,Fernando Pilar,M,"6'00""",11 11,02-02-79,Paraiba,C. Caruaru,Paços de Ferreira,2007,Portuguese
+18,18,Mangualde,D,5'07'',10 12,14-02-82,Mangualde,Felgueiras,Paços de Ferreira,2007,Portuguese
+20,20,José Emilio Furtado,F,"6'01""",12 04,14-03-83,Porto,CSKA Sofia,Paços de Ferreira,2007,Portuguese
+21,21,Silvério,F,"5'10""",11 07,05-05-88,,None,Paços de Ferreira,2007,Portuguese
+22,22,Paulo Leal,M,"5'10""",11 07,22-05-88,,None,Paços de Ferreira,2007,Portuguese
+24,24,Peterson Peçanha,G,6'00'',12 02,01-11-80,S. Gonçalo,São Raimundo,Paços de Ferreira,2007,Portuguese
+25,25,Fábio Pacheco,M,5'10'',10 08,26-05-88,Paredes,None,Paços de Ferreira,2007,Portuguese
+27,27,Cristelo,M,5'05'',10 03,27-03-89,Paredes,None,Paços de Ferreira,2007,Portuguese
+30,30,Ferreira,D,5'10'',10 12,14-10-83,Campina Grande,Marítimo,Paços de Ferreira,2007,Portuguese
+36,36,Hugo Valdir,D,"5'07""",09 13,01-01-84,Olhão,Naval,Paços de Ferreira,2007,Portuguese
+41,55,Tiago Valente,D,6'01'',12 13,24-04-85,Macedo Cavaleiros,None,Paços de Ferreira,2007,Portuguese
+42,66,Paulo Sousa,M,"5'09""",11 00,13-05-75,Lousada,APOP,Paços de Ferreira,2007,Portuguese
+43,74,Carlos Carneiro,F,"6'01""",12 04,27-12-74,Paços de Ferreira,Walsall,Paços de Ferreira,2007,Portuguese
+44,77,Dedé,M,6'00'',12 08,04-07-81,Lobito,Trofense,Paços de Ferreira,2007,Portuguese
+45,80,Wesley,M,"5'10""",11  05,10-11-80,Espírito  Santo,Grasshoppers,Paços de Ferreira,2007,Portuguese
+46,88,Fábio Paim,M,"5'09""",10 06,15-02-88,Lisbon,Sporting CP,Paços de Ferreira,2007,Portuguese
+47,90,William,M,"6'01""",12 13,27-07-82,,,Paços de Ferreira,2007,Portuguese
+48,96,Filipe Anunciação,M,5'10'',11 11,27-05-79,Matosinhos,Desportivo Aves,Paços de Ferreira,2007,Portuguese
+49,99,Jorginho,F,"5'10""",10 12,18-03-88,Meixomil,None,Paços de Ferreira,2007,Portuguese
 1,1,Helton,G,6'01'',11 09,18-05-78,Alcântara,União Leiria,FC Porto,2007,Portuguese
 2,2,Bruno Alves,D,6'02'',12 13,27-11-81,Oporto,AEK Athens,FC Porto,2007,Portuguese
 3,3,Pedro Emanuel,D,5'11'',12 08,11-02-75,Luanda,Boavista,FC Porto,2007,Portuguese
@@ -357,54 +357,54 @@
 42,58,Luís Paez,F,6'02'',11 11,19-12-89,,Tacuary,Sporting CP,2007,Portuguese
 43,78,Abel Ferreira,D,5'10'',11 11,22-12-78,Penafiel,Sporting Braga,Sporting CP,2007,Portuguese
 44,88,Celsinho,M,"5'10""",10 08,25-08-88,São Paulo,Lokomotiv Moscow,Sporting CP,2007,Portuguese
-1,1,Fernando Prass,G,"6'03""",14 00,09-07-78,Porto Alegre,Coritiba,Uniăo de Leiria,2007,Portuguese
-3,3,Antoni  Łukasiewicz,D,"6'02""",12 08,26-06-83,Warsaw,Elche,Uniăo de Leiria,2007,Portuguese
-4,4,Hugo Costa,D,6'00'',13 01,04-11-73,Tramagal,RW Oberhausen,Uniăo de Leiria,2007,Portuguese
-5,5,Éder Bonfim,D,"6'02""",12 04,03-04-81,Cuiaba,Vitória Setúbal,Uniăo de Leiria,2007,Portuguese
-7,7,Serge N'Gal,F,"5'08""",11 07,13-01-86,Nkongsambaau,Brest,Uniăo de Leiria,2007,Portuguese
-9,9,Paulo César,F,5'09'',11 07,05-01-80,São Luis do Maranhão,Rio Ave,Uniăo de Leiria,2007,Portuguese
-11,11,Cadú da Silva,F,5'10'',10 10,23-04-82,Cuiabá,Germinal Beerschot,Uniăo de Leiria,2007,Portuguese
-12,12,Alemão,G,6'00'',12 08,16-02-82,Paris,Tourizense,Uniăo de Leiria,2007,Portuguese
-14,14,Alhandra,M,5'07'',10 03,05-03-79,Vila Franca de Xira,Académica,Uniăo de Leiria,2007,Portuguese
-15,15,Faria,M,"5'11""",12 00,15-02-82,São Brás de Alportel,Louletano,Uniăo de Leiria,2007,Portuguese
-18,18,Papa Mamadou Sougou,M,"5'10""",10 10,18-12-84,Fissel,Vitória Setúbal,Uniăo de Leiria,2007,Portuguese
-19,19,Maciel,F,5'08'',10 01,29-11-78,Caxias,FC Porto,Uniăo de Leiria,2007,Portuguese
-21,21,Toñito,M,5'07'',10 03,24-02-77,Tenerife,Rijeka,Uniăo de Leiria,2007,Portuguese
-22,22,Dani,M,"5'07""",10 08,06-02-84,Assomada,,Uniăo de Leiria,2007,Portuguese
-23,23,Bruno Miguel,D,6'02'',13 03,24-09-82,Oliveira de Azemeis,Varzim,Uniăo de Leiria,2007,Portuguese
-25,25,Nuno Filipe Laranjeiro,D,6'00'',10 03,18-01-83,Ourém,None,Uniăo de Leiria,2007,Portuguese
-26,26,Nélson,D,"6'00""",11 00,15-03-84,Paris,Estoril,Uniăo de Leiria,2007,Portuguese
-27,27,Arvid Smit,M,"6'00""",12 01,12-12-80,Heerhugowaard,Marítimo,Uniăo de Leiria,2007,Portuguese
-33,33,Rafael Fava,G,"6'02""",12 13,12-02-83,,Juventus-SP,Uniăo de Leiria,2007,Portuguese
-41,55,Éder Gaucho,D,6'02'',12 06,07-10-77,São Borja,Gama,Uniăo de Leiria,2007,Portuguese
-42,66,Tiago,M,5'08'',09 06,04-07-75,Trofa,Boavista,Uniăo de Leiria,2007,Portuguese
-43,77,Harison Nery,M,5'09'',10 10,02-01-80,Belém,Goiás,Uniăo de Leiria,2007,Portuguese
-44,80,Patrick,D,"5'11""",11 00,20-08-83,Muriaé,Ituano,Uniăo de Leiria,2007,Portuguese
-1,1,Nilson,G,6'00'',12 08,26-12-75,Vitória,Náutico,Vitória Guimarăes,2007,Portuguese
-2,2,Sinisa Radanovic,D,6'04'',14 00,23-11-79,Subotica,Hajduk Rodic,Vitória Guimarăes,2007,Portuguese
-3,3,Luciano Amaral,D,"5'11""",11 07,20-10-82,Campina Grande,CRB,Vitória Guimarăes,2007,Portuguese
-4,4,Henrique Sereno,D,6'02'',11 11,18-05-85,Elvas,O Elvas,Vitória Guimarăes,2007,Portuguese
-5,5,Kamel Ghilas,M,5'10'',11 00,09-03-84,Marseille,Cannes,Vitória Guimarăes,2007,Portuguese
-6,6,Márcio Martins,D,"6'00""",12 02,30-04-80,Ibitinga,Juventus-SC,Vitória Guimarăes,2007,Portuguese
-8,8,Carlitos,F,5'06'',10 06,06-03-77,Barcelos,Belenenses,Vitória Guimarăes,2007,Portuguese
-9,9,Miljan Mrdaković,F,"6'02""",12 13,06-05-82,Ni,Maccabi Tel Aviv,Vitória Guimarăes,2007,Portuguese
-11,11,Felipe Tigrão,F,"6'00""",12 01,09-07-79,Rio de Janeiro,Tupi,Vitória Guimarăes,2007,Portuguese
-16,16,Danilo,D,"6'02""",12 13,13-02-81,Alegre,Santa Clara,Vitória Guimarăes,2007,Portuguese
-17,17,João Fajardo,M,"5'11""",11 09,27-10-78,Lisbon,Naval,Vitória Guimarăes,2007,Portuguese
-18,18,João Moreno,D,5'11'',12 08,18-08-81,Guimarães,Taipas,Vitória Guimarăes,2007,Portuguese
-19,19,Pedro Geromel,D,6'02'',12 06,21-09-85,São Paulo,Chaves,Vitória Guimarăes,2007,Portuguese
-20,20,Yves Desmarets,M,5'10'',11 09,19-07-79,Paris,Les Lilas,Vitória Guimarăes,2007,Portuguese
-21,21,Alan,F,5'11'',11 00,19-09-79,Rio de Janeiro,FC Porto,Vitória Guimarăes,2007,Portuguese
-25,25,Andrezinho,D,"5'08""",10 08,09-10-81,Mineiros,Vila Nova,Vitória Guimarăes,2007,Portuguese
-26,26,Flávio Meireles,M,6'01'',13 05,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarăes,2007,Portuguese
-27,27,Nuno Santos,G,"6'00""",12 08,09-07-78,Coimbra,Sporting CP,Vitória Guimarăes,2007,Portuguese
-28,28,Tiago Ronaldo,M,"5'09""",11 05,28-12-89,Loures,None,Vitória Guimarăes,2007,Portuguese
-29,29,Jacques Momha,M,"5'08""",10 01,08-07-82,Edea,Strasbourg,Vitória Guimarăes,2007,Portuguese
-39,39,Marquinhos,F,"5'10""",11 09,08-07-86,Curitiba,J. Malucelli,Vitória Guimarăes,2007,Portuguese
-41,52,Serginho,G,"6'04""",13 05,06-12-82,Santa Maria Feira,Lourosa,Vitória Guimarăes,2007,Portuguese
-42,80,João Alves,M,"5'10""",11 05,18-08-80,Chaves,Sporting CP,Vitória Guimarăes,2007,Portuguese
-43,88,Paulo Henrique,M,,,02-02-88,,None,Vitória Guimarăes,2007,Portuguese
-44,99,Roberto,F,"5'11""",11 05,29-07-78,Linhares,Varzim,Vitória Guimarăes,2007,Portuguese
+1,1,Fernando Prass,G,"6'03""",14 00,09-07-78,Porto Alegre,Coritiba,União de Leiria,2007,Portuguese
+3,3,Antoni  Łukasiewicz,D,"6'02""",12 08,26-06-83,Warsaw,Elche,União de Leiria,2007,Portuguese
+4,4,Hugo Costa,D,6'00'',13 01,04-11-73,Tramagal,RW Oberhausen,União de Leiria,2007,Portuguese
+5,5,Éder Bonfim,D,"6'02""",12 04,03-04-81,Cuiaba,Vitória Setúbal,União de Leiria,2007,Portuguese
+7,7,Serge N'Gal,F,"5'08""",11 07,13-01-86,Nkongsambaau,Brest,União de Leiria,2007,Portuguese
+9,9,Paulo César,F,5'09'',11 07,05-01-80,São Luis do Maranhão,Rio Ave,União de Leiria,2007,Portuguese
+11,11,Cadú da Silva,F,5'10'',10 10,23-04-82,Cuiabá,Germinal Beerschot,União de Leiria,2007,Portuguese
+12,12,Alemão,G,6'00'',12 08,16-02-82,Paris,Tourizense,União de Leiria,2007,Portuguese
+14,14,Alhandra,M,5'07'',10 03,05-03-79,Vila Franca de Xira,Académica,União de Leiria,2007,Portuguese
+15,15,Faria,M,"5'11""",12 00,15-02-82,São Brás de Alportel,Louletano,União de Leiria,2007,Portuguese
+18,18,Papa Mamadou Sougou,M,"5'10""",10 10,18-12-84,Fissel,Vitória Setúbal,União de Leiria,2007,Portuguese
+19,19,Maciel,F,5'08'',10 01,29-11-78,Caxias,FC Porto,União de Leiria,2007,Portuguese
+21,21,Toñito,M,5'07'',10 03,24-02-77,Tenerife,Rijeka,União de Leiria,2007,Portuguese
+22,22,Dani,M,"5'07""",10 08,06-02-84,Assomada,,União de Leiria,2007,Portuguese
+23,23,Bruno Miguel,D,6'02'',13 03,24-09-82,Oliveira de Azemeis,Varzim,União de Leiria,2007,Portuguese
+25,25,Nuno Filipe Laranjeiro,D,6'00'',10 03,18-01-83,Ourém,None,União de Leiria,2007,Portuguese
+26,26,Nélson,D,"6'00""",11 00,15-03-84,Paris,Estoril,União de Leiria,2007,Portuguese
+27,27,Arvid Smit,M,"6'00""",12 01,12-12-80,Heerhugowaard,Marítimo,União de Leiria,2007,Portuguese
+33,33,Rafael Fava,G,"6'02""",12 13,12-02-83,,Juventus-SP,União de Leiria,2007,Portuguese
+41,55,Éder Gaucho,D,6'02'',12 06,07-10-77,São Borja,Gama,União de Leiria,2007,Portuguese
+42,66,Tiago,M,5'08'',09 06,04-07-75,Trofa,Boavista,União de Leiria,2007,Portuguese
+43,77,Harison Nery,M,5'09'',10 10,02-01-80,Belém,Goiás,União de Leiria,2007,Portuguese
+44,80,Patrick,D,"5'11""",11 00,20-08-83,Muriaé,Ituano,União de Leiria,2007,Portuguese
+1,1,Nilson,G,6'00'',12 08,26-12-75,Vitória,Náutico,Vitória Guimarães,2007,Portuguese
+2,2,Sinisa Radanovic,D,6'04'',14 00,23-11-79,Subotica,Hajduk Rodic,Vitória Guimarães,2007,Portuguese
+3,3,Luciano Amaral,D,"5'11""",11 07,20-10-82,Campina Grande,CRB,Vitória Guimarães,2007,Portuguese
+4,4,Henrique Sereno,D,6'02'',11 11,18-05-85,Elvas,O Elvas,Vitória Guimarães,2007,Portuguese
+5,5,Kamel Ghilas,M,5'10'',11 00,09-03-84,Marseille,Cannes,Vitória Guimarães,2007,Portuguese
+6,6,Márcio Martins,D,"6'00""",12 02,30-04-80,Ibitinga,Juventus-SC,Vitória Guimarães,2007,Portuguese
+8,8,Carlitos,F,5'06'',10 06,06-03-77,Barcelos,Belenenses,Vitória Guimarães,2007,Portuguese
+9,9,Miljan Mrdaković,F,"6'02""",12 13,06-05-82,Ni,Maccabi Tel Aviv,Vitória Guimarães,2007,Portuguese
+11,11,Felipe Tigrão,F,"6'00""",12 01,09-07-79,Rio de Janeiro,Tupi,Vitória Guimarães,2007,Portuguese
+16,16,Danilo,D,"6'02""",12 13,13-02-81,Alegre,Santa Clara,Vitória Guimarães,2007,Portuguese
+17,17,João Fajardo,M,"5'11""",11 09,27-10-78,Lisbon,Naval,Vitória Guimarães,2007,Portuguese
+18,18,João Moreno,D,5'11'',12 08,18-08-81,Guimarães,Taipas,Vitória Guimarães,2007,Portuguese
+19,19,Pedro Geromel,D,6'02'',12 06,21-09-85,São Paulo,Chaves,Vitória Guimarães,2007,Portuguese
+20,20,Yves Desmarets,M,5'10'',11 09,19-07-79,Paris,Les Lilas,Vitória Guimarães,2007,Portuguese
+21,21,Alan,F,5'11'',11 00,19-09-79,Rio de Janeiro,FC Porto,Vitória Guimarães,2007,Portuguese
+25,25,Andrezinho,D,"5'08""",10 08,09-10-81,Mineiros,Vila Nova,Vitória Guimarães,2007,Portuguese
+26,26,Flávio Meireles,M,6'01'',13 05,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarães,2007,Portuguese
+27,27,Nuno Santos,G,"6'00""",12 08,09-07-78,Coimbra,Sporting CP,Vitória Guimarães,2007,Portuguese
+28,28,Tiago Ronaldo,M,"5'09""",11 05,28-12-89,Loures,None,Vitória Guimarães,2007,Portuguese
+29,29,Jacques Momha,M,"5'08""",10 01,08-07-82,Edea,Strasbourg,Vitória Guimarães,2007,Portuguese
+39,39,Marquinhos,F,"5'10""",11 09,08-07-86,Curitiba,J. Malucelli,Vitória Guimarães,2007,Portuguese
+41,52,Serginho,G,"6'04""",13 05,06-12-82,Santa Maria Feira,Lourosa,Vitória Guimarães,2007,Portuguese
+42,80,João Alves,M,"5'10""",11 05,18-08-80,Chaves,Sporting CP,Vitória Guimarães,2007,Portuguese
+43,88,Paulo Henrique,M,,,02-02-88,,None,Vitória Guimarães,2007,Portuguese
+44,99,Roberto,F,"5'11""",11 05,29-07-78,Linhares,Varzim,Vitória Guimarães,2007,Portuguese
 1,1,Marco Tábuas,G,"5'10""",12 08,29-10-76,Moita,D Beja,Vitória Setúbal,2007,Portuguese
 3,3,Hugo,D,6'00'',12 01,11-08-76,Braga,Sporting CP,Vitória Setúbal,2007,Portuguese
 4,4,Robson,D,"6'02""",12 13,10-07-83,Recife,Gondomar,Vitória Setúbal,2007,Portuguese

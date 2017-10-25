@@ -1,38 +1,38 @@
 ,Number,Name,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-3,3,Andrey Lavrik,M,"5'10""",11 09,07-12-74,Minsk,Dynamo SPb,Amkar,2007,Russian
-4,4,Ghenadie Olexici,D,"6'00""",12 00,23-08-78,Chişinău,Zimbru  Chişinău,Amkar,2007,Russian
-5,5,Vitaliy Grishin,M,"5'11""",11  09,09-09-80,Moscow,Khimki,Amkar,2007,Russian
-6,6,Marko Milovanović,D,"6'03""",11 09,12-08-82,Belgrade,Tavriya Simferopol,Amkar,2007,Russian
-7,7,Georgi Peev,M,"5'10""",11 11,11-03-79,Sofia,Dynamo  Kiev,Amkar,2007,Russian
-8,8,Sergey Volkov,F,"5'09""",11 00,27-09-80,Kaluga,Lokomotiv Kaluga,Amkar,2007,Russian
-9,9,Konstantin Paramonov,F,"5'11""",13 01,26-11-73,Perm,Zvezda  Perm,Amkar,2007,Russian
-10,10,Andrey Kobenko,M,"5'10""",10 08,25-06-82,Rostov,Slavyansk,Amkar,2007,Russian
-11,11,Evgeniy Savin,F,"6'02""",12  04,19-04-84,Volgograd,Khimki,Amkar,2007,Russian
-13,13,Antoni Soldevilla,D,"6'01""",12 08,19-12-78,Barcelona,Apollon Limassol,Amkar,2007,Russian
-14,14,Zakhari Sirakov,D,"5'11""",11 07,08-10-77,Sofia,Rodopa  Smolyan,Amkar,2007,Russian
-15,15,Miklós Gaál,D,6'00'',12 08,13-05-81,Celldömölk,Hajduk Split,Amkar,2007,Russian
-16,16,Predrag Sikimić,F,"6'02""",12 13,29-08-82,Smederevo,Vojvodina,Amkar,2007,Russian
-17,17,Evgeniy Scherbakov,M,"6'00""",12  13,18-02-86,Barnaul,Dynamo Barnaul,Amkar,2007,Russian
-18,18,Nikola Drinčić,D,"5'11""",12 00,07-01-84,Belgrade,Gaziantepspor,Amkar,2007,Russian
-20,20,Ivan Levenets,G,"6'00""",12 00,22-02-80,Sochi,Chernomorets,Amkar,2007,Russian
-21,21,Dmitriy Belorukov,D,"6'03""",13 05,24-03-83,St.  Petersburg,Anzhi,Amkar,2007,Russian
-22,22,Tomislav  Dujmović,M,"6'01""",12 08,26-02-81,Zagreb,Medjimurje,Amkar,2007,Russian
-23,23,Ivan Cherenchikov,M,"6'00""",12 04,25-08-84,Perm,Amkar B,Amkar,2007,Russian
-24,24,Alexey Popov,D,"6'02""",12 06,07-07-78,Perm,Zvezda Perm,Amkar,2007,Russian
-29,29,Martin  Kushev,F,"6'02""",12  08,25-08-73,Sofia,Slavia  Sofia,Amkar,2007,Russian
-30,30,Ilya Boldinskiy,M,"5'08""",10 03,02-05-88,Perm,Amkar B,Amkar,2007,Russian
-32,32,Petr Zabrodin,D,"6'00""",10  08,30-04-87,Perm,Amkar B,Amkar,2007,Russian
-33,33,Denis Khokhlov,M,"5'11""",10  12,24-05-86,Perm,Amkar B,Amkar,2007,Russian
-35,35,Stepan Okulov,D,"6'00""",11 09,06-08-89,Perm,Amkar B,Amkar,2007,Russian
-37,37,Alexey Vayman,D,"5'10""",11 00,05-09-87,Perm,Amkar B,Amkar,2007,Russian
-40,40,Sergey Andreyev,F,"5'10""",11 05,07-03-88,Perm,Amkar B,Amkar,2007,Russian
-41,41,Maxim Shumailov,G,"6'02""",12  00,02-05-90,Perm,Amkar B,Amkar,2007,Russian
-42,42,Sergey Narubin,G,"6'02""",12 11,05-12-81,Moskovskaya Oblast,Dynamo Bryansk,Amkar,2007,Russian
-43,44,Evgeniy Nazarov,F,"5'07""",09  11,01-01-88,Perm,Amkar B,Amkar,2007,Russian
-44,45,Evgeniy Syrkov,D,"6'00""",11 05,13-02-89,Perm,Amkar B,Amkar,2007,Russian
-45,77,Ildar Ahmetzyanov,D,"6'01""",12  04,25-11-83,Niznekamsk,Neftehimik,Amkar,2007,Russian
-46,88,Vladislav Zakoptelov,M,"5'10""",10 03,26-06-88,Perm,Amkar B,Amkar,2007,Russian
-47,89,Andrey Sekretov,F,"5'09""",11  07,13-12-89,Perm,Amkar B,Amkar,2007,Russian
+3,3,Andrey Lavrik,M,"5'10""",11 09,07-12-74,Minsk,Dynamo SPb,Amkar Perm,2007,Russian
+4,4,Ghenadie Olexici,D,"6'00""",12 00,23-08-78,Chişinău,Zimbru  Chişinău,Amkar Perm,2007,Russian
+5,5,Vitaliy Grishin,M,"5'11""",11  09,09-09-80,Moscow,Khimki,Amkar Perm,2007,Russian
+6,6,Marko Milovanović,D,"6'03""",11 09,12-08-82,Belgrade,Tavriya Simferopol,Amkar Perm,2007,Russian
+7,7,Georgi Peev,M,"5'10""",11 11,11-03-79,Sofia,Dynamo  Kiev,Amkar Perm,2007,Russian
+8,8,Sergey Volkov,F,"5'09""",11 00,27-09-80,Kaluga,Lokomotiv Kaluga,Amkar Perm,2007,Russian
+9,9,Konstantin Paramonov,F,"5'11""",13 01,26-11-73,Perm,Zvezda  Perm,Amkar Perm,2007,Russian
+10,10,Andrey Kobenko,M,"5'10""",10 08,25-06-82,Rostov,Slavyansk,Amkar Perm,2007,Russian
+11,11,Evgeniy Savin,F,"6'02""",12  04,19-04-84,Volgograd,Khimki,Amkar Perm,2007,Russian
+13,13,Antoni Soldevilla,D,"6'01""",12 08,19-12-78,Barcelona,Apollon Limassol,Amkar Perm,2007,Russian
+14,14,Zakhari Sirakov,D,"5'11""",11 07,08-10-77,Sofia,Rodopa  Smolyan,Amkar Perm,2007,Russian
+15,15,Miklós Gaál,D,6'00'',12 08,13-05-81,Celldömölk,Hajduk Split,Amkar Perm,2007,Russian
+16,16,Predrag Sikimić,F,"6'02""",12 13,29-08-82,Smederevo,Vojvodina,Amkar Perm,2007,Russian
+17,17,Evgeniy Scherbakov,M,"6'00""",12  13,18-02-86,Barnaul,Dynamo Barnaul,Amkar Perm,2007,Russian
+18,18,Nikola Drinčić,D,"5'11""",12 00,07-01-84,Belgrade,Gaziantepspor,Amkar Perm,2007,Russian
+20,20,Ivan Levenets,G,"6'00""",12 00,22-02-80,Sochi,Chernomorets,Amkar Perm,2007,Russian
+21,21,Dmitriy Belorukov,D,"6'03""",13 05,24-03-83,St.  Petersburg,Anzhi,Amkar Perm,2007,Russian
+22,22,Tomislav  Dujmović,M,"6'01""",12 08,26-02-81,Zagreb,Medjimurje,Amkar Perm,2007,Russian
+23,23,Ivan Cherenchikov,M,"6'00""",12 04,25-08-84,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+24,24,Alexey Popov,D,"6'02""",12 06,07-07-78,Perm,Zvezda Perm,Amkar Perm,2007,Russian
+29,29,Martin  Kushev,F,"6'02""",12  08,25-08-73,Sofia,Slavia  Sofia,Amkar Perm,2007,Russian
+30,30,Ilya Boldinskiy,M,"5'08""",10 03,02-05-88,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+32,32,Petr Zabrodin,D,"6'00""",10  08,30-04-87,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+33,33,Denis Khokhlov,M,"5'11""",10  12,24-05-86,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+35,35,Stepan Okulov,D,"6'00""",11 09,06-08-89,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+37,37,Alexey Vayman,D,"5'10""",11 00,05-09-87,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+40,40,Sergey Andreyev,F,"5'10""",11 05,07-03-88,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+41,41,Maxim Shumailov,G,"6'02""",12  00,02-05-90,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+42,42,Sergey Narubin,G,"6'02""",12 11,05-12-81,Moskovskaya Oblast,Dynamo Bryansk,Amkar Perm,2007,Russian
+43,44,Evgeniy Nazarov,F,"5'07""",09  11,01-01-88,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+44,45,Evgeniy Syrkov,D,"6'00""",11 05,13-02-89,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+45,77,Ildar Ahmetzyanov,D,"6'01""",12  04,25-11-83,Niznekamsk,Neftehimik,Amkar Perm,2007,Russian
+46,88,Vladislav Zakoptelov,M,"5'10""",10 03,26-06-88,Perm,Amkar Perm B,Amkar Perm,2007,Russian
+47,89,Andrey Sekretov,F,"5'09""",11  07,13-12-89,Perm,Amkar Perm B,Amkar Perm,2007,Russian
 1,1,Venyamin Mandrykin,G,"6'01""",13 03,30-08-81,Vladikavkaz,Alania,CSKA Moscow,2007,Russian
 2,2,Deividas  emberas,D,"6'02""",11 05,02-08-78,Vilnius,Dynamo  Moscow,CSKA Moscow,2007,Russian
 4,4,Sergey Ignashevich,D,"6'01""",12 13,14-07-79,Moscow,Lokomotiv  Moscow,CSKA Moscow,2007,Russian
@@ -202,7 +202,7 @@
 22,22,Vladimir Vavilov,F,"5'08""",09 11,04-08-88,Khimki,FC Khimki B,FC Khimki,2007,Russian
 23,23,Dmitriy Golyshev,M,"5'09""",11 00,17-11-85,Khimki,FC Khimki B,FC Khimki,2007,Russian
 24,24,Mantas Samusiovas,D,"6'01""",12  08,08-09-78,Vilnius,Torpedo  Moscow,FC Khimki,2007,Russian
-28,28,Roman Vorobiev,M,"5'09""",11  00,24-03-84,Kemerovo,Amkar,FC Khimki,2007,Russian
+28,28,Roman Vorobiev,M,"5'09""",11  00,24-03-84,Kemerovo,Amkar Perm,FC Khimki,2007,Russian
 30,30,Andrey Chichkin,G,"6'05""",12 11,12-10-77,Krasnodar,FC Rostov,FC Khimki,2007,Russian
 32,32,Marko imić,F,"6'02""",12 06,23-01-88,,NK Zagreb,FC Khimki,2007,Russian
 33,33,Dragan Mrdja,F,"6'02""",12 01,23-01-84,Belgrade,Lierse,FC Khimki,2007,Russian

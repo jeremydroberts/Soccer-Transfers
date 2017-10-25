@@ -1,37 +1,37 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,tefan  Senecký,SVK,G,1.86,82,06-01-80,Nitra,Ankaraspor,Ankaragьcь,2010,Turkish
-3,3,Uğur Uçar,TUR,D,1.80,70,05-04-87,Bakirköy,Galatasaray,Ankaragьcь,2010,Turkish
-5,5,Michael Klukowski,CAN,D,1.84,77,27-05-81,Amstetten,Club Brugge,Ankaragьcь,2010,Turkish
-6,6,Kağan Söylemezgiller,TUR,M,1.79,74,04-03-88,Kirchheim,Kirchheim,Ankaragьcь,2010,Turkish
-7,7,Turgut Doğan Şahin,TUR,M,1.80,71,02-02-88,Tarsus,Samsunspor,Ankaragьcь,2010,Turkish
-9,9,Stanislav  esták,SVK,F,1.79,72,16-12-82,Preov,Bochum,Ankaragьcь,2010,Turkish
-10,10,Metin  Akan,TUR,F,1.83,73,28-05-83,Bursa,Manisaspor,Ankaragьcь,2010,Turkish
-11,11,Robert  Vittek,SVK,F,1.88,84,01-04-82,Bratislava,Lille,Ankaragьcь,2010,Turkish
-13,13,Muhammed Türkmen,TUR,M,1.80,75,09-04-86,Ulubey,Kartalspor,Ankaragьcь,2010,Turkish
-14,14,Michał Żewłakow,POL,D,1.83,79,22-04-76,Warsaw,Olympiakos,Ankaragьcь,2010,Turkish
-16,16,Mehmet Çoğum,TUR,D,1.80,72,05-02-83,İskenderun,Karabükspor,Ankaragьcь,2010,Turkish
-17,17,Jan Rajnoch,CZE,D,1.86,78,30-09-81,Frýdlant  v Čechách,Mladá Boleslav,Ankaragьcь,2010,Turkish
-18,18,Murat Duruer,TUR,M,1.82,77,15-01-88,Gerede,None,Ankaragьcь,2010,Turkish
-19,19,Güven Varol,TUR,M,1.84,72,02-06-81,Adapazarı,Manisaspor,Ankaragьcь,2010,Turkish
-20,20,Umut Sözen,TUR,M,1.79,74,27-01-90,Izmir,Ankaraspor,Ankaragьcь,2010,Turkish
-22,22,Bayram Olgun,TUR,G,1.85,80,06-04-90,Van,None,Ankaragьcь,2010,Turkish
-23,23,Bilal Gülden,TUR,M,1.85,76,01-05-93,Mannheim,Ankaraspor,Ankaragьcь,2010,Turkish
-25,25,Aydın Toscalı,TUR,D,1.74,76,14-08-80,Aydin,Kayserispor,Ankaragьcь,2010,Turkish
-26,26,Jaroslav Černý,CZE,M,1.78,76,26-06-79,Horní Beneov,Slavia Prague,Ankaragьcь,2010,Turkish
-27,27,Marek  Sapara,SVK,M,1.76,67,31-07-82,Koice,Rosenborg,Ankaragьcь,2010,Turkish
-33,33,Fatih Tekke,TUR,F,1.78,77,09-09-77,Sürmene,Beşiktaş,Ankaragьcь,2010,Turkish
-35,35,Bora Körk,TUR,G,1.87,78,09-06-80,İzmir,Sakaryaspor,Ankaragьcь,2010,Turkish
-41,41,Özden Öngün,TUR,G,1.87,85,10-09-78,İzmit,Karşıyaka,Ankaragьcь,2010,Turkish
-42,60,Özgür Çek,TUR,M,1.74,70,03-01-91,Erbaa,Ankaraspor,Ankaragьcь,2010,Turkish
-43,61,Ergin Keleş,TUR,F,1.84,75,01-01-87,Arsin,Manisaspor,Ankaragьcь,2010,Turkish
-44,66,Adem Koçak,TUR,M,1.78,71,01-09-83,Yerköy,Ankaraspor,Ankaragьcь,2010,Turkish
-45,68,İshak Doğan,TUR,D,1.87,83,09-08-90,Hagen,Arminia Bielefeld,Ankaragьcь,2010,Turkish
-46,71,Orhan Evci,TUR,M,,,09-03-91,Yenimahalle,Ankaraspor,Ankaragьcь,2010,Turkish
-47,80,Ümit Kurt,TUR,D,1.84,75,02-05-91,Osmaniye,None,Ankaragьcь,2010,Turkish
-48,81,Serdar  Özkan,TUR,M,1.77,65,01-01-87,Düzce,Galatasaray,Ankaragьcь,2010,Turkish
-49,89,Roman  Bednář,CZE,F,1.90,84,26-03-83,Prague,WBA,Ankaragьcь,2010,Turkish
-50,92,Teoman Safa Erkan,TUR,F,1.80,71,05-01-92,Erbaa,Ankaraspor,Ankaragьcь,2010,Turkish
-51,99,Drago Gabrić,CRO,M,1.76,66,27-09-86,Split,Trabzonspor,Ankaragьcь,2010,Turkish
+1,1,tefan  Senecký,SVK,G,1.86,82,06-01-80,Nitra,Ankaraspor,Ankaragücü,2010,Turkish
+3,3,Uğur Uçar,TUR,D,1.80,70,05-04-87,Bakirköy,Galatasaray,Ankaragücü,2010,Turkish
+5,5,Michael Klukowski,CAN,D,1.84,77,27-05-81,Amstetten,Club Brugge,Ankaragücü,2010,Turkish
+6,6,Kağan Söylemezgiller,TUR,M,1.79,74,04-03-88,Kirchheim,Kirchheim,Ankaragücü,2010,Turkish
+7,7,Turgut Doğan Şahin,TUR,M,1.80,71,02-02-88,Tarsus,Samsunspor,Ankaragücü,2010,Turkish
+9,9,Stanislav  esták,SVK,F,1.79,72,16-12-82,Preov,Bochum,Ankaragücü,2010,Turkish
+10,10,Metin  Akan,TUR,F,1.83,73,28-05-83,Bursa,Manisaspor,Ankaragücü,2010,Turkish
+11,11,Robert  Vittek,SVK,F,1.88,84,01-04-82,Bratislava,Lille,Ankaragücü,2010,Turkish
+13,13,Muhammed Türkmen,TUR,M,1.80,75,09-04-86,Ulubey,Kartalspor,Ankaragücü,2010,Turkish
+14,14,Michał Żewłakow,POL,D,1.83,79,22-04-76,Warsaw,Olympiakos,Ankaragücü,2010,Turkish
+16,16,Mehmet Çoğum,TUR,D,1.80,72,05-02-83,İskenderun,Karabükspor,Ankaragücü,2010,Turkish
+17,17,Jan Rajnoch,CZE,D,1.86,78,30-09-81,Frýdlant  v Čechách,Mladá Boleslav,Ankaragücü,2010,Turkish
+18,18,Murat Duruer,TUR,M,1.82,77,15-01-88,Gerede,None,Ankaragücü,2010,Turkish
+19,19,Güven Varol,TUR,M,1.84,72,02-06-81,Adapazarı,Manisaspor,Ankaragücü,2010,Turkish
+20,20,Umut Sözen,TUR,M,1.79,74,27-01-90,Izmir,Ankaraspor,Ankaragücü,2010,Turkish
+22,22,Bayram Olgun,TUR,G,1.85,80,06-04-90,Van,None,Ankaragücü,2010,Turkish
+23,23,Bilal Gülden,TUR,M,1.85,76,01-05-93,Mannheim,Ankaraspor,Ankaragücü,2010,Turkish
+25,25,Aydın Toscalı,TUR,D,1.74,76,14-08-80,Aydin,Kayserispor,Ankaragücü,2010,Turkish
+26,26,Jaroslav Černý,CZE,M,1.78,76,26-06-79,Horní Beneov,Slavia Prague,Ankaragücü,2010,Turkish
+27,27,Marek  Sapara,SVK,M,1.76,67,31-07-82,Koice,Rosenborg,Ankaragücü,2010,Turkish
+33,33,Fatih Tekke,TUR,F,1.78,77,09-09-77,Sürmene,Beşiktaş,Ankaragücü,2010,Turkish
+35,35,Bora Körk,TUR,G,1.87,78,09-06-80,İzmir,Sakaryaspor,Ankaragücü,2010,Turkish
+41,41,Özden Öngün,TUR,G,1.87,85,10-09-78,İzmit,Karşıyaka,Ankaragücü,2010,Turkish
+42,60,Özgür Çek,TUR,M,1.74,70,03-01-91,Erbaa,Ankaraspor,Ankaragücü,2010,Turkish
+43,61,Ergin Keleş,TUR,F,1.84,75,01-01-87,Arsin,Manisaspor,Ankaragücü,2010,Turkish
+44,66,Adem Koçak,TUR,M,1.78,71,01-09-83,Yerköy,Ankaraspor,Ankaragücü,2010,Turkish
+45,68,İshak Doğan,TUR,D,1.87,83,09-08-90,Hagen,Arminia Bielefeld,Ankaragücü,2010,Turkish
+46,71,Orhan Evci,TUR,M,,,09-03-91,Yenimahalle,Ankaraspor,Ankaragücü,2010,Turkish
+47,80,Ümit Kurt,TUR,D,1.84,75,02-05-91,Osmaniye,None,Ankaragücü,2010,Turkish
+48,81,Serdar  Özkan,TUR,M,1.77,65,01-01-87,Düzce,Galatasaray,Ankaragücü,2010,Turkish
+49,89,Roman  Bednář,CZE,F,1.90,84,26-03-83,Prague,WBA,Ankaragücü,2010,Turkish
+50,92,Teoman Safa Erkan,TUR,F,1.80,71,05-01-92,Erbaa,Ankaraspor,Ankaragücü,2010,Turkish
+51,99,Drago Gabrić,CRO,M,1.76,66,27-09-86,Split,Trabzonspor,Ankaragücü,2010,Turkish
 1,1,Ömer  Çatkıç,TUR,G,1.82,82,15-10-74,Eskişehir,Gaziantepspor,Antalyaspor,2010,Turkish
 4,4,İbrahim  Dağaşan,TUR,M,1.79,74,15-06-84,Angers,Bucaspor,Antalyaspor,2010,Turkish
 5,5,Kerem Şeras,TUR,M,1.75,78,01-01-84,Ankara,Gençlerbirliği,Antalyaspor,2010,Turkish

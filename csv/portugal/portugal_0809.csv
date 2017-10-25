@@ -1,29 +1,29 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Rui Nereu,POR,G,1.83,74,04-02-86,Odivelas,Benfica,Acadιmica,2008,Portuguese
-2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Acadιmica,2008,Portuguese
-4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Acadιmica,2008,Portuguese
-5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Acadιmica,2008,Portuguese
-6,6,Łukasz Madej,POL,M,1.76,70,14-04-82,Łódź,ŁKS  Łódź,Acadιmica,2008,Portuguese
-8,8,Júlio César,BRA,M,1.80,79,13-12-83,Recife,Valdevez,Acadιmica,2008,Portuguese
-10,10,Miguel Pedro,POR,M,1.75,70,11-06-83,Porto,Desportivo Aves,Acadιmica,2008,Portuguese
-11,11,Lito,CPV,M,1.70,66,03-02-75,Praia,Naval,Acadιmica,2008,Portuguese
-13,13,Gonçalo,POR,D,1.84,79,15-11-86,Lamego,Tourizense,Acadιmica,2008,Portuguese
-15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Acadιmica,2008,Portuguese
-16,16,Licá,POR,M,1.80,71,08-09-88,Castro Daire,Tourizense,Acadιmica,2008,Portuguese
-17,17,Cris,POR,M,1.78,70,17-01-84,Oliveira de Azemeis,Feirense,Acadιmica,2008,Portuguese
-18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Acadιmica,2008,Portuguese
-19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Acadιmica,2008,Portuguese
-20,20,André Fontes,POR,M,1.79,75,27-05-85,Tábua,Tourizense,Acadιmica,2008,Portuguese
-21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Acadιmica,2008,Portuguese
-24,24,Pedro Roma,POR,G,1.85,83,13-08-70,Pombal,Gil Vicente,Acadιmica,2008,Portuguese
-28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,None,Acadιmica,2008,Portuguese
-29,29,Boris Pekovič,SVK,G,1.89,86,30-06-76,Topoľčany,Górnik Zabrze,Acadιmica,2008,Portuguese
-30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Acadιmica,2008,Portuguese
-33,33,William Tiero,GHA,M,1.74,71,03-12-80,Tema,Naval,Acadιmica,2008,Portuguese
-39,39,Carlos Saleiro,POR,F,1.85,76,25-02-86,Lisbon,Sporting CP,Acadιmica,2008,Portuguese
-41,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Acadιmica,2008,Portuguese
-42,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Acadιmica,2008,Portuguese
-43,99,José Luis Garcés,PAN,F,1.81,76,06-05-81,Ciudad de Panamá,CSKA Sofia,Acadιmica,2008,Portuguese
+1,1,Rui Nereu,POR,G,1.83,74,04-02-86,Odivelas,Benfica,Académica,2008,Portuguese
+2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Académica,2008,Portuguese
+4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Académica,2008,Portuguese
+5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Académica,2008,Portuguese
+6,6,Łukasz Madej,POL,M,1.76,70,14-04-82,Łódź,ŁKS  Łódź,Académica,2008,Portuguese
+8,8,Júlio César,BRA,M,1.80,79,13-12-83,Recife,Valdevez,Académica,2008,Portuguese
+10,10,Miguel Pedro,POR,M,1.75,70,11-06-83,Porto,Desportivo Aves,Académica,2008,Portuguese
+11,11,Lito,CPV,M,1.70,66,03-02-75,Praia,Naval,Académica,2008,Portuguese
+13,13,Gonçalo,POR,D,1.84,79,15-11-86,Lamego,Tourizense,Académica,2008,Portuguese
+15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Académica,2008,Portuguese
+16,16,Licá,POR,M,1.80,71,08-09-88,Castro Daire,Tourizense,Académica,2008,Portuguese
+17,17,Cris,POR,M,1.78,70,17-01-84,Oliveira de Azemeis,Feirense,Académica,2008,Portuguese
+18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Académica,2008,Portuguese
+19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Académica,2008,Portuguese
+20,20,André Fontes,POR,M,1.79,75,27-05-85,Tábua,Tourizense,Académica,2008,Portuguese
+21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Académica,2008,Portuguese
+24,24,Pedro Roma,POR,G,1.85,83,13-08-70,Pombal,Gil Vicente,Académica,2008,Portuguese
+28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,None,Académica,2008,Portuguese
+29,29,Boris Pekovič,SVK,G,1.89,86,30-06-76,Topoľčany,Górnik Zabrze,Académica,2008,Portuguese
+30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Académica,2008,Portuguese
+33,33,William Tiero,GHA,M,1.74,71,03-12-80,Tema,Naval,Académica,2008,Portuguese
+39,39,Carlos Saleiro,POR,F,1.85,76,25-02-86,Lisbon,Sporting CP,Académica,2008,Portuguese
+41,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Académica,2008,Portuguese
+42,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Académica,2008,Portuguese
+43,99,José Luis Garcés,PAN,F,1.81,76,06-05-81,Ciudad de Panamá,CSKA Sofia,Académica,2008,Portuguese
 1,1,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,None,Belenenses,2008,Portuguese
 2,2,Fernando Ávalos,ARG,D,1.86,83,31-03-78,Paso de los Libres,Duisburg,Belenenses,2008,Portuguese
 3,3,Carciano,BRA,D,1.78,74,13-05-81,Salvador,Ceará,Belenenses,2008,Portuguese
@@ -104,30 +104,30 @@
 32,32,Vítor Moreno,CPV,D,1.80,86,29-11-80,Lisbon,Vitória Guimarães,Estrela da Amadora,2008,Portuguese
 41,65,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Mafra,Estrela da Amadora,2008,Portuguese
 42,77,Filipe Mendes,POR,G,1.84,78,17-06-85,Lisbon,None,Estrela da Amadora,2008,Portuguese
-1,1,Beto,POR,G,1.80,80,01-05-82,Loures,Marco,Leixőes,2008,Portuguese
-2,2,Rúben Ribeiro,POR,D,1.75,67,01-08-87,Ramalde,None,Leixőes,2008,Portuguese
-3,3,Sandro,BRA,D,1.84,81,13-03-83,Paranaguá,Anápolis,Leixőes,2008,Portuguese
-4,4,Elvis,BRA,D,1.85,80,23-08-77,São Paulo,Portuguesa Santista,Leixőes,2008,Portuguese
-5,5,Brandón Poltronieri,CRC,M,1.75,72,18-01-86,Los Angeles,Brujas FC,Leixőes,2008,Portuguese
-7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Barreirense,Leixőes,2008,Portuguese
-9,9,Roberto Alcântara,BRA,F,1.86,90,25-06-77,Osasco,Penafiel,Leixőes,2008,Portuguese
-10,10,Chumbinho,BRA,M,1.74,69,21-09-86,Palmares,São Paulo,Leixőes,2008,Portuguese
-12,12,Fonseca,POR,G,1.82,80,05-01-85,Senhora da Hora,None,Leixőes,2008,Portuguese
-13,13,Joel,POR,D,1.87,87,15-06-80,Matosinhos,None,Leixőes,2008,Portuguese
-14,14,Bruno China,POR,M,1.82,75,05-08-82,Matosinhos,None,Leixőes,2008,Portuguese
-15,15,Vasco Fernandes,POR,D,1.80,70,13-11-86,Olhão,Salamanca,Leixőes,2008,Portuguese
-16,16,Zé Manuel,POR,F,1.70,65,22-02-75,Fraião,Sporting Braga,Leixőes,2008,Portuguese
-17,17,Brayan Angulo,COL,D,1.74,71,02-11-89,Valle del Cauca,Boavista,Leixőes,2008,Portuguese
-20,20,Nuno Filipe Laranjeiro,POR,D,1.84,76,18-01-83,Ourém,União de Leiria,Leixőes,2008,Portuguese
-21,21,Braga,POR,M,1.79,71,17-06-83,Porto,Leça,Leixőes,2008,Portuguese
-22,22,Vítor Ilídio Castanheira,POR,M,1.74,71,07-09-77,Chaves,Sporting Braga,Leixőes,2008,Portuguese
-23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,FC Porto,Leixőes,2008,Portuguese
-25,25,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Estoril,Leixőes,2008,Portuguese
-26,26,Roberto,BRA,M,1.77,75,18-01-85,Goiâna,Celta Vigo,Leixőes,2008,Portuguese
-27,27,Nuno Silva,POR,D,1.80,77,27-10-75,Lisboa,Penafiel,Leixőes,2008,Portuguese
-28,28,Jean Sony,HAI,M,1.74,73,23-01-86,Port-au-Prince,Aigle Noir,Leixőes,2008,Portuguese
-29,29,Rodrigo Silva,BRA,F,1.83,71,15-06-83,Florianópolis,Nacional [POR],Leixőes,2008,Portuguese
-41,77,Hans-Peter Berger,AUT,G,1.79,82,28-09-81,Salzburg,SV Ried,Leixőes,2008,Portuguese
+1,1,Beto,POR,G,1.80,80,01-05-82,Loures,Marco,Leixões,2008,Portuguese
+2,2,Rúben Ribeiro,POR,D,1.75,67,01-08-87,Ramalde,None,Leixões,2008,Portuguese
+3,3,Sandro,BRA,D,1.84,81,13-03-83,Paranaguá,Anápolis,Leixões,2008,Portuguese
+4,4,Elvis,BRA,D,1.85,80,23-08-77,São Paulo,Portuguesa Santista,Leixões,2008,Portuguese
+5,5,Brandón Poltronieri,CRC,M,1.75,72,18-01-86,Los Angeles,Brujas FC,Leixões,2008,Portuguese
+7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Barreirense,Leixões,2008,Portuguese
+9,9,Roberto Alcântara,BRA,F,1.86,90,25-06-77,Osasco,Penafiel,Leixões,2008,Portuguese
+10,10,Chumbinho,BRA,M,1.74,69,21-09-86,Palmares,São Paulo,Leixões,2008,Portuguese
+12,12,Fonseca,POR,G,1.82,80,05-01-85,Senhora da Hora,None,Leixões,2008,Portuguese
+13,13,Joel,POR,D,1.87,87,15-06-80,Matosinhos,None,Leixões,2008,Portuguese
+14,14,Bruno China,POR,M,1.82,75,05-08-82,Matosinhos,None,Leixões,2008,Portuguese
+15,15,Vasco Fernandes,POR,D,1.80,70,13-11-86,Olhão,Salamanca,Leixões,2008,Portuguese
+16,16,Zé Manuel,POR,F,1.70,65,22-02-75,Fraião,Sporting Braga,Leixões,2008,Portuguese
+17,17,Brayan Angulo,COL,D,1.74,71,02-11-89,Valle del Cauca,Boavista,Leixões,2008,Portuguese
+20,20,Nuno Filipe Laranjeiro,POR,D,1.84,76,18-01-83,Ourém,União de Leiria,Leixões,2008,Portuguese
+21,21,Braga,POR,M,1.79,71,17-06-83,Porto,Leça,Leixões,2008,Portuguese
+22,22,Vítor Ilídio Castanheira,POR,M,1.74,71,07-09-77,Chaves,Sporting Braga,Leixões,2008,Portuguese
+23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,FC Porto,Leixões,2008,Portuguese
+25,25,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Estoril,Leixões,2008,Portuguese
+26,26,Roberto,BRA,M,1.77,75,18-01-85,Goiâna,Celta Vigo,Leixões,2008,Portuguese
+27,27,Nuno Silva,POR,D,1.80,77,27-10-75,Lisboa,Penafiel,Leixões,2008,Portuguese
+28,28,Jean Sony,HAI,M,1.74,73,23-01-86,Port-au-Prince,Aigle Noir,Leixões,2008,Portuguese
+29,29,Rodrigo Silva,BRA,F,1.83,71,15-06-83,Florianópolis,Nacional [POR],Leixões,2008,Portuguese
+41,77,Hans-Peter Berger,AUT,G,1.79,82,28-09-81,Salzburg,SV Ried,Leixões,2008,Portuguese
 1,1,Marcelo  Boeck,BRA,G,1.91,83,28-11-84,Santa Cruz,Internacional,Marítimo,2008,Portuguese
 3,3,Fernando Cardozo,BRA,D,1.86,79,17-03-79,Pelotas,Nacional [POR],Marítimo,2008,Portuguese
 4,4,Antoine van der Linden,NED,D,1.92,84,17-03-76,Rotterdam,FC Groningen,Marítimo,2008,Portuguese
@@ -215,35 +215,35 @@
 43,70,Davide,POR,F,1.79,72,12-04-83,Lisbon,Sporting Braga,Naval,2008,Portuguese
 44,77,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Fátima,Naval,2008,Portuguese
 45,83,João Real,POR,D,1.85,83,13-05-83,Covilhã,Sporting Covilhã,Naval,2008,Portuguese
-1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paзos de Ferreira,2008,Portuguese
-3,3,Chico Silva,POR,D,1.78,80,09-05-78,Lamego,Trofense,Paзos de Ferreira,2008,Portuguese
-4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,FC Khimki,Paзos de Ferreira,2008,Portuguese
-5,5,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Avaí,Paзos de Ferreira,2008,Portuguese
-6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paзos de Ferreira,2008,Portuguese
-7,7,Edson Nobre,ANG,F,1.74,67,02-03-80,Benguela,Oliveira do Bairro,Paзos de Ferreira,2008,Portuguese
-8,8,Pedrinha,POR,M,1.79,72,03-05-78,Oliveira de Azemeis,Penafiel,Paзos de Ferreira,2008,Portuguese
-9,9,William,BRA,M,1.85,80,27-07-82,Rio de Janeiro,Cabofriense,Paзos de Ferreira,2008,Portuguese
-10,10,Cristiano,BRA,M,1.74,67,28-09-83,Manaus,S. Raimundo,Paзos de Ferreira,2008,Portuguese
-11,11,Leandro Tatu,BRA,F,1.73,77,26-04-82,Vitória,Desportivo das Aves,Paзos de Ferreira,2008,Portuguese
-13,13,Livio Prieto,ARG,M,1.68,63,31-07-81,Córdoba,Emelec,Paзos de Ferreira,2008,Portuguese
-14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paзos de Ferreira,2008,Portuguese
-16,16,Kiko,BRA,D,1.83,80,24-08-78,Pernambuco,Coruripe,Paзos de Ferreira,2008,Portuguese
-17,17,Kelly Berville,FRA,D,1.80,92,05-01-78,Colombes,Penafiel,Paзos de Ferreira,2008,Portuguese
-18,18,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Paзos de Ferreira,2008,Portuguese
-19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Beira-Mar,Paзos de Ferreira,2008,Portuguese
-20,20,Filipe Gonçalves,POR,M,1.85,71,12-08-84,Espinho,Sporting Braga,Paзos de Ferreira,2008,Portuguese
-24,24,Bruno Conceição,POR,G,1.87,88,23-12-81,São João da Madeira,Varzim,Paзos de Ferreira,2008,Portuguese
-25,25,Fábio Pacheco,POR,M,1.78,67,26-05-88,Paredes,None,Paзos de Ferreira,2008,Portuguese
-26,26,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Gloria Bistriţa,Paзos de Ferreira,2008,Portuguese
-27,27,Cristelo,POR,M,1.65,65,27-03-89,Paredes,None,Paзos de Ferreira,2008,Portuguese
-28,28,André Pinto,BRA,F,1.83,80,14-12-78,São Paulo,Marítimo,Paзos de Ferreira,2008,Portuguese
-30,30,Ferreira,BRA,D,1.81,78,14-10-83,Campina Grande,Marítimo,Paзos de Ferreira,2008,Portuguese
-41,47,Pedro,POR,G,1.80,78,22-11-74,Paços de Ferreira,None,Paзos de Ferreira,2008,Portuguese
-42,74,Carlos Carneiro,POR,F,1.85,80,08-01-75,Paços de Ferreira,Walsall,Paзos de Ferreira,2008,Portuguese
-43,77,Dedé,ANG,M,1.84,83,04-07-81,Lobito,Trofense,Paзos de Ferreira,2008,Portuguese
-44,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paзos de Ferreira,2008,Portuguese
-45,88,Guedes,POR,F,1.82,76,07-05-87,Penafiel,Penafiel,Paзos de Ferreira,2008,Portuguese
-46,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paзos de Ferreira,2008,Portuguese
+1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paços de Ferreira,2008,Portuguese
+3,3,Chico Silva,POR,D,1.78,80,09-05-78,Lamego,Trofense,Paços de Ferreira,2008,Portuguese
+4,4,Danielson,BRA,D,1.86,75,09-01-81,São Paulo,FC Khimki,Paços de Ferreira,2008,Portuguese
+5,5,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Avaí,Paços de Ferreira,2008,Portuguese
+6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paços de Ferreira,2008,Portuguese
+7,7,Edson Nobre,ANG,F,1.74,67,02-03-80,Benguela,Oliveira do Bairro,Paços de Ferreira,2008,Portuguese
+8,8,Pedrinha,POR,M,1.79,72,03-05-78,Oliveira de Azemeis,Penafiel,Paços de Ferreira,2008,Portuguese
+9,9,William,BRA,M,1.85,80,27-07-82,Rio de Janeiro,Cabofriense,Paços de Ferreira,2008,Portuguese
+10,10,Cristiano,BRA,M,1.74,67,28-09-83,Manaus,S. Raimundo,Paços de Ferreira,2008,Portuguese
+11,11,Leandro Tatu,BRA,F,1.73,77,26-04-82,Vitória,Desportivo das Aves,Paços de Ferreira,2008,Portuguese
+13,13,Livio Prieto,ARG,M,1.68,63,31-07-81,Córdoba,Emelec,Paços de Ferreira,2008,Portuguese
+14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paços de Ferreira,2008,Portuguese
+16,16,Kiko,BRA,D,1.83,80,24-08-78,Pernambuco,Coruripe,Paços de Ferreira,2008,Portuguese
+17,17,Kelly Berville,FRA,D,1.80,92,05-01-78,Colombes,Penafiel,Paços de Ferreira,2008,Portuguese
+18,18,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Paços de Ferreira,2008,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Beira-Mar,Paços de Ferreira,2008,Portuguese
+20,20,Filipe Gonçalves,POR,M,1.85,71,12-08-84,Espinho,Sporting Braga,Paços de Ferreira,2008,Portuguese
+24,24,Bruno Conceição,POR,G,1.87,88,23-12-81,São João da Madeira,Varzim,Paços de Ferreira,2008,Portuguese
+25,25,Fábio Pacheco,POR,M,1.78,67,26-05-88,Paredes,None,Paços de Ferreira,2008,Portuguese
+26,26,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Gloria Bistriţa,Paços de Ferreira,2008,Portuguese
+27,27,Cristelo,POR,M,1.65,65,27-03-89,Paredes,None,Paços de Ferreira,2008,Portuguese
+28,28,André Pinto,BRA,F,1.83,80,14-12-78,São Paulo,Marítimo,Paços de Ferreira,2008,Portuguese
+30,30,Ferreira,BRA,D,1.81,78,14-10-83,Campina Grande,Marítimo,Paços de Ferreira,2008,Portuguese
+41,47,Pedro,POR,G,1.80,78,22-11-74,Paços de Ferreira,None,Paços de Ferreira,2008,Portuguese
+42,74,Carlos Carneiro,POR,F,1.85,80,08-01-75,Paços de Ferreira,Walsall,Paços de Ferreira,2008,Portuguese
+43,77,Dedé,ANG,M,1.84,83,04-07-81,Lobito,Trofense,Paços de Ferreira,2008,Portuguese
+44,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paços de Ferreira,2008,Portuguese
+45,88,Guedes,POR,F,1.82,76,07-05-87,Penafiel,Penafiel,Paços de Ferreira,2008,Portuguese
+46,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paços de Ferreira,2008,Portuguese
 1,1,Helton,BRA,G,1.89,84,18-05-78,Alcântara,União de Leiria,FC Porto,2008,Portuguese
 2,2,Bruno Alves,POR,D,1.89,80,27-11-81,Porto,AEK Athens,FC Porto,2008,Portuguese
 3,3,Pedro Emanuel,POR,D,1.82,77,11-02-75,Luanda,Boavista,FC Porto,2008,Portuguese
@@ -388,36 +388,36 @@
 41,49,Miguel Ângelo,POR,D,1.85,76,10-10-84,São Sebastião  da Pedreira,Portimonense,Trofense,2008,Portuguese
 42,77,Mércio,BRA,M,1.76,72,26-05-80,Recife,Desportivo das Aves,Trofense,2008,Portuguese
 43,87,David Caiado,POR,F,1.84,78,02-05-87,Luxembourg,Sporting CP,Trofense,2008,Portuguese
-1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitуria Guimarгes,2008,Portuguese
-4,4,Henrique Sereno,POR,D,1.88,78,18-05-85,Elvas,O Elvas,Vitуria Guimarгes,2008,Portuguese
-5,5,Custódio,POR,M,1.80,80,24-05-83,Guimarães,Dynamo Moscow,Vitуria Guimarгes,2008,Portuguese
-7,7,Carlitos,POR,F,1.68,66,06-03-77,Barcelos,Belenenses,Vitуria Guimarгes,2008,Portuguese
-9,9,Roberto,BRA,F,1.90,86,29-07-78,Linhares,Varzim,Vitуria Guimarгes,2008,Portuguese
-10,10,Nuno Assis,POR,M,1.68,63,25-11-77,Coimbra,Benfica,Vitуria Guimarгes,2008,Portuguese
-11,11,Wênio,BRA,M,1.76,73,09-09-79,Mineiros,Marítimo,Vitуria Guimarгes,2008,Portuguese
-14,14,Santana,ANG,F,1.80,72,15-06-83,Luanda,Petro Atlético,Vitуria Guimarгes,2008,Portuguese
-15,15,Gregory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan,Marítimo,Vitуria Guimarгes,2008,Portuguese
-16,16,Danilo,BRA,D,1.88,82,13-02-81,Alegre,Santa Clara,Vitуria Guimarгes,2008,Portuguese
-17,17,João Fajardo,POR,M,1.80,74,27-10-78,Lisbon,Naval,Vitуria Guimarгes,2008,Portuguese
-18,18,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Caçadores das Taipas,Vitуria Guimarгes,2008,Portuguese
-19,19,Cícero,POR,F,1.85,89,08-05-86,Seia,Dynamo Moscow,Vitуria Guimarгes,2008,Portuguese
-20,20,Yves Desmarets,FRA,M,1.78,72,19-07-79,Paris,Les Lilas,Vitуria Guimarгes,2008,Portuguese
-21,21,Luís Filipe,POR,D,1.77,75,14-06-79,Cantanhede,Benfica,Vitуria Guimarгes,2008,Portuguese
-23,23,Henrique Dinis,POR,M,1.83,80,21-01-90,Monção,None,Vitуria Guimarгes,2008,Portuguese
-25,25,Andrezinho,BRA,D,1.72,67,09-10-81,Mineiros,Vila Nova,Vitуria Guimarгes,2008,Portuguese
-26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitуria Guimarгes,2008,Portuguese
-27,27,Nuno Santos,POR,G,1.84,80,09-07-78,Coimbra,Sporting CP,Vitуria Guimarгes,2008,Portuguese
-28,28,Tiago Ronaldo,POR,M,1.76,72,28-12-89,Loures,None,Vitуria Guimarгes,2008,Portuguese
-30,30,Diogo Lamelas,POR,F,1.72,66,04-03-90,São Torcato,None,Vitуria Guimarгes,2008,Portuguese
-33,33,Vítor Bastos,POR,D,1.89,83,01-05-90,Gondar,None,Vitуria Guimarгes,2008,Portuguese
-37,37,Tiago,POR,F,,,27-01-91,Vizela,None,Vitуria Guimarгes,2008,Portuguese
-39,39,Marquinho,BRA,F,1.77,74,08-07-86,Curitiba,J. Malucelli,Vitуria Guimarгes,2008,Portuguese
-41,52,Serginho,POR,G,1.92,85,06-12-82,Santa Maria Feira,Lourosa,Vitуria Guimarгes,2008,Portuguese
-42,55,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,FC Timişoara,Vitуria Guimarгes,2008,Portuguese
-43,77,Lucas,BRA,F,1.84,77,15-06-90,Rio de Janeiro,None,Vitуria Guimarгes,2008,Portuguese
-44,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitуria Guimarгes,2008,Portuguese
-45,89,Lionn,BRA,D,1.77,67,29-01-89,Fortaleza,Torreense,Vitуria Guimarгes,2008,Portuguese
-46,99,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitуria Guimarгes,2008,Portuguese
+1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitória Guimarães,2008,Portuguese
+4,4,Henrique Sereno,POR,D,1.88,78,18-05-85,Elvas,O Elvas,Vitória Guimarães,2008,Portuguese
+5,5,Custódio,POR,M,1.80,80,24-05-83,Guimarães,Dynamo Moscow,Vitória Guimarães,2008,Portuguese
+7,7,Carlitos,POR,F,1.68,66,06-03-77,Barcelos,Belenenses,Vitória Guimarães,2008,Portuguese
+9,9,Roberto,BRA,F,1.90,86,29-07-78,Linhares,Varzim,Vitória Guimarães,2008,Portuguese
+10,10,Nuno Assis,POR,M,1.68,63,25-11-77,Coimbra,Benfica,Vitória Guimarães,2008,Portuguese
+11,11,Wênio,BRA,M,1.76,73,09-09-79,Mineiros,Marítimo,Vitória Guimarães,2008,Portuguese
+14,14,Santana,ANG,F,1.80,72,15-06-83,Luanda,Petro Atlético,Vitória Guimarães,2008,Portuguese
+15,15,Gregory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan,Marítimo,Vitória Guimarães,2008,Portuguese
+16,16,Danilo,BRA,D,1.88,82,13-02-81,Alegre,Santa Clara,Vitória Guimarães,2008,Portuguese
+17,17,João Fajardo,POR,M,1.80,74,27-10-78,Lisbon,Naval,Vitória Guimarães,2008,Portuguese
+18,18,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Caçadores das Taipas,Vitória Guimarães,2008,Portuguese
+19,19,Cícero,POR,F,1.85,89,08-05-86,Seia,Dynamo Moscow,Vitória Guimarães,2008,Portuguese
+20,20,Yves Desmarets,FRA,M,1.78,72,19-07-79,Paris,Les Lilas,Vitória Guimarães,2008,Portuguese
+21,21,Luís Filipe,POR,D,1.77,75,14-06-79,Cantanhede,Benfica,Vitória Guimarães,2008,Portuguese
+23,23,Henrique Dinis,POR,M,1.83,80,21-01-90,Monção,None,Vitória Guimarães,2008,Portuguese
+25,25,Andrezinho,BRA,D,1.72,67,09-10-81,Mineiros,Vila Nova,Vitória Guimarães,2008,Portuguese
+26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarães,2008,Portuguese
+27,27,Nuno Santos,POR,G,1.84,80,09-07-78,Coimbra,Sporting CP,Vitória Guimarães,2008,Portuguese
+28,28,Tiago Ronaldo,POR,M,1.76,72,28-12-89,Loures,None,Vitória Guimarães,2008,Portuguese
+30,30,Diogo Lamelas,POR,F,1.72,66,04-03-90,São Torcato,None,Vitória Guimarães,2008,Portuguese
+33,33,Vítor Bastos,POR,D,1.89,83,01-05-90,Gondar,None,Vitória Guimarães,2008,Portuguese
+37,37,Tiago,POR,F,,,27-01-91,Vizela,None,Vitória Guimarães,2008,Portuguese
+39,39,Marquinho,BRA,F,1.77,74,08-07-86,Curitiba,J. Malucelli,Vitória Guimarães,2008,Portuguese
+41,52,Serginho,POR,G,1.92,85,06-12-82,Santa Maria Feira,Lourosa,Vitória Guimarães,2008,Portuguese
+42,55,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,FC Timişoara,Vitória Guimarães,2008,Portuguese
+43,77,Lucas,BRA,F,1.84,77,15-06-90,Rio de Janeiro,None,Vitória Guimarães,2008,Portuguese
+44,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitória Guimarães,2008,Portuguese
+45,89,Lionn,BRA,D,1.77,67,29-01-89,Fortaleza,Torreense,Vitória Guimarães,2008,Portuguese
+46,99,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitória Guimarães,2008,Portuguese
 1,1,Nikola Milojević,SRB,G,1.92,85,16-04-81,Mladenovac,Hajduk Kula,Vitória Setúbal,2008,Portuguese
 2,2,Michel,BRA,D,1.83,77,06-03-85,Batatais,União São João,Vitória Setúbal,2008,Portuguese
 3,3,Hugo,POR,D,1.82,78,11-08-76,Braga,Sporting CP,Vitória Setúbal,2008,Portuguese

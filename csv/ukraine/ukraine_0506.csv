@@ -338,35 +338,35 @@
 45,87,Dmytro  Krochko,M,,,17-02-87,,Metalurh  Donetsk-2,Metalurh Donetsk,2005,Ukrainian
 46,88,Serhiy  Chapko,,,,24-01-88,,Metalurh  Donetsk-2,Metalurh Donetsk,2005,Ukrainian
 47,99,Dan Marius Mitu,M,"5'10""",11 09,10-09-76,Bucharest,Anderlecht,Metalurh Donetsk,2005,Ukrainian
-1,1,Andriy  Hluschenko,G,"6'02""",13 05,18-03-74,Orekhov,Zirka  Kirovohrad,upl/metzapor.htm,2005,Ukrainian
-2,2,Artsom Chelyadzinski,D,"6'01""",12 06,29-12-77,Minsk,Sokol Saratov,upl/metzapor.htm,2005,Ukrainian
-3,3,Dmytro Nevmyvaka,D,"6'03""",13 03,19-03-84,Zaporozhye,None,upl/metzapor.htm,2005,Ukrainian
-4,4,Maksym  Trusevych,M,"5'09""",10  10,01-08-85,,Shakhtar  Donetsk,upl/metzapor.htm,2005,Ukrainian
-5,5,Siarhei  Shtaniuk,D,"6'03""",12 13,13-08-73,Minsk,Shinnik,upl/metzapor.htm,2005,Ukrainian
-6,6,Aleksandar  Tomovski,M,"5'10""",11  03,02-09-78,,OFI  Crete,upl/metzapor.htm,2005,Ukrainian
-7,7,Darko  Tasevski,M,"5'11""",11  03,20-05-84,,Vardar  Skopje,upl/metzapor.htm,2005,Ukrainian
-8,8,Serhiy  Shyshchenko,M,"5'06""",09 13,13-01-76,Siryaki,Metalurh  Donetsk,upl/metzapor.htm,2005,Ukrainian
-9,9,Oleksandr  Aliyev,M,"5'08""",10 06,03-02-85,Moscow,Dynamo  Kiev,upl/metzapor.htm,2005,Ukrainian
-10,10,Maxim  Aristarkhov,F,"6'03""",12  11,03-03-80,,Amkar  Perm,upl/metzapor.htm,2005,Ukrainian
-11,11,Sergey Silyuk,F,"5'07""",10 03,05-06-85,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2005,Ukrainian
-12,12,Vitaliy  Postranskyy,G,"6'03""",13 10,02-08-77,Ivano-Frankivsk,Volyn  Lutsk,upl/metzapor.htm,2005,Ukrainian
-13,13,Evgeniy Bredun,M,"5'11""",11 00,10-09-82,,Shakhtar Donetsk,upl/metzapor.htm,2005,Ukrainian
-14,14,Volodymyr  Polovyy,M,"5'07""",09 13,28-07-85,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2005,Ukrainian
-15,15,Irakli Modebadze,F,"6'00""",11 03,04-10-84,Tbilisi,Merani-91 Tbilisi,upl/metzapor.htm,2005,Ukrainian
-16,16,Dato  Kvirkvelia,D,"6'00""",12  00,27-06-80,Tbilisi,Alania  Vladikavkaz,upl/metzapor.htm,2005,Ukrainian
-17,17,Volodymyr Arzhanov,M,"5'11""",12 01,29-11-85,Zaporozhye,Metalurh Zaporizhya-2,upl/metzapor.htm,2005,Ukrainian
-18,18,Dančo Masev,F,"6'01""",12  00,16-12-83,,Vardar  Skopje,upl/metzapor.htm,2005,Ukrainian
-20,20,Yevheniy  Lozinskyy,M,"6'03""",12 08,07-02-82,,Zakarpattya  Uzhgorod,upl/metzapor.htm,2005,Ukrainian
-21,21,Dema  Kovalenko,M,5'08'',11  06,28-08-77,Kiev,DC  United,upl/metzapor.htm,2005,Ukrainian
-22,22,Andriy  Kruhlyak,F,"5'10""",10  08,22-04-86,,Metalurh Zaporizhya-2,upl/metzapor.htm,2005,Ukrainian
-23,23,Oleh Karamushka,D,"6'02""",12 08,30-04-84,Borispol,Shakhtar  Donetsk,upl/metzapor.htm,2005,Ukrainian
-25,25,Serhiy  Nahornyak,M,"6'01""",12 00,05-09-71,,Volyn Lutsk,upl/metzapor.htm,2005,Ukrainian
-28,28,German Kutarba,M,"5'10""",12 04,10-09-78,Gagra,Dynamo Moscow,upl/metzapor.htm,2005,Ukrainian
-30,30,Vladimir  Korytko,M,"5'10""",11  07,06-07-79,Minsk,Terek  Grozny,upl/metzapor.htm,2005,Ukrainian
-33,33,Ruslan  Lyubarsky,F,"5'11""",11 07,29-09-73,Bar,Koice,upl/metzapor.htm,2005,Ukrainian
-41,50,Bledi Shkembi,M,"5'11""",12 00,13-08-79,Korce,Kamen  Ingrad,upl/metzapor.htm,2005,Ukrainian
-42,55,Mirko Selak,F,"6'00""",11 05,30-01-78,,BK Frem,upl/metzapor.htm,2005,Ukrainian
-43,59,Tefik Osmani,D,"6'04""",11 11,08-06-85,,KS Elbasani,upl/metzapor.htm,2005,Ukrainian
+1,1,Andriy  Hluschenko,G,"6'02""",13 05,18-03-74,Orekhov,Zirka  Kirovohrad,Metalurh Zaporizhya,2005,Ukrainian
+2,2,Artsom Chelyadzinski,D,"6'01""",12 06,29-12-77,Minsk,Sokol Saratov,Metalurh Zaporizhya,2005,Ukrainian
+3,3,Dmytro Nevmyvaka,D,"6'03""",13 03,19-03-84,Zaporozhye,None,Metalurh Zaporizhya,2005,Ukrainian
+4,4,Maksym  Trusevych,M,"5'09""",10  10,01-08-85,,Shakhtar  Donetsk,Metalurh Zaporizhya,2005,Ukrainian
+5,5,Siarhei  Shtaniuk,D,"6'03""",12 13,13-08-73,Minsk,Shinnik,Metalurh Zaporizhya,2005,Ukrainian
+6,6,Aleksandar  Tomovski,M,"5'10""",11  03,02-09-78,,OFI  Crete,Metalurh Zaporizhya,2005,Ukrainian
+7,7,Darko  Tasevski,M,"5'11""",11  03,20-05-84,,Vardar  Skopje,Metalurh Zaporizhya,2005,Ukrainian
+8,8,Serhiy  Shyshchenko,M,"5'06""",09 13,13-01-76,Siryaki,Metalurh  Donetsk,Metalurh Zaporizhya,2005,Ukrainian
+9,9,Oleksandr  Aliyev,M,"5'08""",10 06,03-02-85,Moscow,Dynamo  Kiev,Metalurh Zaporizhya,2005,Ukrainian
+10,10,Maxim  Aristarkhov,F,"6'03""",12  11,03-03-80,,Amkar  Perm,Metalurh Zaporizhya,2005,Ukrainian
+11,11,Sergey Silyuk,F,"5'07""",10 03,05-06-85,Zaporozhye,Metalurh Zaporizhya-2,Metalurh Zaporizhya,2005,Ukrainian
+12,12,Vitaliy  Postranskyy,G,"6'03""",13 10,02-08-77,Ivano-Frankivsk,Volyn  Lutsk,Metalurh Zaporizhya,2005,Ukrainian
+13,13,Evgeniy Bredun,M,"5'11""",11 00,10-09-82,,Shakhtar Donetsk,Metalurh Zaporizhya,2005,Ukrainian
+14,14,Volodymyr  Polovyy,M,"5'07""",09 13,28-07-85,Zaporozhye,Metalurh Zaporizhya-2,Metalurh Zaporizhya,2005,Ukrainian
+15,15,Irakli Modebadze,F,"6'00""",11 03,04-10-84,Tbilisi,Merani-91 Tbilisi,Metalurh Zaporizhya,2005,Ukrainian
+16,16,Dato  Kvirkvelia,D,"6'00""",12  00,27-06-80,Tbilisi,Alania  Vladikavkaz,Metalurh Zaporizhya,2005,Ukrainian
+17,17,Volodymyr Arzhanov,M,"5'11""",12 01,29-11-85,Zaporozhye,Metalurh Zaporizhya-2,Metalurh Zaporizhya,2005,Ukrainian
+18,18,Dančo Masev,F,"6'01""",12  00,16-12-83,,Vardar  Skopje,Metalurh Zaporizhya,2005,Ukrainian
+20,20,Yevheniy  Lozinskyy,M,"6'03""",12 08,07-02-82,,Zakarpattya  Uzhgorod,Metalurh Zaporizhya,2005,Ukrainian
+21,21,Dema  Kovalenko,M,5'08'',11  06,28-08-77,Kiev,DC  United,Metalurh Zaporizhya,2005,Ukrainian
+22,22,Andriy  Kruhlyak,F,"5'10""",10  08,22-04-86,,Metalurh Zaporizhya-2,Metalurh Zaporizhya,2005,Ukrainian
+23,23,Oleh Karamushka,D,"6'02""",12 08,30-04-84,Borispol,Shakhtar  Donetsk,Metalurh Zaporizhya,2005,Ukrainian
+25,25,Serhiy  Nahornyak,M,"6'01""",12 00,05-09-71,,Volyn Lutsk,Metalurh Zaporizhya,2005,Ukrainian
+28,28,German Kutarba,M,"5'10""",12 04,10-09-78,Gagra,Dynamo Moscow,Metalurh Zaporizhya,2005,Ukrainian
+30,30,Vladimir  Korytko,M,"5'10""",11  07,06-07-79,Minsk,Terek  Grozny,Metalurh Zaporizhya,2005,Ukrainian
+33,33,Ruslan  Lyubarsky,F,"5'11""",11 07,29-09-73,Bar,Koice,Metalurh Zaporizhya,2005,Ukrainian
+41,50,Bledi Shkembi,M,"5'11""",12 00,13-08-79,Korce,Kamen  Ingrad,Metalurh Zaporizhya,2005,Ukrainian
+42,55,Mirko Selak,F,"6'00""",11 05,30-01-78,,BK Frem,Metalurh Zaporizhya,2005,Ukrainian
+43,59,Tefik Osmani,D,"6'04""",11 11,08-06-85,,KS Elbasani,Metalurh Zaporizhya,2005,Ukrainian
 2,2,Cosmin Barcauan,D,"6'00""",12 00,05-08-78,Bucharest,Dinamo  Bucureşti,Shakhtar Donetsk,2005,Ukrainian
 3,3,Tomas Hübschman,D,"5'11""",11 09,04-09-81,Prague,Sparta Prague,Shakhtar Donetsk,2005,Ukrainian
 4,4,Anatoliy Tymoshchuk,M,"5'11""",11 00,30-03-79,Lutsk,Volyn Lutsk,Shakhtar Donetsk,2005,Ukrainian

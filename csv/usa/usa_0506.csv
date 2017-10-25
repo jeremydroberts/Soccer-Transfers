@@ -93,12 +93,12 @@
 8,8,Duncan  Oughton,M,5'09'',11  06,14-06-77,Wellington,Cal  State Fullerton,Columbus Crew,2005,USA
 9,9,Mario  Rodriguez,M,"5'09""",11  01,14-09-81,Guatemala  City,Alajuelense,Columbus Crew,2005,USA
 10,10,Kyle  Martino,M,5'10'',10  04,19-02-81,Atlanta,Univ  of Virginia,Columbus Crew,2005,USA
-11,11,John  Wolyniec,F,6'01'',12  04,24-01-77,Staten  Island,MetroStars,Columbus Crew,2005,USA
+11,11,John  Wolyniec,F,6'01'',12  04,24-01-77,Staten  Island,New York Red Bulls,Columbus Crew,2005,USA
 12,12,Edson  Buddle,F,6'01'',12  02,21-05-81,New  Rochelle,Long  Island RR,Columbus Crew,2005,USA
 13,13,Mark Schulte,D,"6'03""",15  00,04-10-77,Brecksville,IBV,Columbus Crew,2005,USA
 14,14,Chad Marshall,D,"6'03""",13  08,22-08-84,Riverside,Stanford Univ,Columbus Crew,2005,USA
 15,15,Devin  Barclay,F,5'11'',11  11,09-04-83,Annapolis,DC United,Columbus Crew,2005,USA
-16,16,Ross  Paule,M,5'10'',11  06,04-04-76,Memphis,MetroStars,Columbus Crew,2005,USA
+16,16,Ross  Paule,M,5'10'',11  06,04-04-76,Memphis,New York Red Bulls,Columbus Crew,2005,USA
 17,17,Danny Szetela,M,"6'00""",12  04,07-06-87,Passaic,US U-20s,Columbus Crew,2005,USA
 18,18,Marcus  Storey,M,"5'09""",11  01,09-11-82,Houston,Univ  of Nth Carolina,Columbus Crew,2005,USA
 19,19,Chris  Henderson,M,5'10'',10  10,11-12-70,Edmonds,Colorado  Rapids,Columbus Crew,2005,USA
@@ -113,13 +113,13 @@
 31,31,Bill  Gaudette,G,"6'00""",13  03,14-09-81,Hummelstown,St  John's Univ,Columbus Crew,2005,USA
 33,33,Ryan  Kelly,D,6'01'',12  12,01-11-81,Marlton,St  John's Univ,Columbus Crew,2005,USA
 34,34,Stephen  Armstrong,M,"5'10""",11  11,23-07-76,Birkenhead,DC  United,Columbus Crew,2005,USA
-41,88,Jonny Walker,G,6'03'',12  12,13-09-74,Torrance,MetroStars,Columbus Crew,2005,USA
+41,88,Jonny Walker,G,6'03'',12  12,13-09-74,Torrance,New York Red Bulls,Columbus Crew,2005,USA
 1,00,Jeff  Cassar,G,6'02'',13  13,02-02-74,Livonia,Bolton W,FC Dallas,2005,USA
 2,1,Scott  Garlick,G,6'02'',13  13,29-05-72,Phoenix,Colorado  Rapids,FC Dallas,2005,USA
 3,2,Alex Yi,D,6'02'',12  07,21-03-82,Easton,Royal  Antwerp,FC Dallas,2005,USA
 4,3,Carey Talley,D,"6'02""",12  12,26-08-76,Memphis,Kansas City  Wizards,FC Dallas,2005,USA
 5,4,Chris  Gbandi,D,5'10'',12  02,04-04-79,Bong Mines,UConn,FC Dallas,2005,USA
-6,5,Steve  Jolley,D,6'01'',13  08,15-10-75,Virgina  Beach,MetroStars,FC Dallas,2005,USA
+6,5,Steve  Jolley,D,6'01'',13  08,15-10-75,Virgina  Beach,New York Red Bulls,FC Dallas,2005,USA
 7,6,Ronnie  O'Brien,M,5'10'',11  01,05-01-79,Dublin,Juventus,FC Dallas,2005,USA
 8,7,Eddie  Johnson,F,6'00'',12  12,31-03-84,Daytona Beach,US U-17s,FC Dallas,2005,USA
 9,8,Oscar  Pareja,M,5'08'',10  10,10-08-68,Medellin,New  Engalnd Revolution,FC Dallas,2005,USA
@@ -153,7 +153,7 @@
 11,11,Alecko  Eskandarian,F,5'09'',11  11,09-07-82,Montvale,Univ  of Virginia,D.C. United,2005,USA
 13,13,Tim  Merritt,D,"6'00""",12  09,25-06-82,Gig Harbor,Univ  of Nth Carolina,D.C. United,2005,USA
 14,14,Ben  Olsen,M,5'08'',11  02,03-05-77,Harrisburg,Univ  of Virginia,D.C. United,2005,USA
-15,15,Kenny  Arena,M,6'02'',13  08,06-02-81,Charlottesville,MetroStars,D.C. United,2005,USA
+15,15,Kenny  Arena,M,6'02'',13  08,06-02-81,Charlottesville,New York Red Bulls,D.C. United,2005,USA
 16,16,Brian  Carroll,M,5'10'',10  12,20-07-81,Springfield,Wake  Forest Univ,D.C. United,2005,USA
 17,17,Josh Gros,M,"6'00""",11  11,25-06-82,Mechanicsburg,Rutgers Univ,D.C. United,2005,USA
 18,18,Nick  Rimando,G,5'10'',14  05,17-06-79,Montclair,Miami  Fusion,D.C. United,2005,USA
@@ -170,34 +170,34 @@
 30,30,Andrew Weber,G,"6'02""",13  03,09-08-83,Phoenix,Univ of  New Mexico,D.C. United,2005,USA
 31,31,Stephen deRoux,M,"5'09""",11  01,13-12-83,St Mary's,Prince  George's Community College,D.C. United,2005,USA
 32,32,Bobby  Boswell,D,"6'02""",13  03,15-03-83,Tampa,Florida  International Univ,D.C. United,2005,USA
-41,99,Jaime  Moreno,F,5'10'',12  05,19-01-74,Santa  Cruz,MetroStars,D.C. United,2005,USA
-1,1,Bo  Oshoniyi,G,6'01'',13  08,03-11-71,Poughkeepsie,Atlanta  Silverbacks,Kansas City Wizards,2005,USA
-3,3,Nick  Garcia,D,5'10'',11  06,09-04-79,Plano,Indiana  Univ,Kansas City Wizards,2005,USA
-4,4,Shavar Thomas,D,"6'01""",13  13,29-01-81,Hannah Town,Dallas Burn,Kansas City Wizards,2005,USA
-5,5,Kerry  Zavagnin,D,5'10'',12  02,02-07-74,"Plymouth,  MI",Lehigh  Valley Steam,Kansas City Wizards,2005,USA
-6,6,Jose  Burciaga Jr,D,6'01'',11  11,16-11-81,Duncanville,US U-20s,Kansas City Wizards,2005,USA
-7,7,Diego  Gutierrez,M,5'07'',11  01,03-11-72,Bogota,Chicago Fire,Kansas City Wizards,2005,USA
-9,9,Sasha  Victorine,M,6'02'',12  02,03-02-78,Santa Ana,LA Galaxy,Kansas City Wizards,2005,USA
-11,11,Preki,M,5'09'',11  11,24-06-63,Belgrade,Miami  Fusion,Kansas City Wizards,2005,USA
-12,12,Jimmy  Conrad,D,6'02'',13  03,12-02-77,Temple  City,San Jose  Earthquakes,Kansas City Wizards,2005,USA
-13,13,Dustin Branan,D,"6'03""",13  08,21-05-81,Lakeville,Minnesota  Thunder,Kansas City Wizards,2005,USA
-14,14,Jack  Jewsbury,F,6'00'',13  03,13-04-81,Joplin,St Louis  Univ,Kansas City Wizards,2005,USA
-15,15,Josh  Wolff,F,5'08'',11  06,25-02-77,Stone  Mountain,Chicago  Fire,Kansas City Wizards,2005,USA
-16,16,Brian Roberts,D,"6'01""",13  03,28-08-82,Los Angeles,Yale Univ,Kansas City Wizards,2005,USA
-17,17,Chris Klein,M,6'01'',12  12,04-01-76,St Louis,Indiana  Univ,Kansas City Wizards,2005,USA
-18,18,Antti Sumiala,F,"6'01""",13  03,20-02-74,Pori,Vaduz,Kansas City Wizards,2005,USA
-19,19,Scott Sealy,F,"5'10""",12  07,04-06-81,Chaguanas,Wake  Forest Univ,Kansas City Wizards,2005,USA
-20,20,John  Minagawa-Webster,M,"5'09""",11  01,12-08-82,Monroe,Michigan  State Univ,Kansas City Wizards,2005,USA
-21,21,Douglas Lascody,M,"6'00""",12  02,08-03-83,Springfield,SW  Missouri State Univ,Kansas City Wizards,2005,USA
-22,22,Davy  Arnuad,M,6'00'',11  11,22-06-80,Nederland,West  Texas A&M,Kansas City Wizards,2005,USA
-23,23,Alex Zotinca,D,6'00'',12  02,22-01-77,Sibiu,Kansas City Comets,Kansas City Wizards,2005,USA
-24,24,Will Hesmer,G,"6'02""",13  13,23-11-81,Wilson,Wake Forest Univ,Kansas City Wizards,2005,USA
-25,25,Daniel Dobson,D,"6'02""",13  13,20-04-83,Garland,Univ  of Memphis,Kansas City Wizards,2005,USA
-26,26,Ryan Raybould,M,"5'11""",11  01,30-05-83,Leawood,Yale  Univ,Kansas City Wizards,2005,USA
-27,27,Jermaine Hue,M,"5'08""",11  01,15-06-78,Kingston,Harbour  View,Kansas City Wizards,2005,USA
-28,28,Pat McGinnis,F,"5'11""",11  01,03-12-82,Colorado  Springs,Colorado  College,Kansas City Wizards,2005,USA
-29,29,Ryan Pore,F,"5'11""",11  11,23-09-83,"Mansfield,  OH",Tulsa  Univ,Kansas City Wizards,2005,USA
-30,30,Martin Hutton,G,"6'01""",13  03,21-01-82,Spring,Univ  of St Louis,Kansas City Wizards,2005,USA
+41,99,Jaime  Moreno,F,5'10'',12  05,19-01-74,Santa  Cruz,New York Red Bulls,D.C. United,2005,USA
+1,1,Bo  Oshoniyi,G,6'01'',13  08,03-11-71,Poughkeepsie,Atlanta  Silverbacks,Sporting Kansas City,2005,USA
+3,3,Nick  Garcia,D,5'10'',11  06,09-04-79,Plano,Indiana  Univ,Sporting Kansas City,2005,USA
+4,4,Shavar Thomas,D,"6'01""",13  13,29-01-81,Hannah Town,Dallas Burn,Sporting Kansas City,2005,USA
+5,5,Kerry  Zavagnin,D,5'10'',12  02,02-07-74,"Plymouth,  MI",Lehigh  Valley Steam,Sporting Kansas City,2005,USA
+6,6,Jose  Burciaga Jr,D,6'01'',11  11,16-11-81,Duncanville,US U-20s,Sporting Kansas City,2005,USA
+7,7,Diego  Gutierrez,M,5'07'',11  01,03-11-72,Bogota,Chicago Fire,Sporting Kansas City,2005,USA
+9,9,Sasha  Victorine,M,6'02'',12  02,03-02-78,Santa Ana,LA Galaxy,Sporting Kansas City,2005,USA
+11,11,Preki,M,5'09'',11  11,24-06-63,Belgrade,Miami  Fusion,Sporting Kansas City,2005,USA
+12,12,Jimmy  Conrad,D,6'02'',13  03,12-02-77,Temple  City,San Jose  Earthquakes,Sporting Kansas City,2005,USA
+13,13,Dustin Branan,D,"6'03""",13  08,21-05-81,Lakeville,Minnesota  Thunder,Sporting Kansas City,2005,USA
+14,14,Jack  Jewsbury,F,6'00'',13  03,13-04-81,Joplin,St Louis  Univ,Sporting Kansas City,2005,USA
+15,15,Josh  Wolff,F,5'08'',11  06,25-02-77,Stone  Mountain,Chicago  Fire,Sporting Kansas City,2005,USA
+16,16,Brian Roberts,D,"6'01""",13  03,28-08-82,Los Angeles,Yale Univ,Sporting Kansas City,2005,USA
+17,17,Chris Klein,M,6'01'',12  12,04-01-76,St Louis,Indiana  Univ,Sporting Kansas City,2005,USA
+18,18,Antti Sumiala,F,"6'01""",13  03,20-02-74,Pori,Vaduz,Sporting Kansas City,2005,USA
+19,19,Scott Sealy,F,"5'10""",12  07,04-06-81,Chaguanas,Wake  Forest Univ,Sporting Kansas City,2005,USA
+20,20,John  Minagawa-Webster,M,"5'09""",11  01,12-08-82,Monroe,Michigan  State Univ,Sporting Kansas City,2005,USA
+21,21,Douglas Lascody,M,"6'00""",12  02,08-03-83,Springfield,SW  Missouri State Univ,Sporting Kansas City,2005,USA
+22,22,Davy  Arnuad,M,6'00'',11  11,22-06-80,Nederland,West  Texas A&M,Sporting Kansas City,2005,USA
+23,23,Alex Zotinca,D,6'00'',12  02,22-01-77,Sibiu,Kansas City Comets,Sporting Kansas City,2005,USA
+24,24,Will Hesmer,G,"6'02""",13  13,23-11-81,Wilson,Wake Forest Univ,Sporting Kansas City,2005,USA
+25,25,Daniel Dobson,D,"6'02""",13  13,20-04-83,Garland,Univ  of Memphis,Sporting Kansas City,2005,USA
+26,26,Ryan Raybould,M,"5'11""",11  01,30-05-83,Leawood,Yale  Univ,Sporting Kansas City,2005,USA
+27,27,Jermaine Hue,M,"5'08""",11  01,15-06-78,Kingston,Harbour  View,Sporting Kansas City,2005,USA
+28,28,Pat McGinnis,F,"5'11""",11  01,03-12-82,Colorado  Springs,Colorado  College,Sporting Kansas City,2005,USA
+29,29,Ryan Pore,F,"5'11""",11  11,23-09-83,"Mansfield,  OH",Tulsa  Univ,Sporting Kansas City,2005,USA
+30,30,Martin Hutton,G,"6'01""",13  03,21-01-82,Spring,Univ  of St Louis,Sporting Kansas City,2005,USA
 1,1,Steve Cronin,G,"6'02""",13  13,28-05-83,Sacramento,Santa  Clara Univ,Los Angeles Galaxy,2005,USA
 2,2,Todd  Dunivant,D,6'00'',12  06,26-12-80,Wheat  Ridge,San  Jose Earthquakes,Los Angeles Galaxy,2005,USA
 3,3,Michael Umana,D,6'00'',11  07,16-07-82,San Jose,Herediano,Los Angeles Galaxy,2005,USA
@@ -226,37 +226,37 @@
 28,28,Paulo Nagamura,M,"5'08""",11  00,05-02-83,São Paulo,Alajuelense,Los Angeles Galaxy,2005,USA
 29,29,Ednaldo da  Conceição,F,"6'03""",12  04,06-02-76,Rio de  Janeiro,St  Gallen,Los Angeles Galaxy,2005,USA
 41,99,Marcelo Saragosa,M,"5'11""",11  04,22-01-82,Campo Grande,São Paulo,Los Angeles Galaxy,2005,USA
-1,1,Tony Meola,G,"6'01""",14  09,21-02-69,Belleville,Kansas City  Wizards,MetroStars,2005,USA
-2,2,Tim Ward,D,"6'00""",11  11,28-02-87,Waukesha,St Louis Univ,MetroStars,2005,USA
-3,3,Chris  Leitch,D,5'11'',11  11,01-04-79,Columbus,Columbus Crew,MetroStars,2005,USA
-4,4,Carlos Mendes,D,"5'10""",11  11,25-12-80,Mineola,Rochester Raging  Rhinos,MetroStars,2005,USA
-5,5,Jeff Parke,D,"6'01""",11  06,23-03-82,Downington,Drexel Univ,MetroStars,2005,USA
-6,6,Seth Stammler,D,"5'10""",11  12,29-09-81,Columbus,Univ of Maryland,MetroStars,2005,USA
-7,7,Mike  Magee,F,5'09'',10  10,02-09-84,Chicago,US U-20s,MetroStars,2005,USA
-8,8,Mark  Lisi,M,6'01'',11  11,11-10-77,Englewood,DC  United,MetroStars,2005,USA
-9,9,Sergio Galvan Rey,F,"5'08""",10  05,09-06-73,Concepcion,Once Caldas,MetroStars,2005,USA
-10,10,Youri Djorkaeff,M,"5'10""",11 07,09-03-68,Lyon,Blackburn  R,MetroStars,2005,USA
-11,11,Abbe Ibrahim,F,"5'09""",11 01,25-07-86,Lomé,FC Espoir,MetroStars,2005,USA
-12,12,Jeff  Agoos,D,5'10'',12  07,02-05-68,Geneva,San  Jose Earthquakes,MetroStars,2005,USA
-13,13,Zach Wells,G,"6'02""",13  05,26-02-81,Costa Mesa,UCLA,MetroStars,2005,USA
-14,14,Chris Corcoran,M,"5'09""",11  11,30-03-83,Marshfield,Cape Cod Crusaders,MetroStars,2005,USA
-15,15,Eric  Quill,F,6'00'',11  11,28-02-78,Missouri  City,FC  Dallas,MetroStars,2005,USA
-16,16,Michael Bradley,M,"6'01""",11  11,31-07-87,Princeton,Chicago Sockers,MetroStars,2005,USA
-17,17,Ramon Bailey,M,"5'11""",11  06,22-02-84,Bronx,Mercer Comm  College,MetroStars,2005,USA
-18,18,Michael Ueltschey,G,"6'02""",13  13,14-04-80,Jackson,Cincinnati  Riverhawks,MetroStars,2005,USA
-20,20,Amado  Guevera,M,5'11'',11  11,02-05-76,Tegucigalpa,CD  Motagua,MetroStars,2005,USA
-21,21,Jason Hernandez,D,"5'10""",11  06,26-08-83,Englewood,Seton Hall Univ,MetroStars,2005,USA
-22,22,Tim  Regan,D,6'01'',12  02,27-06-81,Orland  Hills,Bradley  Univ,MetroStars,2005,USA
-23,23,Danilo da Silva,D,"6'02""",12  07,26-11-86,Campinas,Pinhalense,MetroStars,2005,USA
-24,24,Eddie  Gaven,M,6'00'',10  05,25-10-86,"Hamilton,  NJ",Hibernian,MetroStars,2005,USA
-30,30,Ryan  Suarez,D,6'02'',13  03,28-07-77,Sacramento,Chivas  USA,MetroStars,2005,USA
-33,33,Daniel Garipe,M,"5'10""",12  06,07-05-81,San  Juan,Godoy  Cruz (Mendoza),MetroStars,2005,USA
-41,99,Ante  Razov,F,6'01'',12  07,02-03-74,Los  Angeles,Columbus  Crew,MetroStars,2005,USA
+1,1,Tony Meola,G,"6'01""",14  09,21-02-69,Belleville,Kansas City  Wizards,New York Red Bulls,2005,USA
+2,2,Tim Ward,D,"6'00""",11  11,28-02-87,Waukesha,St Louis Univ,New York Red Bulls,2005,USA
+3,3,Chris  Leitch,D,5'11'',11  11,01-04-79,Columbus,Columbus Crew,New York Red Bulls,2005,USA
+4,4,Carlos Mendes,D,"5'10""",11  11,25-12-80,Mineola,Rochester Raging  Rhinos,New York Red Bulls,2005,USA
+5,5,Jeff Parke,D,"6'01""",11  06,23-03-82,Downington,Drexel Univ,New York Red Bulls,2005,USA
+6,6,Seth Stammler,D,"5'10""",11  12,29-09-81,Columbus,Univ of Maryland,New York Red Bulls,2005,USA
+7,7,Mike  Magee,F,5'09'',10  10,02-09-84,Chicago,US U-20s,New York Red Bulls,2005,USA
+8,8,Mark  Lisi,M,6'01'',11  11,11-10-77,Englewood,DC  United,New York Red Bulls,2005,USA
+9,9,Sergio Galvan Rey,F,"5'08""",10  05,09-06-73,Concepcion,Once Caldas,New York Red Bulls,2005,USA
+10,10,Youri Djorkaeff,M,"5'10""",11 07,09-03-68,Lyon,Blackburn  R,New York Red Bulls,2005,USA
+11,11,Abbe Ibrahim,F,"5'09""",11 01,25-07-86,Lomé,FC Espoir,New York Red Bulls,2005,USA
+12,12,Jeff  Agoos,D,5'10'',12  07,02-05-68,Geneva,San  Jose Earthquakes,New York Red Bulls,2005,USA
+13,13,Zach Wells,G,"6'02""",13  05,26-02-81,Costa Mesa,UCLA,New York Red Bulls,2005,USA
+14,14,Chris Corcoran,M,"5'09""",11  11,30-03-83,Marshfield,Cape Cod Crusaders,New York Red Bulls,2005,USA
+15,15,Eric  Quill,F,6'00'',11  11,28-02-78,Missouri  City,FC  Dallas,New York Red Bulls,2005,USA
+16,16,Michael Bradley,M,"6'01""",11  11,31-07-87,Princeton,Chicago Sockers,New York Red Bulls,2005,USA
+17,17,Ramon Bailey,M,"5'11""",11  06,22-02-84,Bronx,Mercer Comm  College,New York Red Bulls,2005,USA
+18,18,Michael Ueltschey,G,"6'02""",13  13,14-04-80,Jackson,Cincinnati  Riverhawks,New York Red Bulls,2005,USA
+20,20,Amado  Guevera,M,5'11'',11  11,02-05-76,Tegucigalpa,CD  Motagua,New York Red Bulls,2005,USA
+21,21,Jason Hernandez,D,"5'10""",11  06,26-08-83,Englewood,Seton Hall Univ,New York Red Bulls,2005,USA
+22,22,Tim  Regan,D,6'01'',12  02,27-06-81,Orland  Hills,Bradley  Univ,New York Red Bulls,2005,USA
+23,23,Danilo da Silva,D,"6'02""",12  07,26-11-86,Campinas,Pinhalense,New York Red Bulls,2005,USA
+24,24,Eddie  Gaven,M,6'00'',10  05,25-10-86,"Hamilton,  NJ",Hibernian,New York Red Bulls,2005,USA
+30,30,Ryan  Suarez,D,6'02'',13  03,28-07-77,Sacramento,Chivas  USA,New York Red Bulls,2005,USA
+33,33,Daniel Garipe,M,"5'10""",12  06,07-05-81,San  Juan,Godoy  Cruz (Mendoza),New York Red Bulls,2005,USA
+41,99,Ante  Razov,F,6'01'',12  07,02-03-74,Los  Angeles,Columbus  Crew,New York Red Bulls,2005,USA
 1,1,Matt  Reis,G,6'01'',14  00,28-03-75,Atlanta,LA  Galaxy,New England Revolution,2005,USA
 2,2,Clint Dempsey,M,"6'01""",12  02,09-03-83,Nacogdoches,Furman Univ,New England Revolution,2005,USA
 3,3,Daniel  Hernandez,D,"5'11""",11  09,23-07-76,Tyler,Necaxa,New England Revolution,2005,USA
 4,4,Avery  John,D,"6'00""",12  02,18-06-75,Point  Fortin,Longford  T,New England Revolution,2005,USA
-5,5,Gilberto Flores,M,"5'09""",11  06,05-07-83,Toledo,MetroStars,New England Revolution,2005,USA
+5,5,Gilberto Flores,M,"5'09""",11  06,05-07-83,Toledo,New York Red Bulls,New England Revolution,2005,USA
 6,6,Jay  Heaps,M,5'09'',10  10,02-08-76,Nashua,Miami  Fusion,New England Revolution,2005,USA
 7,7,José Cancela,M,5'09'',10  11,25-06-76,Santa Lucia,CD Saprissa,New England Revolution,2005,USA
 8,8,Joe  Franchino,D,5'07'',10  00,08-08-76,Fontana,LA  Galaxy,New England Revolution,2005,USA
@@ -284,7 +284,7 @@
 2,2,Nelson  Akwari,D,6'01'',12  12,04-02-82,Houston,Columbus Crew,Real Salt Lake,2005,USA
 3,3,Rusty  Pierce,D,5'10'',11  11,24-07-79,The  Woodlands,New  England Revolution,Real Salt Lake,2005,USA
 4,4,Paul  Broome,M,5'09'',10  10,06-06-76,Dallas,LA  Galaxy,Real Salt Lake,2005,USA
-5,5,Brian  Kamler,M,6'01'',12  07,12-02-72,St Louis,MetroStars,Real Salt Lake,2005,USA
+5,5,Brian  Kamler,M,6'01'',12  07,12-02-72,St Louis,New York Red Bulls,Real Salt Lake,2005,USA
 6,6,Jordan  Cila,M,"5'10""",11  11,11-04-82,"Jericho,  NY",Colorado  Rapids,Real Salt Lake,2005,USA
 7,7,Andy  Williams,M,5'08'',11  01,23-09-77,Toronto,Chicago  Fire,Real Salt Lake,2005,USA
 8,8,Adolfo Gregorio,M,"5'09""",11  11,01-10-82,Hilmar,Darlington,Real Salt Lake,2005,USA
@@ -301,7 +301,7 @@
 20,20,Nikolas  Besagno,M,"6'00""",12  07,15-11-88,Maple  Valley,US  U-17s,Real Salt Lake,2005,USA
 21,21,Sergio  Flores,D,5'11'',12  00,22-02-85,,El  Tigre,Real Salt Lake,2005,USA
 22,22,Jamie  Watson,F,"5'09""",10  10,10-04-86,Dallas,Univ  of Nth Carolina,Real Salt Lake,2005,USA
-23,23,Eddie  Pope,D,6'00'',12  07,24-12-73,High Point,MetroStars,Real Salt Lake,2005,USA
+23,23,Eddie  Pope,D,6'00'',12  07,24-12-73,High Point,New York Red Bulls,Real Salt Lake,2005,USA
 24,24,Seth Trembly,M,"5'06""",10  00,21-03-82,Littleton,Colorado Rapids,Real Salt Lake,2005,USA
 25,25,Gustavo Cabrera,D,"5'11""",12 01,24-08-71,Puerto Barrios,CSD Comunicaciones,Real Salt Lake,2005,USA
 27,27,Kevin Novak,M,"5'08""",10  10,01-09-82,Huntington Beach,Loyola Marymount  Univ,Real Salt Lake,2005,USA
@@ -319,7 +319,7 @@
 9,9,Brian  Mullan,F,5'08'',10  10,23-04-78,Mineola,LA  Galaxy,San Jose Earthquakes,2005,USA
 11,11,Brad  Davis,M,5'11'',11  11,08-11-81,St  Charles,Dallas Burn,San Jose Earthquakes,2005,USA
 12,12,Mark  Chung,M,5'07'',11  01,18-06-70,Toronto,Colorado  Rapids,San Jose Earthquakes,2005,USA
-13,13,Ricardo  Clark,M,5'10'',10  10,10-02-83,Atlanta,MetroStars,San Jose Earthquakes,2005,USA
+13,13,Ricardo  Clark,M,5'10'',10  10,10-02-83,Atlanta,New York Red Bulls,San Jose Earthquakes,2005,USA
 14,14,Dwayne  DeRosario,F,5'10'',11  10,15-05-78,Scarborough [CAN],Richmond  Kickers,San Jose Earthquakes,2005,USA
 15,15,Alejandro  Moreno,F,5'09'',12  02,08-07-79,Barquisimeto,LA Galaxy,San Jose Earthquakes,2005,USA
 16,16,Craig  Waibel,D,6'02'',13  13,21-08-75,Portland,LA  Galaxy,San Jose Earthquakes,2005,USA

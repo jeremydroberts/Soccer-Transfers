@@ -40,7 +40,7 @@
 15,15,Jesse  Marsch,USA,M,1.80,77,08-11-73,Racine,Chicago  Fire,Chivas USA,2009,USA
 16,16,Sacha Kljestan,USA,M,1.85,68,09-09-85,Huntington  Beach,Seton  Hall Univ,Chivas USA,2009,USA
 17,17,Justin Braun,USA,F,1.91,87,31-03-87,Salt Lake City,Olympique Montreux,Chivas USA,2009,USA
-18,18,Sasha  Victorine,USA,M,1.88,77,03-02-78,Santa Ana,Kansas City Wizards,Chivas USA,2009,USA
+18,18,Sasha  Victorine,USA,M,1.88,77,03-02-78,Santa Ana,Sporting Kansas City,Chivas USA,2009,USA
 19,19,Jorge Flores,USA,F,1.75,75,16-09-89,Anaheim,None,Chivas USA,2009,USA
 21,21,Lance Parker,USA,G,1.93,87,19-08-85,Oklahoma City,Missouri State Univ,Chivas USA,2009,USA
 22,22,Zach  Thornton,USA,G,1.91,104,10-10-73,Baltimore,New York Red Bulls,Chivas USA,2009,USA
@@ -76,7 +76,7 @@
 27,27,Kosuke Kimura,JPN,M,1.55,69,14-05-84,Kobe,Western Illinois Univ,Colorado Rapids,2009,USA
 29,29,Scott Palguta,USA,D,1.88,88,23-08-82,Toms River,Rochester Rhinos,Colorado Rapids,2009,USA
 35,35,Rob Valentino,USA,D,1.90,86,21-12-85,Hoffman Estates,New England Revolution,Colorado Rapids,2009,USA
-1,1,Will Hesmer,USA,G,1.88,88,23-11-81,Wilson,Kansas City Wizards,Columbus Crew,2009,USA
+1,1,Will Hesmer,USA,G,1.88,88,23-11-81,Wilson,Sporting Kansas City,Columbus Crew,2009,USA
 2,2,Frankie  Hejduk,USA,D,1.74,71,05-08-74,La Mesa,St  Gallen,Columbus Crew,2009,USA
 3,3,Alex Grendi,USA,M,1.80,75,28-07-87,"Huntingdon, NY",UPenn,Columbus Crew,2009,USA
 4,4,Gino Padula,ARG,D,1.75,81,11-08-76,Lanús,Montpellier,Columbus Crew,2009,USA
@@ -164,7 +164,7 @@
 7,7,Luis Ángel Landín,MEX,F,1.82,73,23-07-85,Zamora,Morelia,Houston Dynamo,2009,USA
 8,8,Richard  Mulrooney,USA,M,1.75,73,03-11-76,Memphis,Toronto FC,Houston Dynamo,2009,USA
 9,9,Brian  Mullan,USA,F,1.73,68,23-04-78,Mineola,LA  Galaxy,Houston Dynamo,2009,USA
-10,10,Abe  Thompson,USA,F,1.83,77,12-01-82,Fairfax  Station,Kansas City Wizards,Houston Dynamo,2009,USA
+10,10,Abe  Thompson,USA,F,1.83,77,12-01-82,Fairfax  Station,Sporting Kansas City,Houston Dynamo,2009,USA
 11,11,Brad  Davis,USA,M,1.80,75,08-11-81,St  Charles,Dallas Burn,Houston Dynamo,2009,USA
 13,13,Ricardo Clark,USA,M,1.78,68,10-02-83,Atlanta,MetroStars,Houston Dynamo,2009,USA
 15,15,Cam Weaver,USA,F,1.93,86,10-06-83,"Kent, WA",San Jose Earthquakes,Houston Dynamo,2009,USA
@@ -181,32 +181,32 @@
 30,30,Tyler Deric,USA,G,1.91,84,30-08-88,Spring,Univ of Nth Carolina,Houston Dynamo,2009,USA
 31,31,André Hainault,CAN,D,1.83,79,17-06-86,Montreal,Most,Houston Dynamo,2009,USA
 32,32,Bobby  Boswell,USA,D,1.88,84,15-03-83,Tampa,DC United,Houston Dynamo,2009,USA
-1,1,Kevin  Hartman,USA,G,1.85,89,24-05-74,"Athens, OH",LA Galaxy,Kansas City Wizards,2009,USA
-2,2,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Univ of Nth Carolina,Kansas City Wizards,2009,USA
-3,3,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Kansas City Wizards,2009,USA
-5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Kansas City Wizards,2009,USA
-6,6,Lance Watson,USA,M,1.70,73,06-10-83,Nederland,Univ  of New Mexico,Kansas City Wizards,2009,USA
-7,7,Claudio López,ARG,F,1.78,75,17-07-74,Córdoba,Racing Club,Kansas City Wizards,2009,USA
-9,9,Adam Cristman,USA,F,1.83,80,08-01-85,"Washington, DC",New England Revolution,Kansas City Wizards,2009,USA
-10,10,Santiago Hirsig,ARG,M,1.72,74,12-01-79,San Isidro,San Lorenzo,Kansas City Wizards,2009,USA
-11,11,Kurt Morsink,CRC,M,1.78,73,27-06-84,San José [CRC],Bradenton Academics,Kansas City Wizards,2009,USA
-12,12,Jimmy  Conrad,USA,D,1.88,84,12-02-77,Temple  City,San Jose  Earthquakes,Kansas City Wizards,2009,USA
-13,13,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Michigan State Univ,Kansas City Wizards,2009,USA
-14,14,Jack  Jewsbury,USA,F,1.83,84,13-04-81,Joplin,St Louis  Univ,Kansas City Wizards,2009,USA
-15,15,Aaron Hohlbein,USA,D,1.83,75,16-08-85,Middleton,Univ of Wisconsin,Kansas City Wizards,2009,USA
-16,16,Josh Wolff,USA,F,1.75,72,25-02-77,Stone Mountain,1860 Munich,Kansas City Wizards,2009,USA
-17,17,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Ohio State Univ,Kansas City Wizards,2009,USA
-18,18,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Kansas City Wizards,2009,USA
-20,20,Zoltán Hercegfalvi,HUN,F,1.80,81,31-12-79,Budapest,Honvéd,Kansas City Wizards,2009,USA
-21,21,Hérculez Gómez,USA,F,1.78,75,06-04-82,Las Vegas,Colorado Rapids,Kansas City Wizards,2009,USA
-22,22,Davy  Arnuad,USA,M,1.83,75,22-06-80,Nederland,West  Texas A&M,Kansas City Wizards,2009,USA
-23,23,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale,Houston Dynamo,Kansas City Wizards,2009,USA
-24,24,Matt Marquess,USA,D,1.75,79,29-01-86,Nashville,UC Santa Clara,Kansas City Wizards,2009,USA
-25,25,Jonathan Leathers,USA,D,1.75,73,05-11-85,"Athens, GA",Furman Univ,Kansas City Wizards,2009,USA
-26,26,Kevin Souter,SCO,M,1.75,71,01-07-84,Aberdeen,Graceland Univ,Kansas City Wizards,2009,USA
-27,27,Boris Pardo,USA,G,1.88,86,22-03-84,Hillside,FC Dallas,Kansas City Wizards,2009,USA
-28,28,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Kansas City Wizards,2009,USA
-30,30,Michael Kraus,USA,M,1.75,75,10-09-84,"Memphis, TN",Creighton Univ,Kansas City Wizards,2009,USA
+1,1,Kevin  Hartman,USA,G,1.85,89,24-05-74,"Athens, OH",LA Galaxy,Sporting Kansas City,2009,USA
+2,2,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Univ of Nth Carolina,Sporting Kansas City,2009,USA
+3,3,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Sporting Kansas City,2009,USA
+5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Sporting Kansas City,2009,USA
+6,6,Lance Watson,USA,M,1.70,73,06-10-83,Nederland,Univ  of New Mexico,Sporting Kansas City,2009,USA
+7,7,Claudio López,ARG,F,1.78,75,17-07-74,Córdoba,Racing Club,Sporting Kansas City,2009,USA
+9,9,Adam Cristman,USA,F,1.83,80,08-01-85,"Washington, DC",New England Revolution,Sporting Kansas City,2009,USA
+10,10,Santiago Hirsig,ARG,M,1.72,74,12-01-79,San Isidro,San Lorenzo,Sporting Kansas City,2009,USA
+11,11,Kurt Morsink,CRC,M,1.78,73,27-06-84,San José [CRC],Bradenton Academics,Sporting Kansas City,2009,USA
+12,12,Jimmy  Conrad,USA,D,1.88,84,12-02-77,Temple  City,San Jose  Earthquakes,Sporting Kansas City,2009,USA
+13,13,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Michigan State Univ,Sporting Kansas City,2009,USA
+14,14,Jack  Jewsbury,USA,F,1.83,84,13-04-81,Joplin,St Louis  Univ,Sporting Kansas City,2009,USA
+15,15,Aaron Hohlbein,USA,D,1.83,75,16-08-85,Middleton,Univ of Wisconsin,Sporting Kansas City,2009,USA
+16,16,Josh Wolff,USA,F,1.75,72,25-02-77,Stone Mountain,1860 Munich,Sporting Kansas City,2009,USA
+17,17,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Ohio State Univ,Sporting Kansas City,2009,USA
+18,18,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Sporting Kansas City,2009,USA
+20,20,Zoltán Hercegfalvi,HUN,F,1.80,81,31-12-79,Budapest,Honvéd,Sporting Kansas City,2009,USA
+21,21,Hérculez Gómez,USA,F,1.78,75,06-04-82,Las Vegas,Colorado Rapids,Sporting Kansas City,2009,USA
+22,22,Davy  Arnuad,USA,M,1.83,75,22-06-80,Nederland,West  Texas A&M,Sporting Kansas City,2009,USA
+23,23,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale,Houston Dynamo,Sporting Kansas City,2009,USA
+24,24,Matt Marquess,USA,D,1.75,79,29-01-86,Nashville,UC Santa Clara,Sporting Kansas City,2009,USA
+25,25,Jonathan Leathers,USA,D,1.75,73,05-11-85,"Athens, GA",Furman Univ,Sporting Kansas City,2009,USA
+26,26,Kevin Souter,SCO,M,1.75,71,01-07-84,Aberdeen,Graceland Univ,Sporting Kansas City,2009,USA
+27,27,Boris Pardo,USA,G,1.88,86,22-03-84,Hillside,FC Dallas,Sporting Kansas City,2009,USA
+28,28,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Sporting Kansas City,2009,USA
+30,30,Michael Kraus,USA,M,1.75,75,10-09-84,"Memphis, TN",Creighton Univ,Sporting Kansas City,2009,USA
 1,1,Donovan Ricketts,JAM,G,1.91,92,07-06-77,Montego Bay,Village U,Los Angeles Galaxy,2009,USA
 2,2,Todd  Dunivant,CAN,D,1.83,79,26-12-80,Wheat  Ridge,Toronto FC,Los Angeles Galaxy,2009,USA
 3,3,Leonard  Griffin,USA,D,1.85,84,11-09-82,Pasadena,Portland Timbers,Los Angeles Galaxy,2009,USA
@@ -293,7 +293,7 @@
 10,10,Robbie Findley,USA,F,1.75,75,04-08-85,Phoenix,LA Galaxy,Real Salt Lake,2009,USA
 11,11,Javier Morales,ARG,M,1.74,64,10-01-80,Lomas de Zamora,Salamanca,Real Salt Lake,2009,USA
 12,12,Jean Alexandre,HAI,M,1.80,86,24-08-86,Delray Beach,Lynn Univ,Real Salt Lake,2009,USA
-14,14,Yura Movsisyan,ARM,F,1.83,82,06-07-87,Baku,Kansas City Wizards,Real Salt Lake,2009,USA
+14,14,Yura Movsisyan,ARM,F,1.83,82,06-07-87,Baku,Sporting Kansas City,Real Salt Lake,2009,USA
 16,16,Fabian Espíndola,ARG,F,1.75,73,04-05-85,Merlo,Deportivo Anzoátegui,Real Salt Lake,2009,USA
 17,17,Chris Wingert,USA,D,1.78,70,16-06-82,Babylon,Colorado Rapids,Real Salt Lake,2009,USA
 18,18,Nick Rimando,USA,G,1.78,86,17-06-79,Montclair,DC United,Real Salt Lake,2009,USA
@@ -333,7 +333,7 @@
 2,2,Mike Fucito,USA,M,1.75,75,29-03-86,Concord,Harvard Univ,Seattle Sounders,2009,USA
 3,3,Brad Evans,USA,F,1.85,73,20-04-85,Phoenix,Columbus Crew,Seattle Sounders,2009,USA
 4,4,Patrick Ianni,USA,D,1.85,79,15-06-85,Lodi,Houston Dynamo,Seattle Sounders,2009,USA
-5,5,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport  Beach,Kansas City Wizards,Seattle Sounders,2009,USA
+5,5,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport  Beach,Sporting Kansas City,Seattle Sounders,2009,USA
 6,6,Osvaldo Alonso,CUB,M,1.80,75,11-11-85,San Cristóbal,Charleston Battery,Seattle Sounders,2009,USA
 7,7,James  Riley,USA,D,1.78,68,27-10-82,Colorado  Springs,San Jose Earthquakes,Seattle Sounders,2009,USA
 8,8,Peter  Vagenas,USA,M,1.73,71,06-02-78,Pasadena,LA Galaxy,Seattle Sounders,2009,USA

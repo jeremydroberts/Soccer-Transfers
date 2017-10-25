@@ -47,14 +47,14 @@
 26,26,Paulo Nagamura,BRA,M,1.73,70,05-02-83,São Paulo,UANL Tigres,Chivas USA,2010,USA
 28,28,Cesar Zamora,USA,M,1.80,69,27-05-91,Granada Hills,None,Chivas USA,2010,USA
 32,32,Kevin Guppy,USA,G,1.85,84,29-01-87,Fullerton,Cal State Northridge,Chivas USA,2010,USA
-33,33,Alex Zotincă,ROU,D,1.83,77,22-01-77,Sibiu,Kansas City Wizards,Chivas USA,2010,USA
+33,33,Alex Zotincă,ROU,D,1.83,77,22-01-77,Sibiu,Sporting Kansas City,Chivas USA,2010,USA
 41,45,Yamith Cuesta,COL,D,1.90,80,17-04-89,Turbo,Expreso Rojo,Chivas USA,2010,USA
 42,59,Bryan de la Fuente,USA,M,1.75,70,01-07-92,Laredo,Guadalajara,Chivas USA,2010,USA
 2,2,Danny Earls,IRL,D,1.78,73,22-04-89,Dublin,Rochester Rhinos,Colorado Rapids,2010,USA
 3,3,Drew  Moor,USA,D,1.83,77,15-01-84,Dallas,FC Dallas,Colorado Rapids,2010,USA
 4,4,Jeff  Larentowicz,USA,D,1.85,79,05-08-83,West  Chester,New England Revolution,Colorado Rapids,2010,USA
 6,6,Anthony Wallace,USA,M,1.80,80,26-01-89,"St Petersburg, FL",FC Dallas,Colorado Rapids,2010,USA
-7,7,Claudio López,ARG,F,1.78,75,17-07-74,Córdoba,Kansas City Wizards,Colorado Rapids,2010,USA
+7,7,Claudio López,ARG,F,1.78,75,17-07-74,Córdoba,Sporting Kansas City,Colorado Rapids,2010,USA
 9,9,Conor Casey,USA,F,1.88,85,25-07-81,New  Hampshire,Toronto FC,Colorado Rapids,2010,USA
 10,10,Macoumba Kandji,SEN,F,1.93,79,02-08-85,Dakar,New York Red Bulls,Colorado Rapids,2010,USA
 11,11,Brian  Mullan,USA,F,1.73,68,23-04-78,Mineola,Houston Dynamo,Colorado Rapids,2010,USA
@@ -75,7 +75,7 @@
 28,28,Davy Armstrong,USA,M,1.78,68,03-11-91,Aurora,None,Colorado Rapids,2010,USA
 29,29,Scott Palguta,USA,D,1.88,88,23-08-82,Toms River,Rochester Rhinos,Colorado Rapids,2010,USA
 31,31,Steward Ceus,HAI,G,1.98,93,26-03-87,West Haverstraw,Univ of Albany,Colorado Rapids,2010,USA
-1,1,Will Hesmer,USA,G,1.88,88,23-11-81,Wilson,Kansas City Wizards,Columbus Crew,2010,USA
+1,1,Will Hesmer,USA,G,1.88,88,23-11-81,Wilson,Sporting Kansas City,Columbus Crew,2010,USA
 2,2,Frankie  Hejduk,USA,D,1.74,71,05-08-74,La Mesa,St  Gallen,Columbus Crew,2010,USA
 3,3,Josh Williams,USA,D,1.88,87,18-04-88,Akron,Cleveland State Univ,Columbus Crew,2010,USA
 4,4,Gino Padula,ARG,D,1.75,81,11-08-76,Lanús,Montpellier,Columbus Crew,2010,USA
@@ -99,7 +99,7 @@
 29,29,Shaun Francis,JAM,D,1.83,75,02-10-86,Mandeville,Lindsey Wilson College,Columbus Crew,2010,USA
 30,30,Andy Gruenebaum,USA,G,1.85,91,30-12-82,Overland Park,Des Moines Menace,Columbus Crew,2010,USA
 32,32,Steven Lenhart,USA,F,1.86,86,28-08-86,Jacksonville,Azusa Pacific Univ,Columbus Crew,2010,USA
-1,1,Kevin  Hartman,USA,G,1.85,89,24-05-74,"Athens, OH",Kansas City Wizards,FC Dallas,2010,USA
+1,1,Kevin  Hartman,USA,G,1.85,89,24-05-74,"Athens, OH",Sporting Kansas City,FC Dallas,2010,USA
 2,2,Daniel Hernández,USA,D,1.71,81,23-07-76,Tyler,Necaxa,FC Dallas,2010,USA
 3,3,Ugo Ihemelu,USA,D,1.83,81,03-04-83,Cedar Hill,Colorado Rapids,FC Dallas,2010,USA
 4,4,Heath Pearce,USA,D,1.80,77,13-08-84,Modesto,Hansa Rostock,FC Dallas,2010,USA
@@ -131,8 +131,8 @@
 3,3,Juan Manuel Peña,BOL,D,1.83,75,17-01-73,La Paz,Celta Vigo,D.C. United,2010,USA
 4,4,Marc Burch,USA,D,1.88,86,07-05-84,Cincinnati,Colombus Crew,D.C. United,2010,USA
 5,5,Dejan Jaković,CAN,D,1.90,80,16-07-85,Karlovac,Crvena Zvezda,D.C. United,2010,USA
-6,6,Kurt Morsink,CRC,M,1.78,73,27-06-84,San José [CRC],Kansas City Wizards,D.C. United,2010,USA
-7,7,Adam Cristman,USA,F,1.83,80,08-01-85,"Washington, DC",Kansas City Wizards,D.C. United,2010,USA
+6,6,Kurt Morsink,CRC,M,1.78,73,27-06-84,San José [CRC],Sporting Kansas City,D.C. United,2010,USA
+7,7,Adam Cristman,USA,F,1.83,80,08-01-85,"Washington, DC",Sporting Kansas City,D.C. United,2010,USA
 9,9,Danny Allsopp,AUS,F,1.85,90,10-08-78,Melbourne,Al-Rayyan,D.C. United,2010,USA
 11,11,Carlos Varela,ESP,M,1.76,71,15-09-77,A Laracha,Neuchâtel  Xamax,D.C. United,2010,USA
 12,12,Jed Zayner,USA,D,1.80,75,13-12-84,Orland Park,Columbus Crew,D.C. United,2010,USA
@@ -177,31 +177,31 @@
 33,33,Joseph Ngwenya,ZIM,F,1.85,79,30-03-81,Plumtree,Antalyaspor,Houston Dynamo,2010,USA
 35,35,Anthony Obodai,NED,M,1.72,70,06-08-82,Accra,RKC Waalwijk,Houston Dynamo,2010,USA
 41,51,Adrian Serioux,CAN,D,1.83,81,12-05-79,Scarborough [CAN],Toronto FC,Houston Dynamo,2010,USA
-1,1,Jimmy Nielsen,DEN,G,1.91,90,06-08-77,Aalborg,Vejle,Kansas City Wizards,2010,USA
-2,2,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Univ of Nth Carolina,Kansas City Wizards,2010,USA
-3,3,Korede Aiyegbusi,ENG,D,1.65,70,15-07-88,London,Nth Carolina State Univ,Kansas City Wizards,2010,USA
-4,4,Craig  Rocastle,GRN,D,1.88,76,17-08-81,Lewisham,Forest Green R,Kansas City Wizards,2010,USA
-5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Kansas City Wizards,2010,USA
-6,6,Shavar Thomas,JAM,D,1.85,88,29-01-81,Hannah Town,Philadelphia Union,Kansas City Wizards,2010,USA
-7,7,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Kansas City Wizards,2010,USA
-8,8,Stéphane Auvray,FRA,M,1.74,71,04-09-81,Les Abymes,Nîmes,Kansas City Wizards,2010,USA
-9,9,Teal Bunbury,CAN,F,1.88,79,27-02-90,Hamilton [CAN],Univ of Akron,Kansas City Wizards,2010,USA
-11,11,Ryan  Smith,ENG,M,1.75,67,10-11-86,Islington,Crystal Palace,Kansas City Wizards,2010,USA
-12,12,Jimmy  Conrad,USA,D,1.88,84,12-02-77,Temple  City,San Jose  Earthquakes,Kansas City Wizards,2010,USA
-14,14,Jack  Jewsbury,USA,F,1.83,84,13-04-81,Joplin,St Louis  Univ,Kansas City Wizards,2010,USA
-16,16,Josh Wolff,USA,F,1.75,72,25-02-77,Stone Mountain,1860 Munich,Kansas City Wizards,2010,USA
-17,17,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Ohio State Univ,Kansas City Wizards,2010,USA
-18,18,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Kansas City Wizards,2010,USA
-19,19,Sunil Chhetri,IND,F,1.70,70,03-08-84,Secunderabad,Dempo SC,Kansas City Wizards,2010,USA
-20,20,Zoltán Hercegfalvi,HUN,F,1.80,81,31-12-79,Budapest,Honvéd,Kansas City Wizards,2010,USA
-21,21,Jon Kempin,USA,G,1.85,77,08-04-93,Leawood,None,Kansas City Wizards,2010,USA
-22,22,Davy  Arnuad,USA,M,1.83,75,22-06-80,Nederland,West  Texas A&M,Kansas City Wizards,2010,USA
-23,23,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale,Houston Dynamo,Kansas City Wizards,2010,USA
-24,24,Jamar Beasley,USA,M,1.75,68,11-10-79,Fort Wayne,Rockford Rampage,Kansas City Wizards,2010,USA
-25,25,Jonathan Leathers,USA,D,1.75,73,05-11-85,"Athens, GA",Furman Univ,Kansas City Wizards,2010,USA
-27,27,Birahim Diop,SEN,M,1.91,82,07-02-79,Thiès,Tiligul-Tiras Tiraspol,Kansas City Wizards,2010,USA
-28,28,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Kansas City Wizards,2010,USA
-32,32,Nikos Kounenakis,GRE,M,1.85,79,03-02-78,Port Elizabeth,Aris Limassol,Kansas City Wizards,2010,USA
+1,1,Jimmy Nielsen,DEN,G,1.91,90,06-08-77,Aalborg,Vejle,Sporting Kansas City,2010,USA
+2,2,Michael Harrington,USA,D,1.83,77,24-01-86,Greenville,Univ of Nth Carolina,Sporting Kansas City,2010,USA
+3,3,Korede Aiyegbusi,ENG,D,1.65,70,15-07-88,London,Nth Carolina State Univ,Sporting Kansas City,2010,USA
+4,4,Craig  Rocastle,GRN,D,1.88,76,17-08-81,Lewisham,Forest Green R,Sporting Kansas City,2010,USA
+5,5,Matt Besler,USA,D,1.83,77,11-02-87,Overland Park,Univ of Notre Dame,Sporting Kansas City,2010,USA
+6,6,Shavar Thomas,JAM,D,1.85,88,29-01-81,Hannah Town,Philadelphia Union,Sporting Kansas City,2010,USA
+7,7,Chance Myers,USA,D,1.83,75,07-12-87,"Valencia, CA",UCLA,Sporting Kansas City,2010,USA
+8,8,Stéphane Auvray,FRA,M,1.74,71,04-09-81,Les Abymes,Nîmes,Sporting Kansas City,2010,USA
+9,9,Teal Bunbury,CAN,F,1.88,79,27-02-90,Hamilton [CAN],Univ of Akron,Sporting Kansas City,2010,USA
+11,11,Ryan  Smith,ENG,M,1.75,67,10-11-86,Islington,Crystal Palace,Sporting Kansas City,2010,USA
+12,12,Jimmy  Conrad,USA,D,1.88,84,12-02-77,Temple  City,San Jose  Earthquakes,Sporting Kansas City,2010,USA
+14,14,Jack  Jewsbury,USA,F,1.83,84,13-04-81,Joplin,St Louis  Univ,Sporting Kansas City,2010,USA
+16,16,Josh Wolff,USA,F,1.75,72,25-02-77,Stone Mountain,1860 Munich,Sporting Kansas City,2010,USA
+17,17,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Ohio State Univ,Sporting Kansas City,2010,USA
+18,18,Eric Kronberg,USA,G,1.96,95,07-06-83,Santa Rosa,Univ of California,Sporting Kansas City,2010,USA
+19,19,Sunil Chhetri,IND,F,1.70,70,03-08-84,Secunderabad,Dempo SC,Sporting Kansas City,2010,USA
+20,20,Zoltán Hercegfalvi,HUN,F,1.80,81,31-12-79,Budapest,Honvéd,Sporting Kansas City,2010,USA
+21,21,Jon Kempin,USA,G,1.85,77,08-04-93,Leawood,None,Sporting Kansas City,2010,USA
+22,22,Davy  Arnuad,USA,M,1.83,75,22-06-80,Nederland,West  Texas A&M,Sporting Kansas City,2010,USA
+23,23,Kei Kamara,SLE,F,1.88,75,01-09-84,Lawndale,Houston Dynamo,Sporting Kansas City,2010,USA
+24,24,Jamar Beasley,USA,M,1.75,68,11-10-79,Fort Wayne,Rockford Rampage,Sporting Kansas City,2010,USA
+25,25,Jonathan Leathers,USA,D,1.75,73,05-11-85,"Athens, GA",Furman Univ,Sporting Kansas City,2010,USA
+27,27,Birahim Diop,SEN,M,1.91,82,07-02-79,Thiès,Tiligul-Tiras Tiraspol,Sporting Kansas City,2010,USA
+28,28,Graham Zusi,USA,M,1.78,70,08-08-86,Longwood,Univ of Maryland,Sporting Kansas City,2010,USA
+32,32,Nikos Kounenakis,GRE,M,1.85,79,03-02-78,Port Elizabeth,Aris Limassol,Sporting Kansas City,2010,USA
 1,1,Donovan Ricketts,JAM,G,1.91,92,07-06-77,Montego Bay,Village U,Los Angeles Galaxy,2010,USA
 2,2,Todd  Dunivant,CAN,D,1.83,79,26-12-80,Wheat  Ridge,Toronto FC,Los Angeles Galaxy,2010,USA
 4,4,Omar Gonzalez,USA,D,1.96,95,11-10-88,Dallas,Univ of Maryland,Los Angeles Galaxy,2010,USA
@@ -325,7 +325,7 @@
 24,24,Kyle Reynish,USA,G,1.91,91,03-11-83,"Valencia, CA",UC Santa Barbara,Real Salt Lake,2010,USA
 26,26,Collen Warner,USA,M,1.78,70,24-06-88,Denver,Univ of Portland,Real Salt Lake,2010,USA
 28,28,Chris Schuler,USA,D,1.93,88,06-09-87,St Louis,Creighton Univ,Real Salt Lake,2010,USA
-30,30,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Kansas City Wizards,Real Salt Lake,2010,USA
+30,30,Rauwshan McKenzie,USA,D,1.85,84,19-11-86,Hoffman Estates,Sporting Kansas City,Real Salt Lake,2010,USA
 41,77,Andy  Williams,JAM,M,1.73,75,23-09-77,Toronto,Chicago  Fire,Real Salt Lake,2010,USA
 1,1,Joe  Cannon,USA,G,1.88,86,01-01-75,Sun  Valley,LA Galaxy,San Jose Earthquakes,2010,USA
 2,2,Bobby Burling,USA,D,1.96,87,15-10-85,Clear Lake City,Chivas USA,San Jose Earthquakes,2010,USA
@@ -355,7 +355,7 @@
 2,2,Mike Fucito,USA,M,1.75,75,29-03-86,Concord,Harvard Univ,Seattle Sounders,2010,USA
 3,3,Brad Evans,USA,F,1.85,73,20-04-85,Phoenix,Columbus Crew,Seattle Sounders,2010,USA
 4,4,Patrick Ianni,USA,D,1.85,79,15-06-85,Lodi,Houston Dynamo,Seattle Sounders,2010,USA
-5,5,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport  Beach,Kansas City Wizards,Seattle Sounders,2010,USA
+5,5,Tyson Wahl,USA,D,1.88,84,23-02-84,Newport  Beach,Sporting Kansas City,Seattle Sounders,2010,USA
 6,6,Osvaldo Alonso,CUB,M,1.80,75,11-11-85,San Cristóbal,Charleston Battery,Seattle Sounders,2010,USA
 7,7,James  Riley,USA,D,1.78,68,27-10-82,Colorado  Springs,San Jose Earthquakes,Seattle Sounders,2010,USA
 8,8,Peter  Vagenas,USA,M,1.73,71,06-02-78,Pasadena,LA Galaxy,Seattle Sounders,2010,USA

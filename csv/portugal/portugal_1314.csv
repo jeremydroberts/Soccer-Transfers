@@ -1,30 +1,30 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Romuald Peiser,FRA,G,1.87,79,03-08-79,Phalsbourg,Naval,Acadйmica,2013,Portuguese
-2,2,João Dias,POR,D,1.80,70,23-12-86,Braga,Trofense,Acadйmica,2013,Portuguese
-3,3,Aníbal,POR,D,1.88,84,08-05-91,Vila Verde,Sporting Braga,Acadйmica,2013,Portuguese
-5,5,Rafik Halliche,ALG,D,1.87,77,02-09-86,Algiers,Fulham,Acadйmica,2013,Portuguese
-6,6,Djavan,BRA,D,1.84,72,31-12-87,Serrinha,Corinthians Alagoano,Acadйmica,2013,Portuguese
-7,7,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Acadйmica,2013,Portuguese
-8,8,Makalele,BRA,M,1.73,65,26-02-85,Salvador,ABC,Acadйmica,2013,Portuguese
-10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Olhanense,Acadйmica,2013,Portuguese
-11,11,Manoel,BRA,F,1.85,75,01-02-89,Porto Esperidão,Grêmio Anápolis,Acadйmica,2013,Portuguese
-12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Acadйmica,2013,Portuguese
-13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Acadйmica,2013,Portuguese
-16,16,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Penafiel,Acadйmica,2013,Portuguese
-18,18,Moussa Guèye,SEN,F,1.85,78,20-02-89,Dakar,Metz,Acadйmica,2013,Portuguese
-20,20,Cleyton,BRA,M,1.75,60,24-02-90,Mato Grosso do Sul,Corinthians Alagoano,Acadйmica,2013,Portuguese
-21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,União de Leiria,Acadйmica,2013,Portuguese
-23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,CFR Cluj,Acadйmica,2013,Portuguese
-24,24,Fábio Santos,POR,G,1.87,80,14-11-92,Penafiel,None,Acadйmica,2013,Portuguese
-25,25,Paulo Grilo,POR,M,1.80,72,19-08-91,Figueira da Foz,Sporting Covilhã,Acadйmica,2013,Portuguese
-28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Olhanense,Acadйmica,2013,Portuguese
-30,30,John Ogu,NGA,M,1.92,84,20-04-88,Akwa,União de Leiria,Acadйmica,2013,Portuguese
-35,35,Reiner Ferreira,BRA,D,1.85,74,17-11-85,São Paulo,Corinthians Alagoano,Acadйmica,2013,Portuguese
-41,63,Elton Monteiro,SUI,D,1.92,85,22-02-94,Sion,Club Brugge,Acadйmica,2013,Portuguese
-42,65,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Olhanense,Acadйmica,2013,Portuguese
-43,77,Salvador Agra,POR,F,1.66,60,11-11-91,Vila do Conde,Sporting Braga,Acadйmica,2013,Portuguese
-44,87,Marcelo Goiano,BRA,D,1.74,66,13-10-87,Goiânia,Grêmio Anápolis,Acadйmica,2013,Portuguese
-45,99,Judikael Magique,CIV,M,1.80,75,21-01-93,Abidjan,None,Acadйmica,2013,Portuguese
+1,1,Romuald Peiser,FRA,G,1.87,79,03-08-79,Phalsbourg,Naval,Académica,2013,Portuguese
+2,2,João Dias,POR,D,1.80,70,23-12-86,Braga,Trofense,Académica,2013,Portuguese
+3,3,Aníbal,POR,D,1.88,84,08-05-91,Vila Verde,Sporting Braga,Académica,2013,Portuguese
+5,5,Rafik Halliche,ALG,D,1.87,77,02-09-86,Algiers,Fulham,Académica,2013,Portuguese
+6,6,Djavan,BRA,D,1.84,72,31-12-87,Serrinha,Corinthians Alagoano,Académica,2013,Portuguese
+7,7,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Académica,2013,Portuguese
+8,8,Makalele,BRA,M,1.73,65,26-02-85,Salvador,ABC,Académica,2013,Portuguese
+10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Olhanense,Académica,2013,Portuguese
+11,11,Manoel,BRA,F,1.85,75,01-02-89,Porto Esperidão,Grêmio Anápolis,Académica,2013,Portuguese
+12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Académica,2013,Portuguese
+13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Académica,2013,Portuguese
+16,16,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Penafiel,Académica,2013,Portuguese
+18,18,Moussa Guèye,SEN,F,1.85,78,20-02-89,Dakar,Metz,Académica,2013,Portuguese
+20,20,Cleyton,BRA,M,1.75,60,24-02-90,Mato Grosso do Sul,Corinthians Alagoano,Académica,2013,Portuguese
+21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,União de Leiria,Académica,2013,Portuguese
+23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,CFR Cluj,Académica,2013,Portuguese
+24,24,Fábio Santos,POR,G,1.87,80,14-11-92,Penafiel,None,Académica,2013,Portuguese
+25,25,Paulo Grilo,POR,M,1.80,72,19-08-91,Figueira da Foz,Sporting Covilhã,Académica,2013,Portuguese
+28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Olhanense,Académica,2013,Portuguese
+30,30,John Ogu,NGA,M,1.92,84,20-04-88,Akwa,União de Leiria,Académica,2013,Portuguese
+35,35,Reiner Ferreira,BRA,D,1.85,74,17-11-85,São Paulo,Corinthians Alagoano,Académica,2013,Portuguese
+41,63,Elton Monteiro,SUI,D,1.92,85,22-02-94,Sion,Club Brugge,Académica,2013,Portuguese
+42,65,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Olhanense,Académica,2013,Portuguese
+43,77,Salvador Agra,POR,F,1.66,60,11-11-91,Vila do Conde,Sporting Braga,Académica,2013,Portuguese
+44,87,Marcelo Goiano,BRA,D,1.74,66,13-10-87,Goiânia,Grêmio Anápolis,Académica,2013,Portuguese
+45,99,Judikael Magique,CIV,M,1.80,75,21-01-93,Abidjan,None,Académica,2013,Portuguese
 2,2,Luís Dias,POR,D,1.80,78,03-01-87,Penafiel,Penafiel,Arouca,2013,Portuguese
 4,4,Miguel Oliveira,POR,D,1.89,85,18-08-83,Braga,Moreirense,Arouca,2013,Portuguese
 5,5,Ustaritz,ESP,D,1.83,75,16-02-83,Abadiño,Dinamo Tbilisi,Arouca,2013,Portuguese
@@ -255,32 +255,32 @@
 45,88,Lucas Souza,BRA,M,1.86,80,04-06-90,Santo André,Paraná,Olhanense,2013,Portuguese
 46,89,Agon Mehmeti,SWE,F,1.82,72,20-11-89,Podujevo,Palermo,Olhanense,2013,Portuguese
 47,92,Mario Sampirisi,ITA,D,1.88,83,31-10-92,Caltagirone,Genoa,Olhanense,2013,Portuguese
-1,1,Matías Degrá,ARG,G,1.91,88,18-06-83,Santa Fe,AEL Limassol,Paзos de Ferreira,2013,Portuguese
-2,2,Tiago Valente,POR,D,1.86,82,24-04-85,Macedo Cavaleiros,Desportivo das Aves,Paзos de Ferreira,2013,Portuguese
-3,3,Flávio Boaventura,BRA,D,1.83,83,12-07-87,Feira de Santana,ABC,Paзos de Ferreira,2013,Portuguese
-4,4,Romeu,POR,M,1.85,72,17-02-86,Paredes,Desportivo das Aves,Paзos de Ferreira,2013,Portuguese
-5,5,Rafael Amorim,BRA,D,1.94,90,30-07-87,Bilac,Desportivo das Aves,Paзos de Ferreira,2013,Portuguese
-8,8,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paзos de Ferreira,2013,Portuguese
-10,10,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,AEL Limassol,Paзos de Ferreira,2013,Portuguese
-13,13,Jaílson,BRA,D,1.70,67,21-01-91,,CSP,Paзos de Ferreira,2013,Portuguese
-15,15,Grégory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan,Sporting Gijón,Paзos de Ferreira,2013,Portuguese
-17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Santa Clara,Paзos de Ferreira,2013,Portuguese
-18,18,Bédi Buval,FRA,F,1.80,70,16-06-86,Domont,Académica,Paзos de Ferreira,2013,Portuguese
-19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paзos de Ferreira,2013,Portuguese
-20,20,Sérgio Oliveira,POR,M,1.79,71,02-06-92,Paços de Brandão,FC Porto,Paзos de Ferreira,2013,Portuguese
-22,22,Hélder Lopes,POR,D,1.79,66,04-01-89,Vila Nova de Gaia,Beira-Mar,Paзos de Ferreira,2013,Portuguese
-24,24,Freitas,POR,G,1.83,75,26-08-94,Paços de Ferreira,None,Paзos de Ferreira,2013,Portuguese
-26,26,Fernando,BRA,D,1.79,68,27-01-93,São Domingos,Fluminense,Paзos de Ferreira,2013,Portuguese
-27,27,Rodrigo Antônio,BRA,D,1.81,79,27-07-87,Rio de Janeiro,Marítimo,Paзos de Ferreira,2013,Portuguese
-28,28,Yonathan Del Valle,VEN,F,1.71,72,28-05-90,Guacara,Rio Ave,Paзos de Ferreira,2013,Portuguese
-29,29,Minhoca,POR,M,1.75,66,29-04-88,Ponta Delgada,Santa Clara,Paзos de Ferreira,2013,Portuguese
-30,30,Barnes Osei,GHA,F,1.79,66,08-01-95,,None,Paзos de Ferreira,2013,Portuguese
-33,33,Bebé,POR,F,1.90,75,12-07-90,Agualva-Cacém,Manchester U,Paзos de Ferreira,2013,Portuguese
-41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paзos de Ferreira,2013,Portuguese
-42,80,Tony,FRA,D,1.75,70,20-12-80,Auxerre,Vitória Guimarães,Paзos de Ferreira,2013,Portuguese
-43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paзos de Ferreira,2013,Portuguese
-44,88,Jean Michaël Seri,CIV,M,1.65,67,19-07-91,Grand-Bereby,FC Porto,Paзos de Ferreira,2013,Portuguese
-45,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo das Aves,Paзos de Ferreira,2013,Portuguese
+1,1,Matías Degrá,ARG,G,1.91,88,18-06-83,Santa Fe,AEL Limassol,Paços de Ferreira,2013,Portuguese
+2,2,Tiago Valente,POR,D,1.86,82,24-04-85,Macedo Cavaleiros,Desportivo das Aves,Paços de Ferreira,2013,Portuguese
+3,3,Flávio Boaventura,BRA,D,1.83,83,12-07-87,Feira de Santana,ABC,Paços de Ferreira,2013,Portuguese
+4,4,Romeu,POR,M,1.85,72,17-02-86,Paredes,Desportivo das Aves,Paços de Ferreira,2013,Portuguese
+5,5,Rafael Amorim,BRA,D,1.94,90,30-07-87,Bilac,Desportivo das Aves,Paços de Ferreira,2013,Portuguese
+8,8,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paços de Ferreira,2013,Portuguese
+10,10,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,AEL Limassol,Paços de Ferreira,2013,Portuguese
+13,13,Jaílson,BRA,D,1.70,67,21-01-91,,CSP,Paços de Ferreira,2013,Portuguese
+15,15,Grégory Arnolin,FRA,D,1.87,89,10-11-80,Livry-Gargan,Sporting Gijón,Paços de Ferreira,2013,Portuguese
+17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Santa Clara,Paços de Ferreira,2013,Portuguese
+18,18,Bédi Buval,FRA,F,1.80,70,16-06-86,Domont,Académica,Paços de Ferreira,2013,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paços de Ferreira,2013,Portuguese
+20,20,Sérgio Oliveira,POR,M,1.79,71,02-06-92,Paços de Brandão,FC Porto,Paços de Ferreira,2013,Portuguese
+22,22,Hélder Lopes,POR,D,1.79,66,04-01-89,Vila Nova de Gaia,Beira-Mar,Paços de Ferreira,2013,Portuguese
+24,24,Freitas,POR,G,1.83,75,26-08-94,Paços de Ferreira,None,Paços de Ferreira,2013,Portuguese
+26,26,Fernando,BRA,D,1.79,68,27-01-93,São Domingos,Fluminense,Paços de Ferreira,2013,Portuguese
+27,27,Rodrigo Antônio,BRA,D,1.81,79,27-07-87,Rio de Janeiro,Marítimo,Paços de Ferreira,2013,Portuguese
+28,28,Yonathan Del Valle,VEN,F,1.71,72,28-05-90,Guacara,Rio Ave,Paços de Ferreira,2013,Portuguese
+29,29,Minhoca,POR,M,1.75,66,29-04-88,Ponta Delgada,Santa Clara,Paços de Ferreira,2013,Portuguese
+30,30,Barnes Osei,GHA,F,1.79,66,08-01-95,,None,Paços de Ferreira,2013,Portuguese
+33,33,Bebé,POR,F,1.90,75,12-07-90,Agualva-Cacém,Manchester U,Paços de Ferreira,2013,Portuguese
+41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paços de Ferreira,2013,Portuguese
+42,80,Tony,FRA,D,1.75,70,20-12-80,Auxerre,Vitória Guimarães,Paços de Ferreira,2013,Portuguese
+43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paços de Ferreira,2013,Portuguese
+44,88,Jean Michaël Seri,CIV,M,1.65,67,19-07-91,Grand-Bereby,FC Porto,Paços de Ferreira,2013,Portuguese
+45,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo das Aves,Paços de Ferreira,2013,Portuguese
 1,1,Helton,BRA,G,1.89,84,18-05-78,Alcântara,União de Leiria,FC Porto,2013,Portuguese
 2,2,Danilo,BRA,D,1.84,73,15-07-91,Bicas,Santos,FC Porto,2013,Portuguese
 4,4,Maicon,BRA,D,1.90,74,14-09-88,Barretos,Cruzeiro,FC Porto,2013,Portuguese
@@ -396,68 +396,68 @@
 43,43,Filipe Chaby,POR,M,1.75,62,22-01-94,Setúbal,None,Sporting CP,2013,Portuguese
 44,47,Ricardo Esgaio,POR,F,1.71,66,16-05-93,Nazaré,None,Sporting CP,2013,Portuguese
 45,93,Ousmane Dramé,SEN,M,1.74,70,25-08-92,Paris,Padova,Sporting CP,2013,Portuguese
-1,1,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitуria Guimarгes,2013,Portuguese
-3,3,Josué,POR,D,1.86,75,17-06-92,Lisbon,Sporting CP,Vitуria Guimarгes,2013,Portuguese
-5,5,Luís Rocha,POR,M,1.74,70,27-06-93,Vila Nova de Famalicão,None,Vitуria Guimarгes,2013,Portuguese
-6,6,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Nacional [POR],Vitуria Guimarгes,2013,Portuguese
-7,7,Marco Matias,POR,F,1.77,67,10-05-89,Barreiro,Sporting CP,Vitуria Guimarгes,2013,Portuguese
-8,8,Henrique Dinis,POR,M,1.83,80,21-01-90,Monção,None,Vitуria Guimarгes,2013,Portuguese
-9,9,Tomané,POR,F,1.84,84,23-10-92,Fafe,Boavista,Vitуria Guimarгes,2013,Portuguese
-10,10,Jean Barrientos,URU,M,1.73,69,16-09-90,Montevideo,Racing Club [URU],Vitуria Guimarгes,2013,Portuguese
-11,11,André André,POR,M,1.77,65,26-08-89,Vila do Conde,Varzim,Vitуria Guimarгes,2013,Portuguese
-13,13,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,Belenenses,Vitуria Guimarгes,2013,Portuguese
-14,14,Alex,POR,F,1.74,65,27-08-91,Funchal,Santa Clara,Vitуria Guimarгes,2013,Portuguese
-15,15,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitуria Guimarгes,2013,Portuguese
-16,16,Nii Plange,GHA,M,1.75,70,26-06-89,Accra,Sporting CP,Vitуria Guimarгes,2013,Portuguese
-17,17,Hernâni,POR,F,1.80,69,20-08-91,Lisbon,Atlético CP,Vitуria Guimarгes,2013,Portuguese
-18,18,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Paços de Ferreira,Vitуria Guimarгes,2013,Portuguese
-19,19,Ricardo,CPV,F,1.88,89,18-12-91,Praia,Vizela,Vitуria Guimarгes,2013,Portuguese
-20,20,João Amorim,POR,D,1.78,74,26-07-92,Ribeirão,None,Vitуria Guimarгes,2013,Portuguese
-21,21,Fábio Vieria,POR,M,1.81,69,12-06-91,Porto,Sporting Espinho,Vitуria Guimarгes,2013,Portuguese
-22,22,Ouwo Moussa Maazou,NIG,F,1.86,78,25-08-88,Niamey,Étoile du Sahel,Vitуria Guimarгes,2013,Portuguese
-23,23,Pedro Correia,POR,D,1.78,68,27-03-87,Oeiras,Crotone,Vitуria Guimarгes,2013,Portuguese
-24,24,Isaac Cissé,CIV,F,1.91,83,03-02-94,,União de Coimbra,Vitуria Guimarгes,2013,Portuguese
-28,28,André Santos,POR,M,1.76,70,02-03-89,Sobreiro Curvo,Sporting CP,Vitуria Guimarгes,2013,Portuguese
-29,29,Fernando Russi,BRA,F,1.84,78,21-04-89,Campinas,Treze,Vitуria Guimarгes,2013,Portuguese
-30,30,David Addy,GHA,D,1.79,79,21-02-90,Prampram,FC Porto,Vitуria Guimarгes,2013,Portuguese
-33,33,Cris Malonga,CGO,M,1.83,73,11-07-87,Sens,Monaco,Vitуria Guimarгes,2013,Portuguese
-36,36,Miguel Oliveira,POR,G,1.94,88,25-05-94,Infantas,None,Vitуria Guimarгes,2013,Portuguese
-38,38,Tiago Rodrigues,POR,M,1.77,69,29-01-92,Vila Real,FC Porto,Vitуria Guimarгes,2013,Portuguese
-39,39,Pedro Lemos,POR,D,1.80,70,17-03-93,,None,Vitуria Guimarгes,2013,Portuguese
-41,41,André Pereira,POR,G,1.80,72,18-04-93,Guimarães,None,Vitуria Guimarгes,2013,Portuguese
-42,48,Bruno Alves,POR,M,1.78,72,09-06-90,Guimarães,None,Vitуria Guimarгes,2013,Portuguese
-43,50,Rafael Crivellaro,BRA,M,1.83,79,18-02-89,Porto Alegro,Americana,Vitуria Guimarгes,2013,Portuguese
-44,51,Kanú,BRA,D,1.80,74,05-03-92,,Sporting Braga,Vitуria Guimarгes,2013,Portuguese
-45,54,Jean Pablo,BRA,D,1.95,88,26-08-88,Descalvado,Monte Azul,Vitуria Guimarгes,2013,Portuguese
-46,58,João Pedro,POR,M,1.77,74,03-04-93,Guimarães,None,Vitуria Guimarгes,2013,Portuguese
-1,1,Paweł Kieszek,POL,G,1.82,82,16-04-84,Warsaw,FC Porto,Vitуria Setъbal,2013,Portuguese
-3,3,Frederico Venâncio,POR,D,1.86,77,04-02-93,Setúbal,Benfica,Vitуria Setъbal,2013,Portuguese
-5,5,Javier Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Paços de Ferreira,Vitуria Setъbal,2013,Portuguese
-7,7,Gonçalo Graça,POR,F,1.75,68,28-03-90,Vila do Conde,Varzim,Vitуria Setъbal,2013,Portuguese
-8,8,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Leixões,Vitуria Setъbal,2013,Portuguese
-9,9,Jorginho Sousa,POR,F,1.79,75,18-03-88,Meixomil,Aliados Lordelo,Vitуria Setъbal,2013,Portuguese
-10,10,Miguel Pedro,POR,M,1.75,70,11-06-83,Porto,Feirense,Vitуria Setъbal,2013,Portuguese
-11,11,Bruninho,POR,F,1.79,70,30-09-88,Vila Nova de Gaia,Padroense,Vitуria Setъbal,2013,Portuguese
-12,12,Carlos Servin,PAR,G,1.86,82,24-05-87,Asunción,Rubio Ñú,Vitуria Setъbal,2013,Portuguese
-13,13,Marlon Costa,GNB,M,1.92,75,20-01-95,Bissau,None,Vitуria Setъbal,2013,Portuguese
-14,14,Betinho,POR,F,1.79,72,21-07-93,Santa Maria de Lamas,Sporting CP,Vitуria Setъbal,2013,Portuguese
-15,15,Nélson Pedroso,POR,D,1.80,76,18-06-85,Guimarães,Desportivo das Aves,Vitуria Setъbal,2013,Portuguese
-16,16,Tiago Terroso,POR,M,1.78,78,13-01-88,Vila do Conde,Olhanense,Vitуria Setъbal,2013,Portuguese
-17,17,Pedro Coronas,POR,F,1.76,74,19-09-90,Rans,Penafiel,Vitуria Setъbal,2013,Portuguese
-18,18,João Mário,POR,M,1.78,67,19-01-93,Porto,Sporting CP,Vitуria Setъbal,2013,Portuguese
-19,19,Wilder Cartagena,PER,M,1.75,72,23-09-94,Lima,Alianza Lima,Vitуria Setъbal,2013,Portuguese
-20,20,Kiko,POR,D,1.83,80,20-01-93,Alcacer do Sal,None,Vitуria Setъbal,2013,Portuguese
-21,21,Marcos Acosta,PAR,M,1.83,76,07-12-91,San Estanislao,Tacuary,Vitуria Setъbal,2013,Portuguese
-24,24,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Feirense,Vitуria Setъbal,2013,Portuguese
-25,25,Pedro Tiba,POR,F,1.76,74,31-08-88,Arcos de Valdevez,Tirsense,Vitуria Setъbal,2013,Portuguese
-27,27,Ramón Cardozo,PAR,F,1.89,80,21-04-86,Presidente Franco,Nacional [PAR],Vitуria Setъbal,2013,Portuguese
-28,28,Diogo Rosado,POR,M,1.85,74,21-02-90,Peniche,Blackburn R,Vitуria Setъbal,2013,Portuguese
-33,33,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Criciúma,Vitуria Setъbal,2013,Portuguese
-40,40,Adama François,SEN,D,1.94,80,30-11-89,Dakar,Beijing Guo'an,Vitуria Setъbal,2013,Portuguese
-41,66,Dani,POR,M,1.77,80,30-01-82,Felgueiras,Skoda Xanthi,Vitуria Setъbal,2013,Portuguese
-42,68,Ney Santos,BRA,D,1.81,81,23-02-81,Mairum,Sporting Braga,Vitуria Setъbal,2013,Portuguese
-43,77,Ricardo Horta,POR,F,1.73,61,15-09-94,Almada,Benfica,Vitуria Setъbal,2013,Portuguese
-44,87,Zequinha,POR,F,1.83,74,07-01-87,Setúbal,Panthrakikos,Vitуria Setъbal,2013,Portuguese
-45,91,Diney,POR,D,1.85,79,17-01-95,Arrentela,None,Vitуria Setъbal,2013,Portuguese
-46,95,Miguel Lázaro,POR,G,1.93,75,24-04-95,Barreiro,Sporting CP,Vitуria Setъbal,2013,Portuguese
-47,99,Rafael Martins,BRA,F,1.75,78,17-03-89,Santos,Audax-SP,Vitуria Setъbal,2013,Portuguese
+1,1,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitória Guimarães,2013,Portuguese
+3,3,Josué,POR,D,1.86,75,17-06-92,Lisbon,Sporting CP,Vitória Guimarães,2013,Portuguese
+5,5,Luís Rocha,POR,M,1.74,70,27-06-93,Vila Nova de Famalicão,None,Vitória Guimarães,2013,Portuguese
+6,6,Moreno,POR,M,1.86,81,19-08-81,Urgeses,Nacional [POR],Vitória Guimarães,2013,Portuguese
+7,7,Marco Matias,POR,F,1.77,67,10-05-89,Barreiro,Sporting CP,Vitória Guimarães,2013,Portuguese
+8,8,Henrique Dinis,POR,M,1.83,80,21-01-90,Monção,None,Vitória Guimarães,2013,Portuguese
+9,9,Tomané,POR,F,1.84,84,23-10-92,Fafe,Boavista,Vitória Guimarães,2013,Portuguese
+10,10,Jean Barrientos,URU,M,1.73,69,16-09-90,Montevideo,Racing Club [URU],Vitória Guimarães,2013,Portuguese
+11,11,André André,POR,M,1.77,65,26-08-89,Vila do Conde,Varzim,Vitória Guimarães,2013,Portuguese
+13,13,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,Belenenses,Vitória Guimarães,2013,Portuguese
+14,14,Alex,POR,F,1.74,65,27-08-91,Funchal,Santa Clara,Vitória Guimarães,2013,Portuguese
+15,15,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitória Guimarães,2013,Portuguese
+16,16,Nii Plange,GHA,M,1.75,70,26-06-89,Accra,Sporting CP,Vitória Guimarães,2013,Portuguese
+17,17,Hernâni,POR,F,1.80,69,20-08-91,Lisbon,Atlético CP,Vitória Guimarães,2013,Portuguese
+18,18,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Paços de Ferreira,Vitória Guimarães,2013,Portuguese
+19,19,Ricardo,CPV,F,1.88,89,18-12-91,Praia,Vizela,Vitória Guimarães,2013,Portuguese
+20,20,João Amorim,POR,D,1.78,74,26-07-92,Ribeirão,None,Vitória Guimarães,2013,Portuguese
+21,21,Fábio Vieria,POR,M,1.81,69,12-06-91,Porto,Sporting Espinho,Vitória Guimarães,2013,Portuguese
+22,22,Ouwo Moussa Maazou,NIG,F,1.86,78,25-08-88,Niamey,Étoile du Sahel,Vitória Guimarães,2013,Portuguese
+23,23,Pedro Correia,POR,D,1.78,68,27-03-87,Oeiras,Crotone,Vitória Guimarães,2013,Portuguese
+24,24,Isaac Cissé,CIV,F,1.91,83,03-02-94,,União de Coimbra,Vitória Guimarães,2013,Portuguese
+28,28,André Santos,POR,M,1.76,70,02-03-89,Sobreiro Curvo,Sporting CP,Vitória Guimarães,2013,Portuguese
+29,29,Fernando Russi,BRA,F,1.84,78,21-04-89,Campinas,Treze,Vitória Guimarães,2013,Portuguese
+30,30,David Addy,GHA,D,1.79,79,21-02-90,Prampram,FC Porto,Vitória Guimarães,2013,Portuguese
+33,33,Cris Malonga,CGO,M,1.83,73,11-07-87,Sens,Monaco,Vitória Guimarães,2013,Portuguese
+36,36,Miguel Oliveira,POR,G,1.94,88,25-05-94,Infantas,None,Vitória Guimarães,2013,Portuguese
+38,38,Tiago Rodrigues,POR,M,1.77,69,29-01-92,Vila Real,FC Porto,Vitória Guimarães,2013,Portuguese
+39,39,Pedro Lemos,POR,D,1.80,70,17-03-93,,None,Vitória Guimarães,2013,Portuguese
+41,41,André Pereira,POR,G,1.80,72,18-04-93,Guimarães,None,Vitória Guimarães,2013,Portuguese
+42,48,Bruno Alves,POR,M,1.78,72,09-06-90,Guimarães,None,Vitória Guimarães,2013,Portuguese
+43,50,Rafael Crivellaro,BRA,M,1.83,79,18-02-89,Porto Alegro,Americana,Vitória Guimarães,2013,Portuguese
+44,51,Kanú,BRA,D,1.80,74,05-03-92,,Sporting Braga,Vitória Guimarães,2013,Portuguese
+45,54,Jean Pablo,BRA,D,1.95,88,26-08-88,Descalvado,Monte Azul,Vitória Guimarães,2013,Portuguese
+46,58,João Pedro,POR,M,1.77,74,03-04-93,Guimarães,None,Vitória Guimarães,2013,Portuguese
+1,1,Paweł Kieszek,POL,G,1.82,82,16-04-84,Warsaw,FC Porto,Vitória Setúbal,2013,Portuguese
+3,3,Frederico Venâncio,POR,D,1.86,77,04-02-93,Setúbal,Benfica,Vitória Setúbal,2013,Portuguese
+5,5,Javier Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Paços de Ferreira,Vitória Setúbal,2013,Portuguese
+7,7,Gonçalo Graça,POR,F,1.75,68,28-03-90,Vila do Conde,Varzim,Vitória Setúbal,2013,Portuguese
+8,8,Paulo Tavares,POR,M,1.79,71,09-12-85,Massarelos,Leixões,Vitória Setúbal,2013,Portuguese
+9,9,Jorginho Sousa,POR,F,1.79,75,18-03-88,Meixomil,Aliados Lordelo,Vitória Setúbal,2013,Portuguese
+10,10,Miguel Pedro,POR,M,1.75,70,11-06-83,Porto,Feirense,Vitória Setúbal,2013,Portuguese
+11,11,Bruninho,POR,F,1.79,70,30-09-88,Vila Nova de Gaia,Padroense,Vitória Setúbal,2013,Portuguese
+12,12,Carlos Servin,PAR,G,1.86,82,24-05-87,Asunción,Rubio Ñú,Vitória Setúbal,2013,Portuguese
+13,13,Marlon Costa,GNB,M,1.92,75,20-01-95,Bissau,None,Vitória Setúbal,2013,Portuguese
+14,14,Betinho,POR,F,1.79,72,21-07-93,Santa Maria de Lamas,Sporting CP,Vitória Setúbal,2013,Portuguese
+15,15,Nélson Pedroso,POR,D,1.80,76,18-06-85,Guimarães,Desportivo das Aves,Vitória Setúbal,2013,Portuguese
+16,16,Tiago Terroso,POR,M,1.78,78,13-01-88,Vila do Conde,Olhanense,Vitória Setúbal,2013,Portuguese
+17,17,Pedro Coronas,POR,F,1.76,74,19-09-90,Rans,Penafiel,Vitória Setúbal,2013,Portuguese
+18,18,João Mário,POR,M,1.78,67,19-01-93,Porto,Sporting CP,Vitória Setúbal,2013,Portuguese
+19,19,Wilder Cartagena,PER,M,1.75,72,23-09-94,Lima,Alianza Lima,Vitória Setúbal,2013,Portuguese
+20,20,Kiko,POR,D,1.83,80,20-01-93,Alcacer do Sal,None,Vitória Setúbal,2013,Portuguese
+21,21,Marcos Acosta,PAR,M,1.83,76,07-12-91,San Estanislao,Tacuary,Vitória Setúbal,2013,Portuguese
+24,24,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Feirense,Vitória Setúbal,2013,Portuguese
+25,25,Pedro Tiba,POR,F,1.76,74,31-08-88,Arcos de Valdevez,Tirsense,Vitória Setúbal,2013,Portuguese
+27,27,Ramón Cardozo,PAR,F,1.89,80,21-04-86,Presidente Franco,Nacional [PAR],Vitória Setúbal,2013,Portuguese
+28,28,Diogo Rosado,POR,M,1.85,74,21-02-90,Peniche,Blackburn R,Vitória Setúbal,2013,Portuguese
+33,33,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Criciúma,Vitória Setúbal,2013,Portuguese
+40,40,Adama François,SEN,D,1.94,80,30-11-89,Dakar,Beijing Guo'an,Vitória Setúbal,2013,Portuguese
+41,66,Dani,POR,M,1.77,80,30-01-82,Felgueiras,Skoda Xanthi,Vitória Setúbal,2013,Portuguese
+42,68,Ney Santos,BRA,D,1.81,81,23-02-81,Mairum,Sporting Braga,Vitória Setúbal,2013,Portuguese
+43,77,Ricardo Horta,POR,F,1.73,61,15-09-94,Almada,Benfica,Vitória Setúbal,2013,Portuguese
+44,87,Zequinha,POR,F,1.83,74,07-01-87,Setúbal,Panthrakikos,Vitória Setúbal,2013,Portuguese
+45,91,Diney,POR,D,1.85,79,17-01-95,Arrentela,None,Vitória Setúbal,2013,Portuguese
+46,95,Miguel Lázaro,POR,G,1.93,75,24-04-95,Barreiro,Sporting CP,Vitória Setúbal,2013,Portuguese
+47,99,Rafael Martins,BRA,F,1.75,78,17-03-89,Santos,Audax-SP,Vitória Setúbal,2013,Portuguese

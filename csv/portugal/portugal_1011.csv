@@ -1,31 +1,31 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Romuald  Peiser,FRA,G,1.87,79,03-08-79,Phalsbourg,Naval,Acadйmica,2010,Portuguese
-2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Acadйmica,2010,Portuguese
-4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Acadйmica,2010,Portuguese
-5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Acadйmica,2010,Portuguese
-7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Leixões,Acadйmica,2010,Portuguese
-8,8,Pape  Habib Sow,SEN,D,1.80,76,02-12-85,Dakar,Châteauroux,Acadйmica,2010,Portuguese
-9,9,Enrique  Carreño,ESP,F,1.83,80,27-11-86,Utrera,Sevilla,Acadйmica,2010,Portuguese
-10,10,Amaury Bischoff,POR,M,1.76,65,31-03-87,Colmar,Arsenal,Acadйmica,2010,Portuguese
-11,11,Laionel,BRA,F,1.77,70,27-04-86,Campos Belos,Grêmio Anápolis,Acadйmica,2010,Portuguese
-12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Acadйmica,2010,Portuguese
-13,13,Paulo Grilo,POR,M,1.80,72,19-08-91,Figueira da Foz,None,Acadйmica,2010,Portuguese
-14,14,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Nacional [POR],Acadйmica,2010,Portuguese
-15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Acadйmica,2010,Portuguese
-18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Acadйmica,2010,Portuguese
-19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Acadйmica,2010,Portuguese
-21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Acadйmica,2010,Portuguese
-23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,Sporting Braga,Acadйmica,2010,Portuguese
-28,28,Adrien Silva,POR,M,1.75,75,15-03-89,Angoulême,Sporting CP,Acadйmica,2010,Portuguese
-29,29,Barroca,POR,G,1.86,82,29-07-86,Mealhada,Tourizense,Acadйmica,2010,Portuguese
-30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Acadйmica,2010,Portuguese
-41,50,Diogo Melo,BRA,M,1.82,84,18-04-88,União dos Palmares,Portimonense,Acadйmica,2010,Portuguese
-42,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Acadйmica,2010,Portuguese
-43,60,David Addy,GHA,D,1.79,79,21-02-90,Prampram,FC Porto,Acadйmica,2010,Portuguese
-44,66,Nuno Coelho,POR,M,1.81,73,23-11-87,Covilhã,FC Porto,Acadйmica,2010,Portuguese
-45,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Acadйmica,2010,Portuguese
-46,88,Júnior Paraíba,BRA,M,1.84,80,01-01-88,João Pessoa,Grêmio Anápolis,Acadйmica,2010,Portuguese
-47,91,Ibrahim Sissoko,CIV,M,1.77,71,29-11-91,Abidjan,None,Acadйmica,2010,Portuguese
+1,1,Romuald  Peiser,FRA,G,1.87,79,03-08-79,Phalsbourg,Naval,Académica,2010,Portuguese
+2,2,Amoreirinha,POR,D,1.83,83,05-08-84,Vila Franca de Xira,CFR Cluj,Académica,2010,Portuguese
+4,4,Luiz Nunes,BRA,D,1.81,83,04-12-80,Santana do Livramento,Juventude,Académica,2010,Portuguese
+5,5,Markus Berger,AUT,D,1.86,82,21-01-85,Salzburg,SV Ried,Académica,2010,Portuguese
+7,7,Hugo Morais,POR,M,1.83,81,12-02-78,Quatar,Leixões,Académica,2010,Portuguese
+8,8,Pape  Habib Sow,SEN,D,1.80,76,02-12-85,Dakar,Châteauroux,Académica,2010,Portuguese
+9,9,Enrique  Carreño,ESP,F,1.83,80,27-11-86,Utrera,Sevilla,Académica,2010,Portuguese
+10,10,Amaury Bischoff,POR,M,1.76,65,31-03-87,Colmar,Arsenal,Académica,2010,Portuguese
+11,11,Laionel,BRA,F,1.77,70,27-04-86,Campos Belos,Grêmio Anápolis,Académica,2010,Portuguese
+12,12,Ricardo,POR,G,1.90,84,06-07-82,Póvoa do Varzim,Varzim,Académica,2010,Portuguese
+13,13,Paulo Grilo,POR,M,1.80,72,19-08-91,Figueira da Foz,None,Académica,2010,Portuguese
+14,14,Miguel Fidalgo,POR,F,1.75,72,19-03-82,Caniçal,Nacional [POR],Académica,2010,Portuguese
+15,15,Orlando,POR,D,1.83,83,24-10-79,Santo Tirso,Freamunde,Académica,2010,Portuguese
+18,18,Modou Sougou,SEN,F,1.78,68,18-12-84,Fissel,União de Leiria,Académica,2010,Portuguese
+19,19,Pedrinho,POR,D,1.77,73,06-03-85,Vila do Conde,Varzim,Académica,2010,Portuguese
+21,21,Éder,POR,F,1.88,81,22-12-87,Bissau,Tourizense,Académica,2010,Portuguese
+23,23,Diogo Valente,POR,M,1.76,74,23-09-84,Aveiro,Sporting Braga,Académica,2010,Portuguese
+28,28,Adrien Silva,POR,M,1.75,75,15-03-89,Angoulême,Sporting CP,Académica,2010,Portuguese
+29,29,Barroca,POR,G,1.86,82,29-07-86,Mealhada,Tourizense,Académica,2010,Portuguese
+30,30,Pedro Costa,POR,D,1.68,70,21-11-81,Arouca,Sporting Braga,Académica,2010,Portuguese
+41,50,Diogo Melo,BRA,M,1.82,84,18-04-88,União dos Palmares,Portimonense,Académica,2010,Portuguese
+42,55,Hélder Cabral,POR,D,1.79,72,07-05-84,Peniche,Vejle,Académica,2010,Portuguese
+43,60,David Addy,GHA,D,1.79,79,21-02-90,Prampram,FC Porto,Académica,2010,Portuguese
+44,66,Nuno Coelho,POR,M,1.81,73,23-11-87,Covilhã,FC Porto,Académica,2010,Portuguese
+45,85,Diogo Gomes,BRA,M,1.83,76,12-09-85,Curitiba,J. Malucelli,Académica,2010,Portuguese
+46,88,Júnior Paraíba,BRA,M,1.84,80,01-01-88,João Pessoa,Grêmio Anápolis,Académica,2010,Portuguese
+47,91,Ibrahim Sissoko,CIV,M,1.77,71,29-11-91,Abidjan,None,Académica,2010,Portuguese
 1,1,Paes,BRA,G,1.89,87,11-12-82,Rio de Janeiro,Avaí,Beira-Mar,2010,Portuguese
 2,2,Danilo,BRA,D,1.73,67,13-08-79,São Paulo,Chaves,Beira-Mar,2010,Portuguese
 4,4,Yohan Tavares,FRA,D,1.88,79,02-03-88,Tours,Le Mans,Beira-Mar,2010,Portuguese
@@ -196,33 +196,33 @@
 46,51,Ricardo  Batista,POR,G,1.93,79,19-11-86,Setúbal,Sporting CP,Olhanense,2010,Portuguese
 47,65,Fernando Alexandre,POR,D,1.76,76,02-08-85,Lourinhã,Sporting Braga,Olhanense,2010,Portuguese
 48,99,Jean Paul Yontcha,CMR,F,1.82,78,18-02-85,Yaoundé,Belenenses,Olhanense,2010,Portuguese
-1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paзos de Ferreira,2010,Portuguese
-2,2,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Avaí,Paзos de Ferreira,2010,Portuguese
-4,4,Samuel,BRA,D,1.88,74,07-03-88,Igaratinga,Atlético Mineiro,Paзos de Ferreira,2010,Portuguese
-5,5,Javier Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Sportivo Luqueño,Paзos de Ferreira,2010,Portuguese
-6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paзos de Ferreira,2010,Portuguese
-7,7,Maykon,BRA,M,1.76,67,20-04-84,Araranguá,Belenenses,Paзos de Ferreira,2010,Portuguese
-8,8,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paзos de Ferreira,2010,Portuguese
-10,10,David Simão,POR,M,1.79,81,15-05-90,Versailles,Benfica,Paзos de Ferreira,2010,Portuguese
-11,11,Caetano,POR,F,1.65,56,20-04-91,Paredes,FC Porto,Paзos de Ferreira,2010,Portuguese
-13,13,Bura,POR,D,1.92,85,17-12-88,Matosinhos,FC Porto,Paзos de Ferreira,2010,Portuguese
-14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paзos de Ferreira,2010,Portuguese
-15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Belenenses,Paзos de Ferreira,2010,Portuguese
-16,16,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Gil Vicente,Paзos de Ferreira,2010,Portuguese
-17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Santa Clara,Paзos de Ferreira,2010,Portuguese
-19,19,Mário Rondon,VEN,F,1.82,71,26-03-86,Caracas,Pontassolense,Paзos de Ferreira,2010,Portuguese
-20,20,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Gloria Bistriţa,Paзos de Ferreira,2010,Portuguese
-21,21,Pádraig Amond,IRL,F,1.80,75,23-04-88,Carlow,Sligo R,Paзos de Ferreira,2010,Portuguese
-24,24,Nélson Oliveira,POR,F,1.86,82,08-08-91,Barcelos,Benfica,Paзos de Ferreira,2010,Portuguese
-28,28,Carlão,POR,M,1.80,80,03-03-92,Paços de Ferreira,None,Paзos de Ferreira,2010,Portuguese
-30,30,Bruno,BRA,M,1.74,69,05-02-89,Andradas,Internacional,Paзos de Ferreira,2010,Portuguese
-31,31,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Sporting Braga,Paзos de Ferreira,2010,Portuguese
-40,40,Carlos Renan,BRA,D,1.86,82,12-02-83,Rio de Janeiro,Bangu,Paзos de Ferreira,2010,Portuguese
-41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paзos de Ferreira,2010,Portuguese
-42,70,Alvarinho,POR,F,1.70,67,03-09-90,Faro,Farense,Paзos de Ferreira,2010,Portuguese
-43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paзos de Ferreira,2010,Portuguese
-44,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paзos de Ferreira,2010,Portuguese
-45,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paзos de Ferreira,2010,Portuguese
+1,1,Cássio,BRA,G,1.86,79,12-08-80,Rio de Janeiro,Macaé Esporte,Paços de Ferreira,2010,Portuguese
+2,2,Ozéia,BRA,D,1.90,86,02-01-82,Nonoai,Avaí,Paços de Ferreira,2010,Portuguese
+4,4,Samuel,BRA,D,1.88,74,07-03-88,Igaratinga,Atlético Mineiro,Paços de Ferreira,2010,Portuguese
+5,5,Javier Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Sportivo Luqueño,Paços de Ferreira,2010,Portuguese
+6,6,Paulo Sousa,POR,M,1.75,70,13-05-75,Lousada,APOP,Paços de Ferreira,2010,Portuguese
+7,7,Maykon,BRA,M,1.76,67,20-04-84,Araranguá,Belenenses,Paços de Ferreira,2010,Portuguese
+8,8,André Leão,POR,M,1.82,78,20-05-85,Freamunde,CFR Cluj,Paços de Ferreira,2010,Portuguese
+10,10,David Simão,POR,M,1.79,81,15-05-90,Versailles,Benfica,Paços de Ferreira,2010,Portuguese
+11,11,Caetano,POR,F,1.65,56,20-04-91,Paredes,FC Porto,Paços de Ferreira,2010,Portuguese
+13,13,Bura,POR,D,1.92,85,17-12-88,Matosinhos,FC Porto,Paços de Ferreira,2010,Portuguese
+14,14,Jorginho,POR,D,1.87,75,29-05-78,Sines,Asteras Tripolis,Paços de Ferreira,2010,Portuguese
+15,15,Baiano,BRA,D,1.73,65,23-02-87,Correntina,Belenenses,Paços de Ferreira,2010,Portuguese
+16,16,Leonel Olímpio,BRA,M,1.84,78,07-07-82,Jaguariaiva,Gil Vicente,Paços de Ferreira,2010,Portuguese
+17,17,Nuno Santos,POR,M,1.81,76,19-06-80,Viana do Castelo,Santa Clara,Paços de Ferreira,2010,Portuguese
+19,19,Mário Rondon,VEN,F,1.82,71,26-03-86,Caracas,Pontassolense,Paços de Ferreira,2010,Portuguese
+20,20,Pedro Queirós,POR,D,1.80,73,02-08-84,Santo Tirso,Gloria Bistriţa,Paços de Ferreira,2010,Portuguese
+21,21,Pádraig Amond,IRL,F,1.80,75,23-04-88,Carlow,Sligo R,Paços de Ferreira,2010,Portuguese
+24,24,Nélson Oliveira,POR,F,1.86,82,08-08-91,Barcelos,Benfica,Paços de Ferreira,2010,Portuguese
+28,28,Carlão,POR,M,1.80,80,03-03-92,Paços de Ferreira,None,Paços de Ferreira,2010,Portuguese
+30,30,Bruno,BRA,M,1.74,69,05-02-89,Andradas,Internacional,Paços de Ferreira,2010,Portuguese
+31,31,Pizzi,POR,F,1.77,69,06-10-89,Bragança,Sporting Braga,Paços de Ferreira,2010,Portuguese
+40,40,Carlos Renan,BRA,D,1.86,82,12-02-83,Rio de Janeiro,Bangu,Paços de Ferreira,2010,Portuguese
+41,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paços de Ferreira,2010,Portuguese
+42,70,Alvarinho,POR,F,1.70,67,03-09-90,Faro,Farense,Paços de Ferreira,2010,Portuguese
+43,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paços de Ferreira,2010,Portuguese
+44,84,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,None,Paços de Ferreira,2010,Portuguese
+45,96,Filipe Anunciação,POR,M,1.79,75,27-05-79,Matosinhos,Desportivo Aves,Paços de Ferreira,2010,Portuguese
 1,1,Ventura,POR,G,1.86,85,14-01-88,Vila Nova de Gaia,FC Porto,Portimonense,2010,Portuguese
 2,2,João Paulo,BRA,D,1.86,78,25-05-89,Rio de Janeiro,Tombense,Portimonense,2010,Portuguese
 3,3,André Pinto,POR,D,1.92,85,05-10-89,Vila Nova de Gaia,FC Porto,Portimonense,2010,Portuguese
@@ -358,66 +358,66 @@
 47,77,Simon Vukčević,MNE,M,1.79,77,29-01-86,Podgorica,Saturn,Sporting CP,2010,Portuguese
 48,78,Abel Ferreira,POR,D,1.78,75,22-12-78,Penafiel,Sporting Braga,Sporting CP,2010,Portuguese
 49,80,Cristiano,BRA,M,1.74,67,28-09-83,Manaus,PAOK,Sporting CP,2010,Portuguese
-1,1,Andjelko Djuričić,SRB,G,1.93,87,21-11-80,Zemun,Hajduk Kula,Uniăo de Leiria,2010,Portuguese
-4,4,Ricardo Pateiro,POR,M,1.78,72,31-05-80,Setúbal,Nacional [POR],Uniăo de Leiria,2010,Portuguese
-5,5,Paulo Vinícius,BRA,M,1.86,84,12-08-84,Cuiabá,Leixões,Uniăo de Leiria,2010,Portuguese
-6,6,Diogo Amado,POR,M,1.77,72,21-01-90,Lagos [POR],Sporting CP,Uniăo de Leiria,2010,Portuguese
-7,7,Paulo Sérgio,POR,M,1.84,83,21-07-81,Rio de Janeiro,Académica,Uniăo de Leiria,2010,Portuguese
-8,8,Rúben Brígido,POR,M,1.71,65,23-06-91,Leiria,None,Uniăo de Leiria,2010,Portuguese
-9,9,Rodrigo Silva,BRA,F,1.83,71,15-06-83,Florianópolis,Nacional [POR],Uniăo de Leiria,2010,Portuguese
-12,12,Luiz Carlos,BRA,G,1.91,87,24-05-88,Porto Alegre,Internacional,Uniăo de Leiria,2010,Portuguese
-13,13,Bruno Miguel,POR,D,1.88,84,24-09-82,São João da Madeira,Varzim,Uniăo de Leiria,2010,Portuguese
-14,14,Vjateslav Zahovaiko,EST,F,1.87,73,29-12-81,Rapla,Flora Tallinn,Uniăo de Leiria,2010,Portuguese
-16,16,Manuel Iturra,CHI,M,1.73,71,23-06-84,Temuco,Universidad de Chile,Uniăo de Leiria,2010,Portuguese
-18,18,Fabrício Simões,BRA,F,1.85,81,26-12-84,Cachoeira,Operário,Uniăo de Leiria,2010,Portuguese
-19,19,João Silva,POR,F,1.89,80,21-05-90,Vila das Aves,Everton,Uniăo de Leiria,2010,Portuguese
-20,20,Marco Soares,CPV,M,1.80,75,16-06-84,Setúbal,Barreirense,Uniăo de Leiria,2010,Portuguese
-21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,Le Mans,Uniăo de Leiria,2010,Portuguese
-22,22,Milo Obradović,SRB,M,1.82,74,30-03-87,Ub,Mladost Lučani,Uniăo de Leiria,2010,Portuguese
-25,25,Hugo Gomes,POR,D,1.72,68,11-10-79,Faro,Estrela da Amadora,Uniăo de Leiria,2010,Portuguese
-26,26,Madi  Panandétigiuri,BFA,D,1.80,75,22-03-84,Ouahigouya,Wehen-Wiesbaden,Uniăo de Leiria,2010,Portuguese
-27,27,Serge N'Gal,CMR,F,1.73,72,13-01-86,Nkongsambaau,Nàstic,Uniăo de Leiria,2010,Portuguese
-28,28,Jardel,POR,M,1.77,71,23-05-92,Santa Catarina da Serra,None,Uniăo de Leiria,2010,Portuguese
-29,29,Cacá,BRA,M,1.71,69,09-10-82,Belo  Horizente,Odense,Uniăo de Leiria,2010,Portuguese
-30,30,Mamadou Tall,BFA,D,1.85,85,04-12-82,Attecoube,Wydad Casablanca,Uniăo de Leiria,2010,Portuguese
-41,70,Leandro Lima,BRA,M,1.69,63,09-11-85,Fortaleza,FC Porto,Uniăo de Leiria,2010,Portuguese
-42,77,Zé António,POR,D,1.85,81,14-03-77,Torres Vedras,Racing Santander,Uniăo de Leiria,2010,Portuguese
-43,80,Patrick,BRA,D,1.80,70,20-08-80,Muriaé,Ituano,Uniăo de Leiria,2010,Portuguese
-44,85,Eduardo Gottardi,BRA,G,1.93,80,18-10-85,Encantado,Juventude,Uniăo de Leiria,2010,Portuguese
-45,90,Cepeda,POR,M,1.72,69,19-01-90,Leiria,None,Uniăo de Leiria,2010,Portuguese
-46,91,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,None,Uniăo de Leiria,2010,Portuguese
-47,94,Carlos Daniel,POR,F,1.78,,11-07-94,Figueira da Foz,Benfica,Uniăo de Leiria,2010,Portuguese
-48,99,Zhang Chengdong,CHN,F,1.84,73,09-02-89,Baoding,Mafra,Uniăo de Leiria,2010,Portuguese
-1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitória Guimarăes,2010,Portuguese
-2,2,Freire,BRA,D,1.86,73,21-08-89,Presidente Prudente,União São João,Vitória Guimarăes,2010,Portuguese
-6,6,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Grêmio,Vitória Guimarăes,2010,Portuguese
-7,7,Tiago Targino,POR,F,1.80,67,06-06-86,Beja,None,Vitória Guimarăes,2010,Portuguese
-9,9,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitória Guimarăes,2010,Portuguese
-10,10,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Vitória Guimarăes,2010,Portuguese
-11,11,Renan,BRA,M,1.80,78,29-03-85,Caieiras,São Paulo,Vitória Guimarăes,2010,Portuguese
-14,14,Jorge  Ribeiro,POR,D,1.72,67,09-11-81,Lisbon,Benfica,Vitória Guimarăes,2010,Portuguese
-20,20,Abdelghani Faouzi,MAR,F,1.70,70,13-07-85,Ad dar al bayda',Wydad Casablanca,Vitória Guimarăes,2010,Portuguese
-21,21,Édson,BRA,D,1.80,77,17-06-83,São Bernardo do Campo,Ceará,Vitória Guimarăes,2010,Portuguese
-22,22,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitória Guimarăes,2010,Portuguese
-24,24,André Pereira,POR,G,1.80,72,18-04-93,Guimarães,None,Vitória Guimarăes,2010,Portuguese
-25,25,João Ribeiro,POR,M,1.76,75,13-08-87,Porto,Naval,Vitória Guimarăes,2010,Portuguese
-26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarăes,2010,Portuguese
-28,28,Cléber Oliveira,BRA,M,1.81,75,23-05-80,Belo Horizonte,Nacional [POR],Vitória Guimarăes,2010,Portuguese
-29,29,Edgar,BRA,F,1.91,76,03-01-87,São Carlos,Vasco da Gama,Vitória Guimarăes,2010,Portuguese
-30,30,Rafael Crivellaro,BRA,M,1.83,79,18-02-89,Porto Alegro,Americana,Vitória Guimarăes,2010,Portuguese
-31,31,Kamani Hill,USA,F,1.83,77,28-12-85,Berkeley,Wolfsburg,Vitória Guimarăes,2010,Portuguese
-33,33,Anderson Santana,BRA,D,1.84,78,24-04-86,Belo Horizonte,Náutico,Vitória Guimarăes,2010,Portuguese
-40,40,João Paulo,POR,D,1.82,83,06-06-81,Leiria,Le Mans,Vitória Guimarăes,2010,Portuguese
-41,42,João Pedro,BRA,M,1.84,73,09-03-92,Ipatinga,Palermo,Vitória Guimarăes,2010,Portuguese
-42,44,Mahamadou N'Diaye,MLI,D,1.86,76,21-06-90,Dakar,Wydad Casablanca,Vitória Guimarăes,2010,Portuguese
-43,55,Tony,FRA,D,1.75,70,20-12-80,Auxerre,CFR Cluj,Vitória Guimarăes,2010,Portuguese
-44,70,Rafael,POR,F,1.77,70,27-01-91,Vizela,None,Vitória Guimarăes,2010,Portuguese
-45,77,Maranhão,BRA,F,1.75,67,29-01-85,João Lisboa,Grêmio Anápolis,Vitória Guimarăes,2010,Portuguese
-46,79,Alex,POR,D,1.69,69,06-09-79,Guimarães,Wolfsburg,Vitória Guimarăes,2010,Portuguese
-47,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitória Guimarăes,2010,Portuguese
-48,83,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitória Guimarăes,2010,Portuguese
-49,90,Marcelo Toscano,BRA,F,1.84,75,12-05-85,Areado,Paraná,Vitória Guimarăes,2010,Portuguese
-50,99,Tó Mané,POR,F,1.82,80,23-10-92,Fafe,Boavista,Vitória Guimarăes,2010,Portuguese
+1,1,Andjelko Djuričić,SRB,G,1.93,87,21-11-80,Zemun,Hajduk Kula,União de Leiria,2010,Portuguese
+4,4,Ricardo Pateiro,POR,M,1.78,72,31-05-80,Setúbal,Nacional [POR],União de Leiria,2010,Portuguese
+5,5,Paulo Vinícius,BRA,M,1.86,84,12-08-84,Cuiabá,Leixões,União de Leiria,2010,Portuguese
+6,6,Diogo Amado,POR,M,1.77,72,21-01-90,Lagos [POR],Sporting CP,União de Leiria,2010,Portuguese
+7,7,Paulo Sérgio,POR,M,1.84,83,21-07-81,Rio de Janeiro,Académica,União de Leiria,2010,Portuguese
+8,8,Rúben Brígido,POR,M,1.71,65,23-06-91,Leiria,None,União de Leiria,2010,Portuguese
+9,9,Rodrigo Silva,BRA,F,1.83,71,15-06-83,Florianópolis,Nacional [POR],União de Leiria,2010,Portuguese
+12,12,Luiz Carlos,BRA,G,1.91,87,24-05-88,Porto Alegre,Internacional,União de Leiria,2010,Portuguese
+13,13,Bruno Miguel,POR,D,1.88,84,24-09-82,São João da Madeira,Varzim,União de Leiria,2010,Portuguese
+14,14,Vjateslav Zahovaiko,EST,F,1.87,73,29-12-81,Rapla,Flora Tallinn,União de Leiria,2010,Portuguese
+16,16,Manuel Iturra,CHI,M,1.73,71,23-06-84,Temuco,Universidad de Chile,União de Leiria,2010,Portuguese
+18,18,Fabrício Simões,BRA,F,1.85,81,26-12-84,Cachoeira,Operário,União de Leiria,2010,Portuguese
+19,19,João Silva,POR,F,1.89,80,21-05-90,Vila das Aves,Everton,União de Leiria,2010,Portuguese
+20,20,Marco Soares,CPV,M,1.80,75,16-06-84,Setúbal,Barreirense,União de Leiria,2010,Portuguese
+21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,Le Mans,União de Leiria,2010,Portuguese
+22,22,Milo Obradović,SRB,M,1.82,74,30-03-87,Ub,Mladost Lučani,União de Leiria,2010,Portuguese
+25,25,Hugo Gomes,POR,D,1.72,68,11-10-79,Faro,Estrela da Amadora,União de Leiria,2010,Portuguese
+26,26,Madi  Panandétigiuri,BFA,D,1.80,75,22-03-84,Ouahigouya,Wehen-Wiesbaden,União de Leiria,2010,Portuguese
+27,27,Serge N'Gal,CMR,F,1.73,72,13-01-86,Nkongsambaau,Nàstic,União de Leiria,2010,Portuguese
+28,28,Jardel,POR,M,1.77,71,23-05-92,Santa Catarina da Serra,None,União de Leiria,2010,Portuguese
+29,29,Cacá,BRA,M,1.71,69,09-10-82,Belo  Horizente,Odense,União de Leiria,2010,Portuguese
+30,30,Mamadou Tall,BFA,D,1.85,85,04-12-82,Attecoube,Wydad Casablanca,União de Leiria,2010,Portuguese
+41,70,Leandro Lima,BRA,M,1.69,63,09-11-85,Fortaleza,FC Porto,União de Leiria,2010,Portuguese
+42,77,Zé António,POR,D,1.85,81,14-03-77,Torres Vedras,Racing Santander,União de Leiria,2010,Portuguese
+43,80,Patrick,BRA,D,1.80,70,20-08-80,Muriaé,Ituano,União de Leiria,2010,Portuguese
+44,85,Eduardo Gottardi,BRA,G,1.93,80,18-10-85,Encantado,Juventude,União de Leiria,2010,Portuguese
+45,90,Cepeda,POR,M,1.72,69,19-01-90,Leiria,None,União de Leiria,2010,Portuguese
+46,91,Mika,POR,G,1.95,90,08-03-91,Yverdon-les-Bains,None,União de Leiria,2010,Portuguese
+47,94,Carlos Daniel,POR,F,1.78,,11-07-94,Figueira da Foz,Benfica,União de Leiria,2010,Portuguese
+48,99,Zhang Chengdong,CHN,F,1.84,73,09-02-89,Baoding,Mafra,União de Leiria,2010,Portuguese
+1,1,Nilson,BRA,G,1.84,83,26-12-75,Vitória,Náutico,Vitória Guimarães,2010,Portuguese
+2,2,Freire,BRA,D,1.86,73,21-08-89,Presidente Prudente,União São João,Vitória Guimarães,2010,Portuguese
+6,6,Bruno Teles,BRA,D,1.83,78,01-05-86,Alvorada,Grêmio,Vitória Guimarães,2010,Portuguese
+7,7,Tiago Targino,POR,F,1.80,67,06-06-86,Beja,None,Vitória Guimarães,2010,Portuguese
+9,9,Douglas,BRA,F,1.86,83,30-01-86,Ponta Grossa,América Mineiro,Vitória Guimarães,2010,Portuguese
+10,10,Rui Miguel,POR,M,1.75,70,15-11-83,Seia,Zagłębie Lubin,Vitória Guimarães,2010,Portuguese
+11,11,Renan,BRA,M,1.80,78,29-03-85,Caieiras,São Paulo,Vitória Guimarães,2010,Portuguese
+14,14,Jorge  Ribeiro,POR,D,1.72,67,09-11-81,Lisbon,Benfica,Vitória Guimarães,2010,Portuguese
+20,20,Abdelghani Faouzi,MAR,F,1.70,70,13-07-85,Ad dar al bayda',Wydad Casablanca,Vitória Guimarães,2010,Portuguese
+21,21,Édson,BRA,D,1.80,77,17-06-83,São Bernardo do Campo,Ceará,Vitória Guimarães,2010,Portuguese
+22,22,Paulo Oliveira,POR,D,1.87,78,08-01-92,Vila Nova de Famalicão,None,Vitória Guimarães,2010,Portuguese
+24,24,André Pereira,POR,G,1.80,72,18-04-93,Guimarães,None,Vitória Guimarães,2010,Portuguese
+25,25,João Ribeiro,POR,M,1.76,75,13-08-87,Porto,Naval,Vitória Guimarães,2010,Portuguese
+26,26,Flávio Meireles,POR,M,1.87,88,03-10-76,Ribeira de Pena,Moreirense,Vitória Guimarães,2010,Portuguese
+28,28,Cléber Oliveira,BRA,M,1.81,75,23-05-80,Belo Horizonte,Nacional [POR],Vitória Guimarães,2010,Portuguese
+29,29,Edgar,BRA,F,1.91,76,03-01-87,São Carlos,Vasco da Gama,Vitória Guimarães,2010,Portuguese
+30,30,Rafael Crivellaro,BRA,M,1.83,79,18-02-89,Porto Alegro,Americana,Vitória Guimarães,2010,Portuguese
+31,31,Kamani Hill,USA,F,1.83,77,28-12-85,Berkeley,Wolfsburg,Vitória Guimarães,2010,Portuguese
+33,33,Anderson Santana,BRA,D,1.84,78,24-04-86,Belo Horizonte,Náutico,Vitória Guimarães,2010,Portuguese
+40,40,João Paulo,POR,D,1.82,83,06-06-81,Leiria,Le Mans,Vitória Guimarães,2010,Portuguese
+41,42,João Pedro,BRA,M,1.84,73,09-03-92,Ipatinga,Palermo,Vitória Guimarães,2010,Portuguese
+42,44,Mahamadou N'Diaye,MLI,D,1.86,76,21-06-90,Dakar,Wydad Casablanca,Vitória Guimarães,2010,Portuguese
+43,55,Tony,FRA,D,1.75,70,20-12-80,Auxerre,CFR Cluj,Vitória Guimarães,2010,Portuguese
+44,70,Rafael,POR,F,1.77,70,27-01-91,Vizela,None,Vitória Guimarães,2010,Portuguese
+45,77,Maranhão,BRA,F,1.75,67,29-01-85,João Lisboa,Grêmio Anápolis,Vitória Guimarães,2010,Portuguese
+46,79,Alex,POR,D,1.69,69,06-09-79,Guimarães,Wolfsburg,Vitória Guimarães,2010,Portuguese
+47,80,João Alves,POR,M,1.79,72,18-08-80,Chaves,Sporting CP,Vitória Guimarães,2010,Portuguese
+48,83,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitória Guimarães,2010,Portuguese
+49,90,Marcelo Toscano,BRA,F,1.84,75,12-05-85,Areado,Paraná,Vitória Guimarães,2010,Portuguese
+50,99,Tó Mané,POR,F,1.82,80,23-10-92,Fafe,Boavista,Vitória Guimarães,2010,Portuguese
 1,1,Matos,POR,G,1.91,91,15-02-79,Santo Ildefonso,Varzim,Vitória Setúbal,2010,Portuguese
 3,3,Ricardo Silva,POR,D,1.83,79,26-09-75,Porto,Shinnik,Vitória Setúbal,2010,Portuguese
 4,4,Valdomiro,BRA,D,1.91,89,06-02-79,Salvador da Bahia,Vitóira Guimarães,Vitória Setúbal,2010,Portuguese

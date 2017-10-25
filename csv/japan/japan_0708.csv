@@ -14,7 +14,7 @@
 15,15,Isao Homma,M,"5'08""",09 06,19-04-81,Niigata,None,Albirex Niigata,2007,Japanese
 16,16,Yoshito Terakawa,M,"5'11""",10 03,06-09-74,Hyogo,Oita Trinita,Albirex Niigata,2007,Japanese
 17,17,Jun Uchida,D,"5'09""",10 10,14-10-77,Hyogo,Kashima Antlers,Albirex Niigata,2007,Japanese
-19,19,Keiji Kaimoto,D,"5'11""",11 11,26-11-72,Osaka,Nagoya Grampus Eight,Albirex Niigata,2007,Japanese
+19,19,Keiji Kaimoto,D,"5'11""",11 11,26-11-72,Osaka,Nagoya Grampus,Albirex Niigata,2007,Japanese
 20,20,Kazuhisa Kawahara,F,"5'08""",10 03,29-01-87,Saitama,None,Albirex Niigata,2007,Japanese
 21,21,Yosuke Nozawa,G,"5'11""",12 01,09-11-79,Shizuoka,Shimizu S-Pulse,Albirex Niigata,2007,Japanese
 22,22,Yudai Suwa,G,"6'03""",12 00,05-05-86,Chiba,Kashiwa Reysol,Albirex Niigata,2007,Japanese
@@ -42,7 +42,7 @@
 16,16,Masafumi Maeda,M,"5'08""",10 06,25-01-83,Shiga,None,Gamba Osaka,2007,Japanese
 17,17,Tomokazu Myojin,M,"5'08""",11 00,24-01-78,Hyogo,Kashiwa Reysol,Gamba Osaka,2007,Japanese
 18,18,Baré,F,"6'03""",12 01,18-01-82,,Ventforet Kofu,Gamba Osaka,2007,Japanese
-19,19,Satoshi Nakayama,F,"6'00""",12 06,07-11-81,Miyazaki,Nagoya Grampus Eight,Gamba Osaka,2007,Japanese
+19,19,Satoshi Nakayama,F,"6'00""",12 06,07-11-81,Miyazaki,Nagoya Grampus,Gamba Osaka,2007,Japanese
 20,20,Shinichi Terada,M,"5'07""",10 03,10-06-85,Osaka,None,Gamba Osaka,2007,Japanese
 21,21,Akira Kaji,D,"5'10""",11 07,13-01-80,Hyogo,FC Tokyo,Gamba Osaka,2007,Japanese
 22,22,Yosuke Fujigaya,G,"6'01""",12 04,13-02-81,Shizuoka,Consadole Sapporo,Gamba Osaka,2007,Japanese
@@ -163,7 +163,7 @@
 2,2,Ryo Kobayashi,D,"5'07""",10 08,12-09-82,Saitama,None,Kashiwa Reysol,2007,Japanese
 3,3,Naoya Kondo,D,"5'11""",12 00,03-10-83,Tochigi,None,Kashiwa Reysol,2007,Japanese
 4,4,Alceu,M,"5'11""",12 08,07-05-84,Diadema,Palmeiras,Kashiwa Reysol,2007,Japanese
-5,5,Masahiro Koga,D,"6'01""",12 06,08-09-78,Fukuoka,Nagoya Grampus Eight,Kashiwa Reysol,2007,Japanese
+5,5,Masahiro Koga,D,"6'01""",12 06,08-09-78,Fukuoka,Nagoya Grampus,Kashiwa Reysol,2007,Japanese
 7,7,Hidekazu Otani,M,"5'09""",10 08,06-11-84,Chiba,None,Kashiwa Reysol,2007,Japanese
 8,8,Marcio  Araújo,M,"5'08""",10 06,11-06-84,São Luiz,Atlético Mineiro,Kashiwa Reysol,2007,Japanese
 9,9,Hideaki Kitajima,F,"6'00""",11 11,23-05-78,Chiba,Shimizu S-Pulse,Kashiwa Reysol,2007,Japanese
@@ -194,7 +194,7 @@
 37,37,Yusuke Murakami,D,"5'10""",12 01,27-04-84,Tokyo,None,Kashiwa Reysol,2007,Japanese
 38,38,Bruno,M,"5'10""",11 05,15-02-89,,PSTC,Kashiwa Reysol,2007,Japanese
 39,39,Keisuke Ota,M,"5'06""",09 06,23-07-81,Shizuoka,Shimizu S-Pulse,Kashiwa Reysol,2007,Japanese
-1,1,Eiji Kawashima,G,"6'01""",11 09,20-03-83,Saitama,Nagoya Grampus Eight,Kawasaki Frontale,2007,Japanese
+1,1,Eiji Kawashima,G,"6'01""",11 09,20-03-83,Saitama,Nagoya Grampus,Kawasaki Frontale,2007,Japanese
 2,2,Hiroki Ito,D,"6'00""",11 09,27-07-78,Ehime,None,Kawasaki Frontale,2007,Japanese
 3,3,Hideki Sahara,D,"6'00""",11 11,15-05-78,Kanagawa,Gremio,Kawasaki Frontale,2007,Japanese
 4,4,Yusuke Igawa,D,"6'00""",11 09,30-10-82,Osaka,Gamba Osaka,Kawasaki Frontale,2007,Japanese
@@ -226,43 +226,43 @@
 33,33,Jun Sonoda,D,"5'11""",11 07,23-01-89,Shizuoka,None,Kawasaki Frontale,2007,Japanese
 34,34,Kyohei Sugiura,M,"5'09""",09 11,11-01-89,Shizuoka,None,Kawasaki Frontale,2007,Japanese
 35,35,Yusuke Tasaka,M,"5'08""",09 13,08-07-85,Hiroshima,None,Kawasaki Frontale,2007,Japanese
-1,1,Seigo Narazaki,G,"6'01""",12 00,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus Eight,2007,Japanese
-3,3,Marek Spilar,D,"6'03""",13 03,11-02-75,Stropkov,Club Brugge,Nagoya Grampus Eight,2007,Japanese
-4,4,Masayuki Omori,M,"5'09""",11 07,09-11-76,Saitama,Sagan Tosu,Nagoya Grampus Eight,2007,Japanese
-5,5,Atsushi Yoneyama,D,"5'11""",12 00,20-11-76,Tochigi,Kawasaki Frontale,Nagoya Grampus Eight,2007,Japanese
-7,7,Naoshi Nakamura,M,"5'09""",11 00,27-01-79,Chiba,None,Nagoya Grampus Eight,2007,Japanese
-8,8,Kim Jung-Woo,M,"6'00""",11 00,09-05-82,,Ulsan Hyundai Horang-i,Nagoya Grampus Eight,2007,Japanese
-9,9,Frode Johnsen,F,"6'02""",12 08,17-03-74,Skien,Rosenborg,Nagoya Grampus Eight,2007,Japanese
-10,10,Toshiya Fujita,M,"5'09""",10 01,04-10-71,Shizuoka,Jubilo Iwata,Nagoya Grampus Eight,2007,Japanese
-11,11,Keiji Tamada,F,"5'08""",09 13,11-04-80,Chiba,None,Nagoya Grampus Eight,2007,Japanese
-13,13,Kei Yamaguchi,M,"5'08""",10 01,11-06-83,Kyoto,None,Nagoya Grampus Eight,2007,Japanese
-14,14,Keiji Yoshimura,M,"5'09""",10 10,08-08-79,Ehime,None,Nagoya Grampus Eight,2007,Japanese
-15,15,Sho Kamogawa,F,"5'09""",10 03,07-02-83,Oita,None,Nagoya Grampus Eight,2007,Japanese
-16,16,Takahiro Masukawa,D,"6'03""",14 07,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus Eight,2007,Japanese
-17,17,Yuki Maki,F,"6'00""",11 11,26-06-84,Kumamoto,None,Nagoya Grampus Eight,2007,Japanese
-18,18,Shunichi Nakajima,M,"5'08""",10 10,16-06-82,Gumma,None,Nagoya Grampus Eight,2007,Japanese
-19,19,Keita Sugimoto,F,"5'08""",10 03,13-06-82,Ibaraki,None,Nagoya Grampus Eight,2007,Japanese
-20,20,Seiji Kaneko,D,"5'11""",11 11,27-05-80,Fukuoka,Kashima Antlers,Nagoya Grampus Eight,2007,Japanese
-21,21,Ryo Kushino,G,"6'01""",11 09,03-03-79,Kumamoto,JEF United,Nagoya Grampus Eight,2007,Japanese
-22,22,Kazuto Tsuyuki,D,"5'07""",10 06,14-08-84,Shizuoka,None,Nagoya Grampus Eight,2007,Japanese
-24,24,Keisuke Honda,M,"5'11""",11 09,13-06-86,Osaka,Gamba Osaka,Nagoya Grampus Eight,2007,Japanese
-25,25,Yusuke Sudo,M,"6'00""",11 03,07-05-86,Tokyo,Tokyo Verdy,Nagoya Grampus Eight,2007,Japanese
-26,26,Tomohiro Tsuda,F,"5'10""",11 05,06-05-86,Gifu,None,Nagoya Grampus Eight,2007,Japanese
-27,27,Shosuke Katayama,D,"5'07""",10 12,08-09-83,Nara,None,Nagoya Grampus Eight,2007,Japanese
-28,28,Keiji Watanabe,M,"5'08""",10 01,28-01-85,Shizuoka,None,Nagoya Grampus Eight,2007,Japanese
-29,29,Yoshizumi Ogawa,M,"5'08""",10 08,25-08-84,Tokyo,None,Nagoya Grampus Eight,2007,Japanese
-30,30,Akira Takeuchi,D,"5'11""",11 03,18-06-83,Kanagawa,None,Nagoya Grampus Eight,2007,Japanese
-31,31,Shohei Abe,D,"5'07""",10 12,01-12-83,Chiba,None,Nagoya Grampus Eight,2007,Japanese
-32,32,Jun Aoyama,M,"6'00""",10 03,03-01-88,Miyagi,None,Nagoya Grampus Eight,2007,Japanese
-33,33,Shingo Wada,M,"5'10""",11 07,07-08-87,Shizuoka,Jubilo Iwata,Nagoya Grampus Eight,2007,Japanese
-34,34,Maya Yoshida,M,"6'01""",12 04,24-08-88,Nagasaki,None,Nagoya Grampus Eight,2007,Japanese
-35,35,Wataru Inoue,M,"5'09""",10 06,07-08-86,Shizuoka,None,Nagoya Grampus Eight,2007,Japanese
-36,36,Koichi Hirono,G,"5'11""",12 00,16-04-80,Nara,Takada FC,Nagoya Grampus Eight,2007,Japanese
-37,37,Toru Hasegawa,G,"6'02""",10 06,11-12-88,Aichi,None,Nagoya Grampus Eight,2007,Japanese
-38,38,Oribe Niikawa,F,"5'06""",09 13,16-07-88,Gifu,None,Nagoya Grampus Eight,2007,Japanese
-39,39,Shinta Fukushima,M,"5'07""",10 08,28-01-89,Aichi,None,Nagoya Grampus Eight,2007,Japanese
-40,40,Sho Hanai,M,"5'10""",09 11,10-11-89,Aichi,None,Nagoya Grampus Eight,2007,Japanese
-41,41,Koji Hashimoto,F,"5'09""",10 10,22-04-86,Ishikawa,None,Nagoya Grampus Eight,2007,Japanese
+1,1,Seigo Narazaki,G,"6'01""",12 00,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2007,Japanese
+3,3,Marek Spilar,D,"6'03""",13 03,11-02-75,Stropkov,Club Brugge,Nagoya Grampus,2007,Japanese
+4,4,Masayuki Omori,M,"5'09""",11 07,09-11-76,Saitama,Sagan Tosu,Nagoya Grampus,2007,Japanese
+5,5,Atsushi Yoneyama,D,"5'11""",12 00,20-11-76,Tochigi,Kawasaki Frontale,Nagoya Grampus,2007,Japanese
+7,7,Naoshi Nakamura,M,"5'09""",11 00,27-01-79,Chiba,None,Nagoya Grampus,2007,Japanese
+8,8,Kim Jung-Woo,M,"6'00""",11 00,09-05-82,,Ulsan Hyundai Horang-i,Nagoya Grampus,2007,Japanese
+9,9,Frode Johnsen,F,"6'02""",12 08,17-03-74,Skien,Rosenborg,Nagoya Grampus,2007,Japanese
+10,10,Toshiya Fujita,M,"5'09""",10 01,04-10-71,Shizuoka,Jubilo Iwata,Nagoya Grampus,2007,Japanese
+11,11,Keiji Tamada,F,"5'08""",09 13,11-04-80,Chiba,None,Nagoya Grampus,2007,Japanese
+13,13,Kei Yamaguchi,M,"5'08""",10 01,11-06-83,Kyoto,None,Nagoya Grampus,2007,Japanese
+14,14,Keiji Yoshimura,M,"5'09""",10 10,08-08-79,Ehime,None,Nagoya Grampus,2007,Japanese
+15,15,Sho Kamogawa,F,"5'09""",10 03,07-02-83,Oita,None,Nagoya Grampus,2007,Japanese
+16,16,Takahiro Masukawa,D,"6'03""",14 07,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus,2007,Japanese
+17,17,Yuki Maki,F,"6'00""",11 11,26-06-84,Kumamoto,None,Nagoya Grampus,2007,Japanese
+18,18,Shunichi Nakajima,M,"5'08""",10 10,16-06-82,Gumma,None,Nagoya Grampus,2007,Japanese
+19,19,Keita Sugimoto,F,"5'08""",10 03,13-06-82,Ibaraki,None,Nagoya Grampus,2007,Japanese
+20,20,Seiji Kaneko,D,"5'11""",11 11,27-05-80,Fukuoka,Kashima Antlers,Nagoya Grampus,2007,Japanese
+21,21,Ryo Kushino,G,"6'01""",11 09,03-03-79,Kumamoto,JEF United,Nagoya Grampus,2007,Japanese
+22,22,Kazuto Tsuyuki,D,"5'07""",10 06,14-08-84,Shizuoka,None,Nagoya Grampus,2007,Japanese
+24,24,Keisuke Honda,M,"5'11""",11 09,13-06-86,Osaka,Gamba Osaka,Nagoya Grampus,2007,Japanese
+25,25,Yusuke Sudo,M,"6'00""",11 03,07-05-86,Tokyo,Tokyo Verdy,Nagoya Grampus,2007,Japanese
+26,26,Tomohiro Tsuda,F,"5'10""",11 05,06-05-86,Gifu,None,Nagoya Grampus,2007,Japanese
+27,27,Shosuke Katayama,D,"5'07""",10 12,08-09-83,Nara,None,Nagoya Grampus,2007,Japanese
+28,28,Keiji Watanabe,M,"5'08""",10 01,28-01-85,Shizuoka,None,Nagoya Grampus,2007,Japanese
+29,29,Yoshizumi Ogawa,M,"5'08""",10 08,25-08-84,Tokyo,None,Nagoya Grampus,2007,Japanese
+30,30,Akira Takeuchi,D,"5'11""",11 03,18-06-83,Kanagawa,None,Nagoya Grampus,2007,Japanese
+31,31,Shohei Abe,D,"5'07""",10 12,01-12-83,Chiba,None,Nagoya Grampus,2007,Japanese
+32,32,Jun Aoyama,M,"6'00""",10 03,03-01-88,Miyagi,None,Nagoya Grampus,2007,Japanese
+33,33,Shingo Wada,M,"5'10""",11 07,07-08-87,Shizuoka,Jubilo Iwata,Nagoya Grampus,2007,Japanese
+34,34,Maya Yoshida,M,"6'01""",12 04,24-08-88,Nagasaki,None,Nagoya Grampus,2007,Japanese
+35,35,Wataru Inoue,M,"5'09""",10 06,07-08-86,Shizuoka,None,Nagoya Grampus,2007,Japanese
+36,36,Koichi Hirono,G,"5'11""",12 00,16-04-80,Nara,Takada FC,Nagoya Grampus,2007,Japanese
+37,37,Toru Hasegawa,G,"6'02""",10 06,11-12-88,Aichi,None,Nagoya Grampus,2007,Japanese
+38,38,Oribe Niikawa,F,"5'06""",09 13,16-07-88,Gifu,None,Nagoya Grampus,2007,Japanese
+39,39,Shinta Fukushima,M,"5'07""",10 08,28-01-89,Aichi,None,Nagoya Grampus,2007,Japanese
+40,40,Sho Hanai,M,"5'10""",09 11,10-11-89,Aichi,None,Nagoya Grampus,2007,Japanese
+41,41,Koji Hashimoto,F,"5'09""",10 10,22-04-86,Ishikawa,None,Nagoya Grampus,2007,Japanese
 1,1,Shusaku Nishikawa,G,"6'00""",12 06,18-06-86,Oita,None,Oita Trinita,2007,Japanese
 2,2,Takashi Miki,D,"5'10""",11 07,23-07-78,Kanagawa,Bellmare Hiratsuka,Oita Trinita,2007,Japanese
 3,3,Roberto,M,"5'11""",11 11,20-02-79,,Avispa Fukuoka,Oita Trinita,2007,Japanese
@@ -301,7 +301,7 @@
 7,7,Naoya Saeki,M,"5'08""",10 06,18-12-77,Tokyo,Vissel Kobe,Omiya Ardija,2007,Japanese
 8,8,Daigo Kobayashi,M,"5'10""",11 00,19-02-83,Shizuoka,Tokyo Verdy,Omiya Ardija,2007,Japanese
 9,9,Kota Yoshihara,F,"5'07""",11 00,02-02-78,Osaka,Gamba Osaka,Omiya Ardija,2007,Japanese
-11,11,Chikara Fujimoto,M,"5'06""",10 10,31-10-77,Yamaguchi,Nagoya Grampus Eight,Omiya Ardija,2007,Japanese
+11,11,Chikara Fujimoto,M,"5'06""",10 10,31-10-77,Yamaguchi,Nagoya Grampus,Omiya Ardija,2007,Japanese
 13,13,Manabu Wakabayashi,F,"6'02""",12 02,03-06-79,Tochigi,Tochigi SC,Omiya Ardija,2007,Japanese
 14,14,Hiroshi Morita,F,"6'02""",12 04,18-05-78,Kumamoto,Albirex Niigata,Omiya Ardija,2007,Japanese
 15,15,Masato Saito,M,"5'08""",10 03,01-12-75,Saitama,None,Omiya Ardija,2007,Japanese
@@ -313,7 +313,7 @@
 22,22,Terukazu Tanaka,D,"5'08""",10 06,14-07-85,Osaka,Gamba Osaka,Omiya Ardija,2007,Japanese
 23,23,Haruki Nishimura,D,"6'00""",10 08,31-05-87,Saitama,None,Omiya Ardija,2007,Japanese
 24,24,Takaya Kawanabe,M,"5'09""",09 11,22-12-88,Saitama,None,Omiya Ardija,2007,Japanese
-25,25,Yasunari Hiraoka,D,"6'01""",11 05,13-03-72,Tochigi,Nagoya Grampus Eight,Omiya Ardija,2007,Japanese
+25,25,Yasunari Hiraoka,D,"6'01""",11 05,13-03-72,Tochigi,Nagoya Grampus,Omiya Ardija,2007,Japanese
 26,26,Yusuke Shimada,M,"5'07""",10 06,19-01-82,Saitama,None,Omiya Ardija,2007,Japanese
 28,28,Takashi Hirano,M,"5'11""",11 07,15-07-74,Shizuoka,Yokohama F Marinos,Omiya Ardija,2007,Japanese
 29,29,Dênis Marques,F,"6'00""",11 09,22-02-81,Maceió,Atlético Paranaense,Omiya Ardija,2007,Japanese
@@ -350,7 +350,7 @@
 28,28,Tomoaki Makino,D,"5'11""",11 07,11-05-87,Hiroshima,None,Sanfrecce Hiroshima,2007,Japanese
 29,29,Cho Woo-Jin,F,"5'09""",10 10,07-07-87,,Pohang Steelers,Sanfrecce Hiroshima,2007,Japanese
 30,30,Kazuma Irifune,D,"5'09""",10 10,15-11-86,Miyazaki,None,Sanfrecce Hiroshima,2007,Japanese
-36,36,Naoto Kono,G,"6'02""",12 01,09-09-85,Kanagawa,Nagoya Grampus Eight,Sanfrecce Hiroshima,2007,Japanese
+36,36,Naoto Kono,G,"6'02""",12 01,09-09-85,Kanagawa,Nagoya Grampus,Sanfrecce Hiroshima,2007,Japanese
 1,1,Makoto Kakegawa,G,"6'03""",12 11,23-05-73,Saitama,Vissel Kobe,Shimizu S-Pulse,2007,Japanese
 2,2,Arata Kodama,D,"5'10""",11 05,08-10-82,Osaka,Gamba Osaka,Shimizu S-Pulse,2007,Japanese
 3,3,Takahiro Yamanishi,D,"5'08""",11 00,02-04-76,Shizuoka,Jubilo Iwata,Shimizu S-Pulse,2007,Japanese
@@ -469,7 +469,7 @@
 26,26,Kazunari Hosaka,M,"5'08""",09 13,24-03-83,Tokyo,None,Ventforet Kofu,2007,Japanese
 27,27,Takafumi Mikuriya,D,"5'11""",10 12,11-05-84,Nagasaki,None,Ventforet Kofu,2007,Japanese
 28,28,Shota Kimura,F,"5'11""",11 11,17-10-88,Tokyo,Yokohama F Marinos,Ventforet Kofu,2007,Japanese
-29,29,Eisei Tomioka,F,"5'11""",11 05,01-07-84,Aichi,Nagoya Grampus Eight,Ventforet Kofu,2007,Japanese
+29,29,Eisei Tomioka,F,"5'11""",11 05,01-07-84,Aichi,Nagoya Grampus,Ventforet Kofu,2007,Japanese
 30,30,Shogo Tokihisa,G,"6'02""",13 01,15-04-84,Fukuoka,None,Ventforet Kofu,2007,Japanese
 31,31,Kentaro Hayashi,M,"6'00""",11 11,29-08-72,Tokyo,Tokyo Verdy,Ventforet Kofu,2007,Japanese
 32,32,Arata Sugiyama,D,"5'06""",10 10,25-07-80,Saitama,Kashiwa Reysol,Ventforet Kofu,2007,Japanese
@@ -529,7 +529,7 @@
 10,10,Tomoya Uchida,M,"5'05""",09 02,10-07-83,Mie,None,Yokohama FC,2007,Japanese
 11,11,Kazuyoshi Miura,F,"5'10""",11 05,26-02-67,Shizuoka,Vissel Kobe,Yokohama FC,2007,Japanese
 12,12,Kunihiko Takizawa,M,"5'09""",10 01,20-04-78,Tokyo,JEF United,Yokohama FC,2007,Japanese
-13,13,Chong Yong-Dae,M,"5'10""",11 11,04-02-78,Aichi,Nagoya Grampus Eight,Yokohama FC,2007,Japanese
+13,13,Chong Yong-Dae,M,"5'10""",11 11,04-02-78,Aichi,Nagoya Grampus,Yokohama FC,2007,Japanese
 14,14,Daisuke Oku,M,"5'08""",11 05,07-02-76,Hyogo,Yokohama F Marinos,Yokohama FC,2007,Japanese
 15,15,Yohei Sakai,M,"5'10""",10 01,10-04-86,Kanagawa,Yokohama Marinos,Yokohama FC,2007,Japanese
 16,16,Mitsunori Yabuta,M,"5'09""",10 08,02-05-76,Kanagawa,Avispa Fukuoka,Yokohama FC,2007,Japanese

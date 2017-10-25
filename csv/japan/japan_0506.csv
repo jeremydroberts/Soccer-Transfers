@@ -13,10 +13,10 @@
 14,14,Naoki Takahashi,D,"5'10""",10 10,08-08-76,Fukuoka,None,Albirex Niigata,2005,Japanese
 15,15,Isao Homma,M,"5'08""",09 06,19-04-81,Niigata,None,Albirex Niigata,2005,Japanese
 16,16,Yoshito Terakawa,M,"5'11""",10 03,06-09-74,Hyogo,Oita Trinita,Albirex Niigata,2005,Japanese
-17,17,Kojiro Kaimoto,M,"6'00""",12 01,14-10-77,Osaka,Nagoya Grampus Eight,Albirex Niigata,2005,Japanese
+17,17,Kojiro Kaimoto,M,"6'00""",12 01,14-10-77,Osaka,Nagoya Grampus,Albirex Niigata,2005,Japanese
 18,18,Shingo Suzuki,M,"5'06""",09 13,20-03-78,Saitama,Kyoto Purple Sanga,Albirex Niigata,2005,Japanese
-19,19,Keiji Kaimoto,D,"5'11""",11 11,26-11-72,Osaka,Nagoya Grampus Eight,Albirex Niigata,2005,Japanese
-20,20,Tetsuya Okayama,M,"5'08""",11 07,27-08-73,Aichi,Nagoya Grampus Eight,Albirex Niigata,2005,Japanese
+19,19,Keiji Kaimoto,D,"5'11""",11 11,26-11-72,Osaka,Nagoya Grampus,Albirex Niigata,2005,Japanese
+20,20,Tetsuya Okayama,M,"5'08""",11 07,27-08-73,Aichi,Nagoya Grampus,Albirex Niigata,2005,Japanese
 21,21,Yosuke Nozawa,G,"5'11""",12 01,09-11-79,Shizuoka,Shimizu S-Pulse,Albirex Niigata,2005,Japanese
 22,22,Takashi Kitano,G,"6'01""",11 11,04-10-82,Hokkaido,None,Albirex Niigata,2005,Japanese
 23,23,Ryuji Sueoka,M,"5'07""",09 11,22-05-79,Yamaguchi,None,Albirex Niigata,2005,Japanese
@@ -106,7 +106,7 @@
 8,8,Gabriel Popescu,M,"5'10""",11 09,25-12-73,,Suwon Bluewings,JEF United,2005,Japanese
 9,9,Takenori Hayashi,F,"5'06""",10 01,14-10-80,Nara,None,JEF United,2005,Japanese
 10,10,Mario Haas,F,"5'11""",12 08,16-09-74,Graz,Sturm Graz,JEF United,2005,Japanese
-13,13,Kunihiko Takizawa,M,"5'09""",10 01,20-04-78,Tokyo,Nagoya Grampus Eight,JEF United,2005,Japanese
+13,13,Kunihiko Takizawa,M,"5'09""",10 01,20-04-78,Tokyo,Nagoya Grampus,JEF United,2005,Japanese
 14,14,Haruki Seto,M,"5'11""",11 05,14-03-78,Toyama,Oita Trinita,JEF United,2005,Japanese
 15,15,Koji Nakajima,M,"5'11""",10 10,20-08-77,Osaka,Vegalta Sendai,JEF United,2005,Japanese
 16,16,Satoru Yamagishi,M,"5'10""",10 10,03-05-83,Chiba,None,JEF United,2005,Japanese
@@ -202,7 +202,7 @@
 11,11,França,F,"6'00""",10 12,02-03-76,Codó,Bayer Leverkusen,Kashiwa Reysol,2005,Japanese
 12,12,Tadatoshi Masuda,M,"5'07""",11 00,25-12-73,Shizuoka,JEF United,Kashiwa Reysol,2005,Japanese
 13,13,Yuzo Kobayashi,D,"5'09""",11 05,15-11-85,Tokyo,None,Kashiwa Reysol,2005,Japanese
-14,14,Harutaka Ono,M,"5'08""",11 05,12-05-78,Saitama,Nagoya Grampus Eight,Kashiwa Reysol,2005,Japanese
+14,14,Harutaka Ono,M,"5'08""",11 05,12-05-78,Saitama,Nagoya Grampus,Kashiwa Reysol,2005,Japanese
 15,15,Tatsuya Yazawa,M,"5'09""",11 05,03-10-84,Shizuoka,None,Kashiwa Reysol,2005,Japanese
 16,16,Erikson Noguchipinto,G,"6'00""",13 01,27-01-81,,Oita Trinita,Kashiwa Reysol,2005,Japanese
 17,17,Yukio Tsuchiya,D,"5'10""",11 09,31-07-74,Tokyo,Vissel Kobe,Kashiwa Reysol,2005,Japanese
@@ -237,7 +237,7 @@
 14,14,Kengo Nakamura,M,"5'09""",10 06,31-10-80,Tokyo,None,Kawasaki Frontale,2005,Japanese
 15,15,Hiroyuki Kobayashi,D,"5'11""",11 05,18-04-80,Hokkaido,Urawa Red Diamonds,Kawasaki Frontale,2005,Japanese
 16,16,Kazunori Iio,F,"5'06""",10 03,23-02-82,Iwate,Tokyo Verdy,Kawasaki Frontale,2005,Japanese
-17,17,Chong Yong-Dae,M,"5'10""",11 11,04-02-78,Aichi,Nagoya Grampus Eight,Kawasaki Frontale,2005,Japanese
+17,17,Chong Yong-Dae,M,"5'10""",11 11,04-02-78,Aichi,Nagoya Grampus,Kawasaki Frontale,2005,Japanese
 18,18,Akira Konno,M,"5'05""",08 11,12-09-74,Iwate,Jubilo Iwata,Kawasaki Frontale,2005,Japanese
 19,19,Hulk,F,"5'10""",10 10,25-07-86,,Vitoria,Kawasaki Frontale,2005,Japanese
 20,20,Yasuhiro Nagahashi,M,"5'08""",11 00,02-08-75,Shizuoka,Shimizu S-Pulse,Kawasaki Frontale,2005,Japanese
@@ -257,39 +257,39 @@
 34,34,Yuki Uekusa,G,"6'01""",12 08,02-07-82,Chiba,None,Kawasaki Frontale,2005,Japanese
 35,35,Taku Harada,M,"5'09""",11 00,27-10-82,Kumamoto,Oita Trinita,Kawasaki Frontale,2005,Japanese
 36,36,Aragoney Da Silva Santos,M,"5'09""",10 12,07-03-87,,Corinthians,Kawasaki Frontale,2005,Japanese
-1,1,Seigo Narazaki,G,"6'01""",12 00,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus Eight,2005,Japanese
-2,2,Yutaka Akita,D,"5'11""",12 04,06-08-70,Aichi,Kashima Antlers,Nagoya Grampus Eight,2005,Japanese
-3,3,Yusuke Igawa,D,"6'00""",11 09,30-10-82,Osaka,Gamba Osaka,Nagoya Grampus Eight,2005,Japanese
-4,4,Masayuki Omori,M,"5'09""",11 07,09-11-76,Saitama,Sagan Tosu,Nagoya Grampus Eight,2005,Japanese
-5,5,Masahiro Koga,D,"6'01""",12 06,08-09-78,Fukuoka,None,Nagoya Grampus Eight,2005,Japanese
-6,6,Yusuke Nakatani,D,"5'10""",10 01,22-09-78,Osaka,Kawasaki Frontale,Nagoya Grampus Eight,2005,Japanese
-7,7,Naoshi Nakamura,M,"5'09""",11 00,27-01-79,Chiba,None,Nagoya Grampus Eight,2005,Japanese
-8,8,Claiton Dos Santos,M,"5'10""",12 08,25-01-78,,Santos,Nagoya Grampus Eight,2005,Japanese
-10,10,Toshiya Fujita,M,"5'09""",10 01,04-10-71,Shizuoka,Jubilo Iwata,Nagoya Grampus Eight,2005,Japanese
-13,13,Kei Yamaguchi,M,"5'08""",10 01,11-06-83,Kyoto,None,Nagoya Grampus Eight,2005,Japanese
-14,14,Keiji Yoshimura,M,"5'09""",10 10,08-08-79,Ehime,None,Nagoya Grampus Eight,2005,Japanese
-15,15,Sho Kamogawa,F,"5'09""",10 03,07-02-83,Oita,None,Nagoya Grampus Eight,2005,Japanese
-16,16,Takahiro Masukawa,D,"6'03""",14 07,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus Eight,2005,Japanese
-17,17,An Yong Hak,M,"6'00""",11 11,25-10-78,Okayama,Albirex Niigata,Nagoya Grampus Eight,2005,Japanese
-18,18,Shunichi Nakajima,M,"5'08""",10 10,16-06-82,Gumma,None,Nagoya Grampus Eight,2005,Japanese
-19,19,Keita Sugimoto,F,"5'08""",10 03,13-06-82,Ibaraki,None,Nagoya Grampus Eight,2005,Japanese
-20,20,Makoto Kakuda,D,"5'10""",11 11,10-07-83,Kyoto,Kyoto Purple Sanga,Nagoya Grampus Eight,2005,Japanese
-22,22,Eiji Kawashima,G,"6'01""",11 09,20-03-83,Saitama,Omiya Ardija,Nagoya Grampus Eight,2005,Japanese
-23,23,Yohei Toyoda,F,"6'01""",12 06,11-04-85,Ishikawa,None,Nagoya Grampus Eight,2005,Japanese
-24,24,Keisuke Honda,M,"5'11""",11 09,13-06-86,Osaka,Gamba Osaka,Nagoya Grampus Eight,2005,Japanese
-25,25,Yusuke Sudo,M,"6'00""",11 03,07-05-86,Tokyo,Tokyo Verdy,Nagoya Grampus Eight,2005,Japanese
-26,26,Kiyohiro Hirabayashi,M,"5'08""",10 10,04-06-84,Aichi,None,Nagoya Grampus Eight,2005,Japanese
-27,27,Jorge Sebastian Nunez,M,"5'10""",11 07,10-12-86,,Centro Recreativo,Nagoya Grampus Eight,2005,Japanese
-28,28,Keiji Watanabe,M,"5'08""",10 01,28-01-85,Shizuoka,None,Nagoya Grampus Eight,2005,Japanese
-29,29,Tsukasa Nishikawa,M,"5'08""",10 08,22-05-85,Ehime,None,Nagoya Grampus Eight,2005,Japanese
-31,31,Kenta Moroe,D,"5'11""",10 12,27-05-85,Ishikawa,None,Nagoya Grampus Eight,2005,Japanese
-32,32,Satoshi Nakayama,F,"6'00""",12 06,07-11-81,Miyazaki,Gamba Osaka,Nagoya Grampus Eight,2005,Japanese
-34,34,Tomoyasu Naito,G,"6'00""",12 08,11-09-86,Kanagawa,None,Nagoya Grampus Eight,2005,Japanese
-35,35,Wataru Inoue,M,"5'09""",10 06,07-08-86,Shizuoka,None,Nagoya Grampus Eight,2005,Japanese
-36,36,Koichi Hirono,G,"5'11""",12 00,16-04-80,Nara,Takada FC,Nagoya Grampus Eight,2005,Japanese
-37,37,Tomohiro Tsuda,F,"5'10""",11 05,06-05-86,Gifu,None,Nagoya Grampus Eight,2005,Japanese
-38,38,Ryota Takahashi,M,"5'09""",11 00,28-12-86,Tokushima,None,Nagoya Grampus Eight,2005,Japanese
-39,39,Eduardo Conceicao Maciel,F,"5'07""",11 03,12-11-86,,Corinthians,Nagoya Grampus Eight,2005,Japanese
+1,1,Seigo Narazaki,G,"6'01""",12 00,15-04-76,Nara,Yokohama Flugels,Nagoya Grampus,2005,Japanese
+2,2,Yutaka Akita,D,"5'11""",12 04,06-08-70,Aichi,Kashima Antlers,Nagoya Grampus,2005,Japanese
+3,3,Yusuke Igawa,D,"6'00""",11 09,30-10-82,Osaka,Gamba Osaka,Nagoya Grampus,2005,Japanese
+4,4,Masayuki Omori,M,"5'09""",11 07,09-11-76,Saitama,Sagan Tosu,Nagoya Grampus,2005,Japanese
+5,5,Masahiro Koga,D,"6'01""",12 06,08-09-78,Fukuoka,None,Nagoya Grampus,2005,Japanese
+6,6,Yusuke Nakatani,D,"5'10""",10 01,22-09-78,Osaka,Kawasaki Frontale,Nagoya Grampus,2005,Japanese
+7,7,Naoshi Nakamura,M,"5'09""",11 00,27-01-79,Chiba,None,Nagoya Grampus,2005,Japanese
+8,8,Claiton Dos Santos,M,"5'10""",12 08,25-01-78,,Santos,Nagoya Grampus,2005,Japanese
+10,10,Toshiya Fujita,M,"5'09""",10 01,04-10-71,Shizuoka,Jubilo Iwata,Nagoya Grampus,2005,Japanese
+13,13,Kei Yamaguchi,M,"5'08""",10 01,11-06-83,Kyoto,None,Nagoya Grampus,2005,Japanese
+14,14,Keiji Yoshimura,M,"5'09""",10 10,08-08-79,Ehime,None,Nagoya Grampus,2005,Japanese
+15,15,Sho Kamogawa,F,"5'09""",10 03,07-02-83,Oita,None,Nagoya Grampus,2005,Japanese
+16,16,Takahiro Masukawa,D,"6'03""",14 07,08-11-79,Hyogo,Avispa Fukuoka,Nagoya Grampus,2005,Japanese
+17,17,An Yong Hak,M,"6'00""",11 11,25-10-78,Okayama,Albirex Niigata,Nagoya Grampus,2005,Japanese
+18,18,Shunichi Nakajima,M,"5'08""",10 10,16-06-82,Gumma,None,Nagoya Grampus,2005,Japanese
+19,19,Keita Sugimoto,F,"5'08""",10 03,13-06-82,Ibaraki,None,Nagoya Grampus,2005,Japanese
+20,20,Makoto Kakuda,D,"5'10""",11 11,10-07-83,Kyoto,Kyoto Purple Sanga,Nagoya Grampus,2005,Japanese
+22,22,Eiji Kawashima,G,"6'01""",11 09,20-03-83,Saitama,Omiya Ardija,Nagoya Grampus,2005,Japanese
+23,23,Yohei Toyoda,F,"6'01""",12 06,11-04-85,Ishikawa,None,Nagoya Grampus,2005,Japanese
+24,24,Keisuke Honda,M,"5'11""",11 09,13-06-86,Osaka,Gamba Osaka,Nagoya Grampus,2005,Japanese
+25,25,Yusuke Sudo,M,"6'00""",11 03,07-05-86,Tokyo,Tokyo Verdy,Nagoya Grampus,2005,Japanese
+26,26,Kiyohiro Hirabayashi,M,"5'08""",10 10,04-06-84,Aichi,None,Nagoya Grampus,2005,Japanese
+27,27,Jorge Sebastian Nunez,M,"5'10""",11 07,10-12-86,,Centro Recreativo,Nagoya Grampus,2005,Japanese
+28,28,Keiji Watanabe,M,"5'08""",10 01,28-01-85,Shizuoka,None,Nagoya Grampus,2005,Japanese
+29,29,Tsukasa Nishikawa,M,"5'08""",10 08,22-05-85,Ehime,None,Nagoya Grampus,2005,Japanese
+31,31,Kenta Moroe,D,"5'11""",10 12,27-05-85,Ishikawa,None,Nagoya Grampus,2005,Japanese
+32,32,Satoshi Nakayama,F,"6'00""",12 06,07-11-81,Miyazaki,Gamba Osaka,Nagoya Grampus,2005,Japanese
+34,34,Tomoyasu Naito,G,"6'00""",12 08,11-09-86,Kanagawa,None,Nagoya Grampus,2005,Japanese
+35,35,Wataru Inoue,M,"5'09""",10 06,07-08-86,Shizuoka,None,Nagoya Grampus,2005,Japanese
+36,36,Koichi Hirono,G,"5'11""",12 00,16-04-80,Nara,Takada FC,Nagoya Grampus,2005,Japanese
+37,37,Tomohiro Tsuda,F,"5'10""",11 05,06-05-86,Gifu,None,Nagoya Grampus,2005,Japanese
+38,38,Ryota Takahashi,M,"5'09""",11 00,28-12-86,Tokushima,None,Nagoya Grampus,2005,Japanese
+39,39,Eduardo Conceicao Maciel,F,"5'07""",11 03,12-11-86,,Corinthians,Nagoya Grampus,2005,Japanese
 1,1,Hayato Okanaka,G,"6'01""",13 05,26-09-68,Hyogo,Gamba Osaka,Oita Trinita,2005,Japanese
 2,2,Takashi Miki,D,"5'10""",11 07,23-07-78,Kanagawa,Bellmare Hiratsuka,Oita Trinita,2005,Japanese
 3,3,Yuichi Shibakoya,D,"6'02""",12 13,16-06-83,Miyagi,Mito Hollyhock,Oita Trinita,2005,Japanese
@@ -326,8 +326,8 @@
 7,7,Shin Kanazawa,M,"5'09""",10 08,09-09-83,Saitama,None,Omiya Ardija,2005,Japanese
 8,8,Masahiro Ando,M,"5'09""",10 08,02-04-72,Saitama,Kyoto Purple Sanga,Omiya Ardija,2005,Japanese
 10,10,Tuto,F,"6'00""",11 11,02-07-78,,Shimizu S-Pulse,Omiya Ardija,2005,Japanese
-11,11,Chikara Fujimoto,M,"5'06""",10 10,31-10-77,Yamaguchi,Nagoya Grampus Eight,Omiya Ardija,2005,Japanese
-13,13,Yasunari Hiraoka,D,"6'01""",11 05,13-03-72,Tochigi,Nagoya Grampus Eight,Omiya Ardija,2005,Japanese
+11,11,Chikara Fujimoto,M,"5'06""",10 10,31-10-77,Yamaguchi,Nagoya Grampus,Omiya Ardija,2005,Japanese
+13,13,Yasunari Hiraoka,D,"6'01""",11 05,13-03-72,Tochigi,Nagoya Grampus,Omiya Ardija,2005,Japanese
 14,14,Hiroshi Morita,F,"6'02""",12 04,18-05-78,Kumamoto,Albirex Niigata,Omiya Ardija,2005,Japanese
 15,15,Masato Saito,M,"5'08""",10 03,01-12-75,Saitama,None,Omiya Ardija,2005,Japanese
 16,16,Tatsunori Hisanaga,M,"5'07""",10 01,23-12-77,Kagoshima,Avispa Fukuoka,Omiya Ardija,2005,Japanese
@@ -372,7 +372,7 @@
 24,24,Shunsuke Maeda,F,"5'08""",11 00,09-06-86,Nara,None,Sanfrecce Hiroshima,2005,Japanese
 25,25,Issei Takayanagi,D,"5'08""",10 03,14-09-86,Kanagawa,None,Sanfrecce Hiroshima,2005,Japanese
 26,26,Yojiro Takahagi,M,"6'00""",10 01,02-08-86,Fukushima,None,Sanfrecce Hiroshima,2005,Japanese
-27,27,Jorghino,F,"5'09""",11 07,04-12-85,,Nagoya Grampus Eight,Sanfrecce Hiroshima,2005,Japanese
+27,27,Jorghino,F,"5'09""",11 07,04-12-85,,Nagoya Grampus,Sanfrecce Hiroshima,2005,Japanese
 28,28,Megumu Yoshida,D,"5'10""",11 05,13-04-73,Aichi,JEF United,Sanfrecce Hiroshima,2005,Japanese
 29,29,Ryoto Moriwaki,D,"5'09""",11 07,06-04-86,Hiroshima,None,Sanfrecce Hiroshima,2005,Japanese
 30,30,Kazuma Irifune,D,"5'09""",10 10,15-11-86,Miyazaki,None,Sanfrecce Hiroshima,2005,Japanese
@@ -416,7 +416,7 @@
 1,1,Yoichi Doi,G,"6'00""",13 03,25-07-73,Kumamoto,Kashiwa Reysol,FC Tokyo,2005,Japanese
 2,2,Teruyuki Moniwa,D,"5'11""",12 01,08-09-81,Kanagawa,Shonan Bellmare,FC Tokyo,2005,Japanese
 3,3,Jean Carlo Witte,D,"6'01""",12 00,24-09-77,,Santos,FC Tokyo,2005,Japanese
-4,4,Taisei Fujita,D,"5'07""",10 06,31-01-82,Kochi,Nagoya Grampus Eight,FC Tokyo,2005,Japanese
+4,4,Taisei Fujita,D,"5'07""",10 06,31-01-82,Kochi,Nagoya Grampus,FC Tokyo,2005,Japanese
 5,5,Tatsuya Masushima,D,"5'11""",11 09,22-04-85,Chiba,None,FC Tokyo,2005,Japanese
 6,6,Yasuyuki Konno,M,"5'10""",11 07,25-01-83,Miyagi,Consadole Sapporo,FC Tokyo,2005,Japanese
 7,7,Satoru Asari,M,"5'09""",11 00,10-06-74,Saitama,None,FC Tokyo,2005,Japanese
@@ -485,7 +485,7 @@
 4,4,Marcus Tulio Tanaka,D,"6'01""",12 13,24-04-81,,Sanfrecce Hiroshima,Urawa Red Diamonds,2005,Japanese
 5,5,Nene,D,"6'01""",12 06,06-06-75,,Vitoria,Urawa Red Diamonds,2005,Japanese
 6,6,Nobuhisa Yamada,M,"5'09""",10 06,10-09-75,Shizuoka,None,Urawa Red Diamonds,2005,Japanese
-7,7,Tomoyuki Sakai,M,"5'07""",10 08,29-06-79,Saitama,Nagoya Grampus Eight,Urawa Red Diamonds,2005,Japanese
+7,7,Tomoyuki Sakai,M,"5'07""",10 08,29-06-79,Saitama,Nagoya Grampus,Urawa Red Diamonds,2005,Japanese
 8,8,Alex,M,"5'10""",10 12,20-07-77,Maringá,Shimizu S-Pulse,Urawa Red Diamonds,2005,Japanese
 9,9,Yuichiro Nagai,F,"6'00""",11 11,14-02-79,Tokyo,Karlsruhe,Urawa Red Diamonds,2005,Japanese
 10,10,Róbson Ponte,M,"5'09""",10 12,06-11-76,São Paulo,Bayer Leverkusen,Urawa Red Diamonds,2005,Japanese
@@ -539,7 +539,7 @@
 26,26,Noriaki Ishizawa,D,"5'10""",09 13,25-05-85,Hyogo,None,Vissel Kobe,2005,Japanese
 27,27,Yusuke Nakamura,M,"5'00""",07 08,06-10-86,Shizuoka,None,Vissel Kobe,2005,Japanese
 28,28,Hiroyuki Komoto,D,"6'00""",10 06,04-09-85,Kyoto,None,Vissel Kobe,2005,Japanese
-29,29,Seiji Honda,G,"6'00""",11 11,25-02-76,Tokushima,Nagoya Grampus Eight,Vissel Kobe,2005,Japanese
+29,29,Seiji Honda,G,"6'00""",11 11,25-02-76,Tokushima,Nagoya Grampus,Vissel Kobe,2005,Japanese
 30,30,Kenta Tokushige,G,"6'02""",13 03,09-03-84,Kagoshima,Urawa Red Diamonds,Vissel Kobe,2005,Japanese
 31,31,Keisuke Kurihara,M,"5'08""",10 06,20-05-73,Tokyo,Albirex Niigata,Vissel Kobe,2005,Japanese
 33,33,Hideo Tanaka,M,"5'08""",10 03,01-03-83,Kumamoto,None,Vissel Kobe,2005,Japanese

@@ -1,12 +1,12 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
 1,1,Danylo Kanevtsev,UKR,G,1.87,79,26-07-96,Kharkiv,Metalist Kharkiv,Chornomorets Odessa,2016,Ukrainian
-2,2,Oleksandr Azatskyy,UKR,D,1.90,89,13-09-94,Kharkiv,Dynamo Kyiv-2,Chornomorets Odessa,2016,Ukrainian
-3,3,Rizvan Ablitarov,UKR,D,1.92,80,18-04-89,Sudak,Obolon-Brovar Kyiv,Chornomorets Odessa,2016,Ukrainian
+2,2,Oleksandr Azatskyy,UKR,D,1.90,89,13-09-94,Kharkiv,Dynamo Kiev-2,Chornomorets Odessa,2016,Ukrainian
+3,3,Rizvan Ablitarov,UKR,D,1.92,80,18-04-89,Sudak,Obolon-Brovar Kiev,Chornomorets Odessa,2016,Ukrainian
 5,5,Davit Khocholava,GEO,D,1.92,80,02-08-93,Tbilisi,Shukura Kobuleti,Chornomorets Odessa,2016,Ukrainian
-6,6,Kyrylo Kovalets,UKR,M,1.78,68,02-07-93,Kyiv,Shakhtar Donetsk-3,Chornomorets Odessa,2016,Ukrainian
+6,6,Kyrylo Kovalets,UKR,M,1.78,68,02-07-93,Kiev,Shakhtar Donetsk-3,Chornomorets Odessa,2016,Ukrainian
 7,7,Dmytro Korkishko,UKR,F,1.75,68,04-05-90,Cherkasy,FC Poltava,Chornomorets Odessa,2016,Ukrainian
-8,8,Oleksandr Andriyevskyy,UKR,M,1.72,64,25-06-94,Kyiv,Dynamo Kyiv,Chornomorets Odessa,2016,Ukrainian
-9,9,Oleksiy Khoblenko,UKR,F,1.84,76,04-04-94,Yekaterinburg,Dynamo Kyiv-2,Chornomorets Odessa,2016,Ukrainian
+8,8,Oleksandr Andriyevskyy,UKR,M,1.72,64,25-06-94,Kiev,Dynamo Kiev,Chornomorets Odessa,2016,Ukrainian
+9,9,Oleksiy Khoblenko,UKR,F,1.84,76,04-04-94,Yekaterinburg,Dynamo Kiev-2,Chornomorets Odessa,2016,Ukrainian
 10,10,Artur Karnoza,UKR,M,1.61,59,20-08-90,Dnipropetrovsk,Karpaty Lviv,Chornomorets Odessa,2016,Ukrainian
 11,11,Yevhen Smirnov,UKR,M,1.85,75,16-04-93,,Chornomorets Odessa-2,Chornomorets Odessa,2016,Ukrainian
 15,15,Giorgi Gadrani,UKR,D,1.92,85,30-09-94,Tbilisi,Gagra,Chornomorets Odessa,2016,Ukrainian
@@ -16,7 +16,7 @@
 22,22,Vladyslav Kabayev,UKR,M,1.76,55,01-09-95,Odessa,Chornomorets Odessa-2,Chornomorets Odessa,2016,Ukrainian
 25,25,Yevhen Martynenko,UKR,D,1.93,75,25-06-93,Odessa,Chornomorets Odessa-2,Chornomorets Odessa,2016,Ukrainian
 26,26,Jorge Elias,BRA,F,1.80,80,06-06-91,,Kapfenberg,Chornomorets Odessa,2016,Ukrainian
-27,27,Serhiy Lyulka,UKR,D,1.78,70,22-02-90,Kyiv,Slovan Liberec,Chornomorets Odessa,2016,Ukrainian
+27,27,Serhiy Lyulka,UKR,D,1.78,70,22-02-90,Kiev,Slovan Liberec,Chornomorets Odessa,2016,Ukrainian
 33,33,Volodymyr Barilko,UKR,F,1.85,75,29-01-94,Kharkiv,Metalist Kharkiv-2,Chornomorets Odessa,2016,Ukrainian
 41,71,Dmytro Bezruk,UKR,G,1.90,75,30-03-96,Odessa,Chornomorets Odessa-2,Chornomorets Odessa,2016,Ukrainian
 42,75,Maksym Tretyakov,UKR,M,1.75,66,06-03-96,Troitsko-Safonove,Dnipro Dnipropetrovsk-2,Chornomorets Odessa,2016,Ukrainian
@@ -25,7 +25,7 @@
 1,1,Oleksiy Bashtanenko,UKR,G,1.88,82,16-03-94,Dnipropetrovsk,Dnipro-2,Dnipro,2016,Ukrainian
 2,2,Alexandru Vlad,ROU,D,1.85,77,06-12-89,Sighetu Marmației,Pandurii Târgu-Jiu,Dnipro,2016,Ukrainian
 3,3,Volodymyr Adamyuk,UKR,D,1.86,83,17-07-91,Sivka-Kaluska,Stal Dniprodzerzhynsk,Dnipro,2016,Ukrainian
-4,4,Serhiy Kravchenko,UKR,M,1.81,71,24-04-83,Donetsk,Dynamo Kyiv,Dnipro,2016,Ukrainian
+4,4,Serhiy Kravchenko,UKR,M,1.81,71,24-04-83,Donetsk,Dynamo Kiev,Dnipro,2016,Ukrainian
 5,5,Oleksandr Safronov,UKR,D,1.87,67,11-06-99,Zaporizhya,Dnipro-2,Dnipro,2016,Ukrainian
 8,8,Volodymyr Polovyy,UKR,D,1.70,63,28-07-85,Zaporizhya,Metalurh Donetsk,Dnipro,2016,Ukrainian
 9,9,Yuriy Vakulko,UKR,M,1.74,63,10-11-97,Odessa,Dnipro-2,Dnipro,2016,Ukrainian
@@ -37,40 +37,40 @@
 17,17,Denys Balanyuk,UKR,F,1.78,70,16-01-97,Odessa,Dnipro-2,Dnipro,2016,Ukrainian
 23,23,Yevhen Cheberko,UKR,D,1.77,66,23-01-98,,Dnipro-2,Dnipro,2016,Ukrainian
 25,25,Ihor Kokut,UKR,M,1.83,66,07-03-96,Dnipropetrovsk,Dnipro-2,Dnipro,2016,Ukrainian
-29,29,Ruslan Rotan,UKR,M,1.74,67,29-10-81,Poltava,Dynamo Kyiv,Dnipro,2016,Ukrainian
+29,29,Ruslan Rotan,UKR,M,1.74,67,29-10-81,Poltava,Dynamo Kiev,Dnipro,2016,Ukrainian
 33,33,Dmytro Nahiyev,UKR,D,1.76,70,27-11-95,,Dnipro-2,Dnipro,2016,Ukrainian
 39,39,Oleksandr Svatok,UKR,D,1.85,78,27-09-94,Dniprodzerzhynsk,Dnipro-2,Dnipro,2016,Ukrainian
 41,71,Maksym Lopyronok,UKR,D,1.86,78,13-04-95,,Dnipro-2,Dnipro,2016,Ukrainian
 42,77,Denys Shelikhov,UKR,G,1.88,83,23-06-89,Kherson,Dnipro-2,Dnipro,2016,Ukrainian
 43,87,Oleh Kozhushko,UKR,F,1.73,69,17-02-98,Mykolaiv,Dnipro-2,Dnipro,2016,Ukrainian
 44,99,Maksym Lunyov,UKR,M,1.77,67,22-05-98,Nikopol,Dnipro-2,Dnipro,2016,Ukrainian
-1,1,Heorhiy Bushchan,UKR,G,1.96,84,31-05-94,Odessa,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-4,4,Aleksandar Pantić,SRB,D,1.84,77,11-04-92,Arandjelovac,Villarreal,Dynamo Kyiv,2016,Ukrainian
-5,5,Vitorino Antunes,POR,D,1.75,69,01-04-87,Freamunde,Málaga,Dynamo Kyiv,2016,Ukrainian
-8,8,Volodymyr Shepelyev,UKR,M,1.84,73,01-06-97,Altestovo,Chornomorets Odessa-2,Dynamo Kyiv,2016,Ukrainian
-9,9,Mykola Morozyuk,UKR,M,1.76,70,17-01-88,Lviv,Metalurh Donetsk,Dynamo Kyiv,2016,Ukrainian
-10,10,Andriy Yarmolenko,UKR,F,1.87,76,23-10-89,Kyiv,Desna Chernihiv,Dynamo Kyiv,2016,Ukrainian
-14,14,Zurab Ochihava,UKR,D,1.86,74,18-05-95,Kyiv,Illichivets Mariupol,Dynamo Kyiv,2016,Ukrainian
-15,15,Viktor Tsyhankov,UKR,M,1.77,69,15-11-97,Nahariya,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-16,16,Serhiy Sydorchuk,UKR,M,1.88,76,02-05-91,Zaporizhya,Metalurh Zaporizhya,Dynamo Kyiv,2016,Ukrainian
-17,17,Serhiy Rybalka,UKR,M,1.80,74,01-04-90,Yamne,Arsenal Kharkiv,Dynamo Kyiv,2016,Ukrainian
-18,18,Nikita Korzun,BLR,M,1.74,68,06-02-95,Minsk,Dinamo Minsk,Dynamo Kyiv,2016,Ukrainian
-19,19,Denys Harmash,UKR,M,1.86,75,19-04-90,Luhansk,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-20,20,Roman Yaremchuk,UKR,F,1.92,69,27-11-95,Lviv,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-24,24,Domagoj Vida,CRO,D,1.82,70,29-04-89,Osijek,Dinamo Zagreb,Dynamo Kyiv,2016,Ukrainian
-25,25,Derlis González,PAR,F,1.72,64,23-03-94,Mariano Roque Alonso,Basel,Dynamo Kyiv,2016,Ukrainian
-26,26,Mykyta Burda,UKR,D,1.87,80,24-03-95,Yenakiieve,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-29,29,Vitaliy Buyalskyy,UKR,M,1.70,61,06-01-93,Kalinovka,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-32,32,Valeriy Fedorchuk,UKR,M,1.78,68,05-10-88,Netishyn,Dnipro Dnipropetrovsk,Dynamo Kyiv,2016,Ukrainian
-33,33,Volodymyr Makhankov,UKR,G,1.92,83,29-10-97,Slavutych,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-34,34,Yevhen Khacheridi,UKR,D,1.97,80,28-07-87,Melitopol,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-35,35,Maksym Koval,UKR,G,1.84,70,09-12-92,Zaporizhya,Metalurh Zaporizhya,Dynamo Kyiv,2016,Ukrainian
-40,40,Oleksandr Tymchyk,UKR,D,1.80,67,20-01-97,Kryklyvets,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-41,41,Artem Byesyedin,UKR,F,1.85,76,31-03-96,Kharkiv,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-42,42,Pavlo Lukyanchuk,UKR,D,1.78,65,19-05-96,Zaporizhya,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-43,44,Tamás Kádár,HUN,D,1.88,74,14-03-90,Veszprém,Lech Poznań,Dynamo Kyiv,2016,Ukrainian
-44,48,Pavlo Orikhovskyy,UKR,M,1.81,68,13-05-96,Chervonoarmiisk,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
-45,72,Artur Rudko,UKR,G,1.96,85,07-05-92,Kyiv,Dynamo Kyiv-2,Dynamo Kyiv,2016,Ukrainian
+1,1,Heorhiy Bushchan,UKR,G,1.96,84,31-05-94,Odessa,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+4,4,Aleksandar Pantić,SRB,D,1.84,77,11-04-92,Arandjelovac,Villarreal,Dynamo Kiev,2016,Ukrainian
+5,5,Vitorino Antunes,POR,D,1.75,69,01-04-87,Freamunde,Málaga,Dynamo Kiev,2016,Ukrainian
+8,8,Volodymyr Shepelyev,UKR,M,1.84,73,01-06-97,Altestovo,Chornomorets Odessa-2,Dynamo Kiev,2016,Ukrainian
+9,9,Mykola Morozyuk,UKR,M,1.76,70,17-01-88,Lviv,Metalurh Donetsk,Dynamo Kiev,2016,Ukrainian
+10,10,Andriy Yarmolenko,UKR,F,1.87,76,23-10-89,Kiev,Desna Chernihiv,Dynamo Kiev,2016,Ukrainian
+14,14,Zurab Ochihava,UKR,D,1.86,74,18-05-95,Kiev,Illichivets Mariupol,Dynamo Kiev,2016,Ukrainian
+15,15,Viktor Tsyhankov,UKR,M,1.77,69,15-11-97,Nahariya,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+16,16,Serhiy Sydorchuk,UKR,M,1.88,76,02-05-91,Zaporizhya,Metalurh Zaporizhya,Dynamo Kiev,2016,Ukrainian
+17,17,Serhiy Rybalka,UKR,M,1.80,74,01-04-90,Yamne,Arsenal Kharkiv,Dynamo Kiev,2016,Ukrainian
+18,18,Nikita Korzun,BLR,M,1.74,68,06-02-95,Minsk,Dinamo Minsk,Dynamo Kiev,2016,Ukrainian
+19,19,Denys Harmash,UKR,M,1.86,75,19-04-90,Luhansk,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+20,20,Roman Yaremchuk,UKR,F,1.92,69,27-11-95,Lviv,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+24,24,Domagoj Vida,CRO,D,1.82,70,29-04-89,Osijek,Dinamo Zagreb,Dynamo Kiev,2016,Ukrainian
+25,25,Derlis González,PAR,F,1.72,64,23-03-94,Mariano Roque Alonso,Basel,Dynamo Kiev,2016,Ukrainian
+26,26,Mykyta Burda,UKR,D,1.87,80,24-03-95,Yenakiieve,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+29,29,Vitaliy Buyalskyy,UKR,M,1.70,61,06-01-93,Kalinovka,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+32,32,Valeriy Fedorchuk,UKR,M,1.78,68,05-10-88,Netishyn,Dnipro Dnipropetrovsk,Dynamo Kiev,2016,Ukrainian
+33,33,Volodymyr Makhankov,UKR,G,1.92,83,29-10-97,Slavutych,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+34,34,Yevhen Khacheridi,UKR,D,1.97,80,28-07-87,Melitopol,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+35,35,Maksym Koval,UKR,G,1.84,70,09-12-92,Zaporizhya,Metalurh Zaporizhya,Dynamo Kiev,2016,Ukrainian
+40,40,Oleksandr Tymchyk,UKR,D,1.80,67,20-01-97,Kryklyvets,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+41,41,Artem Byesyedin,UKR,F,1.85,76,31-03-96,Kharkiv,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+42,42,Pavlo Lukyanchuk,UKR,D,1.78,65,19-05-96,Zaporizhya,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+43,44,Tamás Kádár,HUN,D,1.88,74,14-03-90,Veszprém,Lech Poznań,Dynamo Kiev,2016,Ukrainian
+44,48,Pavlo Orikhovskyy,UKR,M,1.81,68,13-05-96,Chervonoarmiisk,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
+45,72,Artur Rudko,UKR,G,1.96,85,07-05-92,Kiev,Dynamo Kiev-2,Dynamo Kiev,2016,Ukrainian
 1,1,Roman Pidkivka,UKR,G,1.90,85,09-05-95,Lviv,Karpaty-2,Karpaty Lviv,2016,Ukrainian
 5,5,Andriy Nesterov,UKR,D,1.88,86,02-07-90,Zaporizhya,Zaria Bălți,Karpaty Lviv,2016,Ukrainian
 7,7,Pavlo Ksonz,UKR,F,1.76,69,02-01-87,Myrhorod,Oleksandria,Karpaty Lviv,2016,Ukrainian
@@ -80,8 +80,8 @@
 11,11,Ambrosiy Chachua,UKR,M,1.68,63,02-04-94,Rivne,Karpaty-2,Karpaty Lviv,2016,Ukrainian
 16,16,Ihor Khudobyak,UKR,M,1.75,66,20-02-85,Ivano-Frankivsk,Spartak Ivano-Frankivsk,Karpaty Lviv,2016,Ukrainian
 17,17,Maksym Salamakha,UKR,F,1.82,72,17-07-96,Lviv,Dnipro-2,Karpaty Lviv,2016,Ukrainian
-20,20,Dmytro Zayikyn,UKR,F,1.85,71,17-07-96,Kyiv,Skala Stryi,Karpaty Lviv,2016,Ukrainian
-21,21,Oleksandr Hladkyy,UKR,F,1.88,80,24-08-87,Kharkiv,Dynamo Kyiv,Karpaty Lviv,2016,Ukrainian
+20,20,Dmytro Zayikyn,UKR,F,1.85,71,17-07-96,Kiev,Skala Stryi,Karpaty Lviv,2016,Ukrainian
+21,21,Oleksandr Hladkyy,UKR,F,1.88,80,24-08-87,Kharkiv,Dynamo Kiev,Karpaty Lviv,2016,Ukrainian
 22,22,Mykola Matviyenko,UKR,D,1.81,67,02-05-96,Saky,Shakhtar Donetsk,Karpaty Lviv,2016,Ukrainian
 23,23,Roman Mysak,UKR,G,1.91,79,09-09-91,Lviv,Karpaty-2,Karpaty Lviv,2016,Ukrainian
 24,24,Cristian Paz,ARG,D,1.86,80,24-04-95,Lomas de Zamora,Temperley,Karpaty Lviv,2016,Ukrainian
@@ -105,17 +105,17 @@
 8,8,Pavlo Myagkov,UKR,M,1.78,72,30-12-92,Melitopol,Zorya Luhansk,Oleksandriya,2016,Ukrainian
 9,9,Vitaliy Ponomar,UKR,F,1.82,78,31-05-90,Kupiansk,UkrAhroKom Holovkivka,Oleksandriya,2016,Ukrainian
 10,10,Volodymyr Pryyomov,UKR,M,1.83,75,02-01-86,Odessa,Persepolis,Oleksandriya,2016,Ukrainian
-11,11,Andriy Tsurikov,UKR,M,1.85,78,05-10-92,Zaporizhya,Dynamo Kyiv,Oleksandriya,2016,Ukrainian
+11,11,Andriy Tsurikov,UKR,M,1.85,78,05-10-92,Zaporizhya,Dynamo Kiev,Oleksandriya,2016,Ukrainian
 13,13,Artem Chornyy,UKR,M,1.70,65,23-10-89,Mykolaiv,MFC Mykolaiv,Oleksandriya,2016,Ukrainian
-14,14,Artem Polyarus,UKR,M,1.79,71,05-07-92,Oleksandriya,Dynamo Kyiv-2,Oleksandriya,2016,Ukrainian
+14,14,Artem Polyarus,UKR,M,1.79,71,05-07-92,Oleksandriya,Dynamo Kiev-2,Oleksandriya,2016,Ukrainian
 15,15,Andriy Zaporozhan,UKR,D,1.75,69,21-03-83,Ovidiopol,Energetik Burshtin,Oleksandriya,2016,Ukrainian
-17,17,Andriy Hitchenko,UKR,D,1.87,74,02-10-84,Kyiv,Karpaty Lviv,Oleksandriya,2016,Ukrainian
+17,17,Andriy Hitchenko,UKR,D,1.87,74,02-10-84,Kiev,Karpaty Lviv,Oleksandriya,2016,Ukrainian
 21,21,Dmytro Rudyk,UKR,G,1.90,82,26-08-92,Oleksandriya,Oleksandriya-2,Oleksandriya,2016,Ukrainian
 22,22,Vasyl Hrytsuk,UKR,M,1.83,75,21-11-87,Kryvyi Rih,Naftovyk-Ukrnafta,Oleksandriya,2016,Ukrainian
-24,24,Vladyslav Levanidov,UKR,G,1.85,81,23-02-93,Kyiv,Dynamo Kyiv-2,Oleksandriya,2016,Ukrainian
+24,24,Vladyslav Levanidov,UKR,G,1.85,81,23-02-93,Kiev,Dynamo Kiev-2,Oleksandriya,2016,Ukrainian
 25,25,Serhiy Chebotayev,UKR,D,1.77,72,07-03-88,Zaporizhya,Hirnyk-Sport Komsomolsk,Oleksandriya,2016,Ukrainian
-26,26,Anton Shendrik,UKR,D,1.91,78,26-05-86,Simferopol,Obolon Kyiv,Oleksandriya,2016,Ukrainian
-27,27,Serhiy Starenkyy,UKR,M,1.77,70,20-09-84,Novi Petrivtsi,Arsenal Kyiv,Oleksandriya,2016,Ukrainian
+26,26,Anton Shendrik,UKR,D,1.91,78,26-05-86,Simferopol,Obolon Kiev,Oleksandriya,2016,Ukrainian
+27,27,Serhiy Starenkyy,UKR,M,1.77,70,20-09-84,Novi Petrivtsi,Arsenal Kiev,Oleksandriya,2016,Ukrainian
 40,40,Yuriy Putrash,UKR,D,1.78,70,29-01-90,Mizhhiria,Stal Dniprodzerzhynsk,Oleksandriya,2016,Ukrainian
 41,44,Yevhen Banada,UKR,M,1.82,75,29-02-92,Nikopol,Olimpik Donetsk,Oleksandriya,2016,Ukrainian
 42,54,Andriy Novak,UKR,G,1.92,84,06-12-88,Szczecin,Nyva Ternopil,Oleksandriya,2016,Ukrainian
@@ -130,12 +130,12 @@
 9,9,Vitaliy Hoshkoderya,UKR,M,1.84,73,08-01-88,Donetsk,Volyn Lutsk,Olimpik Donetsk,2016,Ukrainian
 11,11,Moha,MAR,M,1.81,82,15-09-93,Oujda,Huétor-Tájar,Olimpik Donetsk,2016,Ukrainian
 14,14,Anton Postupalenko,UKR,M,1.78,64,28-08-88,Kharkiv,Stal Dniprodzerzhynsk,Olimpik Donetsk,2016,Ukrainian
-15,15,Vitaliy Hemeha,UKR,M,1.76,69,10-01-94,Stepanky,Dynamo Kyiv-2,Olimpik Donetsk,2016,Ukrainian
+15,15,Vitaliy Hemeha,UKR,M,1.76,69,10-01-94,Stepanky,Dynamo Kiev-2,Olimpik Donetsk,2016,Ukrainian
 17,17,Serhiy Shestakov,UKR,M,1.72,69,12-04-90,Ladyzhyn,Naftovyk-Ukrnafta,Olimpik Donetsk,2016,Ukrainian
 20,20,Ivan Matyazh,UKR,F,1.88,80,15-02-88,Donetsk,Illichivets Mariupol,Olimpik Donetsk,2016,Ukrainian
-23,23,Dmytro Nyemchaninov,UKR,D,1.90,79,27-01-90,Kyiv,Chornomorets Odessa,Olimpik Donetsk,2016,Ukrainian
+23,23,Dmytro Nyemchaninov,UKR,D,1.90,79,27-01-90,Kiev,Chornomorets Odessa,Olimpik Donetsk,2016,Ukrainian
 24,24,Vitaliy Fedoriv,UKR,D,1.80,75,21-10-87,Lviv,Hoverla Uzhhorod,Olimpik Donetsk,2016,Ukrainian
-25,25,Ihor Zhurakhovskyy,UKR,M,1.86,77,19-09-94,Kyiv,Kuban Krasnodar,Olimpik Donetsk,2016,Ukrainian
+25,25,Ihor Zhurakhovskyy,UKR,M,1.86,77,19-09-94,Kiev,Kuban Krasnodar,Olimpik Donetsk,2016,Ukrainian
 27,27,Ivan Brinker,UKR,M,1.84,78,30-06-93,Lysiatychi,Sumy,Olimpik Donetsk,2016,Ukrainian
 31,31,Yaroslav Kotlyarov,UKR,G,1.92,85,19-11-97,Yenakiieve,Olimpik Donetsk-2,Olimpik Donetsk,2016,Ukrainian
 32,32,Vladis-Emmerson Illoy-Ayet,UKR,D,1.87,71,07-10-95,Odessa,Karpaty Lviv,Olimpik Donetsk,2016,Ukrainian
@@ -143,10 +143,10 @@
 41,44,Yevhen Tsymbalyuk,UKR,D,1.81,71,19-06-96,Lyman,Olimpik Donetsk-2,Olimpik Donetsk,2016,Ukrainian
 42,45,Vladyslav Khomutov,UKR,M,1.83,72,04-06-98,Donetsk,Olimpik Donetsk-2,Olimpik Donetsk,2016,Ukrainian
 43,89,Artem Kozlov,UKR,D,1.81,76,10-02-97,,Olimpik Donetsk-2,Olimpik Donetsk,2016,Ukrainian
-44,90,Andriy Bohdanov,UKR,M,1.84,75,21-01-90,Kyiv,Volyn Lutsk,Olimpik Donetsk,2016,Ukrainian
+44,90,Andriy Bohdanov,UKR,M,1.84,75,21-01-90,Kiev,Volyn Lutsk,Olimpik Donetsk,2016,Ukrainian
 45,94,Serhiy Hryn,UKR,F,1.80,76,06-06-94,Volnovakha,Shakhtar Donetsk,Olimpik Donetsk,2016,Ukrainian
 2,2,Bohdan Butko,UKR,D,1.80,68,13-01-91,Donetsk,Shakhtar Donetsk-2,Shakhtar Donetsk,2016,Ukrainian
-5,5,Oleksandr Kucher,UKR,D,1.84,77,22-10-82,Kyiv,Metalist Kharkiv,Shakhtar Donetsk,2016,Ukrainian
+5,5,Oleksandr Kucher,UKR,D,1.84,77,22-10-82,Kiev,Metalist Kharkiv,Shakhtar Donetsk,2016,Ukrainian
 6,6,Taras Stepanenko,UKR,M,1.81,75,08-08-89,Velyka Novosilka,Metalurh Zaporizhya,Shakhtar Donetsk,2016,Ukrainian
 8,8,Fred,BRA,M,1.69,68,05-03-93,Belo Horizonte,Internacional,Shakhtar Donetsk,2016,Ukrainian
 9,9,Dentinho,BRA,M,1.75,72,19-01-89,São Paulo,Corinthians,Shakhtar Donetsk,2016,Ukrainian
@@ -162,7 +162,7 @@
 29,29,Alan Patrick,BRA,M,1.75,66,13-05-91,Catanduva,Santos,Shakhtar Donetsk,2016,Ukrainian
 30,30,Andriy Pyatov,UKR,G,1.90,78,28-06-84,Kirovohrad,Vorskla Poltava,Shakhtar Donetsk,2016,Ukrainian
 31,31,Ismaily,BRA,D,1.77,78,11-01-90,Ivinhema,Sporting Braga,Shakhtar Donetsk,2016,Ukrainian
-32,32,Anton Kanibolotskyy,UKR,G,1.91,80,16-05-88,Kyiv,Dnipro Dnipropetrovsk,Shakhtar Donetsk,2016,Ukrainian
+32,32,Anton Kanibolotskyy,UKR,G,1.91,80,16-05-88,Kiev,Dnipro Dnipropetrovsk,Shakhtar Donetsk,2016,Ukrainian
 33,33,Darijo Srna,CRO,D,1.82,78,01-05-82,Metković,Hajduk Split,Shakhtar Donetsk,2016,Ukrainian
 38,38,Serhiy Kryvtsov,UKR,D,1.86,76,15-03-91,Zaporizhya,Metalurh Zaporizhya,Shakhtar Donetsk,2016,Ukrainian
 41,41,Andriy Boryachuk,UKR,F,1.76,71,23-04-96,Vinnytsia,Shakhtar Donetsk-2,Shakhtar Donetsk,2016,Ukrainian
@@ -173,22 +173,22 @@
 46,74,Viktor Kovalenko,UKR,M,1.82,75,14-02-96,Kherson,Shakhtar Donetsk-2,Shakhtar Donetsk,2016,Ukrainian
 47,99,Gustavo Blanco Leschuk,ARG,F,1.91,85,05-11-91,Mendoza,Karpaty Lviv,Shakhtar Donetsk,2016,Ukrainian
 2,2,Leandro,BRA,D,1.80,72,26-06-85,Itumbiara,Volga Nizhny Novgorod,Stal Kamianske,2016,Ukrainian
-3,3,Oleksiy Dovhyy,UKR,M,1.86,75,02-11-89,Kyiv,Vorskla Poltava,Stal Kamianske,2016,Ukrainian
+3,3,Oleksiy Dovhyy,UKR,M,1.86,75,02-11-89,Kiev,Vorskla Poltava,Stal Kamianske,2016,Ukrainian
 4,4,Anton Kravchenko,UKR,D,1.89,79,23-03-91,Dnipropetrovsk,Tytan Armyansk,Stal Kamianske,2016,Ukrainian
 6,6,Maksym Kalenchuk,UKR,M,1.83,72,05-12-89,Donetsk,Zirka Kirovohrad,Stal Kamianske,2016,Ukrainian
-7,7,Serhiy Voronin,UKR,D,1.83,75,24-03-87,Kyiv,Volyn Lutsk,Stal Kamianske,2016,Ukrainian
+7,7,Serhiy Voronin,UKR,D,1.83,75,24-03-87,Kiev,Volyn Lutsk,Stal Kamianske,2016,Ukrainian
 8,8,Gor Malakyan,ARM,M,1.73,68,12-06-94,Yerevan,Shirak,Stal Kamianske,2016,Ukrainian
 9,9,Edgar Malakyan,ARM,M,1.71,66,22-09-90,Yerevan,Shirak,Stal Kamianske,2016,Ukrainian
 10,10,Boy Deul,CUW,M,1.78,66,30-08-87,Amsterdam,FC Emmen,Stal Kamianske,2016,Ukrainian
 12,12,Oleksandr Bandura,UKR,G,1.86,80,30-05-86,Hamaliyivka,Metalurh Donetsk,Stal Kamianske,2016,Ukrainian
 13,13,Milo Stamenković,SRB,D,1.86,81,01-06-90,Belgrade,Shirak,Stal Kamianske,2016,Ukrainian
-15,15,Artem Shabanov,UKR,D,1.84,74,07-03-92,Kyiv,Volyn Lutsk,Stal Kamianske,2016,Ukrainian
+15,15,Artem Shabanov,UKR,D,1.84,74,07-03-92,Kiev,Volyn Lutsk,Stal Kamianske,2016,Ukrainian
 16,16,Kwame Karikari,GHA,F,1.90,87,21-01-92,Ho,Haugesund,Stal Kamianske,2016,Ukrainian
-17,17,Orest Kuzyk,UKR,M,1.74,66,17-05-95,Lviv,Dynamo Kyiv-2,Stal Kamianske,2016,Ukrainian
+17,17,Orest Kuzyk,UKR,M,1.74,66,17-05-95,Lviv,Dynamo Kiev-2,Stal Kamianske,2016,Ukrainian
 20,20,Pavlo Pashayev,UKR,D,1.75,62,04-01-88,Dnipropetrovsk,Qäbälä,Stal Kamianske,2016,Ukrainian
-21,21,Yuriy Klymchuk,UKR,M,1.78,69,05-05-97,Rohachi,Lokomotyv Kyiv,Stal Kamianske,2016,Ukrainian
+21,21,Yuriy Klymchuk,UKR,M,1.78,69,05-05-97,Rohachi,Lokomotyv Kiev,Stal Kamianske,2016,Ukrainian
 23,23,Mykhaylo Meskhi,UKR,M,1.87,83,26-02-97,Donetsk,Metalurh Donetsk-2,Stal Kamianske,2016,Ukrainian
-32,32,Mykola Ishchenko,UKR,D,1.82,75,09-03-83,Kyiv,Metalist Kharkiv,Stal Kamianske,2016,Ukrainian
+32,32,Mykola Ishchenko,UKR,D,1.82,75,09-03-83,Kiev,Metalist Kharkiv,Stal Kamianske,2016,Ukrainian
 34,34,Nykolay Pavlyuk,UKR,M,1.73,65,22-10-95,Chernivtsi,Metalurh Donetsk-2,Stal Kamianske,2016,Ukrainian
 39,39,Denys Vasin,UKR,F,1.80,76,04-03-89,Odessa,Chornomorets Odessa,Stal Kamianske,2016,Ukrainian
 41,64,Herman Penkov,UKR,G,1.85,78,26-05-94,Makiivka,Metalurh Donetsk-2,Stal Kamianske,2016,Ukrainian
@@ -198,7 +198,7 @@
 45,93,Roman Debelko,UKR,F,1.84,77,08-08-93,Donetsk,Banants,Stal Kamianske,2016,Ukrainian
 46,94,Maksym Zaderaka,UKR,M,1.73,69,07-09-94,Oleksandriya,Metalurh Donetsk-2,Stal Kamianske,2016,Ukrainian
 47,99,Sylvano Comvalius,NED,F,1.92,85,10-08-87,Amsterdam,Hessen Kassel,Stal Kamianske,2016,Ukrainian
-1,1,Artem Kychak,UKR,G,1.98,88,16-05-89,Vinnytsia,Dynamo Kyiv-2,Volyn Lutsk,2016,Ukrainian
+1,1,Artem Kychak,UKR,G,1.98,88,16-05-89,Vinnytsia,Dynamo Kiev-2,Volyn Lutsk,2016,Ukrainian
 7,7,Oleh Herasymyuk,UKR,M,1.80,72,25-09-86,Volodymyr-Volynskyy,Hoverla Uzhhorod,Volyn Lutsk,2016,Ukrainian
 9,9,Redvan Memeshev,UKR,F,1.84,71,15-08-93,Dzhankoy,Krymteplytsia Molodizhne,Volyn Lutsk,2016,Ukrainian
 18,18,Serhiy Lohinov,UKR,D,1.91,78,29-08-90,Dnipropetrovsk,Vorskla Poltava,Volyn Lutsk,2016,Ukrainian
@@ -230,27 +230,27 @@
 6,6,Oleksandr Sklyar,UKR,M,1.75,68,26-02-91,Kharkiv,Zirka Kirovohrad,Vorskla Poltava,2016,Ukrainian
 8,8,Andriy Tkachuk,UKR,M,1.81,71,18-11-87,Zhytomyr,Karpaty Lviv,Vorskla Poltava,2016,Ukrainian
 9,9,Artur Zahorulko,UKR,F,1.86,67,13-02-93,Odessa,Shakhtar Donetsk-2,Vorskla Poltava,2016,Ukrainian
-10,10,Serhiy Myakushko,UKR,M,1.70,70,15-04-93,Kyiv,Dynamo Kyiv,Vorskla Poltava,2016,Ukrainian
+10,10,Serhiy Myakushko,UKR,M,1.70,70,15-04-93,Kiev,Dynamo Kiev,Vorskla Poltava,2016,Ukrainian
 11,11,Vyacheslav Sharpar,UKR,M,1.90,78,02-06-87,Zelenodolsk,Atyrau,Vorskla Poltava,2016,Ukrainian
-12,12,Bohdan Sarnavskyy,UKR,G,1.87,75,29-01-95,Kyiv,FC Ufa,Vorskla Poltava,2016,Ukrainian
-13,13,Dmytro Khlobas,UKR,F,1.78,74,09-05-94,Lokhvytsia,Dynamo Kyiv-2,Vorskla Poltava,2016,Ukrainian
+12,12,Bohdan Sarnavskyy,UKR,G,1.87,75,29-01-95,Kiev,FC Ufa,Vorskla Poltava,2016,Ukrainian
+13,13,Dmytro Khlobas,UKR,F,1.78,74,09-05-94,Lokhvytsia,Dynamo Kiev-2,Vorskla Poltava,2016,Ukrainian
 17,17,Volodymyr Chesnakov,UKR,D,1.82,67,12-11-88,Hlobyne,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 19,19,Volodymyr Odaryuk,UKR,F,1.83,70,13-02-94,,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 20,20,Mykola Kvasnyy,UKR,D,1.80,71,04-01-95,Dolyna,Vorskla-2,Vorskla Poltava,2016,Ukrainian
-23,23,Vadym Sapay,UKR,D,1.78,75,07-02-86,Yuzhnoukrainsk,Obolon Kyiv,Vorskla Poltava,2016,Ukrainian
+23,23,Vadym Sapay,UKR,D,1.78,75,07-02-86,Yuzhnoukrainsk,Obolon Kiev,Vorskla Poltava,2016,Ukrainian
 24,24,Oleh Barannik,UKR,F,1.78,68,20-03-92,Semenivka,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 25,25,Dmytro Shapoval,UKR,F,1.89,74,17-06-96,,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 29,29,Dmytro Kravchenko,UKR,M,1.77,60,25-02-95,Poltava,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 33,33,Oleksandr Chyzhov,UKR,D,1.86,78,10-08-86,Poltava,Okzhetpes,Vorskla Poltava,2016,Ukrainian
 41,44,Ardin Dallku,ALB,D,1.82,75,01-11-94,Vučitrn,Vorskla-2,Vorskla Poltava,2016,Ukrainian
 42,82,Pavlo Rebenok,UKR,M,1.80,70,23-07-85,Ordzhonikidze,Torpedo Zhodino,Vorskla Poltava,2016,Ukrainian
-43,99,Yevhen Zarichnyuk,UKR,D,1.75,74,03-02-89,Kyiv,Milsami Orhei,Vorskla Poltava,2016,Ukrainian
+43,99,Yevhen Zarichnyuk,UKR,D,1.75,74,03-02-89,Kiev,Milsami Orhei,Vorskla Poltava,2016,Ukrainian
 4,4,Federico Pereyra,ARG,D,1.85,76,04-01-89,Río Cuarto,The Strongest,Zirka Kropyvnytskyi,2016,Ukrainian
 5,5,Nailson,BRA,D,1.90,84,24-02-94,Arapongas,União de Leiria,Zirka Kropyvnytskyi,2016,Ukrainian
 7,7,Maksym Drachenko,UKR,M,1.80,77,28-01-90,Cherkasy,Olimpik Donetsk,Zirka Kropyvnytskyi,2016,Ukrainian
 8,8,Vladyslav Lupashko,UKR,M,1.78,71,04-12-86,Bilhorod-Dnistrovskyi,Illichivets Mariupol,Zirka Kropyvnytskyi,2016,Ukrainian
 9,9,Artem Shchedryy,UKR,M,1.82,79,09-11-92,Beryslav,Volyn Lutsk,Zirka Kropyvnytskyi,2016,Ukrainian
-10,10,Aderinsola Eseola,UKR,F,1.88,80,28-06-91,Zhytomyr,Arsenal Kyiv,Zirka Kropyvnytskyi,2016,Ukrainian
+10,10,Aderinsola Eseola,UKR,F,1.88,80,28-06-91,Zhytomyr,Arsenal Kiev,Zirka Kropyvnytskyi,2016,Ukrainian
 11,11,Andriy Batsula,UKR,D,1.84,78,06-02-92,Kremenchuk,Vorskla Poltava,Zirka Kropyvnytskyi,2016,Ukrainian
 13,13,Oleksandr Zozulya,UKR,D,1.84,67,11-04-96,Kirovohrad,Inhulets Petrove,Zirka Kropyvnytskyi,2016,Ukrainian
 14,14,Artem Sitalo,UKR,F,1.87,82,08-01-89,Kherson,Hirnyk Kryvyi Rih,Zirka Kropyvnytskyi,2016,Ukrainian
@@ -262,8 +262,8 @@
 22,22,Yevhen Veklyak,UKR,M,1.83,71,08-05-98,,Zirka-2,Zirka Kropyvnytskyi,2016,Ukrainian
 23,23,Oleksandr Matkobozhyk,UKR,D,1.84,74,03-01-98,Kovel,Zirka-2,Zirka Kropyvnytskyi,2016,Ukrainian
 26,26,Dmytro Bilonoh,UKR,M,1.85,79,26-05-95,Cherkasy,FC Ural,Zirka Kropyvnytskyi,2016,Ukrainian
-27,27,Kyrylo Dryshlyuk,UKR,M,1.82,65,16-09-99,Boryspil,Dynamo Kyiv-2,Zirka Kropyvnytskyi,2016,Ukrainian
-28,28,Pavlo Polehenko,UKR,D,1.79,69,06-01-95,Chernihiv,Dynamo Kyiv-2,Zirka Kropyvnytskyi,2016,Ukrainian
+27,27,Kyrylo Dryshlyuk,UKR,M,1.82,65,16-09-99,Boryspil,Dynamo Kiev-2,Zirka Kropyvnytskyi,2016,Ukrainian
+28,28,Pavlo Polehenko,UKR,D,1.79,69,06-01-95,Chernihiv,Dynamo Kiev-2,Zirka Kropyvnytskyi,2016,Ukrainian
 29,29,Maksym Pryadun,UKR,F,1.76,74,17-02-97,,Vorskla Poltava,Zirka Kropyvnytskyi,2016,Ukrainian
 31,31,Ihor Chenakal,UKR,M,1.79,68,25-04-97,,Zirka-2,Zirka Kropyvnytskyi,2016,Ukrainian
 32,32,Borja Ekiza,ESP,D,1.80,73,06-03-88,Iruñea,Eibar,Zirka Kropyvnytskyi,2016,Ukrainian
@@ -276,18 +276,18 @@
 47,85,Serhiy Kernozhytskyi,UKR,M,1.69,63,23-06-97,Lukasheve,Zirka-2,Zirka Kropyvnytskyi,2016,Ukrainian
 48,95,Roman Popov,UKR,D,1.81,72,29-06-95,Mykolaiv,Metalurh Zaporizhya,Zirka Kropyvnytskyi,2016,Ukrainian
 49,99,Mykyta Zhukov,UKR,M,1.80,74,19-03-95,Dniprodzerzhynsk,Inhulets Petrove,Zirka Kropyvnytskyi,2016,Ukrainian
-1,1,Oleksiy Shevchenko,UKR,G,1.84,75,24-02-92,Dnipropetrovsk,Dynamo Kyiv,Zorya Luhansk,2016,Ukrainian
+1,1,Oleksiy Shevchenko,UKR,G,1.84,75,24-02-92,Dnipropetrovsk,Dynamo Kiev,Zorya Luhansk,2016,Ukrainian
 2,2,Artem Sukhotskyy,UKR,D,1.78,73,06-12-92,Nizhyn,Oleksandriya,Zorya Luhansk,2016,Ukrainian
 4,4,Ihor Chaykovskyy,UKR,M,1.71,69,07-10-91,Chernivtsi,Illichivets Mariupol,Zorya Luhansk,2016,Ukrainian
 5,5,Artem Hordiyenko,UKR,D,1.81,70,04-03-91,Krasnyi Luch,Zorya-2,Zorya Luhansk,2016,Ukrainian
 6,6,Nikita Kamenyuka,UKR,M,1.72,64,03-06-85,Luhansk,Illichivets Mariupol,Zorya Luhansk,2016,Ukrainian
 7,7,Ivan Petryak,UKR,M,1.71,63,13-03-94,Smila,Shakhtar Donetsk,Zorya Luhansk,2016,Ukrainian
-8,8,Ihor Kharatin,UKR,M,1.88,80,02-02-95,Mukacheve,Dynamo Kyiv-2,Zorya Luhansk,2016,Ukrainian
+8,8,Ihor Kharatin,UKR,M,1.88,80,02-02-95,Mukacheve,Dynamo Kiev-2,Zorya Luhansk,2016,Ukrainian
 9,9,Vladyslav Kulach,UKR,F,1.77,73,07-05-93,Donetsk,Shakhtar Donetsk-2,Zorya Luhansk,2016,Ukrainian
 10,10,Jaba Lipartia,GEO,F,1.74,68,16-11-87,Tbilisi,WIT Georgia,Zorya Luhansk,2016,Ukrainian
 11,11,Paulo Victor,BRA,F,1.77,74,29-05-93,São Paulo,Corinthians,Zorya Luhansk,2016,Ukrainian
 12,12,Rafael Forster,BRA,D,1.81,81,23-07-90,São José,Goiás,Zorya Luhansk,2016,Ukrainian
-15,15,Vladyslav Kalitvintsev,UKR,M,1.78,65,04-01-93,Moscow,Dynamo Kyiv-2,Zorya Luhansk,2016,Ukrainian
+15,15,Vladyslav Kalitvintsev,UKR,M,1.78,65,04-01-93,Moscow,Dynamo Kiev-2,Zorya Luhansk,2016,Ukrainian
 16,16,Hryhoriy Yarmash,UKR,D,1.74,74,04-01-85,Ternopil,Vorskla Poltava,Zorya Luhansk,2016,Ukrainian
 17,17,Gegham Kadymyan,ARM,F,1.83,81,19-10-92,Artashat,Karpaty Lviv,Zorya Luhansk,2016,Ukrainian
 21,21,Denys Bezborodko,UKR,M,1.81,75,31-05-94,Chernihiv,Shakhtar Donetsk-2,Zorya Luhansk,2016,Ukrainian
@@ -298,8 +298,8 @@
 39,39,Yevhen Opanasenko,UKR,D,1.72,57,25-08-90,Zaporizhya,Chornomorets Odessa,Zorya Luhansk,2016,Ukrainian
 41,42,Emmanuel Bonaventure Dennis,NGA,F,1.74,67,15-11-97,,Football College Abuja,Zorya Luhansk,2016,Ukrainian
 42,44,Vyacheslav Checher,UKR,D,1.82,88,15-12-80,Donetsk,Metalurh Donetsk,Zorya Luhansk,2016,Ukrainian
-43,49,Dmytro Lukanov,UKR,F,1.80,68,02-03-95,Kyiv,Zorya-2,Zorya Luhansk,2016,Ukrainian
+43,49,Dmytro Lukanov,UKR,F,1.80,68,02-03-95,Kiev,Zorya-2,Zorya Luhansk,2016,Ukrainian
 44,77,Oleh Chuvayev,UKR,G,1.86,82,25-10-87,Poltava,Tom Tomsk,Zorya Luhansk,2016,Ukrainian
 45,91,Ihor Levchenko,UKR,G,1.90,82,23-02-91,Donetsk,Olimpik Donetsk,Zorya Luhansk,2016,Ukrainian
 46,95,Eduard Sobol,UKR,D,1.86,73,20-04-95,Vilnyansk,Shakhtar Donetsk,Zorya Luhansk,2016,Ukrainian
-47,99,Andriy Pylyavskyy,UKR,D,1.93,80,04-12-88,Kyiv,Rubin Kazan,Zorya Luhansk,2016,Ukrainian
+47,99,Andriy Pylyavskyy,UKR,D,1.93,80,04-12-88,Kiev,Rubin Kazan,Zorya Luhansk,2016,Ukrainian

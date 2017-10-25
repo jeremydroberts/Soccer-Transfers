@@ -1,35 +1,35 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Cristiano,POR,G,1.95,90,29-11-90,Satão,Sporting Braga,Acadйmica,2014,Portuguese
-3,3,Aníbal,POR,D,1.88,84,08-05-91,Vila Verde,Sporting Braga,Acadйmica,2014,Portuguese
-4,4,Nwankwo Obiora,NGA,M,1.83,77,12-07-91,Kaduna,Córdoba,Acadйmica,2014,Portuguese
-5,5,Ricardo Nascimento,BRA,D,1.91,80,07-02-87,Ilhéus,Olé Brasil,Acadйmica,2014,Portuguese
-6,6,Tripy Makonda,FRA,D,1.80,70,24-01-90,Ivry-sur-Seine,Brest,Acadйmica,2014,Portuguese
-7,7,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Acadйmica,2014,Portuguese
-10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Olhanense,Acadйmica,2014,Portuguese
-11,11,Judikael Magique,CIV,M,1.80,75,21-01-93,Abidjan,None,Acadйmica,2014,Portuguese
-12,12,Salim Cissé,GUI,F,1.85,74,24-12-92,Massimina,Sporting CP,Acadйmica,2014,Portuguese
-13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Acadйmica,2014,Portuguese
-14,14,Iago,BRA,D,1.88,78,22-05-92,Itaboraí,Duque de Caxias,Acadйmica,2014,Portuguese
-17,17,Carlos Olascuaga,PER,F,1.75,72,22-07-92,Lima,Universitario de Deportes,Acadйmica,2014,Portuguese
-18,18,M'Bala Nzola,FRA,F,1.85,82,18-08-96,Troyes,None,Acadйmica,2014,Portuguese
-19,19,Ulysse Diallo,MLI,F,1.82,77,26-10-92,Bamako,Arouca,Acadйmica,2014,Portuguese
-20,20,Rui Pedro,POR,F,1.80,73,02-07-88,VIla Nova de Gaia,CFR Cluj,Acadйmica,2014,Portuguese
-21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,União de Leiria,Acadйmica,2014,Portuguese
-22,22,Christopher Oualembo,COD,D,1.78,70,31-01-87,St-Germain-en-Laye,Lechia Gdańsk,Acadйmica,2014,Portuguese
-23,23,Edgar Salli,CMR,F,1.63,64,17-08-92,Garoua,Monaco,Acadйmica,2014,Portuguese
-24,24,Fábio Santos,POR,G,1.87,80,14-11-92,Penafiel,None,Acadйmica,2014,Portuguese
-27,27,Pedro Nuno,POR,M,1.74,69,13-01-95,Buarcos,None,Acadйmica,2014,Portuguese
-28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Olhanense,Acadйmica,2014,Portuguese
-29,29,Aderlan,BRA,D,1.80,69,18-08-90,Campina Grande,Corinthians Alagoano,Acadйmica,2014,Portuguese
-30,30,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Penafiel,Acadйmica,2014,Portuguese
-32,32,Lee,BRA,G,1.88,86,09-03-88,São Paulo,Atlético Mineiro,Acadйmica,2014,Portuguese
-34,34,Hugo Ribeiro,POR,D,1.84,62,14-01-97,Coimbra,FC Porto,Acadйmica,2014,Portuguese
-35,35,Ibrahim Diomande,CIV,D,,,15-05-96,,None,Acadйmica,2014,Portuguese
-37,37,Richard Ofori,GHA,D,1.81,65,24-04-93,Accra,Tudu Mighty Jets,Acadйmica,2014,Portuguese
-41,47,Ricardo Esgaio,POR,F,1.71,66,16-05-93,Nazaré,Sporting CP,Acadйmica,2014,Portuguese
-42,65,Fernando Alexandre,POR,M,1.76,76,02-08-85,Lourinhã,Olhanense,Acadйmica,2014,Portuguese
-43,77,Hugo Sêco,BRA,F,1.78,72,17-06-88,Lousã,Benfica Castelo Branco,Acadйmica,2014,Portuguese
-44,92,Lucas Mineiro,BRA,M,1.73,68,16-06-92,Montes Claros,Vitória,Acadйmica,2014,Portuguese
+1,1,Cristiano,POR,G,1.95,90,29-11-90,Satão,Sporting Braga,Académica,2014,Portuguese
+3,3,Aníbal,POR,D,1.88,84,08-05-91,Vila Verde,Sporting Braga,Académica,2014,Portuguese
+4,4,Nwankwo Obiora,NGA,M,1.83,77,12-07-91,Kaduna,Córdoba,Académica,2014,Portuguese
+5,5,Ricardo Nascimento,BRA,D,1.91,80,07-02-87,Ilhéus,Olé Brasil,Académica,2014,Portuguese
+6,6,Tripy Makonda,FRA,D,1.80,70,24-01-90,Ivry-sur-Seine,Brest,Académica,2014,Portuguese
+7,7,Marinho,POR,M,1.66,62,26-04-83,Lisbon,Naval,Académica,2014,Portuguese
+10,10,Ivanildo,GNB,F,1.75,70,09-01-86,Bissau,Olhanense,Académica,2014,Portuguese
+11,11,Judikael Magique,CIV,M,1.80,75,21-01-93,Abidjan,None,Académica,2014,Portuguese
+12,12,Salim Cissé,GUI,F,1.85,74,24-12-92,Massimina,Sporting CP,Académica,2014,Portuguese
+13,13,João Real,POR,D,1.85,83,13-05-83,Covilhã,Naval,Académica,2014,Portuguese
+14,14,Iago,BRA,D,1.88,78,22-05-92,Itaboraí,Duque de Caxias,Académica,2014,Portuguese
+17,17,Carlos Olascuaga,PER,F,1.75,72,22-07-92,Lima,Universitario de Deportes,Académica,2014,Portuguese
+18,18,M'Bala Nzola,FRA,F,1.85,82,18-08-96,Troyes,None,Académica,2014,Portuguese
+19,19,Ulysse Diallo,MLI,F,1.82,77,26-10-92,Bamako,Arouca,Académica,2014,Portuguese
+20,20,Rui Pedro,POR,F,1.80,73,02-07-88,VIla Nova de Gaia,CFR Cluj,Académica,2014,Portuguese
+21,21,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,União de Leiria,Académica,2014,Portuguese
+22,22,Christopher Oualembo,COD,D,1.78,70,31-01-87,St-Germain-en-Laye,Lechia Gdańsk,Académica,2014,Portuguese
+23,23,Edgar Salli,CMR,F,1.63,64,17-08-92,Garoua,Monaco,Académica,2014,Portuguese
+24,24,Fábio Santos,POR,G,1.87,80,14-11-92,Penafiel,None,Académica,2014,Portuguese
+27,27,Pedro Nuno,POR,M,1.74,69,13-01-95,Buarcos,None,Académica,2014,Portuguese
+28,28,Nuno Piloto,POR,M,1.77,73,19-03-82,Viseu,Olhanense,Académica,2014,Portuguese
+29,29,Aderlan,BRA,D,1.80,69,18-08-90,Campina Grande,Corinthians Alagoano,Académica,2014,Portuguese
+30,30,Rafael Lopes,POR,F,1.85,75,28-07-91,Esposende,Penafiel,Académica,2014,Portuguese
+32,32,Lee,BRA,G,1.88,86,09-03-88,São Paulo,Atlético Mineiro,Académica,2014,Portuguese
+34,34,Hugo Ribeiro,POR,D,1.84,62,14-01-97,Coimbra,FC Porto,Académica,2014,Portuguese
+35,35,Ibrahim Diomande,CIV,D,,,15-05-96,,None,Académica,2014,Portuguese
+37,37,Richard Ofori,GHA,D,1.81,65,24-04-93,Accra,Tudu Mighty Jets,Académica,2014,Portuguese
+41,47,Ricardo Esgaio,POR,F,1.71,66,16-05-93,Nazaré,Sporting CP,Académica,2014,Portuguese
+42,65,Fernando Alexandre,POR,M,1.76,76,02-08-85,Lourinhã,Olhanense,Académica,2014,Portuguese
+43,77,Hugo Sêco,BRA,F,1.78,72,17-06-88,Lousã,Benfica Castelo Branco,Académica,2014,Portuguese
+44,92,Lucas Mineiro,BRA,M,1.73,68,16-06-92,Montes Claros,Vitória,Académica,2014,Portuguese
 1,1,Mauro Goicoechea,URU,G,1.84,81,27-03-88,Montevideo,Oţelul Galaţi,Arouca,2014,Portuguese
 2,2,Iván Balliu,ESP,D,1.75,68,01-01-92,Caldes de Malavella,Barcelona B,Arouca,2014,Portuguese
 3,3,Hugo Basto,POR,D,1.88,81,14-05-93,Porto,Sporting Braga,Arouca,2014,Portuguese
@@ -283,32 +283,32 @@
 47,77,Marco Matias,POR,F,1.77,67,10-05-89,Barreiro,Vitória Guimarães,Nacional,2014,Portuguese
 48,87,Wagner,BRA,F,1.79,67,03-04-87,São José de Campos,Zawisza Bydgoszcz,Nacional,2014,Portuguese
 49,99,Soares,BRA,F,1.87,89,17-01-91,Sousa,Veranópolis,Nacional,2014,Portuguese
-1,1,Rafael Defendi,BRA,G,1.91,88,22-12-83,Ribeirão Preto,Bragantino,Paзos de Ferreira,2014,Portuguese
-4,4,Romeu,POR,M,1.85,72,17-02-86,Paredes,Desportivo das Aves,Paзos de Ferreira,2014,Portuguese
-5,5,Hélder Lopes,POR,D,1.79,66,04-01-89,Vila Nova de Gaia,Beira-Mar,Paзos de Ferreira,2014,Portuguese
-6,6,Ricardo Ferreira,POR,D,1.90,85,25-11-92,Mississisauga,Olhanense,Paзos de Ferreira,2014,Portuguese
-7,7,Minhoca,POR,M,1.75,66,29-04-88,Ponta Delgada,Santa Clara,Paзos de Ferreira,2014,Portuguese
-9,9,Cícero,GNB,F,1.85,89,08-05-86,Seia,Rio Ave,Paзos de Ferreira,2014,Portuguese
-10,10,Sérgio Oliveira,POR,M,1.79,71,02-06-92,Paços de Brandão,FC Porto,Paзos de Ferreira,2014,Portuguese
-11,11,Bruno Moreira,POR,F,1.85,78,06-09-87,Famalicão,Chaves,Paзos de Ferreira,2014,Portuguese
-12,12,Paraíba,BRA,F,1.82,76,12-01-92,Juazeiro Do Norte,Videoton,Paзos de Ferreira,2014,Portuguese
-13,13,Jaílson,BRA,D,1.70,67,21-01-91,João Pessoa,Grêmio Anápolis,Paзos de Ferreira,2014,Portuguese
-15,15,Nélson Pedroso,POR,D,1.80,76,18-06-85,Guimarães,Vitória Setúbal,Paзos de Ferreira,2014,Portuguese
-16,16,Paolo Hurtado,PER,M,1.77,67,27-07-90,Callao,Alianza Lima,Paзos de Ferreira,2014,Portuguese
-17,17,Vasco Rocha,POR,M,1.82,70,29-01-89,Paredes,Desportivo das Aves,Paзos de Ferreira,2014,Portuguese
-18,18,Diogo Jota,POR,F,1.78,70,04-12-96,Massarelos,Gondomar,Paзos de Ferreira,2014,Portuguese
-19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paзos de Ferreira,2014,Portuguese
-22,22,Rodrigo Galo,BRA,D,1.76,66,19-09-86,Rio Branco,Sporting Braga,Paзos de Ferreira,2014,Portuguese
-23,23,Marco,POR,G,1.85,68,29-01-95,Porto,Salgueiros,Paзos de Ferreira,2014,Portuguese
-25,25,André,POR,M,1.74,64,06-08-95,Vila Cova,Rio Ave,Paзos de Ferreira,2014,Portuguese
-26,26,Sousa,POR,M,1.66,58,15-05-96,Paredes,None,Paзos de Ferreira,2014,Portuguese
-31,31,Diogo Rosado,POR,M,1.85,74,21-02-90,Peniche,Arles-Avignon,Paзos de Ferreira,2014,Portuguese
-41,44,Rafael Amorim,BRA,D,1.94,90,30-07-87,Bilac,Desportivo das Aves,Paзos de Ferreira,2014,Portuguese
-42,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paзos de Ferreira,2014,Portuguese
-43,65,Fábio Cardoso,POR,D,1.86,75,19-04-94,Águeda,Benfica,Paзos de Ferreira,2014,Portuguese
-44,77,Ruben Pinto,POR,M,1.81,69,24-04-92,Odivelas,Benfica,Paзos de Ferreira,2014,Portuguese
-45,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paзos de Ferreira,2014,Portuguese
-46,88,Jean Michaël Seri,CIV,M,1.65,67,19-07-91,Grand-Bereby,FC Porto,Paзos de Ferreira,2014,Portuguese
+1,1,Rafael Defendi,BRA,G,1.91,88,22-12-83,Ribeirão Preto,Bragantino,Paços de Ferreira,2014,Portuguese
+4,4,Romeu,POR,M,1.85,72,17-02-86,Paredes,Desportivo das Aves,Paços de Ferreira,2014,Portuguese
+5,5,Hélder Lopes,POR,D,1.79,66,04-01-89,Vila Nova de Gaia,Beira-Mar,Paços de Ferreira,2014,Portuguese
+6,6,Ricardo Ferreira,POR,D,1.90,85,25-11-92,Mississisauga,Olhanense,Paços de Ferreira,2014,Portuguese
+7,7,Minhoca,POR,M,1.75,66,29-04-88,Ponta Delgada,Santa Clara,Paços de Ferreira,2014,Portuguese
+9,9,Cícero,GNB,F,1.85,89,08-05-86,Seia,Rio Ave,Paços de Ferreira,2014,Portuguese
+10,10,Sérgio Oliveira,POR,M,1.79,71,02-06-92,Paços de Brandão,FC Porto,Paços de Ferreira,2014,Portuguese
+11,11,Bruno Moreira,POR,F,1.85,78,06-09-87,Famalicão,Chaves,Paços de Ferreira,2014,Portuguese
+12,12,Paraíba,BRA,F,1.82,76,12-01-92,Juazeiro Do Norte,Videoton,Paços de Ferreira,2014,Portuguese
+13,13,Jaílson,BRA,D,1.70,67,21-01-91,João Pessoa,Grêmio Anápolis,Paços de Ferreira,2014,Portuguese
+15,15,Nélson Pedroso,POR,D,1.80,76,18-06-85,Guimarães,Vitória Setúbal,Paços de Ferreira,2014,Portuguese
+16,16,Paolo Hurtado,PER,M,1.77,67,27-07-90,Callao,Alianza Lima,Paços de Ferreira,2014,Portuguese
+17,17,Vasco Rocha,POR,M,1.82,70,29-01-89,Paredes,Desportivo das Aves,Paços de Ferreira,2014,Portuguese
+18,18,Diogo Jota,POR,F,1.78,70,04-12-96,Massarelos,Gondomar,Paços de Ferreira,2014,Portuguese
+19,19,Ricardo,POR,D,1.86,78,19-08-80,Guimarães,Shandong Luneng,Paços de Ferreira,2014,Portuguese
+22,22,Rodrigo Galo,BRA,D,1.76,66,19-09-86,Rio Branco,Sporting Braga,Paços de Ferreira,2014,Portuguese
+23,23,Marco,POR,G,1.85,68,29-01-95,Porto,Salgueiros,Paços de Ferreira,2014,Portuguese
+25,25,André,POR,M,1.74,64,06-08-95,Vila Cova,Rio Ave,Paços de Ferreira,2014,Portuguese
+26,26,Sousa,POR,M,1.66,58,15-05-96,Paredes,None,Paços de Ferreira,2014,Portuguese
+31,31,Diogo Rosado,POR,M,1.85,74,21-02-90,Peniche,Arles-Avignon,Paços de Ferreira,2014,Portuguese
+41,44,Rafael Amorim,BRA,D,1.94,90,30-07-87,Bilac,Desportivo das Aves,Paços de Ferreira,2014,Portuguese
+42,45,António Filipe,POR,G,1.87,84,14-04-85,Foz do Sousa,Gondomar,Paços de Ferreira,2014,Portuguese
+43,65,Fábio Cardoso,POR,D,1.86,75,19-04-94,Águeda,Benfica,Paços de Ferreira,2014,Portuguese
+44,77,Ruben Pinto,POR,M,1.81,69,24-04-92,Odivelas,Benfica,Paços de Ferreira,2014,Portuguese
+45,81,Manuel José,POR,M,1.76,75,04-02-81,Vila Nova de Gaia,CFR Cluj,Paços de Ferreira,2014,Portuguese
+46,88,Jean Michaël Seri,CIV,M,1.65,67,19-07-91,Grand-Bereby,FC Porto,Paços de Ferreira,2014,Portuguese
 1,1,Julio Coelho,POR,G,1.78,73,18-07-84,Paços de Ferreira,Paços de Ferreira,Penafiel,2014,Portuguese
 2,2,Tiago Valente,POR,D,1.86,82,24-04-85,Macedo Cavaleiros,Lechia Gdańsk,Penafiel,2014,Portuguese
 5,5,Pedro Ribeiro,POR,D,1.85,80,25-01-83,Paredes,CRD Libolo,Penafiel,2014,Portuguese
@@ -461,46 +461,46 @@
 46,77,Nani,POR,M,1.75,66,17-11-86,Praia,Manchester U,Sporting CP,2014,Portuguese
 47,81,Geraldes,POR,D,1.81,70,02-05-91,Maia,İstanbul BB,Sporting CP,2014,Portuguese
 48,96,Luís Ribeiro,POR,G,1.85,78,19-04-92,Lisbon,None,Sporting CP,2014,Portuguese
-1,1,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitória Guimarăes,2014,Portuguese
-3,3,Josué,POR,D,1.86,75,17-06-92,Lisbon,Sporting CP,Vitória Guimarăes,2014,Portuguese
-4,4,Tiago Lima,POR,D,1.90,84,03-06-94,Póvoa de Varzim,FC Porto,Vitória Guimarăes,2014,Portuguese
-5,5,Luís Rocha,POR,D,1.74,70,27-06-93,Vila Nova de Famalicão,None,Vitória Guimarăes,2014,Portuguese
-6,6,Moreno,POR,D,1.86,81,19-08-81,Urgeses,Nacional [POR],Vitória Guimarăes,2014,Portuguese
-8,8,Nassim Zitouni,ALG,M,1.83,76,31-03-94,Sétif,Lyon,Vitória Guimarăes,2014,Portuguese
-9,9,Tomané,POR,F,1.84,84,23-10-92,Fafe,Boavista,Vitória Guimarăes,2014,Portuguese
-10,10,Jonathan Álvez,URU,F,1.81,80,31-05-88,Vichadero,Torque,Vitória Guimarăes,2014,Portuguese
-11,11,André André,POR,M,1.77,65,26-08-89,Vila do Conde,Varzim,Vitória Guimarăes,2014,Portuguese
-13,13,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,Belenenses,Vitória Guimarăes,2014,Portuguese
-14,14,Alex,POR,F,1.74,65,27-08-91,Funchal,Santa Clara,Vitória Guimarăes,2014,Portuguese
-15,15,João Afonso,POR,D,1.88,80,28-05-90,Castelo Branco,Benfica Castelo Branco,Vitória Guimarăes,2014,Portuguese
-18,18,Ricardo,CPV,F,1.88,89,18-12-91,Praia,Vizela,Vitória Guimarăes,2014,Portuguese
-19,19,Isaac Cissé,CIV,F,1.91,83,03-02-94,,União de Coimbra,Vitória Guimarăes,2014,Portuguese
-21,21,Fábio Vieria,POR,M,1.81,69,12-06-91,Porto,Sporting Espinho,Vitória Guimarăes,2014,Portuguese
-23,23,Pedro Correia,POR,D,1.78,68,27-03-87,Oeiras,Crotone,Vitória Guimarăes,2014,Portuguese
-25,25,Kanu,BRA,D,1.88,77,03-05-84,Salvador,Standard Liège,Vitória Guimarăes,2014,Portuguese
-26,26,Cafú,POR,M,1.83,84,26-02-93,Guimarães,Benfica,Vitória Guimarăes,2014,Portuguese
-28,28,Khalil Chemmam,TUN,D,1.78,73,24-07-87,Tunis,Espérance,Vitória Guimarăes,2014,Portuguese
-29,29,Alvin Arrondel,FRA,D,1.80,73,11-11-93,Pontoise,Paris St-Germain,Vitória Guimarăes,2014,Portuguese
-30,30,Miguel Palha,POR,G,1.82,79,26-02-95,Guimarães,None,Vitória Guimarăes,2014,Portuguese
-33,33,João Vigário,POR,F,1.81,75,20-11-95,Gondomar,Salgueiros,Vitória Guimarăes,2014,Portuguese
-34,34,Sami,GNB,F,1.84,78,18-12-88,Bissau,FC Porto,Vitória Guimarăes,2014,Portuguese
-35,35,Dénis Duarte,POR,D,1.90,82,04-05-94,Marteleira,Torreense,Vitória Guimarăes,2014,Portuguese
-36,36,Miguel Oliveira,POR,G,1.94,88,25-05-94,Infantas,None,Vitória Guimarăes,2014,Portuguese
-37,37,Ivo Rodrigues,POR,F,1.79,73,30-03-95,Baguim do Monte,FC Porto,Vitória Guimarăes,2014,Portuguese
-40,40,Nii Plange,GHA,D,1.75,70,26-06-89,Accra,Sporting CP,Vitória Guimarăes,2014,Portuguese
-41,43,Bernard Mensah,GHA,M,1.80,73,17-10-94,Accra,None,Vitória Guimarăes,2014,Portuguese
-42,45,Xande Silva,POR,F,1.77,60,16-03-97,Lisbon,Sporting CP,Vitória Guimarăes,2014,Portuguese
-43,48,Bruno Alves,POR,M,1.78,72,09-06-90,Guimarães,None,Vitória Guimarăes,2014,Portuguese
-44,49,Rui Areias,POR,F,1.87,83,22-11-93,Guimarães,None,Vitória Guimarăes,2014,Portuguese
-45,52,Otávio,BRA,M,1.71,65,09-02-95,João Pessoa,FC Porto,Vitória Guimarăes,2014,Portuguese
-46,55,Joseph Amoah,GHA,M,1.78,71,26-06-94,Accra,None,Vitória Guimarăes,2014,Portuguese
-47,58,João Pedro,POR,M,1.77,74,03-04-93,Guimarães,None,Vitória Guimarăes,2014,Portuguese
-48,66,Breno,BRA,D,1.78,70,06-03-95,São Paulo,Grêmio,Vitória Guimarăes,2014,Portuguese
-49,76,Bruno Gaspar,POR,D,1.76,68,21-04-93,Évora,Benfica,Vitória Guimarăes,2014,Portuguese
-50,77,Filip Kneević,SRB,F,1.84,76,08-11-91,Čačak,Partizan Belgrade,Vitória Guimarăes,2014,Portuguese
-51,80,Inters Gui,CIV,F,1.73,68,08-08-93,Bingerville,Sporting Covilhã,Vitória Guimarăes,2014,Portuguese
-52,91,Ricardo Valente,POR,F,1.81,76,03-04-91,Porto,Leixões,Vitória Guimarăes,2014,Portuguese
-53,99,Bakary Saré,CIV,M,1.82,82,05-05-90,Abidjan,Al-Ain,Vitória Guimarăes,2014,Portuguese
+1,1,Douglas,BRA,G,1.88,80,09-03-83,Ribeirão Preto,Santos,Vitória Guimarães,2014,Portuguese
+3,3,Josué,POR,D,1.86,75,17-06-92,Lisbon,Sporting CP,Vitória Guimarães,2014,Portuguese
+4,4,Tiago Lima,POR,D,1.90,84,03-06-94,Póvoa de Varzim,FC Porto,Vitória Guimarães,2014,Portuguese
+5,5,Luís Rocha,POR,D,1.74,70,27-06-93,Vila Nova de Famalicão,None,Vitória Guimarães,2014,Portuguese
+6,6,Moreno,POR,D,1.86,81,19-08-81,Urgeses,Nacional [POR],Vitória Guimarães,2014,Portuguese
+8,8,Nassim Zitouni,ALG,M,1.83,76,31-03-94,Sétif,Lyon,Vitória Guimarães,2014,Portuguese
+9,9,Tomané,POR,F,1.84,84,23-10-92,Fafe,Boavista,Vitória Guimarães,2014,Portuguese
+10,10,Jonathan Álvez,URU,F,1.81,80,31-05-88,Vichadero,Torque,Vitória Guimarães,2014,Portuguese
+11,11,André André,POR,M,1.77,65,26-08-89,Vila do Conde,Varzim,Vitória Guimarães,2014,Portuguese
+13,13,Assis,BRA,G,1.91,85,04-10-89,Rio Grande,Belenenses,Vitória Guimarães,2014,Portuguese
+14,14,Alex,POR,F,1.74,65,27-08-91,Funchal,Santa Clara,Vitória Guimarães,2014,Portuguese
+15,15,João Afonso,POR,D,1.88,80,28-05-90,Castelo Branco,Benfica Castelo Branco,Vitória Guimarães,2014,Portuguese
+18,18,Ricardo,CPV,F,1.88,89,18-12-91,Praia,Vizela,Vitória Guimarães,2014,Portuguese
+19,19,Isaac Cissé,CIV,F,1.91,83,03-02-94,,União de Coimbra,Vitória Guimarães,2014,Portuguese
+21,21,Fábio Vieria,POR,M,1.81,69,12-06-91,Porto,Sporting Espinho,Vitória Guimarães,2014,Portuguese
+23,23,Pedro Correia,POR,D,1.78,68,27-03-87,Oeiras,Crotone,Vitória Guimarães,2014,Portuguese
+25,25,Kanu,BRA,D,1.88,77,03-05-84,Salvador,Standard Liège,Vitória Guimarães,2014,Portuguese
+26,26,Cafú,POR,M,1.83,84,26-02-93,Guimarães,Benfica,Vitória Guimarães,2014,Portuguese
+28,28,Khalil Chemmam,TUN,D,1.78,73,24-07-87,Tunis,Espérance,Vitória Guimarães,2014,Portuguese
+29,29,Alvin Arrondel,FRA,D,1.80,73,11-11-93,Pontoise,Paris St-Germain,Vitória Guimarães,2014,Portuguese
+30,30,Miguel Palha,POR,G,1.82,79,26-02-95,Guimarães,None,Vitória Guimarães,2014,Portuguese
+33,33,João Vigário,POR,F,1.81,75,20-11-95,Gondomar,Salgueiros,Vitória Guimarães,2014,Portuguese
+34,34,Sami,GNB,F,1.84,78,18-12-88,Bissau,FC Porto,Vitória Guimarães,2014,Portuguese
+35,35,Dénis Duarte,POR,D,1.90,82,04-05-94,Marteleira,Torreense,Vitória Guimarães,2014,Portuguese
+36,36,Miguel Oliveira,POR,G,1.94,88,25-05-94,Infantas,None,Vitória Guimarães,2014,Portuguese
+37,37,Ivo Rodrigues,POR,F,1.79,73,30-03-95,Baguim do Monte,FC Porto,Vitória Guimarães,2014,Portuguese
+40,40,Nii Plange,GHA,D,1.75,70,26-06-89,Accra,Sporting CP,Vitória Guimarães,2014,Portuguese
+41,43,Bernard Mensah,GHA,M,1.80,73,17-10-94,Accra,None,Vitória Guimarães,2014,Portuguese
+42,45,Xande Silva,POR,F,1.77,60,16-03-97,Lisbon,Sporting CP,Vitória Guimarães,2014,Portuguese
+43,48,Bruno Alves,POR,M,1.78,72,09-06-90,Guimarães,None,Vitória Guimarães,2014,Portuguese
+44,49,Rui Areias,POR,F,1.87,83,22-11-93,Guimarães,None,Vitória Guimarães,2014,Portuguese
+45,52,Otávio,BRA,M,1.71,65,09-02-95,João Pessoa,FC Porto,Vitória Guimarães,2014,Portuguese
+46,55,Joseph Amoah,GHA,M,1.78,71,26-06-94,Accra,None,Vitória Guimarães,2014,Portuguese
+47,58,João Pedro,POR,M,1.77,74,03-04-93,Guimarães,None,Vitória Guimarães,2014,Portuguese
+48,66,Breno,BRA,D,1.78,70,06-03-95,São Paulo,Grêmio,Vitória Guimarães,2014,Portuguese
+49,76,Bruno Gaspar,POR,D,1.76,68,21-04-93,Évora,Benfica,Vitória Guimarães,2014,Portuguese
+50,77,Filip Kneević,SRB,F,1.84,76,08-11-91,Čačak,Partizan Belgrade,Vitória Guimarães,2014,Portuguese
+51,80,Inters Gui,CIV,F,1.73,68,08-08-93,Bingerville,Sporting Covilhã,Vitória Guimarães,2014,Portuguese
+52,91,Ricardo Valente,POR,F,1.81,76,03-04-91,Porto,Leixões,Vitória Guimarães,2014,Portuguese
+53,99,Bakary Saré,CIV,M,1.82,82,05-05-90,Abidjan,Al-Ain,Vitória Guimarães,2014,Portuguese
 1,1,Lukas Raeder,GER,G,1.94,92,30-12-93,Essen,Bayern Munich,Vitória Setúbal,2014,Portuguese
 3,3,Frederico Venâncio,POR,D,1.86,77,04-02-93,Setúbal,Benfica,Vitória Setúbal,2014,Portuguese
 6,6,João Schmidt,BRA,M,1.83,82,19-05-93,São Paulo,São Paulo,Vitória Setúbal,2014,Portuguese
