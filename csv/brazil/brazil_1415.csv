@@ -1,42 +1,42 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlйtico Mineiro,2014,Brazilian
-2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlйtico Mineiro,2014,Brazilian
-3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlйtico Mineiro,2014,Brazilian
-4,4,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlйtico Mineiro,2014,Brazilian
-5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlйtico Mineiro,2014,Brazilian
-6,6,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Atlйtico Mineiro,2014,Brazilian
-7,7,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Internacional,Atlйtico Mineiro,2014,Brazilian
-8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlйtico Mineiro,2014,Brazilian
-9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Al-Gharafa,Atlйtico Mineiro,2014,Brazilian
-13,13,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlйtico Mineiro,2014,Brazilian
-14,14,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlйtico Mineiro,2014,Brazilian
-15,15,Claudinei,BRA,M,1.72,70,08-10-88,Sete Lagoas,Tombense,Atlйtico Mineiro,2014,Brazilian
-16,16,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Atlйtico Mineiro,2014,Brazilian
-17,17,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kyiv,Atlйtico Mineiro,2014,Brazilian
-18,18,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Atlйtico Mineiro,2014,Brazilian
-19,19,Emerson Da Conceição,BRA,D,1.85,83,23-02-86,São Paulo,Rennes,Atlйtico Mineiro,2014,Brazilian
-20,20,Alex Silva,BRA,D,1.81,74,15-05-94,Minas Gerais,None,Atlйtico Mineiro,2014,Brazilian
-21,21,Daniel Abelha,BRA,M,,,04-11-94,Andradina,None,Atlйtico Mineiro,2014,Brazilian
-22,22,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,None,Atlйtico Mineiro,2014,Brazilian
-23,23,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlйtico Mineiro,2014,Brazilian
-27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlйtico Mineiro,2014,Brazilian
-28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlйtico Mineiro,2014,Brazilian
-29,29,Donato,BRA,D,1.90,79,02-02-94,Coqueiral,None,Atlйtico Mineiro,2014,Brazilian
-31,31,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlйtico Mineiro,2014,Brazilian
-35,35,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlйtico Mineiro,2014,Brazilian
-36,36,Marcos Vinícius,BRA,F,,,24-02-94,Jataí,None,Atlйtico Mineiro,2014,Brazilian
-39,39,Gabriel,BRA,D,1.81,80,14-03-95,Pedro Leopoldo,None,Atlйtico Mineiro,2014,Brazilian
-40,40,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlйtico Mineiro,2014,Brazilian
-41,41,Paulinho,BRA,M,1.73,71,07-01-93,Belo Horizonte,None,Atlйtico Mineiro,2014,Brazilian
-42,42,Rodolfo Pereira,BRA,G,1.86,75,12-04-95,Sete Lagoas,None,Atlйtico Mineiro,2014,Brazilian
-43,43,Tiago,BRA,D,1.91,89,17-06-90,São Jorge d'Oeste,Caxias,Atlйtico Mineiro,2014,Brazilian
-44,44,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Coritiba,Atlйtico Mineiro,2014,Brazilian
-45,70,Maicosuel,BRA,M,1.80,69,16-06-86,Cosmópolis,Udinese,Atlйtico Mineiro,2014,Brazilian
-46,87,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlйtico Mineiro,2014,Brazilian
-47,89,Cesinha,BRA,F,1.77,74,29-11-89,São José do Rio Preto,Bragantino,Atlйtico Mineiro,2014,Brazilian
-48,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Dynamo Kyiv,Atlйtico Mineiro,2014,Brazilian
-49,94,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Udinese,Atlйtico Mineiro,2014,Brazilian
-50,95,Eduardo,BRA,M,1.84,73,17-05-95,Limeira,São Paulo,Atlйtico Mineiro,2014,Brazilian
+1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlético Mineiro,2014,Brazilian
+2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlético Mineiro,2014,Brazilian
+3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlético Mineiro,2014,Brazilian
+4,4,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlético Mineiro,2014,Brazilian
+5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlético Mineiro,2014,Brazilian
+6,6,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Atlético Mineiro,2014,Brazilian
+7,7,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Internacional,Atlético Mineiro,2014,Brazilian
+8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlético Mineiro,2014,Brazilian
+9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Al-Gharafa,Atlético Mineiro,2014,Brazilian
+13,13,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlético Mineiro,2014,Brazilian
+14,14,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlético Mineiro,2014,Brazilian
+15,15,Claudinei,BRA,M,1.72,70,08-10-88,Sete Lagoas,Tombense,Atlético Mineiro,2014,Brazilian
+16,16,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Atlético Mineiro,2014,Brazilian
+17,17,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kyiv,Atlético Mineiro,2014,Brazilian
+18,18,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Atlético Mineiro,2014,Brazilian
+19,19,Emerson Da Conceição,BRA,D,1.85,83,23-02-86,São Paulo,Rennes,Atlético Mineiro,2014,Brazilian
+20,20,Alex Silva,BRA,D,1.81,74,15-05-94,Minas Gerais,None,Atlético Mineiro,2014,Brazilian
+21,21,Daniel Abelha,BRA,M,,,04-11-94,Andradina,None,Atlético Mineiro,2014,Brazilian
+22,22,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,None,Atlético Mineiro,2014,Brazilian
+23,23,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlético Mineiro,2014,Brazilian
+27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlético Mineiro,2014,Brazilian
+28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlético Mineiro,2014,Brazilian
+29,29,Donato,BRA,D,1.90,79,02-02-94,Coqueiral,None,Atlético Mineiro,2014,Brazilian
+31,31,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlético Mineiro,2014,Brazilian
+35,35,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlético Mineiro,2014,Brazilian
+36,36,Marcos Vinícius,BRA,F,,,24-02-94,Jataí,None,Atlético Mineiro,2014,Brazilian
+39,39,Gabriel,BRA,D,1.81,80,14-03-95,Pedro Leopoldo,None,Atlético Mineiro,2014,Brazilian
+40,40,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlético Mineiro,2014,Brazilian
+41,41,Paulinho,BRA,M,1.73,71,07-01-93,Belo Horizonte,None,Atlético Mineiro,2014,Brazilian
+42,42,Rodolfo Pereira,BRA,G,1.86,75,12-04-95,Sete Lagoas,None,Atlético Mineiro,2014,Brazilian
+43,43,Tiago,BRA,D,1.91,89,17-06-90,São Jorge d'Oeste,Caxias,Atlético Mineiro,2014,Brazilian
+44,44,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Coritiba,Atlético Mineiro,2014,Brazilian
+45,70,Maicosuel,BRA,M,1.80,69,16-06-86,Cosmópolis,Udinese,Atlético Mineiro,2014,Brazilian
+46,87,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlético Mineiro,2014,Brazilian
+47,89,Cesinha,BRA,F,1.77,74,29-11-89,São José do Rio Preto,Bragantino,Atlético Mineiro,2014,Brazilian
+48,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Dynamo Kyiv,Atlético Mineiro,2014,Brazilian
+49,94,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Udinese,Atlético Mineiro,2014,Brazilian
+50,95,Eduardo,BRA,M,1.84,73,17-05-95,Limeira,São Paulo,Atlético Mineiro,2014,Brazilian
 1,1,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlético Paranaense,2014,Brazilian
 2,2,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão,Criciúma,Atlético Paranaense,2014,Brazilian
 3,3,Gustavo,BRA,D,1.86,84,19-02-82,Campinas,Paraná,Atlético Paranaense,2014,Brazilian
