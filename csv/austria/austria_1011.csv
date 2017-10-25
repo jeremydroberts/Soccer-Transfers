@@ -1,31 +1,31 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Szabolcs Sáfár,AUT,G,1.89,84,20-08-74,Budapest,Spartak Moscow,bundes/austvien.htm,2010,Austrian
-2,2,Fernando Troyansky,ARG,D,1.77,76,24-11-77,Bahía Blanca,Austria Kärnten,bundes/austvien.htm,2010,Austrian
-3,3,Georg Margreitter,AUT,D,1.86,81,07-11-88,Schruns,LASK Linz,bundes/austvien.htm,2010,Austrian
-4,4,Niklas Hoheneder,AUT,D,1.90,75,17-08-86,Linz,Sparta Prague,bundes/austvien.htm,2010,Austrian
-5,5,Manuel Wallner,AUT,D,1.84,76,25-10-88,Klagenfurt,Grödig,bundes/austvien.htm,2010,Austrian
-6,6,Peter Hlinka,SVK,M,1.88,82,05-12-78,Preov,Sturm Graz,bundes/austvien.htm,2010,Austrian
-7,7,Florian Klein,AUT,M,1.80,68,17-11-86,Linz,LASK Linz,bundes/austvien.htm,2010,Austrian
-8,8,Patrick Salomon,AUT,M,1.78,70,10-06-88,Vienna,Austria Lustenau,bundes/austvien.htm,2010,Austrian
-9,9,Roland Linz,AUT,F,1.85,72,09-08-81,Leoben,Gaziantepspor,bundes/austvien.htm,2010,Austrian
-10,10,Schumacher,BRA,F,1.90,88,31-08-86,Curitiba,Udinese,bundes/austvien.htm,2010,Austrian
-11,11,Tomá Jun,CZE,F,1.78,72,17-01-83,Prague,Teplice,bundes/austvien.htm,2010,Austrian
-13,13,Heinz Lindner,AUT,G,1.87,80,17-07-90,Linz,None,bundes/austvien.htm,2010,Austrian
-14,14,Manuel  Ortlechner,AUT,D,1.86,79,04-03-80,Ried im Innkreis,Austria Kärnten,bundes/austvien.htm,2010,Austrian
-15,15,Petr Voříek,CZE,D,1.85,80,19-03-79,Děčín,Sparta Prague,bundes/austvien.htm,2010,Austrian
-16,16,Zlatko Junuzović,AUT,M,1.72,69,26-09-87,Loznica,Austria Kärnten,bundes/austvien.htm,2010,Austrian
-17,17,Andreas Tiffner,AUT,F,1.87,82,10-02-91,Feldkirchen in Kärnten,Red Bull Salzburg,bundes/austvien.htm,2010,Austrian
-18,18,Michael Liendl,AUT,M,1.75,72,25-10-85,Vorarlberg,Kapfenberg,bundes/austvien.htm,2010,Austrian
-19,19,Marko Stanković,AUT,F,1.75,70,17-02-86,Leoben,Triestina,bundes/austvien.htm,2010,Austrian
-20,20,Alexander Gorgon,AUT,M,1.85,76,28-10-88,Vienna,None,bundes/austvien.htm,2010,Austrian
-21,21,Robert Almer,AUT,G,1.93,87,20-03-84,Birkfeld,Mattersburg,bundes/austvien.htm,2010,Austrian
-22,22,Marin Leovac,AUT,D,1.79,69,07-08-88,Jajce,None,bundes/austvien.htm,2010,Austrian
-26,26,Julian Baumgartlinger,AUT,M,1.81,80,02-01-88,Salzburg,1860 Munich,bundes/austvien.htm,2010,Austrian
-27,27,Emir Dilaver,AUT,M,1.83,78,07-05-91,Tomislavgrad,None,bundes/austvien.htm,2010,Austrian
-28,28,Dario Tadić,AUT,F,1.77,77,11-05-90,Odak,AKA Burgenland,bundes/austvien.htm,2010,Austrian
-29,29,Markus Suttner,AUT,D,1.79,71,16-04-87,Hollabrunn,None,bundes/austvien.htm,2010,Austrian
-30,30,Fabian Koch,AUT,M,1.76,68,24-06-89,Rum,Wacker Innsbruck,bundes/austvien.htm,2010,Austrian
-39,39,Nacer  Barazite,NED,M,1.88,83,27-05-90,Arnhem,Arsenal,bundes/austvien.htm,2010,Austrian
+1,1,Szabolcs Sáfár,AUT,G,1.89,84,20-08-74,Budapest,Spartak Moscow,Austria Vienna,2010,Austrian
+2,2,Fernando Troyansky,ARG,D,1.77,76,24-11-77,Bahía Blanca,Austria Kärnten,Austria Vienna,2010,Austrian
+3,3,Georg Margreitter,AUT,D,1.86,81,07-11-88,Schruns,LASK Linz,Austria Vienna,2010,Austrian
+4,4,Niklas Hoheneder,AUT,D,1.90,75,17-08-86,Linz,Sparta Prague,Austria Vienna,2010,Austrian
+5,5,Manuel Wallner,AUT,D,1.84,76,25-10-88,Klagenfurt,Grödig,Austria Vienna,2010,Austrian
+6,6,Peter Hlinka,SVK,M,1.88,82,05-12-78,Preov,Sturm Graz,Austria Vienna,2010,Austrian
+7,7,Florian Klein,AUT,M,1.80,68,17-11-86,Linz,LASK Linz,Austria Vienna,2010,Austrian
+8,8,Patrick Salomon,AUT,M,1.78,70,10-06-88,Vienna,Austria Lustenau,Austria Vienna,2010,Austrian
+9,9,Roland Linz,AUT,F,1.85,72,09-08-81,Leoben,Gaziantepspor,Austria Vienna,2010,Austrian
+10,10,Schumacher,BRA,F,1.90,88,31-08-86,Curitiba,Udinese,Austria Vienna,2010,Austrian
+11,11,Tomá Jun,CZE,F,1.78,72,17-01-83,Prague,Teplice,Austria Vienna,2010,Austrian
+13,13,Heinz Lindner,AUT,G,1.87,80,17-07-90,Linz,None,Austria Vienna,2010,Austrian
+14,14,Manuel  Ortlechner,AUT,D,1.86,79,04-03-80,Ried im Innkreis,Austria Kärnten,Austria Vienna,2010,Austrian
+15,15,Petr Voříek,CZE,D,1.85,80,19-03-79,Děčín,Sparta Prague,Austria Vienna,2010,Austrian
+16,16,Zlatko Junuzović,AUT,M,1.72,69,26-09-87,Loznica,Austria Kärnten,Austria Vienna,2010,Austrian
+17,17,Andreas Tiffner,AUT,F,1.87,82,10-02-91,Feldkirchen in Kärnten,Red Bull Salzburg,Austria Vienna,2010,Austrian
+18,18,Michael Liendl,AUT,M,1.75,72,25-10-85,Vorarlberg,Kapfenberg,Austria Vienna,2010,Austrian
+19,19,Marko Stanković,AUT,F,1.75,70,17-02-86,Leoben,Triestina,Austria Vienna,2010,Austrian
+20,20,Alexander Gorgon,AUT,M,1.85,76,28-10-88,Vienna,None,Austria Vienna,2010,Austrian
+21,21,Robert Almer,AUT,G,1.93,87,20-03-84,Birkfeld,Mattersburg,Austria Vienna,2010,Austrian
+22,22,Marin Leovac,AUT,D,1.79,69,07-08-88,Jajce,None,Austria Vienna,2010,Austrian
+26,26,Julian Baumgartlinger,AUT,M,1.81,80,02-01-88,Salzburg,1860 Munich,Austria Vienna,2010,Austrian
+27,27,Emir Dilaver,AUT,M,1.83,78,07-05-91,Tomislavgrad,None,Austria Vienna,2010,Austrian
+28,28,Dario Tadić,AUT,F,1.77,77,11-05-90,Odak,AKA Burgenland,Austria Vienna,2010,Austrian
+29,29,Markus Suttner,AUT,D,1.79,71,16-04-87,Hollabrunn,None,Austria Vienna,2010,Austrian
+30,30,Fabian Koch,AUT,M,1.76,68,24-06-89,Rum,Wacker Innsbruck,Austria Vienna,2010,Austrian
+39,39,Nacer  Barazite,NED,M,1.88,83,27-05-90,Arnhem,Arsenal,Austria Vienna,2010,Austrian
 1,1,Raphael Wolf,GER,G,1.90,86,06-06-88,Munich,Hamburg,SV Kapfenberg,2010,Austrian
 2,2,René Pitter,AUT,M,1.75,67,08-07-89,Bruck an der Mur,None,SV Kapfenberg,2010,Austrian
 4,4,Dominique Taboga,AUT,D,1.88,80,06-11-82,Vienna,Tromsø,SV Kapfenberg,2010,Austrian
@@ -123,63 +123,63 @@
 29,29,Róbert Waltner,HUN,F,1.84,77,20-09-77,Kaposvár,Zalaegerszeg,SV Mattersburg,2010,Austrian
 30,30,David Schartner,AUT,G,1.93,90,07-09-88,,Red Bull Salzburg,SV Mattersburg,2010,Austrian
 33,33,Patrick Bürger,AUT,F,1.87,85,27-06-87,Oberwart,Hartberg,SV Mattersburg,2010,Austrian
-1,1,Raimund Hedl,AUT,G,1.88,83,31-08-74,Vienna,Mattersburg,bundes/rapvien.htm,2010,Austrian
-2,2,Andrej Lebedev,BLR,D,1.91,77,01-04-91,Vitebsk,Vitebsk,bundes/rapvien.htm,2010,Austrian
-3,3,Jürgen Patocka,AUT,D,1.92,89,30-07-77,Vienna,Mattersburg,bundes/rapvien.htm,2010,Austrian
-6,6,Mario Sonnleitner,AUT,D,1.81,75,08-10-86,Vorau,Sturm Graz,bundes/rapvien.htm,2010,Austrian
-7,7,Stefan Kulovits,AUT,M,1.78,65,19-04-83,Vienna,Red Star Knittelfield,bundes/rapvien.htm,2010,Austrian
-8,8,Markus Heikkinen,FIN,M,1.85,80,13-10-74,Katrineholm,Luton T,bundes/rapvien.htm,2010,Austrian
-9,9,Hamdi Salihi,ALB,F,1.85,79,19-01-84,Shkoder,SV Ried,bundes/rapvien.htm,2010,Austrian
-10,10,Jan Vennegoor of Hesselink,NED,F,1.91,85,07-11-78,Oldenzaal,Hull C,bundes/rapvien.htm,2010,Austrian
-11,11,Steffen Hofmann,GER,M,1.73,69,09-09-80,Würzburg,1860 Munich,bundes/rapvien.htm,2010,Austrian
-14,14,Markus Katzer,AUT,D,1.86,83,11-12-79,Vienna,Admira Wacker,bundes/rapvien.htm,2010,Austrian
-15,15,Atdhe Nuhiu,AUT,F,1.97,85,29-07-89,Pritina,SV Ried,bundes/rapvien.htm,2010,Austrian
-16,16,Boris Prokopić,AUT,M,1.81,74,29-03-88,Spiská Nová Ves,None,bundes/rapvien.htm,2010,Austrian
-17,17,Veli Kavlak,AUT,M,1.78,73,03-11-88,Vienna,None,bundes/rapvien.htm,2010,Austrian
-19,19,Christopher Drazan,AUT,M,1.84,81,02-10-90,Vienna,Admira Wacker,bundes/rapvien.htm,2010,Austrian
-20,20,René Gartler,AUT,F,1.81,79,21-10-85,Vienna,None,bundes/rapvien.htm,2010,Austrian
-21,21,Christoph Saurer,AUT,M,1.75,67,22-01-86,Vienna,LASK Linz,bundes/rapvien.htm,2010,Austrian
-22,22,Ragnvald Soma,NOR,D,1.89,85,10-11-79,Stavanger,Viking,bundes/rapvien.htm,2010,Austrian
-23,23,Andreas Dober,AUT,D,1.82,75,31-03-86,Vienna,None,bundes/rapvien.htm,2010,Austrian
-24,24,Helge Payer,AUT,G,1.84,84,09-08-79,Wels,ASK Kottingbrunn,bundes/rapvien.htm,2010,Austrian
-25,25,Tanju Kayhan,AUT,D,1.72,74,22-07-89,Vienna,None,bundes/rapvien.htm,2010,Austrian
-26,26,Thomas Hinum,AUT,M,1.81,64,24-07-87,Linz,Austria Kärnten,bundes/rapvien.htm,2010,Austrian
-27,27,Vasil Kuleski,AUT,F,1.68,63,21-03-93,Vienna,None,bundes/rapvien.htm,2010,Austrian
-28,28,Christopher Trimmel,AUT,F,1.89,80,24-02-87,Oberpullendorf,ASK Horitschon,bundes/rapvien.htm,2010,Austrian
-29,29,Georg Blatnik,AUT,G,1.84,79,06-07-92,Klagenfurt,Grödig,bundes/rapvien.htm,2010,Austrian
-30,30,Lukas  Königshofer,AUT,G,1.91,91,16-03-89,Vienna,Austria Kärnten,bundes/rapvien.htm,2010,Austrian
-33,33,Mario Konrad,AUT,F,1.83,82,22-01-83,Vienna,SCR Altach,bundes/rapvien.htm,2010,Austrian
-35,35,Yasin Pehlivan,AUT,M,1.84,70,05-01-89,Vienna,None,bundes/rapvien.htm,2010,Austrian
-36,36,Michael Schimpelsberger,AUT,M,1.81,73,12-02-91,Linz,FC Twente,bundes/rapvien.htm,2010,Austrian
-1,1,Eddie Gustafsson,SWE,G,1.87,83,31-01-77,Philadelphia,Lyn,bundes/rbsalz.htm,2010,Austrian
-2,2,László Bodnar,HUN,D,1.74,78,25-02-79,Màtèszalka,Debrecen,bundes/rbsalz.htm,2010,Austrian
-3,3,Milan  Dudić,SRB,D,1.85,77,01-11-79,Kraljevo,Crvena Zvezda,bundes/rbsalz.htm,2010,Austrian
-4,4,David Mendes da Silva,NED,M,1.86,75,04-08-82,Rotterdam,AZ Alkmaar,bundes/rbsalz.htm,2010,Austrian
-5,5,Rabiu Afolabi,NGA,D,1.83,77,18-04-80,Osobo,Sochaux,bundes/rbsalz.htm,2010,Austrian
-6,6,Christian Schwegler,SUI,D,1.74,72,06-06-84,Ettiswil,Young Boys,bundes/rbsalz.htm,2010,Austrian
-7,7,Roman Wallner,AUT,F,1.78,72,04-02-82,Graz,LASK Linz,bundes/rbsalz.htm,2010,Austrian
-10,10,Nikola Pokrivać,CRO,M,1.85,84,26-11-85,Čakovec,Monaco,bundes/rbsalz.htm,2010,Austrian
-11,11,Gonzalo Zárate,ARG,F,1.82,71,06-08-84,Rosario,Grasshoppers,bundes/rbsalz.htm,2010,Austrian
-14,14,Jakob Jantscher,AUT,M,1.78,70,08-01-89,Graz,Sturm Graz,bundes/rbsalz.htm,2010,Austrian
-15,15,Franz Schiemer,AUT,D,1.83,74,21-03-86,Haag am Hausruck,Austria Vienna,bundes/rbsalz.htm,2010,Austrian
-17,17,Andreas Ulmer,AUT,D,1.75,70,30-10-85,Linz,SV Ried,bundes/rbsalz.htm,2010,Austrian
-18,18,Duan vento,SVK,M,1.78,63,01-08-85,Ruomberok,Slavia Prague,bundes/rbsalz.htm,2010,Austrian
-19,19,Simon Cziommer,GER,M,1.78,69,06-11-80,Nordhorn,AZ Alkmaar,bundes/rbsalz.htm,2010,Austrian
-20,20,Niclas Heimann,GER,G,1.94,84,12-03-91,Engelskirchen,Chelsea,bundes/rbsalz.htm,2010,Austrian
-22,22,Stephan Hierländer,AUT,M,1.80,70,03-02-91,Villach,Austria Kärnten,bundes/rbsalz.htm,2010,Austrian
-23,23,Ibrahim  Sekagya,UGA,D,1.86,75,19-12-80,Kampala,Arsenal [ARG],bundes/rbsalz.htm,2010,Austrian
-24,24,Christoph Leitgeb,AUT,M,1.73,70,14-04-85,Graz,Sturm Graz,bundes/rbsalz.htm,2010,Austrian
-27,27,Alan,BRA,F,1.82,72,10-07-89,José Bonifácio,Fluminense,bundes/rbsalz.htm,2010,Austrian
-28,28,Gerhard Tremmel,GER,G,1.90,89,16-11-78,Munich,Energie Cottbus,bundes/rbsalz.htm,2010,Austrian
-30,30,Douglas,BRA,D,1.86,80,07-03-84,Florianópolis,Hapoel Tel Aviv,bundes/rbsalz.htm,2010,Austrian
-31,31,Wolfgang Schober,AUT,G,1.87,78,06-07-89,Munich,Bayern Munich II,bundes/rbsalz.htm,2010,Austrian
-32,32,Marco Meilinger,AUT,M,1.80,76,03-08-91,Salzburg,None,bundes/rbsalz.htm,2010,Austrian
-35,35,Daniel Offenbacher,AUT,M,1.74,68,18-02-92,Scheifling,None,bundes/rbsalz.htm,2010,Austrian
-36,36,Martin Hinteregger,AUT,D,1.84,73,07-09-92,Feldkirchen,None,bundes/rbsalz.htm,2010,Austrian
-37,37,Stefan Savić,AUT,M,1.73,65,09-01-94,Salzburg,None,bundes/rbsalz.htm,2010,Austrian
-38,38,Johan Vonlanthen,SUI,F,1.75,73,01-02-86,Santa Marta,PSV Eindhoven,bundes/rbsalz.htm,2010,Austrian
-39,39,Georg Teigl,AUT,M,1.78,74,09-02-91,Vienna,AKA St. Pölten,bundes/rbsalz.htm,2010,Austrian
-41,43,Joaquín Boghossian,URU,F,1.94,80,19-06-87,Montevideo,Cerro,bundes/rbsalz.htm,2010,Austrian
+1,1,Raimund Hedl,AUT,G,1.88,83,31-08-74,Vienna,Mattersburg,Rapid Vienna,2010,Austrian
+2,2,Andrej Lebedev,BLR,D,1.91,77,01-04-91,Vitebsk,Vitebsk,Rapid Vienna,2010,Austrian
+3,3,Jürgen Patocka,AUT,D,1.92,89,30-07-77,Vienna,Mattersburg,Rapid Vienna,2010,Austrian
+6,6,Mario Sonnleitner,AUT,D,1.81,75,08-10-86,Vorau,Sturm Graz,Rapid Vienna,2010,Austrian
+7,7,Stefan Kulovits,AUT,M,1.78,65,19-04-83,Vienna,Red Star Knittelfield,Rapid Vienna,2010,Austrian
+8,8,Markus Heikkinen,FIN,M,1.85,80,13-10-74,Katrineholm,Luton T,Rapid Vienna,2010,Austrian
+9,9,Hamdi Salihi,ALB,F,1.85,79,19-01-84,Shkoder,SV Ried,Rapid Vienna,2010,Austrian
+10,10,Jan Vennegoor of Hesselink,NED,F,1.91,85,07-11-78,Oldenzaal,Hull C,Rapid Vienna,2010,Austrian
+11,11,Steffen Hofmann,GER,M,1.73,69,09-09-80,Würzburg,1860 Munich,Rapid Vienna,2010,Austrian
+14,14,Markus Katzer,AUT,D,1.86,83,11-12-79,Vienna,Admira Wacker,Rapid Vienna,2010,Austrian
+15,15,Atdhe Nuhiu,AUT,F,1.97,85,29-07-89,Pritina,SV Ried,Rapid Vienna,2010,Austrian
+16,16,Boris Prokopić,AUT,M,1.81,74,29-03-88,Spiská Nová Ves,None,Rapid Vienna,2010,Austrian
+17,17,Veli Kavlak,AUT,M,1.78,73,03-11-88,Vienna,None,Rapid Vienna,2010,Austrian
+19,19,Christopher Drazan,AUT,M,1.84,81,02-10-90,Vienna,Admira Wacker,Rapid Vienna,2010,Austrian
+20,20,René Gartler,AUT,F,1.81,79,21-10-85,Vienna,None,Rapid Vienna,2010,Austrian
+21,21,Christoph Saurer,AUT,M,1.75,67,22-01-86,Vienna,LASK Linz,Rapid Vienna,2010,Austrian
+22,22,Ragnvald Soma,NOR,D,1.89,85,10-11-79,Stavanger,Viking,Rapid Vienna,2010,Austrian
+23,23,Andreas Dober,AUT,D,1.82,75,31-03-86,Vienna,None,Rapid Vienna,2010,Austrian
+24,24,Helge Payer,AUT,G,1.84,84,09-08-79,Wels,ASK Kottingbrunn,Rapid Vienna,2010,Austrian
+25,25,Tanju Kayhan,AUT,D,1.72,74,22-07-89,Vienna,None,Rapid Vienna,2010,Austrian
+26,26,Thomas Hinum,AUT,M,1.81,64,24-07-87,Linz,Austria Kärnten,Rapid Vienna,2010,Austrian
+27,27,Vasil Kuleski,AUT,F,1.68,63,21-03-93,Vienna,None,Rapid Vienna,2010,Austrian
+28,28,Christopher Trimmel,AUT,F,1.89,80,24-02-87,Oberpullendorf,ASK Horitschon,Rapid Vienna,2010,Austrian
+29,29,Georg Blatnik,AUT,G,1.84,79,06-07-92,Klagenfurt,Grödig,Rapid Vienna,2010,Austrian
+30,30,Lukas  Königshofer,AUT,G,1.91,91,16-03-89,Vienna,Austria Kärnten,Rapid Vienna,2010,Austrian
+33,33,Mario Konrad,AUT,F,1.83,82,22-01-83,Vienna,SCR Altach,Rapid Vienna,2010,Austrian
+35,35,Yasin Pehlivan,AUT,M,1.84,70,05-01-89,Vienna,None,Rapid Vienna,2010,Austrian
+36,36,Michael Schimpelsberger,AUT,M,1.81,73,12-02-91,Linz,FC Twente,Rapid Vienna,2010,Austrian
+1,1,Eddie Gustafsson,SWE,G,1.87,83,31-01-77,Philadelphia,Lyn,Austria Salzburg,2010,Austrian
+2,2,László Bodnar,HUN,D,1.74,78,25-02-79,Màtèszalka,Debrecen,Austria Salzburg,2010,Austrian
+3,3,Milan  Dudić,SRB,D,1.85,77,01-11-79,Kraljevo,Crvena Zvezda,Austria Salzburg,2010,Austrian
+4,4,David Mendes da Silva,NED,M,1.86,75,04-08-82,Rotterdam,AZ Alkmaar,Austria Salzburg,2010,Austrian
+5,5,Rabiu Afolabi,NGA,D,1.83,77,18-04-80,Osobo,Sochaux,Austria Salzburg,2010,Austrian
+6,6,Christian Schwegler,SUI,D,1.74,72,06-06-84,Ettiswil,Young Boys,Austria Salzburg,2010,Austrian
+7,7,Roman Wallner,AUT,F,1.78,72,04-02-82,Graz,LASK Linz,Austria Salzburg,2010,Austrian
+10,10,Nikola Pokrivać,CRO,M,1.85,84,26-11-85,Čakovec,Monaco,Austria Salzburg,2010,Austrian
+11,11,Gonzalo Zárate,ARG,F,1.82,71,06-08-84,Rosario,Grasshoppers,Austria Salzburg,2010,Austrian
+14,14,Jakob Jantscher,AUT,M,1.78,70,08-01-89,Graz,Sturm Graz,Austria Salzburg,2010,Austrian
+15,15,Franz Schiemer,AUT,D,1.83,74,21-03-86,Haag am Hausruck,Austria Vienna,Austria Salzburg,2010,Austrian
+17,17,Andreas Ulmer,AUT,D,1.75,70,30-10-85,Linz,SV Ried,Austria Salzburg,2010,Austrian
+18,18,Duan vento,SVK,M,1.78,63,01-08-85,Ruomberok,Slavia Prague,Austria Salzburg,2010,Austrian
+19,19,Simon Cziommer,GER,M,1.78,69,06-11-80,Nordhorn,AZ Alkmaar,Austria Salzburg,2010,Austrian
+20,20,Niclas Heimann,GER,G,1.94,84,12-03-91,Engelskirchen,Chelsea,Austria Salzburg,2010,Austrian
+22,22,Stephan Hierländer,AUT,M,1.80,70,03-02-91,Villach,Austria Kärnten,Austria Salzburg,2010,Austrian
+23,23,Ibrahim  Sekagya,UGA,D,1.86,75,19-12-80,Kampala,Arsenal [ARG],Austria Salzburg,2010,Austrian
+24,24,Christoph Leitgeb,AUT,M,1.73,70,14-04-85,Graz,Sturm Graz,Austria Salzburg,2010,Austrian
+27,27,Alan,BRA,F,1.82,72,10-07-89,José Bonifácio,Fluminense,Austria Salzburg,2010,Austrian
+28,28,Gerhard Tremmel,GER,G,1.90,89,16-11-78,Munich,Energie Cottbus,Austria Salzburg,2010,Austrian
+30,30,Douglas,BRA,D,1.86,80,07-03-84,Florianópolis,Hapoel Tel Aviv,Austria Salzburg,2010,Austrian
+31,31,Wolfgang Schober,AUT,G,1.87,78,06-07-89,Munich,Bayern Munich II,Austria Salzburg,2010,Austrian
+32,32,Marco Meilinger,AUT,M,1.80,76,03-08-91,Salzburg,None,Austria Salzburg,2010,Austrian
+35,35,Daniel Offenbacher,AUT,M,1.74,68,18-02-92,Scheifling,None,Austria Salzburg,2010,Austrian
+36,36,Martin Hinteregger,AUT,D,1.84,73,07-09-92,Feldkirchen,None,Austria Salzburg,2010,Austrian
+37,37,Stefan Savić,AUT,M,1.73,65,09-01-94,Salzburg,None,Austria Salzburg,2010,Austrian
+38,38,Johan Vonlanthen,SUI,F,1.75,73,01-02-86,Santa Marta,PSV Eindhoven,Austria Salzburg,2010,Austrian
+39,39,Georg Teigl,AUT,M,1.78,74,09-02-91,Vienna,AKA St. Pölten,Austria Salzburg,2010,Austrian
+41,43,Joaquín Boghossian,URU,F,1.94,80,19-06-87,Montevideo,Cerro,Austria Salzburg,2010,Austrian
 1,1,Thomas Gebauer,GER,G,1.91,88,30-06-82,Augsburg,Bayreuth,SV Ried,2010,Austrian
 2,2,Martin Stocklasa,LIE,D,1.90,93,29-05-79,Grabs,Dynamo Dresden,SV Ried,2010,Austrian
 3,3,Thomas Schrammel,AUT,D,1.75,74,05-09-87,Kittsee,Rapid Vienna,SV Ried,2010,Austrian
