@@ -1,7 +1,7 @@
 ,Number,Name,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
 1,1,Daniel Beltrame,G,"6'03""",16 12,28-12-75,Adelaide,Wollongong Wolves,Adelaide United,2007,Australian
 2,2,Richie Alagich,D,"5'10""",11 09,30-10-73,Adelaide,Port Adelaide,Adelaide United,2007,Australian
-3,3,Milan uak,D,"6'00""",11 09,29-01-84,Sydney,Vojvodina,Adelaide United,2007,Australian
+3,3,Milan Susak,D,"6'00""",11 09,29-01-84,Sydney,Vojvodina,Adelaide United,2007,Australian
 4,4,Angelo Costanzo,M,"6'00""",13 12,09-05-76,Adelaide,Marconi,Adelaide United,2007,Australian
 5,5,Michael Valkanis,D,"5'11""",12 08,23-08-74,Melbourne,Adelaide C,Adelaide United,2007,Australian
 6,6,Cassio,M,"5'07""",11 04,08-01-80,Rio de Janeiro,Atlético  Goianense,Adelaide United,2007,Australian
@@ -10,7 +10,7 @@
 9,9,Paul Agostino,F,6'00'',13  01,09-06-75,Woodville,1860 Munich,Adelaide United,2007,Australian
 10,10,Nathan Burns,F,"5'08""",11 00,07-05-88,Blayney,AIS,Adelaide United,2007,Australian
 11,11,Bruce  Djite,F,"6'00""",13  08,25-03-87,"Washington,  DC",AIS,Adelaide United,2007,Australian
-12,12,Matthew Mullen,M,,,20-02-89,Adelaide,AIS,Adelaide United,2007,Australian
+12,12,Matthew Mullen,M,"5'09""",,20-02-89,Adelaide,AIS,Adelaide United,2007,Australian
 13,13,Travis Dodd,M,"5'10""",12 08,06-01-80,Adelaide,Panionios,Adelaide United,2007,Australian
 14,14,Shaun Ontong,M,"5'09""",11 03,25-03-87,Canberra,AIS,Adelaide United,2007,Australian
 15,15,Jonas Salley,M,"5'10""",12 00,16-03-82,,Sunshine George Cross,Adelaide United,2007,Australian
@@ -25,7 +25,7 @@
 41,50,Eugene Galeković,G,"6'02""",14 09,12-06-81,Melbourne,Melbourne Victory,Adelaide United,2007,Australian
 1,1,Matthew Trott,G,"6'01""",12 00,09-06-85,Gosford,Central Coast  Lightning,Central Coast Mariners,2007,Australian
 2,2,Matt Simon,F,"6'02""",12 04,22-01-86,Sydney,Central Coast  Lightning,Central Coast Mariners,2007,Australian
-3,3,Paul OGrady,D,"6'04""",14 09,06-11-78,Sydney,Marconi,Central Coast Mariners,2007,Australian
+3,3,Paul O'Grady,D,"6'04""",14 09,06-11-78,Sydney,Marconi,Central Coast Mariners,2007,Australian
 4,4,Ian McAndrew,M,"5'09""",11 05,23-02-89,Gosford,Central Coast  Lightning,Central Coast Mariners,2007,Australian
 5,5,Bradley Porter,M,"5'10""",12 01,19-02-87,Gosford,AIS,Central Coast Mariners,2007,Australian
 6,6,Andre Gumprecht,M,"5'10""",12 06,26-11-74,Jena,Sydney Olympic,Central Coast Mariners,2007,Australian
@@ -175,7 +175,7 @@
 13,13,Steven Old,D,"6'02""",12 08,17-02-86,Palmerston North,Newcastle U [AUS],Wellington Phoenix,2007,Australian
 14,14,Steven O'Dor,D,"6'02""",12 04,28-01-87,Melbourne,South Melbourne,Wellington Phoenix,2007,Australian
 16,16,Kristian Rees,D,"6'04""",14 09,06-01-80,Adelaide,Whittlesea Zebras,Wellington Phoenix,2007,Australian
-17,17,Vince Lia,M,"5'10""",11 07,18-03-85,Shepperton,Melbourne  Victory,Wellington Phoenix,2007,Australian
+17,17,Vince Lia,M,"5'10""",11 08,18-03-85,Shepperton,Melbourne  Victory,Wellington Phoenix,2007,Australian
 18,18,Ahmad  Elrich,M,"6'00""",11  05,30-05-81,Sydney,Fulham,Wellington Phoenix,2007,Australian
 19,19,Greg Draper,F,"6'01""",12 04,13-08-89,,Canterbury U,Wellington Phoenix,2007,Australian
 20,20,Glen Moss,G,"6'02""",14 02,19-01-83,Hastings [NZL],Dinamo Bucureşti,Wellington Phoenix,2007,Australian

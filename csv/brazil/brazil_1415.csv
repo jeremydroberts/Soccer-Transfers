@@ -1,42 +1,42 @@
 ,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
-1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlйtico Mineiro,2014,Brazilian
-2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlйtico Mineiro,2014,Brazilian
-3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlйtico Mineiro,2014,Brazilian
-4,4,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlйtico Mineiro,2014,Brazilian
-5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlйtico Mineiro,2014,Brazilian
-6,6,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Atlйtico Mineiro,2014,Brazilian
-7,7,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Internacional,Atlйtico Mineiro,2014,Brazilian
-8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlйtico Mineiro,2014,Brazilian
-9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Al-Gharafa,Atlйtico Mineiro,2014,Brazilian
-13,13,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlйtico Mineiro,2014,Brazilian
-14,14,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlйtico Mineiro,2014,Brazilian
-15,15,Claudinei,BRA,M,1.72,70,08-10-88,Sete Lagoas,Tombense,Atlйtico Mineiro,2014,Brazilian
-16,16,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Atlйtico Mineiro,2014,Brazilian
-17,17,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kyiv,Atlйtico Mineiro,2014,Brazilian
-18,18,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Atlйtico Mineiro,2014,Brazilian
-19,19,Emerson Da Conceição,BRA,D,1.85,83,23-02-86,São Paulo,Rennes,Atlйtico Mineiro,2014,Brazilian
-20,20,Alex Silva,BRA,D,1.81,74,15-05-94,Minas Gerais,None,Atlйtico Mineiro,2014,Brazilian
-21,21,Daniel Abelha,BRA,M,,,04-11-94,Andradina,None,Atlйtico Mineiro,2014,Brazilian
-22,22,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,None,Atlйtico Mineiro,2014,Brazilian
-23,23,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlйtico Mineiro,2014,Brazilian
-27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlйtico Mineiro,2014,Brazilian
-28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlйtico Mineiro,2014,Brazilian
-29,29,Donato,BRA,D,1.90,79,02-02-94,Coqueiral,None,Atlйtico Mineiro,2014,Brazilian
-31,31,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlйtico Mineiro,2014,Brazilian
-35,35,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlйtico Mineiro,2014,Brazilian
-36,36,Marcos Vinícius,BRA,F,,,24-02-94,Jataí,None,Atlйtico Mineiro,2014,Brazilian
-39,39,Gabriel,BRA,D,1.81,80,14-03-95,Pedro Leopoldo,None,Atlйtico Mineiro,2014,Brazilian
-40,40,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlйtico Mineiro,2014,Brazilian
-41,41,Paulinho,BRA,M,1.73,71,07-01-93,Belo Horizonte,None,Atlйtico Mineiro,2014,Brazilian
-42,42,Rodolfo Pereira,BRA,G,1.86,75,12-04-95,Sete Lagoas,None,Atlйtico Mineiro,2014,Brazilian
-43,43,Tiago,BRA,D,1.91,89,17-06-90,São Jorge d'Oeste,Caxias,Atlйtico Mineiro,2014,Brazilian
-44,44,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Coritiba,Atlйtico Mineiro,2014,Brazilian
-45,70,Maicosuel,BRA,M,1.80,69,16-06-86,Cosmópolis,Udinese,Atlйtico Mineiro,2014,Brazilian
-46,87,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlйtico Mineiro,2014,Brazilian
-47,89,Cesinha,BRA,F,1.77,74,29-11-89,São José do Rio Preto,Bragantino,Atlйtico Mineiro,2014,Brazilian
-48,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Dynamo Kyiv,Atlйtico Mineiro,2014,Brazilian
-49,94,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Udinese,Atlйtico Mineiro,2014,Brazilian
-50,95,Eduardo,BRA,M,1.84,73,17-05-95,Limeira,São Paulo,Atlйtico Mineiro,2014,Brazilian
+1,1,Victor,BRA,G,1.93,84,21-01-83,Santo Anastácio,Grêmio,Atlético Mineiro,2014,Brazilian
+2,2,Marcos Rocha,BRA,D,1.76,68,11-12-88,Sete Lagoas,None,Atlético Mineiro,2014,Brazilian
+3,3,Leonardo Silva,BRA,D,1.92,80,22-06-79,Rio de Janeiro,Cruzeiro,Atlético Mineiro,2014,Brazilian
+4,4,Réver,BRA,D,1.92,84,04-01-85,Ariranha,Wolfsburg,Atlético Mineiro,2014,Brazilian
+5,5,Pierre,BRA,M,1.72,67,19-01-82,Itororó,Palmeiras,Atlético Mineiro,2014,Brazilian
+6,6,Edcarlos,BRA,D,1.85,76,10-05-85,Salvador,Desportivo Brasil,Atlético Mineiro,2014,Brazilian
+7,7,Jô,BRA,F,1.88,78,20-03-87,São Paulo,Internacional,Atlético Mineiro,2014,Brazilian
+8,8,Leandro Donizete,BRA,M,1.75,70,18-05-82,Araraquara,Coritiba,Atlético Mineiro,2014,Brazilian
+9,9,Diego Tardelli,BRA,F,1.79,72,10-05-85,Santa Barbara,Al-Gharafa,Atlético Mineiro,2014,Brazilian
+13,13,Carlos,BRA,F,1.72,66,15-08-95,Santa Luz,None,Atlético Mineiro,2014,Brazilian
+14,14,Lucas Cândido,BRA,M,1.78,73,25-12-93,Uberlândia,None,Atlético Mineiro,2014,Brazilian
+15,15,Claudinei,BRA,M,1.72,70,08-10-88,Sete Lagoas,Tombense,Atlético Mineiro,2014,Brazilian
+16,16,Botelho,BRA,M,1.88,72,14-12-89,Salvador,Atlético Paranaense,Atlético Mineiro,2014,Brazilian
+17,17,Guilherme,BRA,F,1.73,77,22-10-88,Imperatriz,Dynamo Kyiv,Atlético Mineiro,2014,Brazilian
+18,18,Rafael Carioca,BRA,M,1.79,72,18-06-89,Rio de Janeiro,Spartak Moscow,Atlético Mineiro,2014,Brazilian
+19,19,Emerson Da Conceição,BRA,D,1.85,83,23-02-86,São Paulo,Rennes,Atlético Mineiro,2014,Brazilian
+20,20,Alex Silva,BRA,D,1.81,74,15-05-94,Minas Gerais,None,Atlético Mineiro,2014,Brazilian
+21,21,Daniel Abelha,BRA,M,,,04-11-94,Andradina,None,Atlético Mineiro,2014,Brazilian
+22,22,Marion,BRA,F,1.72,65,07-09-91,Teixeira de Freitas,None,Atlético Mineiro,2014,Brazilian
+23,23,Jesús Dátolo,ARG,M,1.77,67,19-05-84,Cañuelas,Internacional,Atlético Mineiro,2014,Brazilian
+27,27,Luan,BRA,F,1.68,69,11-08-90,São Miguel dos Campos,Atlético Sorocaba,Atlético Mineiro,2014,Brazilian
+28,28,Josué,BRA,M,1.69,63,19-07-79,Vitoria de Santo Antão,Wolfsburg,Atlético Mineiro,2014,Brazilian
+29,29,Donato,BRA,D,1.90,79,02-02-94,Coqueiral,None,Atlético Mineiro,2014,Brazilian
+31,31,Dodô,BRA,M,1.71,60,05-09-94,Vespasiano,None,Atlético Mineiro,2014,Brazilian
+35,35,Jemerson,BRA,D,1.84,77,24-08-92,Jeremoabo,None,Atlético Mineiro,2014,Brazilian
+36,36,Marcos Vinícius,BRA,F,,,24-02-94,Jataí,None,Atlético Mineiro,2014,Brazilian
+39,39,Gabriel,BRA,D,1.81,80,14-03-95,Pedro Leopoldo,None,Atlético Mineiro,2014,Brazilian
+40,40,Uilson,BRA,G,1.86,75,28-04-94,Mucuri,None,Atlético Mineiro,2014,Brazilian
+41,41,Paulinho,BRA,M,1.73,71,07-01-93,Belo Horizonte,None,Atlético Mineiro,2014,Brazilian
+42,42,Rodolfo Pereira,BRA,G,1.86,75,12-04-95,Sete Lagoas,None,Atlético Mineiro,2014,Brazilian
+43,43,Tiago,BRA,D,1.91,89,17-06-90,São Jorge d'Oeste,Caxias,Atlético Mineiro,2014,Brazilian
+44,44,Emerson Silva,BRA,D,1.86,83,03-05-83,Taguatinga,Coritiba,Atlético Mineiro,2014,Brazilian
+45,70,Maicosuel,BRA,M,1.80,69,16-06-86,Cosmópolis,Udinese,Atlético Mineiro,2014,Brazilian
+46,87,Giovanni,BRA,G,1.91,83,05-02-87,Bauru,Grêmio Prudente,Atlético Mineiro,2014,Brazilian
+47,89,Cesinha,BRA,F,1.77,74,29-11-89,São José do Rio Preto,Bragantino,Atlético Mineiro,2014,Brazilian
+48,90,André,BRA,F,1.82,77,27-09-90,Cabo Frio,Dynamo Kyiv,Atlético Mineiro,2014,Brazilian
+49,94,Douglas,BRA,D,1.75,69,22-03-94,João Pessoa,Udinese,Atlético Mineiro,2014,Brazilian
+50,95,Eduardo,BRA,M,1.84,73,17-05-95,Limeira,São Paulo,Atlético Mineiro,2014,Brazilian
 1,1,Santos,BRA,G,1.88,78,17-03-90,Campina Grande,Porto-PE,Atlético Paranaense,2014,Brazilian
 2,2,Sueliton,BRA,D,1.78,75,19-08-86,Vitória de Santo Antão,Criciúma,Atlético Paranaense,2014,Brazilian
 3,3,Gustavo,BRA,D,1.86,84,19-02-82,Campinas,Paraná,Atlético Paranaense,2014,Brazilian
@@ -435,73 +435,73 @@
 38,38,Matheus Carvalho,BRA,F,1.77,70,11-03-92,Niterói,None,Fluminense,2014,Brazilian
 39,39,Ailton,BRA,D,1.81,70,16-03-95,Pilar,None,Fluminense,2014,Brazilian
 40,40,Gustavo Scarpa,BRA,M,1.76,65,05-01-94,Campinas,Desportivo Brasil,Fluminense,2014,Brazilian
-1,,Édson,BRA,G,1.89,85,24-09-85,Unaí,Itumbiara,Goiбs,2014,Brazilian
-2,,Harlei,BRA,G,1.82,84,30-03-72,Belo Horizonte,Vila Nova,Goiбs,2014,Brazilian
-3,,Paulo Henrique,BRA,G,1.84,75,12-05-94,Goiânia,None,Goiбs,2014,Brazilian
-4,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Internacional,Goiбs,2014,Brazilian
-5,,Alex Alves,BRA,D,1.82,82,25-08-92,Assis Chateaubriand,Paraná,Goiбs,2014,Brazilian
-6,,Felipe Saturnino,BRA,D,1.80,76,10-08-95,Rio de Janeiro,None,Goiбs,2014,Brazilian
-7,,Felipe Macedo,BRA,D,1.87,76,27-03-94,São Miguel do Araguaia,None,Goiбs,2014,Brazilian
-8,,Jackson,BRA,D,1.86,77,01-05-90,Cuiabá,Internacional,Goiбs,2014,Brazilian
-9,,Léo Veloso,BRA,D,1.79,73,29-05-87,Pedro Leopoldo,Chornomorets Odessa,Goiбs,2014,Brazilian
-10,,Lima,BRA,D,1.78,72,10-10-91,Estação,Botafogo,Goiбs,2014,Brazilian
-11,,Moisés,BRA,D,1.80,76,09-08-90,Aratibba,Grêmio,Goiбs,2014,Brazilian
-12,,Pedro Henrique,BRA,D,1.90,87,18-12-92,Goiânia,None,Goiбs,2014,Brazilian
-13,,Valmir Lucas,BRA,D,1.85,76,12-01-89,Edéia,None,Goiбs,2014,Brazilian
-14,,Amaral,BRA,M,1.82,67,07-10-86,Goiânia,None,Goiбs,2014,Brazilian
-15,,David,BRA,M,1.77,70,29-05-82,Araxá,Vila Nova,Goiбs,2014,Brazilian
-16,,Esquerdinha,BRA,M,1.73,65,10-10-89,Recife,Ituano,Goiбs,2014,Brazilian
-17,,João Paulo,BRA,M,1.71,71,08-03-91,Serafina Corrêa,Internacional,Goiбs,2014,Brazilian
-18,,Juliano,BRA,M,1.83,77,06-04-90,Pelotas,Internacional,Goiбs,2014,Brazilian
-19,,Liniker,BRA,M,1.73,69,08-03-93,Santa Helena,None,Goiбs,2014,Brazilian
-20,,Murilo,BRA,M,1.77,66,20-11-94,Jataí,None,Goiбs,2014,Brazilian
-21,,Ramón,BRA,M,1.86,80,07-04-83,Belo Horizonte,Boa,Goiбs,2014,Brazilian
-22,,Rodrigo,BRA,M,1.76,70,11-02-94,Ituiutaba,None,Goiбs,2014,Brazilian
-23,,Thiago Mendes,BRA,M,1.76,73,15-03-92,São Luís,None,Goiбs,2014,Brazilian
-24,,Tiago Real,BRA,M,1.72,70,26-01-89,Curitiba,Palmeiras,Goiбs,2014,Brazilian
-25,,Túlio,BRA,M,1.84,76,04-03-93,Taquaral,None,Goiбs,2014,Brazilian
-26,,Assuério,BRA,F,1.81,74,24-02-93,Pontalina,None,Goiбs,2014,Brazilian
-27,,Danilo,BRA,F,1.86,81,25-04-91,Bicas,Anapolina,Goiбs,2014,Brazilian
-28,,Bruno Mineiro,BRA,F,1.76,68,02-02-83,Belo Horizonte,Atlético Paranaense,Goiбs,2014,Brazilian
-29,,Erik,BRA,F,1.70,64,18-07-94,Novo Repartimento,None,Goiбs,2014,Brazilian
-30,,Paulo,BRA,F,1.74,68,12-01-93,Goiânia,None,Goiбs,2014,Brazilian
-31,,Samuel,BRA,F,1.85,83,25-02-91,São Borja,Fluminense,Goiбs,2014,Brazilian
-32,,Welinton Júnior,BRA,F,1.75,64,08-06-93,São Paulo,None,Goiбs,2014,Brazilian
-1,1,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Gręmio,2014,Brazilian
-2,2,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Santos,Gręmio,2014,Brazilian
-3,3,Pedro Geromel,BRA,D,1.90,84,21-09-85,São Paulo,Köln,Gręmio,2014,Brazilian
-4,4,Rhodolfo,BRA,D,1.93,82,11-08-86,Bandeirantes,São Paulo,Gręmio,2014,Brazilian
-5,5,Werley,BRA,D,1.84,81,05-09-88,Oliveira,Atlético Mineiro,Gręmio,2014,Brazilian
-6,6,Fellipe Bastos,BRA,M,1.76,76,01-02-90,Rio de Janeiro,Vasco da Gama,Gręmio,2014,Brazilian
-7,7,Dudu,BRA,M,1.65,69,07-01-92,Goiânia,Dynamo Kyiv,Gręmio,2014,Brazilian
-8,8,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Fluminense,Gręmio,2014,Brazilian
-9,9,Hernán Barcos,ARG,F,1.88,75,11-04-84,Bell Ville,Palmeiras,Gręmio,2014,Brazilian
-10,10,Zé Roberto,BRA,M,1.72,72,06-07-74,Ipiranga,Al-Gharafa,Gręmio,2014,Brazilian
-11,11,Alan Ruiz,ARG,M,1.83,74,19-08-93,La Plata,San Lorenzo,Gręmio,2014,Brazilian
-12,12,Léo,BRA,G,1.88,74,20-03-95,Ribeirão Preto,None,Gręmio,2014,Brazilian
-14,14,Leandro Canhoto,BRA,M,1.81,72,23-11-94,Pelotas,Brasil de Pelotas,Gręmio,2014,Brazilian
-15,15,Bressan,BRA,D,1.82,74,15-01-93,Caxias do Sul,Juventude,Gręmio,2014,Brazilian
-16,16,Cristian Riveros,PAR,M,1.79,76,16-10-82,J.A. Saldivar,Kayserispor,Gręmio,2014,Brazilian
-17,17,Ramiro,BRA,M,1.68,67,22-05-93,Gramado,Juventude,Gręmio,2014,Brazilian
-18,18,Matías Rodríguez,ARG,D,1.78,76,14-04-86,San Luis,Sampdoria,Gręmio,2014,Brazilian
-19,19,Matheus Biteco,BRA,M,1.72,65,28-06-95,Porto Alegre,None,Gręmio,2014,Brazilian
-20,20,Saimon,BRA,D,1.83,74,03-03-91,Erechim,None,Gręmio,2014,Brazilian
-21,21,Breno,BRA,D,1.78,70,06-03-95,São Paulo,Red Bull Brasil,Gręmio,2014,Brazilian
-22,22,Júnior Tavares,BRA,D,1.78,80,07-08-96,Porto Alegre,None,Gręmio,2014,Brazilian
-23,23,Everton,BRA,F,1.74,72,22-03-96,Fortaleza,Fortaleza,Gręmio,2014,Brazilian
-24,24,Tiago Machowski,BRA,G,1.90,90,16-05-93,Rio Azul,None,Gręmio,2014,Brazilian
-25,25,Erik,BRA,M,1.71,57,02-02-95,Rio de Janeiro,None,Gręmio,2014,Brazilian
-26,26,Luan,BRA,F,1.80,71,27-03-93,São José do Rio Preto,América-SP,Gręmio,2014,Brazilian
-28,28,Lucas Coelho,BRA,F,1.83,80,20-07-94,Lages,None,Gręmio,2014,Brazilian
-29,29,Nicolas Careca,BRA,M,,,18-05-97,,None,Gręmio,2014,Brazilian
-32,32,Balbino,BRA,M,1.82,75,19-01-97,Porto Alegre,None,Gręmio,2014,Brazilian
-33,33,Walace,BRA,M,1.78,75,04-04-95,Salvador,Avaí,Gręmio,2014,Brazilian
-34,34,Ronan,BRA,F,1.95,87,22-04-95,Piraúba,Fluminense,Gręmio,2014,Brazilian
-35,35,Marcos Paulo,BRA,F,1.83,79,27-09-94,São Fidelis,Caxias,Gręmio,2014,Brazilian
-37,37,Liverson,BRA,F,,,20-02-97,,None,Gręmio,2014,Brazilian
-38,38,Marcelo Hermes,BRA,D,1.77,68,02-01-95,Sarandi,None,Gręmio,2014,Brazilian
-41,77,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Al-Jazira,Gręmio,2014,Brazilian
-42,88,Giuliano,BRA,M,1.72,68,31-05-90,Curitiba,Dnipro Dnipropetrovsk,Gręmio,2014,Brazilian
+1,,Édson,BRA,G,1.89,85,24-09-85,Unaí,Itumbiara,Goiás,2014,Brazilian
+2,,Harlei,BRA,G,1.82,84,30-03-72,Belo Horizonte,Vila Nova,Goiás,2014,Brazilian
+3,,Paulo Henrique,BRA,G,1.84,75,12-05-94,Goiânia,None,Goiás,2014,Brazilian
+4,,Renan,BRA,G,1.86,86,24-01-85,Viamao,Internacional,Goiás,2014,Brazilian
+5,,Alex Alves,BRA,D,1.82,82,25-08-92,Assis Chateaubriand,Paraná,Goiás,2014,Brazilian
+6,,Felipe Saturnino,BRA,D,1.80,76,10-08-95,Rio de Janeiro,None,Goiás,2014,Brazilian
+7,,Felipe Macedo,BRA,D,1.87,76,27-03-94,São Miguel do Araguaia,None,Goiás,2014,Brazilian
+8,,Jackson,BRA,D,1.86,77,01-05-90,Cuiabá,Internacional,Goiás,2014,Brazilian
+9,,Léo Veloso,BRA,D,1.79,73,29-05-87,Pedro Leopoldo,Chornomorets Odessa,Goiás,2014,Brazilian
+10,,Lima,BRA,D,1.78,72,10-10-91,Estação,Botafogo,Goiás,2014,Brazilian
+11,,Moisés,BRA,D,1.80,76,09-08-90,Aratibba,Grêmio,Goiás,2014,Brazilian
+12,,Pedro Henrique,BRA,D,1.90,87,18-12-92,Goiânia,None,Goiás,2014,Brazilian
+13,,Valmir Lucas,BRA,D,1.85,76,12-01-89,Edéia,None,Goiás,2014,Brazilian
+14,,Amaral,BRA,M,1.82,67,07-10-86,Goiânia,None,Goiás,2014,Brazilian
+15,,David,BRA,M,1.77,70,29-05-82,Araxá,Vila Nova,Goiás,2014,Brazilian
+16,,Esquerdinha,BRA,M,1.73,65,10-10-89,Recife,Ituano,Goiás,2014,Brazilian
+17,,João Paulo,BRA,M,1.71,71,08-03-91,Serafina Corrêa,Internacional,Goiás,2014,Brazilian
+18,,Juliano,BRA,M,1.83,77,06-04-90,Pelotas,Internacional,Goiás,2014,Brazilian
+19,,Liniker,BRA,M,1.73,69,08-03-93,Santa Helena,None,Goiás,2014,Brazilian
+20,,Murilo,BRA,M,1.77,66,20-11-94,Jataí,None,Goiás,2014,Brazilian
+21,,Ramón,BRA,M,1.86,80,07-04-83,Belo Horizonte,Boa,Goiás,2014,Brazilian
+22,,Rodrigo,BRA,M,1.76,70,11-02-94,Ituiutaba,None,Goiás,2014,Brazilian
+23,,Thiago Mendes,BRA,M,1.76,73,15-03-92,São Luís,None,Goiás,2014,Brazilian
+24,,Tiago Real,BRA,M,1.72,70,26-01-89,Curitiba,Palmeiras,Goiás,2014,Brazilian
+25,,Túlio,BRA,M,1.84,76,04-03-93,Taquaral,None,Goiás,2014,Brazilian
+26,,Assuério,BRA,F,1.81,74,24-02-93,Pontalina,None,Goiás,2014,Brazilian
+27,,Danilo,BRA,F,1.86,81,25-04-91,Bicas,Anapolina,Goiás,2014,Brazilian
+28,,Bruno Mineiro,BRA,F,1.76,68,02-02-83,Belo Horizonte,Atlético Paranaense,Goiás,2014,Brazilian
+29,,Erik,BRA,F,1.70,64,18-07-94,Novo Repartimento,None,Goiás,2014,Brazilian
+30,,Paulo,BRA,F,1.74,68,12-01-93,Goiânia,None,Goiás,2014,Brazilian
+31,,Samuel,BRA,F,1.85,83,25-02-91,São Borja,Fluminense,Goiás,2014,Brazilian
+32,,Welinton Júnior,BRA,F,1.75,64,08-06-93,São Paulo,None,Goiás,2014,Brazilian
+1,1,Marcelo Grohe,BRA,G,1.88,80,13-01-87,Campo Bom,None,Grêmio,2014,Brazilian
+2,2,Pará,BRA,D,1.73,71,14-02-86,São João do Araguaia,Santos,Grêmio,2014,Brazilian
+3,3,Pedro Geromel,BRA,D,1.90,84,21-09-85,São Paulo,Köln,Grêmio,2014,Brazilian
+4,4,Rhodolfo,BRA,D,1.93,82,11-08-86,Bandeirantes,São Paulo,Grêmio,2014,Brazilian
+5,5,Werley,BRA,D,1.84,81,05-09-88,Oliveira,Atlético Mineiro,Grêmio,2014,Brazilian
+6,6,Fellipe Bastos,BRA,M,1.76,76,01-02-90,Rio de Janeiro,Vasco da Gama,Grêmio,2014,Brazilian
+7,7,Dudu,BRA,M,1.65,69,07-01-92,Goiânia,Dynamo Kyiv,Grêmio,2014,Brazilian
+8,8,Edinho,BRA,M,1.83,83,15-01-83,Niterói,Fluminense,Grêmio,2014,Brazilian
+9,9,Hernán Barcos,ARG,F,1.88,75,11-04-84,Bell Ville,Palmeiras,Grêmio,2014,Brazilian
+10,10,Zé Roberto,BRA,M,1.72,72,06-07-74,Ipiranga,Al-Gharafa,Grêmio,2014,Brazilian
+11,11,Alan Ruiz,ARG,M,1.83,74,19-08-93,La Plata,San Lorenzo,Grêmio,2014,Brazilian
+12,12,Léo,BRA,G,1.88,74,20-03-95,Ribeirão Preto,None,Grêmio,2014,Brazilian
+14,14,Leandro Canhoto,BRA,M,1.81,72,23-11-94,Pelotas,Brasil de Pelotas,Grêmio,2014,Brazilian
+15,15,Bressan,BRA,D,1.82,74,15-01-93,Caxias do Sul,Juventude,Grêmio,2014,Brazilian
+16,16,Cristian Riveros,PAR,M,1.79,76,16-10-82,J.A. Saldivar,Kayserispor,Grêmio,2014,Brazilian
+17,17,Ramiro,BRA,M,1.68,67,22-05-93,Gramado,Juventude,Grêmio,2014,Brazilian
+18,18,Matías Rodríguez,ARG,D,1.78,76,14-04-86,San Luis,Sampdoria,Grêmio,2014,Brazilian
+19,19,Matheus Biteco,BRA,M,1.72,65,28-06-95,Porto Alegre,None,Grêmio,2014,Brazilian
+20,20,Saimon,BRA,D,1.83,74,03-03-91,Erechim,None,Grêmio,2014,Brazilian
+21,21,Breno,BRA,D,1.78,70,06-03-95,São Paulo,Red Bull Brasil,Grêmio,2014,Brazilian
+22,22,Júnior Tavares,BRA,D,1.78,80,07-08-96,Porto Alegre,None,Grêmio,2014,Brazilian
+23,23,Everton,BRA,F,1.74,72,22-03-96,Fortaleza,Fortaleza,Grêmio,2014,Brazilian
+24,24,Tiago Machowski,BRA,G,1.90,90,16-05-93,Rio Azul,None,Grêmio,2014,Brazilian
+25,25,Erik,BRA,M,1.71,57,02-02-95,Rio de Janeiro,None,Grêmio,2014,Brazilian
+26,26,Luan,BRA,F,1.80,71,27-03-93,São José do Rio Preto,América-SP,Grêmio,2014,Brazilian
+28,28,Lucas Coelho,BRA,F,1.83,80,20-07-94,Lages,None,Grêmio,2014,Brazilian
+29,29,Nicolas Careca,BRA,M,,,18-05-97,,None,Grêmio,2014,Brazilian
+32,32,Balbino,BRA,M,1.82,75,19-01-97,Porto Alegre,None,Grêmio,2014,Brazilian
+33,33,Walace,BRA,M,1.78,75,04-04-95,Salvador,Avaí,Grêmio,2014,Brazilian
+34,34,Ronan,BRA,F,1.95,87,22-04-95,Piraúba,Fluminense,Grêmio,2014,Brazilian
+35,35,Marcos Paulo,BRA,F,1.83,79,27-09-94,São Fidelis,Caxias,Grêmio,2014,Brazilian
+37,37,Liverson,BRA,F,,,20-02-97,,None,Grêmio,2014,Brazilian
+38,38,Marcelo Hermes,BRA,D,1.77,68,02-01-95,Sarandi,None,Grêmio,2014,Brazilian
+41,77,Fernandinho,BRA,F,1.71,66,25-11-85,São Paulo,Al-Jazira,Grêmio,2014,Brazilian
+42,88,Giuliano,BRA,M,1.72,68,31-05-90,Curitiba,Dnipro Dnipropetrovsk,Grêmio,2014,Brazilian
 1,1,Dida,BRA,G,1.95,85,07-10-73,Irarà,Grêmio,Internacional,2014,Brazilian
 2,2,Gilberto,BRA,D,1.81,68,07-03-93,Rio de Janeiro,Botafogo,Internacional,2014,Brazilian
 3,3,Índio,BRA,D,1.80,79,14-02-75,Maracai,Juventude,Internacional,2014,Brazilian
@@ -627,34 +627,34 @@
 42,44,Bruno Uvini,BRA,D,1.88,85,03-06-91,Capivari,Napoli,Santos,2014,Brazilian
 43,45,Geuvânio,BRA,F,1.75,62,05-04-92,Ilha das Flores,None,Santos,2014,Brazilian
 44,46,Thiago Maia,BRA,M,1.79,64,23-03-97,Boa Vista,São Caetano,Santos,2014,Brazilian
-1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,Săo Paulo,2014,Brazilian
-2,2,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,Goiás,Săo Paulo,2014,Brazilian
-3,3,Rodrigo Caio,BRA,D,1.82,70,17-08-93,Dracena,None,Săo Paulo,2014,Brazilian
-4,4,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,Atlético Paranaense,Săo Paulo,2014,Brazilian
-5,5,Souza,BRA,M,1.76,77,11-02-89,Rio de Janeiro,Grêmio,Săo Paulo,2014,Brazilian
-6,6,Álvaro Pereira,URU,M,1.80,78,28-11-85,Montevideo,Internazionale,Săo Paulo,2014,Brazilian
-7,7,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Al-Ain,Săo Paulo,2014,Brazilian
-8,8,Kaká,BRA,M,1.86,83,22-04-82,Brasília,Orlando C,Săo Paulo,2014,Brazilian
-9,9,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas,Sevilla,Săo Paulo,2014,Brazilian
-10,10,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,Santos,Săo Paulo,2014,Brazilian
-11,11,Alexandre Pato,BRA,F,1.79,71,02-09-89,Pato Branco,Corinthians,Săo Paulo,2014,Brazilian
-12,12,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,Săo Paulo,2014,Brazilian
-13,13,Paulo Miranda,BRA,D,1.80,77,16-08-88,Iraty,Desportivo Brasil,Săo Paulo,2014,Brazilian
-14,14,Alan Kardec,BRA,F,1.85,78,12-01-89,Barra Mansa,Benfica,Săo Paulo,2014,Brazilian
-15,15,Denílson,BRA,M,1.78,68,16-02-88,São Paulo,Arsenal,Săo Paulo,2014,Brazilian
-16,16,Reinaldo,BRA,D,1.78,74,28-09-89,Porto Calvo,Penapolense,Săo Paulo,2014,Brazilian
-17,17,Osvaldo,BRA,F,1.69,62,11-04-87,Fortaleza,Al-Ahli [UAE],Săo Paulo,2014,Brazilian
-18,18,Maicon,BRA,M,1.84,87,14-09-85,Rio de Janeiro,Figueirense,Săo Paulo,2014,Brazilian
-19,19,Ademílson,BRA,F,1.76,74,09-01-94,Cubatão,None,Săo Paulo,2014,Brazilian
-21,21,Édson Silva,BRA,D,1.87,92,09-05-86,Palmares,Villa Rio,Săo Paulo,2014,Brazilian
-24,24,Léo,BRA,G,1.93,77,22-09-90,Suzano,None,Săo Paulo,2014,Brazilian
-25,25,Hudson,BRA,M,1.79,68,30-01-88,Juiz de Fora,Botafogo-SP,Săo Paulo,2014,Brazilian
-26,26,Auro,BRA,D,1.68,65,23-01-96,Jaú,None,Săo Paulo,2014,Brazilian
-27,27,Luis Ricardo,BRA,D,1.83,79,21-01-84,Goiânia,Portuguesa,Săo Paulo,2014,Brazilian
-29,29,Ewandro,BRA,F,1.74,61,15-03-96,Recife,None,Săo Paulo,2014,Brazilian
-30,30,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,Atlético Mineiro,Săo Paulo,2014,Brazilian
-34,34,Lucão,BRA,D,1.85,78,23-03-96,Brasília,None,Săo Paulo,2014,Brazilian
-35,35,Gabriel Boschilia,BRA,M,1.72,63,05-03-96,Piracicaba,None,Săo Paulo,2014,Brazilian
+1,01,Rogério Ceni,BRA,G,1.88,85,22-01-73,Pato Branco,Sinop,São Paulo,2014,Brazilian
+2,2,Rafael Tolói,BRA,D,1.85,75,10-10-90,Gloria d'Oeste,Goiás,São Paulo,2014,Brazilian
+3,3,Rodrigo Caio,BRA,D,1.82,70,17-08-93,Dracena,None,São Paulo,2014,Brazilian
+4,4,Antônio Carlos,BRA,D,1.84,84,22-06-83,Rio de Janeiro,Atlético Paranaense,São Paulo,2014,Brazilian
+5,5,Souza,BRA,M,1.76,77,11-02-89,Rio de Janeiro,Grêmio,São Paulo,2014,Brazilian
+6,6,Álvaro Pereira,URU,M,1.80,78,28-11-85,Montevideo,Internazionale,São Paulo,2014,Brazilian
+7,7,Michel Bastos,BRA,M,1.78,74,02-08-83,Pelotas,Al-Ain,São Paulo,2014,Brazilian
+8,8,Kaká,BRA,M,1.86,83,22-04-82,Brasília,Orlando C,São Paulo,2014,Brazilian
+9,9,Luís Fabiano,BRA,F,1.83,81,08-11-80,Campinas,Sevilla,São Paulo,2014,Brazilian
+10,10,Paulo Henrique Ganso,BRA,M,1.84,73,12-10-89,Ananindeua,Santos,São Paulo,2014,Brazilian
+11,11,Alexandre Pato,BRA,F,1.79,71,02-09-89,Pato Branco,Corinthians,São Paulo,2014,Brazilian
+12,12,Denis,BRA,G,1.88,86,14-04-87,Jaú,Ponte Preta,São Paulo,2014,Brazilian
+13,13,Paulo Miranda,BRA,D,1.80,77,16-08-88,Iraty,Desportivo Brasil,São Paulo,2014,Brazilian
+14,14,Alan Kardec,BRA,F,1.85,78,12-01-89,Barra Mansa,Benfica,São Paulo,2014,Brazilian
+15,15,Denílson,BRA,M,1.78,68,16-02-88,São Paulo,Arsenal,São Paulo,2014,Brazilian
+16,16,Reinaldo,BRA,D,1.78,74,28-09-89,Porto Calvo,Penapolense,São Paulo,2014,Brazilian
+17,17,Osvaldo,BRA,F,1.69,62,11-04-87,Fortaleza,Al-Ahli [UAE],São Paulo,2014,Brazilian
+18,18,Maicon,BRA,M,1.84,87,14-09-85,Rio de Janeiro,Figueirense,São Paulo,2014,Brazilian
+19,19,Ademílson,BRA,F,1.76,74,09-01-94,Cubatão,None,São Paulo,2014,Brazilian
+21,21,Édson Silva,BRA,D,1.87,92,09-05-86,Palmares,Villa Rio,São Paulo,2014,Brazilian
+24,24,Léo,BRA,G,1.93,77,22-09-90,Suzano,None,São Paulo,2014,Brazilian
+25,25,Hudson,BRA,M,1.79,68,30-01-88,Juiz de Fora,Botafogo-SP,São Paulo,2014,Brazilian
+26,26,Auro,BRA,D,1.68,65,23-01-96,Jaú,None,São Paulo,2014,Brazilian
+27,27,Luis Ricardo,BRA,D,1.83,79,21-01-84,Goiânia,Portuguesa,São Paulo,2014,Brazilian
+29,29,Ewandro,BRA,F,1.74,61,15-03-96,Recife,None,São Paulo,2014,Brazilian
+30,30,Renan Ribeiro,BRA,G,1.88,84,23-03-90,Ribeirão Preto,Atlético Mineiro,São Paulo,2014,Brazilian
+34,34,Lucão,BRA,D,1.85,78,23-03-96,Brasília,None,São Paulo,2014,Brazilian
+35,35,Gabriel Boschilia,BRA,M,1.72,63,05-03-96,Piracicaba,None,São Paulo,2014,Brazilian
 1,1,Magrão,BRA,G,1.87,79,09-04-77,São Paulo,Rio Branco-SP,Sport Recife,2014,Brazilian
 2,2,Vitor,BRA,D,1.72,66,29-07-82,Delmiro Golveia,Palmeiras,Sport Recife,2014,Brazilian
 3,3,Ewerton Páscoa,BRA,D,1.90,78,14-03-89,São Paulo,Audax-SP,Sport Recife,2014,Brazilian
