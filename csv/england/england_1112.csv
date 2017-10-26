@@ -1,0 +1,722 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Manuel Almunia,ESP,G,1.91,86,16-05-77,Pamplona,Celta  Vigo,Arsenal,2011,English
+2,2,Abou Diaby,FRA,M,1.88,75,11-05-86,Paris,Auxerre,Arsenal,2011,English
+3,3,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens,Auxerre,Arsenal,2011,English
+4,4,Per Mertesacker,GER,D,1.98,90,29-09-84,Hannover,Werder Bremen,Arsenal,2011,English
+5,5,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen,Ajax,Arsenal,2011,English
+6,6,Laurent Koscielny,FRA,D,1.86,75,10-09-85,Tulle,Lorient,Arsenal,2011,English
+7,7,Tomá Rosický,CZE,M,1.78,67,04-10-80,Prague,Borussia Dortmund,Arsenal,2011,English
+8,8,Mikel Arteta,ESP,M,1.75,69,26-03-82,San Sebastián,Everton,Arsenal,2011,English
+9,9,Park Chu-Young,KOR,F,1.82,75,10-07-85,Daegu,Monaco,Arsenal,2011,English
+10,10,Robin van Persie,NED,F,1.83,71,06-08-83,Rotterdam,Feyenoord,Arsenal,2011,English
+11,11,André Santos,BRA,D,1.79,76,08-03-83,São Paulo,Fenerbahçe,Arsenal,2011,English
+13,13,Wojciech Szczęsny,POL,G,1.95,84,18-04-90,Warsaw,Legia Warszawa,Arsenal,2011,English
+14,14,Theo Walcott,ENG,F,1.75,68,16-03-89,Stanmore,Southampton,Arsenal,2011,English
+15,15,Alex Oxlade-Chamberlain,ENG,M,1.80,70,15-08-93,Portsmouth,Southampton,Arsenal,2011,English
+16,16,Aaron Ramsey,WAL,M,1.78,76,26-12-90,Caerphilly,Cardiff C,Arsenal,2011,English
+17,17,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala,Bastia,Arsenal,2011,English
+18,18,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon,Sevilla,Arsenal,2011,English
+19,19,Jack Wilshere,ENG,M,1.70,65,01-01-92,Stevenage,None,Arsenal,2011,English
+20,20,Johan Djourou,SUI,D,1.91,83,18-01-87,Abidjan,Etoile-Carouge,Arsenal,2011,English
+21,21,Łukasz Fabiański,POL,G,1.90,84,18-04-85,Kostrzyn nad Odrą,Legia Warszawa,Arsenal,2011,English
+25,25,Carl Jenkinson,ENG,D,1.85,77,08-02-92,Buckhurst Hill,Charlton Ath,Arsenal,2011,English
+27,27,"Kouassi Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama,Lille,Arsenal,2011,English
+28,28,Kieran Gibbs,ENG,D,1.80,70,26-09-89,Lambeth,None,Arsenal,2011,English
+29,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens,Bordeaux,Arsenal,2011,English
+30,30,Yossi Benayoun,ISR,M,1.78,70,05-05-80,Beersheba,Chelsea,Arsenal,2011,English
+33,33,Benik Afobe,ENG,F,1.79,70,12-02-93,Leyton,None,Arsenal,2011,English
+35,35,Zak Ansah,ENG,F,1.79,70,04-05-94,Sidcup,None,Arsenal,2011,English
+38,38,George Brislen-Hall,ENG,D,1.70,65,24-12-92,Harlow,None,Arsenal,2011,English
+39,39,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval,Laval,Arsenal,2011,English
+40,40,Craig Eastmond,ENG,D,1.83,75,09-12-90,Wandsworth,None,Arsenal,2011,English
+41,43,Sead Hajrovic,SUI,D,1.83,80,04-06-93,Brugg,Grasshoppers,Arsenal,2011,English
+42,44,Conor Henderson,IRL,M,1.85,76,08-09-91,Sidcup,None,Arsenal,2011,English
+43,45,Gavin Hoyte,ENG,D,1.80,70,06-06-90,Waltham Forest,None,Arsenal,2011,English
+44,47,Sean McDermott,IRL,G,1.83,77,30-05-93,Kristiansand,None,Arsenal,2011,English
+45,48,Jernade Meade,ENG,M,1.73,74,25-10-92,Luton,None,Arsenal,2011,English
+46,49,Ignasi Miquel,ESP,D,1.93,85,28-09-92,Barcelona,Cornellà,Arsenal,2011,English
+47,51,Nigel Neita,ENG,F,1.81,75,23-12-93,Southwark,Millwall,Arsenal,2011,English
+48,53,Oğuzhan Özyakup,TUR,M,1.78,71,23-09-92,Zaandam,AZ Alkmaar,Arsenal,2011,English
+49,56,Nico Yennaris,ENG,D,1.70,65,23-05-93,Leytonstone,None,Arsenal,2011,English
+50,57,Martin Angha,SUI,D,1.88,81,22-01-94,Zürich,Zürich,Arsenal,2011,English
+51,58,Kyle Ebecilio,NED,M,1.80,77,17-02-94,Rotterdam,Feyenoord,Arsenal,2011,English
+52,59,Emiliano Martínez,ARG,G,1.93,85,02-09-92,Mar del Plata,Independiente,Arsenal,2011,English
+53,60,Elton Monteiro,SUI,D,1.92,85,22-02-94,Sion,Sion,Arsenal,2011,English
+54,61,Josh Rees,ENG,M,1.75,70,04-10-93,Hemel Hempstead,None,Arsenal,2011,English
+55,62,James Shea,ENG,G,1.80,76,16-06-91,Islington,None,Arsenal,2011,English
+1,1,Shay Given,IRL,G,1.88,84,20-04-76,Lifford,Manchester C,Aston Villa,2011,English
+2,2,Alan Hutton,SCO,D,1.85,72,30-11-84,Glasgow,Tottenham H,Aston Villa,2011,English
+3,3,Stephen Warnock,ENG,D,1.78,75,12-12-81,Ormskirk,Blackburn R,Aston Villa,2011,English
+5,5,Richard Dunne,IRL,D,1.88,95,21-09-79,Dublin,Manchester C,Aston Villa,2011,English
+6,6,James Collins,WAL,D,1.88,90,23-08-83,Newport,West Ham U,Aston Villa,2011,English
+7,7,Stephen Ireland,IRL,M,1.75,68,22-08-86,Cork,Manchester C,Aston Villa,2011,English
+8,8,Jermaine Jenas,ENG,M,1.77,76,18-02-83,Nottingham,Tottenham H,Aston Villa,2011,English
+9,9,Darren Bent,ENG,F,1.80,73,06-02-84,Tooting,Sunderland,Aston Villa,2011,English
+10,10,Charles N'Zogbia,FRA,M,1.70,70,28-05-86,Harfleur,Wigan Ath,Aston Villa,2011,English
+11,11,Gabriel Agbonlahor,ENG,F,1.80,79,13-10-86,Birmingham,None,Aston Villa,2011,English
+12,12,Marc Albrighton,ENG,M,1.75,67,18-11-89,Tamworth,None,Aston Villa,2011,English
+14,14,Nathan Delfouneso,ENG,F,1.86,78,02-02-91,Birmingham,None,Aston Villa,2011,English
+16,16,Fabian Delph,ENG,M,1.74,60,21-11-89,Bradford,Leeds U,Aston Villa,2011,English
+18,18,Emile Heskey,ENG,F,1.88,88,11-01-78,Leicester,Wigan Ath,Aston Villa,2011,English
+19,19,Stiliyan Petrov,BUL,M,1.80,77,05-07-79,Montana,Celtic,Aston Villa,2011,English
+21,21,Ciaran Clark,IRL,D,1.88,76,26-09-89,Harrow,None,Aston Villa,2011,English
+22,22,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen,Chivas USA,Aston Villa,2011,English
+24,24,Carlos Cuéllar,ESP,D,1.90,84,23-08-81,Madrid,Rangers,Aston Villa,2011,English
+25,25,Barry Bannan,SCO,M,1.70,60,01-12-89,Glasgow,None,Aston Villa,2011,English
+26,26,Andreas Weimann,AUT,F,1.88,76,05-08-91,Vienna,None,Aston Villa,2011,English
+29,29,Enda Stevens,IRL,D,1.83,78,09-07-90,Dublin,Shamrock R,Aston Villa,2011,English
+30,30,Eric Lichaj,USA,D,1.80,79,17-11-88,Downers Grove,Univ of Nth Carolina,Aston Villa,2011,English
+31,31,Chris Herd,AUS,M,1.73,76,04-04-89,Perth [AUS],Bayswater C,Aston Villa,2011,English
+32,32,Nathan Baker,ENG,D,1.91,80,23-04-91,Worcester,None,Aston Villa,2011,English
+33,33,Andy Marshall,ENG,G,1.88,86,14-04-75,Bury St Edmunds,Coventry C,Aston Villa,2011,English
+35,35,Daniel Johnson,ENG,M,1.74,67,08-10-92,Kingston,Crystal Palace,Aston Villa,2011,English
+36,36,Graham Burke,IRL,F,1.80,75,21-09-93,Dublin,Belvedere,Aston Villa,2011,English
+37,37,Derrick Williams,IRL,D,1.80,75,17-01-93,Waterford,None,Aston Villa,2011,English
+38,38,Gary Gardner,ENG,M,1.88,82,29-06-92,Solihull,None,Aston Villa,2011,English
+40,40,Samir Carruthers,IRL,M,1.73,70,04-04-93,Islington,Arsenal,Aston Villa,2011,English
+41,41,Jack Grealish,IRL,M,1.75,68,10-09-95,Birmingham,None,Aston Villa,2011,English
+1,1,Paul Robinson,ENG,G,1.93,90,15-10-79,Beverley,Tottenham H,Blackburn Rovers,2011,English
+2,2,Michel Salgado,ESP,D,1.74,75,22-10-75,As Neves,Real Madrid,Blackburn Rovers,2011,English
+3,3,Martin Olsson,SWE,D,1.78,81,17-05-88,Gävle,Högaborgs BK,Blackburn Rovers,2011,English
+5,5,Gaël Givet,FRA,D,1.81,75,09-10-81,Arles,Marseille,Blackburn Rovers,2011,English
+8,8,David Dunn,ENG,M,1.75,78,27-12-79,Blackburn,Birmingham C,Blackburn Rovers,2011,English
+9,9,Anthony Modeste,FRA,F,1.86,73,14-04-88,Cannes,Bordeaux,Blackburn Rovers,2011,English
+10,10,Mauro Formica,ARG,M,1.76,64,04-04-88,Rosario,Newell's Old Boys,Blackburn Rovers,2011,English
+11,11,Vince Grella,AUS,M,1.82,79,05-10-79,Melbourne,Torino,Blackburn Rovers,2011,English
+12,12,Morten Gamst Pedersen,NOR,M,1.83,74,08-09-81,Vadsø,Tromsø,Blackburn Rovers,2011,English
+13,13,Mark Bunn,ENG,G,1.83,77,16-11-84,Southgate,Northampton T,Blackburn Rovers,2011,English
+14,14,Radosav Petrović,SRB,M,1.93,83,08-03-89,Ub,Partizan Belgrade,Blackburn Rovers,2011,English
+15,15,Steven N'Zonzi,FRA,M,1.90,75,15-12-88,Colombes,Amiens,Blackburn Rovers,2011,English
+16,16,Scott Dann,ENG,D,1.88,76,14-02-87,Liverpool,Birmingham C,Blackburn Rovers,2011,English
+18,18,Bradley Orr,ENG,D,1.83,75,01-11-82,Liverpool,QPR,Blackburn Rovers,2011,English
+19,19,Jordan Slew,ENG,F,1.90,81,07-09-92,Sheffield,Sheffield U,Blackburn Rovers,2011,English
+20,20,Rubén Rochina,ESP,F,1.81,70,23-03-91,Sagunto,Barcelona,Blackburn Rovers,2011,English
+21,21,Marcus Olsson,SWE,M,1.80,68,17-05-88,Gävle,Halmstads BK,Blackburn Rovers,2011,English
+22,22,Nick Blackman,ENG,F,1.88,74,11-11-89,Whitefield,Macclesfield T,Blackburn Rovers,2011,English
+23,23,Junior Hoilett,CAN,M,1.73,70,05-06-90,Brampton,None,Blackburn Rovers,2011,English
+24,24,Yakubu Aiyegbeni,NGA,F,1.83,83,22-11-82,Benin City,Everton,Blackburn Rovers,2011,English
+25,25,David Goodwillie,SCO,F,1.75,71,28-03-89,Stirling,Dundee U,Blackburn Rovers,2011,English
+26,26,Hérold Goulon,FRA,M,1.90,85,12-06-88,Paris,Le Mans,Blackburn Rovers,2011,English
+29,29,Simon Vukčević,MNE,M,1.79,77,29-01-86,Podgorica,Sporting CP,Blackburn Rovers,2011,English
+30,30,Anthony O'Connor,IRL,D,1.88,80,25-10-92,Cork,None,Blackburn Rovers,2011,English
+31,31,Grant Hanley,SCO,D,1.88,76,20-11-91,Dumfries,None,Blackburn Rovers,2011,English
+32,32,Bruno Ribeiro,BRA,D,1.71,67,01-04-83,São Paulo,Barueri,Blackburn Rovers,2011,English
+33,33,Josh Morris,ENG,D,1.80,70,30-09-91,Preston,None,Blackburn Rovers,2011,English
+34,34,Jake Kean,ENG,G,1.93,76,04-02-91,Derby,Derby Co,Blackburn Rovers,2011,English
+35,35,Jason Lowe,ENG,M,1.83,80,02-09-91,Wigan,None,Blackburn Rovers,2011,English
+36,36,Amine Linganzi,ALG,M,1.86,81,16-11-89,Algiers,St-Etienne,Blackburn Rovers,2011,English
+37,37,Zac Aley,ENG,M,1.80,71,17-08-91,Fazakerley,Southport,Blackburn Rovers,2011,English
+38,38,Myles Anderson,ENG,D,1.83,80,09-01-90,Westminster,Aberdeen,Blackburn Rovers,2011,English
+39,39,Adam Henley,WAL,D,1.78,77,14-06-94,Knoxville,None,Blackburn Rovers,2011,English
+40,40,Robbie Cotton,ENG,M,1.80,70,15-09-94,Rotherham,None,Blackburn Rovers,2011,English
+41,41,Raheem Hanley,ENG,D,1.73,70,24-03-94,Blackburn,Manchester U,Blackburn Rovers,2011,English
+42,42,Sebastian Usai,AUS,G,1.90,84,28-02-90,Brisbane,North Queensland Fury,Blackburn Rovers,2011,English
+1,1,Ádám Bogdán,HUN,G,1.94,90,27-09-87,Budapest,Vasas,Bolton Wanderers,2011,English
+2,2,Grétar Steinsson,ISL,D,1.89,78,09-01-82,Siglufjördur,AZ Alkmaar,Bolton Wanderers,2011,English
+3,3,Marcos Alonso,ESP,D,1.88,85,28-12-90,Madrid,Real Madrid B,Bolton Wanderers,2011,English
+4,4,Paul Robinson,ENG,D,1.75,73,14-12-78,Watford,WBA,Bolton Wanderers,2011,English
+6,6,Fabrice Muamba,ENG,M,1.88,78,06-04-88,Kinshasa,Birmingham C,Bolton Wanderers,2011,English
+7,7,Chris Eagles,ENG,M,1.83,67,19-11-85,Hemel Hempstead,Burnley,Bolton Wanderers,2011,English
+8,8,Stuart Holden,USA,M,1.78,73,01-08-85,Aberdeen,Houston Dynamo,Bolton Wanderers,2011,English
+9,9,Tuncay Şanlı,TUR,F,1.82,70,16-01-82,Sakarya,Wolfsburg,Bolton Wanderers,2011,English
+10,10,Martin Petrov,BUL,M,1.80,76,15-01-79,Vzatza,Manchester C,Bolton Wanderers,2011,English
+11,11,Ricardo Gardner,JAM,M,1.75,70,25-09-78,St Andrews,Harbour View,Bolton Wanderers,2011,English
+12,12,Zat Knight,ENG,D,1.98,86,02-05-80,Solihull,Aston Villa,Bolton Wanderers,2011,English
+14,14,Kevin Davies,ENG,F,1.83,81,26-03-77,Sheffield,Southampton,Bolton Wanderers,2011,English
+15,15,Tyrone Mears,ENG,D,1.80,74,18-02-83,Stockport,Burnley,Bolton Wanderers,2011,English
+16,16,Mark Davies,ENG,M,1.80,74,18-02-88,Wolverhampton,Wolverhampton W,Bolton Wanderers,2011,English
+17,17,Ivan Klasnić,CRO,F,1.86,79,29-01-80,Hamburg,Nantes,Bolton Wanderers,2011,English
+18,18,Sam Ricketts,WAL,D,1.85,77,11-10-81,Aylesbury,Hull C,Bolton Wanderers,2011,English
+19,19,Nigel Reo-Coker,ENG,M,1.75,76,14-05-84,Southwark,Aston Villa,Bolton Wanderers,2011,English
+20,20,Robbie Blake,ENG,F,1.75,76,04-03-76,Middlesbrough,Burnley,Bolton Wanderers,2011,English
+21,21,Darren Pratley,ENG,M,1.85,69,22-04-85,Barking,Swansea C,Bolton Wanderers,2011,English
+22,22,Jussi Jääskeläinen,FIN,G,1.91,81,19-04-75,Mikkeli,VPS,Bolton Wanderers,2011,English
+23,23,Sean Davis,ENG,M,1.78,80,20-09-79,Clapham,Portsmouth,Bolton Wanderers,2011,English
+24,24,David N'Gog,FRA,F,1.90,79,01-04-89,Gennevilliers,Liverpool,Bolton Wanderers,2011,English
+25,25,Dedryck Boyata,BEL,D,1.88,84,08-09-90,Uccle,Manchester C,Bolton Wanderers,2011,English
+26,26,Robert Lainton,ENG,G,1.88,79,12-10-89,Ashton-under-Lyme,None,Bolton Wanderers,2011,English
+27,27,Lee Chung-Yong,KOR,M,1.80,69,02-07-88,Seoul,FC Seoul,Bolton Wanderers,2011,English
+29,29,Marvin Sordell,ENG,F,1.77,79,17-02-91,Brent,Watford,Bolton Wanderers,2011,English
+30,30,Ryo Miyaichi,JPN,F,1.83,71,14-12-92,Okazaki,Arsenal,Bolton Wanderers,2011,English
+31,31,David Wheater,ENG,D,1.96,82,14-02-87,Redcar,Middlesbrough,Bolton Wanderers,2011,English
+32,32,Tim Ream,USA,D,1.85,72,05-10-87,St Louis,New York Red Bulls,Bolton Wanderers,2011,English
+33,33,Mark Connolly,IRL,D,1.83,77,16-12-91,Monaghan,Wolverhampton W,Bolton Wanderers,2011,English
+34,34,Tom Eaves,ENG,F,1.90,86,14-02-92,Liverpool,Oldham Ath,Bolton Wanderers,2011,English
+35,35,Temitope Obadeyi,ENG,F,1.90,87,29-10-89,Birmingham,None,Bolton Wanderers,2011,English
+36,36,Michael O'Halloran,SCO,F,1.88,79,06-01-91,Glasgow,None,Bolton Wanderers,2011,English
+37,37,Josh Vela,ENG,M,1.81,73,14-12-93,Salford,None,Bolton Wanderers,2011,English
+38,38,Adam Blakeman,ENG,D,1.75,72,03-12-91,Widnes,None,Bolton Wanderers,2011,English
+39,39,Joe Riley,ENG,D,1.83,71,13-10-91,Salford,None,Bolton Wanderers,2011,English
+41,43,Jay Lynch,ENG,G,1.88,85,31-03-93,Salford,None,Bolton Wanderers,2011,English
+1,1,Petr Čech,CZE,G,1.96,90,20-05-82,Plzeň,Rennes,Chelsea,2011,English
+2,2,Branislav Ivanović,SRB,D,1.88,86,22-02-84,Sremska Mitrovica,Lokomotiv Moscow,Chelsea,2011,English
+3,3,Ashley Cole,ENG,D,1.72,67,20-12-80,Stepney,Arsenal,Chelsea,2011,English
+4,4,David Luiz,BRA,D,1.89,84,22-04-87,São Paulo,Benfica,Chelsea,2011,English
+5,5,Michael Essien,GHA,M,1.78,84,03-12-82,Accra,Lyon,Chelsea,2011,English
+6,6,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona,Barcelona B,Chelsea,2011,English
+7,7,Ramires,BRA,M,1.79,65,24-03-87,Rio de Janeiro,Benfica,Chelsea,2011,English
+8,8,Frank Lampard,ENG,M,1.83,90,20-06-78,Romford,West Ham U,Chelsea,2011,English
+9,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid,Liverpool,Chelsea,2011,English
+10,10,Juan Mata,ESP,F,1.70,63,28-04-88,Burgos,Valencia,Chelsea,2011,English
+11,11,Didier Drogba,CIV,F,1.89,91,11-03-78,Abidjan,Marseille,Chelsea,2011,English
+12,12,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos,Lyn,Chelsea,2011,English
+15,15,Florent Malouda,FRA,M,1.81,73,13-06-80,Cayenne,Lyon,Chelsea,2011,English
+16,16,Raul Meireles,POR,M,1.79,69,17-03-83,Porto,Liverpool,Chelsea,2011,English
+17,17,José Bosingwa,POR,D,1.83,75,24-08-82,Kinshasa,FC Porto,Chelsea,2011,English
+18,18,Romelu Lukaku,BEL,F,1.90,94,13-05-93,Antwerp,Anderlecht,Chelsea,2011,English
+19,19,Paulo Ferreira,POR,D,1.82,76,18-01-79,Lisbon,FC Porto,Chelsea,2011,English
+21,21,Salomon Kalou,CIV,F,1.84,77,05-08-85,Oumé,Feyenoord,Chelsea,2011,English
+22,22,Ross Turnbull,ENG,G,1.93,85,04-01-85,Bishop Auckland,Middlesbrough,Chelsea,2011,English
+23,23,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham,Manchester C,Chelsea,2011,English
+24,24,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield,Bolton W,Chelsea,2011,English
+26,26,John Terry,ENG,D,1.86,91,07-12-80,Barking,None,Chelsea,2011,English
+27,27,Sam Hutchinson,ENG,D,1.80,73,03-08-89,Slough,None,Chelsea,2011,English
+34,34,Ryan Bertrand,ENG,D,1.79,85,05-08-89,Southwark,Gillingham,Chelsea,2011,English
+35,35,Lucas Piazón,BRA,F,1.82,75,20-01-94,São Paulo,São Paulo,Chelsea,2011,English
+40,40,Hilário,POR,G,1.88,86,21-10-75,São Pedro da Cova,Nacional [POR],Chelsea,2011,English
+41,45,Nathaniel  Chalobah,ENG,D,1.85,75,12-12-94,Freetown,None,Chelsea,2011,English
+42,46,Jamal Blackman,ENG,G,1.96,82,27-10-93,Croydon,None,Chelsea,2011,English
+43,47,Billy Clifford,ENG,D,1.70,67,18-10-92,Slough,None,Chelsea,2011,English
+44,48,Conor Clifford,IRL,M,1.73,67,01-10-91,Dublin,None,Chelsea,2011,English
+45,49,Aziz Deen-Conteh,ENG,D,1.76,70,14-01-93,Bumpeh,None,Chelsea,2011,English
+46,51,Rohan Ince,ENG,D,1.91,80,08-11-92,Whitechapel,None,Chelsea,2011,English
+47,53,Marko Mitrović,SWE,F,1.86,76,27-06-92,Malmö,Malmö FF,Chelsea,2011,English
+48,54,Todd Kane,ENG,D,1.80,70,17-09-93,Huntingdon,None,Chelsea,2011,English
+49,55,James Ashton,ENG,M,,,02-10-92,Gravesend,None,Chelsea,2011,English
+50,56,George Saville,ENG,M,1.76,73,01-06-93,Camberley,None,Chelsea,2011,English
+51,57,Archange Nkumu,ENG,D,1.88,70,05-11-93,Tottenham,None,Chelsea,2011,English
+52,58,Daniel Pappoe,GHA,D,1.91,93,30-12-93,Accra,None,Chelsea,2011,English
+53,60,Rhys Taylor,WAL,G,1.88,85,07-04-90,Neath,None,Chelsea,2011,English
+1,1,Ján Mucha,SVK,G,1.89,87,05-12-82,Belá nad Cirochou,Legia Warszawa,Everton,2011,English
+2,2,Tony Hibbert,ENG,D,1.73,72,20-02-81,Liverpool,None,Everton,2011,English
+3,3,Leighton Baines,ENG,D,1.70,75,11-12-84,Liverpool,Wigan Ath,Everton,2011,English
+4,4,Darron Gibson,IRL,M,1.80,83,25-10-87,Derry,Manchester U,Everton,2011,English
+5,5,John Heitinga,NED,D,1.80,72,15-11-83,Alphen aan den Rijn,Atlético Madrid,Everton,2011,English
+6,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale,Sheffield U,Everton,2011,English
+7,7,Nikica Jelavić,CRO,F,1.88,88,27-08-85,Capljina,Rangers,Everton,2011,English
+10,10,Royston Drenthe,NED,D,1.67,67,08-04-87,Rotterdam,Real Madrid,Everton,2011,English
+11,11,Denis Stracqualursi,ARG,F,1.90,85,20-10-87,Rafaela,Tigre,Everton,2011,English
+12,12,Marcus Hahnemann,USA,G,1.91,99,15-06-72,Seattle,Wolverhampton W,Everton,2011,English
+14,14,James McFadden,SCO,F,1.78,75,14-04-83,Glasgow,Birmingham C,Everton,2011,English
+15,15,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet,Portsmouth,Everton,2011,English
+17,17,Tim Cahill,AUS,M,1.78,69,06-12-79,Sydney,Millwall,Everton,2011,English
+18,18,Phil Neville,ENG,D,1.80,75,21-01-77,Bury,Manchester U,Everton,2011,English
+19,19,Magaye Gueye,FRA,F,1.79,73,06-07-90,Nogent-sur-Marne,Strasbourg,Everton,2011,English
+20,20,Ross Barkley,ENG,M,1.89,76,05-12-93,Liverpool,None,Everton,2011,English
+21,21,Leon Osman,ENG,M,1.73,62,17-05-81,Billinge,None,Everton,2011,English
+22,22,Steven Pienaar,RSA,M,1.70,66,17-03-82,Johannesburg,Tottenham H,Everton,2011,English
+23,23,Séamus Coleman,IRL,D,1.93,67,11-10-88,Donegal,Sligo R,Everton,2011,English
+24,24,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick,Manchester  U,Everton,2011,English
+25,25,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek,Standard Liège,Everton,2011,English
+26,26,Jack Rodwell,ENG,M,1.88,70,11-03-91,Birkdale,None,Everton,2011,English
+27,27,Apostolos Vellios,GRE,F,1.91,79,08-01-92,Thessaloniki,Iraklis,Everton,2011,English
+28,28,Victor Anichebe,NGA,F,1.85,80,23-04-88,Lagos,None,Everton,2011,English
+29,29,João Silva,POR,F,1.89,80,21-05-90,Vila das Aves,Desportivo das Aves,Everton,2011,English
+30,30,Francisco Júnior,POR,M,1.62,65,18-01-92,Bissau,Manchester C,Everton,2011,English
+31,31,Adam Forshaw,ENG,M,1.85,71,08-10-91,Liverpool,None,Everton,2011,English
+34,34,Shane Duffy,IRL,D,1.93,76,01-01-92,Derry,None,Everton,2011,English
+36,36,Aristote Nsiala,CGO,D,1.93,83,25-03-92,Kinshasa,None,Everton,2011,English
+37,37,Jose Baxter,ENG,F,1.79,74,07-02-92,Bootle,None,Everton,2011,English
+38,38,James Wallace,ENG,M,1.80,80,19-12-91,Fazackerly,None,Everton,2011,English
+40,40,Adam Davies,ENG,G,1.85,75,17-07-92,Rinteln,None,Everton,2011,English
+41,41,Jake Bidwell,ENG,D,1.83,70,21-03-93,Southport,None,Everton,2011,English
+42,42,Luke Garbutt,ENG,D,1.78,73,21-05-93,Harrogate,Leeds U,Everton,2011,English
+43,43,Conor McAleny,ENG,F,1.78,79,12-08-92,Liverpool,None,Everton,2011,English
+44,44,Femi Orenuga,ENG,M,1.68,61,18-03-93,Greenwich,Southend U,Everton,2011,English
+1,1,Mark Schwarzer,AUS,G,1.94,85,06-10-72,Sydney,Middlesbrough,Fulham,2011,English
+2,2,Stephen Kelly,IRL,D,1.84,82,06-09-83,Dublin,Birmingham C,Fulham,2011,English
+3,3,John Arne Riise,NOR,D,1.85,78,24-09-80,Molde,Roma,Fulham,2011,English
+4,4,Steve Sidwell,ENG,M,1.78,70,14-12-82,Wandsworth,Aston Villa,Fulham,2011,English
+5,5,Brede Hangeland,NOR,D,1.95,92,20-06-81,Houston,FC København,Fulham,2011,English
+6,6,Chris Baird,NIR,D,1.79,71,25-02-82,Ballymena,Southampton,Fulham,2011,English
+7,7,Pavel Pogrebnyak,RUS,F,1.88,91,08-11-83,Moscow,Stuttgart,Fulham,2011,English
+8,8,Andy Johnson,ENG,F,1.70,64,10-02-81,Bedford,Everton,Fulham,2011,English
+9,9,Orlando Sá,POR,F,1.88,85,26-05-88,Barcelos,FC Porto,Fulham,2011,English
+10,10,Pajtim Kasami,SUI,M,1.87,70,02-06-92,Struga,Palermo,Fulham,2011,English
+11,11,Bryan Ruiz,CRC,F,1.88,78,18-08-85,San José [CRC],FC Twente,Fulham,2011,English
+12,12,David Stockdale,ENG,G,1.91,84,20-09-85,Leeds,Darlington,Fulham,2011,English
+13,13,Danny Murphy,ENG,M,1.75,69,18-03-77,Chester,Tottenham H,Fulham,2011,English
+14,14,Philippe Senderos,SUI,D,1.90,84,14-02-85,Geneva,Arsenal,Fulham,2011,English
+15,15,Marcel Gecov,CZE,M,1.80,70,01-01-88,Prague,Slovan Liberec,Fulham,2011,English
+16,16,Damien Duff,IRL,M,1.78,70,02-03-79,Ballyboden,Newcastle U,Fulham,2011,English
+17,17,Bjørn Helge Riise,NOR,M,1.74,70,21-06-83,Ålesund,Lillestrøm,Fulham,2011,English
+18,18,Aaron Hughes,NIR,D,1.83,72,08-11-79,Magherafelt,Aston Villa,Fulham,2011,English
+19,19,Mahamadou Diarra,MLI,M,1.83,76,18-05-81,Bamako,Monaco,Fulham,2011,English
+20,20,Dickson Etuhu,NGA,M,1.88,83,08-06-82,Kano,Sunderland,Fulham,2011,English
+21,21,Kerim Frei,SUI,M,1.71,66,19-11-93,Feldkirch,Grasshoppers,Fulham,2011,English
+22,22,Csaba Somogyi,HUN,G,1.90,85,07-04-85,Dunaújváros,REAC,Fulham,2011,English
+23,23,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches,New England Revolution,Fulham,2011,English
+24,24,Lauri Dalla Valle,FIN,F,1.80,73,14-09-91,Kontiolahti,Liverpool,Fulham,2011,English
+26,26,Zdeněk Grygera,CZE,D,1.85,78,14-05-80,Prílepy u Holesova,Juventus,Fulham,2011,English
+28,28,Matthew Briggs,ENG,D,1.88,84,09-03-91,Wandsworth,None,Fulham,2011,English
+29,29,Simon Davies,WAL,M,1.78,76,23-10-79,Haverfordwest,Everton,Fulham,2011,English
+30,30,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk,AZ Alkmaar,Fulham,2011,English
+31,31,Alex Kačaniklić,SWE,M,1.75,71,13-08-91,Helsingborg,Liverpool,Fulham,2011,English
+32,32,Rafik Halliche,ALG,D,1.87,77,02-09-86,Algiers,Benfica,Fulham,2011,English
+34,34,Tom Donegan,ENG,M,1.78,70,15-09-92,Fazakerley,Everton,Fulham,2011,English
+36,36,Buomesca Tué Na Bangna,POR,M,1.74,65,06-05-93,Bissau,Chelsea,Fulham,2011,English
+37,37,Courtney Harris,ENG,M,,,07-09-91,Hammersmith,None,Fulham,2011,English
+38,38,Neil Etheridge,PHI,G,1.91,89,07-02-90,Enfield,None,Fulham,2011,English
+39,39,Stephen Arthurworrey,ENG,D,1.93,88,15-10-94,Hackney,None,Fulham,2011,English
+40,40,Alex Smith,ENG,D,1.75,54,31-10-91,Clapham,None,Fulham,2011,English
+41,41,Marcus Bettinelli,ENG,G,1.94,82,24-05-92,Camberwell,None,Fulham,2011,English
+42,42,Marcello Trotta,ITA,F,1.87,82,29-09-92,Santa Maria Capua Vetere,Manchester C,Fulham,2011,English
+43,43,Josh Pritchard,WAL,M,1.75,71,23-09-92,Stockport,Manchester U,Fulham,2011,English
+44,44,Jesse Joronen,FIN,G,1.97,89,21-03-93,Helsinki,None,Fulham,2011,English
+1,1,Brad Jones,AUS,G,1.91,76,19-03-82,Armadale,Middlesbrough,Liverpool,2011,English
+2,2,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich,Portsmouth,Liverpool,2011,English
+3,3,José Enrique,ESP,D,1.84,82,23-01-86,Valencia,Newcastle U,Liverpool,2011,English
+5,5,Daniel Agger,DEN,D,1.87,75,12-12-84,Hvidovre,Brøndby,Liverpool,2011,English
+6,6,Fábio Aurélio,BRA,D,1.78,75,24-09-79,São Carlos,Valencia,Liverpool,2011,English
+7,7,Luis Suárez,URU,F,1.81,81,24-01-87,Salto,Ajax,Liverpool,2011,English
+8,8,Steven Gerrard,ENG,M,1.83,79,30-05-80,Whiston,None,Liverpool,2011,English
+9,9,Andy Carroll,ENG,F,1.91,65,06-01-89,Gateshead,Newcastle U,Liverpool,2011,English
+11,11,Maxi Rodríguez,ARG,M,1.80,79,02-01-81,Rosario,Atlético Madrid,Liverpool,2011,English
+14,14,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland,Sunderland,Liverpool,2011,English
+16,16,Sebastián Coates,URU,D,1.96,88,07-10-90,Montevideo,Nacional [URU],Liverpool,2011,English
+18,18,Dirk Kuyt,NED,F,1.84,77,22-07-80,Katwijk,Feyenoord,Liverpool,2011,English
+19,19,Stewart Downing,ENG,M,1.80,64,22-07-84,Middlesbrough,Aston Villa,Liverpool,2011,English
+20,20,Jay Spearing,ENG,M,1.68,70,25-11-88,Wirral,None,Liverpool,2011,English
+21,21,Lucas Leiva,BRA,M,1.79,74,09-01-87,Dourados,Grêmio,Liverpool,2011,English
+23,23,Jamie Carragher,ENG,D,1.85,83,28-01-78,Bootle,None,Liverpool,2011,English
+25,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid,Villarreal,Liverpool,2011,English
+26,26,Charlie Adam,SCO,M,1.85,83,10-12-85,Dundee,Blackpool,Liverpool,2011,English
+30,30,Suso,ESP,F,1.76,69,19-11-93,Cádiz,Cádiz,Liverpool,2011,English
+31,31,Raheem Sterling,ENG,M,1.70,69,08-12-94,Kingston,QPR,Liverpool,2011,English
+32,32,Doni,BRA,G,1.94,90,22-10-79,Jundiaí,Roma,Liverpool,2011,English
+33,33,Jonjo Shelvey,ENG,M,1.83,70,27-02-92,Romford,Charlton Ath,Liverpool,2011,English
+34,34,Martin Kelly,ENG,D,1.91,77,27-04-90,Bolton,None,Liverpool,2011,English
+35,35,Conor Coady,ENG,D,1.85,75,25-02-93,Liverpool,None,Liverpool,2011,English
+36,36,Nathan Eccleston,ENG,F,1.78,66,30-12-90,Manchester,None,Liverpool,2011,English
+37,37,Martin krteľ,SVK,D,1.91,81,15-12-84,Handlová,Zenit St Petersburg,Liverpool,2011,English
+38,38,Jon Flanagan,ENG,D,1.81,79,21-01-93,Liverpool,None,Liverpool,2011,English
+39,39,Craig Bellamy,WAL,F,1.75,69,13-07-79,Cardiff,Manchester C,Liverpool,2011,English
+41,42,Péter Gulácsi,HUN,G,1.90,83,06-05-90,Budapest,MTK,Liverpool,2011,English
+42,47,Andre Wisdom,ENG,D,1.86,78,09-05-93,Leeds,None,Liverpool,2011,English
+43,49,Jack Robinson,ENG,D,1.80,67,01-09-93,Warrington,None,Liverpool,2011,English
+2,2,Micah Richards,ENG,D,1.80,83,24-06-88,Birmingham,None,Manchester City,2011,English
+4,4,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel,Hamburg,Manchester City,2011,English
+5,5,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal,Espanyol,Manchester City,2011,English
+6,6,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham,Everton,Manchester City,2011,English
+7,7,James Milner,ENG,M,1.70,67,04-01-86,Wortley,Aston Villa,Manchester City,2011,English
+8,8,David Pizarro,CHI,M,1.70,65,11-09-79,Valparaiso,Roma,Manchester City,2011,English
+10,10,Edin Deko,BIH,F,1.92,80,17-03-86,Doboj,Wolfsburg,Manchester City,2011,English
+11,11,Adam Johnson,ENG,M,1.75,62,14-07-87,Sunderland,Middlesbrough,Manchester City,2011,English
+12,12,Stuart Taylor,ENG,G,1.96,86,28-11-80,Romford,Aston Villa,Manchester City,2011,English
+13,13,Aleksandar Kolarov,SRB,D,1.87,83,10-11-85,Belgrade,Lazio,Manchester City,2011,English
+15,15,Stefan Savić,MNE,D,1.86,73,08-01-91,Belgrade,Partizan Belgrade,Manchester City,2011,English
+16,16,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal,Atlético Madrid,Manchester City,2011,English
+18,18,Gareth Barry,ENG,M,1.83,79,23-02-81,Hastings,Aston Villa,Manchester City,2011,English
+19,19,Samir Nasri,FRA,M,1.77,75,26-06-87,Marseille,Arsenal,Manchester City,2011,English
+20,20,Owen Hargreaves,ENG,M,1.80,74,20-01-81,Calgary,Manchester U,Manchester City,2011,English
+21,21,David Silva,ESP,M,1.70,67,08-01-86,Arguineguín,Valencia,Manchester City,2011,English
+22,22,Gaël Clichy,FRA,D,1.81,72,26-07-85,Toulouse,Arsenal,Manchester City,2011,English
+25,25,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury,Shrewsbury T,Manchester City,2011,English
+28,28,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké,Arsenal,Manchester City,2011,English
+30,30,Costel Pantilimon,ROU,G,1.97,96,01-02-87,Bacău,FC Timişoara,Manchester City,2011,English
+32,32,Carlos Tévez,ARG,F,1.71,75,05-02-84,Ciudadela,West Ham U,Manchester City,2011,English
+34,34,Nigel de Jong,NED,M,1.74,72,30-11-84,Amsterdam,Hamburg,Manchester City,2011,English
+35,35,Gai Assulin,ISR,M,1.78,76,09-04-91,Nahariya,Barcelona B,Manchester City,2011,English
+36,36,Denis Suárez,ESP,M,1.81,72,06-01-94,Tui,Celta Vigo,Manchester City,2011,English
+37,37,Gunnar Nielsen,FRO,G,1.91,89,07-10-86,Tórshavn,Blackburn R,Manchester City,2011,English
+41,42,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké,Barcelona,Manchester City,2011,English
+42,44,Karim Rekik,NED,D,1.83,76,02-12-94,Den Haag,Feyenoord,Manchester City,2011,English
+43,45,Mario Balotelli,ITA,F,1.89,88,12-08-90,Palermo,Internazionale,Manchester City,2011,English
+44,47,Harry Bunn,ENG,F,1.75,75,21-11-92,Oldham,None,Manchester City,2011,English
+45,49,Luca Scapuzzi,ITA,F,1.82,75,15-04-91,Milan,Milan,Manchester City,2011,English
+46,55,Sean Tse,IRL,D,1.85,75,03-05-92,Salford,None,Manchester City,2011,English
+47,57,Reece Wabara,ENG,D,1.82,73,28-12-91,Stoke Heath,Walsall,Manchester City,2011,English
+48,58,Ahmad Benali,ENG,M,1.68,65,07-02-92,Manchester,None,Manchester City,2011,English
+49,61,Jérémy Helan,FRA,M,1.81,76,09-05-92,Clichy,Rennes,Manchester City,2011,English
+50,62,Abdul Razak,CIV,M,1.80,76,11-11-92,Bouaké,Crystal Palace,Manchester City,2011,English
+51,63,Eirik Johansen,NOR,G,1.93,89,12-07-92,Tønsberg,None,Manchester City,2011,English
+52,64,Joan Román,ESP,M,1.75,65,18-05-93,Reus,Espanyol,Manchester City,2011,English
+1,1,David De Gea,ESP,G,1.92,82,07-11-90,Madrid,Atlético Madrid,Manchester United,2011,English
+3,3,Patrice Evra,FRA,D,1.75,76,15-05-81,Dakar,Monaco,Manchester United,2011,English
+4,4,Phil Jones,ENG,D,1.80,71,21-02-92,Preston,Blackburn R,Manchester United,2011,English
+5,5,Rio Ferdinand,ENG,D,1.89,82,07-11-78,Peckham,Leeds U,Manchester United,2011,English
+6,6,Jonny Evans,NIR,D,1.88,77,02-01-88,Belfast,None,Manchester United,2011,English
+7,7,Michael Owen,ENG,F,1.73,70,14-12-79,Chester,Newcastle U,Manchester United,2011,English
+8,8,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre,FC Porto,Manchester United,2011,English
+9,9,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad,Tottenham H,Manchester United,2011,English
+10,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth,Everton,Manchester United,2011,English
+11,11,Ryan Giggs,WAL,M,1.80,68,29-11-73,Cardiff,None,Manchester United,2011,English
+12,12,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich,Fulham,Manchester United,2011,English
+13,13,Park Ji-Sung,KOR,M,1.75,70,25-02-81,Suwon,PSV Eindhoven,Manchester United,2011,English
+14,14,Javier Hernández,MEX,F,1.72,62,01-06-88,Guadalajara,Guadalajara,Manchester United,2011,English
+15,15,Nemanja Vidić,SRB,D,1.88,82,21-10-81,Uice,Spartak Moscow,Manchester United,2011,English
+16,16,Michael Carrick,ENG,M,1.86,74,28-07-81,Wallsend,Tottenham H,Manchester United,2011,English
+17,17,Nani,POR,M,1.75,66,17-11-86,Praia,Sporting CP,Manchester United,2011,English
+18,18,Ashley Young,ENG,M,1.75,65,09-07-85,Stevenage,Aston Villa,Manchester United,2011,English
+19,19,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester,None,Manchester United,2011,English
+20,20,Fábio,BRA,D,1.72,65,09-07-90,Petrópolis,Fluminense,Manchester United,2011,English
+21,21,Rafael,BRA,D,1.72,65,09-07-90,Petrópolis,Fluminense,Manchester United,2011,English
+22,22,Paul Scholes,ENG,M,1.70,72,16-11-74,Salford,None,Manchester United,2011,English
+23,23,Tom Cleverley,ENG,M,1.75,67,12-08-89,Basingstoke,Bradford C,Manchester United,2011,English
+24,24,Darren Fletcher,SCO,M,1.83,83,01-02-84,Edinburgh,None,Manchester United,2011,English
+25,25,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio,Wigan Ath,Manchester United,2011,English
+29,29,Tomasz Kuszczak,POL,G,1.90,84,20-03-82,Krosno Odrzańskie,WBA,Manchester United,2011,English
+30,30,Ritchie De Laet,BEL,D,1.86,77,28-11-88,Antwerp,Stoke C,Manchester United,2011,English
+34,34,Anders Lindegaard,DEN,G,1.93,80,13-04-84,Odense,Aalesund,Manchester United,2011,English
+35,35,Reece Brown,ENG,D,1.88,84,01-11-91,Manchester,None,Manchester United,2011,English
+36,36,Marnick Vermijl,BEL,D,1.80,70,13-01-92,Peer,Standard Liège,Manchester United,2011,English
+38,38,Michael Keane,ENG,D,1.72,68,11-01-93,Stockport,None,Manchester United,2011,English
+39,39,Tom Thorpe,ENG,D,1.88,89,13-01-93,Manchester,None,Manchester United,2011,English
+40,40,Ben Amos,ENG,G,1.85,83,10-04-90,Macclesfield,None,Manchester United,2011,English
+41,42,Paul Pogba,FRA,M,1.85,80,15-03-93,Lagny-sur-Marne,Le Havre,Manchester United,2011,English
+42,43,Matthew James,ENG,M,1.78,74,22-07-91,Bacup,None,Manchester United,2011,English
+43,44,Sean McGinty,IRL,D,1.88,80,11-08-93,Maidstone,Charlton Ath,Manchester United,2011,English
+44,45,Davide Petrucci,ITA,M,1.88,88,17-10-91,Rome,Roma,Manchester United,2011,English
+45,46,Ryan Tunnicliffe,ENG,M,1.83,80,30-12-92,Bury,None,Manchester United,2011,English
+46,48,Will Keane,ENG,F,1.78,78,11-01-93,Stockport,None,Manchester United,2011,English
+47,50,Sam Johnstone,ENG,G,1.93,85,25-03-93,Preston,None,Manchester United,2011,English
+48,51,Ezekiel Fryers,ENG,D,1.83,75,09-09-92,Manchester,None,Manchester United,2011,English
+49,52,Larnell Cole,ENG,M,1.68,63,09-03-93,Manchester,None,Manchester United,2011,English
+50,53,Jesse Lingard,ENG,M,1.68,58,15-12-92,Warrington,None,Manchester United,2011,English
+51,54,Michele Fornasier,ITA,D,1.86,80,22-08-93,Vittorio Veneto,Fiorentina,Manchester United,2011,English
+52,55,Luke Giverin,ENG,D,,,04-02-93,Salford,None,Manchester United,2011,English
+1,1,Steve Harper,ENG,G,1.88,82,14-03-75,Easington,Seaham Red Star,Newcastle United,2011,English
+2,2,Fabricio Coloccini,ARG,D,1.83,78,22-01-82,Córdoba,Deportivo La Coruña,Newcastle United,2011,English
+3,3,Davide Santon,ITA,D,1.87,77,02-01-91,Portomaggiore,Internazionale,Newcastle United,2011,English
+4,4,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Lille,Newcastle United,2011,English
+5,5,Danny Simpson,ENG,D,1.73,74,04-01-87,Salford,Manchester U,Newcastle United,2011,English
+6,6,Michael Williamson,ENG,D,1.91,84,08-11-83,Stoke-on-Trent,Portsmouth,Newcastle United,2011,English
+8,8,Danny Guthrie,ENG,M,1.75,73,18-04-87,Shrewsbury,Liverpool,Newcastle United,2011,English
+9,9,Papiss Demba Cissé,SEN,F,1.83,73,03-06-85,Dakar,Freiburg,Newcastle United,2011,English
+10,10,Hatem Ben Arfa,FRA,F,1.78,65,07-03-87,Clamart,Marseille,Newcastle United,2011,English
+11,11,Peter Løvenkrands,DEN,F,1.81,75,29-01-80,Hørsholm,Schalke,Newcastle United,2011,English
+13,13,Mehdi Abeid,ALG,M,1.78,77,06-08-92,Montreuil,Lens,Newcastle United,2011,English
+14,14,James Perch,ENG,D,1.80,72,28-09-85,Mansfield,Nottingham F,Newcastle United,2011,English
+15,15,Dan Gosling,ENG,M,1.78,71,02-02-90,Brixham,Everton,Newcastle United,2011,English
+16,16,Ryan Taylor,ENG,D,1.73,75,19-08-84,Liverpool,Wigan Ath,Newcastle United,2011,English
+18,18,Jonás Gutiérrez,ARG,M,1.82,70,05-07-82,Sáenz Peña,Mallorca,Newcastle United,2011,English
+19,19,Demba Ba,SEN,F,1.89,83,25-05-85,Sèvres,West Ham U,Newcastle United,2011,English
+20,20,Leon Best,IRL,F,1.85,76,19-09-86,Nottingham,Coventry C,Newcastle United,2011,English
+22,22,Sylvain Marveaux,FRA,M,1.72,66,15-04-86,Vannes,Rennes,Newcastle United,2011,English
+23,23,Shola Ameobi,NGA,F,1.91,84,12-10-81,Zaria,None,Newcastle United,2011,English
+24,24,Cheik Ismael Tioté,CIV,M,1.80,79,21-06-86,Yamoussoukro,FC Twente,Newcastle United,2011,English
+25,25,Gabriel Obertan,FRA,F,1.86,79,26-02-89,Pantin,Manchester U,Newcastle United,2011,English
+26,26,Tim Krul,NED,G,1.88,74,03-04-88,Den Haag,ADO Den Haag,Newcastle United,2011,English
+27,27,Steven Taylor,ENG,D,1.88,81,23-01-86,Greenwich,None,Newcastle United,2011,English
+28,28,Sammy Ameobi,ENG,F,1.90,66,01-05-92,Newcastle upon Tyne,None,Newcastle United,2011,English
+29,29,Haris Vučkić,SVN,M,1.88,80,21-08-92,Ljubljana,Domale,Newcastle United,2011,English
+30,30,Nile Ranger,ENG,F,1.88,84,11-04-91,Bounds Green,Southampton,Newcastle United,2011,English
+31,31,Shane Ferguson,NIR,M,1.80,67,12-07-91,Derry,None,Newcastle United,2011,English
+32,32,Ryan Donaldson,ENG,F,1.75,70,01-05-91,Newcastle upon Tyne,None,Newcastle United,2011,English
+34,34,James Tavernier,ENG,D,1.76,70,31-10-91,Bradford,None,Newcastle United,2011,English
+35,35,Robert Elliot,IRL,G,1.90,98,30-04-86,Chatham,Charlton Ath,Newcastle United,2011,English
+36,36,Greg McDermott,ENG,M,1.77,61,18-10-91,Liverpool,None,Newcastle United,2011,English
+37,37,Paul Dummett,WAL,D,1.78,65,26-09-91,Newcastle upon Tyne,None,Newcastle United,2011,English
+38,38,Jeff Henderson,ENG,D,1.85,77,09-12-91,Ashington,None,Newcastle United,2011,English
+41,45,Tamás Kádár,HUN,D,1.88,74,14-03-90,Veszprém,Zalaegerszeg,Newcastle United,2011,English
+1,1,John Ruddy,ENG,G,1.96,97,24-10-86,St Ives,Everton,Norwich City,2011,English
+2,2,Russell Martin,SCO,D,1.83,74,04-01-86,Brighton,Peterborough U,Norwich City,2011,English
+3,3,Adam Drury,ENG,D,1.80,73,29-08-78,Cottenham,Peterborough U,Norwich City,2011,English
+4,4,Bradley Johnson,ENG,M,1.78,68,28-04-87,Hackney,Leeds U,Norwich City,2011,English
+5,5,Steve Morison,WAL,F,1.88,76,29-08-83,Enfield,Millwall,Norwich City,2011,English
+6,6,Zak Whitbread,USA,D,1.88,72,10-01-84,Houston,Millwall,Norwich City,2011,English
+7,7,Andrew Crofts,WAL,M,1.75,73,20-05-84,Chatham,Brighton & HA,Norwich City,2011,English
+8,8,James Vaughan,ENG,F,1.80,80,14-07-88,Birmingham,Everton,Norwich City,2011,English
+9,9,Grant Holt,ENG,F,1.83,79,12-04-81,Carlisle,Shrewsbury T,Norwich City,2011,English
+10,10,Simeon Jackson,CAN,F,1.70,72,28-03-87,Kingston,Gillingham,Norwich City,2011,English
+11,11,Andrew Surman,ENG,M,1.78,72,20-08-86,Johannesburg,Wolverhampton W,Norwich City,2011,English
+12,12,Anthony Pilkington,IRL,F,1.83,76,06-06-88,Blackburn,Huddersfield T,Norwich City,2011,English
+13,13,Declan Rudd,ENG,G,1.91,75,16-01-91,Diss,None,Norwich City,2011,English
+14,14,Wesley Hoolahan,IRL,M,1.68,71,20-05-82,Dublin,Blackpool,Norwich City,2011,English
+15,15,David Fox,ENG,M,1.75,77,13-12-83,Stoke,Colchester U,Norwich City,2011,English
+17,17,Elliott Bennett,ENG,M,1.75,69,18-12-88,Telford,Brighton & HA,Norwich City,2011,English
+18,18,Korey Smith,ENG,M,1.83,78,31-01-91,Hatfield,None,Norwich City,2011,English
+19,19,Simon Lappin,SCO,M,1.80,60,25-01-83,Glasgow,St Mirren,Norwich City,2011,English
+20,20,Leon Barnett,ENG,D,1.85,71,30-11-85,Luton,WBA,Norwich City,2011,English
+21,21,Aaron Wilbraham,ENG,F,1.91,72,21-10-79,Knutsford,MK Dons,Norwich City,2011,English
+22,22,Elliott Ward,ENG,D,1.85,83,19-01-85,Harrow,Coventry C,Norwich City,2011,English
+23,23,Marc Tierney,ENG,D,1.83,71,23-08-85,Prestwich,Colchester U,Norwich City,2011,English
+24,24,Jonathan Howson,ENG,M,1.80,77,21-05-88,Leeds,Leeds U,Norwich City,2011,English
+25,25,Kyle Naughton,ENG,D,1.80,73,11-11-88,Sheffield,Tottenham H,Norwich City,2011,English
+26,26,Daniel Ayala,ESP,D,1.91,84,07-11-90,El Saucejo,Liverpool,Norwich City,2011,English
+29,29,Josh Dawkin,WAL,M,1.75,69,16-01-92,Huntingdon,None,Norwich City,2011,English
+30,30,Matt Ball,ENG,M,1.78,68,26-03-93,Welwyn Garden City,None,Norwich City,2011,English
+31,31,Jed Steer,ENG,G,1.88,89,23-09-92,Norwich,None,Norwich City,2011,English
+33,33,Ryan Bennett,ENG,D,1.88,70,06-03-90,Orsett,Peterborough U,Norwich City,2011,English
+1,1,Paddy Kenny,IRL,G,1.85,89,17-05-78,Halifax,Sheffield U,Queens Park Rangers,2011,English
+2,2,Samba Diakité,MLI,M,1.86,76,24-01-89,Montfermeil,Nancy,Queens Park Rangers,2011,English
+3,3,Clint Hill,ENG,D,1.83,73,19-10-78,Liverpool,Crystal Palace,Queens Park Rangers,2011,English
+4,4,Shaun Derry,ENG,M,1.83,82,06-12-77,Nottingham,Crystal Palace,Queens Park Rangers,2011,English
+5,5,Fitz Hall,ENG,D,1.93,83,20-12-80,Walthamstow,Wigan Ath,Queens Park Rangers,2011,English
+6,6,Danny Gabbidon,WAL,D,1.78,71,08-08-79,Cwmbran,West Ham U,Queens Park Rangers,2011,English
+7,7,Adel Taarabt,MAR,M,1.80,76,24-05-89,Taza,Tottenham H,Queens Park Rangers,2011,English
+8,8,Kieron Dyer,ENG,M,1.73,64,29-12-78,Ipswich,West Ham U,Queens Park Rangers,2011,English
+9,9,DJ Campbell,ENG,F,1.78,72,12-11-81,London,Blackpool,Queens Park Rangers,2011,English
+10,10,Jay Bothroyd,ENG,F,1.91,83,05-05-82,Islington,Cardiff C,Queens Park Rangers,2011,English
+11,11,Alejandro Faurlín,ARG,M,1.85,79,09-08-86,Rosario,Instituto (Córdoba),Queens Park Rangers,2011,English
+12,12,Jamie Mackie,SCO,F,1.73,71,22-09-85,Dorking,Plymouth Arg,Queens Park Rangers,2011,English
+13,13,Armand Traoré,SEN,D,1.85,82,08-10-89,Paris,Arsenal,Queens Park Rangers,2011,English
+14,14,Ákos Buzsáky,HUN,M,1.80,74,07-05-82,Budapest,Plymouth Arg,Queens Park Rangers,2011,English
+15,15,Bruno Perone,BRA,D,1.91,87,06-07-87,São Paulo,Tombense,Queens Park Rangers,2011,English
+17,17,Joey Barton,ENG,M,1.80,76,02-09-82,Huyton,Newcastle U,Queens Park Rangers,2011,English
+18,18,Luke Young,ENG,D,1.83,78,19-07-79,Harlow,Aston Villa,Queens Park Rangers,2011,English
+19,19,Patrick Agyemang,GHA,F,1.85,89,29-09-80,Walthamstow,Preston NE,Queens Park Rangers,2011,English
+20,20,Rob Hulse,ENG,F,1.85,78,25-10-79,Crewe,Derby Co,Queens Park Rangers,2011,English
+21,21,Tommy Smith,ENG,F,1.73,72,22-05-80,Hemel Hempstead,Portsmouth,Queens Park Rangers,2011,English
+22,22,Heiðar Helguson,ISL,F,1.78,77,22-08-77,Dalvík,Bolton W,Queens Park Rangers,2011,English
+23,23,Djibril Cissé,FRA,F,1.82,78,12-08-81,Arles,Lazio,Queens Park Rangers,2011,English
+24,24,Radek Černý,CZE,G,1.87,87,18-02-74,Prague,Slavia Prague,Queens Park Rangers,2011,English
+25,25,Hogan Ephraim,ENG,M,1.75,70,31-03-88,Islington,West Ham U,Queens Park Rangers,2011,English
+26,26,Brian Murphy,IRL,G,1.83,83,07-05-83,Waterford,Ipswich T,Queens Park Rangers,2011,English
+27,27,Peter  Ramage,ENG,D,1.85,76,22-11-83,Ashington,Newcastle U,Queens Park Rangers,2011,English
+28,28,Danny Shittu,NGA,D,1.91,95,02-09-80,Lagos,Millwall,Queens Park Rangers,2011,English
+29,29,Michael Doughty,WAL,M,1.85,81,20-11-92,Westminster,None,Queens Park Rangers,2011,English
+30,30,Troy Hewitt,ENG,F,1.83,79,10-02-90,Newham,Harrow Boro,Queens Park Rangers,2011,English
+32,32,Shaun Wright-Phillips,ENG,M,1.66,64,25-10-81,Greenwich,Manchester C,Queens Park Rangers,2011,English
+33,33,Federico Macheda,ITA,F,1.83,76,22-08-91,Rome,Manchester U,Queens Park Rangers,2011,English
+34,34,Taye Taiwo,NGA,D,1.83,77,16-04-85,Lagos,Milan,Queens Park Rangers,2011,English
+35,35,Anton Ferdinand,ENG,D,1.83,71,18-02-85,Peckham,Sunderland,Queens Park Rangers,2011,English
+36,36,Bruno Andrade,POR,M,1.75,74,02-10-93,Viseu,None,Queens Park Rangers,2011,English
+37,37,Lee Cook,ENG,M,1.75,77,03-08-82,Hammersmith,Fulham,Queens Park Rangers,2011,English
+39,39,Jordan Gibbons,ENG,M,1.73,74,18-11-93,Bromley,None,Queens Park Rangers,2011,English
+40,40,Michael Harriman,IRL,D,1.68,74,23-10-92,Chichester,None,Queens Park Rangers,2011,English
+41,42,Nedum Onuoha,ENG,D,1.83,78,12-11-86,Warri,Manchester C,Queens Park Rangers,2011,English
+42,43,Elvijs Putniņ,LVA,G,,,12-06-91,,Auda,Queens Park Rangers,2011,English
+43,44,Aaron Lennox,AUS,G,1.91,82,19-02-93,Hurstville,AIS,Queens Park Rangers,2011,English
+44,46,Angelo Balanta,COL,F,1.79,75,01-07-90,Cali,None,Queens Park Rangers,2011,English
+45,52,Bobby Zamora,ENG,F,1.83,74,16-01-81,Barking,Fulham,Queens Park Rangers,2011,English
+1,1,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje,Portsmouth,Stoke City,2011,English
+4,4,Robert Huth,GER,D,1.91,88,18-08-84,Berlin,Middlesbrough,Stoke City,2011,English
+5,5,Danny Collins,WAL,D,1.83,76,06-08-80,Chester,Sunderland,Stoke City,2011,English
+6,6,Glenn Whelan,IRL,M,1.80,79,13-01-84,Dublin,Sheffield W,Stoke City,2011,English
+9,9,Kenwyne Jones,TRI,F,1.88,75,05-10-84,Point Fortin,Sunderland,Stoke City,2011,English
+10,10,Ricardo Fuller,JAM,F,1.91,79,31-10-79,Kingston,Southampton,Stoke City,2011,English
+11,11,Mamady Sidibé,MLI,F,1.93,77,18-12-79,Bamako,Gillingham,Stoke City,2011,English
+12,12,Marc Wilson,IRL,D,1.88,80,17-08-87,Belfast,Portsmouth,Stoke City,2011,English
+15,15,Salif Diao,SEN,M,1.83,73,10-02-77,Kedougou,Liverpool,Stoke City,2011,English
+16,16,Jermaine Pennant,ENG,M,1.73,64,15-01-83,Nottingham,Zaragoza,Stoke City,2011,English
+17,17,Ryan Shawcross,ENG,D,1.83,76,04-10-87,Chester,Manchester U,Stoke City,2011,English
+18,18,Dean Whitehead,ENG,M,1.80,77,12-01-82,Abingdon,Sunderland,Stoke City,2011,English
+19,19,Jonathan Walters,IRL,F,1.83,79,20-09-83,Birkenhead,Ipswich T,Stoke City,2011,English
+20,20,Matthew Upson,ENG,D,1.85,72,18-04-79,Hartismere,West Ham U,Stoke City,2011,English
+24,24,Rory Delap,IRL,M,1.83,74,06-07-76,Sutton Coldfield,Sunderland,Stoke City,2011,English
+25,25,Peter Crouch,ENG,F,2.01,80,30-01-81,Macclesfield,Tottenham H,Stoke City,2011,English
+26,26,Matthew Etherington,ENG,M,1.78,64,14-08-81,Truro,West Ham U,Stoke City,2011,English
+27,27,Carlo Nash,ENG,G,1.96,89,13-09-73,Bolton,Everton,Stoke City,2011,English
+28,28,Andy Wilkinson,ENG,D,1.80,70,06-08-84,Stone,None,Stoke City,2011,English
+29,29,Thomas Sørensen,DEN,G,1.96,89,12-06-76,Fredericia,Aston Villa,Stoke City,2011,English
+30,30,Ryan Shotton,ENG,D,1.91,85,30-09-88,Fenton,None,Stoke City,2011,English
+32,32,Diego Arismendi,URU,M,1.89,82,25-01-88,Montevideo,Nacional [URU],Stoke City,2011,English
+33,33,Cameron Jerome,ENG,F,1.85,85,14-08-86,Huddersfield,Birmingham C,Stoke City,2011,English
+36,36,Matthew Lund,NIR,M,1.70,61,21-11-90,Manchester,Crewe Alex,Stoke City,2011,English
+38,38,Florent Cuvelier,BEL,M,1.82,72,12-09-92,Brussels,Portsmouth,Stoke City,2011,English
+39,39,Jonathan Woodgate,ENG,D,1.89,80,22-01-80,Middlesbrough,Tottenham H,Stoke City,2011,English
+40,40,Wilson Palacios,HON,M,1.78,71,29-07-84,La Ceiba,Tottenham H,Stoke City,2011,English
+41,41,Michael Clarkson,ENG,M,,,11-12-93,Crewe,None,Stoke City,2011,English
+42,42,Louis Moult,ENG,F,1.83,85,14-05-92,Stoke-on-Trent,None,Stoke City,2011,English
+43,43,Craig Sinclair,ENG,D,,,30-09-92,Stoke-on-Trent,None,Stoke City,2011,English
+44,44,Lucas Dawson,ENG,M,1.86,77,12-11-93,Stoke-on-Trent,None,Stoke City,2011,English
+1,1,Craig Gordon,SCO,G,1.93,77,31-12-82,Edinburgh,Hearts,Sunderland,2011,English
+2,2,Phillip Bardsley,SCO,D,1.79,74,28-06-85,Salford,Manchester U,Sunderland,2011,English
+3,3,Wayne Bridge,ENG,D,1.79,81,05-08-80,Southampton,Manchester C,Sunderland,2011,English
+4,4,Michael Turner,ENG,D,1.93,85,09-11-83,Lewisham,Hull C,Sunderland,2011,English
+5,5,Wes Brown,ENG,D,1.85,75,13-10-79,Manchester,Manchester U,Sunderland,2011,English
+6,6,Lee Cattermole,ENG,M,1.78,76,21-03-88,Stockton-on-Tees,Wigan Ath,Sunderland,2011,English
+7,7,Sebastian Larsson,SWE,M,1.78,70,06-06-85,Eskiltuna,Birmingham C,Sunderland,2011,English
+8,8,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull,Birmingham C,Sunderland,2011,English
+9,9,Fraizer Campbell,ENG,F,1.80,78,13-09-87,Huddersfield,Manchester U,Sunderland,2011,English
+10,10,Connor Wickham,ENG,F,1.91,73,31-03-93,Hereford,Ipswich T,Sunderland,2011,English
+11,11,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich,Manchester U,Sunderland,2011,English
+12,12,Matthew Kilgallon,ENG,D,1.88,81,08-01-84,York,Sheffield U,Sunderland,2011,English
+14,14,Jack Colback,ENG,M,1.76,70,24-10-89,Killingworth,None,Sunderland,2011,English
+15,15,David Vaughan,WAL,M,1.70,66,18-02-83,Rhuddlan,Blackpool,Sunderland,2011,English
+16,16,John O'Shea,IRL,D,1.90,75,30-04-81,Waterford,Manchester U,Sunderland,2011,English
+17,17,Ji Dong-Won,KOR,F,1.87,78,28-05-91,Jeju,Chunnam Dragons,Sunderland,2011,English
+18,18,David Meyler,IRL,M,1.90,74,29-05-89,Cork,Cork C,Sunderland,2011,English
+19,19,Titus Bramble,ENG,D,1.85,87,21-07-81,Ipswich,Wigan Ath,Sunderland,2011,English
+20,20,Keiren Westwood,IRL,G,1.88,86,23-10-84,Manchester,Coventry C,Sunderland,2011,English
+21,21,Oumare Tounkara,FRA,F,1.87,80,25-05-90,Paris,Sedan,Sunderland,2011,English
+22,22,Simon Mignolet,BEL,G,1.93,87,06-03-88,Sint-Truiden,Sint-Truiden,Sunderland,2011,English
+23,23,James McClean,IRL,M,1.80,70,22-04-89,Derry,Derry C,Sunderland,2011,English
+24,24,Trevor Carson,NIR,G,1.83,80,05-03-88,Downpatrick,None,Sunderland,2011,English
+25,25,Sotirios Kyrgiakos,GRE,D,1.92,85,23-07-79,Trikala,Wolfsburg,Sunderland,2011,English
+26,26,Jordan Cook,ENG,M,1.78,68,20-03-90,Sunderland,None,Sunderland,2011,English
+27,27,Ahmed Elmohamady,EGY,M,1.80,81,09-09-87,El-Mahalla El-Kubra,ENPPI,Sunderland,2011,English
+28,28,Stéphane Sessegnon,BEN,M,1.72,72,01-06-84,Allahe,Paris St-Germain,Sunderland,2011,English
+31,31,Ryan Noble,ENG,F,1.83,69,06-11-91,Sunderland,None,Sunderland,2011,English
+37,37,Adam Reed,ENG,M,1.65,55,08-05-91,Hartlepool,None,Sunderland,2011,English
+38,38,Craig Lynch,ENG,F,1.75,64,25-03-92,Durham,None,Sunderland,2011,English
+40,40,Louis Laing,ENG,D,1.81,76,06-03-93,Newcastle upon Tyne,None,Sunderland,2011,English
+41,42,John Egan,IRL,D,1.85,75,20-10-92,Cork,None,Sunderland,2011,English
+42,52,Nicklas Bendtner,DEN,F,1.92,83,16-01-88,Copenhagen,Arsenal,Sunderland,2011,English
+1,1,Michel Vorm,NED,G,1.83,84,20-10-83,Nieuwegein,FC Utrecht,Swansea City,2011,English
+2,2,Ashley Williams,WAL,D,1.83,75,23-08-84,Wolverhampton,Stockport Co,Swansea City,2011,English
+3,3,Neil Taylor,WAL,D,1.75,64,07-02-89,St Asaph,Wrexham,Swansea City,2011,English
+4,4,Steven Caulker,ENG,D,1.90,76,29-12-91,Feltham,Tottenham H,Swansea City,2011,English
+5,5,Alan Tate,ENG,D,1.85,85,02-09-82,Easington,Manchester U,Swansea City,2011,English
+6,6,Ferrie Bodde,NED,M,1.78,73,05-05-82,Delft,ADO Den Haag,Swansea City,2011,English
+7,7,Leon Britton,ENG,M,1.68,64,16-09-82,London,Sheffield U,Swansea City,2011,English
+8,8,Andrea Orlandi,ESP,M,1.80,78,03-08-84,Barcelona,Alavés B,Swansea City,2011,English
+10,10,Danny Graham,ENG,F,1.83,87,12-08-85,Gateshead,Watford,Swansea City,2011,English
+11,11,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath,Chelsea,Swansea City,2011,English
+12,12,Nathan Dyer,ENG,M,1.65,57,29-11-87,Trowbridge,Southampton,Swansea City,2011,English
+14,14,Stephen Dobbie,SCO,F,1.78,65,05-12-82,Glasgow,Queen of the South,Swansea City,2011,English
+15,15,Wayne Routledge,ENG,M,1.70,64,07-01-85,Eltham,Newcastle U,Swansea City,2011,English
+16,16,Garry Monk,ENG,D,1.83,81,06-03-79,Bedford,Barnsley,Swansea City,2011,English
+17,17,Josh McEachran,ENG,M,1.78,65,01-03-93,Oxford,Chelsea,Swansea City,2011,English
+18,18,Leroy Lita,ENG,F,1.70,75,28-12-84,Brazzaville,Middlesbrough,Swansea City,2011,English
+19,19,Luke Moore,ENG,F,1.80,76,13-02-86,Birmingham,WBA,Swansea City,2011,English
+20,20,Fede Bessone,ARG,D,1.80,76,23-01-84,Córdoba,Leeds U,Swansea City,2011,English
+21,21,José Moreira,POR,G,1.84,80,20-03-82,Porto,Benfica,Swansea City,2011,English
+22,22,Angel Rangel,ESP,D,1.88,84,28-10-82,Tortosa,Terrassa,Swansea City,2011,English
+23,23,Darnel Situ,FRA,D,1.87,77,18-03-92,Rouen,Lens,Swansea City,2011,English
+24,24,Joe Allen,WAL,M,1.68,62,14-03-90,Carmarthen,None,Swansea City,2011,English
+25,25,Gerhard Tremmel,GER,G,1.90,89,16-11-78,Munich,Red Bull Salzburg,Swansea City,2011,English
+26,26,Kemy Agustien,NED,M,1.78,72,02-08-86,Tilburg,AZ Alkmaar,Swansea City,2011,English
+27,27,Mark Gower,ENG,M,1.80,75,05-10-78,Edmonton,Southend U,Swansea City,2011,English
+28,28,Curtis Obeng,ENG,D,1.73,67,14-02-89,Manchester,Wrexham,Swansea City,2011,English
+29,29,Ashley Richards,WAL,M,1.85,78,12-04-91,Swansea,None,Swansea City,2011,English
+33,33,Ben Davies,WAL,D,1.70,76,24-04-93,Neath,None,Swansea City,2011,English
+34,34,Joe Walsh,WAL,D,1.80,70,13-05-92,Cardiff,None,Swansea City,2011,English
+36,36,Casey Thomas,WAL,M,1.75,68,14-11-90,Port Talbot,None,Swansea City,2011,English
+37,37,Jordan Smith,WAL,M,,,20-04-93,Swansea,Cardiff C,Swansea City,2011,English
+38,38,Gwion Edwards,WAL,M,1.75,76,01-03-93,Carmarthen,None,Swansea City,2011,English
+39,39,Kurtis March,WAL,M,1.75,71,30-03-93,Swansea,None,Swansea City,2011,English
+41,41,Rory Donnelly,NIR,F,1.88,81,18-02-92,Belfast,Cliftonville,Swansea City,2011,English
+42,42,Gylfi Sigurðsson,ISL,M,1.86,77,08-09-89,Reykjavik,1899 Hoffenheim,Swansea City,2011,English
+1,1,Heurelho Gomes,BRA,G,1.91,82,15-02-81,João Pinheiro,PSV Eindhoven,Tottenham Hotspur,2011,English
+3,3,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff,Southampton,Tottenham Hotspur,2011,English
+4,4,Younes Kaboul,FRA,D,1.90,87,04-01-86,St-Julien-en-Genevois,Portsmouth,Tottenham Hotspur,2011,English
+6,6,Tom Huddlestone,ENG,M,1.88,80,28-12-86,Nottingham,Derby Co,Tottenham Hotspur,2011,English
+7,7,Aaron Lennon,ENG,M,1.65,63,16-04-87,Chapeltown,Leeds U,Tottenham Hotspur,2011,English
+8,8,Scott Parker,ENG,M,1.75,70,13-10-80,Lambeth,West Ham U,Tottenham Hotspur,2011,English
+10,10,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé,Manchester C,Tottenham Hotspur,2011,English
+11,11,Rafael van der Vaart,NED,M,1.75,74,11-02-83,Heemskerk,Real Madrid,Tottenham Hotspur,2011,English
+13,13,William Gallas,FRA,D,1.83,72,17-08-77,Asnieres,Arsenal,Tottenham Hotspur,2011,English
+14,14,Luka Modrić,CRO,M,1.75,67,09-09-85,Zadar,Dinamo Zagreb,Tottenham Hotspur,2011,English
+15,15,Louis Saha,FRA,F,1.84,75,08-08-78,Paris,Everton,Tottenham Hotspur,2011,English
+17,17,Giovani dos Santos,MEX,M,1.73,77,11-05-89,Monterrey,Barcelona,Tottenham Hotspur,2011,English
+18,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton,Portsmouth,Tottenham Hotspur,2011,English
+20,20,Michael Dawson,ENG,D,1.88,76,18-11-83,Northallerton,Nottingham F,Tottenham Hotspur,2011,English
+21,21,Niko Kranjčar,CRO,M,1.85,75,13-08-84,Zagreb,Portsmouth,Tottenham Hotspur,2011,English
+23,23,Carlo Cudicini,ITA,G,1.85,80,06-09-73,Milan,Chelsea,Tottenham Hotspur,2011,English
+24,24,Brad Friedel,USA,G,1.88,91,18-05-71,Lakewood,Aston Villa,Tottenham Hotspur,2011,English
+25,25,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster,Leeds U,Tottenham Hotspur,2011,English
+26,26,Ledley King,ENG,D,1.88,86,12-10-80,Bow,None,Tottenham Hotspur,2011,English
+28,28,Kyle Walker,ENG,D,1.78,73,28-05-90,Sheffield,Sheffield U,Tottenham Hotspur,2011,English
+29,29,Jake Livermore,ENG,M,1.80,76,14-11-89,Enfield,None,Tottenham Hotspur,2011,English
+30,30,Sandro,BRA,M,1.87,75,15-03-89,Riachinho,Internacional,Tottenham Hotspur,2011,English
+31,31,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross,None,Tottenham Hotspur,2011,English
+32,32,Benoît Assou-Ekotto,CMR,D,1.80,69,24-03-84,Arras,Lens,Tottenham Hotspur,2011,English
+33,33,Ryan Nelsen,NZL,D,1.83,90,18-10-77,Christchurch,Blackburn R,Tottenham Hotspur,2011,English
+35,35,David Button,ENG,G,1.91,83,27-02-89,Stevenage,None,Tottenham Hotspur,2011,English
+36,36,Bongani Khumalo,RSA,D,1.88,82,06-01-87,Manzini,SuperSport U,Tottenham Hotspur,2011,English
+37,37,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow,None,Tottenham Hotspur,2011,English
+38,38,David Bentley,ENG,M,1.75,68,27-08-84,Peterborough,Blackburn R,Tottenham Hotspur,2011,English
+41,43,Ryan Fredericks,ENG,M,1.73,72,10-10-92,Potters Bar,None,Tottenham Hotspur,2011,English
+42,44,Cristian Ceballos,ESP,M,1.73,67,03-12-92,Barcelona,Barcelona,Tottenham Hotspur,2011,English
+43,45,Massimo Luongo,AUS,M,1.74,75,25-09-92,Sydney,APIA Leichhardt,Tottenham Hotspur,2011,English
+44,47,Jake Nicholson,ENG,M,1.83,73,19-07-92,Harrow,None,Tottenham Hotspur,2011,English
+45,51,Adam Smith,ENG,D,1.73,67,29-04-91,Leytonstone,None,Tottenham Hotspur,2011,English
+46,53,Cameron Lancaster,ENG,F,1.83,74,05-11-92,Camden,None,Tottenham Hotspur,2011,English
+47,54,Alex Pritchard,ENG,F,1.71,62,03-05-93,Grays,West Ham U,Tottenham Hotspur,2011,English
+48,56,Jesse Waller-Lassen,ENG,M,1.73,77,26-12-92,Hornsey,None,Tottenham Hotspur,2011,English
+49,57,Jordan Archer,SCO,G,1.86,80,12-04-93,Walthamstow,Charlton Ath,Tottenham Hotspur,2011,English
+50,58,Dean Parrett,ENG,M,1.77,74,16-11-91,Hampstead,QPR,Tottenham Hotspur,2011,English
+51,59,Kevin Stewart,ENG,D,1.71,73,07-09-93,Enfield,None,Tottenham Hotspur,2011,English
+52,60,Jack Barthram,ENG,D,1.73,75,13-10-93,Newham,None,Tottenham Hotspur,2011,English
+1,1,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington,Birmingham C,West Bromwich Albion,2011,English
+3,3,Jonas Olsson,SWE,D,1.95,85,10-03-83,Landskrona,NEC Nijmegen,West Bromwich Albion,2011,English
+5,5,Somen Tchoyi,CMR,M,1.90,87,29-03-83,Douala,Red Bull Salzburg,West Bromwich Albion,2011,English
+6,6,Liam Ridgewell,ENG,D,1.88,79,21-07-84,Bexley,Birmingham C,West Bromwich Albion,2011,English
+7,7,James Morrison,SCO,M,1.78,64,25-05-86,Darlington,Middlesbrough,West Bromwich Albion,2011,English
+8,8,Keith Andrews,IRL,M,1.83,78,13-09-80,Dublin,Blackburn R,West Bromwich Albion,2011,English
+9,9,Shane Long,IRL,F,1.78,71,22-01-87,Kilkenny,Reading,West Bromwich Albion,2011,English
+11,11,Chris Brunt,NIR,M,1.85,84,14-12-84,Belfast,Sheffield W,West Bromwich Albion,2011,English
+12,12,Steven Reid,IRL,M,1.85,87,10-03-81,Kingston,Blackburn R,West Bromwich Albion,2011,English
+13,13,Márton Fülöp,HUN,G,1.96,92,03-05-83,Budapest,Ipswich T,West Bromwich Albion,2011,English
+14,14,Jerome Thomas,ENG,M,1.78,79,23-03-83,Brent,Portsmouth,West Bromwich Albion,2011,English
+16,16,Scott Allan,SCO,M,1.75,70,28-11-91,Glasgow,Dundee U,West Bromwich Albion,2011,English
+17,17,Graham Dorrans,SCO,M,1.75,73,05-05-87,Glasgow,Livingston,West Bromwich Albion,2011,English
+19,19,Luke Daniels,ENG,G,1.93,81,05-01-88,Bolton,Manchester U,West Bromwich Albion,2011,English
+20,20,Nicky Shorey,ENG,D,1.75,67,19-02-81,Romford,Aston Villa,West Bromwich Albion,2011,English
+21,21,Youssouf Mulumbu,COD,M,1.77,65,25-01-87,Kinshasa,Paris St-Germain,West Bromwich Albion,2011,English
+22,22,Zoltán Gera,HUN,M,1.83,75,22-04-79,Pécs,Fulham,West Bromwich Albion,2011,English
+23,23,Gareth McAuley,NIR,D,1.91,70,05-12-79,Larne,Ipswich T,West Bromwich Albion,2011,English
+24,24,Peter Odemwingie,NGA,F,1.82,74,15-07-81,Tashkent,Lokomotiv Moscow,West Bromwich Albion,2011,English
+25,25,Craig Dawson,ENG,D,1.83,78,06-05-90,Rochdale,Rochdale,West Bromwich Albion,2011,English
+26,26,James Hurst,ENG,D,1.83,77,31-01-92,Sutton Coldfield,Portsmouth,West Bromwich Albion,2011,English
+27,27,Sam Mantom,ENG,M,1.89,80,20-02-92,Stourbridge,None,West Bromwich Albion,2011,English
+28,28,Billy Jones,ENG,D,1.81,77,24-03-87,Shrewsbury,Preston NE,West Bromwich Albion,2011,English
+29,29,George Thorne,ENG,M,1.88,84,04-01-93,Chatham,None,West Bromwich Albion,2011,English
+30,30,Gabriel Tamaş,ROU,D,1.88,77,09-11-83,Braşov,Auxerre,West Bromwich Albion,2011,English
+31,31,Simon Cox,IRL,F,1.80,70,28-04-87,Reading,Swindon T,West Bromwich Albion,2011,English
+32,32,Marc-Antoine Fortuné,FRA,F,1.82,82,02-07-81,Cayenne,Celtic,West Bromwich Albion,2011,English
+33,33,Paul Scharner,AUT,M,1.91,80,11-03-80,Scheibbs,Wigan Ath,West Bromwich Albion,2011,English
+34,34,Paul Downing,ENG,D,1.85,79,26-10-91,Taunton,None,West Bromwich Albion,2011,English
+35,35,Romaine Sawyers,SKN,M,1.75,67,02-11-91,Birmingham,None,West Bromwich Albion,2011,English
+36,36,Adil Nabi,ENG,F,1.72,68,28-02-94,Birmingham,None,West Bromwich Albion,2011,English
+37,37,Kayelden Brown,WAL,M,1.87,80,15-04-92,Birmingham,None,West Bromwich Albion,2011,English
+38,38,Saido Berahino,ENG,F,1.80,82,04-08-93,Bujumbura,None,West Bromwich Albion,2011,English
+39,39,Kemar Roofe,ENG,M,1.78,71,06-01-93,Walsall,None,West Bromwich Albion,2011,English
+41,41,Lateef Elford-Alliyu,ENG,F,1.73,69,01-06-92,Ibadan,None,West Bromwich Albion,2011,English
+42,42,Cameron Gayle,ENG,D,1.81,70,22-11-92,Birmingham,Crewe Alex,West Bromwich Albion,2011,English
+1,1,Chris Kirkland,ENG,G,1.91,74,02-05-81,Leicester,Liverpool,Wigan Athletic,2011,English
+2,2,Steve Gohouri,CIV,D,1.88,88,08-02-81,Treichville,B Mönchengladbach,Wigan Athletic,2011,English
+3,3,Antolín Alcaraz,PAR,D,1.84,80,30-07-82,Roque Gonzalez,Club Brugge,Wigan Athletic,2011,English
+4,4,James McCarthy,IRL,M,1.80,72,12-11-90,Glasgow,Hamilton Academical,Wigan Athletic,2011,English
+5,5,Gary Caldwell,SCO,D,1.85,75,12-04-82,Stirling,Celtic,Wigan Athletic,2011,English
+6,6,Hendry Thomas,HON,M,1.80,80,23-02-85,La Ceiba,Olimpia [HON],Wigan Athletic,2011,English
+7,7,Albert Crusat,ESP,M,1.64,65,13-05-82,Barcelona,Almería,Wigan Athletic,2011,English
+8,8,Ben Watson,ENG,M,1.78,69,09-07-85,Camberwell,Crystal Palace,Wigan Athletic,2011,English
+9,9,Franco Di Santo,ARG,F,1.94,78,07-04-89,Mendoza,Chelsea,Wigan Athletic,2011,English
+10,10,Shaun Maloney,SCO,F,1.70,70,24-01-83,Mirri,Celtic,Wigan Athletic,2011,English
+11,11,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos,Crystal Palace,Wigan Athletic,2011,English
+12,12,Mike Pollitt,ENG,G,1.93,89,29-02-72,Farmworth,Rotherham U,Wigan Athletic,2011,English
+13,13,Lee Nicholls,ENG,G,1.91,85,05-10-92,Huyton,None,Wigan Athletic,2011,English
+14,14,Jordi Gómez,ESP,M,1.78,74,24-05-85,Barcelona,Espanyol B,Wigan Athletic,2011,English
+15,15,Callum McManaman,ENG,F,1.75,71,25-04-91,Knowsley,Everton,Wigan Athletic,2011,English
+16,16,James McArthur,SCO,M,1.68,63,07-10-87,Glasgow,Hamilton Academical,Wigan Athletic,2011,English
+17,17,Emmerson Boyce,BRB,D,1.80,73,24-09-79,Aylesbury,Crystal Palace,Wigan Athletic,2011,English
+18,18,Conor Sammon,IRL,F,1.78,75,13-04-87,Dublin,Kilmarnock,Wigan Athletic,2011,English
+19,19,David Jones,ENG,M,1.85,80,04-11-84,Southport,Wolverhampton W,Wigan Athletic,2011,English
+20,20,Hugo Rodallega,COL,F,1.81,72,25-07-85,El Carmelo,Necaxa,Wigan Athletic,2011,English
+21,21,Mohamed Diamé,SEN,M,1.84,80,14-06-87,Créteil,Rayo Vallecano,Wigan Athletic,2011,English
+22,22,Jean Beausejour,CHI,M,1.79,80,01-06-84,Santiago,Birmingham C,Wigan Athletic,2011,English
+23,23,Ronnie Stam,NED,M,1.75,62,18-06-84,Breda,FC Twente,Wigan Athletic,2011,English
+24,24,Piscu,ESP,D,1.84,77,25-02-87,As Pontes de García Rodríguez,Deportivo La Coruña,Wigan Athletic,2011,English
+26,26,Ali Al-Habsi,OMA,G,1.94,79,30-12-81,Muscat,Bolton W,Wigan Athletic,2011,English
+31,31,Maynor Figueroa,HON,D,1.80,85,02-05-83,Juticalpa,Olimpia [HON],Wigan Athletic,2011,English
+1,1,Wayne Hennessey,WAL,G,1.83,73,24-01-87,Anglesey,None,Wolverhampton Wanderers,2011,English
+3,3,George Elokobi,CMR,D,1.85,84,31-01-86,Mogadishu,Colchester U,Wolverhampton Wanderers,2011,English
+4,4,David Edwards,WAL,M,1.80,72,03-02-86,Pontesbury,Luton T,Wolverhampton Wanderers,2011,English
+5,5,Richard Stearman,ENG,D,1.88,67,19-08-87,Wolverhampton,Leicester C,Wolverhampton Wanderers,2011,English
+6,6,Jody Craddock,ENG,D,1.83,78,25-07-75,Bromsgrove,Sunderland,Wolverhampton Wanderers,2011,English
+7,7,Michael Kightly,ENG,M,1.75,64,24-01-86,Basildon,Grays Ath,Wolverhampton Wanderers,2011,English
+8,8,Karl Henry,ENG,M,1.83,76,26-11-82,Wolverhampton,Stoke C,Wolverhampton Wanderers,2011,English
+9,9,Sylvan Ebanks-Blake,ENG,F,1.78,84,29-03-86,Cambridge,Plymouth Arg,Wolverhampton Wanderers,2011,English
+10,10,Steven Fletcher,SCO,F,1.85,76,26-03-87,Shrewsbury,Burnley,Wolverhampton Wanderers,2011,English
+11,11,Stephen Ward,IRL,D,1.85,77,20-08-85,Dublin,Bohemians,Wolverhampton Wanderers,2011,English
+12,12,Stephen Hunt,IRL,M,1.75,79,01-08-81,Portlaoise,Hull C,Wolverhampton Wanderers,2011,English
+13,13,Carl Ikeme,NGA,G,1.88,87,08-06-86,Sutton  Coldfield,None,Wolverhampton Wanderers,2011,English
+14,14,Roger Johnson,ENG,D,1.91,70,28-04-83,Ashford,Birmingham C,Wolverhampton Wanderers,2011,English
+15,15,Emmanuel Frimpong,GHA,M,1.83,83,10-01-92,Accra,Arsenal,Wolverhampton Wanderers,2011,English
+16,16,Christophe Berra,SCO,D,1.86,81,31-01-85,Edinburgh,Hearts,Wolverhampton Wanderers,2011,English
+17,17,Matthew Jarvis,ENG,M,1.73,70,22-05-86,Middlesbrough,Gillingham,Wolverhampton Wanderers,2011,English
+19,19,Adam Hammill,ENG,M,1.80,73,25-01-88,Liverpool,Barnsley,Wolverhampton Wanderers,2011,English
+20,20,Nenad Milija,SRB,M,1.88,81,30-04-83,Belgrade,Crvena Zvezda,Wolverhampton Wanderers,2011,English
+21,21,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris,Tottenham H,Wolverhampton Wanderers,2011,English
+22,22,Eggert Jónsson,ISL,M,1.88,72,18-08-88,Rekyjavik,Hearts,Wolverhampton Wanderers,2011,English
+23,23,Ronald Zubar,FRA,D,1.86,80,20-09-85,Les Abymes,Marseille,Wolverhampton Wanderers,2011,English
+24,24,Jamie O'Hara,ENG,M,1.80,78,25-09-86,South London,Tottenham H,Wolverhampton Wanderers,2011,English
+26,26,David Davis,ENG,M,1.77,82,20-02-91,Smethwick,None,Wolverhampton Wanderers,2011,English
+29,29,Kevin Doyle,IRL,F,1.80,79,18-09-83,Wexford,Reading,Wolverhampton Wanderers,2011,English
+31,31,Dorus de Vries,NED,G,1.80,76,29-12-80,Beverwijk,Swansea C,Wolverhampton Wanderers,2011,English
+32,32,Kevin Foley,IRL,D,1.75,70,01-11-84,Luton,Luton T,Wolverhampton Wanderers,2011,English
+35,35,Jake Cassidy,WAL,F,1.78,71,09-02-93,Glan Conwy,Airbus UK Broughton,Wolverhampton Wanderers,2011,English
+37,37,Anthony Forde,IRL,M,1.75,68,16-11-93,Limerick,None,Wolverhampton Wanderers,2011,English
+38,38,Louis Harris,ENG,M,1.83,79,07-12-92,Sutton Coldfield,None,Wolverhampton Wanderers,2011,English
+39,39,Michael Ihiekwe,ENG,D,1.86,77,20-11-92,Liverpool,Liverpool,Wolverhampton Wanderers,2011,English
+40,40,Ashley Hemmings,ENG,F,1.73,73,03-03-91,Wolverhampton,None,Wolverhampton Wanderers,2011,English
+41,41,Jack Price,ENG,M,1.91,87,19-12-92,Shrewsbury,None,Wolverhampton Wanderers,2011,English
+42,42,James Spray,ENG,F,1.83,77,02-12-92,Birmingham,None,Wolverhampton Wanderers,2011,English
+43,43,Jamie Reckord,ENG,D,1.78,75,09-03-92,Wolverhampton,None,Wolverhampton Wanderers,2011,English
+44,44,Nathaniel Mendez-Laing,ENG,M,1.78,75,15-04-92,Birmingham,None,Wolverhampton Wanderers,2011,English
+45,45,Aaron McCarey,IRL,G,1.85,74,14-01-92,Monaghan,Monaghan U,Wolverhampton Wanderers,2011,English
+46,46,Johnny Gorman,NIR,M,1.76,70,26-10-92,Sheffield,Manchester U,Wolverhampton Wanderers,2011,English
+47,47,Ethan Ebanks-Landell,ENG,D,1.88,88,12-12-92,Oldbury,None,Wolverhampton Wanderers,2011,English

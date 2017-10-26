@@ -1,0 +1,765 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+3,3,Kieran Gibbs,ENG,D,1.80,70,26-09-89,Lambeth,None,Arsenal,2015,English
+4,4,Per Mertesacker,GER,D,1.98,90,29-09-84,Hannover,Werder Bremen,Arsenal,2015,English
+5,5,Gabriel Paulista,BRA,D,1.85,72,26-11-90,São Paulo,Villarreal,Arsenal,2015,English
+6,6,Laurent Koscielny,FRA,D,1.86,75,10-09-85,Tulle,Lorient,Arsenal,2015,English
+7,7,Tomá Rosický,CZE,M,1.78,67,04-10-80,Prague,Borussia Dortmund,Arsenal,2015,English
+8,8,Mikel Arteta,ESP,M,1.75,69,26-03-82,San Sebastián,Everton,Arsenal,2015,English
+10,10,Jack Wilshere,ENG,M,1.70,65,01-01-92,Stevenage,None,Arsenal,2015,English
+11,11,Mesut Özil,GER,M,1.82,73,15-10-88,Gelsenkirchen,Real Madrid,Arsenal,2015,English
+12,12,Olivier Giroud,FRA,F,1.92,88,30-09-86,Chambéry,Montpellier,Arsenal,2015,English
+13,13,David Ospina,COL,G,1.81,76,31-08-88,Medellín,Nice,Arsenal,2015,English
+14,14,Theo Walcott,ENG,F,1.75,68,16-03-89,Stanmore,Southampton,Arsenal,2015,English
+15,15,Alex Oxlade-Chamberlain,ENG,M,1.80,70,15-08-93,Portsmouth,Southampton,Arsenal,2015,English
+16,16,Aaron Ramsey,WAL,M,1.78,76,26-12-90,Caerphilly,Cardiff C,Arsenal,2015,English
+17,17,Alexis Sánchez,CHI,F,1.68,62,19-12-88,Tocopilla,Barcelona,Arsenal,2015,English
+18,18,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona,Málaga,Arsenal,2015,English
+19,19,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera,Málaga,Arsenal,2015,English
+20,20,Mathieu Flamini,FRA,M,1.78,67,07-03-84,Marseille,Milan,Arsenal,2015,English
+21,21,Calum Chambers,ENG,D,1.82,66,20-01-95,Petersfield,Southampton,Arsenal,2015,English
+23,23,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester,Manchester U,Arsenal,2015,English
+24,24,Héctor Bellerín,ESP,D,1.77,74,19-03-95,Barcelona,Barcelona,Arsenal,2015,English
+27,27,Serge Gnabry,GER,M,1.73,73,14-07-95,Stuttgart,Stuttgart,Arsenal,2015,English
+28,28,Joel Campbell,CRC,F,1.78,70,26-06-92,San José [CRC],Deportivo Saprissa,Arsenal,2015,English
+33,33,Petr Čech,CZE,G,1.96,90,20-05-82,Plzeň,Chelsea,Arsenal,2015,English
+34,34,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval,Laval,Arsenal,2015,English
+35,35,Mohamed Elneny,EGY,M,1.80,70,11-07-92,Mahalla,Basel,Arsenal,2015,English
+36,36,Ismaël Bennacer,FRA,M,1.75,70,01-12-97,Arles,Arles-Avignon,Arsenal,2015,English
+37,37,Krystian Bielik,POL,M,1.89,78,04-01-98,Konin,Legia Warszawa,Arsenal,2015,English
+38,38,Dan Crowley,ENG,M,1.75,68,03-07-97,Coventry,Aston Villa,Arsenal,2015,English
+39,39,Kristopher da Graca,SWE,D,1.90,72,16-01-98,Bergsjön,Hisingsbacka FC,Arsenal,2015,English
+41,42,Kaylen Hinds,ENG,F,1.85,68,28-01-98,Brent,Leyton Orient,Arsenal,2015,English
+42,43,Ryan Huddart,ENG,G,1.96,94,06-03-97,Broadstairs,Charlton Ath,Arsenal,2015,English
+43,44,Dejan Iliev,MKD,G,1.95,87,25-02-95,Strumica,Belasica,Arsenal,2015,English
+44,45,Alex Iwobi,NGA,M,1.80,75,03-05-96,Lagos,None,Arsenal,2015,English
+45,46,Chiori Johnson,ENG,D,,,05-10-97,Lewisham,None,Arsenal,2015,English
+46,48,Hugo Keto,FIN,G,1.91,70,09-02-98,Helsinki,HJK Helsinki,Arsenal,2015,English
+47,49,Matt Macey,ENG,G,1.98,81,09-09-94,Bristol,Bristol R,Arsenal,2015,English
+48,50,Stephy Mavididi,ENG,F,1.82,71,31-05-98,Derby,None,Arsenal,2015,English
+49,51,Tafari Moore,ENG,D,1.73,66,05-07-97,Brent,None,Arsenal,2015,English
+50,52,Stefan OConnor,ENG,D,1.86,78,23-01-97,Croydon,None,Arsenal,2015,English
+51,53,Julio Pleguezuelo,ESP,D,1.75,70,26-01-97,Palma de Mallorca,Barcelona,Arsenal,2015,English
+52,54,Jeff Reine-Adelaide,FRA,M,1.84,75,17-01-98,Champigny-sur-Marne,Lens,Arsenal,2015,English
+53,55,Tyrell Robinson,ENG,M,,,16-09-97,Basildon,None,Arsenal,2015,English
+54,56,Ben Sheaf,ENG,M,1.85,64,05-02-98,Dartford,West Ham U,Arsenal,2015,English
+55,59,Chris Willock,ENG,F,1.78,67,31-01-98,Waltham Forest,None,Arsenal,2015,English
+56,60,Marcus McGuane,ENG,M,,,02-02-99,Greenwich,None,Arsenal,2015,English
+57,61,Marc Bola,ENG,D,1.85,78,09-12-97,Greenwich,None,Arsenal,2015,English
+58,62,Tolaji Bola,ENG,D,1.80,80,04-01-99,Camden Town,None,Arsenal,2015,English
+59,63,Ilias Chatzitheodoridis,GRE,D,1.78,67,05-11-97,Katerini,None,Arsenal,2015,English
+60,64,Josh Dasilva,ENG,F,1.75,68,23-10-98,Redbridge,None,Arsenal,2015,English
+61,65,Harry Donovan,ENG,M,1.78,64,30-01-98,Harold Wood,None,Arsenal,2015,English
+62,66,Vlad Dragomir,ROU,M,1.78,67,24-04-99,Timișoara,ACS Poli Timișoara,Arsenal,2015,English
+63,67,Aaron Eyoma,ENG,M,1.75,70,22-09-97,Hackney,None,Arsenal,2015,English
+64,68,Yassin Fortune,FRA,F,1.78,76,30-01-99,Aubervilliers,Lens,Arsenal,2015,English
+65,69,Charlie Gilmour,ENG,M,,,11-02-99,Brighton,None,Arsenal,2015,English
+66,70,Savvas Mourgos,GRE,M,,,16-03-98,Amarousio,None,Arsenal,2015,English
+67,71,Edward Nketiah,ENG,F,,,30-05-99,Lewisham,None,Arsenal,2015,English
+68,72,Jordi Osei-Tutu,ENG,D,,,02-10-98,Slough,Reading,Arsenal,2015,English
+69,73,Kostas Pileas,CYP,D,,,11-12-98,,None,Arsenal,2015,English
+70,74,Nathan Tella,ENG,M,,,05-07-99,Lambeth,None,Arsenal,2015,English
+71,75,Donyell Malen,NED,F,1.76,68,09-01-99,Wieringen,Ajax,Arsenal,2015,English
+72,76,Reiss Nelson,ENG,M,1.75,70,10-12-99,Lambeth,None,Arsenal,2015,English
+73,77,Jordan Perrin,ENG,G,,,17-09-99,,None,Arsenal,2015,English
+74,79,Josh Benson,ENG,M,,,05-12-99,,None,Arsenal,2015,English
+75,80,Emile Smith-Rowe,ENG,M,,,28-07-00,,None,Arsenal,2015,English
+76,81,Joe Willock,ENG,M,,,20-08-99,Waltham Forest,None,Arsenal,2015,English
+77,82,João Virgínia,POR,G,1.90,80,10-10-99,Faro,Benfica,Arsenal,2015,English
+1,1,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen,Chivas USA,Aston Villa,2015,English
+4,4,Micah Richards,ENG,D,1.80,83,24-06-88,Birmingham,Manchester C,Aston Villa,2015,English
+5,5,Jores Okore,DEN,D,1.83,80,11-08-92,Abidjan,FC Nordsjælland,Aston Villa,2015,English
+6,6,Ciaran Clark,IRL,D,1.88,76,26-09-89,Harrow,None,Aston Villa,2015,English
+7,7,Leandro Bacuna,NED,M,1.87,77,21-08-91,Groningen,FC Groningen,Aston Villa,2015,English
+8,8,Idrissa Gueye,SEN,M,1.74,64,26-09-89,Dakar,Lille,Aston Villa,2015,English
+9,9,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath,Manchester C,Aston Villa,2015,English
+11,11,Gabriel Agbonlahor,ENG,F,1.80,79,13-10-86,Birmingham,None,Aston Villa,2015,English
+15,15,Ashley Westwood,ENG,M,1.75,67,01-04-90,Nantwich,Crewe Alex,Aston Villa,2015,English
+16,16,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham,WBA,Aston Villa,2015,English
+17,17,Jordan Veretout,FRA,M,1.76,66,01-03-93,Ancenis,Nantes,Aston Villa,2015,English
+18,18,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich,Fulham,Aston Villa,2015,English
+19,19,Jordan Ayew,GHA,F,1.82,81,11-09-91,Marseille,Lorient,Aston Villa,2015,English
+20,20,Adama Traoré,ESP,F,1.78,75,25-01-96,L'Hospitalet de Llobregat,Barcelona,Aston Villa,2015,English
+21,21,Alan Hutton,SCO,D,1.85,72,30-11-84,Glasgow,Tottenham H,Aston Villa,2015,English
+23,23,Jordan Amavi,FRA,D,1.76,70,09-03-94,Toulon,Nice,Aston Villa,2015,English
+24,24,Carlos Sánchez,COL,M,1.82,82,06-02-86,Bogotá,Elche,Aston Villa,2015,English
+25,25,Carles Gil,ESP,M,1.70,69,22-11-92,Valencia,Valencia,Aston Villa,2015,English
+26,26,Lewis Kinsella,ENG,D,1.75,70,02-09-94,Watford,Arsenal,Aston Villa,2015,English
+27,27,Libor Kozák,CZE,F,1.93,82,30-05-89,Brumov-Bylnice,Lazio,Aston Villa,2015,English
+28,28,Charles N'Zogbia,FRA,M,1.70,70,28-05-86,Harfleur,Wigan Ath,Aston Villa,2015,English
+29,29,Rushian Hepburn-Murphy,ENG,F,1.73,59,19-09-98,Birmingham,None,Aston Villa,2015,English
+30,30,André Green,ENG,M,1.80,71,02-05-98,Solihull,None,Aston Villa,2015,English
+31,31,Mark Bunn,ENG,G,1.83,77,16-11-84,Southgate,Norwich C,Aston Villa,2015,English
+34,34,Easah Suliman,ENG,D,1.88,80,26-01-98,Birmingham,None,Aston Villa,2015,English
+35,35,Corey Blackett-Taylor,ENG,F,1.70,67,23-09-97,Birmingham,None,Aston Villa,2015,English
+36,36,Jerell Sellars,ENG,F,1.73,73,28-04-95,Lincoln,Lincoln C,Aston Villa,2015,English
+38,38,Jordan Lyden,AUS,M,1.75,72,01-01-97,Perth [AUS],None,Aston Villa,2015,English
+39,39,Rudy Gestede,BEN,F,1.93,86,10-10-88,Essey-lès-Nancy,Blackburn R,Aston Villa,2015,English
+40,40,Jack Grealish,ENG,M,1.75,68,10-09-95,Birmingham,None,Aston Villa,2015,English
+41,41,Bradley Watkins,ENG,G,1.88,80,11-09-94,Gravesend,None,Aston Villa,2015,English
+42,42,Niall Mason,ENG,D,1.80,78,10-01-97,Brighton,Southampton,Aston Villa,2015,English
+43,43,Aly Cissokho,FRA,D,1.81,75,15-09-87,Blois,Valencia,Aston Villa,2015,English
+44,45,Keinan Davis,ENG,F,1.68,68,01-06-98,Stevenage,Biggleswade T,Aston Villa,2015,English
+45,46,Kevin Toner,IRL,D,1.80,74,18-07-96,Ashbourne,Home Farm,Aston Villa,2015,English
+1,1,Artur Boruc,POL,G,1.93,88,20-02-80,Siedlce,Southampton,Bournemouth,2015,English
+2,2,Simon Francis,ENG,D,1.83,79,16-02-85,Nottingham,Charlton Ath,Bournemouth,2015,English
+3,3,Steve Cook,ENG,D,1.85,82,19-04-91,Hastings,Brighton & HA,Bournemouth,2015,English
+4,4,Dan Gosling,ENG,M,1.78,71,02-02-90,Brixham,Newcastle U,Bournemouth,2015,English
+5,5,Tommy Elphick,ENG,D,1.88,84,07-09-87,Brighton,Brighton & HA,Bournemouth,2015,English
+6,6,Andrew Surman,ENG,M,1.78,72,20-08-86,Johannesburg,Norwich C,Bournemouth,2015,English
+7,7,Marc  Pugh,ENG,M,1.80,72,02-04-87,Bacup,Hereford U,Bournemouth,2015,English
+8,8,Harry Arter,IRL,M,1.75,73,28-12-89,Eltham,Woking,Bournemouth,2015,English
+9,9,Tokelo Rantie,RSA,F,1.72,68,08-09-90,Parys,Malmö FF,Bournemouth,2015,English
+10,10,Max Gradel,CIV,F,1.80,70,30-11-87,Abidjan,St-Etienne,Bournemouth,2015,English
+11,11,Charlie Daniels,ENG,M,1.78,75,07-09-86,Harlow,Leyton Orient,Bournemouth,2015,English
+12,12,Juan Manuel Iturbe,PAR,F,1.72,64,04-06-93,Capital Federal,Roma,Bournemouth,2015,English
+13,13,Callum Wilson,ENG,F,1.80,66,27-02-92,Coventry,Coventry C,Bournemouth,2015,English
+14,14,Tyrone Mings,ENG,D,1.91,80,13-03-93,Bath,Ipswich T,Bournemouth,2015,English
+15,15,Adam Smith,ENG,D,1.73,67,29-04-91,Leytonstone,Tottenham H,Bournemouth,2015,English
+16,16,Shaun MacDonald,WAL,M,1.85,76,17-06-88,Swansea,Swansea C,Bournemouth,2015,English
+17,17,Joshua King,NOR,F,1.80,74,15-01-92,Oslo,Blackburn R,Bournemouth,2015,English
+19,19,Junior Stanislas,ENG,M,1.83,76,26-11-89,Kidbrooke,Burnley,Bournemouth,2015,English
+20,20,Benik Afobe,ENG,F,1.79,70,12-02-93,Leyton,Wolverhampton W,Bournemouth,2015,English
+21,21,Ryan Allsop,ENG,G,1.88,80,17-06-92,Birmingham,Leyton Orient,Bournemouth,2015,English
+23,23,Adam Federici,AUS,G,1.88,90,31-01-85,Nowra,Reading,Bournemouth,2015,English
+25,25,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet,Everton,Bournemouth,2015,English
+27,27,Glenn Murray,ENG,F,1.83,80,25-09-83,Workington,Crystal Palace,Bournemouth,2015,English
+28,28,Lewis Grabban,ENG,F,1.83,71,12-01-88,Croydon,Norwich C,Bournemouth,2015,English
+29,29,Rhoys Wiggins,WAL,D,1.73,72,04-11-87,Hillingdon,Sheffield W,Bournemouth,2015,English
+30,30,Matt Ritchie,SCO,M,1.73,70,10-09-89,Gosport,Swindon T,Bournemouth,2015,English
+32,32,Eunan O'Kane,IRL,M,1.73,84,10-07-90,Derry,Torquay U,Bournemouth,2015,English
+34,34,Harry Cornick,ENG,F,1.80,84,06-03-95,Poole,Christchurch,Bournemouth,2015,English
+36,36,Matt Butcher,ENG,M,1.78,83,14-05-97,Reading,None,Bournemouth,2015,English
+37,37,Corey Jordan,ENG,D,1.85,75,04-03-99,Bournemouth,None,Bournemouth,2015,English
+39,39,Ben Whitfield,ENG,M,1.65,62,28-02-96,Bingley,Guiseley,Bournemouth,2015,English
+40,40,Ollie Harfield,ENG,D,1.78,78,09-01-98,Southampton,None,Bournemouth,2015,English
+41,41,Pat O'Flaherty,ENG,G,1.96,72,08-05-97,Southampton,None,Bournemouth,2015,English
+42,42,Jack Simpson,ENG,D,1.78,83,08-01-97,Wandsworth,None,Bournemouth,2015,English
+43,43,Callum Buckley,ENG,D,1.75,76,12-01-96,Basingstoke,None,Bournemouth,2015,English
+44,44,Sam Surridge,ENG,F,1.91,77,28-07-98,Slough,None,Bournemouth,2015,English
+45,45,Jordan Holmes,AUS,G,1.86,82,08-05-97,Sydney,None,Bournemouth,2015,English
+46,46,Jordan Green,ENG,F,1.68,72,22-02-95,New Cross,Banbury U,Bournemouth,2015,English
+47,47,Jordan Lee,ENG,D,1.78,80,31-12-96,Bournemouth,None,Bournemouth,2015,English
+48,48,Josh Wakefield,ENG,M,1.80,72,06-11-93,Frimley,None,Bournemouth,2015,English
+49,49,Callum Stanton,ENG,G,1.85,64,02-01-98,Southampton,None,Bournemouth,2015,English
+1,1,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje,Stoke C,Chelsea,2015,English
+2,2,Branislav Ivanović,SRB,D,1.88,86,22-02-84,Sremska Mitrovica,Lokomotiv Moscow,Chelsea,2015,English
+4,4,Cesc Fàbregas,ESP,M,1.77,69,04-05-87,Arenys de Mar,Barcelona,Chelsea,2015,English
+5,5,Kurt Zouma,FRA,D,1.87,85,27-10-94,Lyon,St-Etienne,Chelsea,2015,English
+6,6,Baba Rahman,GHA,D,1.79,70,02-07-94,Tamale,Augsburg,Chelsea,2015,English
+8,8,Oscar,BRA,M,1.79,66,09-09-91,Americana,Internacional,Chelsea,2015,English
+9,9,Radamel Falcao García,COL,F,1.77,72,10-02-86,Santa Marta,Monaco,Chelsea,2015,English
+10,10,Eden Hazard,BEL,M,1.70,69,07-01-91,La Louvière,Lille,Chelsea,2015,English
+11,11,Alexandre Pato,BRA,F,1.79,71,02-09-89,Pato Branco,Corinthians,Chelsea,2015,English
+12,12,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos,Lyn,Chelsea,2015,English
+13,13,Thibaut Courtois,BEL,G,1.99,88,11-05-92,Bree,KRC Genk,Chelsea,2015,English
+14,14,Bertrand Traoré,BFA,M,1.80,72,06-09-95,Bobo-Dioulasso,Auxerre,Chelsea,2015,English
+16,16,Kenedy,BRA,F,1.81,77,08-02-96,Santa Rita do Sapucaí,Fluminense,Chelsea,2015,English
+17,17,Pedro,ESP,F,1.69,64,28-07-87,Santa Cruz de Tenerife,Barcelona,Chelsea,2015,English
+18,18,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon,QPR,Chelsea,2015,English
+19,19,Diego Costa,ESP,F,1.86,78,07-10-88,Lagarto,Atlético Madrid,Chelsea,2015,English
+20,20,Matt Miazga,USA,D,1.90,84,19-07-95,Clifton,New York Red Bulls,Chelsea,2015,English
+21,21,Nemanja Matić,SRB,M,1.94,82,01-08-88,abac,Benfica,Chelsea,2015,English
+22,22,Willian,BRA,M,1.74,70,09-08-88,Ribeirão Pires,Anzhi Makhachkala,Chelsea,2015,English
+24,24,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield,Bolton W,Chelsea,2015,English
+26,26,John Terry,ENG,D,1.86,91,07-12-80,Barking,None,Chelsea,2015,English
+28,28,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona,Marseille,Chelsea,2015,English
+32,32,Marco Amelia,ITA,G,1.90,90,02-04-82,Frascati,Perugia,Chelsea,2015,English
+33,33,Mitchell Beeney,ENG,G,1.82,78,03-10-95,Leeds,None,Chelsea,2015,English
+34,34,Ola Aina,ENG,D,1.75,65,08-10-96,Southwark,None,Chelsea,2015,English
+36,36,Ruben Loftus-Cheek,ENG,M,1.93,71,23-01-96,Lewisham,None,Chelsea,2015,English
+37,37,Jake Clarke-Salter,ENG,D,1.88,70,22-09-97,Carshalton,None,Chelsea,2015,English
+38,38,Kasey Palmer,ENG,M,1.80,68,09-11-96,London,Charlton Ath,Chelsea,2015,English
+39,39,Fankaty Dabo,ENG,D,1.81,77,11-10-95,Southwark,None,Chelsea,2015,English
+40,40,Bradley Collins,ENG,G,1.84,69,18-02-97,Southampton,None,Chelsea,2015,English
+41,41,Charlie Colkett,ENG,M,1.76,65,04-09-96,Newham,None,Chelsea,2015,English
+42,42,Tammy Abraham,ENG,F,1.90,72,02-10-97,Camberwell,None,Chelsea,2015,English
+43,43,Fikayo Tomori,CAN,D,1.84,75,19-12-97,Calgary,None,Chelsea,2015,English
+1,1,Julián Speroni,ARG,G,1.86,87,18-05-79,Buenos Aires,Dundee,Crystal Palace,2015,English
+2,2,Joel Ward,ENG,D,1.88,76,29-10-89,Emsworth,Portsmouth,Crystal Palace,2015,English
+3,3,Adrian Mariappa,JAM,D,1.80,70,03-10-86,Harrow,Reading,Crystal Palace,2015,English
+4,4,Brede Hangeland,NOR,D,1.95,92,20-06-81,Houston,Fulham,Crystal Palace,2015,English
+5,5,Patrick McCarthy,IRL,D,1.85,80,31-05-83,Dublin,Charlton Ath,Crystal Palace,2015,English
+6,6,Scott Dann,ENG,D,1.88,76,14-02-87,Liverpool,Blackburn R,Crystal Palace,2015,English
+7,7,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Paris St-Germain,Crystal Palace,2015,English
+9,9,Fraizer Campbell,ENG,F,1.80,78,13-09-87,Huddersfield,Cardiff C,Crystal Palace,2015,English
+10,10,Yannick Bolasie,COD,M,1.88,84,24-05-89,Kinshasa,Bristol C,Crystal Palace,2015,English
+11,11,Wilfried Zaha,ENG,F,1.80,66,10-11-92,Abidjan,Manchester U,Crystal Palace,2015,English
+12,12,Alex McCarthy,ENG,G,1.93,79,03-12-89,Guildford,QPR,Crystal Palace,2015,English
+13,13,Wayne Hennessey,WAL,G,1.83,73,24-01-87,Anglesey,Wolverhampton W,Crystal Palace,2015,English
+14,14,Lee Chung-Yong,KOR,M,1.80,69,02-07-88,Seoul,Bolton W,Crystal Palace,2015,English
+15,15,Mile Jedinak,AUS,M,1.89,88,03-08-84,Sydney,Gençlerbirliği,Crystal Palace,2015,English
+16,16,Dwight Gayle,ENG,F,1.77,73,20-10-90,Walthamstow,Peterborough U,Crystal Palace,2015,English
+18,18,James McArthur,SCO,M,1.68,63,07-10-87,Glasgow,Wigan Ath,Crystal Palace,2015,English
+19,19,Ezekiel Fryers,ENG,D,1.83,75,09-09-92,Manchester,Tottenham H,Crystal Palace,2015,English
+20,20,Jonathan Williams,WAL,M,1.68,60,09-10-93,Pembury,None,Crystal Palace,2015,English
+21,21,Connor Wickham,ENG,F,1.91,73,31-03-93,Hereford,Sunderland,Crystal Palace,2015,English
+22,22,Jordon Mutch,ENG,M,1.75,65,02-12-91,Birmingham,QPR,Crystal Palace,2015,English
+23,23,Pape N'Diaye Souaré,SEN,D,1.78,68,06-06-90,Mbao,Lille,Crystal Palace,2015,English
+25,25,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé,Tottenham H,Crystal Palace,2015,English
+26,26,Bakary Sako,MLI,M,1.80,76,24-04-88,Ivry-sur-Seine,Wolverhampton W,Crystal Palace,2015,English
+27,27,Damien Delaney,IRL,D,1.91,89,29-07-81,Cork,Ipswich T,Crystal Palace,2015,English
+28,28,Joe Ledley,WAL,M,1.83,73,23-01-87,Cardiff,Celtic,Crystal Palace,2015,English
+29,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens,Arsenal,Crystal Palace,2015,English
+30,30,Chris Kettings,SCO,G,1.88,78,25-10-92,Bolton,Blackpool,Crystal Palace,2015,English
+34,34,Martin Kelly,ENG,D,1.91,77,27-04-90,Bolton,Liverpool,Crystal Palace,2015,English
+36,36,Luke Dreher,ENG,M,1.83,76,27-11-98,Epsom,None,Crystal Palace,2015,English
+38,38,Hiram Boateng,ENG,M,1.87,80,08-01-96,Wandsworth,None,Crystal Palace,2015,English
+41,42,Jason Puncheon,ENG,M,1.73,71,26-06-86,Croydon,Southampton,Crystal Palace,2015,English
+42,43,Sullay Kaikai,ENG,F,1.82,73,26-08-95,Southwark,None,Crystal Palace,2015,English
+43,44,Luke Croll,ENG,D,1.85,76,10-01-95,Lambeth,None,Crystal Palace,2015,English
+44,45,David Gregory,ENG,G,1.85,70,01-10-94,Croydon,None,Crystal Palace,2015,English
+45,48,Connor Dymond,ENG,M,1.75,70,12-09-94,Greenwich,None,Crystal Palace,2015,English
+1,1,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés,Atlético Madrid,Everton,2015,English
+2,2,Tony Hibbert,ENG,D,1.73,72,20-02-81,Liverpool,None,Everton,2015,English
+3,3,Leighton Baines,ENG,D,1.70,75,11-12-84,Liverpool,Wigan Ath,Everton,2015,English
+4,4,Darron Gibson,IRL,M,1.80,83,25-10-87,Derry,Manchester U,Everton,2015,English
+5,5,John Stones,ENG,D,1.88,70,28-05-94,Barnsley,Barnsley,Everton,2015,English
+6,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale,Sheffield U,Everton,2015,English
+8,8,Bryan Oviedo,CRC,M,1.72,70,18-02-90,Alajuela,FC København,Everton,2015,English
+9,9,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama,Wigan Ath,Everton,2015,English
+10,10,Romelu Lukaku,BEL,F,1.90,94,13-05-93,Antwerp,Chelsea,Everton,2015,English
+11,11,Kevin Mirallas,BEL,F,1.78,72,05-10-87,Liège,Olympiakos,Everton,2015,English
+12,12,Aaron Lennon,ENG,M,1.65,63,16-04-87,Chapeltown,Tottenham H,Everton,2015,English
+14,14,Oumar Niasse,SEN,F,1.88,75,18-04-90,Ouakam,Lokomotiv Moscow,Everton,2015,English
+15,15,Tom Cleverley,ENG,M,1.75,67,12-08-89,Basingstoke,Manchester U,Everton,2015,English
+16,16,James McCarthy,IRL,M,1.80,72,12-11-90,Glasgow,Wigan Ath,Everton,2015,English
+17,17,Muhamed Beić,BIH,M,1.77,75,10-09-92,Berlin,Ferencváros,Everton,2015,English
+18,18,Gareth Barry,ENG,M,1.83,79,23-02-81,Hastings,Manchester C,Everton,2015,English
+19,19,Gerard Deulofeu,ESP,F,1.79,60,13-03-94,Barcelona,Barcelona,Everton,2015,English
+20,20,Ross Barkley,ENG,M,1.89,76,05-12-93,Liverpool,None,Everton,2015,English
+21,21,Leon Osman,ENG,M,1.73,62,17-05-81,Billinge,None,Everton,2015,English
+22,22,Steven Pienaar,RSA,M,1.70,66,17-03-82,Johannesburg,Tottenham H,Everton,2015,English
+23,23,Séamus Coleman,IRL,D,1.93,67,11-10-88,Donegal,Sligo R,Everton,2015,English
+24,24,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick,Manchester  U,Everton,2015,English
+25,25,Ramiro Funes Mori,ARG,D,1.85,74,03-05-91,Mendoza,River Plate,Everton,2015,English
+27,27,Tyias Browning,ENG,D,1.81,76,27-05-94,Liverpool,None,Everton,2015,English
+28,28,Leandro Rodríguez,URU,F,1.79,70,19-11-92,Montevideo,River Plate [URU],Everton,2015,English
+30,30,Mason Holgate,ENG,D,1.84,63,22-10-96,Doncaster,Barnsley,Everton,2015,English
+32,32,Brendan Galloway,ENG,D,1.88,87,17-03-96,Harare,MK Dons,Everton,2015,English
+33,33,Callum Connolly,ENG,D,1.83,70,23-09-97,Liverpool,None,Everton,2015,English
+36,36,Jindřich Staněk,CZE,G,1.92,84,27-04-96,Strakonice,Sparta Prague,Everton,2015,English
+38,38,Matthew Pennington,ENG,D,1.85,77,06-10-94,Warrington,None,Everton,2015,English
+40,40,Sam Byrne,IRL,F,1.84,75,23-07-95,Dublin,Manchester U,Everton,2015,English
+41,41,Tom Davies,ENG,M,1.80,70,30-06-98,Liverpool,None,Everton,2015,English
+42,42,Ryan Ledson,ENG,M,1.75,69,19-08-97,Liverpool,None,Everton,2015,English
+43,43,Jonjoe Kenny,ENG,D,1.76,67,15-03-97,Kirkdale,None,Everton,2015,English
+44,45,Russell Griffiths,ENG,G,1.88,85,13-04-96,Gravesend,None,Everton,2015,English
+45,46,Joe Williams,ENG,M,1.78,66,08-12-95,Liverpool,None,Everton,2015,English
+46,48,Courtney Duffus,ENG,F,1.70,76,24-10-95,Cheltenham,Cheltenham T,Everton,2015,English
+47,49,Antonee Robinson,ENG,D,1.83,73,08-08-97,Milton Keynes,None,Everton,2015,English
+48,50,Gethin Jones,WAL,D,1.78,74,13-10-95,Perth [AUS],None,Everton,2015,English
+49,51,Kieran Dowell,ENG,M,1.75,59,10-10-97,Ormskirk,None,Everton,2015,English
+50,52,Liam Walsh,ENG,M,1.78,66,15-09-97,Whiston,None,Everton,2015,English
+51,54,Connor Hunt,ENG,G,1.89,81,13-04-96,Warrington,Blackpool,Everton,2015,English
+52,56,Mateusz Hewelt,POL,G,1.82,75,23-09-96,Gdynia,Shelbourne,Everton,2015,English
+1,1,Kasper Schmeichel,DEN,G,1.81,78,05-11-86,Copenhagen,Leeds U,Leicester City,2015,English
+4,4,Daniel Drinkwater,ENG,M,1.78,70,05-03-90,Manchester,Manchester U,Leicester City,2015,English
+5,5,Wes Morgan,JAM,D,1.85,94,21-01-84,Nottingham,Nottingham F,Leicester City,2015,English
+6,6,Robert Huth,GER,D,1.91,88,18-08-84,Berlin,Stoke C,Leicester City,2015,English
+7,7,Dean Hammond,ENG,M,1.83,74,07-03-83,Hastings,Southampton,Leicester City,2015,English
+8,8,Matthew James,ENG,M,1.78,74,22-07-91,Bacup,Manchester U,Leicester City,2015,English
+9,9,Jamie Vardy,ENG,F,1.78,76,11-01-87,Sheffield,Fleetwood T,Leicester City,2015,English
+10,10,Andy King,WAL,M,1.83,74,29-10-88,Maidenhead,None,Leicester City,2015,English
+11,11,Marc Albrighton,ENG,M,1.75,67,18-11-89,Tamworth,Aston Villa,Leicester City,2015,English
+12,12,Ben Hamer,ENG,G,1.80,78,20-11-87,Taunton,Charlton Ath,Leicester City,2015,English
+13,13,Daniel Amartey,GHA,M,1.82,76,01-12-94,Accra,FC København,Leicester City,2015,English
+14,14,Ngolo Kanté,FRA,M,1.70,70,29-03-91,Paris,Caen,Leicester City,2015,English
+15,15,Jeffrey Schlupp,GHA,F,1.78,72,23-12-92,Hamburg,None,Leicester City,2015,English
+17,17,Danny Simpson,ENG,D,1.73,74,04-01-87,Salford,QPR,Leicester City,2015,English
+18,18,Liam Moore,ENG,D,1.86,86,31-01-93,Leicester,None,Leicester City,2015,English
+20,20,Shinji Okazaki,JPN,F,1.73,70,16-04-86,Hyogo,Mainz,Leicester City,2015,English
+22,22,Demarai Gray,ENG,M,1.79,66,28-06-96,Birmingham,Birmingham C,Leicester City,2015,English
+23,23,Leonardo Ulloa,ARG,F,1.85,75,26-07-86,Río Negro,Brighton & HA,Leicester City,2015,English
+24,24,Nathan Dyer,ENG,M,1.65,57,29-11-87,Trowbridge,Swansea C,Leicester City,2015,English
+26,26,Riyad Mahrez,ALG,M,1.78,62,21-02-91,Sarcelles,Le Havre,Leicester City,2015,English
+27,27,Marcin Wasilewski,POL,D,1.86,88,09-06-80,Kraków,Anderlecht,Leicester City,2015,English
+28,28,Christian Fuchs,AUT,D,1.86,80,07-04-86,Pitten,Schalke,Leicester City,2015,English
+30,30,Ben Chilwell,ENG,D,1.78,76,21-12-96,Milton Keynes,None,Leicester City,2015,English
+31,31,Daniel Iversen,DEN,G,1.93,80,19-07-97,,Esbjerg,Leicester City,2015,English
+32,32,Mark Schwarzer,AUS,G,1.94,85,06-10-72,Sydney,Chelsea,Leicester City,2015,English
+33,33,Gökhan Inler,SUI,M,1.82,80,27-06-84,Olten,Napoli,Leicester City,2015,English
+35,35,Jacob Blyth,ENG,F,1.91,77,14-08-92,Nuneaton,Leamington,Leicester City,2015,English
+36,36,Joe Dodoo,ENG,F,1.83,70,01-06-95,Nottingham,None,Leicester City,2015,English
+39,39,André Olukanmi,ENG,M,1.83,69,01-12-97,Milton Keynes,None,Leicester City,2015,English
+41,41,Johnny Maddison,ENG,G,1.83,76,04-09-94,Chester-le-Street,Crawley T,Leicester City,2015,English
+2,2,Nathaniel Clyne,ENG,D,1.75,67,05-04-91,Stockwell,Southampton,Liverpool,2015,English
+3,3,José Enrique,ESP,D,1.84,82,23-01-86,Valencia,Newcastle U,Liverpool,2015,English
+4,4,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké,Manchester C,Liverpool,2015,English
+6,6,Dejan Lovren,CRO,D,1.88,86,05-07-89,Karlovac,Southampton,Liverpool,2015,English
+7,7,James Milner,ENG,M,1.70,67,04-01-86,Wortley,Manchester C,Liverpool,2015,English
+9,9,Christian Benteke,BEL,F,1.90,83,03-12-90,Kinshasa,Aston Villa,Liverpool,2015,English
+10,10,Philippe Coutinho,BRA,M,1.71,68,12-06-92,Rio de Janeiro,Internazionale,Liverpool,2015,English
+11,11,Roberto Firmino,BRA,F,1.80,76,02-10-91,Maceió,1899 Hoffenheim,Liverpool,2015,English
+12,12,Joe Gomez,ENG,D,1.85,77,23-05-97,Catford,Charlton Ath,Liverpool,2015,English
+14,14,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland,Sunderland,Liverpool,2015,English
+15,15,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham,Chelsea,Liverpool,2015,English
+17,17,Mamadou Sakho,FRA,D,1.87,83,13-02-90,Paris,Paris St-Germain,Liverpool,2015,English
+18,18,Alberto Moreno,ESP,D,1.71,64,05-07-92,Seville,Sevilla,Liverpool,2015,English
+19,19,Steven Caulker,ENG,D,1.90,76,29-12-91,Feltham,QPR,Liverpool,2015,English
+20,20,Adam Lallana,ENG,M,1.73,73,10-05-88,St Albans,Southampton,Liverpool,2015,English
+21,21,Lucas Leiva,BRA,M,1.79,74,09-01-87,Dourados,Grêmio,Liverpool,2015,English
+22,22,Simon Mignolet,BEL,G,1.93,87,06-03-88,Sint-Truiden,Sunderland,Liverpool,2015,English
+23,23,Emre Can,GER,M,1.86,76,12-01-94,Frankfurt am Main,Bayer Leverkusen,Liverpool,2015,English
+24,24,Joe Allen,WAL,M,1.68,62,14-03-90,Carmarthen,Swansea C,Liverpool,2015,English
+26,26,Tiago Ilori,POR,D,1.90,80,26-02-93,Hampstead,Sporting CP,Liverpool,2015,English
+27,27,Divock Origi,BEL,F,1.85,75,18-04-95,Ostend,Lille,Liverpool,2015,English
+28,28,Danny Ings,ENG,F,1.78,73,16-03-92,Winchester,Burnley,Liverpool,2015,English
+32,32,Cameron Brannagan,ENG,M,1.80,71,09-05-96,Manchester,None,Liverpool,2015,English
+33,33,Jordon Ibe,ENG,M,1.75,70,08-12-95,Southwark,Wycombe W,Liverpool,2015,English
+34,34,Ádám Bogdán,HUN,G,1.94,90,27-09-87,Budapest,Bolton W,Liverpool,2015,English
+35,35,Kevin Stewart,ENG,M,1.71,73,07-09-93,Enfield,Tottenham H,Liverpool,2015,English
+37,37,Martin krteľ,SVK,D,1.91,81,15-12-84,Handlová,Zenit St Petersburg,Liverpool,2015,English
+38,38,Jon Flanagan,ENG,D,1.81,79,21-01-93,Liverpool,None,Liverpool,2015,English
+40,40,Ryan Kent,ENG,M,1.72,65,11-11-96,Oldham,None,Liverpool,2015,English
+41,41,Jack Dunn,ENG,M,1.72,67,19-11-94,Liverpool,None,Liverpool,2015,English
+42,43,Ryan McLaughlin,NIR,D,1.74,69,03-09-94,Belfast,None,Liverpool,2015,English
+43,44,Brad Smith,AUS,D,1.78,70,09-04-94,Penrith [AUS],None,Liverpool,2015,English
+44,46,Jordan Rossiter,ENG,M,1.72,68,24-03-97,Liverpool,None,Liverpool,2015,English
+45,48,Jerome Sinclair,ENG,F,1.73,79,20-09-96,Birmingham,WBA,Liverpool,2015,English
+46,52,Danny Ward,WAL,G,1.91,88,22-06-93,Wrexham,Wrexham,Liverpool,2015,English
+47,53,João Teixeira,POR,M,1.67,66,18-01-93,Braga,Sporting CP,Liverpool,2015,English
+48,54,Sheyi Ojo,ENG,F,1.77,64,19-06-97,Hemel Hempstead,MK Dons,Liverpool,2015,English
+49,56,Connor Randall,ENG,D,1.80,76,21-10-95,Liverpool,None,Liverpool,2015,English
+50,57,Joe Maguire,ENG,D,1.79,70,18-01-96,Manchester,None,Liverpool,2015,English
+51,58,Daniel Cleary,IRL,D,,,09-03-96,Dublin,None,Liverpool,2015,English
+52,64,Sergi Canós,ESP,F,1.73,75,02-02-97,Nules,Barcelona,Liverpool,2015,English
+53,68,Pedro Chirivella,ESP,M,1.78,66,23-05-97,Valencia,Valencia,Liverpool,2015,English
+54,70,Shamal George,ENG,G,,,06-01-98,Wirral,None,Liverpool,2015,English
+55,73,Adam Phillips,ENG,M,1.80,76,15-01-98,Garstang,None,Liverpool,2015,English
+56,87,Conor Masterson,IRL,D,,,08-09-98,Dublin,Lucan U,Liverpool,2015,English
+1,1,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury,Shrewsbury T,Manchester City,2015,English
+3,3,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens,Arsenal,Manchester City,2015,English
+4,4,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel,Hamburg,Manchester City,2015,English
+5,5,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal,Espanyol,Manchester City,2015,English
+6,6,Fernando,BRA,M,1.83,74,25-07-87,Alto Paraíso de Goiás,FC Porto,Manchester City,2015,English
+7,7,Raheem Sterling,ENG,M,1.70,69,08-12-94,Kingston,Liverpool,Manchester City,2015,English
+8,8,Samir Nasri,FRA,M,1.77,75,26-06-87,Marseille,Arsenal,Manchester City,2015,English
+10,10,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal,Atlético Madrid,Manchester City,2015,English
+11,11,Aleksandar Kolarov,SRB,D,1.87,83,10-11-85,Belgrade,Lazio,Manchester City,2015,English
+13,13,Wilfredo Caballero,ARG,G,1.85,83,28-09-81,Salta Elena,Málaga,Manchester City,2015,English
+14,14,Wilfried Bony,CIV,F,1.82,80,10-12-88,Bingerville,Swansea C,Manchester City,2015,English
+15,15,Jesús Navas,ESP,M,1.70,60,21-11-85,Los Palacios,Sevilla,Manchester City,2015,English
+17,17,Kevin De Bruyne,BEL,M,1.80,68,28-06-91,Drongen,Wolfsburg,Manchester City,2015,English
+18,18,Fabian Delph,ENG,M,1.74,60,21-11-89,Bradford,Aston Villa,Manchester City,2015,English
+20,20,Eliaquim Mangala,FRA,D,1.87,74,13-02-91,Colombes,FC Porto,Manchester City,2015,English
+21,21,David Silva,ESP,M,1.70,67,08-01-86,Arguineguín,Valencia,Manchester City,2015,English
+22,22,Gaël Clichy,FRA,D,1.81,72,26-07-85,Toulouse,Arsenal,Manchester City,2015,English
+25,25,Fernandinho,BRA,M,1.76,67,04-05-85,Londrina,Shakhtar Donetsk,Manchester City,2015,English
+26,26,Martin Demichelis,ARG,D,1.84,78,20-12-80,Justiniano Posse,Atlético Madrid,Manchester City,2015,English
+29,29,Richard Wright,ENG,G,1.87,82,05-11-77,Ipswich,Preston NE,Manchester City,2015,English
+30,30,Nicolás Otamendi,ARG,D,1.78,75,12-02-88,Pacheco,Valencia,Manchester City,2015,English
+41,42,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké,Barcelona,Manchester City,2015,English
+42,48,Mathias Bossaerts,BEL,D,1.84,76,10-07-96,Gooreind,Anderlecht,Manchester City,2015,English
+43,49,Denzeil Boadu,ENG,F,1.80,70,20-02-97,Islington,Arsenal,Manchester City,2015,English
+44,51,David Faupala,FRA,F,1.83,72,11-02-97,Bully les Mines,Lens,Manchester City,2015,English
+45,52,Kean Bryan,ENG,M,1.82,72,01-11-96,Manchester,None,Manchester City,2015,English
+46,53,Tosin Adarabioyo,ENG,D,1.96,82,24-09-97,Manchester,None,Manchester City,2015,English
+47,54,Angus Gunn,ENG,G,1.96,77,22-01-96,Bolton,Norwich C,Manchester City,2015,English
+48,56,Ashley Smith-Brown,ENG,D,1.77,68,31-03-96,Manchester,None,Manchester City,2015,English
+49,57,Aaron Nemane,FRA,M,1.70,62,26-09-97,,None,Manchester City,2015,English
+50,58,Charlie Oliver,ENG,D,1.85,72,17-11-97,Trafford,None,Manchester City,2015,English
+51,59,Bersant Celina,NOR,M,1.62,60,09-09-96,Prizren,Strømsgodset,Manchester City,2015,English
+52,60,Kjetil Haug,NOR,G,1.90,80,12-06-98,,Sarpsborg 08,Manchester City,2015,English
+53,61,James Horsfield,ENG,M,1.78,70,30-11-95,Hazel Grove,None,Manchester City,2015,English
+54,62,Brandon Barker,ENG,M,1.75,68,04-10-96,Manchester,None,Manchester City,2015,English
+55,63,Sinan Bytyqi,AUT,M,1.85,82,15-01-95,Prizren,Admira Wacker Mödling,Manchester City,2015,English
+56,65,Jorginho,POR,M,1.69,68,21-09-95,Bissau,None,Manchester City,2015,English
+57,67,Sam Tattum,WAL,D,,,03-09-96,Manchester,None,Manchester City,2015,English
+58,68,Thierry Ambrose,FRA,F,1.78,70,28-03-97,Sens,Auxerre,Manchester City,2015,English
+59,69,Angeliño,ESP,D,1.76,68,04-01-97,Coristanco,Deportivo La Coruña,Manchester City,2015,English
+60,71,Marcus Wood,ENG,M,,,12-02-98,Sale,None,Manchester City,2015,English
+61,72,Kelechi Iheanacho,NGA,F,1.87,77,03-10-96,Owerri,None,Manchester City,2015,English
+62,73,George Glendon,ENG,M,1.77,70,03-05-95,Manchester,None,Manchester City,2015,English
+63,74,Ellis Plummer,ENG,D,1.81,70,02-09-94,Audenshaw,None,Manchester City,2015,English
+64,75,Aleix García,ESP,M,1.73,61,28-06-97,Ulldecona,Villarreal B,Manchester City,2015,English
+65,76,Manu García,ESP,M,1.70,65,02-01-98,Oviedo,Sporting Gijón,Manchester City,2015,English
+66,77,Cameron Humphreys,ENG,D,1.87,80,22-08-98,Manchester,None,Manchester City,2015,English
+67,78,Billy O'Brien,WAL,G,1.86,80,21-11-95,Bury,None,Manchester City,2015,English
+1,1,David De Gea,ESP,G,1.92,82,07-11-90,Madrid,Atlético Madrid,Manchester United,2015,English
+4,4,Phil Jones,ENG,D,1.80,71,21-02-92,Preston,Blackburn R,Manchester United,2015,English
+5,5,Marcos Rojo,ARG,D,1.87,82,20-03-90,La Plata,Sporting CP,Manchester United,2015,English
+7,7,Memphis Depay,NED,F,1.70,65,13-02-94,Moordrecht,PSV Eindhoven,Manchester United,2015,English
+8,8,Juan Mata,ESP,M,1.70,63,28-04-88,Burgos,Chelsea,Manchester United,2015,English
+9,9,Anthony Martial,FRA,F,1.81,76,05-12-95,Massy,Monaco,Manchester United,2015,English
+10,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth,Everton,Manchester United,2015,English
+11,11,Adnan Januzaj,BEL,M,1.80,75,05-02-95,Brussels,Anderlecht,Manchester United,2015,English
+12,12,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich,Fulham,Manchester United,2015,English
+16,16,Michael Carrick,ENG,M,1.86,74,28-07-81,Wallsend,Tottenham H,Manchester United,2015,English
+17,17,Daley Blind,NED,M,1.82,68,09-03-90,Amsterdam,Ajax,Manchester United,2015,English
+18,18,Ashley Young,ENG,M,1.75,65,09-07-85,Stevenage,Aston Villa,Manchester United,2015,English
+19,19,James Wilson,ENG,F,1.84,78,01-12-95,Biddulph,None,Manchester United,2015,English
+20,20,Sergio Romero,ARG,G,1.92,87,22-02-87,Bernardo de Irigoyen,Sampdoria,Manchester United,2015,English
+21,21,Ander Herrera,ESP,M,1.81,68,14-08-89,Bilbao,Athletic Bilbao,Manchester United,2015,English
+23,23,Luke Shaw,ENG,D,1.83,75,12-07-95,Kingston upon Thames,Southampton,Manchester United,2015,English
+25,25,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio,Wigan Ath,Manchester United,2015,English
+27,27,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek,Everton,Manchester United,2015,English
+28,28,Morgan Schneiderlin,FRA,M,1.81,75,08-11-89,Zettwiller,Southampton,Manchester United,2015,English
+30,30,Guillermo Varela,URU,D,1.71,69,24-03-93,Montevideo,Peñarol,Manchester United,2015,English
+31,31,Bastian Schweinsteiger,GER,M,1.83,79,01-08-84,Kolbermoor,Bayern Munich,Manchester United,2015,English
+33,33,Paddy McNair,NIR,D,1.83,71,27-04-95,Ballyclare,None,Manchester United,2015,English
+34,34,Dean Henderson,ENG,G,1.90,82,12-03-97,Whitehaven,Carlisle U,Manchester United,2015,English
+35,35,Jesse Lingard,ENG,M,1.68,58,15-12-92,Warrington,None,Manchester United,2015,English
+36,36,Matteo Darmian,ITA,D,1.82,70,02-12-89,Legnano,Torino,Manchester United,2015,English
+37,37,Donald Love,SCO,D,1.78,72,02-12-94,Rochdale,None,Manchester United,2015,English
+38,38,Axel Tuanzebe,ENG,D,1.82,75,14-11-97,Bunia,None,Manchester United,2015,English
+39,39,Marcus Rashford,ENG,F,1.80,70,31-10-97,Manchester,None,Manchester United,2015,English
+40,40,Joel Castro Pereira,SUI,G,1.88,82,28-06-96,Boudevilliers,Neuchâtel Xamax,Manchester United,2015,English
+41,41,Regan Poole,WAL,D,1.80,70,18-06-98,Cardiff,Newport Co,Manchester United,2015,English
+42,43,Cameron Borthwick-Jackson,ENG,D,1.83,78,02-02-97,Manchester,None,Manchester United,2015,English
+43,44,Andreas Pereira,BEL,M,1.77,66,01-01-96,Duffel,PSV Eindhoven,Manchester United,2015,English
+44,45,Sean Goss,ENG,M,1.77,71,01-10-95,Wegberg,Exeter C,Manchester United,2015,English
+45,46,Joe Rothwell,ENG,M,1.85,77,11-01-95,Manchester,None,Manchester United,2015,English
+46,47,James Weir,ENG,M,1.77,71,04-08-95,Preston,None,Manchester United,2015,English
+47,48,Will Keane,ENG,F,1.78,78,11-01-93,Stockport,None,Manchester United,2015,English
+48,49,Joe Riley,ENG,D,1.76,69,06-12-96,Blackpool,None,Manchester United,2015,English
+49,50,Sam Johnstone,ENG,G,1.93,85,25-03-93,Preston,None,Manchester United,2015,English
+50,51,Timothy Fosu-Mensah,NED,D,1.90,78,02-01-98,Amsterdam,Ajax,Manchester United,2015,English
+51,52,Ro-Shaun Williams,ENG,D,1.88,85,03-09-98,Manchester,None,Manchester United,2015,English
+1,1,Tim Krul,NED,G,1.88,74,03-04-88,Den Haag,ADO Den Haag,Newcastle United,2015,English
+2,2,Fabricio Coloccini,ARG,D,1.83,78,22-01-82,Córdoba,Deportivo La Coruña,Newcastle United,2015,English
+3,3,Paul Dummett,WAL,D,1.78,65,26-09-91,Newcastle upon Tyne,None,Newcastle United,2015,English
+4,4,Jack Colback,ENG,M,1.76,70,24-10-89,Killingworth,Sunderland,Newcastle United,2015,English
+5,5,Georginio Wijnaldum,NED,M,1.72,69,11-11-90,Rotterdam,PSV Eindhoven,Newcastle United,2015,English
+7,7,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil,Toulouse,Newcastle United,2015,English
+8,8,Vurnon Anita,NED,M,1.66,63,04-04-89,Willemstad,Ajax,Newcastle United,2015,English
+9,9,Papiss Demba Cissé,SEN,F,1.83,73,03-06-85,Dakar,Freiburg,Newcastle United,2015,English
+10,10,Siem de Jong,NED,M,1.85,76,28-01-89,Aigle,Ajax,Newcastle United,2015,English
+11,11,Yoan Gouffran,FRA,F,1.75,70,25-05-86,Villeneuve-st-Georges,Bordeaux,Newcastle United,2015,English
+12,12,Jonjo Shelvey,ENG,M,1.83,70,27-02-92,Romford,Swansea C,Newcastle United,2015,English
+14,14,Gabriel Obertan,FRA,M,1.86,79,26-02-89,Pantin,Manchester U,Newcastle United,2015,English
+15,15,Jamaal Lascelles,ENG,D,1.88,83,11-12-93,Derby,Nottingham F,Newcastle United,2015,English
+16,16,Rolando Aarons,ENG,M,1.75,67,16-11-95,Kingston,Bristol C,Newcastle United,2015,English
+17,17,Ayoze Pérez,ESP,F,1.79,66,23-07-93,Santa Cruz de Tenerife,Tenerife,Newcastle United,2015,English
+18,18,Chancel Mbemba,COD,D,1.82,80,08-08-94,Kinshasa,Anderlecht,Newcastle United,2015,English
+19,19,Massadio Haïdara,FRA,D,1.79,75,02-12-92,Trappes,Nancy,Newcastle United,2015,English
+21,21,Robert Elliot,IRL,G,1.90,98,30-04-86,Chatham,Charlton Ath,Newcastle United,2015,English
+22,22,Daryl Janmaat,NED,D,1.76,65,22-07-89,Leidschendam,Feyenoord,Newcastle United,2015,English
+23,23,Henri Saivet,SEN,M,1.73,70,26-10-90,Dakar,Bordeaux,Newcastle United,2015,English
+24,24,Cheik Ismael Tioté,CIV,M,1.80,79,21-06-86,Yamoussoukro,FC Twente,Newcastle United,2015,English
+25,25,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross,Tottenham H,Newcastle United,2015,English
+26,26,Karl Darlow,ENG,G,1.85,79,08-10-90,Northampton,Nottingham F,Newcastle United,2015,English
+27,27,Steven Taylor,ENG,D,1.88,81,23-01-86,Greenwich,None,Newcastle United,2015,English
+28,28,Seydou Doumbia,CIV,F,1.78,70,31-12-87,Yamoussoukro,Roma,Newcastle United,2015,English
+29,29,Emmanuel Riviere,FRA,F,1.82,76,03-03-90,Lamentin,Monaco,Newcastle United,2015,English
+31,31,Sylvain Marveaux,FRA,M,1.72,66,15-04-86,Vannes,Rennes,Newcastle United,2015,English
+33,33,Curtis Good,AUS,D,1.87,85,23-03-93,Melbourne,Melbourne Heart,Newcastle United,2015,English
+35,35,Liam Gibson,ENG,D,1.85,80,25-04-97,Stanley,None,Newcastle United,2015,English
+36,36,Ivan Toney,ENG,F,1.79,65,16-03-96,Northampton,Northampton T,Newcastle United,2015,English
+37,37,Ľubomír atka,SVK,D,1.85,72,02-12-95,Ilava,MFK Dubnica,Newcastle United,2015,English
+40,40,Callum Williams,ENG,D,1.80,64,04-02-97,Bishop Auckland,None,Newcastle United,2015,English
+41,41,Freddie Woodman,ENG,G,1.86,69,04-03-97,Croydon,Crystal Palace,Newcastle United,2015,English
+42,42,Jamie Sterry,ENG,D,1.80,70,21-11-95,Newcastle upon Tyne,None,Newcastle United,2015,English
+43,43,Kevin Mbabu,SUI,D,1.84,80,19-04-95,Chêne-Bougeries,Servette,Newcastle United,2015,English
+44,45,Aleksandar Mitrović,SRB,F,1.89,82,16-09-94,Belgrade,Anderlecht,Newcastle United,2015,English
+45,46,Callum Roberts,ENG,F,1.73,65,14-04-97,South Shields,None,Newcastle United,2015,English
+46,47,Dan Barlaser,TUR,M,1.84,62,18-01-97,Gateshead,None,Newcastle United,2015,English
+1,1,John Ruddy,ENG,G,1.96,97,24-10-86,St Ives,Everton,Norwich City,2015,English
+2,2,Steven Whittaker,SCO,D,1.85,87,16-06-84,Edinburgh,Rangers,Norwich City,2015,English
+3,3,Andre Wisdom,ENG,D,1.86,78,09-05-93,Leeds,Liverpool,Norwich City,2015,English
+5,5,Russell Martin,SCO,D,1.83,74,04-01-86,Brighton,Peterborough U,Norwich City,2015,English
+6,6,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris,Tottenham H,Norwich City,2015,English
+7,7,Steven Naismith,SCO,F,1.78,72,14-09-86,Irvine,Everton,Norwich City,2015,English
+8,8,Jonathan Howson,ENG,M,1.80,77,21-05-88,Leeds,Leeds U,Norwich City,2015,English
+9,9,Dieumerci Mbokani,COD,F,1.85,75,22-11-85,Kinshasa,Dynamo Kyiv,Norwich City,2015,English
+10,10,Cameron Jerome,ENG,F,1.85,85,14-08-86,Huddersfield,Stoke C,Norwich City,2015,English
+11,11,Patrick Bamford,ENG,F,1.85,75,05-09-93,Newark,Chelsea,Norwich City,2015,English
+12,12,Robbie Brady,IRL,M,1.75,69,14-01-92,Dublin,Hull C,Norwich City,2015,English
+13,13,Declan Rudd,ENG,G,1.91,75,16-01-91,Diss,None,Norwich City,2015,English
+14,14,Wesley Hoolahan,IRL,M,1.68,71,20-05-82,Dublin,Blackpool,Norwich City,2015,English
+16,16,Matthew Jarvis,ENG,M,1.73,70,22-05-86,Middlesbrough,West Ham U,Norwich City,2015,English
+17,17,Timm Klose,SUI,D,1.93,87,09-05-88,Frankfurt am Main,Wolfsburg,Norwich City,2015,English
+18,18,Graham Dorrans,SCO,M,1.75,73,05-05-87,Glasgow,WBA,Norwich City,2015,English
+19,19,Kyle Lafferty,NIR,F,1.93,70,16-09-87,Enniskillen,Palermo,Norwich City,2015,English
+20,20,Tony Andreu,FRA,M,1.78,72,22-05-88,Cagnes-sur-Mer,Hamilton Academical,Norwich City,2015,English
+21,21,Youssouf Mulumbu,COD,M,1.77,65,25-01-87,Kinshasa,WBA,Norwich City,2015,English
+22,22,Nathan Redmond,ENG,M,1.73,75,06-03-94,Birmingham,Birmingham C,Norwich City,2015,English
+23,23,Martin Olsson,SWE,D,1.78,81,17-05-88,Gävle,Blackburn R,Norwich City,2015,English
+24,24,Ryan Bennett,ENG,D,1.88,70,06-03-90,Orsett,Peterborough U,Norwich City,2015,English
+25,25,Ivo Pinto,POR,D,1.84,73,07-01-90,Lourosa,Dinamo Zagreb,Norwich City,2015,English
+27,27,Alexander Tettey,NOR,M,1.80,68,04-04-86,Accra,Rennes,Norwich City,2015,English
+28,28,Gary O'Neil,ENG,M,1.73,61,18-05-83,Beckenham,QPR,Norwich City,2015,English
+31,31,Jake Kean,ENG,G,1.93,76,04-02-91,Derby,Blackburn R,Norwich City,2015,English
+32,32,Vadis Odjidja-Ofoe,BEL,M,1.85,79,21-02-89,Gent,Club Brugge,Norwich City,2015,English
+1,1,Kelvin Davis,ENG,G,1.85,88,29-09-76,Bedford,Sunderland,Southampton,2015,English
+2,2,Cédric Soares,POR,D,1.72,67,31-08-91,Gelsenkirchen,Sporting CP,Southampton,2015,English
+3,3,Maya Yoshida,JPN,D,1.86,78,24-08-88,Nagasaki,VVV Venlo,Southampton,2015,English
+4,4,Jordy Clasie,NED,M,1.69,68,27-06-91,Haarlem,Feyenoord,Southampton,2015,English
+5,5,Florin Gardos,ROU,D,1.93,81,29-10-88,Satu Mare,Steaua Bucureşti,Southampton,2015,English
+6,6,José Fonte,POR,D,1.87,81,22-12-83,Penafiel,Crystal Palace,Southampton,2015,English
+7,7,Shane Long,IRL,F,1.78,71,22-01-87,Kilkenny,WBA,Southampton,2015,English
+8,8,Steven Davis,NIR,M,1.79,72,01-01-85,Ballymena,Rangers,Southampton,2015,English
+9,9,Jay Rodriguez,ENG,F,1.85,70,29-07-89,Burnley,Burnley,Southampton,2015,English
+10,10,Sadio Mané,SEN,M,1.75,69,10-04-92,Sédhiou,Red Bull Salzburg,Southampton,2015,English
+11,11,Duan Tadić,SRB,M,1.81,76,20-11-88,Bačka Topola,FC Twente,Southampton,2015,English
+12,12,Victor Wanyama,KEN,M,1.88,76,25-06-91,Nairobi,Celtic,Southampton,2015,English
+14,14,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona,Chelsea,Southampton,2015,English
+15,15,Cuco Martina,CUW,D,1.85,70,25-09-89,Rotterdam,FC Twente,Southampton,2015,English
+16,16,James Ward-Prowse,ENG,M,1.73,66,01-11-94,Southampton,None,Southampton,2015,English
+17,17,Virgil van Dijk,NED,D,1.93,92,08-07-91,Breda,Celtic,Southampton,2015,English
+18,18,Harrison Reed,ENG,M,1.76,74,27-01-95,Worthing,None,Southampton,2015,English
+19,19,Graziano Pellè,ITA,F,1.93,89,15-07-85,San Cesario,Feyenoord,Southampton,2015,English
+20,20,Juanmi,ESP,F,1.69,63,20-05-93,Coín,Málaga,Southampton,2015,English
+21,21,Ryan Bertrand,ENG,D,1.79,85,05-08-89,Southwark,Chelsea,Southampton,2015,English
+22,22,Maarten Stekelenburg,NED,G,1.97,92,22-09-82,Haarlem,Fulham,Southampton,2015,English
+25,25,Paulo Gazzaniga,ARG,G,1.96,90,02-01-92,Murphy,Gillingham,Southampton,2015,English
+28,28,Charlie Austin,ENG,F,1.88,84,05-07-89,Hungerford,QPR,Southampton,2015,English
+29,29,Bevis Mugabi,ENG,D,1.89,75,01-05-95,Harrow,None,Southampton,2015,English
+30,30,Will Wood,ENG,D,1.74,67,29-11-96,Burgess Hill,None,Southampton,2015,English
+31,31,Armani Little,ENG,M,,,05-04-97,,None,Southampton,2015,English
+33,33,Matt Targett,ENG,D,1.83,70,18-09-95,Eastleigh,None,Southampton,2015,English
+34,34,Jake Flannigan,ENG,M,1.80,71,02-02-96,Southampton,None,Southampton,2015,English
+35,35,Josh Debayo,ENG,D,1.83,68,17-10-96,London,Chelsea,Southampton,2015,English
+37,37,Harley Willard,SCO,M,1.80,65,04-09-97,London,Arsenal,Southampton,2015,English
+39,39,Josh Sims,ENG,M,1.74,67,28-03-97,Yeovil,Portsmouth,Southampton,2015,English
+40,40,Sam Gallagher,ENG,F,1.93,75,15-09-95,Crediton,Plymouth Arg,Southampton,2015,English
+41,42,Jake Hesketh,ENG,M,1.68,63,27-03-96,Southampton,None,Southampton,2015,English
+42,43,Will Britt,ENG,G,1.88,75,22-03-95,Portsmouth,None,Southampton,2015,English
+43,44,Fraser Forster,ENG,G,2.01,93,17-03-88,Hexham,Celtic,Southampton,2015,English
+44,45,Ryan Seager,ENG,F,1.76,75,05-02-96,Yeovil,None,Southampton,2015,English
+45,46,Dominic Gape,ENG,M,1.80,70,09-09-94,Southampton,None,Southampton,2015,English
+46,47,Marcus Barnes,ENG,F,1.85,72,01-12-96,,Wolverhampton W,Southampton,2015,English
+47,49,Olufela Olomola,ENG,F,1.70,,05-09-97,London,Arsenal,Southampton,2015,English
+1,1,Jack Butland,ENG,G,1.92,95,10-03-93,Bristol,Birmingham C,Stoke City,2015,English
+2,2,Phillip Bardsley,SCO,D,1.79,74,28-06-85,Salford,Sunderland,Stoke City,2015,English
+3,3,Erik Pieters,NED,D,1.86,82,07-08-88,Tiel,PSV Eindhoven,Stoke City,2015,English
+5,5,Marc Muniesa,ESP,D,1.80,77,27-03-92,Lloret de Mar,Barcelona,Stoke City,2015,English
+6,6,Glenn Whelan,IRL,M,1.80,79,13-01-84,Dublin,Sheffield W,Stoke City,2015,English
+7,7,Stephen Ireland,IRL,M,1.75,68,22-08-86,Cork,Aston Villa,Stoke City,2015,English
+8,8,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich,Liverpool,Stoke City,2015,English
+9,9,Peter Odemwingie,NGA,F,1.82,74,15-07-81,Tashkent,Cardiff C,Stoke City,2015,English
+10,10,Marko Arnautović,AUT,F,1.92,83,19-04-89,Vienna,Werder Bremen,Stoke City,2015,English
+11,11,Joselu,ESP,F,1.91,79,27-03-90,Stuttgart,Hannover 96,Stoke City,2015,English
+12,12,Marc Wilson,IRL,D,1.88,80,17-08-87,Belfast,Portsmouth,Stoke City,2015,English
+14,14,Ibrahim Afellay,NED,M,1.81,68,02-04-86,Utrecht,Barcelona,Stoke City,2015,English
+16,16,Charlie Adam,SCO,M,1.85,83,10-12-85,Dundee,Liverpool,Stoke City,2015,English
+17,17,Ryan Shawcross,ENG,D,1.83,76,04-10-87,Chester,Manchester U,Stoke City,2015,English
+18,18,Mame Biram Diouf,SEN,F,1.85,76,16-12-87,Dakar,Hannover 96,Stoke City,2015,English
+19,19,Jonathan Walters,IRL,F,1.83,79,20-09-83,Birkenhead,Ipswich T,Stoke City,2015,English
+20,20,Geoff Cameron,USA,D,1.91,92,11-07-85,Attleboro,Houston Dynamo,Stoke City,2015,English
+21,21,Giannelli Imbula,CGO,M,1.86,77,12-09-92,Vilvoorde,FC Porto,Stoke City,2015,English
+22,22,Xherdan Shaqiri,SUI,M,1.68,61,10-10-91,Gnjilane,Internazionale,Stoke City,2015,English
+23,23,Dionatan Teixeira,SVK,D,1.93,78,24-07-92,Londrina,Dukla Banská Bystrica,Stoke City,2015,English
+24,24,Shay Given,IRL,G,1.88,84,20-04-76,Lifford,Aston Villa,Stoke City,2015,English
+25,25,Peter Crouch,ENG,F,2.01,80,30-01-81,Macclesfield,Tottenham H,Stoke City,2015,English
+26,26,Philipp Wollscheid,GER,D,1.94,84,06-03-89,Wadern,Bayer Leverkusen,Stoke City,2015,English
+27,27,Bojan Krkić,ESP,F,1.70,65,28-08-90,Linyola,Barcelona,Stoke City,2015,English
+29,29,Jakob Haugaard,DEN,G,1.97,87,01-05-92,Sundby,FC Midtjylland,Stoke City,2015,English
+30,30,Moha,MAR,F,1.80,73,13-01-96,Nador,Barcelona B,Stoke City,2015,English
+34,34,Oliver Shenton,ENG,M,1.86,77,06-11-97,Stoke-on-Trent,None,Stoke City,2015,English
+35,35,Daniel Bachmann,AUT,G,1.91,81,09-07-94,Vienna,Austria Vienna,Stoke City,2015,English
+37,37,Dom Telford,ENG,F,1.75,72,05-12-96,Burnley,Blackpool,Stoke City,2015,English
+38,38,Eddy Lecygne,FRA,M,1.81,67,06-08-96,Pabu,Rennes,Stoke City,2015,English
+40,40,Bobby Moseley,IRL,D,1.78,70,07-03-96,Birmingham,Birmingham C,Stoke City,2015,English
+41,41,Mark Waddington,ENG,M,1.83,66,11-10-96,Wigan,Blackpool,Stoke City,2015,English
+2,2,Billy Jones,ENG,D,1.81,77,24-03-87,Shrewsbury,WBA,Sunderland,2015,English
+3,3,Patrick van Aanholt,NED,D,1.75,67,29-08-90,'s-Hertogenbosch,Chelsea,Sunderland,2015,English
+5,5,Wes Brown,ENG,D,1.85,75,13-10-79,Manchester,Manchester U,Sunderland,2015,English
+6,6,Lee Cattermole,ENG,M,1.78,76,21-03-88,Stockton-on-Tees,Wigan Ath,Sunderland,2015,English
+7,7,Sebastian Larsson,SWE,M,1.78,70,06-06-85,Eskilstuna,Birmingham C,Sunderland,2015,English
+8,8,Jack Rodwell,ENG,M,1.88,70,11-03-91,Birkdale,Manchester C,Sunderland,2015,English
+9,9,Fabio Borini,ITA,F,1.80,74,29-03-91,Bentivoglio,Liverpool,Sunderland,2015,English
+10,10,Dame N'Doye,SEN,F,1.86,81,21-02-85,Thiès,Trabzonspor,Sunderland,2015,English
+12,12,Adam Matthews,WAL,D,1.78,71,13-01-92,Swansea,Celtic,Sunderland,2015,English
+13,13,Jordan Pickford,ENG,G,1.85,77,07-03-94,Washington,None,Sunderland,2015,English
+15,15,Younès Kaboul,FRA,D,1.90,87,04-01-86,St-Julien-en-Genevois,Tottenham H,Sunderland,2015,English
+16,16,John O'Shea,IRL,D,1.90,75,30-04-81,Waterford,Manchester U,Sunderland,2015,English
+17,17,Jeremain Lens,NED,F,1.78,80,24-11-87,Amsterdam,Dynamo Kyiv,Sunderland,2015,English
+18,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton,Toronto FC,Sunderland,2015,English
+20,20,Ola Toivonen,SWE,F,1.90,74,03-07-86,Degerfors,Rennes,Sunderland,2015,English
+21,21,Yann M'Vila,FRA,M,1.82,80,29-06-90,Amiens,Rubin Kazan,Sunderland,2015,English
+22,22,Wahbi Khazri,TUN,M,1.82,78,08-02-91,Ajaccio,Bordeaux,Sunderland,2015,English
+23,23,Lamine Koné,CIV,D,1.86,83,01-02-89,Paris,Lorient,Sunderland,2015,English
+24,24,DeAndre Yedlin,USA,D,1.73,68,09-07-93,Seattle,Tottenham H,Sunderland,2015,English
+25,25,Vito Mannone,ITA,G,1.94,73,02-03-88,Desio,Arsenal,Sunderland,2015,English
+27,27,Jan Kirchhoff,GER,D,1.93,78,01-10-90,Frankfurt am Main,Bayern Munich,Sunderland,2015,English
+31,31,Tom Beadling,AUS,D,1.85,80,16-01-96,Barrow-in-Furness,None,Sunderland,2015,English
+32,32,Maksymilian Stryjek,POL,G,1.88,81,18-07-96,Warsaw,Polonia Warszawa,Sunderland,2015,English
+33,33,Steve Harper,ENG,G,1.88,82,14-03-75,Easington,Hull C,Sunderland,2015,English
+34,34,Tom Robson,ENG,D,1.78,75,11-09-95,Stanley,Darlington,Sunderland,2015,English
+35,35,Josh Maja,ENG,F,1.80,67,29-12-98,Lewisham,Fulham,Sunderland,2015,English
+37,37,Rees Greenwood,ENG,F,1.73,68,02-01-96,Winlaton,None,Sunderland,2015,English
+38,38,Mikaël Mandron,SCO,F,1.91,82,11-10-94,Boulogne-sur-Mer,Boulogne,Sunderland,2015,English
+39,39,George Honeyman,ENG,M,1.73,72,08-09-94,Prudhoe,None,Sunderland,2015,English
+40,40,Martin Smith,ENG,M,1.78,70,25-01-96,Sunderland,None,Sunderland,2015,English
+41,41,Duncan Watmore,ENG,F,1.75,72,08-03-94,Cheadle Hulme,Altrincham,Sunderland,2015,English
+42,42,Liam Agnew,ENG,M,1.78,72,11-04-95,Sunderland,None,Sunderland,2015,English
+43,46,Lynden Gooch,USA,F,1.73,69,24-12-95,Santa Cruz,None,Sunderland,2015,English
+44,48,Josh Robson,ENG,D,1.80,73,03-02-98,Bedlington,None,Sunderland,2015,English
+1,1,Łukasz Fabiański,POL,G,1.90,84,18-04-85,Kostrzyn nad Odrą,Arsenal,Swansea City,2015,English
+2,2,Jordi Amat,ESP,D,1.84,80,21-03-92,Barcelona,Espanyol,Swansea City,2015,English
+3,3,Neil Taylor,WAL,D,1.75,64,07-02-89,St Asaph,Wrexham,Swansea City,2015,English
+4,4,Ki Sung-Yueng,KOR,M,1.87,79,24-01-89,Gwangju,Celtic,Swansea City,2015,English
+6,6,Ashley Williams,WAL,D,1.83,75,23-08-84,Wolverhampton,Stockport Co,Swansea City,2015,English
+7,7,Leon Britton,ENG,M,1.68,64,16-09-82,Merton,Sheffield U,Swansea City,2015,English
+8,8,Leroy Fer,NED,M,1.88,79,05-01-90,Zoetermeer,QPR,Swansea City,2015,English
+9,9,Alberto Paloschi,ITA,F,1.82,82,04-01-90,Chiari,Chievo Verona,Swansea City,2015,English
+10,10,André Ayew,GHA,F,1.76,72,17-12-89,Seclin,Marseille,Swansea City,2015,English
+11,11,Marvin Emnes,NED,F,1.80,66,27-05-88,Rotterdam,Middlesbrough,Swansea City,2015,English
+13,13,Kristoffer Nordfeldt,SWE,G,1.90,85,23-06-89,Stockholm,SC Heernveen,Swansea City,2015,English
+15,15,Wayne Routledge,ENG,M,1.70,64,07-01-85,Eltham,Newcastle U,Swansea City,2015,English
+18,18,Bafetibis Gomis,FRA,F,1.84,77,06-08-85,Seyne-sur-Mer,Lyon,Swansea City,2015,English
+20,20,Jefferson Montero,ECU,M,1.70,70,01-09-89,Babahoyo,Morelia,Swansea City,2015,English
+21,21,Matt Grimes,ENG,M,1.78,70,15-07-95,Exeter,Exeter C,Swansea City,2015,English
+22,22,Angel Rangel,ESP,D,1.88,84,28-10-82,Tortosa,Terrassa,Swansea City,2015,English
+23,23,Gylfi Sigurðsson,ISL,M,1.86,77,08-09-89,Reykjavik,Tottenham H,Swansea City,2015,English
+24,24,Jack Cork,ENG,M,1.83,69,25-06-89,Carshalton,Southampton,Swansea City,2015,English
+26,26,Kyle Naughton,ENG,D,1.80,73,11-11-88,Sheffield,Tottenham H,Swansea City,2015,English
+27,27,Kyle Bartley,ENG,D,1.80,70,22-05-91,Manchester,Arsenal,Swansea City,2015,English
+29,29,Josh Vickers,ENG,G,1.83,72,01-12-95,Billericay,Arsenal,Swansea City,2015,English
+30,30,Josh Sheehan,WAL,M,1.84,75,30-03-95,Pembrey,None,Swansea City,2015,English
+31,31,Lee Lucas,WAL,M,1.80,74,10-06-92,Aberdare,None,Swansea City,2015,English
+32,32,Liam Shephard,WAL,D,1.78,67,22-11-94,Rhondda,Cardiff C,Swansea City,2015,English
+33,33,Federico Fernández,ARG,D,1.90,83,21-02-89,Tres Algarrobos,Napoli,Swansea City,2015,English
+34,34,Henry Jones,WAL,M,1.83,84,18-09-93,Swansea,None,Swansea City,2015,English
+35,35,Stephen Kingsley,SCO,D,1.78,68,23-07-94,Stirling,Falkirk,Swansea City,2015,English
+36,36,Botti Bia-Bi,SCO,F,1.88,79,08-03-96,Camberwell,Falkirk,Swansea City,2015,English
+38,38,Adnan Marić,SWE,M,1.81,76,17-02-97,Gothenburg,GAIS,Swansea City,2015,English
+39,39,Owain Jones,WAL,F,1.79,74,01-10-96,Ammanford,None,Swansea City,2015,English
+41,41,Kyle Copp,WAL,M,1.78,69,01-11-96,Swansea,None,Swansea City,2015,English
+42,42,Oliver Davies,WAL,G,1.84,76,31-12-94,Neath,None,Swansea City,2015,English
+43,43,Alex Bray,WAL,M,1.78,66,25-07-95,Bath,None,Swansea City,2015,English
+44,44,Sam Evans,WAL,M,,,12-05-95,Swansea,None,Swansea City,2015,English
+45,45,Gregor Zabret,SVN,G,1.87,82,18-08-95,Ljubljana,Domale,Swansea City,2015,English
+46,46,Kenji Gorré,NED,F,1.77,71,29-09-94,Paramaribo,Manchester U,Swansea City,2015,English
+47,47,Alex Gogić,CYP,M,1.85,83,13-04-94,Nicosia,Olympiakos,Swansea City,2015,English
+48,48,Stephen Fallon,NIR,M,,,03-03-97,Belfast,None,Swansea City,2015,English
+49,49,Tom Holland,IRL,M,1.76,71,22-04-97,Leeds,Manchester C,Swansea City,2015,English
+50,50,Ryan Hedges,WAL,F,1.85,65,07-09-95,Swansea,Flint Town U,Swansea City,2015,English
+51,51,Daniel James,WAL,M,1.80,76,10-11-97,Kingston upon Hull,Hull C,Swansea City,2015,English
+52,53,Adam King,SCO,M,1.80,75,11-10-95,Edinburgh,Hearts,Swansea City,2015,English
+53,55,Raheem Hanley,ENG,D,1.73,70,24-03-94,Blackburn,Blackburn R,Swansea City,2015,English
+54,56,Jay Fulton,SCO,M,1.78,68,04-04-94,Bolton,Falkirk,Swansea City,2015,English
+55,57,Keston Davies,WAL,D,1.88,83,02-10-96,Killay,Manchester C,Swansea City,2015,English
+56,58,Modou Barrow,GAM,F,1.76,63,13-10-92,Banjul,Östersunds FK,Swansea City,2015,English
+57,59,James Demetriou,AUS,F,,,14-08-95,Sydney,Nottingham F,Swansea City,2015,English
+58,60,Lewis Thomas,WAL,G,,,20-09-97,Manselton,None,Swansea City,2015,English
+59,61,Joe Rodon,WAL,D,1.90,76,22-10-97,Swansea,None,Swansea City,2015,English
+60,62,Oliver McBurnie,ENG,F,1.88,64,04-06-96,Leeds,Bradford C,Swansea City,2015,English
+1,1,Hugo Lloris,FRA,G,1.88,78,26-12-86,Nice,Lyon,Tottenham Hotspur,2015,English
+2,2,Kyle Walker,ENG,D,1.78,73,28-05-90,Sheffield,Sheffield U,Tottenham Hotspur,2015,English
+3,3,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster,Leeds U,Tottenham Hotspur,2015,English
+4,4,Toby Alderweireld,BEL,D,1.85,75,02-03-89,Wilrijk,Atlético Madrid,Tottenham Hotspur,2015,English
+5,5,Jan Vertonghen,BEL,D,1.89,79,24-04-87,Sint-Niklaas,Ajax,Tottenham Hotspur,2015,English
+6,6,Nabil Bentaleb,ALG,M,1.87,68,24-11-94,Lille,Lille,Tottenham Hotspur,2015,English
+7,7,Son Heung-Min,KOR,F,1.83,76,08-07-92,Chuncheon,Bayer Leverkusen,Tottenham Hotspur,2015,English
+8,8,Ryan Mason,ENG,M,1.75,71,13-06-91,Enfield,None,Tottenham Hotspur,2015,English
+10,10,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow,None,Tottenham Hotspur,2015,English
+11,11,Erik Lamela,ARG,M,1.83,73,25-03-92,Florida,Roma,Tottenham Hotspur,2015,English
+13,13,Michel Vorm,NED,G,1.83,84,20-10-83,Nieuwegein,Swansea C,Tottenham Hotspur,2015,English
+14,14,Clinton N'Jie,CMR,F,1.75,68,15-08-93,Douala,Lyon,Tottenham Hotspur,2015,English
+15,15,Eric Dier,ENG,D,1.88,63,15-01-94,Cheltenham,Sporting CP,Tottenham Hotspur,2015,English
+16,16,Kieran Trippier,ENG,D,1.78,71,19-09-90,Bury,Burnley,Tottenham Hotspur,2015,English
+19,19,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk,Fulham,Tottenham Hotspur,2015,English
+20,20,Dele Alli,ENG,M,1.85,76,11-04-96,Milton Keynes,MK Dons,Tottenham Hotspur,2015,English
+22,22,Nacer Chadli,BEL,M,1.87,80,02-08-89,Liège,FC Twente,Tottenham Hotspur,2015,English
+23,23,Christian Eriksen,DEN,M,1.75,65,14-02-92,Middelfart,Ajax,Tottenham Hotspur,2015,English
+25,25,Joshua Onomah,ENG,M,1.80,64,27-04-97,Enfield,None,Tottenham Hotspur,2015,English
+27,27,Kevin Wimmer,AUT,D,1.87,85,15-11-92,Wels,Köln,Tottenham Hotspur,2015,English
+28,28,Tom Carroll,ENG,M,1.77,71,28-05-92,Watford,None,Tottenham Hotspur,2015,English
+29,29,Harry Winks,ENG,M,1.78,65,02-02-96,Hemel Hempstead,None,Tottenham Hotspur,2015,English
+31,31,Luke McGee,ENG,G,1.88,80,02-09-95,Edgware,None,Tottenham Hotspur,2015,English
+33,33,Ben Davies,WAL,D,1.70,76,24-04-93,Neath,Swansea C,Tottenham Hotspur,2015,English
+38,38,Cameron Carter-Vickers,USA,D,1.85,86,31-12-97,Southend-on-Sea,None,Tottenham Hotspur,2015,English
+39,39,Shayon Harrison,ENG,F,1.83,68,13-07-97,Hornsey,None,Tottenham Hotspur,2015,English
+40,40,Tom Glover,AUS,G,1.90,90,24-12-97,Sydney,Sutherland Sharks,Tottenham Hotspur,2015,English
+41,41,Alfie Whiteman,ENG,G,1.90,77,02-10-98,Tottenham,None,Tottenham Hotspur,2015,English
+42,43,Kyle Walker-Peters,ENG,D,1.73,62,13-04-97,Edmonton,None,Tottenham Hotspur,2015,English
+1,1,Heurelho Gomes,BRA,G,1.91,82,15-02-81,João Pinheiro,Tottenham H,Watford,2015,English
+2,2,Allan-Roméo Nyom,CMR,D,1.88,80,10-05-88,Neuilly-sur-Seine,Udinese,Watford,2015,English
+3,3,Miguel Angel Britos,URU,D,1.88,82,17-07-85,Montevideo,Napoli,Watford,2015,English
+4,4,Mario Suárez,ESP,M,1.85,77,24-02-87,Madrid,Fiorentina,Watford,2015,English
+5,5,Sebastian Prödl,AUT,D,1.94,85,21-06-87,Graz,Werder Bremen,Watford,2015,English
+6,6,Joel Ekstrand,SWE,M,1.88,77,04-02-89,Lund,Udinese,Watford,2015,English
+7,7,José Manuel Jurado,ESP,M,1.73,72,29-06-86,Sanlúcar de Barrameda,Spartak Moscow,Watford,2015,English
+8,8,Valon Behrami,SUI,M,1.85,78,19-04-85,Kosovska Mitrovica,Hamburg,Watford,2015,English
+9,9,Troy Deeney,ENG,F,1.80,76,29-06-88,Chelmsley,Walsall,Watford,2015,English
+10,10,Obbi Oularé,BEL,F,1.96,96,08-01-96,Waregem,Club Brugge,Watford,2015,English
+11,11,Nordin Amrabat,MAR,M,1.79,79,31-03-87,Naarden,Málaga,Watford,2015,English
+13,13,Rene Gilmartin,IRL,G,1.96,85,31-05-87,Dublin,St Patrick's Ath,Watford,2015,English
+14,14,Juan Carlos Paredes,ECU,D,1.74,71,08-07-87,Esmeraldas,Granada,Watford,2015,English
+15,15,Craig Cathcart,NIR,D,1.88,72,06-02-89,Belfast,Blackpool,Watford,2015,English
+16,16,Nathan Aké,NED,D,1.80,71,18-02-95,Den Haag,Chelsea,Watford,2015,English
+17,17,Adlène Guédioura,ALG,M,1.85,80,12-11-85,La Roche-sur-Yon,Crystal Palace,Watford,2015,English
+18,18,Costel Pantilimon,ROU,G,1.97,96,01-02-87,Bacău,Sunderland,Watford,2015,English
+20,20,Steven Berghuis,NED,M,1.80,75,19-12-91,Apeldoorn,AZ Alkmaar,Watford,2015,English
+21,21,Ikechi Anya,SCO,M,1.68,71,03-01-88,Glasgow,Granada,Watford,2015,English
+22,22,Almen Abdi,SUI,M,1.80,77,21-10-86,Prizren,Udinese,Watford,2015,English
+23,23,Ben Watson,ENG,M,1.78,69,09-07-85,Camberwell,Wigan Ath,Watford,2015,English
+24,24,Odion Ighalo,NGA,F,1.88,70,16-06-89,Lagos,Udinese,Watford,2015,English
+25,25,José Holebas,GRE,D,1.84,79,27-06-84,Aschaffenburg,Roma,Watford,2015,English
+26,26,Bernard Mensah,ENG,F,1.73,59,29-12-94,Hounslow,None,Watford,2015,English
+27,27,Essaïd Belkalem,ALG,D,1.94,90,01-01-89,Mekla,Granada,Watford,2015,English
+29,29,Etienne Capoue,FRA,M,1.89,80,11-07-88,Niort,Tottenham H,Watford,2015,English
+30,30,Jorell Johnson,ENG,D,,,02-01-96,Hemel Hempstead,None,Watford,2015,English
+31,31,Tommie Hoban,IRL,D,1.88,84,24-01-94,Walthamstow,None,Watford,2015,English
+35,35,Josh Doherty,NIR,D,1.79,70,15-03-96,Newtownards,None,Watford,2015,English
+36,36,Alex Jakubiak,ENG,F,1.77,66,27-08-96,Westminster,None,Watford,2015,English
+37,37,Alfie Young,ENG,D,,,03-02-97,,None,Watford,2015,English
+38,38,Mahlondo Martin,ENG,M,,,15-10-96,,None,Watford,2015,English
+39,39,Dennon Lewis,ENG,M,1.78,69,09-05-97,Brent,None,Watford,2015,English
+40,40,George Byers,SCO,M,1.80,73,29-05-96,Ilford,None,Watford,2015,English
+1,1,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington,Birmingham C,West Bromwich Albion,2015,English
+3,3,Jonas Olsson,SWE,D,1.95,85,10-03-83,Landskrona,NEC Nijmegen,West Bromwich Albion,2015,English
+4,4,James Chester,WAL,D,1.80,72,23-01-89,Warrington,Hull C,West Bromwich Albion,2015,English
+5,5,Claudio Yacob,ARG,M,1.81,73,18-07-87,Carcarañá,Racing Club,West Bromwich Albion,2015,English
+6,6,Jonny Evans,NIR,D,1.88,77,02-01-88,Belfast,Manchester U,West Bromwich Albion,2015,English
+7,7,James Morrison,SCO,M,1.78,64,25-05-86,Darlington,Middlesbrough,West Bromwich Albion,2015,English
+8,8,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull,Sunderland,West Bromwich Albion,2015,English
+10,10,Victor Anichebe,NGA,F,1.85,80,23-04-88,Lagos,Everton,West Bromwich Albion,2015,English
+11,11,Chris Brunt,NIR,M,1.85,84,14-12-84,Belfast,Sheffield W,West Bromwich Albion,2015,English
+13,13,Boaz Myhill,WAL,G,1.91,92,09-11-82,Modesto,Hull C,West Bromwich Albion,2015,English
+14,14,James McClean,IRL,M,1.80,70,22-04-89,Derry,Wigan Ath,West Bromwich Albion,2015,English
+15,15,Sébastien Pocognoli,BEL,D,1.81,73,01-08-87,Liège,Hannover 96,West Bromwich Albion,2015,English
+16,16,Cristian Gamboa,CRC,D,1.75,67,24-10-89,Liberia,Rosenborg,West Bromwich Albion,2015,English
+17,17,Rickie Lambert,ENG,F,1.88,77,16-02-82,Kirkby,Liverpool,West Bromwich Albion,2015,English
+18,18,Saido Berahino,ENG,F,1.80,82,04-08-93,Bujumbura,None,West Bromwich Albion,2015,English
+19,19,Callum McManaman,ENG,F,1.75,71,25-04-91,Knowsley,Wigan Ath,West Bromwich Albion,2015,English
+20,20,Alex Pritchard,ENG,F,1.71,62,03-05-93,Grays,Tottenham H,West Bromwich Albion,2015,English
+23,23,Gareth McAuley,NIR,D,1.91,70,05-12-79,Larne,Ipswich T,West Bromwich Albion,2015,English
+24,24,Darren Fletcher,SCO,M,1.83,83,01-02-84,Edinburgh,Manchester U,West Bromwich Albion,2015,English
+25,25,Craig Dawson,ENG,D,1.83,78,06-05-90,Rochdale,Rochdale,West Bromwich Albion,2015,English
+29,29,Stéphane Sessegnon,BEN,M,1.72,72,01-06-84,Allahe,Sunderland,West Bromwich Albion,2015,English
+30,30,Sandro,BRA,M,1.87,75,15-03-89,Riachinho,QPR,West Bromwich Albion,2015,English
+33,33,José Salomón Rondón,VEN,F,1.90,86,16-09-89,Caracas,Zenit St Petersburg,West Bromwich Albion,2015,English
+38,38,Jack Rose,ENG,G,1.83,75,31-01-95,Solihull,None,West Bromwich Albion,2015,English
+40,40,Alex Palmer,ENG,G,1.83,72,10-08-96,Kidderminster,None,West Bromwich Albion,2015,English
+41,41,Joe Ward,ENG,F,1.83,77,27-09-96,,None,West Bromwich Albion,2015,English
+42,42,Kyle Edwards,ENG,M,1.72,64,17-02-98,Dudley,None,West Bromwich Albion,2015,English
+43,43,Callam Jones,ENG,D,1.83,76,31-01-96,Sandwell,None,West Bromwich Albion,2015,English
+44,44,Tyler Roberts,WAL,F,1.80,75,12-01-98,Gloucester,None,West Bromwich Albion,2015,English
+45,45,Jonathan Leko,ENG,F,1.82,75,24-04-99,Kinshasa,None,West Bromwich Albion,2015,English
+46,46,Shaun Donnellan,IRL,D,1.83,64,22-05-97,Barnet,None,West Bromwich Albion,2015,English
+47,47,Sam Field,ENG,M,1.77,73,08-05-98,Stourbridge,None,West Bromwich Albion,2015,English
+1,1,Darren Randolph,IRL,G,1.85,78,12-05-87,Dublin,Birmingham C,West Ham United,2015,English
+2,2,Winston Reid,NZL,D,1.90,87,03-07-88,Auckland,FC Midtjylland,West Ham United,2015,English
+3,3,Aaron Cresswell,ENG,D,1.70,66,15-12-89,Liverpool,Ipswich T,West Ham United,2015,English
+4,4,Alexandre Song,CMR,M,1.84,76,09-09-87,Douala,Barcelona,West Ham United,2015,English
+5,5,James Tomkins,ENG,D,1.90,74,29-03-89,Basildon,None,West Ham United,2015,English
+8,8,Cheikhou Kouyaté,SEN,M,1.89,75,21-12-89,Dakar,Anderlecht,West Ham United,2015,English
+9,9,Andy Carroll,ENG,F,1.91,65,06-01-89,Gateshead,Liverpool,West Ham United,2015,English
+11,11,Enner Valencia,ECU,F,1.74,72,04-11-89,San Lorenzo,Pachuca,West Ham United,2015,English
+12,12,Carl Jenkinson,ENG,D,1.85,77,08-02-92,Buckhurst Hill,Arsenal,West Ham United,2015,English
+13,13,Adrián,ESP,G,1.88,77,03-01-87,Seville,Betis,West Ham United,2015,English
+14,14,Pedro Mba Obiang,ESP,M,1.85,75,27-03-92,Alcalà de Henares,Sampdoria,West Ham United,2015,English
+15,15,Diafra Sakho,SEN,F,1.84,79,24-12-89,Guédiawaye,Metz,West Ham United,2015,English
+16,16,Mark Noble,ENG,M,1.80,76,08-05-87,West Ham,None,West Ham United,2015,English
+17,17,Joey O'Brien,IRL,D,1.80,69,17-02-86,Dublin,Bolton W,West Ham United,2015,English
+19,19,James Collins,WAL,D,1.88,90,23-08-83,Newport,Aston Villa,West Ham United,2015,English
+20,20,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos,Chelsea,West Ham United,2015,English
+21,21,Angelo Ogbonna Obinze,ITA,D,1.89,86,23-05-88,Cassino,Juventus,West Ham United,2015,English
+22,22,Sam Byram,ENG,D,1.83,72,16-09-93,Thurrock,Leeds U,West Ham United,2015,English
+25,25,Doneil Henry,CAN,D,1.88,82,20-04-93,Brampton,Apollon Limassol,West Ham United,2015,English
+27,27,Dimitri Payet,FRA,M,1.74,70,29-03-87,St-Pierre de la Réunion,Marseille,West Ham United,2015,English
+28,28,Manuel Lanzini,ARG,M,1.69,64,15-02-93,Ituzaingó,Al-Jazira,West Ham United,2015,English
+29,29,Emmanuel Emenike,NGA,F,1.82,82,10-05-87,Otuocha,Fenerbahçe,West Ham United,2015,English
+30,30,Michail Antonio,ENG,M,1.80,82,28-03-90,Wandsworth,Nottingham F,West Ham United,2015,English
+32,32,Reece Burke,ENG,D,1.89,81,02-09-96,Newham,None,West Ham United,2015,English
+33,33,Stephen Hendrie,SCO,D,1.78,70,08-01-95,Glasgow,Hamilton Academical,West Ham United,2015,English
+34,34,Raphael Spiegel,SUI,G,1.96,88,19-12-92,Rüttenen,Grasshoppers,West Ham United,2015,English
+35,35,Reece Oxford,ENG,D,1.90,71,16-12-98,Edmonton,None,West Ham United,2015,English
+37,37,Lewis Page,ENG,D,1.78,72,20-05-96,Enfield,None,West Ham United,2015,English
+39,39,Josh Cullen,IRL,M,1.75,70,07-04-96,Southend-on-Sea,None,West Ham United,2015,English
+40,40,Djair Parfitt-Williams,USA,F,1.68,64,01-10-96,,San Jose Earthquakes,West Ham United,2015,English
+41,41,Marcus Browne,ENG,M,1.79,74,18-12-97,Tower Hamlets,None,West Ham United,2015,English
+42,44,George Dobson,ENG,M,1.85,73,15-11-97,Harold Wood,Arsenal,West Ham United,2015,English
+43,46,Sam Howes,ENG,G,1.90,85,10-11-97,London,None,West Ham United,2015,English

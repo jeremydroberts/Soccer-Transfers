@@ -1,0 +1,726 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Wojciech Szczęsny,POL,G,1.95,84,18-04-90,Warsaw,Legia Warszawa,Arsenal,2012,English
+2,2,Abou Diaby,FRA,M,1.88,75,11-05-86,Paris,Auxerre,Arsenal,2012,English
+3,3,Bacary Sagna,FRA,D,1.76,72,14-02-83,Sens,Auxerre,Arsenal,2012,English
+4,4,Per Mertesacker,GER,D,1.98,90,29-09-84,Hannover,Werder Bremen,Arsenal,2012,English
+5,5,Thomas Vermaelen,BEL,D,1.82,75,14-11-85,Kapellen,Ajax,Arsenal,2012,English
+6,6,Laurent Koscielny,FRA,D,1.86,75,10-09-85,Tulle,Lorient,Arsenal,2012,English
+7,7,Tomá Rosický,CZE,M,1.78,67,04-10-80,Prague,Borussia Dortmund,Arsenal,2012,English
+8,8,Mikel Arteta,ESP,M,1.75,69,26-03-82,San Sebastián,Everton,Arsenal,2012,English
+9,9,Lukas Podolski,GER,F,1.82,83,04-06-85,Gliwice,Köln,Arsenal,2012,English
+10,10,Jack Wilshere,ENG,M,1.70,65,01-01-92,Stevenage,None,Arsenal,2012,English
+12,12,Olivier Giroud,FRA,F,1.92,88,30-09-86,Chambéry,Montpellier,Arsenal,2012,English
+14,14,Theo Walcott,ENG,F,1.75,68,16-03-89,Stanmore,Southampton,Arsenal,2012,English
+15,15,Alex Oxlade-Chamberlain,ENG,M,1.80,70,15-08-93,Portsmouth,Southampton,Arsenal,2012,English
+16,16,Aaron Ramsey,WAL,M,1.78,76,26-12-90,Caerphilly,Cardiff C,Arsenal,2012,English
+17,17,Nacho Monreal,ESP,D,1.78,72,26-02-86,Pamplona,Málaga,Arsenal,2012,English
+18,18,Sébastien Squillaci,FRA,D,1.84,76,11-08-80,Toulon,Sevilla,Arsenal,2012,English
+19,19,Santi Cazorla,ESP,M,1.68,66,13-12-84,Lugo de Llanera,Málaga,Arsenal,2012,English
+21,21,Łukasz Fabiański,POL,G,1.90,84,18-04-85,Kostrzyn nad Odrą,Legia Warszawa,Arsenal,2012,English
+22,22,Francis Coquelin,FRA,M,1.78,73,13-05-91,Laval,Laval,Arsenal,2012,English
+23,23,Andrey Arshavin,RUS,M,1.72,71,29-05-81,St. Petersburg,Zenit St Petersburg,Arsenal,2012,English
+24,24,Vito Mannone,ITA,G,1.94,73,02-03-88,Desio,Atalanta,Arsenal,2012,English
+25,25,Carl Jenkinson,ENG,D,1.85,77,08-02-92,Buckhurst Hill,Charlton Ath,Arsenal,2012,English
+27,27,"Kouassi Gervais ""Gervinho"" Yao",CIV,F,1.79,68,27-05-87,Anyama,Lille,Arsenal,2012,English
+28,28,Kieran Gibbs,ENG,D,1.80,70,26-09-89,Lambeth,None,Arsenal,2012,English
+36,36,Emiliano Martínez,ARG,G,1.93,85,02-09-92,Mar del Plata,Independiente,Arsenal,2012,English
+38,38,Martin Angha,SUI,D,1.88,81,22-01-94,Zürich,Zürich,Arsenal,2012,English
+39,39,Zak Ansah,ENG,F,1.79,70,04-05-94,Sidcup,None,Arsenal,2012,English
+40,40,Héctor Bellerín,ESP,D,1.77,74,19-03-95,Barcelona,Barcelona,Arsenal,2012,English
+41,41,Samir Bihmoutine,ENG,D,1.85,76,08-12-93,Newham,None,Arsenal,2012,English
+42,42,Daniel Boateng,ENG,D,1.83,78,02-09-92,Enfield,None,Arsenal,2012,English
+43,43,Reice Charles-Cook,ENG,G,1.85,80,08-04-94,Lewisham,None,Arsenal,2012,English
+44,44,Craig Eastmond,ENG,D,1.83,75,09-12-90,Wandsworth,None,Arsenal,2012,English
+45,45,Kyle Ebecilio,NED,M,1.80,77,17-02-94,Rotterdam,Feyenoord,Arsenal,2012,English
+46,46,Thomas Eisfeld,GER,M,1.77,65,18-01-93,Finsterwalde,Borussia Dortmund,Arsenal,2012,English
+47,47,Serge Gnabry,GER,M,1.73,73,14-07-95,Stuttgart,Stuttgart,Arsenal,2012,English
+48,48,Sead Hajrovic,SUI,D,1.83,80,04-06-93,Brugg,Grasshoppers,Arsenal,2012,English
+49,49,Isaac Hayden,ENG,D,1.87,79,22-03-95,Chelmsford,None,Arsenal,2012,English
+50,50,Conor Henderson,IRL,M,1.85,76,08-09-91,Sidcup,None,Arsenal,2012,English
+51,51,Benik Afobe,ENG,F,1.79,70,12-02-93,Leyton,None,Arsenal,2012,English
+52,53,Jernade Meade,ENG,M,1.73,74,25-10-92,Luton,None,Arsenal,2012,English
+53,54,Ignasi Miquel,ESP,D,1.93,85,28-09-92,Barcelona,Cornellà,Arsenal,2012,English
+54,55,Elton Monteiro,SUI,D,1.92,85,22-02-94,Sion,Sion,Arsenal,2012,English
+55,56,Nigel Neita,ENG,F,1.81,75,23-12-93,Southwark,Millwall,Arsenal,2012,English
+56,57,Kristoffer Olsson,SWE,M,1.78,70,30-06-95,Vrinnevi,IFK Norrköping,Arsenal,2012,English
+57,58,Josh Rees,ENG,M,1.75,70,04-10-93,Hemel Hempstead,None,Arsenal,2012,English
+58,60,James Shea,ENG,G,1.80,76,16-06-91,Islington,None,Arsenal,2012,English
+59,61,Jon Toral,ESP,M,1.84,80,05-02-95,Reus,Barcelona,Arsenal,2012,English
+60,62,Sanchez Watt,ENG,M,1.80,76,14-02-91,Hackney,None,Arsenal,2012,English
+61,63,Jordan Wynter,ENG,M,1.86,77,24-11-93,Goodmayes,None,Arsenal,2012,English
+62,64,Nico Yennaris,ENG,D,1.70,65,23-05-93,Leytonstone,None,Arsenal,2012,English
+63,65,Jack Jebb,ENG,M,1.82,74,11-09-95,Kensington,None,Arsenal,2012,English
+64,66,Austin Lipman,ENG,F,,,20-09-95,Leytonstone,None,Arsenal,2012,English
+65,67,Chuba Akpom,ENG,F,1.83,77,09-10-95,Newham,None,Arsenal,2012,English
+66,68,Dejan Iliev,MKD,G,1.95,87,25-02-95,Strumica,Belasica,Arsenal,2012,English
+67,71,Brandon Ormonde-Ottewill,ENG,D,1.76,61,21-12-95,Sutton,None,Arsenal,2012,English
+1,1,Shay Given,IRL,G,1.88,84,20-04-76,Lifford,Manchester C,Aston Villa,2012,English
+4,4,Ron Vlaar,NED,D,1.89,80,16-02-85,Hensbroek,Feyenoord,Aston Villa,2012,English
+5,5,Richard Dunne,IRL,D,1.88,95,21-09-79,Dublin,Manchester C,Aston Villa,2012,English
+6,6,Ciaran Clark,IRL,D,1.88,76,26-09-89,Harrow,None,Aston Villa,2012,English
+7,7,Stephen Ireland,IRL,M,1.75,68,22-08-86,Cork,Manchester C,Aston Villa,2012,English
+8,8,Karim El Ahmadi,MAR,M,1.85,78,27-01-85,Enschede,Feyenoord,Aston Villa,2012,English
+9,9,Darren Bent,ENG,F,1.80,73,06-02-84,Tooting,Sunderland,Aston Villa,2012,English
+10,10,Charles N'Zogbia,FRA,M,1.70,70,28-05-86,Harfleur,Wigan Ath,Aston Villa,2012,English
+11,11,Gabriel Agbonlahor,ENG,F,1.80,79,13-10-86,Birmingham,None,Aston Villa,2012,English
+12,12,Marc Albrighton,ENG,M,1.75,67,18-11-89,Tamworth,None,Aston Villa,2012,English
+14,14,Brett Holman,AUS,M,1.77,69,27-03-84,Bankstown,AZ Alkmaar,Aston Villa,2012,English
+15,15,Ashley Westwood,ENG,M,1.75,67,01-04-90,Nantwich,Crewe Alex,Aston Villa,2012,English
+16,16,Fabian Delph,ENG,M,1.74,60,21-11-89,Bradford,Leeds U,Aston Villa,2012,English
+18,18,Yacouba Sylla,FRA,M,1.84,80,29-11-90,Étampes,Clermont,Aston Villa,2012,English
+20,20,Christian Benteke,BEL,F,1.90,83,03-12-90,Kinshasa,KRC Genk,Aston Villa,2012,English
+21,21,Jordan Bowery,ENG,F,1.85,76,02-07-91,Nottingham,Chesterfield,Aston Villa,2012,English
+22,22,Brad Guzan,USA,G,1.93,94,09-09-84,Home Glen,Chivas USA,Aston Villa,2012,English
+24,24,Simon Dawkins,ENG,F,1.78,70,01-12-87,Edgware,Tottenham H,Aston Villa,2012,English
+25,25,Barry Bannan,SCO,M,1.70,60,01-12-89,Glasgow,None,Aston Villa,2012,English
+26,26,Andreas Weimann,AUT,F,1.88,76,05-08-91,Vienna,None,Aston Villa,2012,English
+27,27,Joe Bennett,ENG,D,1.77,74,28-03-90,Rochdale,Middlesbrough,Aston Villa,2012,English
+29,29,Enda Stevens,IRL,D,1.83,78,09-07-90,Dublin,Shamrock R,Aston Villa,2012,English
+30,30,Eric Lichaj,USA,D,1.80,79,17-11-88,Downers Grove,Univ of Nth Carolina,Aston Villa,2012,English
+31,31,Chris Herd,AUS,M,1.73,76,04-04-89,Perth [AUS],Bayswater C,Aston Villa,2012,English
+32,32,Nathan Baker,ENG,D,1.91,80,23-04-91,Worcester,None,Aston Villa,2012,English
+33,33,Andy Marshall,ENG,G,1.88,86,14-04-75,Bury St Edmunds,Coventry C,Aston Villa,2012,English
+34,34,Matthew Lowton,ENG,D,1.80,78,09-06-89,Chesterfield,Sheffield U,Aston Villa,2012,English
+35,35,Daniel Johnson,ENG,M,1.74,67,08-10-92,Kingston,Crystal Palace,Aston Villa,2012,English
+36,36,Graham Burke,IRL,F,1.80,75,21-09-93,Dublin,Belvedere,Aston Villa,2012,English
+37,37,Derrick Williams,IRL,D,1.80,75,17-01-93,Waterford,None,Aston Villa,2012,English
+38,38,Gary Gardner,ENG,M,1.88,82,29-06-92,Solihull,None,Aston Villa,2012,English
+39,39,Benjamin Siegrist,SUI,G,1.94,85,31-01-92,Basel,Basel,Aston Villa,2012,English
+40,40,Samir Carruthers,IRL,M,1.73,70,04-04-93,Islington,Arsenal,Aston Villa,2012,English
+1,1,Petr Čech,CZE,G,1.96,90,20-05-82,Plzeň,Rennes,Chelsea,2012,English
+2,2,Branislav Ivanović,SRB,D,1.88,86,22-02-84,Sremska Mitrovica,Lokomotiv Moscow,Chelsea,2012,English
+3,3,Ashley Cole,ENG,D,1.72,67,20-12-80,Stepney,Arsenal,Chelsea,2012,English
+4,4,David Luiz,BRA,D,1.89,84,22-04-87,São Paulo,Benfica,Chelsea,2012,English
+6,6,Oriol Romeu,ESP,M,1.82,79,24-09-91,Ulldecona,Barcelona B,Chelsea,2012,English
+7,7,Ramires,BRA,M,1.79,65,24-03-87,Rio de Janeiro,Benfica,Chelsea,2012,English
+8,8,Frank Lampard,ENG,M,1.83,90,20-06-78,Romford,West Ham U,Chelsea,2012,English
+9,9,Fernando Torres,ESP,F,1.86,78,20-03-84,Madrid,Liverpool,Chelsea,2012,English
+10,10,Juan Mata,ESP,F,1.70,63,28-04-88,Burgos,Valencia,Chelsea,2012,English
+11,11,Oscar,BRA,M,1.79,66,09-09-91,Americana,Internacional,Chelsea,2012,English
+12,12,Mikel John Obi,NGA,M,1.84,85,22-04-87,Jos,Lyn,Chelsea,2012,English
+13,13,Victor Moses,NGA,F,1.77,75,12-12-90,Lagos,Wigan Ath,Chelsea,2012,English
+15,15,Florent Malouda,FRA,M,1.81,73,13-06-80,Cayenne,Lyon,Chelsea,2012,English
+17,17,Eden Hazard,BEL,M,1.70,69,07-01-91,La Louvière,Lille,Chelsea,2012,English
+19,19,Paulo Ferreira,POR,D,1.82,76,18-01-79,Lisbon,FC Porto,Chelsea,2012,English
+21,21,Marko Marin,GER,M,1.70,63,13-03-89,Gradika,Werder Bremen,Chelsea,2012,English
+22,22,Ross Turnbull,ENG,G,1.93,85,04-01-85,Bishop Auckland,Middlesbrough,Chelsea,2012,English
+24,24,Gary Cahill,ENG,D,1.88,71,19-12-85,Sheffield,Bolton W,Chelsea,2012,English
+26,26,John Terry,ENG,D,1.86,91,07-12-80,Barking,None,Chelsea,2012,English
+28,28,César Azpilicueta,ESP,D,1.78,70,28-08-89,Pamplona,Marseille,Chelsea,2012,English
+29,29,Demba Ba,SEN,F,1.89,83,25-05-85,Sèvres,Newcastle U,Chelsea,2012,English
+30,30,Yossi Benayoun,ISR,M,1.78,70,05-05-80,Beersheba,Liverpool,Chelsea,2012,English
+32,32,Andreas Christensen,DEN,D,1.88,68,10-04-96,Allerød,Brøndby,Chelsea,2012,English
+33,33,Ruben Loftus-Cheek,ENG,M,1.93,71,23-01-96,Lewisham,None,Chelsea,2012,English
+34,34,Ryan Bertrand,ENG,D,1.79,85,05-08-89,Southwark,Gillingham,Chelsea,2012,English
+40,40,Hilário,POR,G,1.88,86,21-10-75,São Pedro da Cova,Nacional [POR],Chelsea,2012,English
+41,46,Jamal Blackman,ENG,G,1.96,82,27-10-93,Croydon,None,Chelsea,2012,English
+42,47,Billy Clifford,ENG,D,1.70,67,18-10-92,Slough,None,Chelsea,2012,English
+43,49,Aziz Deen-Conteh,ENG,D,1.76,70,14-01-93,Bumpeh,None,Chelsea,2012,English
+44,54,Todd Kane,ENG,D,1.80,70,17-09-93,Huntingdon,None,Chelsea,2012,English
+45,56,George Saville,ENG,M,1.76,73,01-06-93,Camberley,None,Chelsea,2012,English
+46,57,Nathan Aké,NED,D,1.80,71,18-02-95,Den Haag,Feyenoord,Chelsea,2012,English
+47,58,Daniel Pappoe,GHA,D,1.91,93,30-12-93,Accra,None,Chelsea,2012,English
+1,1,Ján Mucha,SVK,G,1.89,87,05-12-82,Belá nad Cirochou,Legia Warszawa,Everton,2012,English
+2,2,Tony Hibbert,ENG,D,1.73,72,20-02-81,Liverpool,None,Everton,2012,English
+3,3,Leighton Baines,ENG,D,1.70,75,11-12-84,Liverpool,Wigan Ath,Everton,2012,English
+4,4,Darron Gibson,IRL,M,1.80,83,25-10-87,Derry,Manchester U,Everton,2012,English
+5,5,John Heitinga,NED,D,1.80,72,15-11-83,Alphen aan den Rijn,Atlético Madrid,Everton,2012,English
+6,6,Phil Jagielka,ENG,D,1.83,83,17-08-82,Sale,Sheffield U,Everton,2012,English
+7,7,Nikica Jelavić,CRO,F,1.88,88,27-08-85,Capljina,Rangers,Everton,2012,English
+8,8,Bryan Oviedo,CRC,D,1.72,70,18-02-90,Alajuela,FC København,Everton,2012,English
+11,11,Kevin Mirallas,BEL,F,1.78,72,05-10-87,Liège,Olympiakos,Everton,2012,English
+14,14,Steven Naismith,SCO,F,1.78,72,14-09-86,Irvine,Rangers,Everton,2012,English
+15,15,Sylvain Distin,FRA,D,1.93,85,16-12-77,Bagnolet,Portsmouth,Everton,2012,English
+16,16,Thomas Hitzlsperger,GER,M,1.83,80,05-04-82,Munich,Wolfsburg,Everton,2012,English
+18,18,Phil Neville,ENG,D,1.80,75,21-01-77,Bury,Manchester U,Everton,2012,English
+20,20,Ross Barkley,ENG,M,1.89,76,05-12-93,Liverpool,None,Everton,2012,English
+21,21,Leon Osman,ENG,M,1.73,62,17-05-81,Billinge,None,Everton,2012,English
+22,22,Steven Pienaar,RSA,M,1.70,66,17-03-82,Johannesburg,Tottenham H,Everton,2012,English
+23,23,Séamus Coleman,IRL,D,1.93,67,11-10-88,Donegal,Sligo R,Everton,2012,English
+24,24,Tim Howard,USA,G,1.91,95,06-03-79,North Brunswick,Manchester  U,Everton,2012,English
+25,25,Marouane Fellaini,BEL,M,1.94,85,22-11-87,Etterbeek,Standard Liège,Everton,2012,English
+26,26,John Stones,ENG,D,1.88,70,28-05-94,Barnsley,Barnsley,Everton,2012,English
+27,27,Apostolos Vellios,GRE,F,1.91,79,08-01-92,Thessaloniki,Iraklis,Everton,2012,English
+28,28,Victor Anichebe,NGA,F,1.85,80,23-04-88,Lagos,None,Everton,2012,English
+30,30,Francisco Júnior,POR,M,1.62,65,18-01-92,Bissau,Manchester C,Everton,2012,English
+31,31,Matthew Kennedy,SCO,M,1.75,65,01-11-94,Irvine,Kilmarnock,Everton,2012,English
+34,34,Shane Duffy,IRL,D,1.93,76,01-01-92,Derry,None,Everton,2012,English
+40,40,Tyias Browning,ENG,D,1.81,76,27-05-94,Liverpool,None,Everton,2012,English
+41,41,Jake Bidwell,ENG,D,1.83,70,21-03-93,Southport,None,Everton,2012,English
+42,42,Luke Garbutt,ENG,D,1.78,73,21-05-93,Harrogate,Leeds U,Everton,2012,English
+43,43,Conor McAleny,ENG,F,1.78,79,12-08-92,Liverpool,None,Everton,2012,English
+44,46,Mason Springthorpe,ENG,G,1.88,72,01-11-94,Shrewsbury,Shrewsbury T,Everton,2012,English
+1,1,Mark Schwarzer,AUS,G,1.94,85,06-10-72,Sydney,Middlesbrough,Fulham,2012,English
+3,3,John Arne Riise,NOR,D,1.85,78,24-09-80,Molde,Roma,Fulham,2012,English
+4,4,Philippe Senderos,SUI,D,1.90,84,14-02-85,Geneva,Arsenal,Fulham,2012,English
+5,5,Brede Hangeland,NOR,D,1.95,92,20-06-81,Houston,FC København,Fulham,2012,English
+6,6,Chris Baird,NIR,D,1.79,71,25-02-82,Ballymena,Southampton,Fulham,2012,English
+7,7,Steve Sidwell,ENG,M,1.78,70,14-12-82,Wandsworth,Aston Villa,Fulham,2012,English
+9,9,Dimitar Berbatov,BUL,F,1.88,79,30-01-81,Blagoevgrad,Manchester U,Fulham,2012,English
+10,10,Mladen Petrić,CRO,F,1.85,81,01-01-81,Dubrave,Hamburg,Fulham,2012,English
+11,11,Bryan Ruiz,CRC,F,1.88,78,18-08-85,San José [CRC],FC Twente,Fulham,2012,English
+12,12,Emmanuel Frimpong,GHA,M,1.83,83,10-01-92,Accra,Arsenal,Fulham,2012,English
+14,14,Giorgos Karagounis,GRE,M,1.76,74,06-03-77,Pyrgos,Panathinaikos,Fulham,2012,English
+15,15,Kieran Richardson,ENG,M,1.79,74,21-10-84,Greenwich,Sunderland,Fulham,2012,English
+16,16,Damien Duff,IRL,M,1.78,70,02-03-79,Ballyboden,Newcastle U,Fulham,2012,English
+17,17,Matthew Briggs,ENG,D,1.88,84,09-03-91,Wandsworth,None,Fulham,2012,English
+18,18,Aaron Hughes,NIR,D,1.83,72,08-11-79,Magherafelt,Aston Villa,Fulham,2012,English
+19,19,Mahamadou Diarra,MLI,M,1.83,76,18-05-81,Bamako,Monaco,Fulham,2012,English
+20,20,Hugo Rodallega,COL,F,1.81,72,25-07-85,El Carmelo,Wigan Ath,Fulham,2012,English
+21,21,Kerim Frei,TUR,M,1.71,66,19-11-93,Feldkirch,Grasshoppers,Fulham,2012,English
+22,22,Csaba Somogyi,HUN,G,1.90,85,07-04-85,Dunaújváros,REAC,Fulham,2012,English
+24,24,Ashkan Dejagah,IRN,F,1.81,74,05-07-86,Tehran,Wolfsburg,Fulham,2012,English
+25,25,Stanislav Manolev,BUL,D,1.83,72,16-12-85,Blagoevgrad,PSV Eindhoven,Fulham,2012,English
+27,27,Sascha Riether,GER,D,1.74,70,23-03-83,Lahr,Köln,Fulham,2012,English
+28,28,Urby Emanuelson,NED,M,1.76,68,16-06-86,Amsterdam,Milan,Fulham,2012,English
+29,29,Simon Davies,WAL,M,1.78,76,23-10-79,Haverfordwest,Everton,Fulham,2012,English
+31,31,Alex Kačaniklić,SWE,M,1.75,71,13-08-91,Helsingborg,Liverpool,Fulham,2012,English
+32,32,Chris David,NED,M,1.70,71,06-03-93,Amsterdam,FC Twente,Fulham,2012,English
+33,33,Eyong Enoh,CMR,M,1.80,76,23-03-86,Kumba,Ajax,Fulham,2012,English
+35,35,Marcus Bettinelli,ENG,G,1.94,82,24-05-92,Camberwell,None,Fulham,2012,English
+36,36,Buomesca Tué Na Bangna,POR,M,1.74,65,06-05-93,Bissau,Chelsea,Fulham,2012,English
+37,37,Dan Burn,ENG,D,1.98,83,09-05-92,Blyth,Darlington,Fulham,2012,English
+38,38,Neil Etheridge,PHI,G,1.91,89,07-02-90,Enfield,None,Fulham,2012,English
+40,40,Alex Smith,ENG,D,1.75,54,31-10-91,Clapham,None,Fulham,2012,English
+41,41,Tom Donegan,ENG,M,1.78,70,15-09-92,Fazakerley,Everton,Fulham,2012,English
+42,42,Charles Banya,ENG,M,1.70,61,18-09-93,Lambeth,None,Fulham,2012,English
+43,43,Muamer Tanković,SWE,F,1.79,74,22-02-95,Tingstad,IFK Norrköping,Fulham,2012,English
+44,44,Jack Grimmer,SCO,M,1.84,84,25-01-94,Aberdeen,Aberdeen,Fulham,2012,English
+1,1,Brad Jones,AUS,G,1.91,76,19-03-82,Armadale,Middlesbrough,Liverpool,2012,English
+2,2,Glen Johnson,ENG,D,1.82,70,23-08-84,Greenwich,Portsmouth,Liverpool,2012,English
+3,3,José Enrique,ESP,D,1.84,82,23-01-86,Valencia,Newcastle U,Liverpool,2012,English
+5,5,Daniel Agger,DEN,D,1.87,75,12-12-84,Hvidovre,Brøndby,Liverpool,2012,English
+7,7,Luis Suárez,URU,F,1.81,81,24-01-87,Salto,Ajax,Liverpool,2012,English
+8,8,Steven Gerrard,ENG,M,1.83,79,30-05-80,Whiston,None,Liverpool,2012,English
+10,10,Philippe Coutinho,BRA,M,1.71,68,12-06-92,Rio de Janeiro,Internazionale,Liverpool,2012,English
+11,11,Oussama Assaidi,MAR,M,1.78,70,05-08-88,Beni Boughafar,SC Heerenveen,Liverpool,2012,English
+14,14,Jordan Henderson,ENG,M,1.82,67,17-06-90,Sunderland,Sunderland,Liverpool,2012,English
+15,15,Daniel Sturridge,ENG,F,1.88,76,01-09-89,Birmingham,Chelsea,Liverpool,2012,English
+16,16,Sebastián Coates,URU,D,1.96,88,07-10-90,Montevideo,Nacional [URU],Liverpool,2012,English
+19,19,Stewart Downing,ENG,M,1.80,64,22-07-84,Middlesbrough,Aston Villa,Liverpool,2012,English
+21,21,Lucas Leiva,BRA,M,1.79,74,09-01-87,Dourados,Grêmio,Liverpool,2012,English
+23,23,Jamie Carragher,ENG,D,1.85,83,28-01-78,Bootle,None,Liverpool,2012,English
+24,24,Joe Allen,WAL,M,1.68,62,14-03-90,Carmarthen,Swansea C,Liverpool,2012,English
+25,25,Pepe Reina,ESP,G,1.88,92,31-08-82,Madrid,Villarreal,Liverpool,2012,English
+29,29,Fabio Borini,ITA,F,1.80,74,29-03-91,Bentivoglio,Roma,Liverpool,2012,English
+30,30,Suso,ESP,F,1.76,69,19-11-93,Cádiz,Cádiz,Liverpool,2012,English
+31,31,Raheem Sterling,ENG,M,1.70,69,08-12-94,Kingston,QPR,Liverpool,2012,English
+33,33,Jonjo Shelvey,ENG,M,1.83,70,27-02-92,Romford,Charlton Ath,Liverpool,2012,English
+34,34,Martin Kelly,ENG,D,1.91,77,27-04-90,Bolton,None,Liverpool,2012,English
+35,35,Conor Coady,ENG,D,1.85,75,25-02-93,Liverpool,None,Liverpool,2012,English
+36,36,Samed Yeşil,GER,F,1.78,72,25-05-94,Düsseldorf,Bayer Leverkusen,Liverpool,2012,English
+37,37,Martin krteľ,SVK,D,1.91,81,15-12-84,Handlová,Zenit St Petersburg,Liverpool,2012,English
+38,38,Jon Flanagan,ENG,D,1.81,79,21-01-93,Liverpool,None,Liverpool,2012,English
+41,42,Péter Gulácsi,HUN,G,1.90,83,06-05-90,Budapest,MTK,Liverpool,2012,English
+42,43,Ryan McLaughlin,NIR,D,1.74,69,03-09-94,Belfast,None,Liverpool,2012,English
+43,44,Jordon Ibe,ENG,F,1.75,70,08-12-95,Southwark,Wycombe W,Liverpool,2012,English
+44,45,Stephen Sama,GER,D,1.88,83,05-03-93,Bamenda,Borussia Dortmund,Liverpool,2012,English
+45,47,Andre Wisdom,ENG,D,1.86,78,09-05-93,Leeds,None,Liverpool,2012,English
+46,48,Jerome Sinclair,ENG,F,1.73,79,20-09-96,Birmingham,WBA,Liverpool,2012,English
+47,49,Jack Robinson,ENG,D,1.80,67,01-09-93,Warrington,None,Liverpool,2012,English
+48,50,Adam Morgan,ENG,F,1.79,71,21-04-94,Liverpool,None,Liverpool,2012,English
+49,51,Krisztián Adorján,HUN,M,1.80,70,19-01-93,Budapest,MTK,Liverpool,2012,English
+50,52,Danny Ward,WAL,G,1.91,88,22-06-93,Wrexham,Wrexham,Liverpool,2012,English
+1,1,Joe Hart,ENG,G,1.91,80,19-04-87,Shrewsbury,Shrewsbury T,Manchester City,2012,English
+2,2,Micah Richards,ENG,D,1.80,83,24-06-88,Birmingham,None,Manchester City,2012,English
+3,3,Maicon,BRA,D,1.84,77,26-07-81,Criciúma,Internazionale,Manchester City,2012,English
+4,4,Vincent Kompany,BEL,D,1.91,91,10-04-86,Ukkel,Hamburg,Manchester City,2012,English
+5,5,Pablo Zabaleta,ARG,D,1.74,74,16-01-85,Capital Federal,Espanyol,Manchester City,2012,English
+6,6,Joleon Lescott,ENG,D,1.88,83,16-08-82,Birmingham,Everton,Manchester City,2012,English
+7,7,James Milner,ENG,M,1.70,67,04-01-86,Wortley,Aston Villa,Manchester City,2012,English
+8,8,Samir Nasri,FRA,M,1.77,75,26-06-87,Marseille,Arsenal,Manchester City,2012,English
+10,10,Edin Deko,BIH,F,1.92,80,17-03-86,Doboj,Wolfsburg,Manchester City,2012,English
+11,11,Scott Sinclair,ENG,M,1.75,64,25-03-89,Bath,Swansea C,Manchester City,2012,English
+13,13,Aleksandar Kolarov,SRB,D,1.87,83,10-11-85,Belgrade,Lazio,Manchester City,2012,English
+14,14,Javi García,ESP,M,1.86,78,08-02-87,Murcia,Benfica,Manchester City,2012,English
+16,16,Sergio Agüero,ARG,F,1.72,74,02-06-88,Capital Federal,Atlético Madrid,Manchester City,2012,English
+17,17,Jack Rodwell,ENG,M,1.88,70,11-03-91,Birkdale,Everton,Manchester City,2012,English
+18,18,Gareth Barry,ENG,M,1.83,79,23-02-81,Hastings,Aston Villa,Manchester City,2012,English
+21,21,David Silva,ESP,M,1.70,67,08-01-86,Arguineguín,Valencia,Manchester City,2012,English
+22,22,Gaël Clichy,FRA,D,1.81,72,26-07-85,Toulouse,Arsenal,Manchester City,2012,English
+28,28,Kolo Touré,CIV,D,1.83,76,19-03-81,Sokoura Bouaké,Arsenal,Manchester City,2012,English
+29,29,Richard Wright,ENG,G,1.87,82,05-11-77,Ipswich,Preston NE,Manchester City,2012,English
+30,30,Costel Pantilimon,ROU,G,1.97,96,01-02-87,Bacău,FC Timişoara,Manchester City,2012,English
+32,32,Carlos Tévez,ARG,F,1.71,75,05-02-84,Ciudadela,West Ham U,Manchester City,2012,English
+33,33,Matija Nastasić,SRB,D,1.87,79,28-03-93,Belgrade,Fiorentina,Manchester City,2012,English
+36,36,Denis Suárez,ESP,M,1.81,72,06-01-94,Tui,Celta Vigo,Manchester City,2012,English
+38,38,Dedryck Boyata,BEL,D,1.88,84,08-09-90,Uccle,None,Manchester City,2012,English
+41,42,Yaya Touré,CIV,M,1.91,90,13-05-83,Sokoura Bouaké,Barcelona,Manchester City,2012,English
+42,44,Karim Rekik,NED,D,1.83,76,02-12-94,Den Haag,Feyenoord,Manchester City,2012,English
+43,47,Harry Bunn,ENG,F,1.75,75,21-11-92,Oldham,None,Manchester City,2012,English
+44,52,Emyr Huws,WAL,M,1.85,78,30-09-93,Llanelli,None,Manchester City,2012,English
+45,53,Alex Henshall,ENG,F,1.77,71,15-02-94,Swindon,Swindon T,Manchester City,2012,English
+46,54,Kieran Kennedy,ENG,D,1.83,70,23-09-93,Urmston,None,Manchester City,2012,English
+47,55,Albert Rusnák,SVK,M,1.75,61,07-07-94,Koice,None,Manchester City,2012,English
+48,56,Courtney Meppen-Walter,ENG,D,1.84,77,02-08-94,Bury,None,Manchester City,2012,English
+49,60,John Guidetti,SWE,F,1.81,79,15-04-92,Stockholm,IF Brommapojkarna,Manchester City,2012,English
+50,62,Abdul Razak,CIV,M,1.80,76,11-11-92,Bouaké,Crystal Palace,Manchester City,2012,English
+51,63,Eirik Johansen,NOR,G,1.93,89,12-07-92,Tønsberg,None,Manchester City,2012,English
+52,64,Marcos Lopes,POR,M,1.74,68,28-12-95,Belém,Benfica,Manchester City,2012,English
+53,74,George Evans,ENG,M,1.84,76,13-12-94,Cheadle,None,Manchester City,2012,English
+1,1,David De Gea,ESP,G,1.92,82,07-11-90,Madrid,Atlético Madrid,Manchester United,2012,English
+2,2,Rafael,BRA,D,1.72,65,09-07-90,Petrópolis,Fluminense,Manchester United,2012,English
+3,3,Patrice Evra,FRA,D,1.75,76,15-05-81,Dakar,Monaco,Manchester United,2012,English
+4,4,Phil Jones,ENG,D,1.80,71,21-02-92,Preston,Blackburn R,Manchester United,2012,English
+5,5,Rio Ferdinand,ENG,D,1.89,82,07-11-78,Peckham,Leeds U,Manchester United,2012,English
+6,6,Jonny Evans,NIR,D,1.88,77,02-01-88,Belfast,None,Manchester United,2012,English
+7,7,Luis Antonio Valencia,ECU,M,1.81,78,04-08-85,Lago Agrio,Wigan Ath,Manchester United,2012,English
+8,8,Anderson,BRA,M,1.76,69,13-04-88,Porto Alegre,FC Porto,Manchester United,2012,English
+10,10,Wayne Rooney,ENG,F,1.78,78,24-10-85,Croxteth,Everton,Manchester United,2012,English
+11,11,Ryan Giggs,WAL,M,1.80,68,29-11-73,Cardiff,None,Manchester United,2012,English
+12,12,Chris Smalling,ENG,D,1.93,90,22-11-89,Greenwich,Fulham,Manchester United,2012,English
+13,13,Anders Lindegaard,DEN,G,1.93,80,13-04-84,Odense,Aalesund,Manchester United,2012,English
+14,14,Javier Hernández,MEX,F,1.72,62,01-06-88,Guadalajara,Guadalajara,Manchester United,2012,English
+15,15,Nemanja Vidić,SRB,D,1.88,82,21-10-81,Uice,Spartak Moscow,Manchester United,2012,English
+16,16,Michael Carrick,ENG,M,1.86,74,28-07-81,Wallsend,Tottenham H,Manchester United,2012,English
+17,17,Nani,POR,M,1.75,66,17-11-86,Praia,Sporting CP,Manchester United,2012,English
+18,18,Ashley Young,ENG,M,1.75,65,09-07-85,Stevenage,Aston Villa,Manchester United,2012,English
+19,19,Danny Welbeck,ENG,F,1.85,73,26-11-90,Manchester,None,Manchester United,2012,English
+20,20,Robin van Persie,NED,F,1.83,71,06-08-83,Rotterdam,Arsenal,Manchester United,2012,English
+22,22,Paul Scholes,ENG,M,1.70,72,16-11-74,Salford,None,Manchester United,2012,English
+23,23,Tom Cleverley,ENG,M,1.75,67,12-08-89,Basingstoke,Bradford C,Manchester United,2012,English
+24,24,Darren Fletcher,SCO,M,1.83,83,01-02-84,Edinburgh,None,Manchester United,2012,English
+25,25,Nick Powell,ENG,M,1.83,66,23-03-94,Crewe,Crewe Alex,Manchester United,2012,English
+26,26,Shinji Kagawa,JPN,M,1.72,63,17-03-89,Hyogo,Borussia Dortmund,Manchester United,2012,English
+28,28,Alexander Büttner,NED,D,1.76,72,11-02-89,Doetinchem,Vitesse,Manchester United,2012,English
+34,34,Larnell Cole,ENG,M,1.68,63,09-03-93,Manchester,None,Manchester United,2012,English
+35,35,Jesse Lingard,ENG,M,1.68,58,15-12-92,Warrington,None,Manchester United,2012,English
+36,36,Marnick Vermijl,BEL,D,1.80,70,13-01-92,Peer,Standard Liège,Manchester United,2012,English
+39,39,Tom Thorpe,ENG,D,1.88,89,13-01-93,Manchester,None,Manchester United,2012,English
+40,40,Ben Amos,ENG,G,1.85,83,10-04-90,Macclesfield,None,Manchester United,2012,English
+41,42,Tyler Blackett,ENG,D,1.86,76,02-04-94,Manchester,None,Manchester United,2012,English
+42,44,Adnan Januzaj,BEL,M,1.80,75,05-02-95,Brussels,Anderlecht,Manchester United,2012,English
+43,46,Ryan Tunnicliffe,ENG,M,1.83,80,30-12-92,Bury,None,Manchester United,2012,English
+44,48,Will Keane,ENG,F,1.78,78,11-01-93,Stockport,None,Manchester United,2012,English
+45,49,Frédéric Veseli,SUI,D,1.83,80,20-11-92,Renens,Manchester C,Manchester United,2012,English
+46,50,Sam Johnstone,ENG,G,1.93,85,25-03-93,Preston,None,Manchester United,2012,English
+1,1,Tim Krul,NED,G,1.88,74,03-04-88,Den Haag,ADO Den Haag,Newcastle United,2012,English
+2,2,Fabricio Coloccini,ARG,D,1.83,78,22-01-82,Córdoba,Deportivo La Coruña,Newcastle United,2012,English
+3,3,Davide Santon,ITA,D,1.87,77,02-01-91,Portomaggiore,Internazionale,Newcastle United,2012,English
+4,4,Yohan Cabaye,FRA,M,1.75,72,14-01-86,Tourcoing,Lille,Newcastle United,2012,English
+5,5,Danny Simpson,ENG,D,1.73,74,04-01-87,Salford,Manchester U,Newcastle United,2012,English
+6,6,Michael Williamson,ENG,D,1.91,84,08-11-83,Stoke-on-Trent,Portsmouth,Newcastle United,2012,English
+7,7,Moussa Sissoko,FRA,M,1.87,83,16-08-89,Le Blanc Mesnil,Toulouse,Newcastle United,2012,English
+8,8,Vurnon Anita,NED,D,1.66,63,04-04-89,Willemstad,Ajax,Newcastle United,2012,English
+9,9,Papiss Demba Cissé,SEN,F,1.83,73,03-06-85,Dakar,Freiburg,Newcastle United,2012,English
+10,10,Hatem Ben Arfa,FRA,F,1.78,65,07-03-87,Clamart,Marseille,Newcastle United,2012,English
+11,11,Yoan Gouffran,FRA,F,1.75,70,25-05-86,Villeneuve-st-Georges,Bordeaux,Newcastle United,2012,English
+13,13,Mapou Yanga-Mbiwa,FRA,D,1.84,77,15-05-89,Bangui,Montpellier,Newcastle United,2012,English
+14,14,James Perch,ENG,D,1.80,72,28-09-85,Mansfield,Nottingham F,Newcastle United,2012,English
+15,15,Dan Gosling,ENG,M,1.78,71,02-02-90,Brixham,Everton,Newcastle United,2012,English
+16,16,Ryan Taylor,ENG,D,1.73,75,19-08-84,Liverpool,Wigan Ath,Newcastle United,2012,English
+17,17,Romain Amalfitano,FRA,M,1.75,69,27-08-89,Nice,Reims,Newcastle United,2012,English
+18,18,Jonás Gutiérrez,ARG,M,1.82,70,05-07-82,Sáenz Peña,Mallorca,Newcastle United,2012,English
+19,19,Massadio Haïdara,SEN,D,1.79,75,02-12-92,Trappes,Nancy,Newcastle United,2012,English
+20,20,Gaël Bigirimana,BDI,M,1.73,68,22-10-93,Bujumbura,Coventry C,Newcastle United,2012,English
+21,21,Robert Elliot,IRL,G,1.90,98,30-04-86,Chatham,Charlton Ath,Newcastle United,2012,English
+22,22,Sylvain Marveaux,FRA,M,1.72,66,15-04-86,Vannes,Rennes,Newcastle United,2012,English
+23,23,Shola Ameobi,NGA,F,1.91,84,12-10-81,Zaria,None,Newcastle United,2012,English
+24,24,Cheik Ismael Tioté,CIV,M,1.80,79,21-06-86,Yamoussoukro,FC Twente,Newcastle United,2012,English
+25,25,Gabriel Obertan,FRA,F,1.86,79,26-02-89,Pantin,Manchester U,Newcastle United,2012,English
+26,26,Mathieu Debuchy,FRA,D,1.77,74,28-07-85,Fretin,Lille,Newcastle United,2012,English
+27,27,Steven Taylor,ENG,D,1.88,81,23-01-86,Greenwich,None,Newcastle United,2012,English
+28,28,Sammy Ameobi,ENG,F,1.90,66,01-05-92,Newcastle upon Tyne,None,Newcastle United,2012,English
+29,29,Haris Vučkić,SVN,M,1.88,80,21-08-92,Ljubljana,Domale,Newcastle United,2012,English
+31,31,Shane Ferguson,NIR,M,1.80,67,12-07-91,Derry,None,Newcastle United,2012,English
+33,33,Curtis Good,AUS,D,1.87,85,23-03-93,Melbourne,Melbourne Heart,Newcastle United,2012,English
+34,34,James Tavernier,ENG,D,1.76,70,31-10-91,Bradford,None,Newcastle United,2012,English
+37,37,Steve Harper,ENG,G,1.88,82,14-03-75,Easington,Seaham Red Star,Newcastle United,2012,English
+41,42,Jak Alnwick,ENG,G,1.88,82,17-06-93,Prudhoe,None,Newcastle United,2012,English
+42,44,Remie Streete,ENG,D,1.87,83,02-11-94,South Shields,None,Newcastle United,2012,English
+43,49,Adam Campbell,ENG,F,1.70,73,01-01-95,North Shields,None,Newcastle United,2012,English
+44,50,Steven Logan,SCO,M,,,10-09-94,Carlisle,None,Newcastle United,2012,English
+45,51,Yven Moyo,CGO,M,1.75,70,15-03-92,Orléans,Sochaux,Newcastle United,2012,English
+1,1,John Ruddy,ENG,G,1.96,97,24-10-86,St Ives,Everton,Norwich City,2012,English
+2,2,Russell Martin,SCO,D,1.83,74,04-01-86,Brighton,Peterborough U,Norwich City,2012,English
+3,3,Steven Whittaker,SCO,D,1.85,87,16-06-84,Edinburgh,Rangers,Norwich City,2012,English
+4,4,Bradley Johnson,ENG,M,1.78,68,28-04-87,Hackney,Leeds U,Norwich City,2012,English
+5,5,Sébastien Bassong,CMR,D,1.87,73,09-07-86,Paris,Tottenham H,Norwich City,2012,English
+6,6,Michael Turner,ENG,D,1.93,85,09-11-83,Lewisham,Sunderland,Norwich City,2012,English
+7,7,Robert Snodgrass,SCO,F,1.82,77,07-09-87,Glasgow,Leeds U,Norwich City,2012,English
+8,8,Jonathan Howson,ENG,M,1.80,77,21-05-88,Leeds,Leeds U,Norwich City,2012,English
+9,9,Grant Holt,ENG,F,1.83,79,12-04-81,Carlisle,Shrewsbury T,Norwich City,2012,English
+10,10,Simeon Jackson,CAN,F,1.70,72,28-03-87,Kingston,Gillingham,Norwich City,2012,English
+11,11,Andrew Surman,ENG,M,1.78,72,20-08-86,Johannesburg,Wolverhampton W,Norwich City,2012,English
+12,12,Anthony Pilkington,IRL,F,1.83,76,06-06-88,Blackburn,Huddersfield T,Norwich City,2012,English
+14,14,Wesley Hoolahan,IRL,M,1.68,71,20-05-82,Dublin,Blackpool,Norwich City,2012,English
+15,15,David Fox,ENG,M,1.75,77,13-12-83,Stoke,Colchester U,Norwich City,2012,English
+17,17,Elliott Bennett,ENG,M,1.75,69,18-12-88,Telford,Brighton & HA,Norwich City,2012,English
+18,18,Javier Garrido,ESP,D,1.78,75,15-03-85,Irún,Lazio,Norwich City,2012,English
+19,19,Luciano Becchio,ARG,F,1.87,85,28-12-83,Córdoba,Leeds U,Norwich City,2012,English
+20,20,Leon Barnett,ENG,D,1.85,71,30-11-85,Luton,WBA,Norwich City,2012,English
+21,21,Jacob Butterfield,ENG,M,1.80,78,10-06-90,Bradford,Barnsley,Norwich City,2012,English
+23,23,Marc Tierney,ENG,D,1.83,71,23-08-85,Prestwich,Colchester U,Norwich City,2012,English
+24,24,Ryan Bennett,ENG,D,1.88,70,06-03-90,Orsett,Peterborough U,Norwich City,2012,English
+25,25,Chris Martin,ENG,F,1.78,73,04-11-88,Beccles,None,Norwich City,2012,English
+27,27,Alexander Tettey,NOR,M,1.80,68,04-04-86,Accra,Rennes,Norwich City,2012,English
+28,28,Mark Bunn,ENG,G,1.83,77,16-11-84,Southgate,Blackburn R,Norwich City,2012,English
+31,31,Jed Steer,ENG,G,1.88,89,23-09-92,Norwich,None,Norwich City,2012,English
+32,32,Korey Smith,ENG,M,1.83,78,31-01-91,Hatfield,None,Norwich City,2012,English
+33,33,George Francomb,ENG,D,1.80,73,08-09-91,Hackney,None,Norwich City,2012,English
+34,34,Josh Murphy,ENG,F,1.73,67,24-02-95,Wembley,None,Norwich City,2012,English
+35,35,Jacob Murphy,ENG,M,1.76,71,24-02-95,Wembley,None,Norwich City,2012,English
+41,42,Lee Camp,NIR,G,1.83,75,22-08-84,Derby,Nottingham F,Norwich City,2012,English
+1,1,Robert Green,ENG,G,1.91,93,18-01-80,Chertsey,West Ham U,Queens Park Rangers,2012,English
+2,2,Samba Diakité,MLI,M,1.86,76,24-01-89,Montfermeil,Nancy,Queens Park Rangers,2012,English
+3,3,Armand Traoré,SEN,D,1.85,82,08-10-89,Paris,Arsenal,Queens Park Rangers,2012,English
+4,4,Shaun Derry,ENG,M,1.83,82,06-12-77,Nottingham,Crystal Palace,Queens Park Rangers,2012,English
+5,5,Christopher Samba,CGO,D,1.93,91,28-03-84,Créteil,Anzhi Makhachkala,Queens Park Rangers,2012,English
+6,6,Clint Hill,ENG,D,1.83,73,19-10-78,Liverpool,Crystal Palace,Queens Park Rangers,2012,English
+7,7,Park Ji-Sung,KOR,M,1.75,70,25-02-81,Suwon,Manchester U,Queens Park Rangers,2012,English
+8,8,Andy Johnson,ENG,F,1.70,64,10-02-81,Bedford,Fulham,Queens Park Rangers,2012,English
+10,10,Adel Taarabt,MAR,M,1.80,76,24-05-89,Taza,Tottenham H,Queens Park Rangers,2012,English
+11,11,Shaun Wright-Phillips,ENG,M,1.66,64,25-10-81,Greenwich,Manchester C,Queens Park Rangers,2012,English
+12,12,Jamie Mackie,SCO,F,1.73,71,22-09-85,Dorking,Plymouth Arg,Queens Park Rangers,2012,English
+13,13,Yoon Suk-Young,KOR,D,1.82,74,13-02-90,Suwon,Chunnam Dragons,Queens Park Rangers,2012,English
+14,14,Esteban Granero,ESP,M,1.79,77,02-07-87,Madrid,Real Madrid,Queens Park Rangers,2012,English
+15,15,Nedum Onuoha,ENG,D,1.83,78,12-11-86,Warri,Manchester C,Queens Park Rangers,2012,English
+16,16,Jermaine Jenas,ENG,M,1.77,76,18-02-83,Nottingham,Tottenham H,Queens Park Rangers,2012,English
+18,18,Loïc Rémy,FRA,F,1.84,76,02-01-87,Lyon,Marseille,Queens Park Rangers,2012,English
+19,19,José Bosingwa,POR,D,1.83,75,24-08-82,Kinshasa,Chelsea,Queens Park Rangers,2012,English
+20,20,Fábio,BRA,D,1.72,65,09-07-90,Petrópolis,Manchester U,Queens Park Rangers,2012,English
+21,21,Tal Ben Haim,ISR,D,1.81,74,31-03-82,Rishon LeZion,Portsmouth,Queens Park Rangers,2012,English
+23,23,Junior Hoilett,CAN,M,1.73,70,05-06-90,Brampton,Blackburn R,Queens Park Rangers,2012,English
+24,24,Radek Černý,CZE,G,1.87,87,18-02-74,Prague,Slavia Prague,Queens Park Rangers,2012,English
+25,25,Bobby Zamora,ENG,F,1.83,74,16-01-81,Barking,Fulham,Queens Park Rangers,2012,English
+26,26,Brian Murphy,IRL,G,1.83,83,07-05-83,Waterford,Ipswich T,Queens Park Rangers,2012,English
+27,27,Michael Harriman,IRL,D,1.68,74,23-10-92,Chichester,None,Queens Park Rangers,2012,English
+28,28,Max Ehmer,GER,M,1.88,70,03-02-92,Frankfurt am Main,None,Queens Park Rangers,2012,English
+29,29,Andros Townsend,ENG,M,1.83,76,16-07-91,Whipps Cross,Tottenham H,Queens Park Rangers,2012,English
+30,30,Frankie Sutherland,IRL,M,1.75,64,06-12-93,Hillingdon,None,Queens Park Rangers,2012,English
+33,33,Júlio César,BRA,G,1.86,79,03-09-79,Rio de Janeiro,Internazionale,Queens Park Rangers,2012,English
+37,37,Jay Bothroyd,ENG,F,1.91,83,05-05-82,Islington,Cardiff C,Queens Park Rangers,2012,English
+38,38,Luke Young,ENG,D,1.83,78,19-07-79,Harlow,Aston Villa,Queens Park Rangers,2012,English
+39,39,DJ Campbell,ENG,F,1.78,72,12-11-81,London,Blackpool,Queens Park Rangers,2012,English
+40,40,Stéphane Mbia,CMR,M,1.89,82,20-05-86,Yaoundé,Marseille,Queens Park Rangers,2012,English
+1,1,Adam Federici,AUS,G,1.88,90,31-01-85,Nowra,Sassari  Torres,Reading,2012,English
+2,2,Chris Gunter,WAL,D,1.80,71,21-07-89,Newport,Nottingham F,Reading,2012,English
+3,3,Nicky Shorey,ENG,D,1.75,67,19-02-81,Romford,WBA,Reading,2012,English
+4,4,Jem Karacan,TUR,M,1.78,76,21-02-89,Catford,None,Reading,2012,English
+5,5,Alex Pearce,IRL,D,1.83,74,09-11-88,Oxford,None,Reading,2012,English
+6,6,Adrian Mariappa,JAM,D,1.80,70,03-10-86,Harrow,Watford,Reading,2012,English
+7,7,Pavel Pogrebnyak,RUS,F,1.88,91,08-11-83,Moscow,Fulham,Reading,2012,English
+8,8,Mikele Leigertwood,ATG,D,1.88,78,12-11-82,Enfield,QPR,Reading,2012,English
+9,9,Adam Le Fondre,ENG,F,1.80,73,02-12-86,Stockport,Rotherham U,Reading,2012,English
+10,10,Noel Hunt,IRL,F,1.73,72,26-12-82,Waterford,Dundee U,Reading,2012,English
+11,11,Jobi McAnuff,JAM,M,1.80,72,09-11-81,Edmonton,Watford,Reading,2012,English
+12,12,Garath McCleary,ENG,F,1.88,76,15-05-87,Oxford,Nottingham F,Reading,2012,English
+14,14,Jimmy Kébé,MLI,M,1.87,73,19-01-84,Vitry-sur-Seine,Lens,Reading,2012,English
+15,15,Sean Morrison,ENG,D,1.93,89,08-01-91,Plymouth,Swindon T,Reading,2012,English
+16,16,Jay Tabb,IRL,M,1.70,64,21-02-84,Tooting,Coventry C,Reading,2012,English
+17,17,Kaspars Gorks,LVA,D,1.91,85,06-11-81,Riga,QPR,Reading,2012,English
+18,18,Simon Church,WAL,F,1.83,84,10-12-88,High Wycombe,None,Reading,2012,English
+19,19,Hal Robson-Kanu,WAL,F,1.70,74,21-05-89,Acton,None,Reading,2012,English
+20,20,Danny Guthrie,ENG,M,1.75,73,18-04-87,Shrewsbury,Newcastle U,Reading,2012,English
+21,21,Alex McCarthy,ENG,G,1.93,79,03-12-89,Guildford,None,Reading,2012,English
+22,22,Nicholas Bignall,ENG,F,1.77,81,11-07-90,Reading,None,Reading,2012,English
+23,23,Ian Harte,IRL,D,1.77,78,31-08-77,Drogheda,Carlisle U,Reading,2012,English
+24,24,Shaun Cummings,ENG,D,1.83,76,25-02-89,Hammersmith,Chelsea,Reading,2012,English
+25,25,Jake Taylor,WAL,M,1.78,77,01-12-91,Ascot,None,Reading,2012,English
+26,26,Brynjar Gunnarsson,ISL,D,1.85,77,16-10-75,Reykjavik,Watford,Reading,2012,English
+27,27,Stephen Kelly,IRL,D,1.84,82,06-09-83,Dublin,Fulham,Reading,2012,English
+28,28,Hope Akpan,ENG,M,1.83,67,14-08-91,Liverpool,Crawley T,Reading,2012,English
+29,29,Daniel Carriço,POR,D,1.80,75,04-08-88,Cascais,Sporting CP,Reading,2012,English
+30,30,Nick Blackman,ENG,F,1.88,74,11-11-89,Whitefield,Sheffield U,Reading,2012,English
+31,31,Mikkel Andersen,DEN,G,1.95,80,17-12-88,Herlev,AB København,Reading,2012,English
+32,32,Nick Arnold,ENG,D,1.80,82,03-07-93,Tadley,None,Reading,2012,English
+33,33,Jason Roberts,GRN,F,1.85,92,25-01-78,Park Royal,Blackburn R,Reading,2012,English
+34,34,Angus MacDonald,ENG,D,1.84,70,15-10-92,Winchester,None,Reading,2012,English
+35,35,Michael Hector,ENG,D,1.93,82,19-07-92,Newham,Thurrock,Reading,2012,English
+36,36,Gozie Ugwu,ENG,F,1.87,76,22-04-93,Oxford,None,Reading,2012,English
+37,37,Jordan Obita,ENG,F,1.80,73,08-12-93,Oxford,None,Reading,2012,English
+38,38,Charlie Losasso,ENG,M,1.82,72,11-11-92,Marlow,None,Reading,2012,English
+40,40,Lawson D'Ath,ENG,M,1.75,77,24-12-92,Witney,None,Reading,2012,English
+41,41,Stuart Taylor,ENG,G,1.96,86,28-11-80,Romford,Manchester C,Reading,2012,English
+42,42,Jonathan Henly,ENG,G,1.93,83,07-06-94,Reading,None,Reading,2012,English
+43,43,Josh Webb,ENG,M,1.80,76,10-08-95,Reading,None,Reading,2012,English
+44,44,Dominic Samuel,ENG,F,1.82,89,01-04-94,Southwark,None,Reading,2012,English
+45,45,Ryan Edwards,AUS,M,1.70,73,17-11-93,Sydney,AIS,Reading,2012,English
+46,46,Matt Partridge,ENG,D,1.90,84,24-10-94,Reading,None,Reading,2012,English
+47,47,Pierce Sweeney,IRL,D,1.83,80,11-09-94,Dublin,Bray W,Reading,2012,English
+1,1,Kelvin Davis,ENG,G,1.85,88,29-09-76,Bedford,Sunderland,Southampton,2012,English
+2,2,Nathaniel Clyne,ENG,D,1.75,67,05-04-91,Stockwell,Crystal Palace,Southampton,2012,English
+3,3,Maya Yoshida,JPN,D,1.86,78,24-08-88,Nagasaki,VVV Venlo,Southampton,2012,English
+4,4,Morgan Schneiderlin,FRA,M,1.81,75,08-11-89,Zettwiller,Strasbourg,Southampton,2012,English
+5,5,Jos Hooiveld,NED,D,1.91,75,22-04-83,Zeijen,Celtic,Southampton,2012,English
+6,6,José Fonte,POR,D,1.87,81,22-12-83,Penafiel,Crystal Palace,Southampton,2012,English
+7,7,Rickie Lambert,ENG,F,1.88,77,16-02-82,Liverpool,Bristol R,Southampton,2012,English
+8,8,Steven Davis,NIR,M,1.79,72,01-01-85,Ballymena,Rangers,Southampton,2012,English
+9,9,Jay Rodriguez,ENG,F,1.85,70,29-07-89,Burnley,Burnley,Southampton,2012,English
+10,10,Gastón Ramírez,URU,M,1.83,77,02-12-90,Fray Bentos,Bologna,Southampton,2012,English
+12,12,Paulo Gazzaniga,ARG,G,1.96,90,02-01-92,Murphy,Gillingham,Southampton,2012,English
+13,13,Danny Fox,SCO,D,1.83,79,29-05-86,Winsford,Burnley,Southampton,2012,English
+15,15,Vegard Forren,NOR,D,1.86,85,16-02-88,Trondheim,Molde,Southampton,2012,English
+16,16,James Ward-Prowse,ENG,M,1.73,66,01-11-94,Southampton,None,Southampton,2012,English
+18,18,Jack Cork,ENG,M,1.83,69,25-06-89,Carshalton,Chelsea,Southampton,2012,English
+20,20,Adam Lallana,ENG,M,1.73,73,10-05-88,St Albans,None,Southampton,2012,English
+21,21,Guilherme do Prado,BRA,M,1.89,78,31-12-81,São Paulo,Cesena,Southampton,2012,English
+22,22,Frazer Richardson,ENG,D,1.80,75,29-10-82,Rotherham,Charlton Ath,Southampton,2012,English
+23,23,Luke Shaw,ENG,D,1.83,75,12-07-95,Kingston upon Thames,None,Southampton,2012,English
+24,24,Emmanuel Mayuka,ZAM,F,1.76,71,21-11-90,Kabwe,Young Boys,Southampton,2012,English
+26,26,Jack Stephens,ENG,D,1.85,84,27-01-94,Torpoint,Plymouth Arg,Southampton,2012,English
+27,27,Richard Chaplow,ENG,M,1.75,57,02-02-85,Accrington,Preston NE,Southampton,2012,English
+28,28,Calum Chambers,ENG,M,1.82,66,20-01-95,Petersfield,None,Southampton,2012,English
+29,29,Ben Reeves,ENG,D,1.78,67,19-11-91,Verwood,None,Southampton,2012,English
+30,30,Cody Cropper,USA,G,1.91,91,16-02-93,Atlanta,Ipswich T,Southampton,2012,English
+31,31,Artur Boruc,POL,G,1.93,88,20-02-80,Siedlce,Fiorentina,Southampton,2012,English
+32,32,Danny Butterfield,ENG,D,1.80,71,21-11-79,Boston,Crystal Palace,Southampton,2012,English
+33,33,Steve de Ridder,BEL,F,1.79,73,25-02-87,Gent,De Graafschap,Southampton,2012,English
+34,34,Corby Moore,ENG,M,1.73,64,21-11-93,Salisbury,None,Southampton,2012,English
+36,36,Jake Sinclair,ENG,F,1.70,70,29-11-94,Bath,None,Southampton,2012,English
+37,37,Dominic Gape,ENG,M,1.80,70,09-09-94,Southampton,None,Southampton,2012,English
+38,38,Andy Robinson,ENG,M,1.88,66,16-10-92,Bournemouth,None,Southampton,2012,English
+39,39,Lloyd Isgrove,ENG,M,1.78,72,12-01-93,Yeovil,None,Southampton,2012,English
+41,42,Jason Puncheon,ENG,M,1.73,71,26-06-86,Croydon,Plymouth Arg,Southampton,2012,English
+1,1,Asmir Begović,BIH,G,1.98,84,20-06-87,Trebinje,Portsmouth,Stoke City,2012,English
+2,2,Geoff Cameron,USA,D,1.91,92,11-07-85,Attleboro,Houston Dynamo,Stoke City,2012,English
+4,4,Robert Huth,GER,D,1.91,88,18-08-84,Berlin,Middlesbrough,Stoke City,2012,English
+6,6,Glenn Whelan,IRL,M,1.80,79,13-01-84,Dublin,Sheffield W,Stoke City,2012,English
+7,7,Jermaine Pennant,ENG,M,1.73,64,15-01-83,Nottingham,Zaragoza,Stoke City,2012,English
+8,8,Wilson Palacios,HON,M,1.78,71,29-07-84,La Ceiba,Tottenham H,Stoke City,2012,English
+9,9,Kenwyne Jones,TRI,F,1.88,75,05-10-84,Point Fortin,Sunderland,Stoke City,2012,English
+10,10,Michael Owen,ENG,F,1.73,70,14-12-79,Chester,Manchester U,Stoke City,2012,English
+11,11,Mamady Sidibé,MLI,F,1.93,77,18-12-79,Bamako,Gillingham,Stoke City,2012,English
+12,12,Marc Wilson,IRL,D,1.88,80,17-08-87,Belfast,Portsmouth,Stoke City,2012,English
+14,14,Jamie Ness,SCO,M,1.77,72,02-03-91,Irvine,Rangers,Stoke City,2012,English
+15,15,Steven N'Zonzi,FRA,M,1.90,75,15-12-88,Colombes,Blackburn R,Stoke City,2012,English
+16,16,Charlie Adam,SCO,M,1.85,83,10-12-85,Dundee,Liverpool,Stoke City,2012,English
+17,17,Ryan Shawcross,ENG,D,1.83,76,04-10-87,Chester,Manchester U,Stoke City,2012,English
+18,18,Dean Whitehead,ENG,M,1.80,77,12-01-82,Abingdon,Sunderland,Stoke City,2012,English
+19,19,Jonathan Walters,IRL,F,1.83,79,20-09-83,Birkenhead,Ipswich T,Stoke City,2012,English
+21,21,Michael Kightly,ENG,M,1.75,64,24-01-86,Basildon,Wolverhampton W,Stoke City,2012,English
+22,22,Brek Shea,USA,M,1.90,82,28-02-90,College Station,FC Dallas,Stoke City,2012,English
+24,24,Rory Delap,IRL,M,1.83,74,06-07-76,Sutton Coldfield,Sunderland,Stoke City,2012,English
+25,25,Peter Crouch,ENG,F,2.01,80,30-01-81,Macclesfield,Tottenham H,Stoke City,2012,English
+26,26,Matthew Etherington,ENG,M,1.78,64,14-08-81,Truro,West Ham U,Stoke City,2012,English
+27,27,Carlo Nash,ENG,G,1.96,89,13-09-73,Bolton,Everton,Stoke City,2012,English
+28,28,Andy Wilkinson,ENG,D,1.80,70,06-08-84,Stone,None,Stoke City,2012,English
+29,29,Thomas Sørensen,DEN,G,1.96,89,12-06-76,Fredericia,Aston Villa,Stoke City,2012,English
+30,30,Ryan Shotton,ENG,D,1.91,85,30-09-88,Fenton,None,Stoke City,2012,English
+33,33,Cameron Jerome,ENG,F,1.85,85,14-08-86,Huddersfield,Birmingham C,Stoke City,2012,English
+36,36,Matthew Lund,NIR,M,1.70,61,21-11-90,Manchester,Crewe Alex,Stoke City,2012,English
+38,38,Florent Cuvelier,BEL,M,1.82,72,12-09-92,Brussels,Portsmouth,Stoke City,2012,English
+2,2,Phillip Bardsley,SCO,D,1.79,74,28-06-85,Salford,Manchester U,Sunderland,2012,English
+3,3,Danny Rose,ENG,D,1.73,75,02-07-90,Doncaster,Tottenham H,Sunderland,2012,English
+4,4,Alfred N'Diaye,FRA,M,1.87,87,06-03-90,Paris,Bursaspor,Sunderland,2012,English
+5,5,Wes Brown,ENG,D,1.85,75,13-10-79,Manchester,Manchester U,Sunderland,2012,English
+6,6,Lee Cattermole,ENG,M,1.78,76,21-03-88,Stockton-on-Tees,Wigan Ath,Sunderland,2012,English
+7,7,Sebastian Larsson,SWE,M,1.78,70,06-06-85,Eskiltuna,Birmingham C,Sunderland,2012,English
+8,8,Craig Gardner,ENG,M,1.78,71,25-11-86,Solihull,Birmingham C,Sunderland,2012,English
+9,9,Danny Graham,ENG,F,1.83,87,12-08-85,Gateshead,Swansea C,Sunderland,2012,English
+10,10,Connor Wickham,ENG,F,1.91,73,31-03-93,Hereford,Ipswich T,Sunderland,2012,English
+12,12,Matthew Kilgallon,ENG,D,1.88,81,08-01-84,York,Sheffield U,Sunderland,2012,English
+13,13,Jordan Pickford,ENG,G,1.85,77,07-03-94,Washington,None,Sunderland,2012,English
+14,14,Jack Colback,ENG,M,1.76,70,24-10-89,Killingworth,None,Sunderland,2012,English
+15,15,David Vaughan,WAL,M,1.70,66,18-02-83,Rhuddlan,Blackpool,Sunderland,2012,English
+16,16,John O'Shea,IRL,D,1.90,75,30-04-81,Waterford,Manchester U,Sunderland,2012,English
+18,18,Kader Mangane,SEN,D,1.93,87,23-03-83,Thiès,Al-Hilal [KSA],Sunderland,2012,English
+19,19,Titus Bramble,ENG,D,1.85,87,21-07-81,Ipswich,Wigan Ath,Sunderland,2012,English
+20,20,Keiren Westwood,IRL,G,1.88,86,23-10-84,Manchester,Coventry C,Sunderland,2012,English
+21,21,Adam Johnson,ENG,M,1.75,62,14-07-87,Sunderland,Manchester C,Sunderland,2012,English
+22,22,Simon Mignolet,BEL,G,1.93,87,06-03-88,Sint-Truiden,Sint-Truiden,Sunderland,2012,English
+23,23,James McClean,IRL,M,1.80,70,22-04-89,Derry,Derry C,Sunderland,2012,English
+24,24,Carlos Cuéllar,ESP,D,1.90,84,23-08-81,Madrid,Aston Villa,Sunderland,2012,English
+26,26,Steven Fletcher,SCO,F,1.85,76,26-03-87,Shrewsbury,Wolverhampton W,Sunderland,2012,English
+28,28,Stéphane Sessegnon,BEN,M,1.72,72,01-06-84,Allahe,Paris St-Germain,Sunderland,2012,English
+29,29,Liam Marrs,ENG,D,1.75,72,15-12-92,Cramlington,None,Sunderland,2012,English
+30,30,Mikaël Mandron,SCO,F,1.91,82,11-10-94,Boulogne-sur-Mer,Boulogne,Sunderland,2012,English
+32,32,Jordan Laidler,ENG,F,1.78,76,13-10-93,North Shields,None,Sunderland,2012,English
+33,33,Ryan Noble,ENG,F,1.83,69,06-11-91,Sunderland,None,Sunderland,2012,English
+34,34,Billy Knott,ENG,M,1.73,71,28-11-92,Canvey Island,Chelsea,Sunderland,2012,English
+35,35,David Ferguson,ENG,D,1.78,76,07-06-94,Sunderland,Darlington,Sunderland,2012,English
+36,36,Scott Harrison,ENG,D,1.83,78,03-09-93,Middlesbrough,Darlington,Sunderland,2012,English
+37,37,Adam Mitchell,IRL,F,,,02-12-94,,None,Sunderland,2012,English
+41,42,John Egan,IRL,D,1.85,75,20-10-92,Cork,None,Sunderland,2012,English
+1,1,Michel Vorm,NED,G,1.83,84,20-10-83,Nieuwegein,FC Utrecht,Swansea City,2012,English
+2,2,Kyle Bartley,ENG,D,1.80,70,22-05-91,Manchester,Arsenal,Swansea City,2012,English
+3,3,Neil Taylor,WAL,D,1.75,64,07-02-89,St Asaph,Wrexham,Swansea City,2012,English
+4,4,Chico,ESP,D,1.87,75,06-03-87,Cádiz,Genoa,Swansea City,2012,English
+5,5,Alan Tate,ENG,D,1.85,85,02-09-82,Easington,Manchester U,Swansea City,2012,English
+6,6,Ashley Williams,WAL,D,1.83,75,23-08-84,Wolverhampton,Stockport Co,Swansea City,2012,English
+7,7,Leon Britton,ENG,M,1.68,64,16-09-82,London,Sheffield U,Swansea City,2012,English
+9,9,Michu,ESP,M,1.85,80,21-03-86,Oviedo,Rayo Vallecano,Swansea City,2012,English
+11,11,Pablo Hernández,ESP,M,1.73,64,11-04-85,Castellón,Valencia,Swansea City,2012,English
+12,12,Nathan Dyer,ENG,M,1.65,57,29-11-87,Trowbridge,Southampton,Swansea City,2012,English
+13,13,David Cornell,WAL,G,1.80,73,28-03-91,Swansea,None,Swansea City,2012,English
+14,14,Roland Lamah,BEL,F,1.80,71,31-12-87,Liège,Osasuna,Swansea City,2012,English
+15,15,Wayne Routledge,ENG,M,1.70,64,07-01-85,Eltham,Newcastle U,Swansea City,2012,English
+16,16,Garry Monk,ENG,D,1.83,81,06-03-79,Bedford,Barnsley,Swansea City,2012,English
+17,17,Itay Shechter,ISR,F,1.80,77,22-02-87,Ramat Yishai,Kaiserslautern,Swansea City,2012,English
+19,19,Luke Moore,ENG,F,1.80,76,13-02-86,Birmingham,WBA,Swansea City,2012,English
+20,20,Jonathan de Guzmán,NED,M,1.73,65,13-09-87,Scarborough [CAN],Villarreal,Swansea City,2012,English
+21,21,Dwight Tiendalli,NED,D,1.77,68,21-10-85,Paramaribo,FC Twente,Swansea City,2012,English
+22,22,Angel Rangel,ESP,D,1.88,84,28-10-82,Tortosa,Terrassa,Swansea City,2012,English
+23,23,Darnel Situ,FRA,D,1.87,77,18-03-92,Rouen,Lens,Swansea City,2012,English
+24,24,Ki Sung-Yueng,KOR,M,1.87,79,24-01-89,Gwangju,Celtic,Swansea City,2012,English
+25,25,Gerhard Tremmel,GER,G,1.90,89,16-11-78,Munich,Red Bull Salzburg,Swansea City,2012,English
+26,26,Kemy Agustien,NED,M,1.78,72,02-08-86,Tilburg,AZ Alkmaar,Swansea City,2012,English
+27,27,Mark Gower,ENG,M,1.80,75,05-10-78,Edmonton,Southend U,Swansea City,2012,English
+28,28,Curtis Obeng,ENG,D,1.73,67,14-02-89,Manchester,Wrexham,Swansea City,2012,English
+30,30,Josh Sheehan,WAL,M,1.84,75,30-03-95,Pembrey,None,Swansea City,2012,English
+31,31,Lee Lucas,WAL,M,1.80,74,10-06-92,Aberdare,None,Swansea City,2012,English
+33,33,Ben Davies,WAL,D,1.70,76,24-04-93,Neath,None,Swansea City,2012,English
+34,34,Henry Jones,WAL,M,1.83,84,18-09-93,Swansea,None,Swansea City,2012,English
+35,35,Daniel Alfei,WAL,D,1.80,77,23-02-92,Swansea,None,Swansea City,2012,English
+36,36,James Loveridge,WAL,F,1.88,85,16-05-94,Llanelli,None,Swansea City,2012,English
+37,37,Scott Tancock,WAL,D,1.85,75,29-12-93,Swansea,Cardiff C,Swansea City,2012,English
+39,39,Kurtis March,WAL,M,1.75,71,30-03-93,Swansea,None,Swansea City,2012,English
+41,41,Rory Donnelly,NIR,F,1.88,81,18-02-92,Belfast,Cliftonville,Swansea City,2012,English
+2,2,Clint Dempsey,USA,M,1.86,84,09-03-83,Nacogdoches,Fulham,Tottenham Hotspur,2012,English
+4,4,Younès Kaboul,FRA,D,1.90,87,04-01-86,St-Julien-en-Genevois,Portsmouth,Tottenham Hotspur,2012,English
+5,5,Jan Vertonghen,BEL,D,1.89,79,24-04-87,Sint-Niklaas,Ajax,Tottenham Hotspur,2012,English
+6,6,Tom Huddlestone,ENG,M,1.88,80,28-12-86,Nottingham,Derby Co,Tottenham Hotspur,2012,English
+7,7,Aaron Lennon,ENG,M,1.65,63,16-04-87,Chapeltown,Leeds U,Tottenham Hotspur,2012,English
+8,8,Scott Parker,ENG,M,1.75,70,13-10-80,Lambeth,West Ham U,Tottenham Hotspur,2012,English
+10,10,Emmanuel Adebayor,TOG,F,1.91,75,26-02-84,Lomé,Manchester C,Tottenham Hotspur,2012,English
+11,11,Gareth Bale,WAL,M,1.83,74,16-07-89,Cardiff,Southampton,Tottenham Hotspur,2012,English
+13,13,William Gallas,FRA,D,1.83,72,17-08-77,Asnieres,Arsenal,Tottenham Hotspur,2012,English
+15,15,David Bentley,ENG,M,1.75,68,27-08-84,Peterborough,Blackburn R,Tottenham Hotspur,2012,English
+16,16,Kyle Naughton,ENG,D,1.80,73,11-11-88,Sheffield,Sheffield U,Tottenham Hotspur,2012,English
+18,18,Jermain Defoe,ENG,F,1.69,65,07-10-82,Beckton,Portsmouth,Tottenham Hotspur,2012,English
+19,19,Mousa Dembélé,BEL,M,1.77,70,17-07-87,Wilrijk,Fulham,Tottenham Hotspur,2012,English
+20,20,Michael Dawson,ENG,D,1.88,76,18-11-83,Northallerton,Nottingham F,Tottenham Hotspur,2012,English
+22,22,Gylfi Sigurðsson,ISL,M,1.86,77,08-09-89,Reykjavik,1899 Hoffenheim,Tottenham Hotspur,2012,English
+23,23,Lewis Holtby,GER,F,1.74,66,18-09-90,Erkelenz,Schalke,Tottenham Hotspur,2012,English
+24,24,Brad Friedel,USA,G,1.88,91,18-05-71,Lakewood,Aston Villa,Tottenham Hotspur,2012,English
+25,25,Hugo Lloris,FRA,G,1.88,78,26-12-86,Nice,Lyon,Tottenham Hotspur,2012,English
+28,28,Kyle Walker,ENG,D,1.78,73,28-05-90,Sheffield,Sheffield U,Tottenham Hotspur,2012,English
+29,29,Jake Livermore,ENG,M,1.80,76,14-11-89,Enfield,None,Tottenham Hotspur,2012,English
+30,30,Sandro,BRA,M,1.87,75,15-03-89,Riachinho,Internacional,Tottenham Hotspur,2012,English
+32,32,Benoît Assou-Ekotto,CMR,D,1.80,69,24-03-84,Arras,Lens,Tottenham Hotspur,2012,English
+33,33,Steven Caulker,ENG,D,1.90,76,29-12-91,Feltham,None,Tottenham Hotspur,2012,English
+37,37,Harry Kane,ENG,F,1.83,65,28-07-93,Walthamstow,None,Tottenham Hotspur,2012,English
+41,41,Shaquile Coulthirst,ENG,F,1.80,77,02-11-94,Hackney,None,Tottenham Hotspur,2012,English
+42,42,Nabil Bentaleb,FRA,M,1.87,68,24-11-94,Lille,Lille,Tottenham Hotspur,2012,English
+43,43,Ryan Fredericks,ENG,M,1.73,72,10-10-92,Potters Bar,None,Tottenham Hotspur,2012,English
+44,44,Cristian Ceballos,ESP,M,1.73,67,03-12-92,Barcelona,Barcelona,Tottenham Hotspur,2012,English
+45,45,Jonathan Obika,ENG,F,1.85,78,12-09-90,Enfield,None,Tottenham Hotspur,2012,English
+46,46,Tom Carroll,ENG,M,1.77,71,28-05-92,Watford,None,Tottenham Hotspur,2012,English
+47,47,Jake Nicholson,ENG,M,1.83,73,19-07-92,Harrow,None,Tottenham Hotspur,2012,English
+48,52,Laste Dombaxe,ENG,M,1.71,62,15-05-95,Luanda,None,Tottenham Hotspur,2012,English
+49,53,Cameron Lancaster,ENG,F,1.83,74,05-11-92,Camden,None,Tottenham Hotspur,2012,English
+50,55,William Ekong,NED,D,1.91,74,01-09-93,Haarlem,None,Tottenham Hotspur,2012,English
+51,56,Jonathan Miles,ENG,G,1.81,71,29-03-93,Colchester,None,Tottenham Hotspur,2012,English
+52,57,Jordan Archer,SCO,G,1.86,80,12-04-93,Walthamstow,Charlton Ath,Tottenham Hotspur,2012,English
+53,58,Dean Parrett,ENG,M,1.77,74,16-11-91,Hampstead,QPR,Tottenham Hotspur,2012,English
+54,59,Kevin Stewart,ENG,D,1.71,73,07-09-93,Enfield,None,Tottenham Hotspur,2012,English
+55,60,Jack Barthram,ENG,D,1.73,75,13-10-93,Newham,None,Tottenham Hotspur,2012,English
+56,61,Jack Munns,ENG,M,1.66,64,18-11-93,Dagenham,Leyton Orient,Tottenham Hotspur,2012,English
+57,62,Ezekiel Fryers,ENG,D,1.83,75,09-09-92,Manchester,Standard Liège,Tottenham Hotspur,2012,English
+1,1,Ben Foster,ENG,G,1.88,80,03-04-83,Leamington,Birmingham C,West Bromwich Albion,2012,English
+2,2,Steven Reid,IRL,M,1.85,87,10-03-81,Kingston,Blackburn R,West Bromwich Albion,2012,English
+3,3,Jonas Olsson,SWE,D,1.95,85,10-03-83,Landskrona,NEC Nijmegen,West Bromwich Albion,2012,English
+4,4,Goran Popov,MKD,D,1.89,89,02-10-84,Strumica,Dynamo Kyiv,West Bromwich Albion,2012,English
+5,5,Claudio Yacob,ARG,M,1.81,73,18-07-87,Carcarañá,Racing Club,West Bromwich Albion,2012,English
+6,6,Liam Ridgewell,ENG,D,1.88,79,21-07-84,Bexley,Birmingham C,West Bromwich Albion,2012,English
+7,7,James Morrison,SCO,M,1.78,64,25-05-86,Darlington,Middlesbrough,West Bromwich Albion,2012,English
+8,8,Markus Rosenberg,SWE,F,1.85,80,27-09-82,Malmö,Werder Bremen,West Bromwich Albion,2012,English
+9,9,Shane Long,IRL,F,1.78,71,22-01-87,Kilkenny,Reading,West Bromwich Albion,2012,English
+11,11,Chris Brunt,NIR,M,1.85,84,14-12-84,Belfast,Sheffield W,West Bromwich Albion,2012,English
+13,13,Boaz Myhill,WAL,G,1.91,92,09-11-82,Modesto,Hull C,West Bromwich Albion,2012,English
+14,14,Jerome Thomas,ENG,M,1.78,79,23-03-83,Brent,Portsmouth,West Bromwich Albion,2012,English
+15,15,George Thorne,ENG,M,1.88,84,04-01-93,Chatham,None,West Bromwich Albion,2012,English
+16,16,Scott Allan,SCO,M,1.75,70,28-11-91,Glasgow,Dundee U,West Bromwich Albion,2012,English
+17,17,Graham Dorrans,SCO,M,1.75,73,05-05-87,Glasgow,Livingston,West Bromwich Albion,2012,English
+19,19,Luke Daniels,ENG,G,1.93,81,05-01-88,Bolton,Manchester U,West Bromwich Albion,2012,English
+20,20,Romelu Lukaku,BEL,F,1.90,94,13-05-93,Antwerp,Chelsea,West Bromwich Albion,2012,English
+21,21,Youssouf Mulumbu,COD,M,1.77,65,25-01-87,Kinshasa,Paris St-Germain,West Bromwich Albion,2012,English
+22,22,Zoltán Gera,HUN,M,1.83,75,22-04-79,Pécs,Fulham,West Bromwich Albion,2012,English
+23,23,Gareth McAuley,NIR,D,1.91,70,05-12-79,Larne,Ipswich T,West Bromwich Albion,2012,English
+24,24,Peter Odemwingie,NGA,F,1.82,74,15-07-81,Tashkent,Lokomotiv Moscow,West Bromwich Albion,2012,English
+25,25,Craig Dawson,ENG,D,1.83,78,06-05-90,Rochdale,Rochdale,West Bromwich Albion,2012,English
+26,26,James Hurst,ENG,D,1.83,77,31-01-92,Sutton Coldfield,Portsmouth,West Bromwich Albion,2012,English
+28,28,Billy Jones,ENG,D,1.81,77,24-03-87,Shrewsbury,Preston NE,West Bromwich Albion,2012,English
+30,30,Gabriel Tamaş,ROU,D,1.88,77,09-11-83,Braşov,Auxerre,West Bromwich Albion,2012,English
+32,32,Marc-Antoine Fortuné,FRA,F,1.82,82,02-07-81,Cayenne,Celtic,West Bromwich Albion,2012,English
+34,34,Kemar Roofe,ENG,M,1.78,71,06-01-93,Walsall,None,West Bromwich Albion,2012,English
+35,35,Romaine Sawyers,SKN,M,1.75,67,02-11-91,Birmingham,None,West Bromwich Albion,2012,English
+36,36,Adil Nabi,ENG,F,1.72,68,28-02-94,Birmingham,None,West Bromwich Albion,2012,English
+37,37,Kayelden Brown,WAL,M,1.87,80,15-04-92,Birmingham,None,West Bromwich Albion,2012,English
+38,38,Saido Berahino,ENG,F,1.80,82,04-08-93,Bujumbura,None,West Bromwich Albion,2012,English
+40,40,Liam O'Neil,ENG,D,1.80,80,31-07-93,Cambridge,None,West Bromwich Albion,2012,English
+41,41,Cameron Gayle,ENG,D,1.81,70,22-11-92,Birmingham,Crewe Alex,West Bromwich Albion,2012,English
+42,42,Donervon Daniels,ENG,D,1.86,91,24-11-93,Montserrat,None,West Bromwich Albion,2012,English
+43,43,Isaiah Brown,ENG,F,1.82,70,07-01-97,Peterborough,None,West Bromwich Albion,2012,English
+2,2,Winston Reid,NZL,D,1.90,87,03-07-88,Auckland,FC Midtjylland,West Ham United,2012,English
+3,3,George McCartney,NIR,D,1.83,79,29-04-81,Belfast,Sunderland,West Ham United,2012,English
+4,4,Kevin Nolan,ENG,M,1.83,89,24-06-82,Liverpool,Newcastle U,West Ham United,2012,English
+5,5,James Tomkins,ENG,D,1.90,74,29-03-89,Basildon,None,West Ham United,2012,English
+7,7,Matthew Jarvis,ENG,M,1.73,70,22-05-86,Middlesbrough,Wolverhampton W,West Ham United,2012,English
+8,8,Andy Carroll,ENG,F,1.91,65,06-01-89,Gateshead,Liverpool,West Ham United,2012,English
+9,9,Carlton Cole,ENG,F,1.91,78,12-10-83,Croydon,Chelsea,West Ham United,2012,English
+10,10,Jack Collison,WAL,M,1.82,87,02-10-88,Watford,None,West Ham United,2012,English
+11,11,Modibo Maïga,MLI,F,1.85,76,03-09-86,Bamako,Sochaux,West Ham United,2012,English
+12,12,Ricardo Vaz Té,POR,F,1.88,79,01-10-86,Lisbon,Barnsley,West Ham United,2012,English
+13,13,Stephen Henderson,IRL,G,1.88,87,02-05-88,Dublin,Portsmouth,West Ham United,2012,English
+14,14,Matthew Taylor,ENG,M,1.78,74,27-11-81,Oxford,Bolton W,West Ham United,2012,English
+16,16,Mark Noble,ENG,M,1.80,76,08-05-87,West Ham,None,West Ham United,2012,English
+17,17,Joey O'Brien,IRL,M,1.80,69,17-02-86,Dublin,Bolton W,West Ham United,2012,English
+18,18,Emanuel Pogatetz,AUT,D,1.89,76,16-01-83,Graz,Wolfsburg,West Ham United,2012,English
+19,19,James Collins,WAL,D,1.88,90,23-08-83,Newport,Aston Villa,West Ham United,2012,English
+20,20,Guy Demel,CIV,D,1.88,88,13-06-81,Orsay,Hamburg,West Ham United,2012,English
+21,21,Mohamed Diamé,SEN,M,1.84,80,14-06-87,Créteil,Wigan Ath,West Ham United,2012,English
+22,22,Jussi Jääskeläinen,FIN,G,1.91,81,19-04-75,Mikkeli,Bolton W,West Ham United,2012,English
+24,24,Sean Maguire,IRL,F,1.75,75,01-05-94,Luton,Waterford U,West Ham United,2012,English
+26,26,Joe Cole,ENG,M,1.76,73,08-11-81,Paddington,Liverpool,West Ham United,2012,English
+27,27,Jordan Spence,ENG,M,1.88,79,24-05-90,Woodford,None,West Ham United,2012,English
+29,29,Marouane Chamakh,MAR,F,1.85,70,10-01-84,Tonnens,Arsenal,West Ham United,2012,English
+30,30,Raphael Spiegel,SUI,G,1.96,88,19-12-92,Rüttenen,Grasshoppers,West Ham United,2012,English
+31,31,Wellington Paulista,BRA,F,1.83,72,22-04-83,São Paulo,Cruzeiro,West Ham United,2012,English
+32,32,Gary O'Neil,ENG,M,1.73,61,18-05-83,Beckenham,Middlesbrough,West Ham United,2012,English
+33,33,Dan Potts,ENG,D,1.73,76,13-04-94,Barking,None,West Ham United,2012,English
+39,39,Dylan Tombides,AUS,F,1.80,80,08-03-94,Perth,None,West Ham United,2012,English
+40,40,Matthias Fanimo,ENG,M,1.73,71,28-01-94,Lambeth,None,West Ham United,2012,English
+41,41,Callum Driver,ENG,D,1.74,72,23-10-92,Bexley,None,West Ham United,2012,English
+42,42,George Moncur,ENG,M,1.75,64,18-08-93,Swindon,None,West Ham United,2012,English
+43,43,Sebastian Lletget,USA,M,1.78,69,03-09-92,San Francisco,Santa Clara Sporting,West Ham United,2012,English
+44,44,Leo Chambers,ENG,D,1.86,83,05-08-95,Brixton,None,West Ham United,2012,English
+45,45,Paul McCallum,ENG,F,1.91,76,28-07-93,Streatham,None,West Ham United,2012,English
+46,46,Rob Hall,ENG,F,1.88,66,20-10-93,Aylesbury,None,West Ham United,2012,English
+47,47,Elliot Lee,ENG,F,1.80,72,16-12-94,Durham,None,West Ham United,2012,English
+1,1,Joel Robles,ESP,G,1.95,85,17-06-90,Leganés,Atlético Madrid,Wigan Athletic,2012,English
+2,2,Arouna Koné,CIV,F,1.81,81,11-11-83,Anyama,Levante,Wigan Athletic,2012,English
+3,3,Antolín Alcaraz,PAR,D,1.84,80,30-07-82,Roque Gonzalez,Club Brugge,Wigan Athletic,2012,English
+4,4,James McCarthy,IRL,M,1.80,72,12-11-90,Glasgow,Hamilton Academical,Wigan Athletic,2012,English
+5,5,Gary Caldwell,SCO,D,1.85,75,12-04-82,Stirling,Celtic,Wigan Athletic,2012,English
+6,6,David Jones,ENG,M,1.85,80,04-11-84,Southport,Wolverhampton W,Wigan Athletic,2012,English
+7,7,Albert Crusat,ESP,M,1.64,65,13-05-82,Barcelona,Almería,Wigan Athletic,2012,English
+8,8,Ben Watson,ENG,M,1.78,69,09-07-85,Camberwell,Crystal Palace,Wigan Athletic,2012,English
+9,9,Franco Di Santo,ARG,F,1.94,78,07-04-89,Mendoza,Chelsea,Wigan Athletic,2012,English
+10,10,Shaun Maloney,SCO,F,1.70,70,24-01-83,Mirri,Celtic,Wigan Athletic,2012,English
+11,11,Ángelo Henríquez,CHI,F,1.80,77,13-04-94,Santiago,Manchester U,Wigan Athletic,2012,English
+12,12,Mike Pollitt,ENG,G,1.93,89,29-02-72,Farmworth,Rotherham U,Wigan Athletic,2012,English
+14,14,Jordi Gómez,ESP,M,1.78,74,24-05-85,Barcelona,Espanyol B,Wigan Athletic,2012,English
+15,15,Callum McManaman,ENG,F,1.75,71,25-04-91,Knowsley,Everton,Wigan Athletic,2012,English
+16,16,James McArthur,SCO,M,1.68,63,07-10-87,Glasgow,Hamilton Academical,Wigan Athletic,2012,English
+17,17,Emmerson Boyce,BRB,D,1.80,73,24-09-79,Aylesbury,Crystal Palace,Wigan Athletic,2012,English
+18,18,Roger Espinoza,HON,M,1.80,73,25-10-86,Puerto Cortes,Sporting Kansas City,Wigan Athletic,2012,English
+20,20,Fraser Fyvie,SCO,M,1.72,60,27-03-93,Aberdeen,Aberdeen,Wigan Athletic,2012,English
+21,21,Iván Ramis,ESP,D,1.88,82,25-10-84,Sa Pobla,Mallorca,Wigan Athletic,2012,English
+22,22,Jean Beausejour,CHI,M,1.79,80,01-06-84,Santiago,Birmingham C,Wigan Athletic,2012,English
+23,23,Ronnie Stam,NED,M,1.75,62,18-06-84,Breda,FC Twente,Wigan Athletic,2012,English
+24,24,Piscu,ESP,D,1.84,77,25-02-87,As Pontes de García Rodríguez,Deportivo La Coruña,Wigan Athletic,2012,English
+25,25,Román Golobart,ESP,D,1.93,87,21-03-92,Barcelona,Espanyol B,Wigan Athletic,2012,English
+26,26,Ali Al-Habsi,OMA,G,1.94,79,30-12-81,Muscat,Bolton W,Wigan Athletic,2012,English
+27,27,Jordan Mustoe,ENG,D,1.80,75,28-01-91,Wirral,None,Wigan Athletic,2012,English
+28,28,Daniel Redmond,ENG,M,1.60,67,02-03-91,Liverpool,Everton,Wigan Athletic,2012,English
+29,29,Nouha Dicko,FRA,F,1.73,74,14-05-92,Saint-Maurice,Strasbourg,Wigan Athletic,2012,English
+30,30,Rob Kiernan,ENG,M,1.86,76,13-01-91,Watford,Watford,Wigan Athletic,2012,English
+31,31,Maynor Figueroa,HON,D,1.80,85,02-05-83,Juticalpa,Olimpia [HON],Wigan Athletic,2012,English
+32,32,Ryo Miyaichi,JPN,F,1.83,71,14-12-92,Okazaki,Arsenal,Wigan Athletic,2012,English
+33,33,Paul Scharner,AUT,M,1.91,80,11-03-80,Scheibbs,Hamburg,Wigan Athletic,2012,English
+34,34,Jamie McCormack,SCO,D,1.78,74,01-02-92,Edinburgh,Hearts,Wigan Athletic,2012,English
+35,35,Filip Orula,SVK,F,,,25-02-93,,FC Twente,Wigan Athletic,2012,English
+36,36,Rakish Bingham,ENG,F,,,25-10-93,Newham,None,Wigan Athletic,2012,English
+37,37,Callum Morris,ENG,D,1.87,83,01-09-92,Birkenhead,None,Wigan Athletic,2012,English
+38,38,Ryan Watson,ENG,M,1.85,73,07-07-93,Crewe,None,Wigan Athletic,2012,English
+39,39,Tim Chow,ENG,M,1.80,72,18-01-94,Wigan,None,Wigan Athletic,2012,English
+40,40,Peter Aylmer,ENG,M,,,12-02-94,Liverpool,Liverpool,Wigan Athletic,2012,English
+41,41,Jonny Lynch,ENG,D,1.80,76,02-11-93,Wigan,None,Wigan Athletic,2012,English
+42,42,Jack Phillips,ENG,M,1.76,75,15-10-93,Liverpool,None,Wigan Athletic,2012,English
+43,43,Adam Buxton,ENG,D,1.85,81,12-05-92,Liverpool,None,Wigan Athletic,2012,English
+44,44,Edu Campabadal,ESP,D,1.77,72,26-01-93,Tarragona,Barcelona B,Wigan Athletic,2012,English
+45,45,Josh Langley,ENG,D,1.80,73,13-08-92,Warrington,None,Wigan Athletic,2012,English
+46,46,Josh Sumner,ENG,M,,,03-01-94,Liverpool,Liverpool,Wigan Athletic,2012,English
+47,47,Jesjua Angoy,ESP,M,1.80,72,11-03-93,Amsterdam,Barcelona B,Wigan Athletic,2012,English
+48,69,Guille,ESP,F,1.80,68,13-10-92,Quart de Poblet,Olímpic de Xàtiva,Wigan Athletic,2012,English
