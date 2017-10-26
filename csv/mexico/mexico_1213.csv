@@ -1,0 +1,536 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Hugo González,MEX,G,1.83,84,01-08-90,San Luis Potosí,None,América,2012,Mexican
+2,2,Erik Pimentel,MEX,D,1.77,74,15-05-90,Coacalco,None,América,2012,Mexican
+3,3,Aquivaldo Mosquera,COL,D,1.84,76,22-06-81,Apartadó,Sevilla,América,2012,Mexican
+4,4,Efrain Juárez,MEX,D,1.72,65,22-02-88,Mexico City,Celtic,América,2012,Mexican
+5,5,Jesús Antonio Molina,MEX,D,1.82,72,29-03-88,Hermosillo,UANL Tigres,América,2012,Mexican
+6,6,Juan Carlos Valenzuela,MEX,D,1.75,72,15-05-84,Guaymas,UAG Tecos,América,2012,Mexican
+7,7,José María Cárdenas,MEX,F,1.66,67,04-02-85,Zacatecas,Santos Laguna,América,2012,Mexican
+8,8,Rosinei,BRA,M,1.70,63,03-05-83,Lavrinhas,Murcia,América,2012,Mexican
+9,9,Raúl Jiménez,MEX,F,1.90,76,05-05-91,Tepeji,None,América,2012,Mexican
+10,10,Daniel Gastón Montenegro,ARG,F,1.72,76,28-03-79,Capital Federal,Independiente,América,2012,Mexican
+11,11,Cristian Benítez,ECU,F,1.69,69,01-05-86,Esmereldas,Santos Laguna,América,2012,Mexican
+12,12,Carlos López,MEX,G,1.87,78,21-03-91,Léon,Talleres (Córdoba),América,2012,Mexican
+13,13,Diego Reyes,MEX,D,1.85,64,19-09-92,Mexico City,None,América,2012,Mexican
+14,14,Rubens Sambueza,ARG,M,1.74,73,01-01-84,Mariano Moreno,Estudiantes Tecos,América,2012,Mexican
+15,15,Pedro García,MEX,M,1.75,70,02-04-91,Mexico City,None,América,2012,Mexican
+16,16,Adrián Aldrete,MEX,M,1.77,72,14-06-88,Guadalajara,Morelia,América,2012,Mexican
+17,17,Antonio López,MEX,F,1.83,81,18-05-89,La Paz,None,América,2012,Mexican
+18,18,Christian Bermúdez,MEX,M,1.63,58,26-04-87,Nezahualcóyotl,Atlante,América,2012,Mexican
+19,19,Miguel Layún,MEX,M,1.78,61,25-06-88,Córdoba,Atalanta,América,2012,Mexican
+20,20,Jorge Reyes,MEX,D,1.74,67,23-01-91,Acapulco,None,América,2012,Mexican
+21,21,Ventura Alvarado,USA,D,1.81,71,16-08-92,Phoenix,None,América,2012,Mexican
+22,22,Paul Aguilar,MEX,D,1.77,65,06-03-86,Concordia,Pachuca,América,2012,Mexican
+23,23,Moisés Muñoz,MEX,G,1.83,83,01-02-80,Morelia,Atlante,América,2012,Mexican
+25,25,Jorge Urias,MEX,M,1.75,71,23-04-91,Ahome,None,América,2012,Mexican
+26,26,Juan Carlos Medina,MEX,M,1.70,66,22-08-83,Torreón,Atlas,América,2012,Mexican
+27,27,Daniel Acosta,MEX,D,1.72,72,10-06-91,Mexico City,None,América,2012,Mexican
+28,28,Martín Zúñiga,MEX,F,1.80,69,14-04-93,Tapachula,None,América,2012,Mexican
+29,29,Ademar Rodríguez,MEX,D,1.75,60,23-03-90,Mexico City,None,América,2012,Mexican
+30,30,Irving García,MEX,D,1.85,78,14-03-91,Ahome,None,América,2012,Mexican
+33,33,Patricio Treviño,MEX,D,1.84,72,28-12-89,Mexico City,None,América,2012,Mexican
+1,1,Antonio Pérez,MEX,G,1.83,82,16-04-78,Guadalajara,Leon,Atlante,2012,Mexican
+2,2,Jorge Guagua,ECU,D,1.80,85,28-09-81,Quito,LDU Quito,Atlante,2012,Mexican
+3,3,Óscar Rojas,MEX,M,1.70,60,05-02-88,Mexico City,UNAM,Atlante,2012,Mexican
+4,4,Luis Gerardo Venegas,MEX,D,1.85,81,21-06-84,San Luis Potosí,Alacranes de Durango,Atlante,2012,Mexican
+5,5,José Guerrero,MEX,M,1.74,69,18-11-87,Guadalajara,None,Atlante,2012,Mexican
+6,6,Alfonso Luna,MEX,D,1.74,66,23-01-90,Metepec,UNAM,Atlante,2012,Mexican
+7,7,Esteban Paredes,CHI,F,1.76,78,01-08-80,Santiago,Colo-Colo,Atlante,2012,Mexican
+8,8,Osvaldo Martínez,PAR,M,1.67,62,08-04-86,Luque,Monterrey,Atlante,2012,Mexican
+9,9,Valdo,CPV,M,1.83,78,23-04-81,Villablino,Levante,Atlante,2012,Mexican
+10,10,Cristian Maidana,ARG,M,1.82,69,24-01-87,Chaco,Rangers (Talca),Atlante,2012,Mexican
+11,11,Jerónimo Amione,MEX,F,1.75,76,31-03-90,Mexico City,None,Atlante,2012,Mexican
+14,14,Francisco Fonseca,MEX,F,1.84,79,02-10-79,León,UANL Tigres,Atlante,2012,Mexican
+15,15,Arturo Muñóz,MEX,M,1.74,70,31-12-84,Mexico City,Colima,Atlante,2012,Mexican
+16,16,Irving Zurita,MEX,M,1.66,58,27-09-91,Mexico City,None,Atlante,2012,Mexican
+17,17,Ignacio Torres,MEX,M,1.76,75,25-09-83,Mexico City,San Luis,Atlante,2012,Mexican
+18,18,Israel Martínez,MEX,D,1.66,68,14-03-81,Mexico City,América,Atlante,2012,Mexican
+19,19,Ricardo Jiménez,MEX,D,1.86,77,17-11-84,Guadalajara,Atlas,Atlante,2012,Mexican
+20,20,Sergio Nápoles,MEX,F,1.71,69,23-11-89,Cancún,None,Atlante,2012,Mexican
+21,21,Gerardo Ruíz,MEX,G,1.82,72,05-09-85,Mexico City,None,Atlante,2012,Mexican
+22,22,Carlos Calvo,MEX,D,1.91,85,02-12-92,Mérida [MEX],None,Atlante,2012,Mexican
+23,23,Jorge Villalpando,MEX,G,1.73,67,13-03-85,Mexico City,Jaguares de Chiapas,Atlante,2012,Mexican
+24,24,Alejandro Arredondo,MEX,G,1.75,66,28-08-85,Mexico City,UNAM,Atlante,2012,Mexican
+25,25,Oscar Vera,MEX,F,1.68,66,10-03-86,León,Atlas,Atlante,2012,Mexican
+26,26,Ernesto Reyes,MEX,D,1.62,57,01-07-91,Felipe Carrillo Puerto,None,Atlante,2012,Mexican
+27,27,Raymundo Torres,MEX,M,1.72,69,19-12-84,Guanajuato,León,Atlante,2012,Mexican
+32,32,Eugenio Arochi,MEX,D,1.77,72,06-02-91,Mexico City,None,Atlante,2012,Mexican
+33,33,Luis Rodríguez,MEX,F,1.83,72,14-09-91,Saltillo,None,Atlante,2012,Mexican
+34,34,Oscar Vieyra,MEX,M,1.65,62,19-04-92,Mexico City,None,Atlante,2012,Mexican
+41,52,Sonny Guadarrama,USA,M,1.69,68,27-03-87,Austin,Mérida,Atlante,2012,Mexican
+42,89,José Calderón,MEX,D,1.83,74,10-07-93,La Antigua,None,Atlante,2012,Mexican
+1,1,Miguel Pinto,CHI,G,1.80,73,04-07-83,Santiago,Universidad de Chile,Atlas,2012,Mexican
+2,2,Christian Sánchez,MEX,D,1.80,72,04-04-89,Guadalajara,Jaguares de Chiapas,Atlas,2012,Mexican
+3,3,Luis Manuel Ramos,MEX,D,1.81,78,11-01-91,Guadalajara,None,Atlas,2012,Mexican
+4,4,Antonio Briseño,MEX,D,1.85,75,02-02-94,Guadalajara,None,Atlas,2012,Mexican
+5,5,Facundo Erpen,ARG,D,1.83,81,19-05-83,Gualeguaychu,Instituto (Córdoba),Atlas,2012,Mexican
+6,6,Gregorio Torres,MEX,D,1.70,74,03-09-85,Guadalajara,None,Atlas,2012,Mexican
+7,7,Flavio Jesús Santos,MEX,F,1.75,65,01-03-87,Ocotlán,None,Atlas,2012,Mexican
+8,8,Lucas Ayala,ARG,M,1.69,66,11-08-78,Buenos Aires,UANL Tigres,Atlas,2012,Mexican
+9,9,Héctor Mancilla,CHI,F,1.79,75,12-11-80,Santiago,UANL Tigres,Atlas,2012,Mexican
+10,10,Luis Bolaños,ECU,M,1.75,65,27-03-85,Quito,LDU Quito,Atlas,2012,Mexican
+11,11,Sergio Santana,MEX,F,1.79,67,10-08-81,Rio Grande,Monterrey,Atlas,2012,Mexican
+12,12,Alejandro Gallardo,MEX,G,1.78,71,16-01-88,Magdalena de Quino,None,Atlas,2012,Mexican
+14,14,Alexis Loera,MEX,D,1.80,77,09-02-91,Guadalajara,None,Atlas,2012,Mexican
+15,15,Arturo González,MEX,M,1.73,64,05-09-94,Reynosa,None,Atlas,2012,Mexican
+16,16,Sergio Amaury Ponce,MEX,M,1.79,73,13-08-81,Tepic,Guadalajara,Atlas,2012,Mexican
+17,17,Luis Robles,MEX,D,1.69,65,22-09-86,Amacueca,None,Atlas,2012,Mexican
+18,18,Luis Télles,MEX,M,1.69,68,09-03-92,León,None,Atlas,2012,Mexican
+19,19,Jahir Barraza,MEX,F,1.81,69,17-09-90,Delicias,None,Atlas,2012,Mexican
+20,20,Hugo Rodríguez,MEX,D,1.83,77,08-06-90,Mazatlán,None,Atlas,2012,Mexican
+21,21,Alan López,MEX,G,1.88,82,21-06-90,Guadalajara,None,Atlas,2012,Mexican
+22,22,Juan Pablo Vigon,MEX,M,1.68,66,20-07-91,Guadalajara,None,Atlas,2012,Mexican
+23,23,Ricardo Bocanegra,MEX,F,1.79,75,27-10-90,Guadalajara,None,Atlas,2012,Mexican
+24,24,Alfredo Sánchez,MEX,F,1.70,67,23-03-87,Apatzingán,None,Atlas,2012,Mexican
+25,25,Leandro Cufré,ARG,D,1.77,80,09-05-78,La Plata,Dinamo Zagreb,Atlas,2012,Mexican
+26,26,Carlos Gutiérrez,MEX,M,1.69,64,03-02-90,Guadalajara,None,Atlas,2012,Mexican
+27,27,Christian Díaz,MEX,M,1.68,64,07-04-91,Guadalajara,None,Atlas,2012,Mexican
+28,28,Luis Alonso Sandoval,MEX,F,1.76,67,27-09-81,Guadalajara,Necaxa,Atlas,2012,Mexican
+29,29,Alberto Pindter,MEX,F,1.73,64,14-12-91,Guadalajara,None,Atlas,2012,Mexican
+30,30,Matías Vuoso,MEX,F,1.75,79,03-11-81,Mar del Plata,América,Atlas,2012,Mexican
+31,31,Rogelio Osuna,MEX,D,1.70,70,31-03-91,Mazatlán,None,Atlas,2012,Mexican
+32,32,Guillermo Martín,MEX,D,1.75,64,07-03-91,Guadalajara,None,Atlas,2012,Mexican
+1,1,Jesús Corona,MEX,G,1.81,82,26-01-81,Guadalajara,UAG Tecos,Cruz Azul,2012,Mexican
+2,2,Fausto Pinto,MEX,D,1.67,53,08-08-83,Culiacán,Pachuca,Cruz Azul,2012,Mexican
+3,3,Néstor Araujo,MEX,D,1.88,85,29-08-91,Guadalajara,None,Cruz Azul,2012,Mexican
+4,4,Julio Domínguez,MEX,D,1.75,70,08-11-87,Arriaga,None,Cruz Azul,2012,Mexican
+5,5,Alejandro Castro,MEX,D,1.74,72,27-03-87,Mexico City,None,Cruz Azul,2012,Mexican
+6,6,Gerardo Torrado,MEX,M,1.73,72,30-04-79,Mexico City,Racing Santander,Cruz Azul,2012,Mexican
+7,7,Javier Aquino,MEX,M,1.68,59,11-02-90,Oaxaca,None,Cruz Azul,2012,Mexican
+8,8,Israel Castro,MEX,M,1.76,67,20-12-80,Mexico City,UNAM,Cruz Azul,2012,Mexican
+9,9,Omar Bravo,MEX,F,1.69,71,04-03-80,Los Mochis,Sporting Kansas City,Cruz Azul,2012,Mexican
+10,10,Christian Giménez,ARG,M,1.79,70,02-01-81,Resistencia,Pachuca,Cruz Azul,2012,Mexican
+11,11,Alejandro Vela,MEX,F,1.72,69,28-03-84,Cancún,Jaguares de Chiapas,Cruz Azul,2012,Mexican
+12,12,Guillermo Allison,MEX,G,1.91,90,25-09-90,Tuxtla Gutiérrez,None,Cruz Azul,2012,Mexican
+14,14,Luis Amaranto Perea,COL,D,1.80,76,30-01-79,Turbo Antioquia,Atlético Madrid,Cruz Azul,2012,Mexican
+15,15,Gerardo Flores,MEX,D,1.80,75,05-02-86,Xochitepec,Atlas,Cruz Azul,2012,Mexican
+16,16,Jair Pereira,MEX,D,1.84,78,07-07-86,Cuautla,Cruz Azul Hidalgo,Cruz Azul,2012,Mexican
+17,17,Pablo Barrera,MEX,M,1.75,65,21-06-87,Tlalnepantla de Baz,West Ham U,Cruz Azul,2012,Mexican
+18,18,Maranhão,BRA,M,1.68,63,03-05-90,São Luis,Bahia,Cruz Azul,2012,Mexican
+19,19,Marco Ángulo,MEX,F,1.76,68,22-05-91,Ahome,None,Cruz Azul,2012,Mexican
+20,20,Mariano Pavone,ARG,F,1.76,81,27-05-82,Tres Sargentos,Lanús,Cruz Azul,2012,Mexican
+21,21,Héctor Enrique Gutiérrez,MEX,M,1.73,71,29-08-86,Toluca,None,Cruz Azul,2012,Mexican
+22,22,Adrián Cortés,MEX,D,1.75,69,19-11-83,Mexico City,None,Cruz Azul,2012,Mexican
+23,23,Iñaki Domínguez,MEX,M,1.78,63,29-03-94,Mexico City,None,Cruz Azul,2012,Mexican
+24,24,Francisco Flores,MEX,D,1.77,67,17-01-94,Mexico City,None,Cruz Azul,2012,Mexican
+25,25,Yosgart Gutiérrez,MEX,G,1.87,75,15-03-81,Ruiz Cortines,None,Cruz Azul,2012,Mexican
+27,27,Javier Orozco,MEX,F,1.74,76,16-11-87,Los Mochis,None,Cruz Azul,2012,Mexican
+28,28,Rogelio Chávez,MEX,D,1.72,68,24-10-84,Tula de Allende,None,Cruz Azul,2012,Mexican
+29,29,Martín Galvan,MEX,F,1.68,62,14-02-93,Acapulco,None,Cruz Azul,2012,Mexican
+1,1,Luis Michel,MEX,G,1.83,75,21-07-79,Guadalajara,Santos,Guadalajara,2012,Mexican
+2,2,Mario de Luna,MEX,D,1.79,76,05-01-88,Aguascalientes,None,Guadalajara,2012,Mexican
+3,3,Kristian Álvarez,MEX,D,1.83,80,20-04-92,Zapotlanejo,None,Guadalajara,2012,Mexican
+4,4,Héctor Reynoso,MEX,D,1.84,88,03-10-80,Mexico City,Tijuana,Guadalajara,2012,Mexican
+5,5,Patricio Araujo,MEX,D,1.75,72,30-01-88,Colima,None,Guadalajara,2012,Mexican
+6,6,Omar Esparza,MEX,D,1.74,64,21-05-88,Guadalajara,None,Guadalajara,2012,Mexican
+7,7,Rafael Márquez,MEX,F,1.72,68,02-11-81,Mexico City,Pachuca,Guadalajara,2012,Mexican
+8,8,Luis Ernesto Pérez,MEX,M,1.71,70,12-01-81,Mexico City,Monterrey,Guadalajara,2012,Mexican
+9,9,Omar Arellano,MEX,F,1.74,70,18-06-87,Guadalajara,Pachuca,Guadalajara,2012,Mexican
+10,10,Marco Fabián,MEX,F,1.70,65,21-07-89,Guadalajara,Tapatio,Guadalajara,2012,Mexican
+11,11,Julio César Nava,MEX,M,1.70,58,19-12-89,Xalapa,None,Guadalajara,2012,Mexican
+13,13,Abraham Coronado,MEX,M,1.75,64,13-03-92,Ocotlán,None,Guadalajara,2012,Mexican
+14,14,Jorge Enríquez,MEX,M,1.87,70,08-01-91,Mexicali,None,Guadalajara,2012,Mexican
+15,15,Jesús Padilla,MEX,F,1.80,68,03-03-87,San Miguel El Alto,None,Guadalajara,2012,Mexican
+16,16,Miguel Ángel Ponce,MEX,D,1.75,77,12-04-89,Sacramento,None,Guadalajara,2012,Mexican
+17,17,Jesús Sánchez,MEX,F,1.69,67,31-08-89,San Luis Río Colorado,None,Guadalajara,2012,Mexican
+18,18,Xavier Baez,MEX,M,1.70,63,22-07-87,Reynosa,None,Guadalajara,2012,Mexican
+19,19,Erick Torres,MEX,F,1.80,68,19-01-93,Guadalajara,None,Guadalajara,2012,Mexican
+20,20,Giovani Casillas,MEX,M,1.76,62,01-04-94,Guadalajara,None,Guadalajara,2012,Mexican
+21,21,Carlos Fierro,MEX,F,1.75,64,24-07-94,Los Mochis,None,Guadalajara,2012,Mexican
+23,23,Ricardo Vázquez,MEX,F,1.83,74,15-05-90,Guadalajara,None,Guadalajara,2012,Mexican
+24,24,Juan Antonio Ocampo,MEX,D,1.76,70,11-06-89,Tepic,None,Guadalajara,2012,Mexican
+25,25,Antonio Gallardo,MEX,M,1.80,78,19-04-89,Guadalajara,None,Guadalajara,2012,Mexican
+26,26,José Antonio Rodríguez,MEX,G,1.83,80,04-07-92,Guadalajara,None,Guadalajara,2012,Mexican
+27,27,Christian Pérez,MEX,D,1.85,70,27-03-90,Guadalajara,None,Guadalajara,2012,Mexican
+28,28,Giovani Hernández,MEX,M,1.72,72,04-01-93,Guadalajara,None,Guadalajara,2012,Mexican
+29,29,Diego Martínez,MEX,D,1.85,79,15-02-81,Mexico City,Necaxa,Guadalajara,2012,Mexican
+30,30,Liborio Sánchez,MEX,G,1.80,72,09-10-89,Guadalajara,None,Guadalajara,2012,Mexican
+36,36,Octavio Villanueva,MEX,D,1.84,76,03-07-94,Uruapan,None,Guadalajara,2012,Mexican
+1,1,Fabián Villaseñor,MEX,G,1.89,82,20-11-82,Guadalajara,Veracruz,Jaguares de Chiapas,2012,Mexican
+2,2,Miguel Martínez,ARG,D,1.87,86,19-01-84,Lanús,Atlante,Jaguares de Chiapas,2012,Mexican
+3,3,Leyton Jiménez,COL,D,1.81,72,26-04-89,Juradó,Independiente Medellín,Jaguares de Chiapas,2012,Mexican
+4,4,George Corral,MEX,D,1.74,64,18-07-90,Ecatepec,América,Jaguares de Chiapas,2012,Mexican
+5,5,Omar Flores,MEX,D,1.83,80,06-05-79,Acapulco,Atlas,Jaguares de Chiapas,2012,Mexican
+6,6,Gerardo Espinoza,MEX,M,1.69,66,19-03-78,Mexico City,Atlas,Jaguares de Chiapas,2012,Mexican
+7,7,Yasser Corona,MEX,D,1.84,62,28-11-87,Tepic,Morelia,Jaguares de Chiapas,2012,Mexican
+8,8,Alan Miguel Zamora,MEX,D,1.78,72,08-04-85,Mexico City,Atlante,Jaguares de Chiapas,2012,Mexican
+9,9,Jhon Córdoba,COL,F,1.86,85,10-05-93,Istmina,Envigado,Jaguares de Chiapas,2012,Mexican
+10,10,Jorge Rodríguez,URU,M,1.71,71,13-01-85,Montevideo,River Plate [URU],Jaguares de Chiapas,2012,Mexican
+11,11,Luis Gabriel Rey,COL,F,1.82,74,20-02-80,Bucaramanga,Morelia,Jaguares de Chiapas,2012,Mexican
+12,12,Antonio Salazar,MEX,F,1.78,73,02-07-89,Ciudad Madero,Guadalajara,Jaguares de Chiapas,2012,Mexican
+13,13,Elgabry Rangel,MEX,M,1.63,65,03-04-82,Torreón,Estudiantes Tecos,Jaguares de Chiapas,2012,Mexican
+14,14,Luis Miguel Noriega,MEX,M,1.72,67,17-04-85,Tepotzotlán,Morelia,Jaguares de Chiapas,2012,Mexican
+15,15,Leonardo Bedolla,MEX,D,1.78,74,31-07-93,Ayutla,None,Jaguares de Chiapas,2012,Mexican
+16,16,Mariano Trujillo,MEX,D,1.72,67,19-05-77,Mexico City,Chivas USA,Jaguares de Chiapas,2012,Mexican
+17,17,Armando Zamorano,MEX,M,1.66,67,03-10-93,Autlán,None,Jaguares de Chiapas,2012,Mexican
+18,18,Ricardo Esqueda,MEX,M,1.73,75,25-02-81,Pachuca,Indios de Ciudad Juárez,Jaguares de Chiapas,2012,Mexican
+19,19,Edgar Andrade,MEX,M,1.75,78,02-03-88,Jalapa,Cruz Azul,Jaguares de Chiapas,2012,Mexican
+20,20,Faustino Arizala,COL,F,1.80,77,04-06-86,Magüi Payán,Pachuca,Jaguares de Chiapas,2012,Mexican
+22,22,Luis Manuel García,MEX,G,1.83,84,31-12-92,Talpa de Allende,None,Jaguares de Chiapas,2012,Mexican
+23,23,Edgar Hernández,MEX,G,1.83,79,27-08-82,Ciudad Reynosa,UANL Tigres,Jaguares de Chiapas,2012,Mexican
+24,24,David Andrade,MEX,M,1.70,58,09-07-93,Manzanillo,None,Jaguares de Chiapas,2012,Mexican
+25,25,Cristian Ocaña,MEX,D,1.77,70,18-03-92,Arriaga,None,Jaguares de Chiapas,2012,Mexican
+26,26,Jorge Zárate,MEX,M,1.68,60,20-01-92,San Luis Potosí,Puebla,Jaguares de Chiapas,2012,Mexican
+27,27,Carlos Reyes,MEX,M,1.68,70,10-10-94,Guadalajara,None,Jaguares de Chiapas,2012,Mexican
+28,28,Cristian Trombetta,ARG,M,1.87,79,15-10-86,Rancúl,Arsenal [ARG],Jaguares de Chiapas,2012,Mexican
+30,30,Kevin Gutiérrez,MEX,D,1.78,80,01-03-95,Tuxtla Gutiérrez,None,Jaguares de Chiapas,2012,Mexican
+35,35,Jesús Castillo,MEX,D,1.70,61,16-05-88,Huetamo,Morelia,Jaguares de Chiapas,2012,Mexican
+38,38,Osiris Enríquez,MEX,D,1.78,74,06-08-93,Mexico City,None,Jaguares de Chiapas,2012,Mexican
+41,41,Luis Loroña,MEX,F,1.82,75,21-06-93,Caborca,None,Jaguares de Chiapas,2012,Mexican
+42,42,Erick Rivera,MEX,M,1.60,54,15-11-92,Arriaga,None,Jaguares de Chiapas,2012,Mexican
+43,48,Pedro Hernández,MEX,M,1.73,69,27-08-93,Guadalajara,None,Jaguares de Chiapas,2012,Mexican
+44,50,Diego Castellanos,MEX,F,1.75,71,14-03-93,Guadalajara,None,Jaguares de Chiapas,2012,Mexican
+45,54,José Luis Estrada,MEX,D,1.78,70,03-02-92,Zamora,None,Jaguares de Chiapas,2012,Mexican
+1,1,Hernán Burbano,COL,M,1.69,64,05-03-88,Santander de Quilichao,Deportivo Cali,León,2012,Mexican
+2,2,Javier Muñoz Mustafá,ARG,D,1.78,73,11-06-80,Firmat,Pachuca,León,2012,Mexican
+4,4,Oscar Mascorro,MEX,D,1.80,79,11-02-80,Ciudad Victoria,San Luis,León,2012,Mexican
+5,5,Iván Pineda,MEX,D,1.75,77,22-07-92,Ciudad Victoria,Pachuca,León,2012,Mexican
+7,7,Edwin Hernández,MEX,D,1.66,66,10-07-86,Pachuca,Indios de Ciudad Juárez,León,2012,Mexican
+8,8,Edgar Mejía,MEX,D,1.75,70,27-07-88,Guadalajara,Guadalajara,León,2012,Mexican
+9,9,Matías Britos,URU,F,1.71,68,26-11-88,Maldonado,Defensor Sporting,León,2012,Mexican
+10,10,Luis Montes,MEX,M,1.65,62,15-05-86,Chihuahua,Pachuca,León,2012,Mexican
+11,11,Luis Nieves,MEX,F,1.75,73,06-06-85,Tepic,None,León,2012,Mexican
+12,12,Juan Carlos Rojas,MEX,M,1.77,65,06-06-84,Romita,Pachuca,León,2012,Mexican
+15,15,Edwin Santibáñez,MEX,M,1.70,62,01-02-80,Torreón,Indios de Ciudad Juárez,León,2012,Mexican
+16,16,Christian Martínez,MEX,G,1.80,77,16-10-79,Mexico City,Estudiantes Tecos,León,2012,Mexican
+17,17,Saúl Villalobos,MEX,M,1.80,78,26-06-91,San Juan de los Lagos,Atlas,León,2012,Mexican
+18,18,José Fernando Torres,MEX,F,1.78,70,23-03-93,Mexico City,None,León,2012,Mexican
+19,19,Jonny Magallón,MEX,D,1.78,74,21-11-81,Ocotlán,Guadalajara,León,2012,Mexican
+20,20,Eisner Iván Loboa,COL,M,1.72,70,17-05-87,Caloto,Deportivo Pasto,León,2012,Mexican
+21,21,Luis Delgado,MEX,D,1.75,69,19-08-90,León,None,León,2012,Mexican
+22,22,Sebastián Maz,URU,F,1.78,82,20-11-84,Durazno,Veracruz,León,2012,Mexican
+23,23,José Vázquez,MEX,M,1.66,67,14-03-88,Celaya,Celaya,León,2012,Mexican
+24,24,José Pozos,MEX,M,1.74,65,19-04-90,Tepatitlán,None,León,2012,Mexican
+25,25,William Yarbrough,MEX,G,1.90,80,20-03-89,Aguascalientes,Titanes de Tulancingo,León,2012,Mexican
+26,26,Julio César Ceja,MEX,M,1.65,70,02-06-86,Zamora,Cruz Azul,León,2012,Mexican
+27,27,Carlos Alberto Peña,MEX,M,1.76,78,29-03-90,Ciudad Victoria,Pachuca,León,2012,Mexican
+28,28,Juan José Calderón,MEX,M,1.68,62,24-11-91,Tlajomulco de Zúñiga,Toluca,León,2012,Mexican
+29,29,Aldo Rocha,MEX,M,1.65,62,06-11-92,León,None,León,2012,Mexican
+30,30,Edgar Pacheco,MEX,M,1.78,75,22-01-90,Guadalajara,UANL Tigres,León,2012,Mexican
+31,31,Edgar Hernández,MEX,G,1.79,68,15-10-82,Veracruz,Pachuca,León,2012,Mexican
+32,32,Raúl Maldonado,MEX,M,1.62,61,21-01-91,Zacatecas,None,León,2012,Mexican
+33,33,Othoniel Arce,MEX,F,1.90,75,08-11-89,Tejupilco,Monterrey,León,2012,Mexican
+34,34,Arturo Ortíz,MEX,D,1.80,75,25-08-92,Monterrey,None,León,2012,Mexican
+35,35,Juan Ignacio González,MEX,D,1.88,83,08-07-84,Guadalajara,Querétaro,León,2012,Mexican
+41,45,Mauricio Castañeda,MEX,F,1.74,71,24-03-92,León,None,León,2012,Mexican
+42,82,Óscar Suárez,MEX,M,1.74,63,10-04-95,Guanajuato,None,León,2012,Mexican
+1,1,Jonathan Orozco,MEX,G,1.81,75,12-05-86,Monterrey,None,Monterrey,2012,Mexican
+2,2,Severo Meza,MEX,D,1.77,66,09-07-86,Naranjos,None,Monterrey,2012,Mexican
+3,3,Alejandro Molina,MEX,M,1.77,67,30-11-89,Ensenada,None,Monterrey,2012,Mexican
+4,4,Ricardo Osorio,MEX,D,1.73,68,30-03-80,Huajuapan De León,Stuttgart,Monterrey,2012,Mexican
+5,5,Dárvin Chávez,MEX,D,1.77,65,21-11-89,Zapopan,Atlas,Monterrey,2012,Mexican
+6,6,Miguel Morales,MEX,M,1.88,84,03-05-85,Monterrey,None,Monterrey,2012,Mexican
+7,7,Edgar Iván Solís,MEX,M,1.73,59,05-03-87,Guadalajara,Guadalajara,Monterrey,2012,Mexican
+9,9,Aldo De Nigris,MEX,F,1.83,79,22-07-83,Monterrey,Necaxa,Monterrey,2012,Mexican
+10,10,Ángel Reyna,MEX,M,1.68,68,19-09-84,Mexico City,América,Monterrey,2012,Mexican
+11,11,Walter Ayoví,ECU,M,1.72,68,11-08-79,Camarones,El Nacional,Monterrey,2012,Mexican
+13,13,Dario Carreño,MEX,F,1.88,78,13-01-88,Monterrey,None,Monterrey,2012,Mexican
+14,14,Jesús Manuel Corona,MEX,F,1.73,73,06-01-93,Hermosillo,None,Monterrey,2012,Mexican
+15,15,José María Basanta,ARG,D,1.88,78,03-04-84,Tres Sargentos,Estudiantes (LP),Monterrey,2012,Mexican
+16,16,César de la Peña,MEX,M,1.69,65,22-06-91,Monterrey,None,Monterrey,2012,Mexican
+17,17,Jesús Eduardo Zavala,MEX,F,1.89,85,21-07-87,Monterrey,None,Monterrey,2012,Mexican
+18,18,Neri Cardozo,ARG,M,1.71,64,08-08-86,Godoy Cruz,Jaguares de Chiapas,Monterrey,2012,Mexican
+19,19,César Delgado,ARG,M,1.74,69,18-08-81,Rosario,Lyon,Monterrey,2012,Mexican
+21,21,Hiram Mier,MEX,D,1.79,70,25-08-89,Monterrey,None,Monterrey,2012,Mexican
+23,23,Juan Ibarra,MEX,G,1.82,77,17-02-79,Los Mochis,América,Monterrey,2012,Mexican
+24,24,Sergio Pérez,MEX,D,1.82,67,13-10-86,Puebla,Puebla,Monterrey,2012,Mexican
+26,26,Humberto Suazo,CHI,F,1.72,79,10-05-81,San Antonio,Colo-Colo,Monterrey,2012,Mexican
+32,32,Jesús Dautt,MEX,G,1.77,65,03-03-90,Los Mochis,None,Monterrey,2012,Mexican
+41,41,Luis López,MEX,D,1.87,77,25-08-93,Guadalupe,None,Monterrey,2012,Mexican
+42,45,Gerardo Moreno,MEX,F,1.77,66,29-11-93,Tampico,None,Monterrey,2012,Mexican
+43,58,Santiago Rivera,MEX,F,1.78,70,06-02-92,Guaymas,None,Monterrey,2012,Mexican
+1,1,Carlos Felipe Rodríguez,MEX,G,1.83,75,03-04-89,Morelia,None,Morelia,2012,Mexican
+2,2,Enrique Pérez,MEX,D,1.68,67,13-10-88,Zinapécuaro,None,Morelia,2012,Mexican
+3,3,Federico Vilar,ARG,G,1.81,70,30-05-77,Junin,Atlante,Morelia,2012,Mexican
+4,4,Uriel Álvarez,MEX,D,1.74,75,01-05-90,Acapulco,Santos Laguna,Morelia,2012,Mexican
+5,5,Mauricio Romero,ARG,D,1.84,84,13-01-83,La Pampa,Lanús,Morelia,2012,Mexican
+6,6,Joel Huiqui,MEX,D,1.83,78,18-02-83,Los Mochis,Cruz Azul,Morelia,2012,Mexican
+7,7,Jefferson Montero,ECU,F,1.70,70,01-09-89,Babahoyo,Villarreal,Morelia,2012,Mexican
+8,8,Aldo Ramírez,COL,M,1.74,73,18-04-81,Santa Marta,Atlético Nacional,Morelia,2012,Mexican
+9,9,Miguel Sabah,MEX,F,1.75,72,14-11-79,Cancún,Cruz Azul,Morelia,2012,Mexican
+10,10,Joao Rojas,ECU,F,1.73,65,14-06-89,El Triunfo,Independiente José Terán,Morelia,2012,Mexican
+11,11,Carlos Ochoa,MEX,F,1.77,72,05-03-78,Apatzingan,Santos Laguna,Morelia,2012,Mexican
+12,12,Higinio Bucio,MEX,G,1.86,79,15-05-90,Uruapan,None,Morelia,2012,Mexican
+13,13,Fernando Salazar,MEX,M,1.78,76,13-06-79,Guadalajara,Pachuca,Morelia,2012,Mexican
+14,14,Fernando Silva,MEX,M,1.81,76,23-03-89,Morelia,None,Morelia,2012,Mexican
+15,15,Oscar Razo,MEX,D,1.79,76,09-04-84,Irapuato,Jaguares de Chiapas,Morelia,2012,Mexican
+16,16,Victor Martínez,MEX,D,1.75,70,08-07-92,Morelia,None,Morelia,2012,Mexican
+17,17,Jose Hibert Ruiz,MEX,M,1.81,68,25-05-87,León,Jaguares de Chiapas,Morelia,2012,Mexican
+18,18,Édson Juárez,MEX,F,1.73,68,03-02-90,Morelia,Los Altos,Morelia,2012,Mexican
+19,19,Antonio Olvera,MEX,D,1.73,63,03-04-86,Francisco Madero,Guadalajara,Morelia,2012,Mexican
+20,20,Ángel Sepulveda,MEX,F,1.79,73,15-02-91,Apatzingán,None,Morelia,2012,Mexican
+22,22,Francisco Torres,MEX,M,1.71,67,12-05-83,León,Santos Laguna,Morelia,2012,Mexican
+23,23,Daniel Silva Cordero,MEX,M,1.73,72,04-05-88,Francisco I. Madero,Loros de la UCOL,Morelia,2012,Mexican
+24,24,Luis Romero,MEX,M,1.72,68,10-04-91,Acauplco,None,Morelia,2012,Mexican
+26,26,Christian Valdéz,MEX,M,1.70,69,05-05-84,Mazatlán,Jaguares de Chiapas,Morelia,2012,Mexican
+27,27,Antonio Pedroza,ENG,F,1.70,67,20-02-91,Chester,Crystal Palace,Morelia,2012,Mexican
+28,28,Carlos Morales,MEX,M,1.74,70,06-09-79,La Piedad,Santos Laguna,Morelia,2012,Mexican
+29,29,Rodrigo Salinas,MEX,M,1.78,64,09-05-88,Puebla,Puebla,Morelia,2012,Mexican
+2,2,Leobardo López,MEX,D,1.78,67,04-09-83,Cortijo Viejo,Unión de Curtidores,Pachuca,2012,Mexican
+3,3,Néstor Vidrio,MEX,M,1.78,65,22-03-89,Guadalajara,Atlas,Pachuca,2012,Mexican
+4,4,Paulo da Silva,PAR,D,1.81,76,01-02-80,Asunción,Zaragoza,Pachuca,2012,Mexican
+5,5,Daniel Arreola,MEX,D,1.81,72,08-10-85,Cancún,Atlante,Pachuca,2012,Mexican
+6,6,Héctor Herrera,MEX,M,1.82,70,19-04-90,Tijuana,None,Pachuca,2012,Mexican
+7,7,Alberto Medina,MEX,M,1.72,63,29-05-83,Culiacán,Guadalajara,Pachuca,2012,Mexican
+9,9,Enrique Esqueda,MEX,F,1.75,70,19-04-88,Querétaro,América,Pachuca,2012,Mexican
+10,10,Mauro Cejas,ARG,M,1.73,68,24-08-85,Adrogué,Estudiantes Tecos,Pachuca,2012,Mexican
+11,11,Néstor Calderón,MEX,M,1.73,63,14-02-89,Guadalajara,Toluca,Pachuca,2012,Mexican
+12,12,Oscar Rojas,MEX,D,1.72,70,08-02-81,Mexico City,América,Pachuca,2012,Mexican
+13,13,Alfonso Blanco,MEX,G,1.82,80,31-07-87,Tamiahua,None,Pachuca,2012,Mexican
+14,14,Segundo Castillo,ECU,M,1.78,77,15-05-82,San Lorenzo [ECU],Deportivo Quito,Pachuca,2012,Mexican
+15,15,Arturo Ledesma,MEX,D,1.78,72,25-05-88,Jalisco,Guadalajara,Pachuca,2012,Mexican
+16,16,Jorge Hernández,MEX,F,1.70,72,10-06-89,San Luis Potosí,Jaguares de Chiapas,Pachuca,2012,Mexican
+18,18,José Torres,USA,M,1.65,61,29-10-87,Longview,None,Pachuca,2012,Mexican
+19,19,Félix Borja,ECU,F,1.80,70,02-04-83,San Lorenzo [ECU],Puebla,Pachuca,2012,Mexican
+21,21,Nery Castillo,MEX,M,1.70,61,13-06-84,San Luis Potosí,Aris,Pachuca,2012,Mexican
+22,22,Carlos Velázquez,MEX,G,1.86,80,02-06-84,Ciudad Sahagún,None,Pachuca,2012,Mexican
+23,23,Raúl Tamudo,ESP,F,1.80,74,19-10-77,Santa Coloma,Rayo Vallecano,Pachuca,2012,Mexican
+24,24,Miguel Herrera,MEX,D,1.82,76,03-04-89,Uruapan,None,Pachuca,2012,Mexican
+25,25,Luis Sánchez,MEX,M,1.75,72,06-02-88,Tijuana,None,Pachuca,2012,Mexican
+26,26,Miguel Velázquez,MEX,M,1.67,57,02-07-90,Tlanepantla,None,Pachuca,2012,Mexican
+27,27,Víctor Mañon,MEX,F,1.70,72,06-02-92,Celaya,None,Pachuca,2012,Mexican
+28,28,Julio Gómez,MEX,F,1.65,49,13-08-94,Tampico,None,Pachuca,2012,Mexican
+29,29,Marco Bueno,MEX,F,1.70,64,31-03-94,Culiacán,None,Pachuca,2012,Mexican
+30,30,Rodolfo Cota,MEX,G,1.82,72,03-07-87,Mazatlán,None,Pachuca,2012,Mexican
+32,32,Efrén Mendoza,MEX,M,1.70,66,09-06-92,Juan Cuamatzi,Atlas,Pachuca,2012,Mexican
+34,34,David Carmona,MEX,M,1.70,70,15-12-94,Mexicali,None,Pachuca,2012,Mexican
+41,49,Raúl Meraz,MEX,F,1.76,67,14-01-92,Apatzingán,None,Pachuca,2012,Mexican
+42,64,Rodolfo Pizarro,MEX,F,1.77,65,15-02-94,Tampico,None,Pachuca,2012,Mexican
+2,2,Orlando Rincón,MEX,D,1.72,66,19-09-85,Cuautla,Atlante,Puebla,2012,Mexican
+3,3,Jaime Durán,MEX,D,1.75,73,02-12-81,El Grullo,Morelia,Puebla,2012,Mexican
+4,4,Jesús Chávez,MEX,D,1.84,78,26-04-86,Torreón,Jaguares de Chiapas,Puebla,2012,Mexican
+5,5,Jorge Kalú Gastelum,MEX,M,1.73,65,28-02-88,Ciudad Obregón,Morelia,Puebla,2012,Mexican
+6,6,Diego de Buen,MEX,M,1.73,61,03-07-91,Mexico City,UNAM,Puebla,2012,Mexican
+7,7,Jair García,MEX,F,1.77,74,25-10-78,Guadalajara,Atlas,Puebla,2012,Mexican
+8,8,Aldo Polo,MEX,D,1.68,78,31-08-83,Mexico City,León,Puebla,2012,Mexican
+10,10,Matías Abelairas,ARG,M,1.70,69,18-06-85,Olavarría,Vasco da Gama,Puebla,2012,Mexican
+11,11,DaMarcus Beasley,USA,M,1.73,66,24-05-82,Fort Wayne,Hannover 96,Puebla,2012,Mexican
+13,13,Herminio Miranda,PAR,D,1.75,72,07-05-85,Itá,Nacional [PAR],Puebla,2012,Mexican
+14,14,Edison Toloza,COL,F,1.71,75,15-06-84,Istcuande,Morelia,Puebla,2012,Mexican
+15,15,Mario Ortiz,MEX,F,1.74,64,04-06-83,Juchitán de Zaragoza,Atlante,Puebla,2012,Mexican
+16,16,Kevin Zapata,MEX,F,1.70,66,22-05-90,Mexico City,Mérida,Puebla,2012,Mexican
+17,17,Bernardo Sainz,MEX,F,1.75,71,15-04-85,Mexico City,Toros Neza,Puebla,2012,Mexican
+18,18,Brayan Martínez,MEX,F,1.78,67,22-01-90,Monterrey,Monterrey,Puebla,2012,Mexican
+19,19,Isaac Romo,MEX,F,1.71,62,23-03-83,Guadalajara,Querétaro,Puebla,2012,Mexican
+20,20,Fernando Cortés,MEX,F,1.72,58,29-11-88,Pachuca,Pachuca,Puebla,2012,Mexican
+21,21,Efraín Dimayuga,MEX,M,1.72,66,01-06-89,Colapa,Jaguares de Chiapas,Puebla,2012,Mexican
+22,22,Matías Alustiza,ARG,F,1.62,60,31-05-84,Azul,Deportivo Quito,Puebla,2012,Mexican
+23,23,Víctor Hugo Hernández,MEX,G,1.83,82,19-05-86,Zamora,Guadalajara,Puebla,2012,Mexican
+24,24,Gerardo Enríquez,MEX,D,1.74,77,22-01-88,Guadalajara,Universidad de Guadalajara,Puebla,2012,Mexican
+26,26,Roberto Carlos Juárez,MEX,D,1.83,73,04-07-87,Guadalajara,Cruz Azul,Puebla,2012,Mexican
+27,27,Francisco Pizano,MEX,D,1.70,78,17-01-87,Salvatierra,León,Puebla,2012,Mexican
+29,29,José Hiber Ruiz,MEX,M,1.62,55,31-01-80,Tonalá,Indios de Ciudad Juárez,Puebla,2012,Mexican
+31,31,Paris Pérez,MEX,D,1.60,63,06-06-89,Mexico City,None,Puebla,2012,Mexican
+33,33,Alexandro Álvarez,MEX,G,1.81,74,26-01-77,Mexico City,Necaxa,Puebla,2012,Mexican
+39,39,Abraham Ruíz,MEX,D,1.77,77,30-08-92,Cosoleacaque,None,Puebla,2012,Mexican
+41,45,Pablo González,MEX,M,1.70,75,07-07-92,Puebla,None,Puebla,2012,Mexican
+42,46,Iván Rodríguez,MEX,G,1.70,75,21-05-93,Tuxtla Gutiérrez,None,Puebla,2012,Mexican
+1,1,Juan Castillo,URU,G,1.82,80,17-04-78,Montevideo,Liverpool [URU],Querétaro,2012,Mexican
+2,2,Efrain Cortés,COL,D,1.82,75,10-07-84,Florida,Deportivo Cali,Querétaro,2012,Mexican
+4,4,Dionicio Escalante,MEX,M,1.80,80,12-05-90,Culiacán,Guadalajara,Querétaro,2012,Mexican
+5,5,Manuel López,MEX,M,1.73,70,22-02-83,Xalapa,Veracruz,Querétaro,2012,Mexican
+6,6,Mitchel Oviedo,MEX,M,1.68,66,07-07-88,Veracruz,Guadalajara,Querétaro,2012,Mexican
+7,7,Gonzalo Pineda,MEX,M,1.77,67,19-10-82,Mexico City,Guadalajara,Querétaro,2012,Mexican
+8,8,Diego de la Torre,MEX,M,1.79,72,05-02-84,San Luis Potosí,Toluca,Querétaro,2012,Mexican
+9,9,Luis Ángel Landín,MEX,F,1.82,73,23-07-85,Zamora,Morelia,Querétaro,2012,Mexican
+10,10,Diego Vera,URU,F,1.84,74,05-01-85,Montevideo,Liverpool [URU],Querétaro,2012,Mexican
+11,11,Arturo Echavarría,MEX,M,1.72,69,18-01-88,Río Bravo,Altamira,Querétaro,2012,Mexican
+12,12,David Stringel,MEX,D,1.75,70,26-03-86,Mexico City,Monterrey,Querétaro,2012,Mexican
+13,13,Armando Pulido,MEX,M,1.66,62,25-03-89,Ciudad Victoria,UANL Tigres,Querétaro,2012,Mexican
+15,15,Diego Guastavino,URU,M,1.68,66,26-07-84,Montevideo,Brann,Querétaro,2012,Mexican
+16,16,Jorge Valencia,MEX,D,1.83,80,06-04-91,Querétaro,UANL Tigres,Querétaro,2012,Mexican
+17,17,Daniel Alcántar,MEX,D,1.68,63,05-02-76,León,San Luis,Querétaro,2012,Mexican
+18,18,Sergio García,MEX,G,1.86,82,19-09-82,Guadalajara,Guadalajara,Querétaro,2012,Mexican
+19,19,Adrián García Arias,MEX,D,1.84,74,06-12-75,Mexico City,San Luis,Querétaro,2012,Mexican
+20,20,Carlos Bueno,URU,F,1.78,72,10-05-80,Artigas,San Lorenzo,Querétaro,2012,Mexican
+21,21,Marco Antonio Jiménez,MEX,M,1.65,71,02-03-81,Ciudad Guzmán,Veracruz,Querétaro,2012,Mexican
+22,22,Alfonso Rippa,MEX,M,1.82,80,23-06-86,Mexico City,Celaya,Querétaro,2012,Mexican
+23,23,Alberto García,MEX,F,1.71,60,26-09-93,Guadalajara,None,Querétaro,2012,Mexican
+24,24,Emmanuel Tapia,MEX,F,1.85,74,22-01-89,Guadalajara,None,Querétaro,2012,Mexican
+26,26,Leonel Olmedo,MEX,D,1.78,60,08-04-81,Mexico City,San Luis,Querétaro,2012,Mexican
+27,27,Juan Carlos Enríquez,MEX,F,1.77,75,18-09-90,Zacatecas,Santos Laguna,Querétaro,2012,Mexican
+28,28,Diego Andrade,MEX,M,1.69,78,06-07-92,Guadalajara,Toluca,Querétaro,2012,Mexican
+29,29,Francisco Franco,MEX,D,1.85,80,25-08-87,Autlán,Toluca,Querétaro,2012,Mexican
+30,30,Jonatan De León,MEX,F,1.80,76,22-06-87,Guadalupe,UANL Tigres,Querétaro,2012,Mexican
+32,32,Onay Pineda,MEX,M,1.60,65,16-06-89,Coyuca de Catalan,None,Querétaro,2012,Mexican
+33,33,Marvin Piñón,MEX,M,1.69,72,12-06-91,Altamira,Monterrey,Querétaro,2012,Mexican
+34,34,Javier Romo,MEX,G,1.85,82,06-01-88,Los Mochis,Unión de Curtidores,Querétaro,2012,Mexican
+35,35,Carlos Zamarripa,MEX,F,1.75,66,12-05-89,Los Mochis,Santos Laguna,Querétaro,2012,Mexican
+41,56,Jaime Gómez,MEX,M,1.75,68,17-07-93,San Juan del Río,None,Querétaro,2012,Mexican
+42,59,Eduardo Sayún,MEX,M,1.71,61,06-08-92,Querétaro,None,Querétaro,2012,Mexican
+43,68,Arelibetsiel Hernández,MEX,D,1.75,69,22-12-94,Rioverde,None,Querétaro,2012,Mexican
+1,1,Óscar Pérez,MEX,G,1.71,72,01-02-73,Mexico City,Cruz Azul,San Luis,2012,Mexican
+2,2,Andrés Cadavid,COL,D,1.88,87,28-12-85,Medellín,Deportivo Cali,San Luis,2012,Mexican
+3,3,César Saldivar,MEX,D,1.76,76,20-09-83,Matamoras,Necaxa,San Luis,2012,Mexican
+4,4,Marco Iván Pérez,MEX,D,1.80,72,09-12-87,Mexico City,Pachuca,San Luis,2012,Mexican
+5,5,Éverton Bilher,BRA,M,1.72,70,24-05-88,Porto Alegre,CRB,San Luis,2012,Mexican
+6,6,Jaime Correa,MEX,M,1.71,70,06-08-79,Durango,Pachuca,San Luis,2012,Mexican
+7,7,Moisés Velasco,MEX,M,1.72,69,19-10-89,Tijuana,Toluca,San Luis,2012,Mexican
+8,8,Sebastián Fernández,URU,F,1.74,75,15-11-89,Montevideo,Danubio,San Luis,2012,Mexican
+9,9,Santiago Tréllez,COL,F,1.85,76,17-01-90,Medellín,Independiente Medellín,San Luis,2012,Mexican
+10,10,Wilmer Aguirre,PER,F,1.68,69,10-05-83,Pisco,Alianza Lima,San Luis,2012,Mexican
+12,12,César Lozano,MEX,G,1.79,78,31-05-77,Mexico City,Indios de Ciudad Juárez,San Luis,2012,Mexican
+13,13,William Paredes,MEX,M,1.66,63,09-09-85,Mérida,Monterrey,San Luis,2012,Mexican
+14,14,César Villaluz,MEX,M,1.65,68,18-07-88,Mexico City,Cruz Azul,San Luis,2012,Mexican
+16,16,Michael Orozco,USA,D,1.80,63,07-02-86,Orange,None,San Luis,2012,Mexican
+17,17,Guillermo Rojas,MEX,F,1.65,60,29-03-83,San Luis Potosí,Jaguares de Chiapas,San Luis,2012,Mexican
+18,18,Isaí Arredondo,MEX,M,1.76,72,19-03-83,Mexico City,Lobos de la BUAP,San Luis,2012,Mexican
+19,19,Emilio López,MEX,M,1.66,58,10-05-86,Guadalajara,Querétaro,San Luis,2012,Mexican
+20,20,Félix Araujo,MEX,D,1.87,82,10-02-83,Guadalajara,Toluca,San Luis,2012,Mexican
+21,21,Noé Maya,MEX,D,1.71,70,01-02-85,Mexico City,Tijuana,San Luis,2012,Mexican
+22,22,Emmanuel Cerda,MEX,F,1.79,73,27-12-87,San Luis Potosí,UANL Tigres,San Luis,2012,Mexican
+23,23,Juan Carlos Silva,MEX,M,1.71,71,06-02-88,Mexico City,Pachuca,San Luis,2012,Mexican
+24,24,Luis Rodríguez,MEX,M,1.75,67,21-01-91,Monterrey,Monterrey,San Luis,2012,Mexican
+25,25,Carlos Trejo,MEX,G,1.76,75,20-03-83,Mexico City,Correcaminos,San Luis,2012,Mexican
+26,26,Luis Mendoza,MEX,F,1.70,60,03-02-90,Monterrey,UANL Tigres,San Luis,2012,Mexican
+27,27,Diego Ordaz,MEX,D,1.79,75,07-05-84,Guadalajara,Monterrey,San Luis,2012,Mexican
+28,28,Erick Esparza,MEX,F,1.72,70,06-06-91,Monterrey,None,San Luis,2012,Mexican
+29,29,David Salazar,MEX,F,1.72,72,05-08-91,Monterrey,None,San Luis,2012,Mexican
+30,30,Jonathan Garcíá,MEX,F,1.83,83,14-08-91,Tijuana,None,San Luis,2012,Mexican
+31,31,José Pablo Díaz,MEX,M,1.74,70,04-02-89,Mexico City,None,San Luis,2012,Mexican
+33,33,José Antonio Castro,MEX,D,1.73,55,08-11-80,Mexico City,Estudiantes Tecos,San Luis,2012,Mexican
+1,1,Oswaldo Sánchez,MEX,G,1.84,84,21-09-73,Guadalajara,Guadalajara,Santos Laguna,2012,Mexican
+2,2,Oswaldo Alanís,MEX,D,1.82,82,18-03-89,Morelia,Estudiantes Tecos,Santos Laguna,2012,Mexican
+3,3,Carlos Darwin Quintero,COL,F,1.66,64,18-09-87,Tumaco,Deportivo Pereira,Santos Laguna,2012,Mexican
+4,4,Jorge Iván Estrada,MEX,D,1.64,65,16-10-83,Tepic,Veracruz,Santos Laguna,2012,Mexican
+5,5,Aarón Galindo,MEX,D,1.82,75,08-05-82,Mexico City,Guadalajara,Santos Laguna,2012,Mexican
+6,6,Marc Crosas,ESP,M,1.72,69,09-01-88,Sant Feliu de Guíxols,Volga Nizhny Novgorod,Santos Laguna,2012,Mexican
+7,7,Edgar Lugo,MEX,M,1.81,65,31-12-84,Mexico City,Cruz Azul,Santos Laguna,2012,Mexican
+8,8,Juan Pablo Rodríguez,MEX,M,1.68,62,08-07-79,Guadalajara,Guadalajara,Santos Laguna,2012,Mexican
+10,10,Daniel Ludueña,ARG,M,1.75,69,22-03-84,Berazategui,UAG Tecos,Santos Laguna,2012,Mexican
+13,13,Christian Suárez,ECU,F,1.75,74,02-11-85,Guayaquil,Necaxa,Santos Laguna,2012,Mexican
+15,15,Alejandro Martínez,MEX,M,1.79,68,10-04-90,Torreón,None,Santos Laguna,2012,Mexican
+16,16,Hérculez Gómez,USA,F,1.78,75,06-04-82,Las Vegas,Estudiantes Tecos,Santos Laguna,2012,Mexican
+17,17,Rodolfo Salinas,MEX,M,1.76,69,29-08-87,Durango,San Luis,Santos Laguna,2012,Mexican
+18,18,Santiago Hoyos,ARG,D,1.82,80,03-06-82,Capital Federal,Lanús,Santos Laguna,2012,Mexican
+19,19,Rafael Figueroa,MEX,D,1.75,75,14-03-83,Torreón,León,Santos Laguna,2012,Mexican
+20,20,Osmar Mares,MEX,D,1.69,64,17-06-87,Torreón,None,Santos Laguna,2012,Mexican
+21,21,Enrique López,MEX,M,1.70,71,04-08-90,Torreón,None,Santos Laguna,2012,Mexican
+23,23,Felipe Baloy,PAN,D,1.84,84,24-02-81,Ciudad de Panamá,Monterrey,Santos Laguna,2012,Mexican
+24,24,Oribe Peralta,MEX,F,1.78,70,12-01-84,Torreón,Monterrey,Santos Laguna,2012,Mexican
+25,25,Miguel Becerra,MEX,G,1.84,89,11-03-79,Exatlán,Querétaro,Santos Laguna,2012,Mexican
+32,32,Julio González,MEX,G,1.83,80,23-04-91,Acapulco,None,Santos Laguna,2012,Mexican
+37,37,Cándido Ramírez,MEX,F,1.69,68,05-06-93,León,None,Santos Laguna,2012,Mexican
+38,38,César Ibáñez,MEX,M,1.78,65,01-04-92,Guadalajara,Atlas,Santos Laguna,2012,Mexican
+41,49,Carlos Parra,MEX,F,1.74,60,30-03-92,Ahome,None,Santos Laguna,2012,Mexican
+42,53,Eduardo Palacios,MEX,M,1.73,71,11-01-94,Monterrey,None,Santos Laguna,2012,Mexican
+43,54,Benji Joya,USA,M,1.73,66,22-09-93,San Jose,None,Santos Laguna,2012,Mexican
+44,57,Kenyi Adachi,MEX,D,1.78,70,19-01-93,Colima,None,Santos Laguna,2012,Mexican
+45,64,Mario Cárdenas,MEX,F,1.72,64,23-08-93,Guaymas,None,Santos Laguna,2012,Mexican
+2,2,Edgar Castillo,USA,D,1.75,56,10-08-86,Las Cruces,América,Tijuana,2012,Mexican
+3,3,Javier Gandolfi,ARG,D,1.75,72,05-12-80,San Lorenzo,Jaguares de Chiapas,Tijuana,2012,Mexican
+4,4,Miguel Almazán,MEX,D,1.81,74,05-06-82,Mexico City,Toluca,Tijuana,2012,Mexican
+5,5,Joshua Ábrego,MEX,D,1.77,73,15-11-86,San Juan Evangelista,Guerreros de Tabasco,Tijuana,2012,Mexican
+6,6,Pablo Aguilar,PAR,D,1.80,75,02-04-87,Luque,San Luis,Tijuana,2012,Mexican
+7,7,Leandro Augusto,MEX,M,1.77,66,18-08-77,Cascabel,UNAM,Tijuana,2012,Mexican
+8,8,Fernando Arce,MEX,M,1.73,66,24-04-80,Tijuana,Santos Laguna,Tijuana,2012,Mexican
+9,9,Alfredo Moreno,ARG,F,1.74,71,01-12-80,Santiago del Estero,San Luis,Tijuana,2012,Mexican
+10,10,Raúl Enríquez,MEX,F,1.73,73,20-05-85,Armeria,Jaguares de Chiapas,Tijuana,2012,Mexican
+11,11,Fidel Martínez,ECU,M,1.78,71,15-02-90,Shushufindi,Deportivo Quito,Tijuana,2012,Mexican
+12,12,Sergio Vega,MEX,G,1.80,81,19-05-88,Guadalajara,Vaqueros de Ixtlán,Tijuana,2012,Mexican
+13,13,Cirilo Saucedo,MEX,G,1.88,78,05-01-82,Mexico City,UANL Tigres,Tijuana,2012,Mexican
+14,14,Alfredo González,MEX,D,1.79,69,04-10-80,Mexico City,UANL Tigres,Tijuana,2012,Mexican
+15,15,Joe Corona,USA,M,1.66,68,09-07-90,Los Angeles,San Diego State Aztecs,Tijuana,2012,Mexican
+16,16,Cristian Pellerano,ARG,M,1.83,75,01-02-82,Capital Federal,Independiente,Tijuana,2012,Mexican
+17,17,Jorge Hernández,MEX,M,1.76,74,22-02-88,Guadalajara,Atlante,Tijuana,2012,Mexican
+18,18,Luis Ángel García,MEX,M,1.70,67,02-11-84,Monterrey,UANL Tigres,Tijuana,2012,Mexican
+19,19,Adrián Zermeño,MEX,G,1.80,71,01-05-79,Guadalajara,UANL Tigres,Tijuana,2012,Mexican
+20,20,Duvier Riascos,COL,F,1.80,73,26-06-86,Buenaventura,Puebla,Tijuana,2012,Mexican
+21,21,Juan Pablo Santiago,MEX,D,1.85,70,25-08-80,Zapotiltic,Santos Laguna,Tijuana,2012,Mexican
+22,22,Juan Carlos Núñez,MEX,M,1.66,63,18-04-83,Guadalajara,Toluca,Tijuana,2012,Mexican
+23,23,Richard Ruiz,MEX,F,1.75,65,14-01-86,Jiquipilas,Petroleros de Salamanca,Tijuana,2012,Mexican
+24,24,Greg Garza,USA,D,1.72,66,16-08-91,Grapevine,Estoril,Tijuana,2012,Mexican
+25,25,Alejandro Guido,USA,M,1.73,68,22-03-94,Chula Vista,None,Tijuana,2012,Mexican
+26,26,Diego Olsina,ARG,F,1.72,67,22-04-78,Santa Fe,Guerreros de Tabasco,Tijuana,2012,Mexican
+27,27,Antonio Madueña,MEX,M,1.80,66,29-05-90,Mexicali,Delfines de Los Cabos,Tijuana,2012,Mexican
+28,28,Carlos Rubio,MEX,D,1.79,67,04-03-91,Mexicali,None,Tijuana,2012,Mexican
+29,29,Raúl Nava,MEX,F,1.83,72,17-09-90,Mexico City,Toluca,Tijuana,2012,Mexican
+30,30,Jesús García,MEX,G,1.90,82,14-03-88,Culiacán,Dorados de Sinaloa,Tijuana,2012,Mexican
+31,31,Luis Trujillo,MEX,D,1.90,80,03-12-93,Tijuana,None,Tijuana,2012,Mexican
+32,32,Esteban Rodríguez,USA,M,1.68,66,02-11-94,Los Angeles,None,Tijuana,2012,Mexican
+33,33,Bruno Piceno,MEX,F,1.63,57,06-07-91,Tijuana,None,Tijuana,2012,Mexican
+35,35,Adolfo Domínguez,MEX,M,1.70,70,10-02-91,Mexicali,None,Tijuana,2012,Mexican
+36,36,Franco Amoroso,ARG,M,1.75,78,04-01-94,Buenos Aires,None,Tijuana,2012,Mexican
+37,37,Edgar Villegas,MEX,M,1.77,78,24-11-94,Tijuana,None,Tijuana,2012,Mexican
+1,1,Alfredo Talavera,MEX,G,1.88,85,18-09-82,La Barca,Guadalajara,Toluca,2012,Mexican
+2,2,Diego Novaretti,ARG,D,1.93,85,09-05-85,Villa María,Belgrano (Córdoba),Toluca,2012,Mexican
+4,4,Francisco Gamboa,MEX,D,1.78,74,20-07-85,Guadalajara,None,Toluca,2012,Mexican
+5,5,Wilson Mathías,BRA,M,1.86,75,14-09-83,Limeira,Internacional,Toluca,2012,Mexican
+6,6,Gerardo Rodríguez,MEX,M,1.68,67,16-04-85,Culiacán,Pachuca,Toluca,2012,Mexican
+7,7,Marvin Cabrera,MEX,D,1.82,79,01-05-80,Mexico City,Morelia,Toluca,2012,Mexican
+8,8,Lucas Silva,BRA,M,1.87,82,26-08-84,Miguel Calmon,Puebla,Toluca,2012,Mexican
+9,9,Juan Carlos Cacho,MEX,F,1.78,79,03-05-82,Mexico City,UNAM,Toluca,2012,Mexican
+10,10,Antonio Naelson,MEX,M,1.64,75,23-05-76,Rio Grande,Monterrey,Toluca,2012,Mexican
+11,11,Carlos Esquivel,MEX,F,1.70,64,04-10-82,Tlalpujahua,Atlético Mexiquense,Toluca,2012,Mexican
+12,12,Miguel Ángel Centeno,MEX,G,1.80,75,16-08-89,Toluca,None,Toluca,2012,Mexican
+13,13,Héctor Acosta,MEX,D,1.78,71,24-11-91,Trapiche del Abra,None,Toluca,2012,Mexican
+14,14,Edgar Dueñas,MEX,D,1.85,85,03-05-83,Mexico City,Atlético Mexiquense,Toluca,2012,Mexican
+15,15,Antonio Ríos,MEX,M,1.72,73,24-10-88,Arcelia,None,Toluca,2012,Mexican
+16,16,Carlos Alberto Galeana,MEX,M,1.80,70,21-12-88,Lázaro Cárdenas,None,Toluca,2012,Mexican
+17,17,Arturo Tapia,MEX,F,1.74,64,25-01-91,Toluca,None,Toluca,2012,Mexican
+18,18,Isaác Brizuela,MEX,F,1.68,58,28-08-90,Lagos de Moreno,Atlético Mexiquense,Toluca,2012,Mexican
+19,19,Edy Germán Brambila,MEX,M,1.70,65,15-01-86,Tepic,Pachuca,Toluca,2012,Mexican
+20,20,Jesús Paganoni,MEX,M,1.70,67,24-09-88,Guadalajara,Atlas,Toluca,2012,Mexican
+21,21,Gabriel Velasco,MEX,M,1.73,66,01-02-86,Cuernavaca,Atlas,Toluca,2012,Mexican
+23,23,Edgar Benítez,PAR,F,1.76,71,08-11-87,Repatriación,Pachuca,Toluca,2012,Mexican
+25,25,Sergio Pérez,MEX,G,1.87,82,01-01-88,Villa Guerrero,None,Toluca,2012,Mexican
+26,26,Ervin Trejo,MEX,M,1.71,69,03-06-90,Mexico City,Atlético Mexiquense,Toluca,2012,Mexican
+28,28,Renato Román,MEX,M,1.72,63,10-04-90,Lagos de Moreno,None,Toluca,2012,Mexican
+29,29,Luis Tejada,PAN,F,1.86,85,28-03-82,Ciudad de Panamá,Juan Aurich,Toluca,2012,Mexican
+30,30,Ernesto Sánchez,MEX,G,1.87,83,27-03-89,Toluca,None,Toluca,2012,Mexican
+1,1,Enrique Eduardo Palos,MEX,G,1.89,82,31-05-86,Aguascalientes,None,UANL Tigres,2012,Mexican
+2,2,Israel Jiménez,MEX,D,1.74,66,13-08-89,Monterrey,None,UANL Tigres,2012,Mexican
+3,3,Juninho,BRA,D,1.81,78,16-09-82,Wenceslau Braz,Botafogo,UANL Tigres,2012,Mexican
+4,4,Hugo Ayala,MEX,D,1.83,74,31-03-87,Morelia,Atlas,UANL Tigres,2012,Mexican
+5,5,Éder Borelli,MEX,D,1.68,70,26-11-90,Monterrey,Querétaro,UANL Tigres,2012,Mexican
+6,6,Jorge Torres,MEX,D,1.76,69,16-09-88,Tijuana,Atlas,UANL Tigres,2012,Mexican
+8,8,Jonathan Bornstein,USA,D,1.75,66,07-11-84,Torrance,Chivas USA,UANL Tigres,2012,Mexican
+9,9,Luis García,ESP,F,1.80,68,06-02-81,Oviedo,Zaragoza,UANL Tigres,2012,Mexican
+10,10,Elías Hernández,MEX,F,1.70,62,29-04-88,Morelia,Pachuca,UANL Tigres,2012,Mexican
+11,11,Damián Álvarez,ARG,M,1.65,67,24-05-79,Morón,Pachuca,UANL Tigres,2012,Mexican
+13,13,Jorge Alberto Díaz,MEX,G,1.85,87,23-03-84,San Luis Potosí,None,UANL Tigres,2012,Mexican
+14,14,Fernando Navarro,MEX,M,1.68,64,18-04-89,Mexico City,Atlante,UANL Tigres,2012,Mexican
+15,15,Manuel Viniegra,MEX,M,1.80,60,26-04-88,Monterrey,None,UANL Tigres,2012,Mexican
+16,16,Lucas Lobos,ARG,M,1.75,63,03-08-81,La Plata,Cádiz,UANL Tigres,2012,Mexican
+17,17,David Toledo,MEX,M,1.67,56,18-04-82,Oaxaca,UNAM,UANL Tigres,2012,Mexican
+18,18,Francisco Acuña,MEX,M,1.65,58,19-01-88,Hermosillo,None,UANL Tigres,2012,Mexican
+19,19,Alán Pulido,MEX,F,1.71,60,08-03-91,Ciudad Victoria,None,UANL Tigres,2012,Mexican
+21,21,Aaron Fernández,MEX,G,1.82,64,30-07-87,Mexico City,None,UANL Tigres,2012,Mexican
+22,22,Taufic Guarch,MEX,F,1.81,59,04-10-91,Guadalajara,Estudiantes Tecos,UANL Tigres,2012,Mexican
+23,23,Alonso Zamora,MEX,D,1.81,70,07-11-91,Guadalajara,Atlas,UANL Tigres,2012,Mexican
+24,24,José Rivas,MEX,D,1.87,81,18-10-84,Coatzacoalcos,Coatzacoalcos,UANL Tigres,2012,Mexican
+25,25,Abraham Stringel,MEX,M,1.73,70,03-05-88,Mexico City,Correcaminos,UANL Tigres,2012,Mexican
+28,28,Alberto Acosta,MEX,M,1.67,69,26-02-88,Ciudad Mante,None,UANL Tigres,2012,Mexican
+29,29,Jesús Dueñas,MEX,M,1.74,62,16-03-89,Zamora,None,UANL Tigres,2012,Mexican
+30,30,Carlos Salcido,MEX,D,1.74,70,02-04-80,Ocotlán,Fulham,UANL Tigres,2012,Mexican
+31,31,Edno,BRA,M,1.82,73,31-05-83,Lages,Corinthians,UANL Tigres,2012,Mexican
+32,32,Austin Guerrero,USA,G,1.80,72,24-03-89,San Diego,Univ of Portland,UANL Tigres,2012,Mexican
+41,45,Dieter Vargas,MEX,M,1.80,73,27-05-93,San Luis Potosí,None,UANL Tigres,2012,Mexican
+1,1,Alejandro Palacios,MEX,G,1.84,70,06-03-81,Mexico City,None,UNAM,2012,Mexican
+2,2,Efraín Velarde,MEX,D,1.73,67,18-04-86,Mexico City,None,UNAM,2012,Mexican
+3,3,Marco Antonio Palacios,MEX,D,1.90,76,06-03-81,Mexico City,Veracruz,UNAM,2012,Mexican
+4,4,Darío Verón,PAR,D,1.81,80,16-07-79,San Ignacio,12 de Octubre,UNAM,2012,Mexican
+5,5,Luis Fernando Fuentes,MEX,D,1.71,64,14-09-86,Chetumal,None,UNAM,2012,Mexican
+6,6,Martín Romagnoli,ARG,M,1.70,75,30-09-77,Leones,Toluca,UNAM,2012,Mexican
+7,7,Javier Cortés,MEX,F,1.71,62,20-07-89,Mexico City,None,UNAM,2012,Mexican
+8,8,David Cabrera,MEX,M,1.75,68,07-09-89,Mexico City,None,UNAM,2012,Mexican
+9,9,Emanuel Villa,ARG,F,1.80,77,24-02-82,Casilda,Cruz Azul,UNAM,2012,Mexican
+10,10,Martín Bravo,ARG,F,1.65,65,19-09-86,Santa Fé,Colón (Santa Fe),UNAM,2012,Mexican
+11,11,Jehu Chiapas,MEX,D,1.74,70,03-10-85,Martínez de la Torre,None,UNAM,2012,Mexican
+12,12,José Antonio García,MEX,D,1.72,63,17-01-92,Mexico City,None,UNAM,2012,Mexican
+13,13,Odín Patiño,MEX,G,1.81,78,24-08-83,Mexico City,None,UNAM,2012,Mexican
+14,14,Luis García,ESP,F,1.77,74,24-06-78,Badalona,Puebla,UNAM,2012,Mexican
+15,15,Eduardo Herrera,MEX,F,1.86,78,25-07-88,Mexico City,None,UNAM,2012,Mexican
+16,16,Fernando Espinoza,MEX,M,1.70,69,09-05-83,Mexico City,None,UNAM,2012,Mexican
+17,17,Pablo Bonells,MEX,F,1.77,65,09-12-85,Mexico City,None,UNAM,2012,Mexican
+18,18,Carlos Orrantia,MEX,M,1.71,59,01-02-91,Mexico City,None,UNAM,2012,Mexican
+19,19,Fernando Morales,MEX,M,1.74,66,14-09-85,Mexico City,None,UNAM,2012,Mexican
+20,20,Erick Vera,MEX,D,1.68,64,24-03-92,Mexico City,None,UNAM,2012,Mexican
+21,21,Jaime Lozano,MEX,M,1.71,65,29-09-78,Mexico City,Cruz Azul,UNAM,2012,Mexican
+22,22,Aarón Sandoval,MEX,D,1.75,72,11-09-93,Mexico City,None,UNAM,2012,Mexican
+23,23,Massiel Santana,MEX,M,1.68,67,17-05-86,Estado do México,None,UNAM,2012,Mexican
+26,26,Alfonso Nieto,MEX,F,1.76,56,30-10-91,Mexico City,None,UNAM,2012,Mexican
+27,27,Neftali Teja,MEX,D,1.72,66,12-03-91,Texcoco,None,UNAM,2012,Mexican
+41,76,Luis Quintana,MEX,D,1.78,73,03-02-92,Mexico City,None,UNAM,2012,Mexican
+42,85,Daniel Ramírez,MEX,F,1.72,69,18-06-93,Mexico City,None,UNAM,2012,Mexican
+43,86,Alan Sánchez,MEX,F,1.72,73,28-12-92,Mexico City,None,UNAM,2012,Mexican

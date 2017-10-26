@@ -1,0 +1,509 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Guillermo Ochoa,MEX,G,1.83,73,13-07-85,Guadalajara,None,América,2008,Mexican
+2,2,Ismael Rodríguez,MEX,D,1.75,68,01-10-81,Ciudad Madero,Monterrey,América,2008,Mexican
+3,3,José Antonio Castro,MEX,D,1.73,55,08-11-80,Mexico City,None,América,2008,Mexican
+4,4,Oscar Rojas,MEX,D,1.72,70,08-02-81,Mexico City,San Luis,América,2008,Mexican
+5,5,Enrique Vera,PAR,M,1.79,67,10-03-79,Asunción,LDU Quito,América,2008,Mexican
+6,6,Sebastián Dominguez,ARG,D,1.83,67,29-07-80,Capital Federal,Estudiantes (LP),América,2008,Mexican
+7,7,Alfredo Moreno,ARG,F,1.74,71,01-12-80,Santiago del Estero,San Luis,América,2008,Mexican
+8,8,Federico Insúa,ARG,M,1.79,79,03-01-80,Capital Federal,B Mönchengladbach,América,2008,Mexican
+9,9,Salvador Cabañas,PAR,F,1.73,78,05-08-80,Asunción,Jaguares de Chiapas,América,2008,Mexican
+11,11,Juan  Carlos Medina,MEX,M,1.70,66,22-08-83,Torreón,Atlas,América,2008,Mexican
+12,12,Armando Navarrete,MEX,G,1.78,80,22-11-80,Jacona,Atlas,América,2008,Mexican
+13,13,Juan  Carlos Mosqueda,MEX,M,1.67,63,17-04-85,Mexico  City,None,América,2008,Mexican
+14,14,Carlos Infante,MEX,D,1.78,72,14-02-82,Neza,Veracruz,América,2008,Mexican
+15,15,Armando Sánchez,MEX,D,1.82,73,07-03-84,Mexico City,None,América,2008,Mexican
+16,16,Rodrigo Iñigo,MEX,D,1.86,81,29-08-85,Mexico City,None,América,2008,Mexican
+17,17,Rafael Márquez,MEX,F,1.72,68,02-11-81,Mexico City,Pachuca,América,2008,Mexican
+18,18,Germán Villa,MEX,M,1.77,71,04-02-73,Mexico City,Necaxa,América,2008,Mexican
+19,19,Carlos Sánchez,MEX,D,1.78,72,13-02-80,Mexico City,San Luis,América,2008,Mexican
+20,20,Alejandro Argüello,MEX,M,1.76,71,25-01-82,Hidalgo,None,América,2008,Mexican
+21,21,Enrique Esqueda,MEX,M,1.75,70,19-04-88,Querétaro,None,América,2008,Mexican
+22,22,Alvin Mendoza,MEX,M,1.70,68,27-07-84,Mexico City,None,América,2008,Mexican
+23,23,Joaquín Martínez,MEX,M,1.75,65,23-02-87,Mexico City,None,América,2008,Mexican
+24,24,Daniel Márquez,MEX,F,1.88,72,18-01-80,Mexico City,None,América,2008,Mexican
+25,25,José Mosqueda,MEX,M,1.73,71,15-03-83,Mexico City,None,América,2008,Mexican
+26,26,Juan Carlos Silva,MEX,M,1.71,71,06-02-88,Mexico City,None,América,2008,Mexican
+37,37,Leonín Pineda,MEX,G,1.84,75,30-11-85,Arcelia,None,América,2008,Mexican
+39,39,Guillermo Cerda,MEX,D,1.79,66,13-02-81,Mexico City,None,América,2008,Mexican
+40,40,Omar Tena,MEX,D,1.71,65,28-04-85,Mexico City,None,América,2008,Mexican
+41,42,Luis Villegas,MEX,D,1.82,81,05-10-84,Mexico City,None,América,2008,Mexican
+42,49,Lampros Kontogiannis,MEX,M,1.82,79,01-08-88,Manzanillo,None,América,2008,Mexican
+1,1,Gerardo Ruíz,MEX,G,1.82,72,05-09-85,Mexico City,None,Atlante,2008,Mexican
+2,2,Javier Muñoz Mustafá,ARG,D,1.78,73,11-06-80,Firmat,Santos Laguna,Atlante,2008,Mexican
+3,3,Federico Vilar,ARG,G,1.81,70,30-05-77,Junin,Acapulco,Atlante,2008,Mexican
+4,4,Luis Gerardo Venegas,MEX,D,1.85,81,21-06-84,San Luis Potosí,Alacranes de Durango,Atlante,2008,Mexican
+6,6,Gerardo Espinoza,MEX,M,1.69,66,19-03-78,Mexico City,UNAM,Atlante,2008,Mexican
+7,7,Fernando Navarro,MEX,M,1.68,64,18-04-89,Mexico City,None,Atlante,2008,Mexican
+8,8,Alan Miguel Zamora,MEX,D,1.78,72,08-04-85,Mexico City,Colima,Atlante,2008,Mexican
+9,9,Giancarlo  Maldonado,VEN,F,1.73,69,29-06-82,Caracas,O'Higgins,Atlante,2008,Mexican
+10,10,Gabriel Pereyra,ARG,M,1.75,72,28-02-78,Carlos Pellegrini,Cruz Azul,Atlante,2008,Mexican
+11,11,Luis Gabriel Rey,COL,F,1.82,74,20-02-80,Bucaramanga,Pachuca,Atlante,2008,Mexican
+13,13,Tomás Domínguez,MEX,M,1.76,74,14-02-86,Mexico City,Colima,Atlante,2008,Mexican
+14,14,Ignacio Hierro,MEX,D,1.80,67,22-06-78,Mexico City,Puebla,Atlante,2008,Mexican
+15,15,Arturo Muñóz,MEX,M,1.74,70,31-12-84,Mexico City,Colima,Atlante,2008,Mexican
+16,16,Diego Ramírez,MEX,D,1.65,65,04-10-81,Mexico City,Monterrey,Atlante,2008,Mexican
+17,17,José Guerrero,MEX,M,1.74,69,18-11-87,Guadalajara,None,Atlante,2008,Mexican
+18,18,Christian Bermúdez,MEX,M,1.63,58,26-04-87,Nezahualcóyotl,None,Atlante,2008,Mexican
+19,19,Mariano Trujillo,MEX,D,1.72,67,19-05-77,Mexico City,Skoda Xanthi,Atlante,2008,Mexican
+20,20,Andrés Carevic,MEX,M,1.72,68,13-12-78,Santa Fe,The Strongest,Atlante,2008,Mexican
+22,22,Rafael Cuevas,MEX,G,1.75,68,16-06-80,Cuernavaca,Acapulco,Atlante,2008,Mexican
+23,23,Gerardo Castillo,MEX,D,1.75,62,19-11-86,Mexico City,Colima,Atlante,2008,Mexican
+24,24,Christian Romero,MEX,M,1.80,74,21-06-86,Mexico City,None,Atlante,2008,Mexican
+25,25,Omar Cervantes,MEX,F,1.77,71,27-09-85,Ecatepec,None,Atlante,2008,Mexican
+26,26,Clemente Ovalle,MEX,D,1.75,77,05-10-82,Monterrey,Monterrey,Atlante,2008,Mexican
+27,27,Raymundo Torres,MEX,M,1.72,69,19-12-84,Guanajuato,León,Atlante,2008,Mexican
+28,28,Fernando Herrera,MEX,M,1.63,63,04-07-85,Mexico City,Colima,Atlante,2008,Mexican
+29,29,Daniel García,MEX,D,1.76,72,27-01-86,Sahuayo,Colima,Atlante,2008,Mexican
+30,30,Mario Hernández,MEX,D,1.82,72,24-01-79,Monterrey,Zacatecas,Atlante,2008,Mexican
+31,31,Daniel Arreola,MEX,D,1.81,72,08-10-85,Cancún,None,Atlante,2008,Mexican
+32,32,Allan Van Rankin,MEX,G,1.82,78,04-10-87,Mexico City,Tecamachalco,Atlante,2008,Mexican
+35,35,Diego García,MEX,D,1.83,74,21-03-87,Mexico City,None,Atlante,2008,Mexican
+41,51,César Fragoso,MEX,D,1.74,72,27-02-83,Mexico City,Real Colima,Atlante,2008,Mexican
+42,65,Ismael Valadéz,MEX,F,1.75,70,14-09-85,Mexico City,Toluca,Atlante,2008,Mexican
+1,1,Jorge Bava,URU,G,1.93,92,02-08-81,Montevideo,Libertad,Atlas,2008,Mexican
+2,2,Omar Flores,MEX,D,1.83,80,06-05-79,Acapulco,Querétaro,Atlas,2008,Mexican
+4,4,Luis Robles,MEX,D,1.69,65,22-09-86,Amacueca,None,Atlas,2008,Mexican
+5,5,Ricardo Jiménez,MEX,D,1.86,77,17-11-84,Guadalajara,Jaguares de Chiapas,Atlas,2008,Mexican
+6,6,Jorge Torres,MEX,D,1.76,69,16-09-88,Tijuana,None,Atlas,2008,Mexican
+7,7,Jorge Hernández,MEX,M,1.85,79,03-09-85,Guadalajara,None,Atlas,2008,Mexican
+8,8,Christian Valdéz,MEX,M,1.70,69,05-05-84,Mazatlán,None,Atlas,2008,Mexican
+9,9,Gonzalo Vargas,URU,F,1.75,76,22-09-81,Montevideo,Monaco,Atlas,2008,Mexican
+11,11,Ariel Bogado,PAR,F,1.70,72,24-12-83,Ypané,Nacional [PAR],Atlas,2008,Mexican
+12,12,José Francisco Canales,MEX,G,1.83,76,04-05-87,Guadalajara,None,Atlas,2008,Mexican
+15,15,Gerardo Flores,MEX,D,1.80,75,05-02-86,Xochitepec,Monterrey,Atlas,2008,Mexican
+16,16,Hugo Ayala,MEX,D,1.83,74,31-03-87,Morelia,None,Atlas,2008,Mexican
+18,18,Darío Bottinelli,ARG,M,1.68,67,26-02-86,Capital Federal,Racing Club,Atlas,2008,Mexican
+19,19,Mauricio Romero,MEX,F,1.80,73,02-02-83,León,Atlante,Atlas,2008,Mexican
+20,20,Ulises Mendivil,MEX,F,1.85,82,03-09-80,San Carlos,Cihuatlán,Atlas,2008,Mexican
+21,21,Pedro Hernández,MEX,G,1.87,83,21-06-81,Guadalajara,Santos Laguna,Atlas,2008,Mexican
+22,22,Edgar Pacheco,MEX,M,1.78,75,22-01-90,Guadalajara,None,Atlas,2008,Mexican
+23,23,Eduardo Rergis,MEX,M,1.78,73,31-12-80,Mexico City,Atlante,Atlas,2008,Mexican
+24,24,Alfredo Sánchez,MEX,F,1.70,67,23-03-87,Apatzingán,None,Atlas,2008,Mexican
+25,25,Carlos Gutiérrez,MEX,M,1.69,64,03-02-90,Guadalajara,None,Atlas,2008,Mexican
+26,26,Flavio Jesús Santos,MEX,F,1.75,65,01-03-87,Ocotlán,None,Atlas,2008,Mexican
+29,29,Axel Velázquez,MEX,F,1.77,74,23-05-90,Tepic,None,Atlas,2008,Mexican
+30,30,Dárvin Chávez,MEX,D,1.77,65,21-11-89,Zapopan,None,Atlas,2008,Mexican
+32,32,Luis Manuel Ramos,MEX,D,1.81,78,11-01-91,Guadalajara,None,Atlas,2008,Mexican
+33,33,Néstor Díaz,MEX,M,1.75,75,21-10-90,Guadalajara,None,Atlas,2008,Mexican
+35,35,Jesús Paganoni,MEX,M,1.70,67,24-09-88,Guadalajara,None,Atlas,2008,Mexican
+41,53,Néstor Vidrio,MEX,M,1.78,65,22-03-89,Guadalajara,None,Atlas,2008,Mexican
+42,55,Oscar Vera,MEX,F,1.68,66,10-03-86,León,None,Atlas,2008,Mexican
+1,1,Alfonso Blanco,MEX,G,1.82,80,31-07-87,Tamiahua,Pachuca,Cruz Azul,2008,Mexican
+2,2,Félix González,MEX,D,1.80,75,25-01-85,Mexico City,None,Cruz Azul,2008,Mexican
+3,3,Joel Huiqui,MEX,D,1.83,78,18-02-83,Los Mochis,Pachuca,Cruz Azul,2008,Mexican
+4,4,Julio Domínguez,MEX,D,1.75,70,08-11-87,Arriaga,None,Cruz Azul,2008,Mexican
+5,5,Gabino Velasco,MEX,M,1.78,72,09-04-84,Mexico City,None,Cruz Azul,2008,Mexican
+6,6,Gerardo Torrado,MEX,M,1.73,72,30-04-79,Mexico City,Racing Santander,Cruz Azul,2008,Mexican
+7,7,Cristian Riveros,PAR,M,1.79,76,16-10-82,J.A. Saldivar,Libertad,Cruz Azul,2008,Mexican
+8,8,Carlos Bonet,PAR,D,1.76,77,02-10-77,Asunción,Libertad,Cruz Azul,2008,Mexican
+9,9,Pablo Zeballos,PAR,F,1.78,71,04-03-86,Vallemí,Sol de América,Cruz Azul,2008,Mexican
+10,10,Edgar Andrade,MEX,M,1.75,78,02-03-88,Jalapa,None,Cruz Azul,2008,Mexican
+11,11,Miguel Sabah,MEX,F,1.75,72,14-11-79,Cancún,Guadalajara,Cruz Azul,2008,Mexican
+12,12,Julio César Valdivia,MEX,G,1.86,87,05-06-82,León,Atlético San Francisco,Cruz Azul,2008,Mexican
+13,13,Alejandro Castro,MEX,D,1.74,72,27-03-87,Mexico City,None,Cruz Azul,2008,Mexican
+14,14,Joaquín Beltrán,MEX,D,1.86,82,29-04-77,Mexico City,UNAM,Cruz Azul,2008,Mexican
+15,15,Nicolás Vigneri,URU,F,1.78,63,06-07-83,Montevideo,Peñarol,Cruz Azul,2008,Mexican
+16,16,Rogelio Chávez,MEX,D,1.72,68,24-10-84,Tula de Allende,None,Cruz Azul,2008,Mexican
+17,17,Roberto Carlos Juárez,MEX,D,1.83,73,04-07-87,Guadalajara,None,Cruz Azul,2008,Mexican
+18,18,César Villaluz,MEX,M,1.65,68,18-07-88,Mexico City,None,Cruz Azul,2008,Mexican
+19,19,Alejandro Vela,MEX,F,1.72,69,28-03-84,Cancún,Jaguares de Chiapas,Cruz Azul,2008,Mexican
+20,20,Marcelo  Carrusca,ARG,M,1.80,73,09-01-83,La Plata,Galatasaray,Cruz Azul,2008,Mexican
+21,21,Jaime Lozano,MEX,M,1.71,65,29-09-78,Mexico City,UANL Tigres,Cruz Azul,2008,Mexican
+22,22,Jairo César Villeda,MEX,M,1.79,64,19-01-87,Tula de Allende,Cruz Azul Hidalgo,Cruz Azul,2008,Mexican
+23,23,Edgar Lugo,MEX,M,1.81,65,31-12-84,Mexico City,Cruz Azul Hidalgo,Cruz Azul,2008,Mexican
+24,24,Raúl Bustamante,MEX,D,1.77,68,11-02-86,Pochutla,Cruz Azul Hidalgo,Cruz Azul,2008,Mexican
+25,25,Yosgart Gutiérrez,MEX,G,1.87,75,15-03-81,Ruiz Cortines,None,Cruz Azul,2008,Mexican
+27,27,Javier Orozco,MEX,F,1.74,76,16-11-87,Los Mochis,None,Cruz Azul,2008,Mexican
+28,28,Héctor Enrique Gutiérrez,MEX,M,1.73,71,29-08-86,Toluca,None,Cruz Azul,2008,Mexican
+29,29,Martín Galván,MEX,F,1.68,65,14-02-90,Acapulco,None,Cruz Azul,2008,Mexican
+32,32,Emilio Hassan Viades,MEX,D,1.76,77,01-10-78,Mexico City,Toluca,Cruz Azul,2008,Mexican
+1,1,Luis Michel,MEX,G,1.83,75,21-07-79,Guadalajara,Santos,Guadalajara,2008,Mexican
+2,2,Arturo Ledesma,MEX,D,1.78,72,25-05-88,Jalisco,None,Guadalajara,2008,Mexican
+3,3,Juan Antonio Ocampo,MEX,D,1.76,70,11-06-89,Tepic,None,Guadalajara,2008,Mexican
+4,4,Héctor Reynoso,MEX,D,1.84,88,03-10-80,Mexico City,Tijuana,Guadalajara,2008,Mexican
+5,5,Patricio Araujo,MEX,D,1.75,72,30-01-88,Colima,None,Guadalajara,2008,Mexican
+6,6,Omar Esparza,MEX,D,1.74,64,21-05-88,Guadalajara,None,Guadalajara,2008,Mexican
+7,7,Gonzalo Pineda,MEX,M,1.77,67,19-10-82,Mexico City,UNAM,Guadalajara,2008,Mexican
+8,8,Marco Fabián,MEX,F,1.70,65,21-07-89,Guadalajara,Tapatio,Guadalajara,2008,Mexican
+9,9,Omar Arellano,MEX,F,1.74,70,18-06-87,Guadalajara,Pachuca,Guadalajara,2008,Mexican
+10,10,Alberto Medina,MEX,M,1.72,63,29-05-83,Culiacán,None,Guadalajara,2008,Mexican
+11,11,Ramón Morales,MEX,M,1.68,62,10-10-75,La Piedad,Monterrey,Guadalajara,2008,Mexican
+13,13,Sergio Ávila,MEX,M,1.68,62,02-09-85,Irapuato,None,Guadalajara,2008,Mexican
+14,14,Javier Hernández,MEX,F,1.72,62,01-06-88,Guadalajara,None,Guadalajara,2008,Mexican
+15,15,Jesús Padilla,MEX,F,1.80,68,03-03-87,San Miguel El Alto,None,Guadalajara,2008,Mexican
+16,16,Edgar Iván Solís,MEX,M,1.73,59,05-03-87,Guadalajara,None,Guadalajara,2008,Mexican
+17,17,Antonio Olvera,MEX,D,1.73,63,03-04-86,Francisco Madero,Santos Laguna,Guadalajara,2008,Mexican
+18,18,Xavier Baez,MEX,M,1.70,63,22-07-87,Reynosa,None,Guadalajara,2008,Mexican
+19,19,Jonny Magallón,MEX,D,1.78,74,21-11-81,Ocotlán,None,Guadalajara,2008,Mexican
+20,20,Edgar Mejía,MEX,D,1.75,70,27-07-88,Guadalajara,None,Guadalajara,2008,Mexican
+21,21,Sergio Santana,MEX,F,1.79,67,10-08-81,Rio Grande,Pachuca,Guadalajara,2008,Mexican
+23,23,Antonio Salazar,MEX,F,1.78,73,02-07-89,Ciudad Madero,None,Guadalajara,2008,Mexican
+25,25,Sergio Rodríguez,MEX,G,1.86,80,19-08-85,Guadalajara,None,Guadalajara,2008,Mexican
+28,28,Julio César Nava,MEX,M,1.70,58,19-12-89,Xalapa,None,Guadalajara,2008,Mexican
+29,29,Mario de Luna,MEX,D,1.79,76,05-01-88,Aguascalientes,None,Guadalajara,2008,Mexican
+30,30,Víctor Hugo Hernández,MEX,G,1.83,82,19-05-86,Zamora,None,Guadalajara,2008,Mexican
+31,31,Liborio Sánchez,MEX,G,1.80,72,09-10-89,Guadalajara,None,Guadalajara,2008,Mexican
+1,1,Humberto  Hernández,MEX,G,1.80,77,20-07-85,Nezahualcóyotl,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+2,2,Juan Carlos Franco,MEX,D,1.81,79,28-01-75,Guadalajara,Querétaro,Indios de Ciudad Juárez,2008,Mexican
+3,3,Juan De La  Barrera,MEX,D,1.84,83,17-03-83,Querétaro,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+4,4,Gilberto Érick Martínez,MEX,D,1.79,69,25-09-85,Tlanepantla,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+5,5,Javier Malagueño,ARG,D,1.84,82,27-10-82,Cosquín,Iraklis,Indios de Ciudad Juárez,2008,Mexican
+6,6,Mario Álvarez,URU,M,1.84,80,09-10-81,Cardona,Peñarol,Indios de Ciudad Juárez,2008,Mexican
+7,7,Andrés Chitiva,COL,M,1.68,60,19-08-79,Santa Fe de Bogotá,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+8,8,Tomás Campos,MEX,M,1.65,60,14-09-75,Tuxpan,Cruz Azul,Indios de Ciudad Juárez,2008,Mexican
+9,9,Ezequiel Maggiolo,ARG,F,1.81,76,15-06-77,Martínez,Estudiantes (LP),Indios de Ciudad Juárez,2008,Mexican
+10,10,Juan Augusto Gómez,MEX,M,1.72,79,24-05-76,Tucumán,Veracruz,Indios de Ciudad Juárez,2008,Mexican
+11,11,Iván Castillejos,MEX,F,1.82,78,24-07-84,Toluca,Toluca,Indios de Ciudad Juárez,2008,Mexican
+12,12,Marco Vidal,USA,M,1.69,65,21-02-86,Dallas,Indios USA,Indios de Ciudad Juárez,2008,Mexican
+13,13,Cirilo Saucedo,MEX,G,1.88,78,05-01-82,Mexico City,UANL Tigres,Indios de Ciudad Juárez,2008,Mexican
+14,14,Luis Ángel García,MEX,M,1.70,67,02-11-84,Monterrey,Veracruz,Indios de Ciudad Juárez,2008,Mexican
+15,15,Edwin Santibáñez,MEX,M,1.70,62,01-02-80,Torreón,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+16,16,Daniel Galván,MEX,M,1.70,64,27-09-83,Acambaro,León,Indios de Ciudad Juárez,2008,Mexican
+17,17,Ricardo Martínez,MEX,M,1.68,62,01-09-80,Mexico City,Morelia,Indios de Ciudad Juárez,2008,Mexican
+18,18,Ricardo Esqueda,MEX,M,1.73,75,25-02-81,Pachuca,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+20,20,Sebastián Maz,URU,F,1.78,82,20-11-84,Durazno,Montevideo Wanderers,Indios de Ciudad Juárez,2008,Mexican
+21,21,Jorge Rodríguez Zamudio,MEX,M,1.68,63,04-05-83,Culiacán,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+22,22,Braulio Godínez,MEX,D,1.80,73,27-03-84,Silao,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+23,23,Manuel Pérez,MEX,M,1.74,63,22-01-80,Guadalajara,Monterrey,Indios de Ciudad Juárez,2008,Mexican
+24,24,Edwin Hernández,MEX,D,1.66,66,10-07-86,Pachuca,Pachuca,Indios de Ciudad Juárez,2008,Mexican
+25,25,Sindey Balderas,MEX,D,1.78,70,20-08-76,Cuernavaca,UANL Tigres,Indios de Ciudad Juárez,2008,Mexican
+26,26,Juan Ramón Curbelo,URU,M,1.82,75,02-05-79,Montevideo,River Plate [URU],Indios de Ciudad Juárez,2008,Mexican
+28,28,Tomás  Quiñones,MEX,M,1.73,70,31-12-83,Durango,UAG Tecos,Indios de Ciudad Juárez,2008,Mexican
+29,29,Daniel Frías,MEX,F,1.77,85,29-03-79,Ciudad Juárez,El Paso Patriots,Indios de Ciudad Juárez,2008,Mexican
+35,35,Carlos Alanís,MEX,M,1.75,68,27-10-83,Monterrey,Monterrey,Indios de Ciudad Juárez,2008,Mexican
+38,38,Daniel Campos,MEX,D,1.86,82,19-03-86,Ciudad Juárez,None,Indios de Ciudad Juárez,2008,Mexican
+1,1,Adolfo Bautista,MEX,M,1.85,76,15-09-79,Dolores Hidalgo,Guadalajara,Jaguares de Chiapas,2008,Mexican
+2,2,Christian Armas,MEX,D,1.79,76,13-01-86,Tepic,Guadalajara,Jaguares de Chiapas,2008,Mexican
+4,4,Ismael Fuentes,CHI,D,1.81,79,04-08-81,Petroca,Colo-Colo,Jaguares de Chiapas,2008,Mexican
+5,5,Daniel Hernández,USA,D,1.71,81,23-07-76,Tyler,Puebla,Jaguares de Chiapas,2008,Mexican
+6,6,André Luiz,BRA,M,1.83,79,11-01-74,São Paulo,Santos,Jaguares de Chiapas,2008,Mexican
+7,7,Oscar Razo,MEX,D,1.79,76,09-04-84,Irapuato,Veracruz,Jaguares de Chiapas,2008,Mexican
+8,8,Carlos Balcázar,MEX,M,1.74,68,01-09-84,Guadalajara,Atlas,Jaguares de Chiapas,2008,Mexican
+9,9,Aarón Padilla,MEX,F,1.70,60,13-08-77,Mexico City,Atlas,Jaguares de Chiapas,2008,Mexican
+10,10,Gilberto Mora,MEX,M,1.72,64,24-10-80,Tuxtla Gutierrez,Veracruz,Jaguares de Chiapas,2008,Mexican
+11,11,Danilinho,BRA,F,1.64,67,11-03-87,Ponta Porã,Atlético Mineiro,Jaguares de Chiapas,2008,Mexican
+12,12,Fabián Villaseñor,MEX,G,1.89,82,20-11-82,Guadalajara,Veracruz,Jaguares de Chiapas,2008,Mexican
+15,15,Edgar Solano,MEX,D,1.76,62,26-10-78,Mexico City,Monterrey,Jaguares de Chiapas,2008,Mexican
+16,16,Daniel Silva Cordero,MEX,M,1.73,72,04-05-88,Francisco I. Madero,Guadalajara,Jaguares de Chiapas,2008,Mexican
+18,18,Itamar,BRA,F,1.87,80,12-04-80,Santa Maria,Seongnam  Ilhwa Chunma,Jaguares de Chiapas,2008,Mexican
+19,19,Antonio Pedroza,ENG,F,1.70,67,20-02-91,Chester,None,Jaguares de Chiapas,2008,Mexican
+20,20,Juan  Pablo García,MEX,F,1.75,72,24-11-81,Guadalajara,UANL Tigres,Jaguares de Chiapas,2008,Mexican
+21,21,Rodolfo Espinoza,MEX,M,1.72,68,14-06-81,Mexico City,Necaxa,Jaguares de Chiapas,2008,Mexican
+22,22,José  Alberto Hernández,MEX,M,1.75,75,06-01-77,Mexico City,Morelia,Jaguares de Chiapas,2008,Mexican
+23,23,Edgar Hernández,MEX,G,1.83,79,27-08-82,Ciudad Reynosa,UANL Tigres,Jaguares de Chiapas,2008,Mexican
+27,27,Jesús Gutiérrez,MEX,M,1.70,66,24-08-75,Guadalajara,Veracruz,Jaguares de Chiapas,2008,Mexican
+28,28,Eduardo Chávez,MEX,D,1.75,70,25-01-87,Los Reyes,None,Jaguares de Chiapas,2008,Mexican
+29,29,Christian Sánchez,MEX,D,1.80,72,04-04-89,Guadalajara,None,Jaguares de Chiapas,2008,Mexican
+32,32,Fernando Julien,MEX,F,1.80,78,18-05-86,Mexico City,América,Jaguares de Chiapas,2008,Mexican
+35,35,Aurelio Parra,MEX,M,1.67,67,09-09-87,Gómez Palacio,None,Jaguares de Chiapas,2008,Mexican
+41,44,Edgar Alejandro García,MEX,F,1.80,79,05-08-87,Torreón,UANL Tigres,Jaguares de Chiapas,2008,Mexican
+42,48,Jorge Hernández,MEX,F,1.70,72,10-06-89,San Luis Potosí,None,Jaguares de Chiapas,2008,Mexican
+43,58,Jorge Coste,MEX,D,1.78,74,11-11-88,Mexico City,None,Jaguares de Chiapas,2008,Mexican
+44,77,Oscar Rojas,CRC,F,1.72,78,27-04-79,San José [CRC],Veracruz,Jaguares de Chiapas,2008,Mexican
+1,1,Jonathan Orozco,MEX,G,1.81,75,12-05-86,Monterrey,None,Monterrey,2008,Mexican
+2,2,Severo Meza,MEX,D,1.77,66,09-07-86,Naranjos,None,Monterrey,2008,Mexican
+3,3,Pierre Ibarra,MEX,D,1.72,65,18-01-83,Los Mochis,Cobras de Ciudad Juárez,Monterrey,2008,Mexican
+5,5,Joel González,MEX,M,1.66,65,27-01-79,Mexico City,Atlante,Monterrey,2008,Mexican
+6,6,Arturo Alvarado,MEX,M,1.81,76,17-08-87,Monterrey,None,Monterrey,2008,Mexican
+7,7,Octavio Valdez,MEX,M,1.75,65,12-07-73,Santiago Acutzilapan,San Luis,Monterrey,2008,Mexican
+8,8,Luis Ernesto Pérez,MEX,M,1.71,70,12-01-81,Mexico City,Necaxa,Monterrey,2008,Mexican
+9,9,Carlos Ochoa,MEX,F,1.77,72,05-03-78,Apatzingan,Jaguares de Chiapas,Monterrey,2008,Mexican
+10,10,Mauro  Cejas,ARG,M,1.73,68,24-08-85,Adrogué,UAG Tecos,Monterrey,2008,Mexican
+14,14,Joel Arturo Morales,MEX,D,1.72,62,23-02-84,San Nicolás de los Garza,None,Monterrey,2008,Mexican
+15,15,José  María Basanta,ARG,D,1.88,78,03-04-84,Tres Sargentos,Estudiantes (LP),Monterrey,2008,Mexican
+16,16,Christian Martínez,MEX,G,1.80,77,16-10-79,Mexico City,San Luis,Monterrey,2008,Mexican
+17,17,Jesús Eduardo Zavala,MEX,F,1.89,85,21-07-87,Monterrey,None,Monterrey,2008,Mexican
+19,19,José Hiber Ruiz,MEX,M,1.62,55,31-01-80,Tonalá,Puebla,Monterrey,2008,Mexican
+20,20,Gonzalo  Choy,MEX,M,1.90,80,10-11-81,Montevideo,Argentinos Juniors,Monterrey,2008,Mexican
+21,21,Diego Ordaz,MEX,D,1.79,75,07-05-84,Guadalajara,None,Monterrey,2008,Mexican
+22,22,William Paredes,MEX,M,1.66,63,09-09-85,Mérida,None,Monterrey,2008,Mexican
+23,23,Felipe Baloy,PAN,D,1.84,84,24-02-81,Ciudad de Panamá,Atlético Paranaense,Monterrey,2008,Mexican
+26,26,Humberto Suazo,CHI,F,1.72,79,10-05-81,San Antonio,Colo- Colo,Monterrey,2008,Mexican
+28,28,Jesús Arellano,MEX,M,1.75,66,08-05-73,Monterrey,Guadalajara,Monterrey,2008,Mexican
+30,30,Ernesto Serrato,MEX,D,1.73,72,01-02-85,Monterrey,None,Monterrey,2008,Mexican
+41,44,Alejandro Molina,MEX,M,1.77,67,30-11-89,Ensenada,None,Monterrey,2008,Mexican
+42,46,Óscar Recio,MEX,D,1.75,73,23-06-89,Monterrey,None,Monterrey,2008,Mexican
+43,48,David Stringel,MEX,D,1.75,70,26-03-86,Mexico City,None,Monterrey,2008,Mexican
+44,50,Dario Carreño,MEX,F,1.88,78,13-01-88,Monterrey,None,Monterrey,2008,Mexican
+45,55,Fernando Ibarra,MEX,D,1.79,72,29-09-83,Monterrey,None,Monterrey,2008,Mexican
+46,58,Jared Borgetti,MEX,F,1.85,77,14-08-73,Culiacán,Cruz Azul,Monterrey,2008,Mexican
+1,1,Miguel Ángel Fraga,MEX,G,1.87,76,03-09-87,Morelia,None,Morelia,2008,Mexican
+3,3,Alberto  Lucio,MEX,D,1.82,76,26-01-85,Morelia,None,Morelia,2008,Mexican
+4,4,Jaime Durán,MEX,D,1.75,73,02-12-81,El Grullo,Puebla,Morelia,2008,Mexican
+5,5,Wilson Mathías,BRA,M,1.86,75,14-09-83,Limeira,Ituano,Morelia,2008,Mexican
+7,7,Marvin Cabrera,MEX,D,1.82,79,01-05-80,Mexico City,Pachuca,Morelia,2008,Mexican
+8,8,Ignacio Carrasco,MEX,M,1.67,69,30-01-82,Morelia,None,Morelia,2008,Mexican
+9,9,Luis Ángel Landín,MEX,F,1.82,73,23-07-85,Zamora,Pachuca,Morelia,2008,Mexican
+10,10,Aldo Ramírez,COL,M,1.74,73,18-04-81,Santa Marta,Atlético Nacional,Morelia,2008,Mexican
+11,11,Hugo Droguett,CHI,M,1.72,68,02-09-82,Santiago,UAG Tecos,Morelia,2008,Mexican
+13,13,Fernando Salazar,MEX,M,1.78,76,13-06-79,Guadalajara,Pachuca,Morelia,2008,Mexican
+14,14,Ever Guzmán,MEX,F,1.70,65,15-03-88,Celaya,None,Morelia,2008,Mexican
+15,15,Carlos  Jiménez,MEX,M,1.71,71,31-10-86,Querétaro,None,Morelia,2008,Mexican
+16,16,Adrián Aldrete,MEX,M,1.77,72,14-06-88,Guadalajara,Dorados de Sinaloa,Morelia,2008,Mexican
+17,17,Fernando  Silva,MEX,M,1.81,76,23-03-89,Morelia,None,Morelia,2008,Mexican
+18,18,Andrés Mendoza,PER,F,1.82,70,28-04-78,Chincha,Steaua Bucureşti,Morelia,2008,Mexican
+20,20,Sonny Guadarrama,USA,M,1.69,68,27-03-87,Austin,Santos Laguna,Morelia,2008,Mexican
+23,23,Moisés Muñoz,MEX,G,1.83,83,01-02-80,Morelia,None,Morelia,2008,Mexican
+25,25,Horacio Cervantes,MEX,D,1.92,80,17-10-81,Mexico City,Necaxa,Morelia,2008,Mexican
+26,26,Mauricio  Romero,ARG,D,1.84,84,13-01-83,La  Pampa,Lanús,Morelia,2008,Mexican
+27,27,Omar Trujillo,MEX,D,1.73,70,09-11-77,Mexico City,None,Morelia,2008,Mexican
+41,43,Adalberto  Palma,MEX,D,1.90,81,03-02-81,Mexico City,Necaxa,Morelia,2008,Mexican
+42,53,Arturo González,MEX,G,1.87,80,01-02-83,Morelia,None,Morelia,2008,Mexican
+43,77,Elías Hernández,MEX,F,1.70,62,29-04-88,Morelia,None,Morelia,2008,Mexican
+44,121,Sergio  Blancas,MEX,F,1.81,71,27-06-88,Ciudad Hidalgo,None,Morelia,2008,Mexican
+1,1,Iván Vázquez,MEX,G,1.82,72,14-12-82,Mexico City,Zacatapec,Necaxa,2008,Mexican
+2,2,Pablo Quatrocchi,ARG,D,1.89,80,19-01-74,Buenos Aires,San Lorenzo,Necaxa,2008,Mexican
+3,3,Miguel Acosta,MEX,D,1.74,66,09-04-75,Cuautitlan,Veracruz,Necaxa,2008,Mexican
+5,5,Márvin de la Cruz,MEX,D,1.73,66,03-04-85,Tuxtla Gutiérrez,None,Necaxa,2008,Mexican
+6,6,Jonathan González,MEX,D,1.69,65,13-08-84,Mexico City,None,Necaxa,2008,Mexican
+8,8,Gustavo Biscayzacú,URU,F,1.71,72,05-10-78,Montevideo,Colo-Colo,Necaxa,2008,Mexican
+9,9,Hugo Rodallega,COL,F,1.81,72,25-07-85,El Carmelo,Monterrey,Necaxa,2008,Mexican
+10,10,Walter Gaitán,ARG,M,1.84,80,13-03-77,La Rioja,UANL Tigres,Necaxa,2008,Mexican
+11,11,Everaldo Barbosa,BRA,M,1.75,79,12-09-75,Salvador,Jaguares de Chiapas,Necaxa,2008,Mexican
+13,13,Luis Omar Hernández,MEX,D,1.83,77,08-11-85,Guadalajara,None,Necaxa,2008,Mexican
+14,14,Mario Pérez,MEX,D,1.79,75,17-06-82,Mexico City,América,Necaxa,2008,Mexican
+15,15,Obed Rincón,MEX,D,1.80,80,04-02-85,Monterrey,Petroleros de Salamanca,Necaxa,2008,Mexican
+16,16,Gerardo Galindo,MEX,M,1.73,62,23-05-78,Cuernavaca,UNAM,Necaxa,2008,Mexican
+17,17,Jesús Palacios,MEX,M,1.78,66,07-02-83,Guadalupe,UANL Tigres,Necaxa,2008,Mexican
+18,18,Luis Alberto Valdés,MEX,F,1.76,60,19-02-87,Aguascalientes,None,Necaxa,2008,Mexican
+19,19,Fernando López,MEX,D,1.70,60,07-02-84,La Piedad,Atlas,Necaxa,2008,Mexican
+20,20,Pablo Antonio Gabas,ARG,M,1.84,77,21-04-82,Rosario,LD Alajuelense,Necaxa,2008,Mexican
+22,22,Jorge Camacho,MEX,F,1.70,61,06-04-88,Aguascalientes,None,Necaxa,2008,Mexican
+23,23,Aldo De Nigris,MEX,F,1.83,79,22-07-83,Monterrey,UANL Tigres,Necaxa,2008,Mexican
+24,24,Mario Padilla,MEX,D,1.72,69,12-07-85,Ocotlán,None,Necaxa,2008,Mexican
+35,35,Juan de la Cruz,MEX,M,1.60,58,07-03-83,León,Veracruz,Necaxa,2008,Mexican
+36,36,Luis Pérez,MEX,M,1.75,74,15-03-89,Navojoa,None,Necaxa,2008,Mexican
+41,61,Luis Francisco García,MEX,M,1.79,75,21-06-87,Guadalajara,None,Necaxa,2008,Mexican
+42,62,Alejandro Castillo,MEX,F,1.84,70,15-07-87,Mexico City,None,Necaxa,2008,Mexican
+43,66,Daniel Cervantes,MEX,D,1.83,74,28-06-90,Aguascalientes,None,Necaxa,2008,Mexican
+44,72,Omar Ortiz,MEX,G,1.80,76,13-03-76,Monterrey,Jaguares de Chiapas,Necaxa,2008,Mexican
+45,88,Adrián Sahagún,MEX,G,1.80,74,12-12-86,Guadalajara,None,Necaxa,2008,Mexican
+46,93,Alejandro Sosa,MEX,D,1.75,70,18-10-90,,None,Necaxa,2008,Mexican
+1,1,Miguel Calero,COL,G,1.89,82,14-01-71,Valle del Cauca,Atlético Nacional,Pachuca,2008,Mexican
+2,2,Leobardo López,MEX,D,1.78,67,04-09-83,Cortijo Viejo,Unión de Curtidores,Pachuca,2008,Mexican
+3,3,Julio Manzur,PAR,D,1.85,83,22-01-81,Limpio,Guaraní [PAR},Pachuca,2008,Mexican
+4,4,Marco Iván Pérez,MEX,D,1.80,72,09-12-87,Mexico City,None,Pachuca,2008,Mexican
+6,6,Jaime Correa,MEX,M,1.71,70,06-08-79,Durango,Alacranes de Durango,Pachuca,2008,Mexican
+7,7,Damián Álvarez,ARG,M,1.65,67,24-05-79,Morón,Morelia,Pachuca,2008,Mexican
+8,8,Gabriel Caballero,MEX,M,1.74,73,05-02-71,Rosario,Puebla,Pachuca,2008,Mexican
+9,9,Bruno Marioni,ARG,F,1.76,72,15-06-75,Paraná,Atlas,Pachuca,2008,Mexican
+10,10,Christian,BRA,F,1.86,83,23-04-75,Porto Alegre,Portuguesa-SP,Pachuca,2008,Mexican
+11,11,José María Cárdenas,MEX,F,1.66,67,04-02-85,Zacatecas,Atlante,Pachuca,2008,Mexican
+12,12,Juan Carlos Rojas,MEX,M,1.77,65,06-06-84,Romita,León,Pachuca,2008,Mexican
+13,13,Edwin Borboa,MEX,F,1.75,70,11-01-83,Guadalajara,Guadalajara,Pachuca,2008,Mexican
+15,15,Luis Montes,MEX,M,1.65,62,15-05-86,Chihuahua,None,Pachuca,2008,Mexican
+16,16,Gerardo Rodríguez,MEX,M,1.68,67,16-04-85,Culiacán,None,Pachuca,2008,Mexican
+18,18,José Torres,USA,M,1.65,61,29-10-87,Longview,None,Pachuca,2008,Mexican
+19,19,Christian Giménez,ARG,M,1.79,70,02-01-81,Resistencia,América,Pachuca,2008,Mexican
+21,21,Fausto Pinto,MEX,D,1.67,53,08-08-83,Culiacán,None,Pachuca,2008,Mexican
+22,22,Paul Aguilar,MEX,D,1.77,65,06-03-86,Concordia,None,Pachuca,2008,Mexican
+23,23,Carlos Velázquez,MEX,G,1.86,80,02-06-84,Ciudad Sahagún,None,Pachuca,2008,Mexican
+24,24,Raúl Martínez,MEX,M,1.72,60,01-04-87,Xochitlán,None,Pachuca,2008,Mexican
+27,27,Edy Germán Brambila,MEX,M,1.70,65,15-01-86,Tepic,None,Pachuca,2008,Mexican
+29,29,Víctor Mañon,MEX,F,1.70,72,06-02-90,Celaya,None,Pachuca,2008,Mexican
+30,30,Rodolfo Cota,MEX,G,1.82,72,03-07-87,Mazatlán,None,Pachuca,2008,Mexican
+1,1,Jorge Villalpando,MEX,G,1.73,67,13-03-85,Mexico City,None,Puebla,2008,Mexican
+2,2,Orlando Rincón,MEX,D,1.72,66,19-09-85,Cuautla,None,Puebla,2008,Mexican
+4,4,Luis Enrique Muñóz,MEX,D,1.82,76,20-01-84,San Luis Potosí,None,Puebla,2008,Mexican
+5,5,Álvaro Ortíz,MEX,D,1.68,67,19-02-78,Mexico City,Toluca,Puebla,2008,Mexican
+6,6,Omar Briceño,MEX,D,1.73,67,30-01-78,Culiacán,UANL Tigres,Puebla,2008,Mexican
+7,7,Sergio Rosas,MEX,M,1.62,58,03-05-84,Puebla,None,Puebla,2008,Mexican
+8,8,Fabián Peña,MEX,M,1.74,65,19-06-73,Nuevo Laredo,América,Puebla,2008,Mexican
+9,9,Horacio Peralta,URU,F,1.74,69,03-06-82,Montevideo,Quilmes,Puebla,2008,Mexican
+10,10,Fabiano,BRA,M,1.81,78,06-04-78,Marília,Necaxa,Puebla,2008,Mexican
+11,11,Juan Hernández,MEX,M,1.72,62,04-01-86,Mexico City,Cruz Azul,Puebla,2008,Mexican
+12,12,Gustavo Anzaldo,MEX,M,1.74,60,21-07-88,Puebla,None,Puebla,2008,Mexican
+13,13,Álvaro González,URU,F,1.80,75,12-09-73,Canelones,Tabasco,Puebla,2008,Mexican
+14,14,Luis Miguel Noriega,MEX,M,1.72,67,17-04-85,Tepotzotlán,Lobos BUAP,Puebla,2008,Mexican
+15,15,Cesáreo Victorino,MEX,M,1.78,68,19-03-79,Oaxaca,Veracruz,Puebla,2008,Mexican
+16,16,Eder Pacheco,MEX,M,1.81,75,23-07-77,Brasília,Morelia,Puebla,2008,Mexican
+17,17,Walter Vílchez,PER,D,1.83,80,20-02-82,Chiclayo,Cruz Azul,Puebla,2008,Mexican
+18,18,Juan Carlos García,MEX,F,1.86,79,13-03-85,Mexico City,None,Puebla,2008,Mexican
+19,19,Isidro Sánchez,MEX,M,1.68,65,05-06-87,Puebla,None,Puebla,2008,Mexican
+20,20,Paulo Serafín,MEX,D,1.77,60,20-04-75,Mexico City,Monterrey,Puebla,2008,Mexican
+21,21,Oscar Dautt,MEX,G,1.84,84,08-06-76,Guasave,UANL Tigres,Puebla,2008,Mexican
+22,22,Carlos Arenas,MEX,M,1.84,85,12-02-87,Puebla,None,Puebla,2008,Mexican
+23,23,Joaquín Velázquez,MEX,D,1.80,82,11-09-75,Veracruz,Lobos BUAP,Puebla,2008,Mexican
+24,24,Sergio Pérez,MEX,D,1.82,67,13-10-86,Puebla,None,Puebla,2008,Mexican
+25,25,Manuel López,MEX,M,1.73,70,22-02-83,Xalapa,Veracruz,Puebla,2008,Mexican
+26,26,Miguel Ostersen,MEX,M,1.81,71,11-01-80,Mexico City,Coronel Bolognesi,Puebla,2008,Mexican
+27,27,Pablo Aja,MEX,M,1.76,69,28-01-86,Puebla,None,Puebla,2008,Mexican
+28,28,Álvaro Fernández,URU,M,1.85,68,11-10-85,Colonia,Montevideo Wanderers,Puebla,2008,Mexican
+29,29,Rodrigo Salinas,MEX,M,1.78,64,09-05-88,Puebla,None,Puebla,2008,Mexican
+30,30,Jair García,MEX,F,1.77,74,25-10-78,Guadalajara,Atlas,Puebla,2008,Mexican
+31,31,Jesús Santa Cruz,MEX,G,1.79,65,25-03-86,Tampico,None,Puebla,2008,Mexican
+32,32,Joaquín Dartigues,MEX,F,1.75,70,26-07-89,Puebla,None,Puebla,2008,Mexican
+33,33,Erick Mentado,MEX,G,1.82,77,10-06-83,Mexico City,Lobos BUAP,Puebla,2008,Mexican
+41,44,Adrían Sánchez,MEX,D,1.78,71,09-07-78,Mexico City,Cruz Azul,Puebla,2008,Mexican
+42,58,Oscar Zea,MEX,M,1.75,74,26-01-83,Mexico City,Necaxa,Puebla,2008,Mexican
+1,1,Adrián Martínez,MEX,G,1.92,88,01-07-70,Mexico City,Santos Laguna,San Luis,2008,Mexican
+2,2,Omar Monjaraz,MEX,D,1.78,73,11-05-81,León,Jaguares de Chiapas,San Luis,2008,Mexican
+3,3,Adrián García Arias,MEX,D,1.84,74,06-12-75,Mexico City,Jaguares de Chiapas,San Luis,2008,Mexican
+4,4,Oscar Mascorro,MEX,D,1.80,79,11-02-80,Ciudad Victoria,Puebla,San Luis,2008,Mexican
+5,5,Diego Cervantes,MEX,D,1.83,70,30-08-84,Mexico City,América,San Luis,2008,Mexican
+6,6,Israel Martínez,MEX,D,1.66,68,14-03-81,Mexico City,América,San Luis,2008,Mexican
+7,7,Jairo Patiño,COL,M,1.81,75,05-04-78,Cali,Banfield,San Luis,2008,Mexican
+8,8,Eduardo  Coudet,ARG,M,1.80,73,09-12-74,Capital  Federal,Rosario Central,San Luis,2008,Mexican
+9,9,Víctor Píriz  Álvez,URU,F,1.81,78,22-06-80,Artigas,Talleres (Córdoba),San Luis,2008,Mexican
+10,10,Tressor Moreno,COL,F,1.75,77,01-11-79,Riosucio,Necaxa,San Luis,2008,Mexican
+11,11,Braulio Luna,MEX,M,1.80,76,09-08-74,Mexico City,Veracruz,San Luis,2008,Mexican
+12,12,Carlos Trejo,MEX,G,1.76,75,20-03-83,Mexico City,Correcaminos,San Luis,2008,Mexican
+13,13,Ángel Reyna,MEX,M,1.68,68,19-09-84,Mexico City,None,San Luis,2008,Mexican
+14,14,Noé Maya,MEX,D,1.71,70,01-02-85,Mexico City,Tijuana,San Luis,2008,Mexican
+15,15,Alfredo González,MEX,D,1.79,69,04-10-80,Mexico City,América,San Luis,2008,Mexican
+16,16,Michael Orozco,USA,D,1.80,63,07-02-86,Orange,None,San Luis,2008,Mexican
+17,17,Ignacio Torres,MEX,M,1.76,75,25-09-83,Mexico City,América,San Luis,2008,Mexican
+18,18,Leonel Olmedo,MEX,D,1.78,60,08-04-81,Mexico City,América,San Luis,2008,Mexican
+19,19,Marco Antonio Gómez,MEX,F,1.80,70,27-04-84,Mexico City,América,San Luis,2008,Mexican
+20,20,Omar Domínguez,MEX,M,1.74,68,02-12-78,San Luis Potosí,None,San Luis,2008,Mexican
+21,21,Víctor Lojero,MEX,F,1.73,62,17-11-84,Mexico City,América,San Luis,2008,Mexican
+22,22,Rodolfo Salinas,MEX,M,1.76,69,29-08-87,Durango,None,San Luis,2008,Mexican
+23,23,Marcelo Guerrero,URU,F,1.78,73,20-05-83,Montevideo,Racing  Club,San Luis,2008,Mexican
+24,24,José Rodolfo Reyes,MEX,F,1.72,76,25-02-88,Gómez Palacios,None,San Luis,2008,Mexican
+25,25,José Álamo,MEX,G,1.82,86,16-08-86,Naucalpan,Necaxa,San Luis,2008,Mexican
+26,26,Pedro Medina,MEX,D,1.72,69,14-09-88,San Luis Potosí,None,San Luis,2008,Mexican
+27,27,Carlos Negrete,MEX,D,1.76,66,08-02-89,San Luis Potosí,None,San Luis,2008,Mexican
+1,1,Oswaldo Sánchez,MEX,G,1.84,84,21-09-73,Guadalajara,Guadalajara,Santos Laguna,2008,Mexican
+3,3,Fernando  Ortiz,ARG,D,1.85,79,25-12-77,Corral de Bustos,Estudiantes (LP),Santos Laguna,2008,Mexican
+4,4,Jorge Iván Estrada,MEX,D,1.64,65,16-10-83,Tepic,Veracruz,Santos Laguna,2008,Mexican
+5,5,Fernando Arce,MEX,M,1.73,66,24-04-80,Tijuana,Morelia,Santos Laguna,2008,Mexican
+6,6,Gregorio Torres,MEX,D,1.70,74,03-09-85,Guadalajara,Atlas,Santos Laguna,2008,Mexican
+7,7,Walter Jiménez,ARG,M,1.72,61,29-08-77,Buenos Aires,Jaguares de Chiapas,Santos Laguna,2008,Mexican
+8,8,Johnny García,MEX,M,1.79,80,19-07-78,Guadalajara,Jaguares de Chiapas,Santos Laguna,2008,Mexican
+10,10,Daniel Ludueña,ARG,M,1.75,69,22-03-84,Berazategui,UAG Tecos,Santos Laguna,2008,Mexican
+11,11,Cristian  Benítez,ECU,F,1.69,69,01-05-86,Esmereldas,El Nacional,Santos Laguna,2008,Mexican
+13,13,Juan de Dios Alvarado,MEX,D,1.81,67,07-08-88,Coahuila,None,Santos Laguna,2008,Mexican
+14,14,José Antonio Patlán,MEX,D,1.80,77,12-12-83,Irapuato,Guadalajara,Santos Laguna,2008,Mexican
+15,15,Edgar Castillo,MEX,D,1.75,56,10-08-86,Las Cruces,None,Santos Laguna,2008,Mexican
+17,17,Agustín Herrera,MEX,F,1.75,68,22-03-85,Los Mochis,None,Santos Laguna,2008,Mexican
+18,18,Andony Hernández,MEX,M,1.74,67,20-06-81,Guadalajara,Veracruz,Santos Laguna,2008,Mexican
+19,19,Rafael Figueroa,MEX,D,1.75,75,14-03-83,Torreón,León,Santos Laguna,2008,Mexican
+20,20,Osmar Mares,MEX,D,1.69,64,17-06-87,Torreón,None,Santos Laguna,2008,Mexican
+21,21,Juan  Pablo Santiago,MEX,D,1.85,70,25-08-80,Zapotiltic,Atlas,Santos Laguna,2008,Mexican
+23,23,Oribe Peralta,MEX,F,1.78,70,12-01-84,Torreón,Monterrey,Santos Laguna,2008,Mexican
+24,24,Francisco González,MEX,G,1.86,86,31-01-84,Zacatecas,Durango,Santos Laguna,2008,Mexican
+25,25,Miguel Becerra,MEX,G,1.84,89,11-03-79,Exatlán,Querétaro,Santos Laguna,2008,Mexican
+26,26,Francisco Torres,MEX,M,1.71,67,12-05-83,León,América,Santos Laguna,2008,Mexican
+27,27,Jorge Barrera,MEX,M,1.76,68,04-08-81,Guadalajara,Chivas USA,Santos Laguna,2008,Mexican
+30,30,Matías Vuoso,MEX,F,1.75,79,03-11-81,Mar del Plata,América,Santos Laguna,2008,Mexican
+35,35,Alberto Soto,MEX,M,1.73,62,18-01-90,Torreón,None,Santos Laguna,2008,Mexican
+41,45,Jaime Toledo,MEX,M,1.75,67,22-04-89,Escuinapa,None,Santos Laguna,2008,Mexican
+42,58,Juan Pablo Rodríguez,MEX,M,1.68,62,08-07-79,Guadalajara,Guadalajara,Santos Laguna,2008,Mexican
+1,1,Hernán Cristante,ARG,G,1.80,82,15-09-69,La Plata,Huracán,Toluca,2008,Mexican
+3,3,Paulo  da Silva,PAR,D,1.81,76,01-02-80,Asunción,Venezia,Toluca,2008,Mexican
+4,4,Miguel Almazán,MEX,D,1.81,74,05-06-82,Mexico City,Atlético Mexiquense,Toluca,2008,Mexican
+5,5,Martín  Romagnoli,ARG,M,1.70,75,30-09-77,Leones,Racing Club,Toluca,2008,Mexican
+6,6,Manuel de la Torre,MEX,D,1.70,61,13-06-80,Mexico City,UNAM,Toluca,2008,Mexican
+7,7,Santiago Fernández,MEX,F,1.82,76,07-03-85,Mexico City,América,Toluca,2008,Mexican
+9,9,Héctor Mancilla,CHI,F,1.79,75,12-11-80,Santiago,Veracruz,Toluca,2008,Mexican
+10,10,Antonio Naelson,MEX,M,1.64,75,23-05-76,Rio Grande,Monterrey,Toluca,2008,Mexican
+11,11,Carlos Esquivel,MEX,F,1.70,64,04-10-82,Tlalpujahua,Atlético Mexiquense,Toluca,2008,Mexican
+12,12,César Lozano,MEX,G,1.79,78,31-05-77,Mexico City,Atlético Mexiquense,Toluca,2008,Mexican
+14,14,Edgar Dueñas,MEX,D,1.85,85,03-05-83,Mexico City,Atlético Mexiquense,Toluca,2008,Mexican
+16,16,Sergio Amaury Ponce,MEX,M,1.79,73,13-08-81,Tepic,Atlético Mexiquense,Toluca,2008,Mexican
+18,18,Carlos Morales,MEX,M,1.74,70,06-09-79,La Piedad,UANL Tigres,Toluca,2008,Mexican
+21,21,Diego de la Torre,MEX,M,1.79,72,05-02-84,San Luis Potosí,Atlético Mexiquense,Toluca,2008,Mexican
+23,23,Jonathan  Arias,MEX,D,1.77,75,18-04-86,Toluca,Atlético Mexiquense,Toluca,2008,Mexican
+24,24,José Manuel Cruzalta,MEX,M,1.68,68,08-04-78,Tenancingo,Atlético Mexiquense,Toluca,2008,Mexican
+27,27,Daniel Andrés Ríos,ARG,F,1.70,70,21-02-83,Córdoba,Veracruz,Toluca,2008,Mexican
+29,29,Mario Méndez,MEX,D,1.77,72,01-06-79,Guadalajara,Vélez Sarsfield,Toluca,2008,Mexican
+30,30,Miguel Ángel  Centeno,MEX,G,1.80,75,16-08-89,Toluca,None,Toluca,2008,Mexican
+38,38,Moisés Velasco,MEX,M,1.72,69,19-10-89,Tijuana,None,Toluca,2008,Mexican
+41,45,Carlos Alberto Galeana,MEX,M,1.80,70,21-12-88,Lázaro Cárdenas,None,Toluca,2008,Mexican
+42,51,Francisco Gamboa,MEX,D,1.78,74,20-07-85,Guadalajara,None,Toluca,2008,Mexican
+43,55,Israel López,MEX,D,1.66,78,29-09-74,Mexico City,Cruz Azul,Toluca,2008,Mexican
+44,56,José Manuel Parra,MEX,M,1.77,72,08-01-88,Ixtapan de la Sal,None,Toluca,2008,Mexican
+45,59,Raúl Nava,MEX,F,1.83,72,17-09-90,Mexico City,None,Toluca,2008,Mexican
+46,67,Antonio Ríos,MEX,M,1.72,73,24-10-88,Arcelia,None,Toluca,2008,Mexican
+47,70,Manuel Alejandro Zárate,MEX,F,1.82,64,03-06-88,Guadalajara,None,Toluca,2008,Mexican
+48,74,Francisco Franco,MEX,D,1.85,80,25-08-87,Autlán,None,Toluca,2008,Mexican
+49,75,Néstor Calderón,MEX,M,1.73,63,14-02-89,Guadalajara,None,Toluca,2008,Mexican
+1,1,Jesús Corona,MEX,G,1.81,82,26-01-81,Guadalajara,Atlas,UAG Tecos,2008,Mexican
+2,2,Randy Scott Santana,MEX,D,1.80,76,01-01-83,Tomatlán,Tecomán,UAG Tecos,2008,Mexican
+3,3,Marcelo Alatorre,MEX,D,1.72,69,18-01-85,Guadalajara,Tecomán,UAG Tecos,2008,Mexican
+4,4,Adrián Cortés,MEX,D,1.75,69,19-11-83,Mexico City,Cruz Azul,UAG Tecos,2008,Mexican
+5,5,Marcelo Sosa,URU,M,1.80,71,02-06-78,Montevideo,Nacional [URU],UAG Tecos,2008,Mexican
+6,6,Juan  Carlos Valenzuela,MEX,D,1.75,72,15-05-84,Guaymas,Atlas,UAG Tecos,2008,Mexican
+7,7,Luis Alonso Sandoval,MEX,F,1.76,67,27-09-81,Guadalajara,Veracruz,UAG Tecos,2008,Mexican
+8,8,Joel Sánchez,MEX,D,1.75,75,17-08-74,Guadalajara,Querétaro,UAG Tecos,2008,Mexican
+9,9,Robert,BRA,F,1.84,79,27-02-81,Salvador,Monterrey,UAG Tecos,2008,Mexican
+10,10,Mario Ortiz,MEX,F,1.74,64,04-06-83,Juchitán de Zaragoza,Puebla,UAG Tecos,2008,Mexican
+11,11,Rodrigo Ruiz,CHI,F,1.65,65,05-10-72,Santiago,Santos Laguna,UAG Tecos,2008,Mexican
+12,12,Marcos Garay,MEX,G,1.75,72,07-10-74,Tonala,San Luis,UAG Tecos,2008,Mexican
+13,13,Pablo Metlich,MEX,M,1.69,70,09-02-78,Gómez Palacio,Atlético Lagunero,UAG Tecos,2008,Mexican
+14,14,Carlo Rodríguez,MEX,F,1.84,77,24-09-88,Guadalajara,None,UAG Tecos,2008,Mexican
+15,15,Rafael Medina,MEX,D,1.76,64,08-10-79,Guadalajara,Santos Laguna,UAG Tecos,2008,Mexican
+16,16,Fredy Bareiro,PAR,F,1.80,77,27-03-82,Itauguá,León,UAG Tecos,2008,Mexican
+17,17,Daniel Alcántar,MEX,D,1.68,63,05-02-76,León,Atlante,UAG Tecos,2008,Mexican
+18,18,Damián Zamogilny,ARG,M,1.72,67,05-01-80,Buenos Aires,Puebla,UAG Tecos,2008,Mexican
+19,19,Arnhold Rivas,MEX,F,1.72,59,13-06-89,Guadalajara,None,UAG Tecos,2008,Mexican
+20,20,Elgabry Rangel,MEX,M,1.63,65,03-04-82,Torreón,Santos Laguna,UAG Tecos,2008,Mexican
+22,22,Roberto Gutiérrez,CHI,F,1.78,78,18-04-83,Curacaví,Universidad Católica,UAG Tecos,2008,Mexican
+23,23,Mario Rodríguez,MEX,G,1.84,70,18-02-78,Torreón,Jaguares de Colima,UAG Tecos,2008,Mexican
+25,25,José Ramón  Partida,MEX,D,1.74,69,15-03-89,Zapopan,None,UAG Tecos,2008,Mexican
+27,27,Juan  Carlos Leaño,MEX,D,1.85,76,22-11-77,Guadalajara,Jaguares Colima,UAG Tecos,2008,Mexican
+29,29,Melvin Brown,MEX,D,1.74,79,28-01-79,Naranjos,Puebla,UAG Tecos,2008,Mexican
+41,58,Emerson Lomelí,MEX,M,1.72,58,12-01-87,Guadalajara,None,UAG Tecos,2008,Mexican
+1,1,Óscar Pérez,MEX,G,1.71,72,01-02-73,Mexico City,Cruz Azul,UANL Tigres,2008,Mexican
+2,2,Diego Martínez,MEX,D,1.85,79,15-02-81,Mexico City,Guadalajara,UANL Tigres,2008,Mexican
+3,3,Jesús Chávez,MEX,D,1.84,78,26-04-86,Torreón,Tigres Los Mochis,UANL Tigres,2008,Mexican
+5,5,Pedro  Benítez,PAR,D,1.88,84,23-03-81,San  Lorenzo,Libertad,UANL Tigres,2008,Mexican
+8,8,Lucas Ayala,ARG,M,1.69,66,11-08-78,Buenos Aires,Veracruz,UANL Tigres,2008,Mexican
+9,9,Blas Pérez,PAN,F,1.87,85,13-03-81,Ciudad de Panamá,Hércules,UANL Tigres,2008,Mexican
+10,10,Julio Aguilar,PAR,F,1.86,80,01-07-86,La Pastora,12 de Octubre,UANL Tigres,2008,Mexican
+11,11,Emmanuel Cerda,MEX,F,1.79,73,27-12-87,San Luis Potosí,None,UANL Tigres,2008,Mexican
+13,13,Antonio Sancho,MEX,M,1.70,62,14-03-76,Mexico City,UNAM,UANL Tigres,2008,Mexican
+15,15,Mario Ruiz,MEX,M,1.75,73,01-12-77,Morelia,Morelia,UANL Tigres,2008,Mexican
+16,16,Lucas  Lobos,ARG,M,1.75,63,03-08-81,La Plata,Cádiz,UANL Tigres,2008,Mexican
+17,17,Alfredo Talavera,MEX,G,1.88,85,18-09-82,La Barca,Guadalajara,UANL Tigres,2008,Mexican
+19,19,Guillermo Marino,ARG,M,1.79,77,02-02-81,Los Surgentes,Boca Juniors,UANL Tigres,2008,Mexican
+20,20,Hugo Sánchez,MEX,D,1.85,72,08-08-81,Momterrey,Morelia,UANL Tigres,2008,Mexican
+23,23,Javier Saavedra,MEX,D,1.70,63,13-03-73,Peribán,Morelia,UANL Tigres,2008,Mexican
+24,24,José Rivas,MEX,D,1.87,81,18-10-84,Coatzacoalcos,Coatzacoalcos,UANL Tigres,2008,Mexican
+25,25,Jesús Urbina,MEX,G,1.86,79,03-03-83,Monterrey,None,UANL Tigres,2008,Mexican
+26,26,Francisco Fonseca,MEX,F,1.84,79,02-10-79,León,Benfica,UANL Tigres,2008,Mexican
+41,43,Jesús Antonio Molina,MEX,D,1.82,72,29-03-88,Hermosillo,None,UANL Tigres,2008,Mexican
+42,50,Francisco Acuña,MEX,M,1.65,58,19-01-88,Hermosillo,None,UANL Tigres,2008,Mexican
+43,58,Manuel Viniegra,MEX,M,1.80,60,26-04-88,Monterrey,None,UANL Tigres,2008,Mexican
+44,59,Jonatan De León,MEX,F,1.80,76,22-06-87,Guadalupe,None,UANL Tigres,2008,Mexican
+45,61,Armando Pulido,MEX,M,1.66,62,25-03-89,Ciudad Victoria,None,UANL Tigres,2008,Mexican
+46,62,Israel Jiménez,MEX,D,1.74,66,13-08-89,Monterrey,None,UANL Tigres,2008,Mexican
+47,63,José Cabrera,MEX,F,1.66,70,07-10-89,Los Mochis,None,UANL Tigres,2008,Mexican
+48,70,Erick Martínez,MEX,F,1.75,69,10-05-89,Monterrey,None,UANL Tigres,2008,Mexican
+49,85,Jonathan Arenas,MEX,F,1.81,79,21-04-87,Monterrey,None,UANL Tigres,2008,Mexican
+1,1,Odín Patiño,MEX,G,1.81,78,24-08-83,Mexico City,None,UNAM,2008,Mexican
+2,2,Efraín Velarde,MEX,D,1.73,67,18-04-86,Mexico City,None,UNAM,2008,Mexican
+3,3,Marco Antonio Palacios,MEX,D,1.90,76,06-03-81,Mexico City,Veracruz,UNAM,2008,Mexican
+4,4,Darío Verón,PAR,D,1.81,80,16-07-79,San Ignacio,12 de Octubre,UNAM,2008,Mexican
+5,5,Israel Castro,MEX,M,1.76,67,20-12-80,Mexico City,None,UNAM,2008,Mexican
+6,6,Efrain Juárez,MEX,D,1.72,65,22-02-88,Mexico City,Barcelona,UNAM,2008,Mexican
+7,7,Leandro Augusto,MEX,M,1.77,66,18-08-77,Cascabel,Leon,UNAM,2008,Mexican
+8,8,Pablo Barrera,MEX,M,1.75,65,21-06-87,Tlalnepantla de Baz,None,UNAM,2008,Mexican
+9,9,Dante López,PAR,F,1.85,85,18-08-83,Asunción,Libertad,UNAM,2008,Mexican
+10,10,Martín Bravo,ARG,F,1.65,65,19-09-86,Santa  Fé,Colón (Santa Fe),UNAM,2008,Mexican
+11,11,Juan Carlos Cacho,MEX,F,1.78,79,03-05-82,Mexico City,Pachuca,UNAM,2008,Mexican
+12,12,Sergio Bernal,MEX,G,1.88,80,09-02-70,Mexico City,Puebla,UNAM,2008,Mexican
+13,13,Jehu Chiapas,MEX,D,1.74,70,03-10-85,Martínez de la Torre,None,UNAM,2008,Mexican
+14,14,David Cabrera,MEX,M,1.75,68,07-09-89,Mexico City,None,UNAM,2008,Mexican
+15,15,Humberto González,MEX,D,1.75,77,03-11-77,Guadalajara,Morelia,UNAM,2008,Mexican
+16,16,Fernando Espinoza,MEX,M,1.70,69,09-05-83,Mexico City,None,UNAM,2008,Mexican
+17,17,Juan  Francisco Palencia,MEX,F,1.72,74,28-04-73,Mexico City,Chivas USA,UNAM,2008,Mexican
+18,18,Fernando Morales,MEX,M,1.74,66,14-09-85,Mexico City,Cruz Azul,UNAM,2008,Mexican
+19,19,Diego de Buen,MEX,M,1.73,61,03-07-91,Mexico City,None,UNAM,2008,Mexican
+20,20,Ismael Íñiguez,MEX,F,1.69,67,23-07-81,Guadalajara,Morelia,UNAM,2008,Mexican
+21,21,Eduardo Gámez,MEX,D,1.72,65,30-05-91,Mexico City,None,UNAM,2008,Mexican
+22,22,David Izazola,MEX,F,1.78,62,23-10-91,Mexico City,None,UNAM,2008,Mexican
+23,23,Arturo Rodríguez,MEX,F,1.80,66,08-01-90,Mexico City,None,UNAM,2008,Mexican
+24,24,Alfonso Luna,MEX,D,1.74,66,23-01-90,Metepec,None,UNAM,2008,Mexican
+25,25,Alejandro Palacios,MEX,G,1.84,70,06-03-81,Mexico City,None,UNAM,2008,Mexican
+26,26,David Toledo,MEX,M,1.67,56,18-04-82,Oaxaca,None,UNAM,2008,Mexican
+27,27,Pablo Bonells,MEX,F,1.77,65,09-12-85,Mexico City,None,UNAM,2008,Mexican
+28,28,Alex Diego Tejado,MEX,M,1.81,80,01-07-85,Mexico City,None,UNAM,2008,Mexican
+29,29,Javier Cortés,MEX,F,1.71,62,20-07-89,Mexico City,None,UNAM,2008,Mexican
+30,30,Luis  Ricardo Rosas,MEX,M,1.65,63,03-04-85,Mexico City,None,UNAM,2008,Mexican
+34,34,Orlando Pineda,MEX,M,1.70,62,15-02-86,Mexico City,None,UNAM,2008,Mexican
+36,36,Óscar Rojas,MEX,M,1.70,60,05-02-88,Mexico City,None,UNAM,2008,Mexican
+37,37,Eduardo Herrera,MEX,F,1.86,78,25-07-88,Mexico City,None,UNAM,2008,Mexican
+41,44,Leonardo García,MEX,D,1.79,68,11-12-86,Mexico City,None,UNAM,2008,Mexican
+42,57,Eduardo Barrón,MEX,F,1.72,62,18-01-87,Mexico City,None,UNAM,2008,Mexican

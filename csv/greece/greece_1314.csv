@@ -1,0 +1,530 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Felipe Gomes,BRA,G,1.98,89,06-12-88,Vilhena,Paulista,Apollon Smyrnis,2013,Greek
+2,2,Giorgos Chatzizisis,GRE,D,1.75,72,04-09-78,Kozani,Pierikos,Apollon Smyrnis,2013,Greek
+3,3,Michalis Kallergis,GRE,M,1.73,70,26-08-96,Athens,Olympiakos,Apollon Smyrnis,2013,Greek
+4,4,Tom Söderberg,SWE,D,1.99,89,25-08-87,Norrköping,IF Elfsborg,Apollon Smyrnis,2013,Greek
+5,5,Giorgos Delizisis,GRE,D,1.91,82,01-12-87,Kozani,Niki Volos,Apollon Smyrnis,2013,Greek
+6,6,Petros Kanakoudis,GRE,M,1.80,70,16-04-84,Veria,Platanias,Apollon Smyrnis,2013,Greek
+7,7,Panagiotis Korbos,GRE,M,1.82,74,11-09-83,Viotia,Levadiakos,Apollon Smyrnis,2013,Greek
+8,8,Athanassios Panteliadis,GRE,D,1.78,68,06-09-87,Katerini,Panserraikos,Apollon Smyrnis,2013,Greek
+9,9,Antonis Petropoulos,GRE,F,1.86,83,28-01-86,Athens,AEK,Apollon Smyrnis,2013,Greek
+10,10,Ilias Tsiligiris,GRE,F,1.79,67,03-10-87,Athens,Thrasivoulos,Apollon Smyrnis,2013,Greek
+11,11,Dimitris Diamantis,GRE,M,1.81,77,11-09-79,Filiates,Ethnikos Asteras,Apollon Smyrnis,2013,Greek
+12,12,Stratos Bentas,GRE,M,1.71,68,30-09-94,Athens,None,Apollon Smyrnis,2013,Greek
+13,13,Leandro Álvarez,ARG,D,1.78,77,04-06-81,25 de Mayo,Asteras Tripolis,Apollon Smyrnis,2013,Greek
+14,14,Christos Mingas,GRE,M,1.73,70,15-04-84,Gjirokastër,Panthrakikos,Apollon Smyrnis,2013,Greek
+15,15,Hégon,BRA,M,1.74,64,06-05-88,Palhoça,Asteras Tripolis,Apollon Smyrnis,2013,Greek
+16,16,Giannis Sigalas,GRE,D,1.81,75,20-11-94,Athens,None,Apollon Smyrnis,2013,Greek
+17,17,Spyros Dimogiannis,GRE,D,1.74,69,03-09-92,Athens,Panachaiki,Apollon Smyrnis,2013,Greek
+18,18,Paolo Farinola,GRE,F,1.90,86,22-02-84,Athens,Kallithea,Apollon Smyrnis,2013,Greek
+19,19,Franck Manga Guela,CIV,M,1.78,71,19-06-86,Abidjan,Ludogorets Razgrad,Apollon Smyrnis,2013,Greek
+20,20,Giorgos Goumagias,GRE,G,1.89,85,12-09-78,Samos,Doxa Dramas,Apollon Smyrnis,2013,Greek
+21,21,Giorgos Barkoglou,GRE,M,1.81,78,08-07-78,Athens,Kerkyra,Apollon Smyrnis,2013,Greek
+22,22,Dennis Souza,BRA,M,1.91,83,09-01-80,São Paulo,OFI,Apollon Smyrnis,2013,Greek
+23,23,Leonidas Argyropoulos,GRE,D,1.78,68,29-05-90,Corinth,Platanias,Apollon Smyrnis,2013,Greek
+24,24,Tasos Tsokanis,GRE,F,1.82,78,02-05-91,Chalkida,Kerkyra,Apollon Smyrnis,2013,Greek
+25,25,John Kamara,SLE,M,1.86,83,12-05-88,Freetown,Tadamon Sour,Apollon Smyrnis,2013,Greek
+27,27,Mikael Dahlberg,SWE,F,1.92,87,16-03-85,Umeå,Gefle IF,Apollon Smyrnis,2013,Greek
+29,29,Adrián Lucero,ARG,M,1.79,71,16-08-84,Las Heras,AEK Larnaca,Apollon Smyrnis,2013,Greek
+30,30,Alexandros Tzorvas,GRE,G,1.88,80,12-08-82,Athens,Genoa,Apollon Smyrnis,2013,Greek
+31,31,Mario Selmanaj,ALB,D,1.88,82,08-04-94,Tirana,None,Apollon Smyrnis,2013,Greek
+33,33,Grigoris Papazaharias,GRE,D,1.86,75,20-03-85,Epanomi,Aris,Apollon Smyrnis,2013,Greek
+39,39,Lee Cook,ENG,M,1.75,77,03-08-82,Hammersmith,Leyton Orient,Apollon Smyrnis,2013,Greek
+41,84,Darren Ambrose,ENG,M,1.83,78,29-02-84,Harlow,Birmingham C,Apollon Smyrnis,2013,Greek
+42,97,Angelos Stamatopoulos,GRE,G,1.87,80,23-04-97,Athens,None,Apollon Smyrnis,2013,Greek
+2,2,Michalis Kyrgias,GRE,D,1.86,77,14-10-89,Athens,Apollon Smyrnis,Aris,2013,Greek
+3,3,Michalis Giannitsis,GRE,D,1.83,77,06-02-92,Thessaloniki,None,Aris,2013,Greek
+4,4,Vassilis Karagounis,GRE,D,1.76,71,18-01-94,Lamia,Olympiakos,Aris,2013,Greek
+5,5,Rubén Martín Pulido,ESP,D,1.89,80,02-02-79,Madrid,Asteras Tripolis,Aris,2013,Greek
+6,6,Charalambos Economopoulos,GRE,M,1.84,76,09-01-91,Thessaloniki,None,Aris,2013,Greek
+7,7,Dimitris Sounas,GRE,M,1.77,72,12-08-94,Portaria,None,Aris,2013,Greek
+8,8,Vassilis Triantafyllakos,GRE,F,1.86,80,16-07-91,Serres,Odysseas Anagennisi,Aris,2013,Greek
+9,9,David Aganzo,ESP,F,1.77,64,10-01-81,Madrid,Hércules,Aris,2013,Greek
+10,10,Andreas Tatos,GRE,M,1.74,68,11-05-89,Himara,Olympiakos,Aris,2013,Greek
+11,11,Nikolaos Aggeloudis,GRE,F,1.83,72,14-05-91,Thessaloniki,Iraklis,Aris,2013,Greek
+12,12,Konstantinos Kotsaridis,GRE,M,1.86,74,12-06-92,Thessaloniki,AEK,Aris,2013,Greek
+13,13,Sokratis Dioudis,GRE,G,1.82,75,03-02-93,Thessaloniki,None,Aris,2013,Greek
+14,14,Nikos Golias,GRE,M,1.84,74,29-07-93,Karditsa,Anagennisi Karditsa,Aris,2013,Greek
+18,18,Nikos Tsoumanis,GRE,D,1.78,75,08-06-90,Ioannina,Kerkyra,Aris,2013,Greek
+21,21,Giorgos Margaritis,GRE,D,1.79,73,20-06-91,Thessaloniki,Agrotikos Asteras,Aris,2013,Greek
+24,24,Kaloudis Lemonis,GRE,M,1.74,63,11-11-95,Thessaloniki,None,Aris,2013,Greek
+25,25,Anastasios Bakasetas,GRE,F,1.85,73,28-06-93,Corinth,Asteras Tripolis,Aris,2013,Greek
+28,28,Petros Kaminiotis,GRE,M,1.77,71,13-05-89,Karditsa,Glyfada,Aris,2013,Greek
+29,29,Ilias Stavropoulos,GRE,F,1.74,60,06-04-95,Thessaloniki,None,Aris,2013,Greek
+30,30,Erotokritos Damarlis,GRE,M,1.88,80,13-05-92,Sarti,None,Aris,2013,Greek
+31,31,Kristi Vangieli,ALB,D,1.78,72,05-09-85,Korçë,Chornomorets Odessa,Aris,2013,Greek
+32,32,Marios Gelis,GRE,G,1.85,78,09-10-94,Thessaloniki,Panserraikos,Aris,2013,Greek
+33,33,Michalis Manias,GRE,F,1.89,83,20-02-90,Rhodes,Apollon Smyrnis,Aris,2013,Greek
+35,35,Nikolaos Kousidis,GRE,M,1.75,70,03-01-93,Heraklion,Panathinaikos,Aris,2013,Greek
+36,36,Nikolaos Psychogios,GRE,D,1.70,64,25-02-89,Chalkidiki,Doxa Dramas,Aris,2013,Greek
+37,37,Valentinos Vlachos,GRE,D,1.77,70,14-01-92,Athens,Club Brugge,Aris,2013,Greek
+39,39,Panagiotis Kontovas,GRE,M,1.77,71,19-01-96,Karditsa,None,Aris,2013,Greek
+41,44,Andreas Iraklis,GRE,D,1.81,75,16-05-89,Thessaloniki,Kallithea,Aris,2013,Greek
+42,47,Mavroudis Bougaidis,GRE,D,1.90,75,01-06-93,Thessaloniki,Granada B,Aris,2013,Greek
+43,77,Andi Renja,ALB,M,1.78,68,06-01-93,Korçë,None,Aris,2013,Greek
+44,80,Antonis Tsiaras,GRE,M,1.73,68,07-09-93,Larissa,Skoda Xanthi,Aris,2013,Greek
+45,93,Alexandros Karagiannis,GRE,F,1.73,67,25-10-93,Grevena,Pyrsos Grevena,Aris,2013,Greek
+46,99,Stefanos Gounaridis,GRE,G,1.95,81,15-06-90,Thessaloniki,OFI,Aris,2013,Greek
+1,1,Dani Hernández,VEN,G,1.96,87,21-10-85,Caracas,Valladolid,Asteras Tripolis,2013,Greek
+5,5,Juan Munafo,ARG,M,1.71,63,20-03-88,Vicente López,Panthrakikos,Asteras Tripolis,2013,Greek
+6,6,Lautaro Fórmica,ARG,D,1.80,75,27-01-86,Rosario,Cerro Porteño,Asteras Tripolis,2013,Greek
+7,7,Sebastián Setti,ARG,M,1.86,80,09-02-84,Caseros,Apollon Limassol,Asteras Tripolis,2013,Greek
+8,8,Fernando Usero,ESP,M,1.78,78,27-03-84,Puertollano,Córdoba,Asteras Tripolis,2013,Greek
+9,9,Jerónimo  Barrales,ARG,F,1.84,82,28-01-87,Capital  Federal,Huracán,Asteras Tripolis,2013,Greek
+10,10,Sebastián Grazzini,ARG,M,1.80,74,25-01-81,Rosario,Chicago Fire,Asteras Tripolis,2013,Greek
+11,11,Savvas Tsambouris,GRE,F,1.80,74,16-07-86,Athens,Egaleo,Asteras Tripolis,2013,Greek
+12,12,Panagiotis Ladas,GRE,G,,,26-08-94,,None,Asteras Tripolis,2013,Greek
+13,13,Giorgos Zisopoulos,GRE,M,1.82,72,23-05-84,Katerini,Levadiakos,Asteras Tripolis,2013,Greek
+15,15,Khalifa Sankaré,SEN,D,1.90,82,15-08-84,Dakar,Al-Arabi [KUW],Asteras Tripolis,2013,Greek
+17,17,Juan Caffa,ARG,M,1.84,73,30-09-84,Venado Tuerto,Arsenal [ARG],Asteras Tripolis,2013,Greek
+18,18,Mauricio Carrasco,ARG,F,1.73,71,24-09-87,Neuquén,Estudiantes (LP),Asteras Tripolis,2013,Greek
+19,19,Juanma Delgado,ESP,F,1.88,76,17-11-90,Valencia,Alavés,Asteras Tripolis,2013,Greek
+20,20,Apostolos Tsiolis,GRE,F,,,10-12-96,,None,Asteras Tripolis,2013,Greek
+21,21,Valdo,CPV,M,1.83,78,23-04-81,Villablino,Atlante,Asteras Tripolis,2013,Greek
+22,22,Sebastián Bartolini,ARG,D,1.89,80,01-02-82,Álvarez,Talleres (Córdoba),Asteras Tripolis,2013,Greek
+23,23,Ximo Navarro,ESP,M,1.71,72,12-09-88,Valencia,Valencia,Asteras Tripolis,2013,Greek
+24,24,Lazaros Velissaris,ESP,M,1.78,70,17-05-96,Sparta,None,Asteras Tripolis,2013,Greek
+25,25,Dimitrios Kourbelis,GRE,M,1.82,73,02-11-93,Korakovouni,None,Asteras Tripolis,2013,Greek
+27,27,Brian Lluy,ARG,D,1.69,68,25-04-89,Pergamino,Racing Club,Asteras Tripolis,2013,Greek
+28,28,Giorgos Tsoflios,GRE,F,,,11-08-95,,None,Asteras Tripolis,2013,Greek
+29,29,Manolis Gogonas,GRE,F,,,09-02-96,,None,Asteras Tripolis,2013,Greek
+30,30,Dorin Goian,ROU,D,1.94,83,12-12-80,Suceava,Rangers,Asteras Tripolis,2013,Greek
+31,31,Christos Lisgaras,GRE,D,1.89,81,12-02-86,Giannina,Levadiakos,Asteras Tripolis,2013,Greek
+32,32,Pablo De Blasis,ARG,M,1.64,65,04-02-88,La Plata,Gimansia y Esgrima (LP),Asteras Tripolis,2013,Greek
+33,33,Giannis Kondoes,GRE,D,1.81,71,24-05-86,Athens,AEK,Asteras Tripolis,2013,Greek
+35,35,Christos Karydopoulos,GRE,F,,,14-07-95,,None,Asteras Tripolis,2013,Greek
+37,37,Giorgios Badis,GRE,G,1.88,74,30-04-85,Thessaloniki,Iraklis,Asteras Tripolis,2013,Greek
+38,38,Stamatis Togrou,GRE,M,,,18-04-94,,None,Asteras Tripolis,2013,Greek
+41,44,Leonidas Kastritseas,GRE,D,,,17-03-96,,None,Asteras Tripolis,2013,Greek
+42,45,Nikos Kokkalis,GRE,G,,,28-01-95,,Messiniakos,Asteras Tripolis,2013,Greek
+43,46,Giorgos Georgakopoulos,GRE,G,1.85,80,20-05-92,Tripoli,None,Asteras Tripolis,2013,Greek
+44,50,Charalampos Myrsinias,GRE,M,,,09-10-95,,Ethnikos Asteras,Asteras Tripolis,2013,Greek
+45,77,Georgios Kyriakopoulos,GRE,D,1.78,74,05-02-96,Patras,None,Asteras Tripolis,2013,Greek
+46,88,Guirane N'Daw,SEN,M,1.89,79,24-04-84,Rufisque,St-Etienne,Asteras Tripolis,2013,Greek
+47,93,Tassos Papachristos,GRE,D,1.79,75,05-03-93,Egio,Panegialios,Asteras Tripolis,2013,Greek
+1,1,Luigi Cennamo,ITA,G,1.88,82,07-02-80,Munich,Maccabi Netanya,Atromitos,2013,Greek
+2,2,Theodoros Papoutsogiannopoulos,GRE,D,1.80,76,05-07-94,Pyrgos,None,Atromitos,2013,Greek
+4,4,Efstathios Tavlaridis,GRE,D,1.86,81,25-01-80,Serres,OFI,Atromitos,2013,Greek
+6,6,Sokratis Fitanidis,GRE,D,1.86,79,25-05-84,Thessaloniki,Asteras Tripolis,Atromitos,2013,Greek
+7,7,Eduardo Brito,BRA,M,1.78,72,21-09-82,Rio de Janeiro,Apollon Kalamarias,Atromitos,2013,Greek
+8,8,Fotis Georgiou,GRE,M,1.68,64,19-07-85,Arta,PAS Giannina,Atromitos,2013,Greek
+9,9,Stefano Napoleoni,ITA,M,1.77,65,26-06-86,Rome,Levadiakos,Atromitos,2013,Greek
+11,11,Dimitris Papadopoulos,GRE,F,1.77,71,20-10-81,Tashkent,Panthrakikos,Atromitos,2013,Greek
+13,13,Evangelos Nastos,GRE,D,1.87,83,13-09-80,Salonika,Ascoli,Atromitos,2013,Greek
+16,16,Panagiotis Mpalas,GRE,M,1.78,70,06-09-93,Karditsa,Elpides 1994,Atromitos,2013,Greek
+18,18,Kostas Giannoulis,GRE,D,1.83,73,09-12-87,Katerini,Köln,Atromitos,2013,Greek
+19,19,Kyriakos Kivrakidis,GRE,M,1.81,78,21-07-92,Berlin,Eginiakos,Atromitos,2013,Greek
+20,20,Anastasios Karamanos,GRE,F,1.81,70,21-09-90,Athens,Asteras Magoula,Atromitos,2013,Greek
+21,21,Elini Dimoutsos,GRE,M,1.78,72,18-06-88,Luznja,Panathinaikos,Atromitos,2013,Greek
+22,22,Pantelis Theologou,GRE,D,1.89,85,07-05-91,Preveza,Kallithea,Atromitos,2013,Greek
+23,23,Javier Umbides,ARG,M,1.73,79,09-02-82,Monte Quemado,Orduspor,Atromitos,2013,Greek
+24,24,Nikos Lazaridis,GRE,M,1.82,77,12-07-79,Kozani,Aris,Atromitos,2013,Greek
+26,26,Sebastián García,ARG,M,1.74,73,27-01-84,Santa Fe,Iraklis,Atromitos,2013,Greek
+28,28,Giorgos Fotakis,GRE,M,1.75,73,29-10-81,Kalamata,Şanlıurfaspor,Atromitos,2013,Greek
+30,30,Vasilios Barkas,GRE,G,1.96,85,30-05-94,Peristeri,None,Atromitos,2013,Greek
+33,33,Michalis Sifakis,GRE,G,1.85,80,09-09-84,Arta,Charleroi,Atromitos,2013,Greek
+36,36,Christos Arkoudas,GRE,D,1.82,75,13-06-90,Athens,AEK,Atromitos,2013,Greek
+40,40,Fábio,POR,F,1.87,80,26-03-88,Almada,Anagennisi Giannitsa,Atromitos,2013,Greek
+1,1,Grigoris Athanasiou,GRE,G,1.96,91,09-03-84,Kordelio,Atsalenios,Ergotelis,2013,Greek
+2,2,Dele Adeleye,NGA,D,1.89,76,25-12-88,Lagos,Anzhi Makhachkala,Ergotelis,2013,Greek
+3,3,Giannis Kiliaras,GRE,M,1.75,71,09-06-88,Nea Alikarnassos,Panachaiki,Ergotelis,2013,Greek
+5,5,Borislav Jovanović,SRB,D,1.92,84,16-08-86,Ruma,Indjija,Ergotelis,2013,Greek
+6,6,Álvaro Mejía,ESP,D,1.81,71,18-01-82,Madrid,Almería,Ergotelis,2013,Greek
+8,8,Diego Romano,ARG,F,1.65,62,02-03-80,Buenos Aires,San Martín (Tucumán),Ergotelis,2013,Greek
+10,10,Andreas Bouhalakis,GRE,M,1.86,82,05-04-93,Heraklion,Olympiakos,Ergotelis,2013,Greek
+11,11,Angelos Chanti,GRE,M,1.86,80,07-09-89,Pyrgos,Chersonissos,Ergotelis,2013,Greek
+12,12,Horacio Cardozo,ARG,M,1.73,68,29-11-79,Goya,Apollon Limassol,Ergotelis,2013,Greek
+13,13,Aziz Deen-Conteh,ENG,D,1.76,70,14-01-93,Bumpeh,Chelsea,Ergotelis,2013,Greek
+16,16,Dimitris Diamantakos,GRE,F,1.85,77,05-03-93,Piraeus,Olympiakos,Ergotelis,2013,Greek
+17,17,Manolis Tzanakakis,GRE,M,1.76,71,30-04-92,Heraklion,Olympiakos,Ergotelis,2013,Greek
+18,18,Christos Kasapakis,GRE,M,1.74,68,09-12-93,Heraklion,Panathinaikos,Ergotelis,2013,Greek
+19,19,Mihalis Kouiroukidis,GRE,F,1.92,85,18-01-95,,Glyfada,Ergotelis,2013,Greek
+21,21,Bruno Chalkiadakis,GRE,M,1.78,74,07-04-93,Viçosa do Ceará,None,Ergotelis,2013,Greek
+22,22,Chrysovalantis Kozoronis,GRE,M,1.82,81,03-08-92,Heraklion,None,Ergotelis,2013,Greek
+23,23,Ilias Anastasakos,GRE,F,1.86,79,03-03-78,Sparta,Platanias,Ergotelis,2013,Greek
+24,24,Minas Pitsos,GRE,D,1.80,75,08-10-80,Heraklion,OFI,Ergotelis,2013,Greek
+25,25,Abdisalam Ibrahim,NOR,M,1.85,73,01-05-91,Mogadishu,Olympiakos,Ergotelis,2013,Greek
+31,31,Zaharias Kavoussakis,GRE,G,1.85,78,11-01-89,Heraklion,None,Ergotelis,2013,Greek
+32,32,Epaminondas Pantelakis,GRE,D,1.87,83,10-02-95,Chania,None,Ergotelis,2013,Greek
+33,33,Leonardo Koutris,GRE,M,1.74,70,23-07-95,Rhodes,None,Ergotelis,2013,Greek
+37,37,Frantiek Kubík,SVK,F,1.83,69,14-03-89,Prievidza,Arsenal Kyiv,Ergotelis,2013,Greek
+38,38,Vladimir Stojković,SRB,G,1.95,92,28-07-83,Loznica,Partizan Belgrade,Ergotelis,2013,Greek
+39,39,Ziguy Badibanga,BEL,F,1.89,78,26-11-91,Evere,Anderlecht,Ergotelis,2013,Greek
+41,47,Marcos Bambam,BRA,F,1.75,75,19-03-91,Mossoró,Guarani de Juazeiro,Ergotelis,2013,Greek
+42,70,Giannis Dermitzakis,GRE,G,1.93,88,05-11-92,Heraklion,None,Ergotelis,2013,Greek
+43,73,Gaetano Monachello,ITA,F,1.85,78,03-03-94,Agrigento,Monaco,Ergotelis,2013,Greek
+44,77,Vasilios Rentzas,GRE,F,1.74,71,16-04-92,Melivoia,Larissa,Ergotelis,2013,Greek
+45,89,Giorgos Sarris,GRE,D,1.92,79,08-09-89,Heraklion,None,Ergotelis,2013,Greek
+1,1,Giannis Siderakis,GRE,G,1.89,81,16-11-87,Athens,Panionios,Kalloni,2013,Greek
+4,4,Spyros Fourlanos,GRE,D,1.73,65,19-11-93,Athens,Club Brugge,Kalloni,2013,Greek
+6,6,Mihalis Kripidiris,GRE,D,1.83,76,08-03-81,Mytilene,Ethnikos Asteras,Kalloni,2013,Greek
+7,7,Nikos Galas,GRE,M,1.79,74,07-03-86,Mytilene,Ionikos,Kalloni,2013,Greek
+9,9,Giorgos Manousos,GRE,F,1.78,73,03-12-87,Mytilene,OFI,Kalloni,2013,Greek
+10,10,Leozinho,BRA,M,1.70,70,12-12-85,Recife,Panserraikos,Kalloni,2013,Greek
+11,11,Andreas Dabos,GRE,M,1.75,69,28-09-90,,Loukisia,Kalloni,2013,Greek
+12,12,Giorgos Horianopoulos,GRE,D,1.78,76,15-01-79,Naxos,Ethnikos Asteras,Kalloni,2013,Greek
+13,13,Vlassis Kazakis,GRE,F,1.87,78,17-06-83,Komotini,Skoda Xanthi,Kalloni,2013,Greek
+14,14,Anestis Anastasiadis,GRE,D,1.86,75,21-01-83,Ptolemaida,Panetolikos,Kalloni,2013,Greek
+15,15,Raúl Llorente,ESP,D,1.71,67,02-04-86,Madrid,Tenerife,Kalloni,2013,Greek
+16,16,Jonan García,ESP,M,1.77,68,08-01-83,Bilbao,Alavés,Kalloni,2013,Greek
+17,17,Andrew Hogg,MLT,G,1.86,80,02-03-85,Kingston upon Thames,EN Paralimni,Kalloni,2013,Greek
+19,19,Emilio Kishta,ALB,M,1.73,68,10-08-94,Elbasan,None,Kalloni,2013,Greek
+20,20,Emanuel Perrone,ARG,F,1.89,86,14-06-83,Córdoba,Asteras Tripolis,Kalloni,2013,Greek
+21,21,Dimitris Vlastelis,GRE,M,1.70,73,10-08-82,Mytilene,PAO Rouf,Kalloni,2013,Greek
+22,22,Haralambos Siligardakis,GRE,M,1.82,81,17-03-82,Athens,Veria,Kalloni,2013,Greek
+24,24,Paul Keita,SEN,M,1.94,85,23-06-92,Dakar,PAS Giannina,Kalloni,2013,Greek
+25,25,Marcelo Goianira,BRA,M,1.75,68,06-08-80,Goianira,Asteras Tripolis,Kalloni,2013,Greek
+26,26,Rafail Gioukaris,GRE,M,1.66,64,27-02-95,Mytilene,None,Kalloni,2013,Greek
+27,27,Nikos Kaltsas,GRE,M,1.79,74,28-06-89,Chalkida,Panionios,Kalloni,2013,Greek
+28,28,Theodosis Kyprou,CYP,F,1.76,70,24-02-92,Nicosia,Chalkanoras Idaliou,Kalloni,2013,Greek
+29,29,Lefteris Mapas,GRE,G,1.85,79,29-07-82,Mytilene,Saronikos,Kalloni,2013,Greek
+32,32,Hugo Faria,POR,M,1.81,76,15-02-82,São Brás de Alportel,EN Paralimni,Kalloni,2013,Greek
+33,33,Jakub Podaný,CZE,M,1.84,77,15-06-87,Přerov,Sparta Prague,Kalloni,2013,Greek
+41,47,Guy Kassa Gnabouyou,FRA,F,1.83,82,01-12-89,Marseille,Inter Turku,Kalloni,2013,Greek
+42,50,Gabriel Zakuani,COD,D,1.85,76,31-05-86,Kinshasa,Peterborough U,Kalloni,2013,Greek
+43,55,Stratis Valios,GRE,D,1.85,73,09-01-89,Mytilene,Pallesviakos,Kalloni,2013,Greek
+44,70,Zisis Naoum,GRE,F,1.74,70,17-01-94,Athens,Aris,Kalloni,2013,Greek
+45,87,Maxime Josse,FRA,D,1.84,82,21-03-87,Saint-Quentin,Panthrakikos,Kalloni,2013,Greek
+46,94,Kyriakos Evangelidakis,GRE,M,1.75,69,02-01-94,Agios Dimitrios,None,Kalloni,2013,Greek
+47,95,Angelos Giazitzoglou,GRE,D,1.85,78,06-10-95,Mytilene,None,Kalloni,2013,Greek
+48,99,Tassos Agritis,GRE,F,1.76,75,16-04-81,Mytilene,Kerkyra,Kalloni,2013,Greek
+1,1,Panagiotis Tsintotas,GRE,G,1.92,82,04-07-93,Katerini,Pierikos,Levadiakos,2013,Greek
+2,2,Thanasis Moulopoulos,GRE,M,1.73,63,09-06-85,Veria,Ethnikos Asteras,Levadiakos,2013,Greek
+4,4,Pedro Sass Petrazzi,BRA,M,1.79,74,15-09-90,Jaboticabal,Kaposvár,Levadiakos,2013,Greek
+5,5,Giorgos Lambropoulos,GRE,M,1.88,85,26-10-84,,Nea Salamis,Levadiakos,2013,Greek
+6,6,Dimitris Machairas,GRE,M,1.80,78,16-08-90,Pyrgos,None,Levadiakos,2013,Greek
+8,8,Rogério Martins,BRA,M,1.78,75,19-11-84,Uberaba,Asteras Tripolis,Levadiakos,2013,Greek
+9,9,Vangelis Mantzios,GRE,F,1.91,81,22-04-83,Athens,Atromitos,Levadiakos,2013,Greek
+11,11,Stilianos Vasiliou,GRE,F,1.80,75,29-04-91,Akraifnia,None,Levadiakos,2013,Greek
+12,12,Nikos Skempis,GRE,M,1.77,75,02-11-92,Pentalofos,Anagennisi Giannitsa,Levadiakos,2013,Greek
+13,13,Manolis Nikolakakis,GRE,D,1.79,72,19-02-91,Athens,None,Levadiakos,2013,Greek
+14,14,Elias Kotsios,GRE,D,1.84,79,25-04-77,Larissa,Kalloni,Levadiakos,2013,Greek
+15,15,Eric Warden,GHA,F,1.82,82,10-11-92,Accra,Fokikos,Levadiakos,2013,Greek
+16,16,Antonis Magas,GRE,D,1.89,71,28-02-94,Livadeia,None,Levadiakos,2013,Greek
+17,17,Toni Varela,CPV,M,1.80,69,13-06-86,Santa Catarina,FC Dordrecht,Levadiakos,2013,Greek
+18,18,Giorgos Ioannidis,GRE,D,1.73,64,04-05-88,Serres,OFI,Levadiakos,2013,Greek
+19,19,Dimitris Yiantsis,GRE,F,1.72,67,04-03-88,Goumenissa,Kerkyra,Levadiakos,2013,Greek
+20,20,Armiche,ESP,M,1.76,70,12-06-88,Las Palmas,Valencia B,Levadiakos,2013,Greek
+21,21,Emmanuel Koné,CIV,M,1.77,65,31-12-86,Abongoua,Sedan,Levadiakos,2013,Greek
+23,23,Giorgos Georgiou,GRE,D,1.92,84,24-09-79,Augsburg,OFI,Levadiakos,2013,Greek
+24,24,Manolo,ESP,M,1.88,78,15-06-80,Bigastro,Recreativo Huelva,Levadiakos,2013,Greek
+25,25,Charalampos Lykogiannis,GRE,M,1.88,85,22-10-93,Athens,Olympiakos,Levadiakos,2013,Greek
+27,27,Vladan Milosavljev,SRB,M,1.72,68,01-02-87,Belgrade,Baník Ostrava,Levadiakos,2013,Greek
+28,28,Giorgos Peppas,GRE,M,1.73,73,20-07-94,,None,Levadiakos,2013,Greek
+29,29,Kiriakos Stratilatis,GRE,G,1.86,75,05-01-88,Thessaloniki,Kerkyra,Levadiakos,2013,Greek
+30,30,Ioakim Apostolopoulos,GRE,M,1.72,66,10-07-97,,None,Levadiakos,2013,Greek
+31,31,Olivier Kapo,FRA,F,1.83,72,27-09-80,Abidjan,Auxerre,Levadiakos,2013,Greek
+33,33,Elias Charalambous,CYP,D,1.83,76,25-09-80,Johannesburg,Doxa Katokopia,Levadiakos,2013,Greek
+39,39,Dimitris Kapos,GRE,F,1.83,75,28-08-93,Chios,None,Levadiakos,2013,Greek
+40,40,Christos Intzidis,GRE,D,1.89,84,09-01-93,Alexandroupoli,PAOK,Levadiakos,2013,Greek
+41,81,Sebastian Przyrowski,POL,G,1.92,79,30-11-81,Białobrzegi,Polonia Warszawa,Levadiakos,2013,Greek
+42,88,Simon Vukčević,MNE,M,1.79,77,29-01-86,Podgorica,Vojvodina,Levadiakos,2013,Greek
+1,1,Ricardo Verón,ARG,M,1.73,72,22-01-81,Santa Fe,PAOK,OFI,2013,Greek
+2,2,Theodoros Tripotseris,GRE,D,1.84,73,04-03-86,Athens,Kavala,OFI,2013,Greek
+3,3,Marco André Zoro,CIV,D,1.82,75,27-12-83,Abidjan,Angers,OFI,2013,Greek
+4,4,Konstantinos Banousis,GRE,M,1.83,76,23-01-88,Elassona,Oikonomos Tsaritsani,OFI,2013,Greek
+5,5,Charalampos Damianakis,GRE,D,1.88,79,14-06-95,,None,OFI,2013,Greek
+6,6,Manolis Moniakis,GRE,D,1.78,77,09-11-88,Heraklion,Kerkyra,OFI,2013,Greek
+8,8,Vasilis Koutsianikoulis,GRE,M,1.68,60,09-08-88,Larissa,Ergotelis,OFI,2013,Greek
+9,9,Thanassis Papazoglou,GRE,F,1.88,76,30-03-88,Thessaloniki,PAOK,OFI,2013,Greek
+10,10,Dudu Cearense,BRA,M,1.86,75,15-04-83,Fortaleza,Goiás,OFI,2013,Greek
+11,11,Leonel Nuñez,ARG,F,1.85,75,13-10-84,Capital Federal,Johor,OFI,2013,Greek
+12,12,Grigoris Kiziridis,GRE,M,1.76,68,24-10-90,Slydra,Anagennisi Epanomi,OFI,2013,Greek
+14,14,Manolis Rovythis,GRE,M,1.81,78,16-09-92,Heraklion,Vyzas,OFI,2013,Greek
+16,16,eljko Kalajdić,SRB,M,1.76,74,11-05-78,Belgrade,Platanias,OFI,2013,Greek
+17,17,Zé Eduardo,BRA,M,1.86,80,16-08-91,Uberaba,Parma,OFI,2013,Greek
+18,18,Andreas Lampropoulos,GRE,M,1.80,77,30-07-88,Patra,Kerkyra,OFI,2013,Greek
+21,21,Alexandros Perogamvrakis,GRE,F,1.76,74,20-01-88,Heraklion,None,OFI,2013,Greek
+22,22,Daniel Fernandes,POR,G,1.93,99,25-09-83,Edmonton [CAN],FC Twente,OFI,2013,Greek
+23,23,Giorgos Giagiozis,GRE,G,1.88,80,03-04-95,Heraklion,None,OFI,2013,Greek
+24,24,Nery Bareiro,PAR,D,1.84,78,03-03-88,San Lorenzo [PAR],Deportivo Cali,OFI,2013,Greek
+28,28,Christos Bourbos,GRE,D,1.80,82,01-06-83,Ioannina,Iraklis,OFI,2013,Greek
+31,31,Mihalis Fragoulakis,GRE,M,1.77,75,15-07-83,Heraklion,Asteras Tripolis,OFI,2013,Greek
+32,32,Mirnes iič,SVN,M,1.88,82,08-08-81,Slovenj Gradec,Panetolikos,OFI,2013,Greek
+41,41,Iosif Daskalakis,GRE,G,1.88,81,07-08-82,Heraklion,Veria,OFI,2013,Greek
+42,54,Georgios Makris,GRE,M,1.84,82,15-11-84,Kavala,Atromitos,OFI,2013,Greek
+43,55,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,EN Paralimni,OFI,2013,Greek
+44,87,Giannis Stathis,GRE,D,1.73,67,20-05-87,Athens,Panthrakikos,OFI,2013,Greek
+45,92,Michalis Agrimakis,GRE,G,1.84,82,28-07-92,Rethymno,Asteras Magoula,OFI,2013,Greek
+46,95,Manolis Fazos,GRE,D,1.87,80,12-08-95,,None,OFI,2013,Greek
+1,1,Roy Carroll,NIR,G,1.88,80,30-09-77,Enniskillen,OFI,Olympiakos,2013,Greek
+2,2,Giannis Maniatis,GRE,D,1.75,68,12-10-86,Livadia,Panionios,Olympiakos,2013,Greek
+3,3,Pelé,POR,M,1.87,80,14-09-87,Porto,Ergotelis,Olympiakos,2013,Greek
+4,4,Miguel Torres,ESP,D,1.84,78,28-01-86,Madrid,Getafe,Olympiakos,2013,Greek
+5,5,Paulo Machado,POR,M,1.74,74,31-03-86,Cerco,Toulouse,Olympiakos,2013,Greek
+6,6,Anastasios Papazoglou,GRE,D,1.82,76,24-09-88,Serres,Panserraikos,Olympiakos,2013,Greek
+7,7,Ariel Ibagaza,ARG,M,1.66,65,27-10-76,Buenos Aires,Villarreal,Olympiakos,2013,Greek
+8,8,Delvin Ndinga,CGO,M,1.82,73,03-04-88,Pointe Noire,Monaco,Olympiakos,2013,Greek
+9,9,Javier Saviola,ARG,F,1.68,61,11-12-81,Bajo Belgrano,Málaga,Olympiakos,2013,Greek
+14,14,Andreas Samaris,GRE,M,1.89,80,13-06-89,Patras,Panionios,Olympiakos,2013,Greek
+16,16,Roberto,ESP,G,1.88,82,10-02-86,Madrid,Atlético Madrid,Olympiakos,2013,Greek
+17,17,Hernán Pérez,PAR,M,1.77,68,25-02-89,Fernando de la Mora,Villarreal,Olympiakos,2013,Greek
+18,18,Nelson Haedo Valdez,PAR,F,1.78,71,28-11-83,Caaguazú,Al-Jazira,Olympiakos,2013,Greek
+19,19,David Fuster,ESP,M,1.78,71,03-02-82,Oliva,Villarreal,Olympiakos,2013,Greek
+20,20,José Holebas,GRE,D,1.84,79,27-06-84,Aschaffenburg,1860 Munich,Olympiakos,2013,Greek
+21,21,Avraam Papadopoulos,GRE,D,1.86,79,03-12-84,Sydney,Aris,Olympiakos,2013,Greek
+23,23,Dimitris Siovas,GRE,M,1.89,84,16-09-88,Athens,Panionios,Olympiakos,2013,Greek
+24,24,Konstantinos Manolas,GRE,D,1.79,67,14-06-91,Naxos,AEK,Olympiakos,2013,Greek
+25,25,Iván Marcano,ESP,D,1.77,77,23-06-87,Santander,Rubin Kazan,Olympiakos,2013,Greek
+26,26,Joel Campbell,CRC,F,1.78,70,26-06-92,San José [CRC],Arsenal,Olympiakos,2013,Greek
+28,28,Nikos Vergos,GRE,F,1.83,77,13-01-96,Kilkis,None,Olympiakos,2013,Greek
+29,29,Praxitelis Vouros,GRE,D,1.83,75,05-05-95,Mytilini,Eolikos,Olympiakos,2013,Greek
+30,30,Leandro Salino,BRA,M,1.69,64,22-04-85,Juiz de Fora,Sporting Braga,Olympiakos,2013,Greek
+34,34,Manolis Saliakas,GRE,M,1.75,72,12-09-96,Heraklion,Ergotelis,Olympiakos,2013,Greek
+35,35,Alejandro Domínguez,ARG,F,1.73,71,10-06-81,Lanús,Rayo Vallecano,Olympiakos,2013,Greek
+41,42,Balázs Megyeri,HUN,G,1.88,88,31-03-90,Budapest,Ferencváros,Olympiakos,2013,Greek
+42,44,Marko ćepović,SRB,F,1.90,83,23-05-91,Belgrade,Partizan Belgrade,Olympiakos,2013,Greek
+43,88,Gaëtan Bong,CMR,D,1.83,74,25-04-88,Sakbayeme,Valenciennes,Olympiakos,2013,Greek
+44,99,Michael Olaitan,NGA,F,1.84,80,01-01-93,Jos,Veria,Olympiakos,2013,Greek
+1,1,Stefanos Kapino,GRE,G,1.96,85,18-03-94,Piraeus,None,Panathinaikos,2013,Greek
+2,2,Panagiotis Spyropoulos,GRE,D,1.79,75,21-08-92,Athens,Panionios,Panathinaikos,2013,Greek
+3,3,Diamantis Chouchoumis,GRE,D,1.78,75,17-07-94,Aliveri,None,Panathinaikos,2013,Greek
+4,4,Giorgios Koutroubis,GRE,D,1.85,78,10-02-91,Athens,AEK,Panathinaikos,2013,Greek
+5,5,Konstantinos Triantafyllopoulos,GRE,D,1.85,83,03-04-93,Corinth,None,Panathinaikos,2013,Greek
+6,6,David Mendes da Silva,NED,M,1.86,75,04-08-82,Rotterdam,Red Bull Salzburg,Panathinaikos,2013,Greek
+7,7,Viktor Klonaridis,BEL,M,1.79,74,28-07-92,Seraing,Lille,Panathinaikos,2013,Greek
+8,8,Anastasios Lagos,GRE,D,1.82,76,12-04-92,Volos,None,Panathinaikos,2013,Greek
+9,9,Marcus Berg,SWE,F,1.83,76,17-08-86,Torsby,Hamburg,Panathinaikos,2013,Greek
+10,10,Zeca,POR,M,1.80,65,31-08-88,Amadora,Vitória Setúbal,Panathinaikos,2013,Greek
+11,11,Emir Bajrami,SWE,M,1.78,77,07-03-88,Pritina,FC Twente,Panathinaikos,2013,Greek
+12,12,Nikos Marinakis,GRE,D,1.86,73,13-09-93,Heraklion,None,Panathinaikos,2013,Greek
+14,14,Abdul Ajagun,NGA,M,1.65,64,10-02-93,Port Harcourt,Dolphins FC,Panathinaikos,2013,Greek
+15,15,Alexis Tabakis,GRE,G,1.87,87,08-12-92,Athens,None,Panathinaikos,2013,Greek
+16,16,Vassilis Angelopoulos,GRE,M,1.71,70,12-02-97,Pyrgos,None,Panathinaikos,2013,Greek
+17,17,Alexandros Mouzakitis,GRE,F,1.67,66,04-08-94,Kerkyra,None,Panathinaikos,2013,Greek
+18,18,Christos Donis,GRE,M,1.83,76,09-10-94,Athens,None,Panathinaikos,2013,Greek
+19,19,Nikos Karelis,GRE,F,1.79,75,24-02-92,Rethymno,Amkar Perm,Panathinaikos,2013,Greek
+20,20,Mehdi Abeid,ALG,M,1.78,77,06-08-92,Montreuil,Newcastle U,Panathinaikos,2013,Greek
+21,21,Nano,ESP,M,1.82,73,27-10-84,Málaga,Ponferradina,Panathinaikos,2013,Greek
+22,22,Adrián Balboa,URU,F,1.87,80,19-01-94,Montevideo,Cerrito,Panathinaikos,2013,Greek
+23,23,Gordon Schildenfeld,CRO,D,1.91,89,18-03-85,ibenik,Dynamo Moscow,Panathinaikos,2013,Greek
+24,24,Spyros Risvanis,GRE,D,1.96,82,03-01-94,Kalamata,None,Panathinaikos,2013,Greek
+25,25,Stefanos Kotsolis,GRE,G,1.90,85,06-05-79,Athens,Omonia Nicosia,Panathinaikos,2013,Greek
+26,26,Thanasis Dinas,GRE,F,1.70,66,12-11-89,Komotini,Panachaiki,Panathinaikos,2013,Greek
+27,27,Vangelis Anastasopoulos,GRE,M,1.66,67,07-03-94,,None,Panathinaikos,2013,Greek
+28,28,Giannis Stamatakis,GRE,M,1.77,76,26-06-94,Larymna,None,Panathinaikos,2013,Greek
+29,29,Nikos Gianitsanis,GRE,F,1.80,76,16-02-94,Athens,None,Panathinaikos,2013,Greek
+32,32,Danijel Pranjić,CRO,M,1.72,67,02-12-81,Naice,Sporting CP,Panathinaikos,2013,Greek
+33,33,Mladen Petrić,CRO,F,1.85,81,01-01-81,Dubrave,West Ham U,Panathinaikos,2013,Greek
+35,35,Alexandros Anagnostopoulos,GRE,G,1.85,90,18-08-94,,None,Panathinaikos,2013,Greek
+41,47,Marcelo Casas,PAR,M,1.86,77,14-04-92,,Libertad,Panathinaikos,2013,Greek
+1,1,Rafael Bracali,BRA,G,1.84,76,05-05-81,São Paulo,FC Porto,Panetolikos,2013,Greek
+2,2,Dimitris Koutroumanos,GRE,D,1.77,69,25-02-87,Agrinio,AEK,Panetolikos,2013,Greek
+3,3,Vasilis Golias,GRE,D,1.78,66,01-06-85,Ioannina,Asteras Tripolis,Panetolikos,2013,Greek
+4,4,Cyril Kali,FRA,D,1.82,75,21-01-84,Besançon,Veria,Panetolikos,2013,Greek
+5,5,Giorgos Koussas,GRE,D,1.86,80,12-08-82,Thessaloniki,PAS Giannina,Panetolikos,2013,Greek
+6,6,Hussein Mumin,GRE,M,1.86,73,24-03-87,Komotini,PAOK,Panetolikos,2013,Greek
+7,7,Henri Camara,SEN,F,1.78,67,10-05-77,Dakar,Atromitos,Panetolikos,2013,Greek
+8,8,Pashalis Melissas,GRE,M,1.88,78,09-03-82,Kalamata,AE Paphos,Panetolikos,2013,Greek
+10,10,Georgios Theodoridis,GRE,M,1.76,72,03-07-80,Wiesbaden,Apollon Limassol,Panetolikos,2013,Greek
+11,11,Giannis Pasas,GRE,M,1.70,65,07-10-90,Agrinio,None,Panetolikos,2013,Greek
+12,12,Wilfried Dalmat,FRA,M,1.76,76,17-07-82,Tours,Orduspor,Panetolikos,2013,Greek
+14,14,Giorgos Migas,GRE,M,1.85,78,07-04-94,Amfilochia,None,Panetolikos,2013,Greek
+15,15,Fernando Godoy,ARG,M,1.72,70,01-05-90,Capital Federal,Independiente,Panetolikos,2013,Greek
+17,17,Mauro Poy,ARG,F,1.76,73,02-07-81,Rosario,Levadiakos,Panetolikos,2013,Greek
+18,18,Júnior,BRA,M,1.75,72,24-09-76,Garanhuns,Ergotelis,Panetolikos,2013,Greek
+19,19,Stelios Sfakianakis,GRE,M,1.77,72,19-03-76,Hagen,Atromitos,Panetolikos,2013,Greek
+20,20,Nicolás Martínez,ARG,M,1.68,68,25-09-87,Viedma,San Martín (San Juan),Panetolikos,2013,Greek
+21,21,Manolis Stefanakos,GRE,G,2.00,94,17-08-89,Athens,Asteras Tripolis,Panetolikos,2013,Greek
+22,22,Rodrigo Galo,BRA,D,1.76,66,19-09-86,Rio Branco,Sporting Braga,Panetolikos,2013,Greek
+23,23,Giannis Takidis,GRE,G,1.86,80,17-04-81,Thessaloniki,Kallithea,Panetolikos,2013,Greek
+25,25,Mario Budimir,CRO,F,1.93,85,13-02-86,Sinj,APOEL,Panetolikos,2013,Greek
+27,27,Michalis Bakakis,GRE,D,1.77,65,18-03-91,Agrinio,Chania,Panetolikos,2013,Greek
+28,28,Stefanos Papoutsogiannopoulos,GRE,M,1.80,72,10-08-94,Rhodes,None,Panetolikos,2013,Greek
+29,29,Florent Hanin,FRA,D,1.77,72,04-02-90,Harfleur,Sporting Braga,Panetolikos,2013,Greek
+30,30,Filippos Darlas,GRE,D,1.82,76,23-10-83,Agrinio,Ergotelis,Panetolikos,2013,Greek
+31,31,Nikos Milios,GRE,F,1.80,74,01-08-95,,None,Panetolikos,2013,Greek
+38,38,André Bikey,CMR,D,1.82,80,08-01-85,Douala,Middlesbrough,Panetolikos,2013,Greek
+41,88,Milan Bojović,SRB,F,1.87,80,13-04-87,Lučani,Vojvodina,Panetolikos,2013,Greek
+1,1,Nikos Papadopoulos,GRE,G,1.90,80,11-04-90,Athens,Fortuna Düsseldorf,Panionios,2013,Greek
+2,2,Amiri Kurdi,GRE,M,1.79,70,11-09-91,Riyadh,None,Panionios,2013,Greek
+4,4,Vasilios Lampropoulos,GRE,D,1.85,78,31-03-90,Pyrgos,Ethnikos Asteras,Panionios,2013,Greek
+5,5,Anastasios Avlonitis,GRE,D,1.90,85,01-01-90,Chalcis,Kavala,Panionios,2013,Greek
+6,6,Alexandros Kouros,GRE,D,1.84,79,22-08-93,Politsani,None,Panionios,2013,Greek
+7,7,Dimitris Kolovos,GRE,M,1.82,77,27-04-93,Athens,Olympiakos,Panionios,2013,Greek
+8,8,Vasilis Bouzas,GRE,M,1.73,66,30-06-93,Athens,None,Panionios,2013,Greek
+9,9,Leonidas Kampantais,GRE,F,1.83,77,08-03-82,Athens,OFI,Panionios,2013,Greek
+11,11,Efthimis Koulouheris,GRE,D,1.80,73,10-03-81,Karditsa,Aris,Panionios,2013,Greek
+13,13,Christos Aravidis,GRE,M,1.78,75,13-03-87,Athens,Doxa Dramas,Panionios,2013,Greek
+20,20,Andreas Lasnik,AUT,M,1.83,74,09-11-83,Voitsberg,NAC Breda,Panionios,2013,Greek
+21,21,Kostas Stavrothanasopoulos,GRE,F,1.74,67,06-02-92,Agrinio,None,Panionios,2013,Greek
+22,22,Giannis Anestis,GRE,G,1.97,89,09-03-91,Chalkida,None,Panionios,2013,Greek
+23,23,Markos Dounis,GRE,F,1.74,70,09-05-92,Athens,None,Panionios,2013,Greek
+24,24,Manolis Zacharakis,GRE,D,1.79,75,10-08-92,Chania,OFI,Panionios,2013,Greek
+25,25,Xenofon Panos,GRE,D,1.74,66,25-08-89,Ioannina,Thrasivoulos,Panionios,2013,Greek
+27,27,Konstantinos Korkontzelos,GRE,M,,,12-12-92,,Doxa Dramas,Panionios,2013,Greek
+28,28,Mihalis Papadopoulos,GRE,F,1.80,73,30-05-93,,Kifisias,Panionios,2013,Greek
+29,29,Nikos Pantidos,GRE,D,1.85,78,19-04-91,Athens,Aris,Panionios,2013,Greek
+31,31,Nikos Giannakopoulos,GRE,G,1.92,80,19-02-93,Athens,Udinese,Panionios,2013,Greek
+33,33,Dimitris Toskas,GRE,D,1.88,80,13-03-91,Katerini,PAEEK,Panionios,2013,Greek
+34,34,Giorgos Kotsalas,GRE,D,,,04-01-95,,None,Panionios,2013,Greek
+41,50,Kostas Panagiotoudis,GRE,M,1.75,70,03-12-94,Thessaloniki,PAOK,Panionios,2013,Greek
+42,82,Pavlos Mitropoulos,GRE,M,1.82,80,04-04-90,Volos,Panetolikos,Panionios,2013,Greek
+43,99,Apostolis Giannou,GRE,F,1.85,79,25-01-90,Naoussa,PAOK,Panionios,2013,Greek
+1,1,Dimitris Koutsopoulos,GRE,G,1.80,72,20-04-78,Karditsa,Anagennisi Karditsa,Panthrakikos,2013,Greek
+2,2,Thanassis Papageorgiou,GRE,D,1.83,74,09-05-87,Larissa,Larisssa,Panthrakikos,2013,Greek
+3,3,Jordão Diogo,POR,M,1.85,82,11-11-85,Lisbon,Panachaiki,Panthrakikos,2013,Greek
+6,6,Konstantinos Triantafyllou,GRE,M,1.76,68,02-04-91,Serres,Panserraikos,Panthrakikos,2013,Greek
+7,7,Christos Tzanis,GRE,F,1.82,76,22-04-85,Parapotamos,PAS Giannina,Panthrakikos,2013,Greek
+10,10,José María Cases,ESP,F,1.72,65,23-11-86,Oriheula,Granada,Panthrakikos,2013,Greek
+11,11,Dimitris Hasomeris,GRE,F,1.84,74,23-06-89,Xanthi,Larissa,Panthrakikos,2013,Greek
+15,15,Pape MBow,SEN,D,1.90,74,22-05-88,Guédiawaye,Marseille,Panthrakikos,2013,Greek
+16,16,Dino Seremet,SVN,G,1.95,91,16-08-80,Ljubljana,Larissa,Panthrakikos,2013,Greek
+17,17,Sergio Molina,ESP,M,1.73,72,14-11-83,Málaga,Albacete,Panthrakikos,2013,Greek
+19,19,Konstantinos Zdravos-Rizos,GRE,M,1.72,63,16-08-93,,None,Panthrakikos,2013,Greek
+20,20,Deniz Baykara,TUR,M,1.72,65,13-03-84,Istanbul,Panetolikos,Panthrakikos,2013,Greek
+21,21,Giannis Christou,GRE,D,1.83,82,05-03-81,Agios Dimitrios,Trikala,Panthrakikos,2013,Greek
+22,22,Nikos Katharios,GRE,M,1.77,73,07-10-94,Thessaloniki,Agrotikos Asteras,Panthrakikos,2013,Greek
+23,23,Romeu,BRA,M,1.79,74,13-02-85,Jaboticabal,Levadiakos,Panthrakikos,2013,Greek
+24,24,Alexandros Paschalakis,GRE,G,1.93,90,28-07-89,Athens,PAEEK,Panthrakikos,2013,Greek
+25,25,Asael Ben Shabat,ISR,D,1.75,75,09-05-88,Tel Aviv,Hapoel Nir Ramat HaSharon,Panthrakikos,2013,Greek
+30,30,Giorgos Athanasiadis,GRE,G,1.91,85,07-04-93,Thessaloniki,Ethnikos Sochou,Panthrakikos,2013,Greek
+32,32,Dionysios Makridimitris,GRE,D,1.81,76,26-01-85,Rhodes,Kerkyra,Panthrakikos,2013,Greek
+33,33,Ahilleas Sarakatsanos,GRE,D,1.81,75,03-11-82,Trikalas,Trikala,Panthrakikos,2013,Greek
+41,55,Mahmut Seydan,GRE,M,1.74,64,04-09-93,,None,Panthrakikos,2013,Greek
+42,84,Antonis Ladakis,GRE,M,1.78,74,25-01-82,Kavala,Asteras Tripolis,Panthrakikos,2013,Greek
+43,99,Igor,BRA,F,1.90,84,12-02-80,Maceió,Salamanca,Panthrakikos,2013,Greek
+1,1,Jacobo,ESP,G,1.93,82,10-07-83,Valladolid,Asteras Tripolis,PAOK,2013,Greek
+2,2,Giannis Skondras,GRE,D,1.82,75,21-02-90,Trikala,Atromitos,PAOK,2013,Greek
+3,3,Giorgos Tzavelas,GRE,D,1.83,81,26-11-87,Athens,Monaco,PAOK,2013,Greek
+4,4,Giorgos Katsikas,GRE,D,1.87,84,14-06-90,Thessaloniki,Iraklis,PAOK,2013,Greek
+7,7,Georgios Georgiadis,GRE,F,1.78,63,14-11-87,Mitroussi Serron,Panserraikos,PAOK,2013,Greek
+8,8,Hedwiges Maduro,NED,M,1.85,79,13-02-85,Almere,Sevilla,PAOK,2013,Greek
+9,9,Zvonimir Vukić,SRB,M,1.82,75,19-07-79,Zrenjanin,Partizan Belgrade,PAOK,2013,Greek
+10,10,Lucas,ESP,M,1.80,78,10-09-88,La Coruña,Karpaty Lviv,PAOK,2013,Greek
+11,11,Miroslav Stoch,SVK,M,1.68,64,19-10-89,Nitra,Fenerbahçe,PAOK,2013,Greek
+14,14,Dimitris Salpigidis,GRE,F,1.72,74,18-08-81,Thessaloniki,Panathinaikos,PAOK,2013,Greek
+15,15,Miguel Vítor,POR,D,1.83,80,30-06-89,Torres Vedras,Benfica,PAOK,2013,Greek
+16,16,Lino,POR,D,1.85,76,01-06-77,São Paulo,FC Porto,PAOK,2013,Greek
+18,18,Efthimios Koulouris,GRE,F,1.84,81,06-03-96,Skydra,None,PAOK,2013,Greek
+20,20,Danny Hoesen,NED,F,1.86,75,15-01-91,Kerkrade,Ajax,PAOK,2013,Greek
+21,21,Nikos Spiropoulos,GRE,D,1.72,69,10-10-83,Giannina,Chievo Verona,PAOK,2013,Greek
+23,23,Panagiotis Deligiannidis,GRE,F,1.77,72,29-08-96,Thessaloniki,None,PAOK,2013,Greek
+25,25,Costin Lazăr,ROU,M,1.79,67,24-04-81,Bucharest,Rapid Bucureşti,PAOK,2013,Greek
+26,26,Ergys Kace,ALB,M,1.61,60,08-07-93,Korça,None,PAOK,2013,Greek
+28,28,Kostas Katsouranis,GRE,M,1.83,84,21-06-79,Patra,Panathinaikos,PAOK,2013,Greek
+29,29,Juan Insaurralde,ARG,D,1.88,85,03-10-84,Resistencia,Spartak Moscow,PAOK,2013,Greek
+33,33,Stefanos Athanasiadis,GRE,F,1.85,72,24-12-88,Lakkoma,None,PAOK,2013,Greek
+37,37,Kristi Qose,ALB,M,1.87,79,10-06-95,Korçë,None,PAOK,2013,Greek
+40,40,Maarten Martens,BEL,M,1.76,59,02-07-84,Eeklo,AZ Alkmaar,PAOK,2013,Greek
+41,50,Asterios Giakoumis,GRE,G,1.82,71,03-05-88,Kymina,Agrotikos Asteras,PAOK,2013,Greek
+42,51,Rafail Soilemezoglou,GRE,G,1.77,75,13-03-96,Frankfurt am Main,None,PAOK,2013,Greek
+43,66,Bibras Natkho,ISR,M,1.75,73,18-02-88,Kfar Kama,Rubin Kazan,PAOK,2013,Greek
+44,70,Stelios Kitsiou,GRE,M,1.76,75,28-09-93,Thessaloniki,None,PAOK,2013,Greek
+45,71,Panagiotis Glykos,GRE,G,1.84,77,10-10-86,Volos,Olympiakos Volos,PAOK,2013,Greek
+46,77,Sotiris Ninis,GRE,M,1.73,69,03-04-90,Himara,Parma,PAOK,2013,Greek
+47,81,Michael Gspurning,AUT,G,1.96,84,02-05-81,Graz,Seattle Sounders,PAOK,2013,Greek
+48,88,Kyriakos Savvidis,GRE,M,1.81,75,20-06-95,Thessaloniki,None,PAOK,2013,Greek
+49,96,Stelios Pozoglou,GRE,M,1.74,66,22-01-96,Thessaloniki,None,PAOK,2013,Greek
+50,99,Sekou Oliseh,LBR,M,1.87,70,05-06-90,Monrovia,CSKA Moscow,PAOK,2013,Greek
+1,1,Markos Vellidis,GRE,G,1.84,77,04-04-87,Kastoria,Aris,PAS Giannina,2013,Greek
+2,2,Georgios Dasios,GRE,D,1.75,73,12-05-83,Giannina,None,PAS Giannina,2013,Greek
+3,3,Andi Lila,ALB,D,1.84,79,12-02-86,Kavajë,KF Tirana,PAS Giannina,2013,Greek
+4,4,Theodoros Berios,GRE,D,1.91,85,21-03-89,Athens,Zenit Čáslav,PAS Giannina,2013,Greek
+5,5,Leandro,BRA,M,1.82,80,24-01-94,São Paulo,Olympiakos,PAS Giannina,2013,Greek
+6,6,Alexis Michail,GRE,D,1.83,79,18-08-86,Giannina,None,PAS Giannina,2013,Greek
+7,7,Evripidis Giakos,GRE,F,1.81,75,09-04-91,Giannina,None,PAS Giannina,2013,Greek
+8,8,Themistoklis Tzimopoulos,NZL,M,1.88,82,20-11-85,Kozani,Ethnikos Asteras,PAS Giannina,2013,Greek
+9,9,Brana Ilić,SRB,F,1.73,77,16-02-85,Zemun,Aktobe,PAS Giannina,2013,Greek
+10,10,Cristian Chávez,ARG,F,1.71,70,04-06-87,Lomas de Zamora,Napoli,PAS Giannina,2013,Greek
+11,11,Emiljano Vila,ALB,M,1.85,72,12-03-88,Durrës,Dinamo Zagreb,PAS Giannina,2013,Greek
+12,12,Leonidas Kyvelidis,GRE,F,1.81,81,08-02-86,Zabul,Kerkyra,PAS Giannina,2013,Greek
+14,14,Giannis Nakos,GRE,F,1.83,72,23-02-93,,None,PAS Giannina,2013,Greek
+15,15,Charis Charisis,GRE,M,1.77,68,12-01-95,Ioannina,None,PAS Giannina,2013,Greek
+17,17,Arben Muskaj,ALB,D,1.76,65,27-06-94,Giannina,None,PAS Giannina,2013,Greek
+18,18,Michalis Avgenikou,GRE,M,1.81,75,25-01-93,Pastida,Diagoras,PAS Giannina,2013,Greek
+21,21,Stavros Tsoukalas,GRE,M,1.85,75,23-05-88,Thessaloniki,PAOK,PAS Giannina,2013,Greek
+22,22,Noé Acosta,ESP,M,1.77,74,10-12-83,Madrid,Olympiakos Volos,PAS Giannina,2013,Greek
+23,23,Andra Struna,SVN,D,1.85,72,23-04-89,Piran,Cracovia Kraków,PAS Giannina,2013,Greek
+25,25,Anastasios Kritikos,GRE,F,1.77,72,25-01-95,Larissa,Larissa,PAS Giannina,2013,Greek
+26,26,Dimitris Kolovetsios,GRE,D,1.84,74,16-10-91,Larissa,Larissa,PAS Giannina,2013,Greek
+33,33,Nikos Korovesis,GRE,D,1.76,70,10-08-91,Chalkida,Apollon Smyrni,PAS Giannina,2013,Greek
+40,40,Giorgios Abaris,GRE,G,1.86,74,23-04-82,Naousa,Universitatea Cluj,PAS Giannina,2013,Greek
+41,44,Apostolos Skondras,GRE,D,1.84,80,29-12-88,Athens,Larissa,PAS Giannina,2013,Greek
+42,49,Giannis Ioannou,GRE,M,1.67,65,27-05-94,Giannina,None,PAS Giannina,2013,Greek
+43,77,Dimitris Sotiriou,GRE,G,1.85,79,13-09-87,Athens,Ermis Aradippou,PAS Giannina,2013,Greek
+44,91,Aurelian Chiţu,ROU,F,1.83,80,25-03-91,Ţăndărei,Valenciennes,PAS Giannina,2013,Greek
+45,96,Konstantinos Kaberis,GRE,M,1.80,76,10-07-96,Larissa,Larissa,PAS Giannina,2013,Greek
+46,99,Franck Songo'o,CMR,M,1.78,73,14-05-87,Yaoundé,Glyfada,PAS Giannina,2013,Greek
+2,2,Cerra,ESP,D,1.77,68,04-08-83,Valencia,Córdoba,Platanias,2013,Greek
+3,3,Vasco Fernandes,POR,D,1.80,70,13-11-86,Olhão,Olhanense,Platanias,2013,Greek
+5,5,Alkis Dimitris,GRE,D,1.83,79,23-07-80,Sarandë,Fokikos,Platanias,2013,Greek
+6,6,Manolis Siopis,GRE,M,1.71,65,14-05-94,Alexandroupoli,Olympiakos,Platanias,2013,Greek
+7,7,Kostas Mendrinos,GRE,M,1.77,74,28-05-85,Athens,Panionios,Platanias,2013,Greek
+8,8,Nikola Beljić,SRB,M,1.72,71,14-05-83,Lazarevac,Atromitos,Platanias,2013,Greek
+9,9,David Torres,ESP,F,1.83,76,16-06-86,Alicante,Alcoyano,Platanias,2013,Greek
+10,10,Thomas Nazlidis,GRE,M,1.85,85,23-10-87,Thessaloniki,Kavala,Platanias,2013,Greek
+11,11,Aleksandar Katai,SRB,F,1.77,70,06-02-91,Novi Sad,Olympiakos,Platanias,2013,Greek
+13,13,Antonis Dentakis,GRE,D,1.79,72,13-03-95,Chania,None,Platanias,2013,Greek
+14,14,Juan Aguilera,ESP,M,1.85,76,13-09-85,Madrid,Murcia,Platanias,2013,Greek
+16,16,Rafail Soukias,GRE,M,1.82,75,09-03-94,,Veria,Platanias,2013,Greek
+17,17,Panagiotis Vlachodimos,GRE,F,1.84,74,12-10-91,Stuttgart,Olympiakos,Platanias,2013,Greek
+18,18,Kostas Kasnaferis,GRE,F,1.77,78,22-06-87,Arta,Lokomotiv Plovdiv,Platanias,2013,Greek
+19,19,Nikiforos Tsontakis,GRE,M,1.78,75,12-04-94,Chania,None,Platanias,2013,Greek
+20,20,Fanouris Goundoulakis,GRE,M,1.80,80,13-07-83,Loutraki,Panionios,Platanias,2013,Greek
+21,21,Dimitris Sialmas,GRE,F,1.71,66,19-06-86,Athens,Khazar Lankaran,Platanias,2013,Greek
+22,22,Samuel Inkoom,GHA,D,1.79,75,22-08-89,Sekondi-Takoradi,Dnipro Dnipropetrovsk,Platanias,2013,Greek
+25,25,Anther Yahia,ALG,D,1.85,79,21-03-82,Mulhouse,Espérance,Platanias,2013,Greek
+27,27,Vasco Faísca,POR,D,1.84,80,27-08-80,Lisbon,Ascoli,Platanias,2013,Greek
+30,30,Giannis Zaradoukas,GRE,D,1.71,66,12-12-85,Athens,Asteras Tripolis,Platanias,2013,Greek
+31,31,Aggelos Zoumpoulakis,GRE,D,1.77,69,23-05-89,Spetses,Kerkyra,Platanias,2013,Greek
+33,33,Antonis Georgallides,CYP,G,1.92,80,30-01-82,Larnaca,Alki Larnaca,Platanias,2013,Greek
+41,41,Antonis Kokkalas,GRE,G,1.84,80,16-02-92,Chania,Aris Soudas,Platanias,2013,Greek
+42,55,Abdul Aziz Tetteh,GHA,M,1.88,76,25-05-90,Dansoman,Fokikos,Platanias,2013,Greek
+43,91,Kostas Peristeridis,GRE,G,1.95,85,05-07-91,Chania,Panionios,Platanias,2013,Greek
+1,1,Chema,ESP,G,1.87,85,25-04-80,Orihuela,Xerez,Skoda Xanthi,2013,Greek
+3,3,Paíto,MOZ,D,1.70,70,05-07-82,Maputo,FC Vaslui,Skoda Xanthi,2013,Greek
+4,4,Manolis Mpertos,GRE,D,1.80,64,13-05-89,Xanthi,None,Skoda Xanthi,2013,Greek
+5,5,Dimos Baxevanidis,GRE,M,1.75,69,14-04-88,Komotini,None,Skoda Xanthi,2013,Greek
+6,6,Julian de Guzmán,CAN,M,1.69,68,25-03-81,Toronto,Jahn Regensburg,Skoda Xanthi,2013,Greek
+7,7,Panagiotis Triadis,GRE,F,1.78,72,09-09-92,Herdecke,Wehen-Wiesbaden,Skoda Xanthi,2013,Greek
+9,9,Karim Soltani,FRA,F,1.80,71,29-08-84,Brest,ES Sétif,Skoda Xanthi,2013,Greek
+10,10,Carlos Calvo,ESP,M,1.75,71,18-09-85,Madrid,Almería,Skoda Xanthi,2013,Greek
+11,11,Christos Paschalakis,GRE,F,1.82,79,01-02-95,Xanthi,None,Skoda Xanthi,2013,Greek
+14,14,Kostas Tsamouris,GRE,D,1.85,79,14-11-94,Kavala,None,Skoda Xanthi,2013,Greek
+15,15,Kimon Papadiotis,GRE,D,1.82,73,22-02-94,Athens,Fostiras,Skoda Xanthi,2013,Greek
+16,16,Theodoros Vassilakakis,GRE,M,1.85,68,20-07-88,Thessaloniki,Veria,Skoda Xanthi,2013,Greek
+17,17,Josemi,ESP,D,1.82,82,15-11-79,Torremolinos,Levadiakos,Skoda Xanthi,2013,Greek
+19,19,Argyris Baretas,GRE,M,1.80,64,06-05-94,Kavala,None,Skoda Xanthi,2013,Greek
+20,20,Petros Mandalos,GRE,M,1.73,75,31-08-91,Komotini,None,Skoda Xanthi,2013,Greek
+21,21,Costas Fliskas,GRE,M,1.81,71,29-12-80,Karditsa,Anagennisi Karditsas,Skoda Xanthi,2013,Greek
+23,23,Dimitris Komesidis,GRE,D,1.86,76,02-02-88,Alexandroupoli,Panetolikos,Skoda Xanthi,2013,Greek
+25,25,Spiros Vallas,GRE,D,1.88,77,26-08-81,Elassona,Olympiakos,Skoda Xanthi,2013,Greek
+26,26,Thanassis Garavelis,GRE,G,1.90,83,06-08-92,Kozani,Kozani,Skoda Xanthi,2013,Greek
+27,27,Stelios Nakas,GRE,F,1.77,70,27-01-94,Volos,None,Skoda Xanthi,2013,Greek
+28,28,Dimitris Goutas,GRE,D,1.89,78,04-04-94,Kavala,None,Skoda Xanthi,2013,Greek
+29,29,Esteban Solari,ARG,F,1.88,84,02-06-80,Rosario,Apollon Limassol,Skoda Xanthi,2013,Greek
+33,33,Iason Papadimitriou,GRE,F,1.85,72,20-03-94,Volos,None,Skoda Xanthi,2013,Greek
+39,39,Nicolas Marin,FRA,M,1.72,70,29-08-80,Marseille,Dubai Club,Skoda Xanthi,2013,Greek
+41,77,Serge Dié,CIV,M,1.72,67,04-10-77,Abidjan,Kavala,Skoda Xanthi,2013,Greek
+42,79,Rubén,ESP,M,1.67,67,19-02-79,Gijón,Almería,Skoda Xanthi,2013,Greek
+43,82,Dimitris Kyriakidis,GRE,G,1.84,78,24-06-86,Kavala,Levadiakos,Skoda Xanthi,2013,Greek
+44,91,Michalis Zaropoulos,GRE,G,1.84,75,12-07-91,Trikala,None,Skoda Xanthi,2013,Greek
+45,94,Aristotelis Kollaras,GRE,D,1.80,70,31-12-95,Kavala,None,Skoda Xanthi,2013,Greek
+46,99,Antonis Ranos,GRE,F,1.87,78,15-06-93,Xanthi,None,Skoda Xanthi,2013,Greek
+1,1,Giorgos Kantimiris,GRE,G,1.87,77,19-09-82,Rhodes,Fokikos,Veria,2013,Greek
+4,4,Nikos Tzimogiannis,GRE,D,1.86,81,17-11-87,Veria,Neon Epivaton,Veria,2013,Greek
+5,5,Guille,ESP,M,1.70,72,11-01-87,Murcia,Sporting Gijón B,Veria,2013,Greek
+6,6,Konstantinos Barbas,GRE,D,1.84,78,22-04-83,Nea Efkarpia,Agrotikos Esteras,Veria,2013,Greek
+7,7,Nikos Kaltsas,GRE,M,1.71,69,03-05-90,Veria,AEK,Veria,2013,Greek
+8,8,Branko Ostojić,BIH,M,1.86,80,03-01-84,Gorade,Javor Ivanjica,Veria,2013,Greek
+10,10,Pavel Komolov,RUS,M,1.75,67,10-03-89,St. Petersburg,algiris Vilnius,Veria,2013,Greek
+11,11,Kenan Bargan,GRE,F,1.79,75,25-10-88,Kavala,Odysseas Anagennisi,Veria,2013,Greek
+15,15,Stefanos Siontis,GRE,D,1.79,73,04-09-87,Ioannina,Doxa Katokopia,Veria,2013,Greek
+16,16,Petr Trapp,CZE,M,1.85,79,06-12-85,Most,Viktoria Plzeň,Veria,2013,Greek
+17,17,Stefanos Dogos,GRE,F,,,05-05-94,,None,Veria,2013,Greek
+20,20,Dimitris Melikiotis,GRE,F,1.84,75,10-07-96,Veria,None,Veria,2013,Greek
+21,21,Alexandros Vergonis,GRE,M,1.88,80,01-12-85,Veria,Rodos,Veria,2013,Greek
+23,23,Dimitris Amarantidis,GRE,D,1.74,71,27-07-86,Kozani,Anagennisi Karditsa,Veria,2013,Greek
+24,24,Esmael Gonçalves,GNB,F,1.84,73,25-06-91,Bissau,Rio Ave,Veria,2013,Greek
+25,25,Alexandros Apostolopoulos,GRE,D,1.80,75,07-11-91,Thessaloniki,PAOK,Veria,2013,Greek
+30,30,Dimitris Kottaridis,GRE,G,1.91,77,29-05-81,Kozani,Kozani,Veria,2013,Greek
+32,32,Charalambos Pavlidis,GRE,M,1.79,74,06-05-91,Veria,None,Veria,2013,Greek
+33,33,Dimitris Manos,GRE,F,1.79,79,16-09-94,Trikala,None,Veria,2013,Greek
+39,39,El Fardou Nabouhane,FRA,F,1.73,78,10-06-89,Passamainty,Vannes,Veria,2013,Greek
+41,55,Jonathan,ESP,G,1.82,83,16-04-81,Langreo,Burgos,Veria,2013,Greek
+42,74,Angelos Vertzos,GRE,D,1.75,74,27-05-83,Athens,Apollon Smyrnis,Veria,2013,Greek
+43,77,Nikos Georgiadis,GRE,M,1.82,74,23-03-83,Toronto,PAS Giannina,Veria,2013,Greek
+44,79,Nikos Anastasopoulos,GRE,G,1.91,80,05-08-79,Thessaloniki,Kerkyra,Veria,2013,Greek
+45,88,Mohamadou Sissoko,FRA,D,1.90,79,08-08-88,Paris,Udinese,Veria,2013,Greek
+46,90,Zézinho,GNB,M,1.76,73,23-09-92,Bissau,Sporting CP,Veria,2013,Greek

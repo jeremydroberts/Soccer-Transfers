@@ -1,0 +1,528 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Hugo González,MEX,G,1.83,84,01-08-90,San Luis Potosí,None,América,2015,Mexican
+2,2,Paolo Goltz,ARG,D,1.84,80,12-05-85,Hasenkamp,Lanús,América,2015,Mexican
+3,3,Gil Burón,MEX,D,1.66,68,11-06-94,Mexico City,None,América,2015,Mexican
+4,4,Erik Pimentel,MEX,D,1.77,74,15-05-90,Coacalco,None,América,2015,Mexican
+5,5,Javier Güemez,MEX,M,1.74,77,17-10-91,Culiacán,Tijuana,América,2015,Mexican
+6,6,Miguel Samudio,PAR,D,1.75,76,24-08-86,Capiatá,Libertad,América,2015,Mexican
+7,7,Adrián Marín,MEX,F,1.68,60,13-05-94,Monterrey,Chiapas,América,2015,Mexican
+8,8,Andrés Andrade,COL,M,1.77,73,23-02-89,Cali,Deportes Tolima,América,2015,Mexican
+9,9,Darío Benedetto,ARG,F,1.75,75,10-01-86,Berazategui,Tijuana,América,2015,Mexican
+10,10,Osvaldo Martínez,PAR,M,1.67,62,08-04-86,Luque,Atlante,América,2015,Mexican
+11,11,Michael Arroyo,ECU,M,1.67,63,23-04-87,Guayaquil,Atlante,América,2015,Mexican
+12,12,Pablo Aguilar,PAR,D,1.80,75,02-04-87,Luque,Tijuana,América,2015,Mexican
+13,13,Luis Pineda,MEX,G,1.86,81,28-12-92,Arcelia,None,América,2015,Mexican
+14,14,Rubens Sambueza,ARG,M,1.74,73,01-01-84,Mariano Moreno,Estudiantes Tecos,América,2015,Mexican
+15,15,Osmar Mares,MEX,D,1.69,64,17-06-87,Torreón,Santos Laguna,América,2015,Mexican
+16,16,Alfonso Sánchez,MEX,F,1.85,76,16-06-94,Aguascalientes,None,América,2015,Mexican
+17,17,Ventura Alvarado,USA,D,1.81,71,16-08-92,Phoenix,None,América,2015,Mexican
+18,18,Jonathan Sánchez,MEX,D,1.82,79,13-03-94,Ciudad Valles,None,América,2015,Mexican
+19,19,Martín Zúñiga,MEX,F,1.80,69,14-04-93,Tapachula,None,América,2015,Mexican
+21,21,José Guerrero,MEX,M,1.74,69,18-11-87,Guadalajara,Atlante,América,2015,Mexican
+22,22,Paul Aguilar,MEX,D,1.77,65,06-03-86,Concordia,Pachuca,América,2015,Mexican
+23,23,Moisés Muñoz,MEX,G,1.83,83,01-02-80,Morelia,Atlante,América,2015,Mexican
+24,24,Oribe Peralta,MEX,F,1.78,70,12-01-84,Torreón,Santos Laguna,América,2015,Mexican
+26,26,Francisco Rivera,MEX,M,1.69,60,23-09-94,San Luis Potosí,None,América,2015,Mexican
+31,31,Carlos Darwin Quintero,COL,F,1.66,64,18-09-87,Tumaco,Santos Laguna,América,2015,Mexican
+41,284,Bryan Colula,MEX,D,1.76,68,06-04-96,Xalapa,None,América,2015,Mexican
+42,286,Alejandro Díaz,MEX,F,1.70,66,27-01-96,Mexico City,None,América,2015,Mexican
+43,301,Víctor Rodríguez,MEX,M,1.63,62,14-04-95,El Mante,None,América,2015,Mexican
+44,302,Carlos Rosel,MEX,M,1.67,68,31-08-95,Mérida,None,América,2015,Mexican
+45,303,Daniel Vázquez,MEX,M,1.71,65,18-05-95,Mexico City,None,América,2015,Mexican
+1,1,Miguel Pinto,CHI,G,1.80,73,04-07-83,Santiago,Universidad de Chile,Atlas,2015,Mexican
+2,2,Iván Pineda,MEX,D,1.75,77,22-07-92,Ciudad Victoria,León,Atlas,2015,Mexican
+4,4,Greg Garza,USA,D,1.72,66,16-08-91,Grapevine,Tijuana,Atlas,2015,Mexican
+5,5,Walter Kannemann,ARG,D,1.83,77,14-03-91,Concepción del Uruguay,San Lorenzo,Atlas,2015,Mexican
+6,6,Juan Carlos Valenzuela,MEX,D,1.75,72,15-05-84,Guaymas,América,Atlas,2015,Mexican
+7,7,Juan de Díos Hernández,MEX,F,1.74,75,04-01-86,Mexico City,Tijuana,Atlas,2015,Mexican
+8,8,Daniel Álvarez,MEX,F,1.76,60,22-07-94,Guadalajara,None,Atlas,2015,Mexican
+9,9,Gonzalo Bergessio,ARG,F,1.78,72,20-07-84,Córdoba,Sampdoria,Atlas,2015,Mexican
+11,11,Faustino Arizala,COL,F,1.80,77,04-06-86,Magüi Payán,León,Atlas,2015,Mexican
+12,12,Rodolfo Vilchis,MEX,M,1.67,55,15-09-89,Zitácuaro,Querétaro,Atlas,2015,Mexican
+13,13,Jorge Zárate,MEX,M,1.68,60,20-01-92,San Luis Potosí,Morelia,Atlas,2015,Mexican
+14,14,Daniel Hernández,MEX,F,1.75,65,16-02-94,San Juan del Río,Atlanta,Atlas,2015,Mexican
+15,15,Arturo González,MEX,M,1.73,64,05-09-94,Reynosa,None,Atlas,2015,Mexican
+17,17,Rodolfo Salinas,MEX,M,1.76,69,29-08-87,Durango,Santos Laguna,Atlas,2015,Mexican
+18,18,Aldo Ramírez,COL,M,1.74,73,18-04-81,Santa Marta,Morelia,Atlas,2015,Mexican
+19,19,Eisner Iván Loboa,COL,M,1.72,70,17-05-87,Caloto,León,Atlas,2015,Mexican
+20,20,Luis Caballero,PAR,F,1.83,86,22-04-90,Asunción,Krylia Sovetov,Atlas,2015,Mexican
+22,22,Pablo Mascareñas,MEX,M,1.71,69,04-08-89,Ciudad Madero,Altamira,Atlas,2015,Mexican
+23,23,Felipe Baloy,PAN,D,1.84,84,24-02-81,Ciudad de Panamá,Morelia,Atlas,2015,Mexican
+24,24,Rodrigo Godínez,MEX,D,1.85,69,21-09-92,Zamora,Morelia,Atlas,2015,Mexican
+25,25,Luis Télles,MEX,M,1.69,68,09-03-92,León,Univ de Guadalajara,Atlas,2015,Mexican
+26,26,Juan Carlos Medina,MEX,M,1.70,66,22-08-83,Torreón,América,Atlas,2015,Mexican
+27,27,Juan Pablo Vigon,MEX,M,1.68,66,20-07-91,Guadalajara,None,Atlas,2015,Mexican
+28,28,Martín Barragán,MEX,F,1.79,75,14-07-91,Tizapán El Alto,None,Atlas,2015,Mexican
+29,29,Christian Tabó,URU,F,1.74,70,23-11-93,Montevideo,Racing Club [URU],Atlas,2015,Mexican
+30,30,Miguel Ángel Fraga,MEX,G,1.87,76,03-09-87,Morelia,Morelia,Atlas,2015,Mexican
+32,32,Álvaro González,URU,M,1.75,72,29-10-84,Montevideo,Lazio,Atlas,2015,Mexican
+35,35,José Alujas,MEX,G,1.80,74,09-04-92,Zapopan,None,Atlas,2015,Mexican
+41,83,Francisco León,MEX,D,1.68,68,12-03-92,Ensenada,None,Atlas,2015,Mexican
+42,87,Dagoberto Mejía,MEX,F,1.94,84,05-03-93,Guadalajara,Reynosa,Atlas,2015,Mexican
+43,90,Ángel Gaspar,MEX,F,1.62,57,24-04-94,Zacatepec,None,Atlas,2015,Mexican
+44,91,Luis Rodríguez,MEX,M,1.73,65,14-10-94,Guadalajara,None,Atlas,2015,Mexican
+45,100,Carlos Arreola,MEX,D,1.79,63,04-03-95,Tala,None,Atlas,2015,Mexican
+46,297,Bryan Garnica,MEX,F,1.60,51,27-05-96,Nezahualcóyotl,None,Atlas,2015,Mexican
+1,1,Jorge Villalpando,MEX,G,1.73,67,13-03-85,Mexico City,Puebla,Chiapas,2015,Mexican
+2,2,Javier Muñoz Mustafá,ARG,D,1.78,73,11-06-80,Firmat,San Luis,Chiapas,2015,Mexican
+3,3,William Paredes,MEX,D,1.66,63,09-09-85,Mérida,Puebla,Chiapas,2015,Mexican
+4,4,Luis Gerardo Venegas,MEX,D,1.85,81,21-06-84,San Luis Potosí,Atlas,Chiapas,2015,Mexican
+5,5,Diego de la Torre,MEX,D,1.79,72,05-02-84,San Luis Potosí,Querétaro,Chiapas,2015,Mexican
+6,6,Francisco Silva,CHI,M,1.78,75,11-02-86,Santiago,Osasuna,Chiapas,2015,Mexican
+7,7,Julio César Nava,MEX,M,1.70,58,19-12-89,Xalapa,Querétaro,Chiapas,2015,Mexican
+9,9,Mathías Vidangossy,CHI,F,1.72,60,25-05-87,Santiago,Palestino,Chiapas,2015,Mexican
+10,10,Silvio Romero,ARG,F,1.77,76,22-07-88,Córdoba,Lanús,Chiapas,2015,Mexican
+11,11,Jehu Chiapas,MEX,M,1.74,70,03-10-85,Martínez de la Torre,Veracruz,Chiapas,2015,Mexican
+12,12,César Lozano,MEX,G,1.79,78,31-05-77,Mexico City,Toluca,Chiapas,2015,Mexican
+14,14,Luis Loroña,MEX,F,1.82,75,21-06-93,Caborca,Querétaro,Chiapas,2015,Mexican
+15,15,Pedro Vargas,MEX,M,1.66,60,20-11-91,Matamoros,Altamira,Chiapas,2015,Mexican
+16,16,Dario Carreño,MEX,F,1.88,78,13-01-88,Monterrey,UANL Tigres,Chiapas,2015,Mexican
+18,18,Avilés Hurtado,COL,M,1.72,65,20-04-87,Timbiquí,Pachuca,Chiapas,2015,Mexican
+19,19,Daniel González,MEX,F,1.72,70,08-11-92,Torreón,Toluca,Chiapas,2015,Mexican
+20,20,Félix Araujo,MEX,D,1.87,82,10-02-83,Guadalajara,Univ de Guadalajara,Chiapas,2015,Mexican
+21,21,Óscar Jiménez,MEX,G,1.82,80,12-10-88,Chihuahua,Lobos de la BUAP,Chiapas,2015,Mexican
+23,23,Gabriel Farfan,USA,D,1.78,75,23-06-88,Wildomar,Chivas USA,Chiapas,2015,Mexican
+24,24,Luis Rodríguez,MEX,F,1.75,67,21-01-91,Monterrey,Monterrey,Chiapas,2015,Mexican
+29,29,Juan Insaurralde,ARG,D,1.88,85,03-10-84,Resistencia,Spartak Moscow,Chiapas,2015,Mexican
+35,35,Emiliano Armenteros,ARG,M,1.79,77,18-01-86,Luis Guillón,Osasuna,Chiapas,2015,Mexican
+41,83,David Andrade,MEX,M,1.70,58,09-07-93,Manzanillo,None,Chiapas,2015,Mexican
+42,89,Reynaldo Díaz,MEX,D,1.82,64,19-08-91,Mazatlán,None,Chiapas,2015,Mexican
+43,90,Alejandro Durán,MEX,F,1.80,65,01-01-93,Tuxtla Gutiérrez,None,Chiapas,2015,Mexican
+44,91,Edwin Sandez,MEX,D,1.82,73,07-06-94,Los Cabos,None,Chiapas,2015,Mexican
+45,92,Carlos López,MEX,M,1.85,80,19-02-96,Navolato,None,Chiapas,2015,Mexican
+46,97,Jonathan Levin,MEX,M,1.78,78,06-05-93,Álvaro Obregón,Puebla,Chiapas,2015,Mexican
+47,299,Daniel Jiménez,MEX,M,1.69,66,18-03-96,La Barca,None,Chiapas,2015,Mexican
+48,300,Ricardo Cruz,MEX,F,1.74,70,30-08-97,Manzanillo,None,Chiapas,2015,Mexican
+1,1,Jesús Corona,MEX,G,1.81,82,26-01-81,Guadalajara,UAG Tecos,Cruz Azul,2015,Mexican
+2,2,Fausto Pinto,MEX,D,1.67,53,08-08-83,Culiacán,Pachuca,Cruz Azul,2015,Mexican
+3,3,Francisco Rodríguez,MEX,D,1.91,79,20-10-81,Mazatlán,América,Cruz Azul,2015,Mexican
+4,4,Julio Domínguez,MEX,D,1.75,70,08-11-87,Arriaga,None,Cruz Azul,2015,Mexican
+5,5,Fábio Santos,BRA,D,1.79,75,16-09-85,São Paulo,Corinthians,Cruz Azul,2015,Mexican
+6,6,Gerardo Torrado,MEX,M,1.73,72,30-04-79,Mexico City,Racing Santander,Cruz Azul,2015,Mexican
+7,7,Lucas Silva,BRA,M,1.87,82,26-08-84,Miguel Calmon,Monterrey,Cruz Azul,2015,Mexican
+8,8,Marc Crosas,ESP,M,1.72,69,09-01-88,Sant Feliu de Guíxols,Santos Laguna,Cruz Azul,2015,Mexican
+10,10,Christian Giménez,ARG,F,1.79,70,02-01-81,Resistencia,Pachuca,Cruz Azul,2015,Mexican
+11,11,Joao Rojas,ECU,F,1.73,65,14-06-89,El Triunfo,Morelia,Cruz Azul,2015,Mexican
+12,12,Guillermo Allison,MEX,G,1.91,90,25-09-90,Tuxtla Gutiérrez,None,Cruz Azul,2015,Mexican
+15,15,Gerardo Flores,MEX,D,1.80,75,05-02-86,Xochitepec,Atlas,Cruz Azul,2015,Mexican
+16,16,Rogelio Chávez,MEX,D,1.72,68,24-10-84,Tula de Allende,None,Cruz Azul,2015,Mexican
+17,17,Emanuel Loeschbor,ARG,D,1.80,75,16-10-86,Córdoba,Morelia,Cruz Azul,2015,Mexican
+18,18,Ariel Rojas,ARG,M,1.76,70,16-01-86,Garín,River Plate,Cruz Azul,2015,Mexican
+19,19,Jerónimo Amione,MEX,F,1.75,76,31-03-90,Mexico City,Atlante,Cruz Azul,2015,Mexican
+20,20,Antonio Pedroza,ENG,F,1.70,67,20-02-91,Chester,Crystal Palace,Cruz Azul,2015,Mexican
+21,21,Xavier Baez,MEX,M,1.70,63,22-07-87,Reynosa,Toluca,Cruz Azul,2015,Mexican
+22,22,Rafael Baca,MEX,M,1.73,73,11-09-89,Tuxpan,San Jose Earthquakes,Cruz Azul,2015,Mexican
+23,23,Richard Ruiz,MEX,M,1.75,65,14-01-86,Jiquipilas,Tijuana,Cruz Azul,2015,Mexican
+25,25,Fernando Belluschi,ARG,M,1.71,68,10-09-83,Los Quirquinchos,Bursaspor,Cruz Azul,2015,Mexican
+27,27,Jorge Benítez,PAR,F,1.82,80,02-09-92,Asunción,Olympiakos,Cruz Azul,2015,Mexican
+28,28,Omar Mendoza,MEX,D,1.73,71,28-10-88,Mexico City,None,Cruz Azul,2015,Mexican
+30,30,Matías Vuoso,MEX,F,1.75,79,03-11-81,Mar del Plata,Atlas,Cruz Azul,2015,Mexican
+33,33,Federico Carrizo,ARG,M,1.74,70,17-05-91,Villa Giardino,Boca Juniors,Cruz Azul,2015,Mexican
+41,136,Juan Carlos García,MEX,D,1.81,76,10-11-94,Tepic,None,Cruz Azul,2015,Mexican
+42,298,Víctor Zúñiga,MEX,M,1.68,57,21-03-96,Nezahualycóyotl,None,Cruz Azul,2015,Mexican
+1,1,Luis Michel,MEX,G,1.83,75,21-07-79,Guadalajara,Guadalajara,Dorados de Sinaloa,2015,Mexican
+2,2,Néstor Vidrio,MEX,D,1.78,65,22-03-89,Guadalajara,Guadalajara,Dorados de Sinaloa,2015,Mexican
+3,3,Jonathan Lacerda,URU,D,1.90,84,07-02-87,Rivera,Santos Laguna,Dorados de Sinaloa,2015,Mexican
+4,4,Jesús Chávez,MEX,D,1.84,78,26-04-86,Torreón,Tijuana,Dorados de Sinaloa,2015,Mexican
+5,5,Joshua Ábrego,MEX,D,1.77,73,15-11-86,San Juan Evangelista,Tijuana,Dorados de Sinaloa,2015,Mexican
+7,7,Christian Suárez,ECU,F,1.75,74,02-11-85,Guayaquil,Pachuca,Dorados de Sinaloa,2015,Mexican
+8,8,Fernando Arce,MEX,M,1.73,66,24-04-80,Tijuana,Guadalajara,Dorados de Sinaloa,2015,Mexican
+9,9,Héctor Mancilla,CHI,F,1.79,75,12-11-80,Santiago,Morelia,Dorados de Sinaloa,2015,Mexican
+10,10,Martín Bravo,ARG,F,1.65,65,19-09-86,Santa Fé,León,Dorados de Sinaloa,2015,Mexican
+11,11,Marcos Caicedo,ECU,F,1.75,74,10-11-91,Guayaquil,León,Dorados de Sinaloa,2015,Mexican
+12,12,Alfredo Fausto,MEX,G,1.89,80,12-01-83,León,Chiapas,Dorados de Sinaloa,2015,Mexican
+13,13,Javier Salas,MEX,M,1.77,65,20-08-93,Culiacán,None,Dorados de Sinaloa,2015,Mexican
+14,14,Segundo Castillo,ECU,M,1.78,77,15-05-82,San Lorenzo [ECU],Al-Hilal [KSA],Dorados de Sinaloa,2015,Mexican
+15,15,Raúl Enríquez,MEX,F,1.73,73,20-05-85,Armeria,Tijuana,Dorados de Sinaloa,2015,Mexican
+16,16,Adolfo Domínguez,MEX,M,1.70,70,10-02-91,Mexicali,Tijuana,Dorados de Sinaloa,2015,Mexican
+17,17,Diego Mejía,MEX,M,1.77,69,12-10-84,Querétaro,Morelia,Dorados de Sinaloa,2015,Mexican
+18,18,Daniel Arreola,MEX,D,1.81,72,08-10-85,Cancún,Morelia,Dorados de Sinaloa,2015,Mexican
+19,19,Guillermo Rojas,MEX,D,1.65,60,29-03-83,San Luis Potosí,Querétaro,Dorados de Sinaloa,2015,Mexican
+20,20,Roberto Nurse,PAN,F,1.84,79,16-12-83,Mexico City,Correcaminos,Dorados de Sinaloa,2015,Mexican
+21,21,Héctor Velázquez,MEX,M,1.66,65,30-04-89,Badiraguato,None,Dorados de Sinaloa,2015,Mexican
+23,23,David Stringel,MEX,D,1.75,70,26-03-86,Mexico City,Monterrey,Dorados de Sinaloa,2015,Mexican
+25,25,Jesús García,MEX,G,1.90,82,14-03-88,Culiacán,None,Dorados de Sinaloa,2015,Mexican
+26,26,Mauricio Romero,ARG,D,1.84,84,13-01-83,La Pampa,Puebla,Dorados de Sinaloa,2015,Mexican
+27,27,Christian López,MEX,F,1.68,63,18-02-92,Elota,None,Dorados de Sinaloa,2015,Mexican
+28,28,Carlos Pinto,MEX,D,1.67,60,07-08-85,Culiacán,Delfines del Carmen,Dorados de Sinaloa,2015,Mexican
+30,30,Walter Ayoví,ECU,M,1.72,68,11-08-79,Camarones,Pachuca,Dorados de Sinaloa,2015,Mexican
+33,33,Giovani Hernández,MEX,M,1.72,72,04-01-93,Guadalajara,Guadalajara,Dorados de Sinaloa,2015,Mexican
+1,1,José Antonio Rodríguez,MEX,G,1.83,80,04-07-92,Guadalajara,None,Guadalajara,2015,Mexican
+2,2,Oswaldo Alanís,MEX,D,1.82,82,18-03-89,Morelia,Santos Laguna,Guadalajara,2015,Mexican
+3,3,Carlos Salcido,MEX,D,1.74,70,02-04-80,Ocotlán,UANL Tigres,Guadalajara,2015,Mexican
+4,4,Jair Pereira,MEX,D,1.84,78,07-07-86,Cuautla,Cruz Azul,Guadalajara,2015,Mexican
+5,5,Jorge Enríquez,MEX,M,1.87,70,08-01-91,Mexicali,None,Guadalajara,2015,Mexican
+6,6,Edwin Hernández,MEX,D,1.66,66,10-07-86,Pachuca,León,Guadalajara,2015,Mexican
+7,7,Carlos Fierro,MEX,F,1.75,64,24-07-94,Los Mochis,None,Guadalajara,2015,Mexican
+9,9,Omar Bravo,MEX,F,1.69,71,04-03-80,Los Mochis,Cruz Azul,Guadalajara,2015,Mexican
+10,10,Ángel Reyna,MEX,M,1.68,68,19-09-84,Mexico City,Veracruz,Guadalajara,2015,Mexican
+11,11,Isaác Brizuela,MEX,F,1.68,58,28-08-90,Lagos de Moreno,Toluca,Guadalajara,2015,Mexican
+13,13,Carlos Salcedo,MEX,D,1.85,77,29-09-93,Guadalajara,Real Salt Lake,Guadalajara,2015,Mexican
+14,14,Hedgardo Marín,MEX,D,1.83,75,21-02-93,Guadalajara,None,Guadalajara,2015,Mexican
+15,15,Raúl López,MEX,D,1.84,72,23-02-93,Zapopan,None,Guadalajara,2015,Mexican
+16,16,Miguel Ángel Ponce,MEX,D,1.75,77,12-04-89,Sacramento,None,Guadalajara,2015,Mexican
+17,17,Jesús Sánchez,MEX,M,1.69,67,31-08-89,San Luis Río Colorado,None,Guadalajara,2015,Mexican
+19,19,Ricardo Vázquez,MEX,F,1.83,74,15-05-90,Guadalajara,Lobos de la BUAP,Guadalajara,2015,Mexican
+20,20,Israel Castro,MEX,M,1.76,67,20-12-80,Mexico City,Cruz Azul,Guadalajara,2015,Mexican
+21,21,David Ramírez,MEX,M,1.68,64,14-12-95,León,None,Guadalajara,2015,Mexican
+23,23,Ángel Zaldívar,MEX,M,1.74,68,08-02-94,Guadalajara,None,Guadalajara,2015,Mexican
+24,24,Carlos Cisneros,MEX,F,1.77,66,30-08-93,Guadalajara,None,Guadalajara,2015,Mexican
+25,25,Michael Pérez,MEX,M,1.70,70,14-02-92,Zapopan,None,Guadalajara,2015,Mexican
+27,27,Carlos Villanueva,MEX,D,1.85,79,07-04-94,Uruapan,None,Guadalajara,2015,Mexican
+28,28,Juan Miguel Basulto,MEX,D,1.85,72,07-01-92,Ocotlán,None,Guadalajara,2015,Mexican
+30,30,Rodolfo Cota,MEX,G,1.82,72,03-07-87,Mazatlán,Pachuca,Guadalajara,2015,Mexican
+31,31,Javier López,MEX,M,1.64,63,17-09-94,Torreón,None,Guadalajara,2015,Mexican
+32,32,Giovani Casillas,MEX,M,1.76,62,01-04-94,Guadalajara,None,Guadalajara,2015,Mexican
+33,33,Marco Fabián,MEX,M,1.70,65,21-07-89,Guadalajara,Tapatio,Guadalajara,2015,Mexican
+2,2,Efraín Velarde,MEX,D,1.73,67,18-04-86,Mexico City,Monterrey,León,2015,Mexican
+3,3,Guillermo Burdisso,ARG,D,1.87,86,26-09-88,Altos de Chipión,Boca Juniors,León,2015,Mexican
+4,4,Cristian Torres,MEX,D,1.81,78,12-10-96,Guanajuato,None,León,2015,Mexican
+5,5,Fernando Navarro,MEX,D,1.68,64,18-04-89,Mexico City,Pachuca,León,2015,Mexican
+6,6,Diego Novaretti,ARG,D,1.93,85,09-05-85,La Palestina,Lazio,León,2015,Mexican
+7,7,Hernán Burbano,COL,M,1.69,64,05-03-88,Santander de Quilichao,UANL Tigres,León,2015,Mexican
+8,8,Elías Hernández,MEX,M,1.70,62,29-04-88,Morelia,UANL Tigres,León,2015,Mexican
+9,9,Miguel Sabah,MEX,F,1.75,72,14-11-79,Cancún,Guadalajara,León,2015,Mexican
+10,10,Luis Montes,MEX,M,1.65,62,15-05-86,Chihuahua,Pachuca,León,2015,Mexican
+11,11,Marco Bueno,MEX,F,1.70,64,31-03-94,Culiacán,Pachuca,León,2015,Mexican
+13,13,Leonel López,MEX,M,1.74,65,24-05-94,Zacoalco,None,León,2015,Mexican
+14,14,Miguel Ibarra,USA,M,1.73,65,15-03-90,New York,Minnesota U,León,2015,Mexican
+15,15,Simón Almeida,MEX,M,1.69,64,26-01-95,Alvarado,Pachuca,León,2015,Mexican
+16,16,Christian Martínez,MEX,G,1.80,77,16-10-79,Mexico City,Estudiantes Tecos,León,2015,Mexican
+17,17,Mauro Boselli,ARG,F,1.83,75,22-05-85,Capital Federal,Wigan Ath,León,2015,Mexican
+18,18,Gonzalo Ríos,ARG,F,1.82,75,30-01-92,Resistencia,Boca Unidos (Corrientes),León,2015,Mexican
+19,19,Jonny Magallón,MEX,D,1.78,74,21-11-81,Ocotlán,Guadalajara,León,2015,Mexican
+21,21,Ricardo López,MEX,D,1.74,65,17-02-94,Hermosillo,None,León,2015,Mexican
+23,23,José Vázquez,MEX,M,1.66,67,14-03-88,Celaya,Celaya,León,2015,Mexican
+25,25,William Yarbrough,MEX,G,1.90,80,20-03-89,Aguascalientes,Titanes de Tulancingo,León,2015,Mexican
+27,27,Carlos Alberto Peña,MEX,M,1.76,78,29-03-90,Ciudad Victoria,Pachuca,León,2015,Mexican
+28,28,César Ríos,MEX,G,1.90,83,01-12-83,Vista Hermosa,Correcaminos,León,2015,Mexican
+29,29,Aldo Rocha,MEX,M,1.65,62,06-11-92,León,None,León,2015,Mexican
+31,31,Jonathan González,ECU,M,1.72,69,03-07-95,Quinindé,Univ de Guadalajara,León,2015,Mexican
+33,33,Óscar Suárez,MEX,M,1.74,63,10-04-95,Guanajuato,None,León,2015,Mexican
+35,35,Juan Ignacio González,MEX,D,1.88,83,08-07-84,Guadalajara,Querétaro,León,2015,Mexican
+1,1,Jonathan Orozco,MEX,G,1.81,75,12-05-86,Monterrey,None,Monterrey,2015,Mexican
+2,2,Severo Meza,MEX,D,1.77,66,09-07-86,Naranjos,None,Monterrey,2015,Mexican
+3,3,Stefan Medina,COL,D,1.78,72,14-06-92,Envigado,Atlético Nacional,Monterrey,2015,Mexican
+4,4,Ricardo Osorio,MEX,D,1.73,68,30-03-80,Huajuapan De León,Stuttgart,Monterrey,2015,Mexican
+5,5,Walter Gargano,URU,M,1.68,65,23-07-84,Paysandù,Napoli,Monterrey,2015,Mexican
+6,6,Efrain Juárez,MEX,D,1.72,65,22-02-88,Mexico City,América,Monterrey,2015,Mexican
+7,7,Rogelio Funes Mori,ARG,F,1.85,74,03-05-91,Mendoza,Benfica,Monterrey,2015,Mexican
+8,8,Dorlan Pabón,COL,F,1.68,68,24-01-88,Bogotá,Valencia,Monterrey,2015,Mexican
+9,9,Aldo De Nigris,MEX,F,1.83,79,22-07-83,Monterrey,Guadalajara,Monterrey,2015,Mexican
+10,10,Edwin Cardona,COL,M,1.86,81,08-12-92,Medellín,Atlético Nacional,Monterrey,2015,Mexican
+11,11,Pablo Barrera,MEX,M,1.75,65,21-06-87,Tlalnepantla de Baz,Cruz Azul,Monterrey,2015,Mexican
+14,14,Bernardo Hernández,MEX,D,1.72,63,10-06-93,Cadereyta Jiménez,None,Monterrey,2015,Mexican
+15,15,Edgar Castillo,USA,D,1.75,56,10-08-86,Las Cruces,Atlas,Monterrey,2015,Mexican
+16,16,Cándido Ramírez,MEX,M,1.69,68,05-06-93,León,Santos Laguna,Monterrey,2015,Mexican
+17,17,Jesús Eduardo Zavala,MEX,M,1.89,85,21-07-87,Monterrey,None,Monterrey,2015,Mexican
+18,18,Neri Cardozo,ARG,M,1.71,64,08-08-86,Godoy Cruz,Jaguares de Chiapas,Monterrey,2015,Mexican
+19,19,Luis López,MEX,D,1.87,77,25-08-93,Guadalupe,None,Monterrey,2015,Mexican
+20,20,Santiago Rivera,MEX,F,1.78,70,06-02-92,Guaymas,None,Monterrey,2015,Mexican
+21,21,Hiram Mier,MEX,D,1.79,70,25-08-89,Monterrey,None,Monterrey,2015,Mexican
+22,22,Luis Cárdenas,MEX,G,1.80,79,15-09-93,Ahome,None,Monterrey,2015,Mexican
+23,23,Juan Ibarra,MEX,G,1.82,77,17-02-79,Los Mochis,América,Monterrey,2015,Mexican
+24,24,Marcelo Gracia,MEX,M,1.70,63,02-04-94,Monterrey,None,Monterrey,2015,Mexican
+25,25,Juan Portales,MEX,D,1.79,64,16-05-96,Tampico,None,Monterrey,2015,Mexican
+27,27,Luis Ernesto Pérez,MEX,M,1.71,70,12-01-81,Mexico City,Guadalajara,Monterrey,2015,Mexican
+29,29,Mauricio Talancón,MEX,D,1.75,70,15-06-95,Monterrey,None,Monterrey,2015,Mexican
+30,30,José María Basanta,ARG,D,1.88,78,03-04-84,Tres Sargentos,Fiorentina,Monterrey,2015,Mexican
+41,81,Justin Pérez,USA,G,1.83,76,09-02-92,Eagle Pass,None,Monterrey,2015,Mexican
+42,88,Manuel Álvarez,MEX,M,1.71,61,01-07-96,Ahome,None,Monterrey,2015,Mexican
+43,96,César Martínez,MEX,F,1.65,65,12-05-95,Monterrey,None,Monterrey,2015,Mexican
+44,97,Julio Cruz,MEX,F,1.73,71,23-11-95,Minatitlán,None,Monterrey,2015,Mexican
+45,281,Edson Reséndez,MEX,G,1.79,73,12-01-96,Guasave,None,Monterrey,2015,Mexican
+46,286,César Montes,MEX,D,1.96,76,24-02-97,Hermosillo,None,Monterrey,2015,Mexican
+1,1,Carlos Felipe Rodríguez,MEX,G,1.83,75,03-04-89,Morelia,None,Morelia,2015,Mexican
+2,2,Enrique Pérez,MEX,D,1.68,67,13-10-88,Zinapécuaro,Atlas,Morelia,2015,Mexican
+3,3,Antonio Olvera,MEX,D,1.73,63,03-04-86,Francisco Madero,Guadalajara,Morelia,2015,Mexican
+4,4,Marco Torsiglieri,ARG,D,1.90,77,12-01-88,Castelar,Metalist Kharkiv,Morelia,2015,Mexican
+5,5,Facundo Erpen,ARG,D,1.83,81,19-05-83,Gualeguaychu,Atlas,Morelia,2015,Mexican
+6,6,Joel Huiqui,MEX,D,1.83,78,18-02-83,Los Mochis,Cruz Azul,Morelia,2015,Mexican
+7,7,Pablo Velázquez,PAR,F,1.92,82,12-03-87,Asunción,Toluca,Morelia,2015,Mexican
+8,8,Juan Pablo Rodríguez,MEX,M,1.68,62,08-07-79,Guadalajara,Atlas,Morelia,2015,Mexican
+9,9,Yorleys Mena,COL,F,1.82,76,20-07-91,Apartadó,Independiente Medellín,Morelia,2015,Mexican
+10,10,Mauro Cejas,ARG,M,1.73,68,24-08-85,Adrogué,Santos Laguna,Morelia,2015,Mexican
+11,11,Carlos Ochoa,MEX,F,1.77,72,05-03-78,Apatzingan,Atlas,Morelia,2015,Mexican
+13,13,Cirilo Saucedo,MEX,G,1.88,78,05-01-82,Mexico City,Tijuana,Morelia,2015,Mexican
+14,14,Óscar Fernández,MEX,F,1.77,74,23-12-87,Mexico City,Altamira,Morelia,2015,Mexican
+16,16,Cristian Pellerano,ARG,M,1.83,75,01-02-82,Capital Federal,América,Morelia,2015,Mexican
+17,17,Jose Hibert Ruiz,MEX,M,1.81,68,25-05-87,León,Jaguares de Chiapas,Morelia,2015,Mexican
+18,18,Marco Antonio Palacios,MEX,D,1.90,76,06-03-81,Mexico City,UNAM,Morelia,2015,Mexican
+20,20,Rodrigo Millar,CHI,M,1.83,75,03-11-81,Arauco,Atlas,Morelia,2015,Mexican
+21,21,Erick Aguirre,MEX,M,1.70,60,23-02-97,La Ruana,None,Morelia,2015,Mexican
+22,22,Armando Zamorano,MEX,M,1.66,67,03-10-93,Autlán,Jaguares de Chiapas,Morelia,2015,Mexican
+23,23,Jefferson Cuero,COL,F,1.72,65,15-05-88,Cali,Santa Fe,Morelia,2015,Mexican
+24,24,Dieter Villalpando,MEX,M,1.70,68,03-08-91,Mexico City,Pachuca,Morelia,2015,Mexican
+25,25,Carlos Calvo,MEX,D,1.91,85,02-12-92,Mérida [MEX],Atlante,Morelia,2015,Mexican
+26,26,Christian Valdéz,MEX,M,1.70,69,05-05-84,Mazatlán,Jaguares de Chiapas,Morelia,2015,Mexican
+27,27,Miguel Sansores,MEX,F,1.75,65,28-04-91,Mérida,None,Morelia,2015,Mexican
+28,28,Carlos Morales,MEX,D,1.74,70,06-09-79,La Piedad,Santos Laguna,Morelia,2015,Mexican
+29,29,Santiago Altamira,MEX,D,1.80,74,14-02-92,Ocozocoautla de Espinosa,None,Morelia,2015,Mexican
+30,30,Ignacio González,MEX,D,1.78,74,08-09-91,La Barca,Neza,Morelia,2015,Mexican
+2,2,Francisco Flores,MEX,D,1.77,67,17-01-94,Mexico City,Guadalajara,Pachuca,2015,Mexican
+3,3,Aquivaldo Mosquera,COL,D,1.84,76,22-06-81,Apartadó,América,Pachuca,2015,Mexican
+4,4,Hugo Rodríguez,MEX,D,1.83,77,08-06-90,Mazatlán,UANL Tigres,Pachuca,2015,Mexican
+5,5,Víctor Guzmán,MEX,M,1.73,72,03-02-95,Guadalajara,Guadalajara,Pachuca,2015,Mexican
+6,6,Omar Esparza,MEX,D,1.74,64,21-05-88,Guadalajara,Guadalajara,Pachuca,2015,Mexican
+7,7,Rodolfo Pizarro,MEX,M,1.77,65,15-02-94,Tampico,None,Pachuca,2015,Mexican
+8,8,Hirving Lozano,MEX,M,1.77,70,30-07-95,Mexico City,None,Pachuca,2015,Mexican
+9,9,Ariel Nahuelpán,ARG,F,1.90,87,15-10-87,Capital Federal,UNAM,Pachuca,2015,Mexican
+10,10,Jonathan Urretavizcaya,URU,F,1.74,62,19-03-90,Montevideo,Paços de Ferreira,Pachuca,2015,Mexican
+11,11,Rubén Botta,ARG,M,1.76,66,31-01-90,San Juan,Internazionale,Pachuca,2015,Mexican
+12,12,Heriberto Olvera,MEX,D,1.75,69,13-05-90,Pachuca,None,Pachuca,2015,Mexican
+13,13,Alfonso Blanco,MEX,G,1.82,80,31-07-87,Tamiahua,None,Pachuca,2015,Mexican
+15,15,Érick Gutiérrez,MEX,M,1.77,69,15-06-95,Ahome,None,Pachuca,2015,Mexican
+16,16,Jorge Hernández,MEX,D,1.70,72,10-06-89,San Luis Potosí,Jaguares de Chiapas,Pachuca,2015,Mexican
+18,18,Joaquín Martínez,MEX,M,1.75,65,23-02-87,Mexico City,Necaxa,Pachuca,2015,Mexican
+21,21,Óscar Pérez,MEX,G,1.71,72,01-02-73,Mexico City,Cruz Azul,Pachuca,2015,Mexican
+22,22,Guillermo Martínez,MEX,F,1.90,83,15-03-95,Celaya,None,Pachuca,2015,Mexican
+23,23,Cristian Penilla,ECU,F,1.73,79,02-05-91,Esmeraldas,Barcelona [ECU],Pachuca,2015,Mexican
+24,24,Miguel Herrera,MEX,D,1.82,76,03-04-89,Uruapan,None,Pachuca,2015,Mexican
+25,25,Manuel Pérez,MEX,M,1.71,63,18-03-93,Mexico City,UNAM,Pachuca,2015,Mexican
+26,26,Fernando Madrigal,MEX,M,1.76,67,12-11-91,León,Oaxaca,Pachuca,2015,Mexican
+29,29,Franco Jara,ARG,F,1.82,77,15-07-88,Villa María,Olympiakos,Pachuca,2015,Mexican
+31,31,Sebastián Sosa,URU,G,1.80,77,19-08-86,Montevideo,Vélez Sarsfield,Pachuca,2015,Mexican
+33,33,José Villegas,MEX,D,1.77,70,06-04-96,Aguascalientes,None,Pachuca,2015,Mexican
+34,34,Osvaldo Rodríguez,MEX,D,1.74,73,10-09-96,San Luis Potosí,None,Pachuca,2015,Mexican
+41,282,Héctor López,MEX,D,1.69,62,17-12-95,Guadalajara,None,Pachuca,2015,Mexican
+42,284,Alexis Peña,MEX,D,1.87,71,13-01-96,Culiacán,None,Pachuca,2015,Mexican
+43,296,Marco Rojas,MEX,M,1.70,72,01-02-95,Mexico City,None,Pachuca,2015,Mexican
+44,339,Juan José Calero,COL,F,1.84,79,05-11-98,Ginebra,None,Pachuca,2015,Mexican
+1,1,Fabián Villaseñor,MEX,G,1.89,82,20-11-82,Guadalajara,Morelia,Puebla,2015,Mexican
+2,2,Robert Herrera,URU,D,1.85,79,01-03-89,Montevideo,Defensor Sporting,Puebla,2015,Mexican
+3,3,Carlos Gutiérrez,MEX,D,1.69,64,03-02-90,Guadalajara,Atlas,Puebla,2015,Mexican
+5,5,Mario de Luna,MEX,D,1.79,76,05-01-88,Aguascalientes,Guadalajara,Puebla,2015,Mexican
+8,8,Luis Robles,MEX,D,1.69,65,22-09-86,Amacueca,Atlas,Puebla,2015,Mexican
+9,9,Isaac Díaz,CHI,F,1.84,78,24-03-90,Fresia,Chiapas,Puebla,2015,Mexican
+10,10,Christian Bermúdez,MEX,M,1.63,58,26-04-87,Nezahualcóyotl,Chiapas,Puebla,2015,Mexican
+11,11,Matías Alustiza,ARG,F,1.62,60,31-05-84,Azul,Pachuca,Puebla,2015,Mexican
+12,12,Oscar Rojas,MEX,D,1.72,70,08-02-81,Mexico City,América,Puebla,2015,Mexican
+13,13,Alfonso Tamay,MEX,F,1.66,65,13-05-93,Benito Juárez,UANL Tigres,Puebla,2015,Mexican
+14,14,Emilio Yamín,MEX,D,1.87,84,31-03-93,Toluca,Toluca,Puebla,2015,Mexican
+15,15,Alfredo Juraidini,MEX,M,1.70,70,19-09-94,Teziutlán,None,Puebla,2015,Mexican
+16,16,David Toledo,MEX,M,1.67,56,18-04-82,Oaxaca,Guadalajara,Puebla,2015,Mexican
+17,17,Cristian Campestrini,ARG,G,1.82,82,16-06-80,San Nicolás,Olimpia [PAR],Puebla,2015,Mexican
+18,18,Luis Gabriel Rey,COL,F,1.82,74,20-02-80,Bucaramanga,América,Puebla,2015,Mexican
+19,19,Flavio Jesús Santos,MEX,F,1.75,65,01-03-87,Ocotlán,Atlas,Puebla,2015,Mexican
+20,20,Adrián Cortés,MEX,D,1.75,69,19-11-83,Mexico City,Guadalajara,Puebla,2015,Mexican
+21,21,Ramón Arias,URU,D,1.79,71,27-07-92,Montevideo,Defensor Sporting,Puebla,2015,Mexican
+22,22,Patricio Araujo,MEX,M,1.75,72,30-01-88,Colima,Guadalajara,Puebla,2015,Mexican
+23,23,Emmanuel Gil,MEX,M,1.70,66,16-08-86,Ciudad Obregón,Veracruz,Puebla,2015,Mexican
+25,25,Juan Fassi,MEX,M,1.85,73,16-08-94,Mexico City,Pachuca,Puebla,2015,Mexican
+26,26,Roberto Carlos Juárez,MEX,D,1.83,73,04-07-87,Guadalajara,Chiapas,Puebla,2015,Mexican
+27,27,Alberto Acosta,MEX,M,1.67,69,26-02-88,Ciudad Mante,UANL Tigres,Puebla,2015,Mexican
+28,28,Francisco Torres,MEX,M,1.71,67,12-05-83,León,Santos Laguna,Puebla,2015,Mexican
+29,29,Ezequiel Rescaldani,ARG,F,1.91,83,11-06-92,San Miguel de Tucumán,Málaga,Puebla,2015,Mexican
+30,30,Austin Guerrero,USA,G,1.80,72,24-03-89,San Diego,UANL Tigres,Puebla,2015,Mexican
+41,82,Omar Marrufo,MEX,M,1.81,72,02-07-92,Cozumel,Necaxa,Puebla,2015,Mexican
+42,285,Diego Cruz,MEX,D,1.70,70,13-01-95,Chihuahua,None,Puebla,2015,Mexican
+2,2,George Corral,MEX,D,1.74,64,18-07-90,Ecatepec,América,Querétaro,2015,Mexican
+3,3,Miguel Martínez,ARG,D,1.87,86,19-01-84,Lanús,Jaguares de Chiapas,Querétaro,2015,Mexican
+4,4,Dionicio Escalante,MEX,D,1.80,80,12-05-90,Culiacán,Guadalajara,Querétaro,2015,Mexican
+5,5,Yasser Corona,MEX,D,1.84,62,28-11-87,Tepic,Morelia,Querétaro,2015,Mexican
+6,6,Juan Forlín,ARG,D,1.80,72,10-01-88,Reconquista,Al-Rayyan,Querétaro,2015,Mexican
+7,7,Camilo,BRA,F,1.70,70,21-07-88,Presidente Prudente,Vancouver Whitecaps,Querétaro,2015,Mexican
+8,8,Danilinho,BRA,M,1.64,67,11-03-87,Ponta Porã,UANL Tigres,Querétaro,2015,Mexican
+9,9,Orbelín Pineda,MEX,M,1.68,60,24-03-96,Mexico City,None,Querétaro,2015,Mexican
+10,10,Antonio Naelson,MEX,M,1.64,75,23-05-76,Rio Grande,Toluca,Querétaro,2015,Mexican
+11,11,William,BRA,M,1.73,72,20-11-86,São Paulo,Busan I'Park,Querétaro,2015,Mexican
+12,12,Jonathan Bornstein,USA,D,1.75,66,07-11-84,Torrance,UANL Tigres,Querétaro,2015,Mexican
+13,13,Víctor Milke,MEX,D,1.82,78,24-01-95,Mexico City,None,Querétaro,2015,Mexican
+14,14,Luis Miguel Noriega,MEX,M,1.72,67,17-04-85,Tepotzotlán,Puebla,Querétaro,2015,Mexican
+15,15,Ángel Sepulveda,MEX,F,1.79,73,15-02-91,Apatzingán,Morelia,Querétaro,2015,Mexican
+16,16,Kevin Gutiérrez,MEX,D,1.78,80,01-03-95,Tuxtla Gutiérrez,Jaguares de Chiapas,Querétaro,2015,Mexican
+17,17,Mario Osuna,MEX,M,1.77,75,20-08-88,Culiacán,Dorados de Sinaloa,Querétaro,2015,Mexican
+19,19,Yerson Candelo,COL,M,1.72,65,24-02-92,Cali,Deportivo Cali,Querétaro,2015,Mexican
+21,21,Marco Antonio Jiménez,MEX,M,1.65,71,02-03-81,Ciudad Guzmán,Veracruz,Querétaro,2015,Mexican
+23,23,Edgar Hernández,MEX,G,1.83,79,27-08-82,Ciudad Reynosa,Jaguares de Chiapas,Querétaro,2015,Mexican
+24,24,Edgar Benítez,PAR,F,1.76,71,08-11-87,Repatriación,Toluca,Querétaro,2015,Mexican
+27,27,Luis Guillermo Madrigal,MEX,F,1.88,76,10-02-93,Ahome,Monterrey,Querétaro,2015,Mexican
+28,28,Jaime Gómez,MEX,M,1.75,68,17-07-93,San Juan del Río,None,Querétaro,2015,Mexican
+29,29,Wilson Mathías,BRA,M,1.86,75,14-09-83,Limeira,Chiapas,Querétaro,2015,Mexican
+30,30,Emanuel Villa,ARG,F,1.80,77,24-02-82,Casilda,UANL Tigres,Querétaro,2015,Mexican
+31,31,Tiago Volpi,BRA,G,1.89,84,19-12-90,Blumenau,Figueirense,Querétaro,2015,Mexican
+33,33,Gil Alcalá,MEX,G,1.76,76,29-07-92,Tepatitlán de Morelos,Irapuato,Querétaro,2015,Mexican
+1,1,Agustin Marchesin,ARG,G,1.88,83,16-03-88,González Chávez,Lanús,Santos Laguna,2015,Mexican
+2,2,José Abella,MEX,D,1.75,71,10-02-94,Córdoba,None,Santos Laguna,2015,Mexican
+3,3,Kristian Álvarez,MEX,D,1.83,80,20-04-92,Zapotlanejo,Guadalajara,Santos Laguna,2015,Mexican
+4,4,Jesús Antonio Molina,MEX,M,1.82,72,29-03-88,Hermosillo,América,Santos Laguna,2015,Mexican
+5,5,César Ibáñez,MEX,D,1.78,65,01-04-92,Guadalajara,Atlas,Santos Laguna,2015,Mexican
+6,6,Sergio Ceballos,MEX,D,1.89,74,16-02-94,Torreón,None,Santos Laguna,2015,Mexican
+7,7,Andrés Rentería,COL,F,1.79,79,06-03-93,Medellín,Atlético Nacional,Santos Laguna,2015,Mexican
+8,8,Diego González,ARG,M,1.80,78,09-02-88,Lomas de Zamora,Lanús,Santos Laguna,2015,Mexican
+9,9,Luis Mendoza,MEX,M,1.70,60,03-02-90,Monterrey,América,Santos Laguna,2015,Mexican
+10,10,Bryan Rabello,CHI,M,1.63,60,16-05-94,Rancagua,Sevilla,Santos Laguna,2015,Mexican
+11,11,Néstor Calderón,MEX,M,1.73,63,14-02-89,Guadalajara,Pachuca,Santos Laguna,2015,Mexican
+13,13,Héctor Acosta,MEX,D,1.78,71,24-11-91,Trapiche del Abra,Toluca,Santos Laguna,2015,Mexican
+14,14,Néstor Araujo,MEX,D,1.88,85,29-08-91,Guadalajara,Cruz Azul,Santos Laguna,2015,Mexican
+15,15,Luiz Lozoya,MEX,D,1.76,72,10-04-93,Torreón,None,Santos Laguna,2015,Mexican
+16,16,Adrián Aldrete,MEX,D,1.77,72,14-06-88,Guadalajara,América,Santos Laguna,2015,Mexican
+17,17,Alonso Escoboza,MEX,F,1.72,67,20-01-93,Ahome,None,Santos Laguna,2015,Mexican
+18,18,Édson Rivera,MEX,F,1.81,80,04-11-91,Guadalajara,Atlas,Santos Laguna,2015,Mexican
+21,21,Djaniny,CPV,F,1.90,78,21-03-91,Santa Cruz,Nacional [POR],Santos Laguna,2015,Mexican
+22,22,Cristhian López,MEX,G,1.90,87,02-06-92,Guadalajara,Irapuato,Santos Laguna,2015,Mexican
+23,23,Carlos Orrantia,MEX,D,1.71,59,01-02-91,Mexico City,UNAM,Santos Laguna,2015,Mexican
+24,24,Carlos Izquierdoz,ARG,D,1.86,85,03-11-88,San Carlos de Bariloche,Lanús,Santos Laguna,2015,Mexican
+27,27,Javier Orozco,MEX,F,1.74,76,16-11-87,Los Mochis,Cruz Azul,Santos Laguna,2015,Mexican
+32,32,Julio González,MEX,G,1.83,80,23-04-91,Acapulco,None,Santos Laguna,2015,Mexican
+41,87,Óscar Bernal,MEX,D,1.74,71,28-09-95,Ciudad Juárez,None,Santos Laguna,2015,Mexican
+42,88,Ulises Rivas,MEX,M,1.77,72,25-01-96,Torreón,None,Santos Laguna,2015,Mexican
+43,96,Kenyi Adachi,MEX,D,1.78,70,19-01-93,Colima,None,Santos Laguna,2015,Mexican
+3,3,Javier Gandolfi,ARG,D,1.75,72,05-12-80,San Lorenzo,Jaguares de Chiapas,Tijuana,2015,Mexican
+4,4,Uriel Álvarez,MEX,D,1.74,75,01-05-90,Acapulco,Santos Laguna,Tijuana,2015,Mexican
+5,5,Elio Castro,MEX,D,1.85,80,26-07-88,Tuxtepec,Dorados de Sinaloa,Tijuana,2015,Mexican
+6,6,José María Cárdenas,MEX,M,1.66,67,04-02-85,Zacatecas,León,Tijuana,2015,Mexican
+7,7,Gabriel Hauche,ARG,F,1.68,71,27-11-86,Remedios de Escalada,Racing Club,Tijuana,2015,Mexican
+8,8,Diego de Buen,MEX,M,1.73,61,03-07-91,Mexico City,Pachuca,Tijuana,2015,Mexican
+9,9,Alfredo Moreno,ARG,F,1.74,71,01-12-80,Santiago del Estero,Veracruz,Tijuana,2015,Mexican
+10,10,Humberto Osorio,COL,F,1.75,77,24-06-88,Valledupar,Dorados de Sinaloa,Tijuana,2015,Mexican
+11,11,Henry Martin,MEX,F,1.65,55,18-11-92,Mérida,Mérida [MEX],Tijuana,2015,Mexican
+12,12,Dilan Nicoletti,MEX,G,1.85,83,03-04-94,Cuernavaca,Newell's Old Boys,Tijuana,2015,Mexican
+14,14,Alejandro Guido,USA,M,1.73,68,22-03-94,Chula Vista,None,Tijuana,2015,Mexican
+15,15,Carlos Guzmán,MEX,D,1.79,68,19-05-94,Morelia,Morelia,Tijuana,2015,Mexican
+16,16,Michael Orozco,USA,D,1.80,63,07-02-86,Orange,Puebla,Tijuana,2015,Mexican
+17,17,Dayro Moreno,COL,M,1.77,73,16-09-85,Chicoral,Once Caldas,Tijuana,2015,Mexican
+18,18,Juan Arango,VEN,M,1.79,74,17-05-80,Maracay,B Mönchengladbach,Tijuana,2015,Mexican
+19,19,José García,MEX,F,1.80,77,22-02-95,Mexicali,None,Tijuana,2015,Mexican
+20,20,Paul Arriola,USA,F,1.67,66,05-02-95,Fontana,LA Galaxy,Tijuana,2015,Mexican
+21,21,Esteban Rodríguez,USA,M,1.68,66,02-11-94,Los Angeles,None,Tijuana,2015,Mexican
+22,22,Juan Carlos Núñez,MEX,D,1.66,63,18-04-83,Guadalajara,Toluca,Tijuana,2015,Mexican
+23,23,Felipe Flores,CHI,F,1.72,66,02-03-77,La Serena,Colo-Colo,Tijuana,2015,Mexican
+24,24,Luis Chávez,MEX,M,1.78,73,15-01-96,Ciudad Guzmán,None,Tijuana,2015,Mexican
+25,25,Gibran Lajud,MEX,G,1.78,78,25-12-93,Mexico City,Cruz Azul,Tijuana,2015,Mexican
+27,27,Antonio Madueña,MEX,M,1.80,66,29-05-90,Mexicali,Delfines de Los Cabos,Tijuana,2015,Mexican
+28,28,Edgar Villegas,MEX,M,1.77,78,24-11-94,Tijuana,None,Tijuana,2015,Mexican
+29,29,Rodrigo Salinas,MEX,D,1.78,64,09-05-88,Puebla,Pachuca,Tijuana,2015,Mexican
+30,30,Leyton Jiménez,COL,D,1.81,72,26-04-89,Juradó,Veracruz,Tijuana,2015,Mexican
+31,31,Pedro Hernández,MEX,M,1.73,69,27-08-93,Guadalajara,Dorados de Sinaloa,Tijuana,2015,Mexican
+33,33,Federico Vilar,ARG,G,1.81,70,30-05-77,Junin,Atlas,Tijuana,2015,Mexican
+41,81,Adrián Zendejas,USA,G,1.96,84,30-08-95,Chula Vista,None,Tijuana,2015,Mexican
+1,1,Alfredo Talavera,MEX,G,1.88,85,18-09-82,La Barca,Guadalajara,Toluca,2015,Mexican
+2,2,Francisco Gamboa,MEX,D,1.78,74,20-07-85,Guadalajara,None,Toluca,2015,Mexican
+3,3,Aarón Galindo,MEX,D,1.82,75,08-05-82,Mexico City,Santos Laguna,Toluca,2015,Mexican
+4,4,Paulo da Silva,PAR,D,1.81,76,01-02-80,Asunción,Pachuca,Toluca,2015,Mexican
+5,5,Christian Pérez,MEX,D,1.85,70,27-03-90,Guadalajara,Querétaro,Toluca,2015,Mexican
+6,6,Óscar Rojas,MEX,M,1.70,60,05-02-88,Mexico City,UNAM,Toluca,2015,Mexican
+7,7,Moisés Velasco,MEX,M,1.72,69,19-10-89,Tijuana,None,Toluca,2015,Mexican
+8,8,Roberto Saucedo,ARG,F,1.83,78,08-01-82,Santa Fe,Correcaminos,Toluca,2015,Mexican
+10,10,Lucas Lobos,ARG,M,1.75,63,03-08-81,La Plata,UANL Tigres,Toluca,2015,Mexican
+11,11,Carlos Esquivel,MEX,F,1.70,64,04-10-82,Tlalpujahua,Atlético Mexiquense,Toluca,2015,Mexican
+12,12,Miguel Ángel Centeno,MEX,G,1.80,75,16-08-89,Toluca,None,Toluca,2015,Mexican
+13,13,Christian Cueva,PER,M,1.69,63,23-11-91,Huamachuco,Alianza Lima,Toluca,2015,Mexican
+14,14,Sergio Nápoles,MEX,F,1.71,69,23-11-89,Cancún,Guadalajara,Toluca,2015,Mexican
+15,15,Antonio Ríos,MEX,M,1.72,73,24-10-88,Arcelia,None,Toluca,2015,Mexican
+16,16,Gerardo Rodríguez,MEX,D,1.68,67,16-04-85,Culiacán,Pachuca,Toluca,2015,Mexican
+17,17,Diego Gama,MEX,F,1.79,67,14-01-96,Toluca,None,Toluca,2015,Mexican
+18,18,Darío Bottinelli,ARG,M,1.68,67,26-02-86,Capital Federal,Universidad Católica,Toluca,2015,Mexican
+19,19,Edy Germán Brambila,MEX,M,1.70,65,15-01-86,Tepic,Pachuca,Toluca,2015,Mexican
+20,20,Fernando Uribe,COL,F,1.81,77,01-01-88,Pereira,Atlético Nacional,Toluca,2015,Mexican
+21,21,Enrique Triverio,ARG,F,1.82,78,31-12-88,Aldao,Unión (Santa Fe),Toluca,2015,Mexican
+22,22,Liborio Sánchez,MEX,G,1.80,72,09-10-89,Guadalajara,Querétaro,Toluca,2015,Mexican
+23,23,Omar Arellano,MEX,M,1.74,70,18-06-87,Guadalajara,Monterrey,Toluca,2015,Mexican
+24,24,Aldo Benítez,MEX,D,1.68,67,30-01-96,Toluca,None,Toluca,2015,Mexican
+25,25,Alejandro Navarro,MEX,M,1.78,77,30-11-93,Guadalajara,None,Toluca,2015,Mexican
+26,26,Ervin Trejo,MEX,M,1.71,69,03-06-90,Mexico City,Atlético Mexiquense,Toluca,2015,Mexican
+27,27,Mario Quezada,MEX,M,1.68,62,02-05-92,Gómez Palacio,Puebla,Toluca,2015,Mexican
+28,28,Jorge Sartiaguin,MEX,M,1.72,70,24-08-93,San Blas,None,Toluca,2015,Mexican
+29,29,Gustavo Castillo,MEX,M,1.75,64,29-11-94,Jiquipilco,None,Toluca,2015,Mexican
+30,30,Jordan Silva,MEX,D,1.86,74,30-07-94,Matehuala,None,Toluca,2015,Mexican
+32,32,Heriberto Vidales,MEX,D,1.76,70,25-03-95,Mexico City,UNAM,Toluca,2015,Mexican
+41,298,Diego Aguilar,MEX,M,1.69,60,13-01-97,Toluca,None,Toluca,2015,Mexican
+42,299,Martín Abundiz,MEX,F,1.80,75,10-04-96,Guadalajara,None,Toluca,2015,Mexican
+1,1,Nahuel Guzmán,ARG,G,1.91,86,10-02-86,Rosario,Newell's Old Boys,UANL Tigres,2015,Mexican
+2,2,Israel Jiménez,MEX,D,1.74,66,13-08-89,Monterrey,None,UANL Tigres,2015,Mexican
+3,3,Juninho,BRA,D,1.81,78,16-09-82,Wenceslau Braz,Botafogo,UANL Tigres,2015,Mexican
+4,4,Hugo Ayala,MEX,D,1.83,74,31-03-87,Morelia,Atlas,UANL Tigres,2015,Mexican
+5,5,Egidio Arévalo,URU,M,1.69,71,01-01-82,Paysandú,Tijuana,UANL Tigres,2015,Mexican
+6,6,Jorge Torres,MEX,D,1.76,69,16-09-88,Tijuana,Atlas,UANL Tigres,2015,Mexican
+8,8,Joffre Guerrón,ECU,M,1.74,74,28-04-85,Ambuqui,Beijing Guoan,UANL Tigres,2015,Mexican
+9,9,Rafael Sobís,BRA,F,1.72,73,17-06-85,Erechim,Fluminense,UANL Tigres,2015,Mexican
+10,10,André-Pierre Gignac,FRA,F,1.87,84,12-05-85,Martigues,Marseille,UANL Tigres,2015,Mexican
+11,11,Damián Álvarez,ARG,M,1.65,67,24-05-79,Morón,Pachuca,UANL Tigres,2015,Mexican
+13,13,Antonio Briseño,MEX,D,1.85,75,02-02-94,Guadalajara,Atlas,UANL Tigres,2015,Mexican
+14,14,Jorge Iván Estrada,MEX,D,1.64,65,16-10-83,Tepic,Pachuca,UANL Tigres,2015,Mexican
+15,15,Manuel Viniegra,MEX,M,1.80,60,26-04-88,Monterrey,None,UANL Tigres,2015,Mexican
+16,16,Enrique Esqueda,MEX,F,1.75,70,19-04-88,Querétaro,Pachuca,UANL Tigres,2015,Mexican
+18,18,José Torres,USA,M,1.65,61,29-10-87,Longview,Pachuca,UANL Tigres,2015,Mexican
+19,19,Guido Pizarro,ARG,M,1.86,73,26-02-90,Capital Federal,Lanús,UANL Tigres,2015,Mexican
+20,20,Javier Aquino,MEX,M,1.68,59,11-02-90,Oaxaca,Villarreal,UANL Tigres,2015,Mexican
+21,21,Aaron Fernández,MEX,G,1.82,64,30-07-87,Mexico City,None,UANL Tigres,2015,Mexican
+22,22,Enrique Eduardo Palos,MEX,G,1.89,82,31-05-86,Aguascalientes,None,UANL Tigres,2015,Mexican
+23,23,Edgar Lugo,MEX,M,1.81,65,31-12-84,Mexico City,Santos Laguna,UANL Tigres,2015,Mexican
+24,24,José Rivas,MEX,D,1.87,81,18-10-84,Coatzacoalcos,Coatzacoalcos,UANL Tigres,2015,Mexican
+25,25,Jürgen Damm,MEX,F,1.87,65,07-11-92,Tuxpan,Pachuca,UANL Tigres,2015,Mexican
+26,26,Jairo González,MEX,D,1.70,75,27-02-92,Guadalajara,Univ de Guadalajara,UANL Tigres,2015,Mexican
+28,28,Ikechukwu Uche,NGA,F,1.71,74,05-01-84,Aba,Villarreal,UANL Tigres,2015,Mexican
+29,29,Jesús Dueñas,MEX,M,1.74,62,16-03-89,Zamora,None,UANL Tigres,2015,Mexican
+30,30,Amaury Escoto,MEX,F,1.78,74,30-11-92,Zapopan,Quéretaro,UANL Tigres,2015,Mexican
+34,34,Jonathan Espericueta,MEX,M,1.78,69,09-08-94,Monterrey,None,UANL Tigres,2015,Mexican
+35,35,Alonso Zamora,MEX,D,1.81,70,07-11-91,Guadalajara,Atlas,UANL Tigres,2015,Mexican
+41,90,Ricardo Chávez,MEX,D,1.76,66,19-11-94,Ciudad Victoria,None,UANL Tigres,2015,Mexican
+42,92,Víctor Alvarado,MEX,M,1.82,70,25-09-94,Guadalajara,None,UANL Tigres,2015,Mexican
+43,95,Luis Castillo,MEX,M,1.79,65,25-05-93,Monterrey,None,UANL Tigres,2015,Mexican
+44,96,Orlando Vela,MEX,M,1.70,60,05-09-94,Veracruz,None,UANL Tigres,2015,Mexican
+45,98,Uvaldo Luna,MEX,M,1.76,67,21-12-93,Channelview,None,UANL Tigres,2015,Mexican
+46,285,José García,MEX,D,1.86,75,26-02-96,Zamora,None,UANL Tigres,2015,Mexican
+47,297,Ramón García,MEX,M,1.73,55,24-08-95,Hermosillo,None,UANL Tigres,2015,Mexican
+48,303,Luis Cruz,MEX,F,1.81,74,16-01-97,Monterrey,None,UANL Tigres,2015,Mexican
+1,1,Alejandro Palacios,MEX,G,1.84,70,06-03-81,Mexico City,None,UNAM,2015,Mexican
+2,2,José van Rankin,MEX,D,1.78,71,14-05-93,Mexico City,None,UNAM,2015,Mexican
+3,3,Gerardo Alcoba,URU,D,1.85,82,23-11-84,Montevideo,Peñarol,UNAM,2015,Mexican
+4,4,Darío Verón,PAR,D,1.81,80,16-07-79,San Ignacio,12 de Octubre,UNAM,2015,Mexican
+5,5,Luis Fernando Fuentes,MEX,D,1.71,64,14-09-86,Chetumal,None,UNAM,2015,Mexican
+6,6,Silvio Torales,PAR,M,1.76,73,23-09-91,Asunción,Nacional [PAR],UNAM,2015,Mexican
+7,7,Javier Cortés,MEX,M,1.71,62,20-07-89,Mexico City,None,UNAM,2015,Mexican
+8,8,David Cabrera,MEX,M,1.75,68,07-09-89,Mexico City,None,UNAM,2015,Mexican
+9,9,Dante López,PAR,F,1.85,85,18-08-83,Asunción,Guaraní [PAR],UNAM,2015,Mexican
+10,10,Daniel Ludueña,ARG,M,1.75,69,22-03-84,Berazategui,Pachuca,UNAM,2015,Mexican
+11,11,Fidel Martínez,ECU,M,1.78,71,15-02-90,Shushufindi,Tijuana,UNAM,2015,Mexican
+13,13,Alfredo Saldívar,MEX,G,1.78,66,09-02-90,Mexico City,None,UNAM,2015,Mexican
+14,14,David Izazola,MEX,F,1.78,62,23-10-91,Mexico City,None,UNAM,2015,Mexican
+15,15,Eduardo Herrera,MEX,F,1.86,78,25-07-88,Mexico City,None,UNAM,2015,Mexican
+16,16,Marcelo Alatorre,MEX,D,1.72,69,18-01-85,Guadalajara,Univ de Guadalajara,UNAM,2015,Mexican
+17,17,Yosgart Gutiérrez,MEX,G,1.87,75,15-03-81,Ruiz Cortines,Cruz Azul,UNAM,2015,Mexican
+18,18,Ismael Sosa,ARG,F,1.79,70,18-01-87,San Martín,Universidad Católica,UNAM,2015,Mexican
+20,20,Matías Britos,URU,F,1.71,68,26-11-88,Maldonado,León,UNAM,2015,Mexican
+21,21,Alejandro Castro,MEX,D,1.74,72,27-03-87,Mexico City,Cruz Azul,UNAM,2015,Mexican
+23,23,Alfonso Nieto,MEX,F,1.76,56,30-10-91,Mexico City,None,UNAM,2015,Mexican
+25,25,Rafael Cid,MEX,D,1.82,70,02-06-95,Mexico City,None,UNAM,2015,Mexican
+26,26,Luis Quintana,MEX,D,1.78,73,03-02-92,Mexico City,None,UNAM,2015,Mexican
+27,27,Jorge Escamilla,MEX,M,1.74,68,01-12-95,Mexico City,None,UNAM,2015,Mexican
+29,29,Pablo Jaquez,MEX,D,1.79,68,16-07-96,Mexico City,None,UNAM,2015,Mexican
+30,30,Bernabe Magaña,MEX,G,1.88,75,16-08-93,Ventura,None,UNAM,2015,Mexican
+31,31,Jesús Gallardo,MEX,M,1.77,68,15-08-94,Mexico City,None,UNAM,2015,Mexican
+32,32,Guillermo Mena,MEX,D,1.73,65,09-05-94,Mexico City,None,UNAM,2015,Mexican
+33,33,Omar Islas,MEX,F,1.73,73,13-04-96,Mexico City,None,UNAM,2015,Mexican
+34,34,Kevin Escamilla,MEX,M,1.78,66,21-02-94,Mexico City,None,UNAM,2015,Mexican
+41,283,Alan Mozo,MEX,D,1.71,79,05-04-97,Mexico City,None,UNAM,2015,Mexican
+42,292,Alan Acosta,MEX,M,1.65,58,19-12-96,Mexico City,None,UNAM,2015,Mexican
+43,293,José Medina,MEX,M,1.71,62,13-07-96,La Magdalena Contreras,None,UNAM,2015,Mexican
+44,335,Gustavo Rodríguez,MEX,D,1.74,62,12-10-98,Veracruz,None,UNAM,2015,Mexican
+1,1,Luis Sánchez,MEX,M,1.75,72,06-02-88,Tijuana,Pachuca,Veracruz,2015,Mexican
+5,5,Dárvin Chávez,MEX,D,1.77,65,21-11-89,Zapopan,Monterrey,Veracruz,2015,Mexican
+6,6,Luis Martínez,MEX,M,1.79,79,29-04-87,Zacapoaxtla,La Piedad,Veracruz,2015,Mexican
+7,7,Alan Miguel Zamora,MEX,M,1.78,72,08-04-85,Mexico City,Chiapas,Veracruz,2015,Mexican
+8,8,Gabriel Peñalba,ARG,M,1.80,75,23-09-84,Quilmes,Tigre,Veracruz,2015,Mexican
+9,9,Daniel Villalva,ARG,F,1.69,68,06-07-92,Caá Catí,River Plate,Veracruz,2015,Mexican
+10,10,Juan Albín,URU,M,1.79,77,17-07-86,Salto,Petrolul Ploiești,Veracruz,2015,Mexican
+11,11,Julio César Furch,ARG,F,1.79,74,29-07-89,Santa Rosa,Olimpo (BB),Veracruz,2015,Mexican
+12,12,Horacio Cervantes,MEX,D,1.92,80,17-10-81,Mexico City,Cruz Azul,Veracruz,2015,Mexican
+13,13,Edgar Hernández,MEX,G,1.79,68,15-10-82,Veracruz,Pachuca,Veracruz,2015,Mexican
+14,14,Víctor Perales,MEX,D,1.85,78,07-11-90,Fresnillo,Guadalajara,Veracruz,2015,Mexican
+15,15,Joe Corona,USA,M,1.66,68,09-07-90,Los Angeles,Tijuana,Veracruz,2015,Mexican
+16,16,César de la Peña,MEX,M,1.69,65,22-06-91,Monterrey,Monterrey,Veracruz,2015,Mexican
+17,17,Emmanuel García,MEX,M,1.70,63,28-12-89,Zamora,La Piedad,Veracruz,2015,Mexican
+18,18,Edgar Andrade,MEX,M,1.75,78,02-03-88,Jalapa,Pachuca,Veracruz,2015,Mexican
+19,19,Aníbal,ESP,F,1.88,80,03-12-82,Villahermosa,Cruz Azul,Veracruz,2015,Mexican
+20,20,Fernando Meneses,CHI,M,1.73,71,27-09-85,Lontué,Universidad Católica,Veracruz,2015,Mexican
+21,21,Alejandro Berber,MEX,D,1.68,59,03-08-87,Monterrey,Monterrey,Veracruz,2015,Mexican
+22,22,Óscar Vera,MEX,M,1.68,66,10-03-86,León,Univ de Guadalajara,Veracruz,2015,Mexican
+23,23,Leobardo López,MEX,D,1.78,67,04-09-83,Cortijo Viejo,Monterrey,Veracruz,2015,Mexican
+24,24,Rodrigo Noya,ARG,D,1.93,80,31-01-90,Buenos Aires,Mérida [MEX],Veracruz,2015,Mexican
+28,28,Jesús Paganoni,MEX,M,1.70,67,24-09-88,Guadalajara,Atlas,Veracruz,2015,Mexican
+29,29,Hugo Cid,MEX,D,1.83,72,03-07-91,Acultzingo,La Piedad,Veracruz,2015,Mexican
+30,30,Salvador Tafolla,MEX,F,1.73,67,30-10-93,Tanhuato,La Piedad,Veracruz,2015,Mexican
+31,31,Inri Manzo,MEX,F,1.66,62,04-03-91,Salina Cruz,Atlético Coatzacoalcos,Veracruz,2015,Mexican
+32,32,Carlos Cárdenas,MEX,D,1.83,78,13-12-83,Mexico City,La Piedad,Veracruz,2015,Mexican
+33,33,Sergio García,MEX,G,1.86,82,19-09-82,Guadalajara,UANL Tigres,Veracruz,2015,Mexican
+41,293,Diego Chávez,MEX,M,1.80,61,11-05-95,Veracruz,None,Veracruz,2015,Mexican

@@ -1,0 +1,460 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Vasilios Barkas,GRE,G,1.96,85,30-05-94,Peristeri,Atromitos,AEK,2016,Greek
+4,4,Ognjen Vranje,BIH,D,1.88,82,24-10-89,Banja Luka,Tom Tomsk,AEK,2016,Greek
+5,5,Vasilios Lampropoulos,GRE,D,1.85,78,31-03-90,Pyrgos,Panionios,AEK,2016,Greek
+6,6,Astrit Ajdarević,SWE,M,1.86,77,17-04-90,Pritina,Örebro SK,AEK,2016,Greek
+7,7,Lazaros Christodoulopoulos,GRE,M,1.83,77,19-12-86,Thessaloniki,Verona,AEK,2016,Greek
+8,8,André Simões,POR,M,1.77,71,16-12-89,Vila Nova de Gaia,Moreirense,AEK,2016,Greek
+9,9,Hugo Almeida,POR,F,1.91,93,23-05-84,Figueira da Foz,Hannover 96,AEK,2016,Greek
+10,10,Ronald Vargas,VEN,M,1.74,76,02-12-86,Guatire,Balıkesirspor,AEK,2016,Greek
+11,11,Sergio Araujo,ARG,F,1.80,72,28-01-92,Capital Federal,Las Palmas,AEK,2016,Greek
+12,12,Rodrigo Galo,BRA,D,1.76,66,19-09-86,Rio Branco,Paços de Ferreira,AEK,2016,Greek
+14,14,Tomá Pekhart,CZE,F,1.95,91,26-05-89,Suici,Ingolstadt,AEK,2016,Greek
+16,16,Ilias Vouras,GRE,G,1.87,80,20-02-88,Thessaloniki,Niki Volos,AEK,2016,Greek
+17,17,Vinícius Freitas,BRA,D,1.82,78,07-03-93,Rio de Janeiro,Lazio,AEK,2016,Greek
+18,18,Jakob Johansson,SWE,M,1.87,86,21-06-90,Trollhättan,IFK Göteborg,AEK,2016,Greek
+19,19,Dmytro Chygrynskiy,UKR,D,1.90,81,07-11-86,Izyaslav,Dnipro Dnipropetrovsk,AEK,2016,Greek
+20,20,Petros Mandalos,GRE,M,1.73,75,31-08-91,Komotini,Skoda Xanthi,AEK,2016,Greek
+21,21,Christos Aravidis,GRE,M,1.78,75,13-03-87,Athens,Panionios,AEK,2016,Greek
+22,22,Giannis Anestis,GRE,G,1.97,89,09-03-91,Chalkida,Panionios,AEK,2016,Greek
+23,23,Dídac,ESP,D,1.86,81,09-06-89,Mataró,Milan,AEK,2016,Greek
+24,24,Konstantinos Manolas,GRE,D,1.83,76,23-06-93,Athens,Levadiakos,AEK,2016,Greek
+25,25,Kostas Galanopoulos,GRE,M,1.72,72,28-12-97,Athens,None,AEK,2016,Greek
+26,26,Dimitris Kolovetsios,GRE,D,1.84,74,16-10-91,Larissa,PAS Giannina,AEK,2016,Greek
+27,27,Michalis Bakakis,GRE,D,1.77,65,18-03-91,Agrinio,Panetolikos,AEK,2016,Greek
+28,28,Anastasios Bakasetas,GRE,F,1.85,73,28-06-93,Corinth,Panionios,AEK,2016,Greek
+29,29,Patricio Rodríguez,ARG,M,1.70,60,04-05-90,Quilmes,Santos,AEK,2016,Greek
+30,30,Ilias Tselios,GRE,M,1.68,60,06-10-97,Athens,None,AEK,2016,Greek
+31,31,Dimitris Melikiotis,GRE,F,1.84,75,10-07-96,Veria,Veria,AEK,2016,Greek
+33,33,Giorgos Giannoutsos,GRE,D,1.81,79,16-07-98,Chalcis,None,AEK,2016,Greek
+41,87,Giannis Papadopoulos,GRE,G,1.82,73,21-09-98,Aigio,None,AEK,2016,Greek
+1,1,Tomá Koický,SVK,G,1.97,93,11-03-86,Bratislava,Novara,Asteras Tripolis,2016,Greek
+3,3,Vital Hayduchyk,BLR,D,1.82,73,12-07-89,Brest,BATE,Asteras Tripolis,2016,Greek
+5,5,Konstantinos Triantafyllopoulos,GRE,D,1.85,83,03-04-93,Corinth,Panathinaikos,Asteras Tripolis,2016,Greek
+6,6,Cedric Gondo,CIV,F,1.87,75,25-11-96,Divo,Fiorentina,Asteras Tripolis,2016,Greek
+7,7,Pablo Mazza,ARG,D,1.75,69,21-12-87,Pergamino,Douglas Haig (Pergamino),Asteras Tripolis,2016,Greek
+10,10,Nikos Ioannidis,GRE,F,1.88,80,26-04-94,Remscheid,Olympiakos,Asteras Tripolis,2016,Greek
+11,11,Michalis Manias,GRE,F,1.89,83,20-02-90,Rhodes,KVC Westerlo,Asteras Tripolis,2016,Greek
+13,13,Stavros Tsoukalas,GRE,M,1.85,75,23-05-88,Thessaloniki,PAS Giannina,Asteras Tripolis,2016,Greek
+14,14,Giannis Tsiolis,GRE,M,,,04-06-98,Levidi,None,Asteras Tripolis,2016,Greek
+16,16,Omiros Syrengelas,GRE,F,,,04-07-97,,None,Asteras Tripolis,2016,Greek
+17,17,Walter Iglesias,ARG,M,1.93,80,18-04-85,Rosario,Changchun Yatai,Asteras Tripolis,2016,Greek
+18,18,Kostas Giannoulis,GRE,D,1.83,73,09-12-87,Katerini,Olympiakos,Asteras Tripolis,2016,Greek
+19,19,Kosmas Tsilianidis,GRE,F,1.80,73,09-05-94,Thessaloniki,Iraklis,Asteras Tripolis,2016,Greek
+20,20,Luis Fariña,ARG,M,1.77,71,20-04-91,Capital Federal,Benfica,Asteras Tripolis,2016,Greek
+21,21,Elini Dimoutsos,GRE,M,1.78,72,18-06-88,Luznja,Atromitos,Asteras Tripolis,2016,Greek
+23,23,Nikos Kaltsas,GRE,M,1.71,69,03-05-90,Veria,Panathinaikos,Asteras Tripolis,2016,Greek
+25,25,Manolis Mpertos,GRE,D,1.80,64,13-05-89,Xanthi,Olympiakos,Asteras Tripolis,2016,Greek
+27,27,Giannis Kotsiras,GRE,F,1.83,78,16-12-92,Megalopolis,Panarkadikos,Asteras Tripolis,2016,Greek
+29,29,Giannis Bastianos,GRE,M,,,29-04-98,,None,Asteras Tripolis,2016,Greek
+30,30,Giorgos Athanasiadis,GRE,G,1.91,85,07-04-93,Thessaloniki,Panthrakikos,Asteras Tripolis,2016,Greek
+31,31,Aleksandar Stanisavljević,SRB,M,1.78,74,11-06-89,Pozarevac,Vojvodina,Asteras Tripolis,2016,Greek
+32,32,Charis Natsis,GRE,M,,,18-06-98,Kefalonia,None,Asteras Tripolis,2016,Greek
+33,33,Yevhen Selin,UKR,D,1.85,75,09-05-88,Novoaydar,Dynamo Kyiv,Asteras Tripolis,2016,Greek
+35,35,Ilias Evangelou,GRE,D,1.77,72,18-05-97,Kefalonia,Kallithea,Asteras Tripolis,2016,Greek
+41,54,Rachid Hamdani,MAR,M,1.76,72,08-04-85,Toul,Apollon Limassol,Asteras Tripolis,2016,Greek
+42,62,Giorgos Makrostergios,GRE,D,,,01-03-97,Karditsa,Olympiakos,Asteras Tripolis,2016,Greek
+43,69,Lionel Zouma,FRA,D,1.90,73,10-09-93,Lyon,Sochaux,Asteras Tripolis,2016,Greek
+44,72,Assen Joudain,CMR,F,1.85,76,16-11-97,Douala,None,Asteras Tripolis,2016,Greek
+45,77,Georgios Kyriakopoulos,GRE,D,1.78,74,05-02-96,Patras,None,Asteras Tripolis,2016,Greek
+46,90,Antonio Donnarumma,ITA,G,1.92,96,07-07-90,Castellammare di Stabia,Genoa,Asteras Tripolis,2016,Greek
+47,96,Igor Carioca,BRA,F,1.73,66,21-08-96,Rio de Janeiro,Comercial-SP,Asteras Tripolis,2016,Greek
+48,97,Gerasimos Papangelis,GRE,D,,,24-06-97,Levidi,None,Asteras Tripolis,2016,Greek
+1,1,Nikos Papadopoulos,GRE,G,1.90,80,11-04-90,Athens,Panionios,Atromitos,2016,Greek
+2,2,Giannis Kondoes,GRE,D,1.81,71,24-05-86,Athens,Asteras Tripolis,Atromitos,2016,Greek
+3,3,Athanassios Panteliadis,GRE,D,1.78,68,06-09-87,Katerini,Omonia Nicosia,Atromitos,2016,Greek
+5,5,Dzmitry Baha,BLR,M,1.82,82,04-01-90,Barysaw,Hapoel Haifa,Atromitos,2016,Greek
+6,6,Sokratis Fitanidis,GRE,D,1.86,79,25-05-84,Thessaloniki,Asteras Tripolis,Atromitos,2016,Greek
+7,7,Eduardo Brito,BRA,M,1.78,72,21-09-82,Rio de Janeiro,Apollon Kalamarias,Atromitos,2016,Greek
+8,8,Javier Umbides,ARG,M,1.73,79,09-02-82,Monte Quemado,Orduspor,Atromitos,2016,Greek
+9,9,Anthony Le Tallec,FRA,F,1.84,73,03-10-84,Hennebont,Valenciennes,Atromitos,2016,Greek
+10,10,Martín Tonso,ARG,M,1.75,71,19-10-89,Colonia Godeken,Newell's Old Boys,Atromitos,2016,Greek
+11,11,Dimitrios Tsatsopoulos,GRE,F,1.76,70,12-04-96,Kalamata,None,Atromitos,2016,Greek
+13,13,Giorgos Zisopoulos,GRE,M,1.82,72,23-05-84,Katerini,Asteras Tripolis,Atromitos,2016,Greek
+14,14,Nicolas Diguiny,FRA,F,1.79,70,31-05-88,Saint-Germain-en-Laye,Panthrakikos,Atromitos,2016,Greek
+17,17,Vangelis Platellas,GRE,M,1.65,63,01-02-88,Xanthi,AEK,Atromitos,2016,Greek
+19,19,Kyriakos Kivrakidis,GRE,M,1.81,78,21-07-92,Berlin,Eginiakos,Atromitos,2016,Greek
+20,20,Thomas Vasiliou,GRE,M,1.72,70,28-07-94,Athens,None,Atromitos,2016,Greek
+21,21,Pavlos Kyriakidis,GRE,M,1.78,70,03-09-91,Kozani,Iraklis,Atromitos,2016,Greek
+22,22,Giannis Maniatis,GRE,M,1.75,68,12-10-86,Livadia,Olympiakos,Atromitos,2016,Greek
+24,24,Nikos Lazaridis,GRE,M,1.82,77,12-07-79,Kozani,Aris,Atromitos,2016,Greek
+27,27,Abiola Dauda,NGA,F,1.80,72,03-02-88,Lagos,Vitesse,Atromitos,2016,Greek
+28,28,Spyros Natsos,GRE,M,1.77,70,09-06-98,Preveza,None,Atromitos,2016,Greek
+29,29,Dimitris Limnios,GRE,F,1.78,75,27-05-98,Volos,None,Atromitos,2016,Greek
+30,30,Alexandros Katranis,GRE,D,1.74,70,04-05-98,Volos,None,Atromitos,2016,Greek
+31,31,Spyros Gougoudis,GRE,M,1.70,63,17-04-89,Karditsa,Anagennisi Karditsa,Atromitos,2016,Greek
+33,33,Christos Theodorakis,GRE,G,1.85,74,17-09-96,Ioannina,None,Atromitos,2016,Greek
+35,35,Andrey Harbunow,BLR,G,1.85,74,25-05-83,Mogilev,BATE,Atromitos,2016,Greek
+1,1,Huanderson,BRA,G,1.89,83,03-08-83,Goiânia,Rio Ave,Iraklis,2016,Greek
+2,2,Vassilis Karagounis,GRE,D,1.76,71,18-01-94,Lamia,AEL Limassol,Iraklis,2016,Greek
+3,3,Giorgos Saramantas,GRE,D,1.76,69,29-01-92,Pyrgos,Paniliakos,Iraklis,2016,Greek
+4,4,Leonidas Argyropoulos,GRE,D,1.78,68,29-05-90,Corinth,Panionios,Iraklis,2016,Greek
+5,5,Dmitrios Stamou,GRE,M,1.83,70,27-04-91,Thessaloniki,PAOK,Iraklis,2016,Greek
+6,6,Adam Tzanetopoulos,GRE,D,1.93,85,10-02-95,Volos,AEK,Iraklis,2016,Greek
+7,7,Monteiro,POR,F,1.71,69,15-08-88,Porto,AEK Larnaca,Iraklis,2016,Greek
+8,8,Lefteris Intzoglou,GRE,M,1.77,75,03-03-87,Korydallos,Doxa Dramas,Iraklis,2016,Greek
+9,9,Emanuel Perrone,ARG,F,1.89,86,14-06-83,Córdoba,Kalloni,Iraklis,2016,Greek
+10,10,Leozinho,BRA,M,1.70,70,12-12-85,Recife,Denizlispor,Iraklis,2016,Greek
+11,11,Giannis Pasas,GRE,M,1.70,65,07-10-90,Agrinio,Panetolikos,Iraklis,2016,Greek
+13,13,Trifon Gioudas,GRE,G,1.90,83,18-02-93,Berlin,Panthrakikos,Iraklis,2016,Greek
+14,14,Vassilis Angelopoulos,GRE,M,1.71,70,12-02-97,Pyrgos,Panathinaikos,Iraklis,2016,Greek
+16,16,Albert Roussos,GRE,M,1.84,75,22-02-96,Rhodes,Juventus,Iraklis,2016,Greek
+18,18,Christos Donis,GRE,M,1.83,76,09-10-94,Athens,Panathinaikos,Iraklis,2016,Greek
+19,19,Antonis Iliadis,GRE,M,1.69,65,27-07-93,,Platanias,Iraklis,2016,Greek
+20,20,Emmanuel Zambazis,GRE,M,1.80,66,24-04-97,Toronto,Mississauga SC,Iraklis,2016,Greek
+21,21,Dimitris Grontis,GRE,M,1.73,60,21-08-94,Distomo,Atromitos,Iraklis,2016,Greek
+22,22,Mihalis Bastakos,GRE,M,1.92,83,27-07-96,Kalamata,Atromitos,Iraklis,2016,Greek
+23,23,Vassilis Amarantidis,GRE,F,1.72,65,02-04-97,,None,Iraklis,2016,Greek
+25,25,Giannis Loukinas,GRE,F,1.85,76,20-09-91,Athens,Chania,Iraklis,2016,Greek
+26,26,Panagiotis Kynigopoulos,GRE,M,1.86,76,24-09-96,,Sint-Truiden,Iraklis,2016,Greek
+27,27,Kostas Doumtsios,GRE,F,1.82,73,20-09-97,Serres,Serres,Iraklis,2016,Greek
+33,33,Nikos Ziabaris,GRE,D,1.92,84,18-02-91,Serres,Fostiras,Iraklis,2016,Greek
+40,40,Serafim Giannikoglou,GRE,G,1.89,85,25-03-93,Kavala,Fokikos,Iraklis,2016,Greek
+41,42,Dimitrios Vosnakidis,GRE,D,1.92,88,14-02-94,Komotini,Zakynthos,Iraklis,2016,Greek
+42,55,Alexandros Kouros,GRE,D,1.84,79,22-08-93,Politsani,Atromitos,Iraklis,2016,Greek
+43,69,Nikos Bikiaris,GRE,M,1.73,68,19-06-96,,None,Iraklis,2016,Greek
+44,94,Argyris Baretas,GRE,M,1.80,64,06-05-94,Kavala,Panserraikos,Iraklis,2016,Greek
+1,1,Giannis Arabatzis,GRE,G,1.90,80,28-05-84,Veria,Astra Giurgiu,Kerkyra,2016,Greek
+2,2,Paul Keita,SEN,M,1.94,85,23-06-92,Dakar,Atromitos,Kerkyra,2016,Greek
+3,3,Vladimir Dimitrovski,MKD,D,1.88,81,30-11-88,Skopje,Teplice,Kerkyra,2016,Greek
+4,4,David Nazim,NGA,M,,,07-11-96,Onitsha,Zakynthos,Kerkyra,2016,Greek
+5,5,Anastasios Venetis,GRE,D,1.87,75,24-03-80,Larissa,OFI,Kerkyra,2016,Greek
+6,6,Marios Tzanoulinos,GRE,D,1.81,75,15-04-96,Athens,Panathinaikos,Kerkyra,2016,Greek
+7,7,Fotis Georgiou,GRE,M,1.68,64,19-07-85,Arta,Kalloni,Kerkyra,2016,Greek
+9,9,Ifeanyi Onyilo,NGA,F,1.93,82,31-10-90,Enugu,Al-Faisaly [KSA],Kerkyra,2016,Greek
+10,10,Panagiotis Zorbas,GRE,F,1.76,70,21-04-87,Athens,OFI,Kerkyra,2016,Greek
+11,11,Mathieu Gómes,FRA,F,1.79,78,06-03-85,Bayonne,Fokikos,Kerkyra,2016,Greek
+13,13,Fotis Koutzavassilis,GRE,G,1.83,80,11-03-89,Thessaloniki,Panserraikos,Kerkyra,2016,Greek
+14,14,Giorgos Pamlidis,GRE,F,1.79,70,13-11-93,Katerini,Ergotelis,Kerkyra,2016,Greek
+17,17,Spyros Spinoulas,GRE,D,1.77,74,08-04-86,Corfu,Panegialios,Kerkyra,2016,Greek
+18,18,Viera Ellong,EQG,M,1.80,71,14-06-87,Douala,The Panthers,Kerkyra,2016,Greek
+19,19,Alexandros Kontos,GRE,M,1.77,67,12-09-86,Drama,Panserraikos,Kerkyra,2016,Greek
+20,20,Efthimis Gamagas,GRE,F,1.82,75,26-09-95,Eratyra,Kalloni,Kerkyra,2016,Greek
+21,21,Kyriakos Andreopoulos,GRE,M,1.79,72,18-01-94,Athens,Iraklis,Kerkyra,2016,Greek
+22,22,Stefanos Siontis,GRE,D,1.79,73,04-09-87,Ioannina,Veria,Kerkyra,2016,Greek
+24,24,Giannis Ioannou,GRE,D,1.88,83,09-04-84,Antikyra,Panegialios,Kerkyra,2016,Greek
+26,26,Denis Epstein,GER,M,1.80,71,02-07-86,Cologne,FSV Frankfurt,Kerkyra,2016,Greek
+29,29,Kévin Diogo,FRA,M,1.80,71,08-07-91,Sens,Clermont,Kerkyra,2016,Greek
+30,30,Jordão Diogo,POR,M,1.85,82,11-11-85,Lisbon,Vitória Setúbal,Kerkyra,2016,Greek
+31,31,Giannis Zaradoukas,GRE,D,1.71,66,12-12-85,Athens,Skoda Xanthi,Kerkyra,2016,Greek
+41,50,Rogerio Thuram,BRA,F,1.83,79,01-02-91,Cairu,Monte Azul,Kerkyra,2016,Greek
+42,55,Christos Gromitsaris,GRE,D,1.85,80,10-02-91,Agrinio,Ergotelis,Kerkyra,2016,Greek
+43,71,Thomas Triantafyllos,GRE,G,,,14-09-96,,None,Kerkyra,2016,Greek
+44,77,Konstantinos Georgakopoulos,GRE,F,1.86,80,03-01-94,Kerkyra,None,Kerkyra,2016,Greek
+45,80,Dimitris Trepeklis,GRE,D,1.69,65,17-01-98,Corfu,None,Kerkyra,2016,Greek
+46,83,Branislav Nikić,BIH,M,1.85,77,15-08-83,Gradačac,Zakynthos,Kerkyra,2016,Greek
+47,92,Moise Adilehou,FRA,D,1.90,78,01-11-95,Colombes,Slovan Bratislava,Kerkyra,2016,Greek
+48,99,Antonis Gerekos,GRE,F,,,11-01-99,,None,Kerkyra,2016,Greek
+4,4,Nikolaos Anastasopoulos,GRE,M,1.86,80,01-02-93,Sparta,Panachaiki,Larissa,2016,Greek
+5,5,Borislav Jovanović,SRB,D,1.92,84,16-08-86,Ruma,Ergotelis,Larissa,2016,Greek
+6,6,Manolis Moniakis,GRE,D,1.78,77,09-11-88,Heraklion,OFI,Larissa,2016,Greek
+7,7,Thomas Nazlidis,GRE,F,1.85,85,23-10-87,Thessaloniki,Veria,Larissa,2016,Greek
+8,8,Vasilis Koutsianikoulis,GRE,M,1.68,60,09-08-88,Larissa,OFI,Larissa,2016,Greek
+9,9,Diego Reyes,HON,F,1.89,72,13-01-90,Tocoa,Real Sociedad [HON],Larissa,2016,Greek
+10,10,Nico Varela,URU,F,1.75,70,19-01-91,Montevideo,Botev Plovdiv,Larissa,2016,Greek
+11,11,Andreas Avraam,CYP,M,1.71,67,06-09-87,Larnaca,Anorthosis Famagusta,Larissa,2016,Greek
+12,12,Lehlogonolo Masalesa,RSA,M,1.91,86,21-03-92,Alexandra,Orlando Pirates,Larissa,2016,Greek
+13,13,Francisco Pol Hurtado,VEN,M,1.72,70,17-09-87,Caracas,Panegialios,Larissa,2016,Greek
+15,15,Steven Thicot,FRA,D,1.86,80,14-02-87,Montrieul-sous-Bois,Tondela,Larissa,2016,Greek
+16,16,Nikos Golias,GRE,M,1.84,74,29-07-93,Karditsa,Anagennisi Karditsa,Larissa,2016,Greek
+18,18,Vasilios Rentzas,GRE,D,1.74,71,16-04-92,Melivoia,Ergotelis,Larissa,2016,Greek
+19,19,Dimitris Kapos,GRE,F,1.83,75,28-08-93,Chios,Opountios,Larissa,2016,Greek
+20,20,Adnan Aganović,CRO,M,1.81,77,03-10-87,Dubrovnik,Steaua București,Larissa,2016,Greek
+21,21,Giannis Masouras,GRE,D,1.81,75,24-08-96,Patras,Panachaiki,Larissa,2016,Greek
+22,22,Angelos Karatasios,GRE,D,1.85,78,22-06-97,Katerini,Niki Volos,Larissa,2016,Greek
+23,23,Owusu-Ansah Kontor,GHA,D,1.80,72,24-08-93,Kumasi,Novi Pazar,Larissa,2016,Greek
+24,24,Jānis Ikaunieks,LVA,M,1.83,72,16-02-95,Kuldīga,Metz,Larissa,2016,Greek
+25,25,Konstantinos Theodoropoulos,GRE,G,1.85,70,27-03-90,Athens,Panionios,Larissa,2016,Greek
+26,26,Pavol Farka,SVK,D,1.91,81,27-03-85,Vráble,Skoda Xanthi,Larissa,2016,Greek
+28,28,Gertin Hoxhalli,ALB,M,1.75,70,05-11-96,Korçë,Panachaiki,Larissa,2016,Greek
+30,30,Ximo Navarro,ESP,M,1.71,72,12-09-88,Valencia,Trikala,Larissa,2016,Greek
+32,32,Apostolos Koutoglidis,GRE,G,1.93,90,22-01-97,Serres,PAOK,Larissa,2016,Greek
+35,35,Dimitris Souliotis,GRE,D,1.94,86,23-07-95,Larissa,Tyrnavos 2005,Larissa,2016,Greek
+37,37,Andreas Lampropoulos,GRE,M,1.80,77,30-07-88,Patras,OFI,Larissa,2016,Greek
+41,44,Amit Guluzade,AZE,M,1.76,69,20-11-92,Baku,Sumgayit,Larissa,2016,Greek
+42,54,Dodô,BRA,F,1.74,70,16-10-87,Rio de Janeiro,Joinville,Larissa,2016,Greek
+43,64,Fatjon Andoni,ALB,M,1.85,78,19-06-91,Athens,Apollon Smyrnis,Larissa,2016,Greek
+44,67,Gennadi Xenodochof,GRE,G,1.93,86,30-05-88,Tbilisi,Zakynthos,Larissa,2016,Greek
+45,77,Milo Deletić,SRB,F,1.79,74,13-10-93,Belgrade,Radnik Surdulica,Larissa,2016,Greek
+46,96,James Efmorfidis,GRE,M,1.78,74,18-10-96,Nea Erythraia,AZ Alkmaar,Larissa,2016,Greek
+47,97,Pablo Gállego,ESP,M,1.75,70,01-10-93,Huesca,Lealtad,Larissa,2016,Greek
+48,99,Alejandro Chacopino,ESP,F,1.90,85,05-11-88,Alicante,Marbella,Larissa,2016,Greek
+1,1,Stanislav Namaşco,MDA,G,1.88,89,10-11-86,Tiraspol,AZAL,Levadiakos,2016,Greek
+2,2,Theodoros Tripotseris,GRE,D,1.84,73,04-03-86,Athens,OFI,Levadiakos,2016,Greek
+4,4,Nwankwo Obiora,NGA,M,1.83,77,12-07-91,Kaduna,Académica,Levadiakos,2016,Greek
+5,5,Gary Coulibaly,FRA,M,1.83,79,30-03-86,Bastia,Waasland-Beveren,Levadiakos,2016,Greek
+6,6,Dimitris Machairas,GRE,M,1.80,78,16-08-90,Pyrgos,None,Levadiakos,2016,Greek
+7,7,Mattheos Kapsaskis,GRE,M,1.70,63,12-08-96,Zakynthos,None,Levadiakos,2016,Greek
+8,8,Zézinho,GNB,M,1.76,73,23-09-92,Bissau,Sporting CP,Levadiakos,2016,Greek
+9,9,Vangelis Mantzios,GRE,F,1.91,81,22-04-83,Athens,Atromitos,Levadiakos,2016,Greek
+11,11,Stilianos Vasiliou,GRE,F,1.80,75,29-04-91,Akraifnia,Panetolikos,Levadiakos,2016,Greek
+14,14,Chahir Belghazouani,MAR,M,1.80,70,06-10-86,Porto-Vecchio,Brest,Levadiakos,2016,Greek
+15,15,Ibrahima Niasse,SEN,D,1.88,87,18-04-88,Nancy,Delhi Dynamos,Levadiakos,2016,Greek
+16,16,Antonis Magas,GRE,D,1.89,71,28-02-94,Livadeia,None,Levadiakos,2016,Greek
+17,17,Toni Silva,GNB,M,1.79,74,15-09-93,Bissau,União da Madeira,Levadiakos,2016,Greek
+18,18,Qazim Laçi,ALB,M,1.79,69,19-01-96,Peshkopi,Olympiakos,Levadiakos,2016,Greek
+19,19,Panagiotis Tsintotas,GRE,G,1.92,82,04-07-93,Katerini,Pierikos,Levadiakos,2016,Greek
+20,20,Petros Giakoumakis,GRE,F,1.75,70,03-07-92,Heraklion,Atsalenios,Levadiakos,2016,Greek
+21,21,Zissis Karahalios,GRE,D,1.75,72,10-01-96,Karditsa,Olympiakos,Levadiakos,2016,Greek
+23,23,Jackson Mendy,SEN,D,1.92,78,25-05-87,Mont-Saint-Aignan,Omonia Nicosia,Levadiakos,2016,Greek
+25,25,Symeon Synodinos,GRE,G,1.92,81,05-11-97,Komotini,Kavala,Levadiakos,2016,Greek
+27,27,Nikos Kaltsas,GRE,M,1.79,74,28-06-89,Chalkida,Kalloni,Levadiakos,2016,Greek
+28,28,Theodoros Moschonas,GRE,G,1.97,89,03-12-90,Athens,Fostiras,Levadiakos,2016,Greek
+29,29,Edwin Ouon,FRA,D,1.87,77,26-01-81,Aubervilliers,Apollon Limassol,Levadiakos,2016,Greek
+31,31,Tasos Daskalakis,GRE,G,1.90,88,06-05-95,Chania,Olympiakos Volos,Levadiakos,2016,Greek
+39,39,Mohamed Youssouf,FRA,M,1.68,64,26-03-88,Paris,Veria,Levadiakos,2016,Greek
+41,44,Praxitelis Vouros,GRE,D,1.83,75,05-05-95,Mytilini,Olympiakos,Levadiakos,2016,Greek
+42,55,Carlos Milhazes,POR,M,1.82,72,17-03-81,Póvoa de Varzim,OFI,Levadiakos,2016,Greek
+43,77,Kostas Pappas,GRE,F,1.74,72,30-11-91,Giannina,Krousona,Levadiakos,2016,Greek
+44,81,Thanasis Moulopoulos,GRE,M,1.73,63,09-06-85,Veria,Larissa,Levadiakos,2016,Greek
+45,86,Chumbinho,BRA,M,1.74,69,21-09-86,Palmares,Atromitos,Levadiakos,2016,Greek
+46,88,Lossemy Karaboué,FRA,M,1.70,70,18-03-88,Paris,Troyes,Levadiakos,2016,Greek
+47,97,Leonard Senka,ALB,M,,,26-02-97,,None,Levadiakos,2016,Greek
+3,3,Alberto Botía,ESP,D,1.87,75,27-01-89,Alquerias,Sevilla,Olympiakos,2016,Greek
+4,4,Alaixys Romao,TOG,M,1.80,74,18-01-84,L'Hay-les-Roses,Marseille,Olympiakos,2016,Greek
+6,6,Manuel Da Costa,MAR,D,1.91,82,06-05-86,Saint-Max,Sivasspor,Olympiakos,2016,Greek
+7,7,Kostas Fortounis,GRE,M,1.82,69,16-10-92,Kalambaka,Kaiserslautern,Olympiakos,2016,Greek
+8,8,Andreas Bouhalakis,GRE,M,1.86,82,05-04-93,Heraklion,Ergotelis,Olympiakos,2016,Greek
+9,9,Óscar Cardozo,PAR,F,1.93,87,20-05-83,Campo 9,Trabzonspor,Olympiakos,2016,Greek
+10,10,Alejandro Domínguez,ARG,F,1.73,71,10-06-81,Lanús,Rayo Vallecano,Olympiakos,2016,Greek
+11,11,Marko Marin,GER,M,1.70,63,13-03-89,Gradika,Chelsea,Olympiakos,2016,Greek
+17,17,Karim Ansarifard,IRN,F,1.86,75,03-04-90,Ardabil,Panionios,Olympiakos,2016,Greek
+18,18,Tarik Elyounoussi,NOR,M,1.72,62,23-02-88,Al Hoceima,1899 Hoffenheim,Olympiakos,2016,Greek
+19,19,Esteban Cambiasso,ARG,M,1.77,78,18-08-80,San Fernando,Leicester C,Olympiakos,2016,Greek
+22,22,Aly Cissokho,FRA,D,1.81,75,15-09-87,Blois,Aston Villa,Olympiakos,2016,Greek
+24,24,Alberto De La Bella,ESP,D,1.79,72,02-12-85,Santa Coloma de Gramanet,Real Sociedad,Olympiakos,2016,Greek
+27,27,Stefanos Kapino,GRE,G,1.96,85,18-03-94,Piraeus,Mainz,Olympiakos,2016,Greek
+28,28,André Martins,POR,M,1.66,56,21-01-90,Santa Maria da Feira,Sporting CP,Olympiakos,2016,Greek
+31,31,Nicola Leali,ITA,G,1.88,78,17-02-93,Castiglione delle Stiviere,Juventus,Olympiakos,2016,Greek
+32,32,Thanasis Androutsos,GRE,M,1.82,75,06-05-97,Athens,None,Olympiakos,2016,Greek
+33,33,Lefteris Choutesiotis,GRE,G,1.92,85,20-07-94,Makrychori,None,Olympiakos,2016,Greek
+36,36,Bruno Viana,BRA,D,1.87,75,05-02-95,Macaé,Cruzeiro,Olympiakos,2016,Greek
+41,43,Dimitris Nikolaou,GRE,D,1.89,78,13-08-98,Chalcis,None,Olympiakos,2016,Greek
+42,44,Juan Carlos Paredes,ECU,D,1.74,71,08-07-87,Esmeraldas,Watford,Olympiakos,2016,Greek
+43,45,Panagiotis Retsos,GRE,D,1.84,76,09-08-98,Johannesburg,None,Olympiakos,2016,Greek
+44,52,Giorgos Manthatis,GRE,M,1.82,75,11-05-97,Athens,None,Olympiakos,2016,Greek
+45,77,Diogo Figueiras,BRA,D,1.70,63,01-07-91,Povos,Sevilla,Olympiakos,2016,Greek
+46,92,Sebá,BRA,F,1.80,73,08-06-92,Salvador,Estoril,Olympiakos,2016,Greek
+1,1,Stefanos Kotsolis,GRE,G,1.90,85,06-05-79,Athens,Omonia Nicosia,Panathinaikos,2016,Greek
+3,3,Diamantis Chouchoumis,GRE,D,1.78,75,17-07-94,Aliveri,None,Panathinaikos,2016,Greek
+4,4,Giorgios Koutroubis,GRE,D,1.85,78,10-02-91,Athens,AEK,Panathinaikos,2016,Greek
+5,5,Nuno Reis,POR,D,1.81,76,31-01-91,Murten/Morat,Metz,Panathinaikos,2016,Greek
+7,7,Olivier Boumal,CMR,F,1.72,67,17-09-89,Douala,Panionios,Panathinaikos,2016,Greek
+8,8,Guillermo Molins,SWE,M,1.86,81,26-09-88,Montevideo,Beijing Renhe,Panathinaikos,2016,Greek
+9,9,Marcus Berg,SWE,F,1.83,76,17-08-86,Torsby,Hamburg,Panathinaikos,2016,Greek
+10,10,Zeca,POR,M,1.80,65,31-08-88,Amadora,Vitória Setúbal,Panathinaikos,2016,Greek
+11,11,Sebastián Leto,ARG,F,1.88,77,30-08-86,Alejandro Korn,Catania,Panathinaikos,2016,Greek
+12,12,Nikos Marinakis,GRE,D,1.86,73,13-09-93,Heraklion,None,Panathinaikos,2016,Greek
+14,14,Viktor Klonaridis,BEL,F,1.79,74,28-07-92,Seraing,Lens,Panathinaikos,2016,Greek
+15,15,Luke Steele,ENG,G,1.88,76,24-09-84,Peterborough,Barnsley,Panathinaikos,2016,Greek
+17,17,Robin Lod,FIN,M,1.80,76,17-04-93,Helsinki,HJK Helsinki,Panathinaikos,2016,Greek
+19,19,Lucas Villafañez,ARG,M,1.68,62,04-10-91,Comodoro Rivadavia,Independiente,Panathinaikos,2016,Greek
+20,20,Lautaro Rinaldi,ARG,F,1.80,75,30-12-93,Acassuso,Argentinos Juniors,Panathinaikos,2016,Greek
+21,21,Dimitrios Kourbelis,GRE,M,1.82,73,02-11-93,Korakovouni,Asteras Tripolis,Panathinaikos,2016,Greek
+23,23,Niklas Hult,SWE,D,1.73,65,13-02-90,Värnamo,Nice,Panathinaikos,2016,Greek
+25,25,Rasmus Thelander,DEN,D,1.91,88,09-07-91,Copenhagen,Aalborg,Panathinaikos,2016,Greek
+27,27,Giandomenico Mesto,ITA,D,1.80,73,25-05-82,Monopoli,Napoli,Panathinaikos,2016,Greek
+31,31,Rodrigo Moledo,BRA,D,1.88,84,27-10-87,Rio de Janeiro,Internacional,Panathinaikos,2016,Greek
+34,34,Paschalis Staikos,GRE,M,1.77,73,08-02-96,Drama,None,Panathinaikos,2016,Greek
+38,38,Theodoros Mingos,GRE,M,1.79,79,06-02-98,Athens,None,Panathinaikos,2016,Greek
+39,39,Tasos Chatzigiovanis,GRE,M,1.75,62,31-05-97,Mytilene,None,Panathinaikos,2016,Greek
+40,40,Paul-Jose M'Poku,COD,M,1.77,80,19-04-92,Kinshasa,Chievo Verona,Panathinaikos,2016,Greek
+41,41,Stefanos Evangelou,GRE,D,1.85,75,12-05-98,Athens,Panionios,Panathinaikos,2016,Greek
+42,49,Sotiris Pispas,GRE,F,1.77,69,08-01-98,Athens,None,Panathinaikos,2016,Greek
+43,61,Vassilis Xenopoulos,GRE,G,1.85,80,20-05-98,Athens,None,Panathinaikos,2016,Greek
+44,71,Panagiotis Vlachodimos,GRE,F,1.84,74,12-10-91,Stuttgart,Olympiakos,Panathinaikos,2016,Greek
+45,78,Ousmane Coulibaly,MLI,D,1.83,75,09-07-89,Paris,Platanias,Panathinaikos,2016,Greek
+46,99,Odisseas Vlachodimos,GRE,G,1.88,73,26-04-94,Stuttgart,Stuttgart,Panathinaikos,2016,Greek
+2,2,Dimitris Koutroumanos,GRE,D,1.77,69,25-02-87,Agrinio,AEK,Panetolikos,2016,Greek
+3,3,Alexandros Malis,GRE,D,1.82,75,19-03-97,Agrinio,None,Panetolikos,2016,Greek
+4,4,Miguel Rodrigues,POR,D,1.88,73,16-03-93,Ourém,Nacional [POR],Panetolikos,2016,Greek
+5,5,Giorgos Koussas,GRE,D,1.86,80,12-08-82,Thessaloniki,PAS Giannina,Panetolikos,2016,Greek
+6,6,Federico Bravo,ARG,M,1.85,82,05-10-93,Jesús María,Boca Juniors,Panetolikos,2016,Greek
+7,7,Fabián Muñoz,ARG,F,1.75,72,03-11-91,Rufino,Arsenal [ARG],Panetolikos,2016,Greek
+8,8,Farley Rosa,BRA,M,1.74,64,14-01-94,Santo Antônio do Jacinto,Monte Azul,Panetolikos,2016,Greek
+10,10,Clésio Baúque,MOZ,F,1.74,67,11-10-94,Maputo,Benfica,Panetolikos,2016,Greek
+11,11,Dimitris Papadopoulos,GRE,F,1.77,71,20-10-81,Tashkent,Atromitos,Panetolikos,2016,Greek
+12,12,Anastasios Papazoglou,GRE,D,1.82,76,24-09-88,Serres,Skoda Xanthi,Panetolikos,2016,Greek
+14,14,Grigoris Makos,GRE,M,1.83,74,18-01-87,Athens,Anorthosis Famagusta,Panetolikos,2016,Greek
+15,15,Marko Markovski,SRB,F,1.91,87,26-05-86,Belgrade,Kerkyra,Panetolikos,2016,Greek
+16,16,Álvaro Rey,ESP,M,1.83,75,11-07-89,Seville,Alcorcón,Panetolikos,2016,Greek
+17,17,Marcos Paulo,BRA,M,1.82,70,13-07-88,Pedro Leopoldo,Académica,Panetolikos,2016,Greek
+19,19,Tasos Tsokanis,GRE,F,1.82,78,02-05-91,Chalkida,Asteras Tripolis,Panetolikos,2016,Greek
+20,20,Luís Rocha,POR,D,1.74,70,27-06-93,Vila Nova de Famalicão,Vitória Guimarães,Panetolikos,2016,Greek
+22,22,Giorgos Migas,GRE,M,1.85,78,07-04-94,Amfilochia,None,Panetolikos,2016,Greek
+23,23,Giorgos Vakrakos,GRE,M,1.82,71,18-10-97,Agrinio,None,Panetolikos,2016,Greek
+24,24,Andreas Kolovouris,GRE,G,1.87,85,06-04-92,Patras,Kalamata,Panetolikos,2016,Greek
+28,28,Stefanos Papoutsogiannopoulos,GRE,M,1.80,72,10-08-94,Rhodes,None,Panetolikos,2016,Greek
+29,29,Ilias Gianniotis,GRE,M,1.84,76,05-04-97,Agrinio,None,Panetolikos,2016,Greek
+30,30,Diego Lopes,BRA,M,1.71,64,03-05-94,São Paulo,Benfica,Panetolikos,2016,Greek
+31,31,Zaharias Kavoussakis,GRE,G,1.85,78,11-01-89,Heraklion,Larissa,Panetolikos,2016,Greek
+41,44,Dimitris Chantakias,GRE,M,1.84,74,04-01-95,Agrinio,None,Panetolikos,2016,Greek
+42,55,Enea Mihaj,ALB,D,1.83,72,05-07-98,Agrinio,None,Panetolikos,2016,Greek
+43,82,Dimitris Kyriakidis,GRE,G,1.84,78,24-06-86,Kavala,Skoda Xanthi,Panetolikos,2016,Greek
+44,96,Stathis Vasiloudis,GRE,F,1.77,69,23-02-96,Thessaloniki,Aris,Panetolikos,2016,Greek
+2,2,Vasilis Pliatsikas,GRE,M,1.74,73,14-04-88,Agrinio,Slovan Bratislava,Panionios,2016,Greek
+3,3,Christos Tasoulis,GRE,D,1.78,75,03-05-91,Tripoli,Fostiras,Panionios,2016,Greek
+4,4,Vassilis Patsatzoglou,GRE,D,1.90,85,10-04-94,Xanthi,Iraklis Psachna,Panionios,2016,Greek
+5,5,Stefanos Mouktaris,CYP,D,1.78,65,10-07-94,,Kallithea,Panionios,2016,Greek
+6,6,Vaggelis Oikonomou,GRE,D,1.85,80,18-07-87,Corinth,Ross Co,Panionios,2016,Greek
+7,7,Panagiotis Korbos,GRE,M,1.82,74,11-09-83,Viotia,Panetolikos,Panionios,2016,Greek
+8,8,Panagiotis Ballas,GRE,M,1.82,78,06-09-93,Karditsa,Sonnenhof Großaspach,Panionios,2016,Greek
+9,9,Taxiarchis Fountas,GRE,M,1.68,65,04-09-95,Mesologi,Red Bull Salzburg,Panionios,2016,Greek
+11,11,Lazaros Lambrou,GRE,F,1.83,80,19-12-97,Katerini,PAOK,Panionios,2016,Greek
+13,13,Jérôme Guihoata,CMR,D,1.83,76,07-10-94,Yaoundé,Créteil,Panionios,2016,Greek
+14,14,Dimitris Stavropoulos,GRE,D,1.91,82,01-05-97,Athens,None,Panionios,2016,Greek
+15,15,Marios Antoniadis,CYP,D,1.82,68,14-05-90,Nicosia,APOEL,Panionios,2016,Greek
+19,19,Giorgos Masouras,GRE,F,1.84,78,30-11-93,Amfilochia,Ilisiakos,Panionios,2016,Greek
+21,21,Manolis Siopis,GRE,M,1.71,65,14-05-94,Alexandroupoli,Olympiakos,Panionios,2016,Greek
+22,22,Andreas Gianniotis,GRE,G,1.90,80,18-12-92,Serres,Olympiakos,Panionios,2016,Greek
+23,23,Gerasimos Voukelatos,GRE,F,1.81,76,29-03-98,Kefalonia,None,Panionios,2016,Greek
+24,24,David N'Gog,FRA,F,1.90,79,01-04-89,Gennevilliers,Reims,Panionios,2016,Greek
+30,30,Lefteris Astras,GRE,G,1.88,78,14-02-97,Athens,None,Panionios,2016,Greek
+31,31,El Fardou Nabouhane,FRA,F,1.73,78,10-06-89,Passamainty,Olympiakos,Panionios,2016,Greek
+33,33,Panagiotis Vosniadis,GRE,G,1.90,88,27-07-89,Thessaloniki,Agrotikos,Panionios,2016,Greek
+37,37,Valentinos Vlachos,GRE,D,1.77,70,14-01-92,Athens,Club Brugge,Panionios,2016,Greek
+41,44,Spyros Risvanis,GRE,D,1.96,82,03-01-94,Kalamata,Panathinaikos,Panionios,2016,Greek
+42,52,Aidin Mahmutovič,BIH,F,1.80,75,06-04-86,Doboj,Příbram,Panionios,2016,Greek
+43,64,Nikos Katharios,GRE,M,1.77,73,07-10-94,Thessaloniki,Olympiakos,Panionios,2016,Greek
+44,69,Samed Yeşil,GER,F,1.78,72,25-05-94,Düsseldorf,Liverpool,Panionios,2016,Greek
+45,72,Kevin Tapoko,FRA,M,1.90,80,13-04-94,Laval,RWS Bruxelles,Panionios,2016,Greek
+46,73,Giorgios Badis,GRE,G,1.88,74,30-04-85,Thessaloniki,Omonia Nicosia,Panionios,2016,Greek
+47,77,Masoud Shojaei,IRN,M,1.84,73,09-06-84,Shiraz,Al-Gharafa,Panionios,2016,Greek
+48,88,Kyriakos Savvidis,GRE,M,1.81,75,20-06-95,Thessaloniki,PAOK,Panionios,2016,Greek
+3,3,Léo Matos,BRA,D,1.82,72,02-04-86,Niterói,Dnipro Dnipropetrovsk,PAOK,2016,Greek
+4,4,Marin Leovac,AUT,D,1.79,69,07-08-88,Jajce,Rijeka,PAOK,2016,Greek
+5,5,Dimitris Chatziisaias,GRE,D,1.93,85,21-09-92,Thessaloniki,Panionios,PAOK,2016,Greek
+7,7,Amr Warda,EGY,M,1.76,70,17-09-93,Alexandria,Panetolikos,PAOK,2016,Greek
+8,8,Charis Charisis,GRE,M,1.77,68,12-01-95,Ioannina,PAS Giannina,PAOK,2016,Greek
+9,9,Aleksandar Prijović,SRB,F,1.90,83,21-04-90,St Gallen,Legia Warszawa,PAOK,2016,Greek
+10,10,Djalma,ANG,M,1.75,72,30-05-87,Luanda,Gençlerbirliği,PAOK,2016,Greek
+11,11,Pedro Henrique,BRA,M,1.79,72,16-06-90,Novo Hamburgo,Rennes,PAOK,2016,Greek
+13,13,Stelios Malezas,GRE,D,1.92,81,11-03-85,Katerini,Panetolikos,PAOK,2016,Greek
+15,15,José Ángel Crespo,ESP,D,1.83,72,09-02-87,Lora del Río,Aston Villa,PAOK,2016,Greek
+16,16,Gojko Cimirot,BIH,M,1.78,70,19-12-92,Trebinje,Sarajevo,PAOK,2016,Greek
+20,20,Efthimios Koulouris,GRE,F,1.84,81,06-03-96,Skydra,None,PAOK,2016,Greek
+21,21,Diego Biseswar,NED,M,1.71,73,08-03-88,Amsterdam,Kayserispor,PAOK,2016,Greek
+23,23,eljko Brkić,SRB,G,1.97,95,09-07-86,Novi Sad,Udinese,PAOK,2016,Greek
+26,26,Ergys Kaçe,ALB,M,1.61,60,08-07-93,Korça,None,PAOK,2016,Greek
+27,27,Giannis Mystakidis,GRE,F,1.81,75,07-12-94,Thessaloniki,Freiburg II,PAOK,2016,Greek
+28,28,Yevhen Shakhov,UKR,M,1.75,62,30-11-90,Dnipropetrovsk,Dnipro Dnipropetrovsk,PAOK,2016,Greek
+33,33,Stefanos Athanasiadis,GRE,F,1.85,72,24-12-88,Lakkoma,None,PAOK,2016,Greek
+41,41,Panagiotis Deligiannidis,GRE,F,1.77,72,29-08-96,Thessaloniki,None,PAOK,2016,Greek
+42,43,Fernando Varela,CPV,D,1.82,83,26-11-87,Cascais,Steaua Bucureşti,PAOK,2016,Greek
+43,44,Achilleas Pouggouras,GRE,D,1.87,77,13-12-95,Thessaloniki,None,PAOK,2016,Greek
+44,70,Stelios Kitsiou,GRE,D,1.76,75,28-09-93,Thessaloniki,None,PAOK,2016,Greek
+45,71,Panagiotis Glykos,GRE,G,1.84,77,10-10-86,Volos,Olympiakos Volos,PAOK,2016,Greek
+46,77,Dimitris Pelkas,GRE,M,1.75,68,26-10-93,Giannitsa,None,PAOK,2016,Greek
+47,87,José Alberto Cañas,ESP,M,1.77,64,27-05-87,Jerez de la Frontera,Espanyol,PAOK,2016,Greek
+48,99,Marios Siabanis,GRE,G,1.87,66,28-09-99,Katerini,Pavlos Melas,PAOK,2016,Greek
+1,1,Alexandros Paschalakis,GRE,G,1.93,90,28-07-89,Athens,Panthrakikos,PAS Giannina,2016,Greek
+2,2,Michalis Boukouvalas,GRE,D,1.70,67,14-01-88,Panetolio,Iraklils,PAS Giannina,2016,Greek
+3,3,Andi Lila,ALB,D,1.84,79,12-02-86,Kavajë,KF Tirana,PAS Giannina,2016,Greek
+4,4,Theodoros Berios,GRE,D,1.91,85,21-03-89,Athens,Zenit Čáslav,PAS Giannina,2016,Greek
+5,5,Iraklis Garoufalias,GRE,D,1.85,76,01-05-93,,Fostiras,PAS Giannina,2016,Greek
+6,6,Alexis Michail,GRE,D,1.83,79,18-08-86,Giannina,None,PAS Giannina,2016,Greek
+7,7,Evripidis Giakos,GRE,F,1.81,75,09-04-91,Giannina,None,PAS Giannina,2016,Greek
+8,8,Themistoklis Tzimopoulos,NZL,M,1.88,82,20-11-85,Kozani,Ethnikos Asteras,PAS Giannina,2016,Greek
+9,9,Pedro Conde,ESP,F,1.86,72,26-07-88,Villafranca de Córdoba,Mérida,PAS Giannina,2016,Greek
+10,10,Jairo,BRA,F,1.80,77,06-05-92,Rio de Janeiro,PAOK,PAS Giannina,2016,Greek
+11,11,Noé Acosta,ESP,M,1.77,74,10-12-83,Madrid,Olympiakos Volos,PAS Giannina,2016,Greek
+12,12,Kostas Peristeridis,GRE,G,1.95,85,05-07-91,Chania,Platanias,PAS Giannina,2016,Greek
+13,13,Nikos Koliofoukas,GRE,G,1.86,77,11-09-96,,None,PAS Giannina,2016,Greek
+17,17,Fonsi,ESP,D,1.78,72,22-01-86,Zaragoza,Săgeata Năvodari,PAS Giannina,2016,Greek
+20,20,Nikolaos Karanikas,GRE,D,1.76,70,04-03-92,Larissa,Larissa,PAS Giannina,2016,Greek
+22,22,Chrysovalantis Kozoronis,GRE,M,1.82,81,03-08-92,Heraklion,Ergotelis,PAS Giannina,2016,Greek
+23,23,Leonardo Koutris,GRE,M,1.74,70,23-07-95,Rhodes,Ergotelis,PAS Giannina,2016,Greek
+33,33,Higor Vidal,BRA,M,1.73,60,26-09-96,Campo Largo,Londrina,PAS Giannina,2016,Greek
+34,34,Nikos Korovesis,GRE,M,1.76,70,10-08-91,Chalkida,PAOK,PAS Giannina,2016,Greek
+41,42,Konstantinos Mavropanos,GRE,D,1.92,80,11-12-97,Athens,Apollon Smyrnis,PAS Giannina,2016,Greek
+42,44,Apostolos Skondras,GRE,D,1.84,80,29-12-88,Athens,Larissa,PAS Giannina,2016,Greek
+43,88,Alexandros Nikolias,GRE,M,1.72,62,23-07-94,Kymi,Olympiakos Volos,PAS Giannina,2016,Greek
+44,93,Christopher Maboulou,FRA,M,1.85,79,19-03-90,Montfermeil,Bastia,PAS Giannina,2016,Greek
+45,98,Alexandros Masouras,GRE,M,1.84,75,21-03-98,,None,PAS Giannina,2016,Greek
+2,2,Saado Abdel Salam Fouflia,PLE,D,1.78,72,23-11-97,,None,Platanias,2016,Greek
+3,3,Giannis Kargas,GRE,D,1.86,78,09-12-94,Kilkis,Panachaiki,Platanias,2016,Greek
+4,4,Filip Stanisavljević,SRB,M,1.82,80,20-05-87,Poarevac,Újpest,Platanias,2016,Greek
+5,5,Christos Karipidis,GRE,D,1.85,80,02-12-82,Thessaloniki,Skoda Xanthi,Platanias,2016,Greek
+7,7,Kostas Mendrinos,GRE,M,1.77,74,28-05-85,Athens,Panionios,Platanias,2016,Greek
+8,8,Juan Munafo,ARG,M,1.71,63,20-03-88,Vicente López,Asteras Tripolis,Platanias,2016,Greek
+9,9,Giorgos Manousos,GRE,F,1.78,73,03-12-87,Mytilene,Kalloni,Platanias,2016,Greek
+10,10,Mikalay Signevich,BLR,F,1.94,83,20-02-92,Brest,BATE,Platanias,2016,Greek
+11,11,Giorgos Giakoumakis,GRE,F,1.85,84,09-12-94,Rethymno,Atsalenios,Platanias,2016,Greek
+12,12,Theodoros Lampiris,GRE,G,1.88,82,13-04-97,Kozani,Makedonikos,Platanias,2016,Greek
+20,20,Fanouris Goundoulakis,GRE,M,1.80,80,13-07-83,Loutraki,Panionios,Platanias,2016,Greek
+21,21,Dimitris Kasotakis,GRE,G,1.85,73,21-09-96,Agios Nikolaos,None,Platanias,2016,Greek
+22,22,Yaya Banana,CMR,D,1.92,88,09-07-91,Maroua,Sochaux,Platanias,2016,Greek
+23,23,Raúl Llorente,ESP,D,1.71,67,02-04-86,Madrid,Kalloni,Platanias,2016,Greek
+25,25,Giannis Stathis,GRE,D,1.73,67,20-05-87,Athens,Levadiakos,Platanias,2016,Greek
+26,26,Thanasis Dinas,GRE,F,1.70,66,12-11-89,Komotini,Panathiniakos,Platanias,2016,Greek
+27,27,Vanderson Scarduelli,BRA,D,1.76,75,27-09-84,Dracena,Paulista,Platanias,2016,Greek
+32,32,Dimitris Sotiriou,GRE,G,1.85,79,13-09-87,Athens,PAS Giannina,Platanias,2016,Greek
+34,34,Vitaliy Pryndeta,UKR,D,1.95,76,02-02-93,Dubno,Volyn Lutsk,Platanias,2016,Greek
+39,39,Giannis Papanikolaou,GRE,M,1.81,71,18-11-98,Marousi,None,Platanias,2016,Greek
+41,55,Stelios Marangos,GRE,D,1.78,69,04-05-89,Veria,Veria,Platanias,2016,Greek
+42,77,Alexandros Apostolopoulos,GRE,D,1.80,75,07-11-91,Thessaloniki,PAOK,Platanias,2016,Greek
+43,82,Abdul Rahman Oues,GRE,D,,,14-06-98,,None,Platanias,2016,Greek
+44,90,Dídac,ESP,M,1.73,67,30-12-90,Esporles,Eginiakos,Platanias,2016,Greek
+45,92,Antonis Kokkalas,GRE,G,1.84,80,16-02-92,Chania,Aris Soudas,Platanias,2016,Greek
+46,97,Renato Ziko,ALB,M,1.80,71,16-11-97,Chania,None,Platanias,2016,Greek
+47,98,Dimitris Skouloudakis,GRE,F,1.80,67,01-10-98,Chania,None,Platanias,2016,Greek
+1,1,Giorgos Kantimiris,GRE,G,1.87,77,19-09-82,Rhodes,Fokikos,Veria,2016,Greek
+2,2,Stavros Vasilantonopoulos,GRE,D,1.78,62,28-01-92,Egio,AEK,Veria,2016,Greek
+3,3,Mark Asigba,GHA,D,1.77,66,07-07-90,Accra,Olympiakos,Veria,2016,Greek
+4,4,Christos Melissis,GRE,D,1.84,72,01-12-82,Edessa,Panthrakikos,Veria,2016,Greek
+6,6,Mohamadou Sissoko,FRA,D,1.90,79,08-08-88,Paris,FC Voluntari,Veria,2016,Greek
+7,7,Toni Calvo,ESP,M,1.71,65,28-03-87,Barcelona,Anorthosis Famagusta,Veria,2016,Greek
+8,8,Antonio Tomás,ESP,M,1.76,75,19-01-85,Torrelavega,Numancia,Veria,2016,Greek
+9,9,Pantelis Kapetanos,GRE,F,1.90,82,08-06-83,Ptolemaida,Skoda Xanthi,Veria,2016,Greek
+10,10,Pedro Arce,MEX,M,1.73,65,25-11-91,Saltillo,Kavala,Veria,2016,Greek
+11,11,Kristijan Miljević,SEB,M,1.81,70,15-07-92,Norrköping,Lamia,Veria,2016,Greek
+12,12,Alexandros Safarikas,GRE,G,,,26-08-99,,None,Veria,2016,Greek
+14,14,Halifa Soulé,COM,M,1.74,72,12-11-90,Gonesse,OFI,Veria,2016,Greek
+15,15,Gaël Andonian,ARM,D,1.85,74,07-02-95,Marseille,Marseille,Veria,2016,Greek
+16,16,Sofoklis Radis,GRE,D,1.85,,21-02-98,,None,Veria,2016,Greek
+17,17,Jeffrey Sarpong,NED,M,1.76,65,03-08-88,Amsterdam,Wellington Phoenix,Veria,2016,Greek
+19,19,Giannis Papadopoulos,GRE,M,1.77,67,09-03-89,Thessaloniki,Hapoel Kfar Saba,Veria,2016,Greek
+20,20,Milo Stojčev,MNE,M,1.75,74,19-01-87,Belgrade,Atromitos,Veria,2016,Greek
+21,21,Cyril Kali,FRA,D,1.82,75,21-01-84,Besançon,Panetolikos,Veria,2016,Greek
+22,22,Panagiotis Linardos,GRE,M,1.79,75,07-08-91,Missolonghi,Panegialios,Veria,2016,Greek
+23,23,Ioakim Zygeridis,GRE,F,1.86,,20-01-99,,None,Veria,2016,Greek
+24,24,Alexandros Doris,GRE,F,1.79,,10-07-98,,None,Veria,2016,Greek
+25,25,Sotiris Balafas,GRE,M,1.88,78,19-08-86,Arta,Hoverla Uzhhorod,Veria,2016,Greek
+28,28,Pablo Vitti,ARG,F,1.78,74,09-07-85,Rosario,All Boys,Veria,2016,Greek
+30,30,Theodoris Venetikidis,GRE,G,1.91,,20-02-01,,None,Veria,2016,Greek
+41,55,Jonathan,ESP,G,1.82,83,16-04-81,Langreo,Getafe,Veria,2016,Greek
+42,66,Christos Tzioras,GRE,F,1.77,72,05-10-88,Galatini,Acharnaikos,Veria,2016,Greek
+43,75,Tijani Belaid,TUN,M,1.80,76,06-09-87,Paris,CS Sfaxien,Veria,2016,Greek
+44,88,Yacine Hadji,ALG,M,1.78,70,09-03-93,Tremblay-en-France,Noisy-le-Sec,Veria,2016,Greek
+45,96,Dimitris Mavrias,GRE,M,1.76,70,03-10-96,Karditsa,Anagennisi Karditsa,Veria,2016,Greek
+46,99,Vasilios Konstantinidis,GRE,F,1.91,82,21-04-86,Melbourne,Aris,Veria,2016,Greek
+2,2,Thanassis Papageorgiou,GRE,D,1.83,74,09-05-87,Larissa,Panthrakikos,Xanthi,2016,Greek
+4,4,Aristotelis Karasalidis,GRE,D,1.86,83,03-05-91,Thessaloniki,Iraklis,Xanthi,2016,Greek
+5,5,Dimos Baxevanidis,GRE,M,1.75,69,14-04-88,Komotini,None,Xanthi,2016,Greek
+6,6,Pablo de Lucas,ESP,M,1.80,70,20-09-86,Elche,Viitorul Constanța,Xanthi,2016,Greek
+7,7,Panagiotis Triadis,GRE,F,1.78,72,09-09-92,Herdecke,Wehen-Wiesbaden,Xanthi,2016,Greek
+8,8,Konstantinos Kostas,GRE,M,1.77,68,29-05-97,Giannitsa,None,Xanthi,2016,Greek
+9,9,Hamza Younes,TUN,F,1.83,78,16-04-86,Monastir,Concordia Chiajna,Xanthi,2016,Greek
+10,10,Karim Soltani,FRA,F,1.80,71,29-08-84,Brest,ES Sétif,Xanthi,2016,Greek
+11,11,Adrián Lucero,ARG,M,1.79,71,16-08-84,Las Heras,Apollon Smyrnis,Xanthi,2016,Greek
+12,12,Alfredo Mejía,HON,M,1.70,68,03-04-90,Yoro,Marathón,Xanthi,2016,Greek
+14,14,Panagiotis Stathakis,GRE,G,1.97,85,23-04-97,Alexandroupoli,None,Xanthi,2016,Greek
+15,15,Okan Chatziterzoglou,GRE,D,1.88,78,05-03-96,Xanthi,None,Xanthi,2016,Greek
+16,16,Theodoros Vassilakakis,GRE,M,1.85,68,20-07-88,Thessaloniki,Veria,Xanthi,2016,Greek
+17,17,Fernando Wallace,BRA,D,1.83,72,29-10-86,Cerquilho,Hoverla Uzhhorod,Xanthi,2016,Greek
+18,18,Aristotelis Kollaras,GRE,D,1.80,70,31-12-95,Kavala,None,Xanthi,2016,Greek
+19,19,Antonis Ranos,GRE,F,1.87,78,15-06-93,Xanthi,None,Xanthi,2016,Greek
+20,20,ivko ivković,SRB,G,1.93,89,14-04-89,Uice,Partizan Belgrade,Xanthi,2016,Greek
+21,21,Costas Fliskas,GRE,M,1.81,71,29-12-80,Karditsa,Anagennisi Karditsas,Xanthi,2016,Greek
+22,22,Djordje Lazić,SRB,M,1.81,77,18-06-83,Belgrade,Stal Dniprodzerzhynsk,Xanthi,2016,Greek
+24,24,Petros Orfanidis,GRE,M,1.79,63,23-03-96,Xanthi,None,Xanthi,2016,Greek
+25,25,Marcos Pizzelli,ARM,F,1.78,72,03-10-84,Piracicaba,Al-Fujairah,Xanthi,2016,Greek
+26,26,Lazaros Orfanidis,GRE,M,1.80,65,10-03-95,Xanthi,None,Xanthi,2016,Greek
+27,27,Salimo Sylla,FRA,D,1.70,63,25-01-94,Châlons-en-Champagne,Sint-Truiden,Xanthi,2016,Greek
+31,31,Christos Lisgaras,GRE,D,1.89,81,12-02-86,Giannina,Asteras Tripolis,Xanthi,2016,Greek
+33,33,Stratos Svarnas,GRE,D,1.81,75,11-11-97,Athens,AEK,Xanthi,2016,Greek
+41,48,Manolis Demenikos,GRE,G,1.87,83,22-09-96,Xanthi,None,Xanthi,2016,Greek
+42,66,Khassa Camara,FRA,M,1.75,66,22-10-92,Châtenay-Malabry,Ergotelis,Xanthi,2016,Greek
+43,71,Emmanuel Papasterianos,GRE,M,1.79,72,15-08-87,Halkidiki,Veria,Xanthi,2016,Greek
+44,91,Michalis Zaropoulos,GRE,G,1.84,75,12-07-91,Trikala,None,Xanthi,2016,Greek
+45,97,Rafail-Evripidis Melissopoulos,GRE,F,1.76,70,19-02-97,Xanthi,None,Xanthi,2016,Greek
