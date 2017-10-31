@@ -1,0 +1,642 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Oscar Limia,ARG,G,1.84,80,16-07-75,Avellaneda,Unión (Santa Fe),Arsenal,2014,Argentinian
+2,2,José San Román,ARG,D,1.72,70,17-08-88,General San Martín,Godoy Cruz (Mendoza),Arsenal,2014,Argentinian
+3,3,Matías Sarulyte,ARG,D,1.89,83,13-03-89,Colón,Estudiantes (LP),Arsenal,2014,Argentinian
+4,4,Hugo Nervo,ARG,D,1.83,82,06-01-91,San Nicolás,None,Arsenal,2014,Argentinian
+5,5,Iván Marcone,ARG,M,1.78,75,03-06-90,Sarandi,None,Arsenal,2014,Argentinian
+6,6,Jorge Curbelo,URU,D,1.85,81,21-12-81,Montevideo,Nacional [URU],Arsenal,2014,Argentinian
+7,7,Milton Céliz,ARG,F,1.85,80,25-07-92,Laferrere,None,Arsenal,2014,Argentinian
+8,8,Gastón Esmerado,ARG,M,1.82,77,08-02-78,Lanús,Huracán,Arsenal,2014,Argentinian
+9,9,Federico Raić,ARG,F,1.94,84,24-03-92,La Plata,Gimnasia y Esgrima (LP),Arsenal,2014,Argentinian
+10,10,Julián Cardozo,ARG,M,1.80,74,02-01-92,Lanús,None,Arsenal,2014,Argentinian
+11,11,Emilio Zelaya,ARG,F,1.80,71,30-07-87,San Miguel de Tucumán,Rosario Central,Arsenal,2014,Argentinian
+12,12,Mauricio Aquino,ARG,G,1.88,70,27-10-93,Jacinto Aráuz,None,Arsenal,2014,Argentinian
+13,13,Dany Rosero Valencia,COL,D,1.81,81,06-10-93,Bogotá,None,Arsenal,2014,Argentinian
+14,14,Pablo Burzio,ARG,F,1.78,74,03-12-92,Bulnes,Instituto (Córdoba),Arsenal,2014,Argentinian
+15,15,Damián Pérez,ARG,M,1.90,78,22-12-88,Lanús,None,Arsenal,2014,Argentinian
+16,16,Enzo Prono,PAR,F,1.78,72,27-06-91,Asunción,Sol de América,Arsenal,2014,Argentinian
+17,17,Jorge Báez,PAR,M,1.74,73,23-10-90,Asunción,Olimpia [PAR],Arsenal,2014,Argentinian
+18,18,Hernán Fredes,ARG,M,1.72,70,27-03-87,Avellaneda,Independiente,Arsenal,2014,Argentinian
+19,19,Nicolás Aguirre,ARG,D,1.80,78,27-06-90,Chabas,None,Arsenal,2014,Argentinian
+20,20,Christian Chimino,ARG,D,1.78,72,09-02-88,Luján,Ferro Carril Oeste,Arsenal,2014,Argentinian
+21,21,Federico Freire,ARG,M,1.84,81,06-11-90,Capital Federal,Catania,Arsenal,2014,Argentinian
+22,22,Matías Zaldivia,ARG,D,1.84,87,22-01-91,San Isidro,Chacarita Juniors,Arsenal,2014,Argentinian
+23,23,Ramiro Carrera,ARG,M,1.82,72,24-10-93,Tolosa,None,Arsenal,2014,Argentinian
+24,24,Matías Zaldívar,ARG,M,1.79,76,04-08-95,Avellaneda,None,Arsenal,2014,Argentinian
+25,25,Federico Milo,ARG,D,1.78,75,10-01-92,Quilmes,None,Arsenal,2014,Argentinian
+27,27,Lucas Pugh,ARG,F,1.80,71,01-01-94,Avellaneda,River Plate,Arsenal,2014,Argentinian
+28,28,Bryan Schmidt,ARG,F,1.79,83,19-11-95,La Plata,None,Arsenal,2014,Argentinian
+29,29,Leandro Godoy,ARG,M,1.77,73,09-12-94,Bernal,None,Arsenal,2014,Argentinian
+30,30,Brahian Alemán,URU,F,1.76,73,23-12-89,Montevideo,Unión (Santa Fe),Arsenal,2014,Argentinian
+31,31,Esteban Andrada,ARG,G,1.93,81,26-01-91,Mendoza,Lanús,Arsenal,2014,Argentinian
+32,32,Sebastián Palacios,ARG,F,1.69,69,20-02-92,Juan Bautista Alberdi,River Plate,Arsenal,2014,Argentinian
+33,33,Marcos Curado,ARG,D,1.86,80,09-05-95,Mar del Plata,None,Arsenal,2014,Argentinian
+1,1,Esteban Conde,URU,G,1.87,85,04-03-83,Young,Universidad de Chile,Atlético Rafaela,2014,Argentinian
+2,2,Mauricio Gómez,URU,D,1.78,70,16-04-92,Artigas,Montevideo Wanderers,Atlético Rafaela,2014,Argentinian
+3,3,Lucas Kruspzky,ARG,D,1.75,71,06-04-92,Capital Federal,Arsenal [ARG],Atlético Rafaela,2014,Argentinian
+4,4,Dimas Morales,ARG,D,1.80,76,22-06-94,Rafaela,None,Atlético Rafaela,2014,Argentinian
+5,5,Matías Fissore,ARG,M,1.65,63,21-09-90,San Marcos Sud,None,Atlético Rafaela,2014,Argentinian
+6,6,Mateo Castellano,ARG,M,1.80,78,12-03-96,Rafaela,Ben Hur (Rafaela),Atlético Rafaela,2014,Argentinian
+7,7,Nicolás Orsini,ARG,F,1.70,65,12-09-94,Rafaela,Tiro Federal (Morteros),Atlético Rafaela,2014,Argentinian
+8,8,Nicolás Royón,URU,F,1.72,66,28-01-91,Las Piedras,Liverpool [URU],Atlético Rafaela,2014,Argentinian
+9,9,Mauro Quiroga,ARG,F,1.91,82,07-12-89,Concepción,Alavés,Atlético Rafaela,2014,Argentinian
+10,10,Guillermo Fernández,ARG,M,1.78,73,10-11-91,Granadero Baigorria,Boca Juniors,Atlético Rafaela,2014,Argentinian
+11,11,Federico González,ARG,F,1.78,79,01-06-87,Entre Ríos,Independiente,Atlético Rafaela,2014,Argentinian
+12,12,Guido Rossetti,ARG,G,1.80,76,12-05-93,Rafaela,None,Atlético Rafaela,2014,Argentinian
+13,13,Rodrigo Depetris,ARG,F,1.72,69,05-05-90,San Jorge,None,Atlético Rafaela,2014,Argentinian
+14,14,Adrián Bastía,ARG,M,1.78,78,20-12-78,Gobernador Crespo,Colón (Santa Fe),Atlético Rafaela,2014,Argentinian
+15,15,Germán Rodríguez,ARG,M,1.79,75,05-01-90,Rafaela,None,Atlético Rafaela,2014,Argentinian
+16,16,Pablo Gaitán,ARG,M,1.77,67,09-05-92,Capitán Bermúdez,None,Atlético Rafaela,2014,Argentinian
+17,17,Pablo Pavetti,ARG,M,1.89,85,20-03-91,Rafaela,None,Atlético Rafaela,2014,Argentinian
+18,18,Lucas Albertengo,ARG,F,1.78,73,30-01-91,Egusquiza,None,Atlético Rafaela,2014,Argentinian
+19,19,Franco Jominy,ARG,F,1.86,70,28-08-94,Cañada de Gómez,None,Atlético Rafaela,2014,Argentinian
+20,20,Axel Werner,ARG,G,1.91,86,28-02-96,Rafaela,None,Atlético Rafaela,2014,Argentinian
+21,21,Alexis Niz,ARG,D,1.76,71,15-05-88,Rafaela,None,Atlético Rafaela,2014,Argentinian
+22,22,Sergio Vittor,ARG,M,1.89,86,09-06-89,Villa Elisa,Argentinos Juniors,Atlético Rafaela,2014,Argentinian
+23,23,Marcos Fissore,ARG,D,1.65,63,08-08-92,San Marcos Sud,None,Atlético Rafaela,2014,Argentinian
+24,24,Joel Sacks,ARG,D,1.77,76,10-04-89,Rafaela,None,Atlético Rafaela,2014,Argentinian
+25,25,Carlos De Giorgi,ARG,G,1.87,79,23-04-84,Córdoba,Central Nort (Salta),Atlético Rafaela,2014,Argentinian
+26,26,Jonathan Ferrari,ARG,D,1.86,79,08-05-87,Capital Federal,Guaratinguetá,Atlético Rafaela,2014,Argentinian
+27,27,Rodrigo Colombo,ARG,D,1.92,86,19-11-92,San Marcos Sud,None,Atlético Rafaela,2014,Argentinian
+28,28,Juan Eluchans,ARG,M,1.78,68,14-04-80,Tandil,Banfield,Atlético Rafaela,2014,Argentinian
+29,29,Wálter Serrano,ARG,M,1.77,75,02-07-86,San Nicolás,None,Atlético Rafaela,2014,Argentinian
+30,30,Martín Díaz,URU,D,1.87,79,17-03-88,Montevideo,Montevideo Wanderers,Atlético Rafaela,2014,Argentinian
+31,31,Nicolás Canavessio,ARG,D,1.81,80,17-09-93,Rafaela,Ben Hur (Rafaela),Atlético Rafaela,2014,Argentinian
+32,32,Ignacio Pussetto,ARG,F,1.80,74,21-12-95,Cañada Rosquín,None,Atlético Rafaela,2014,Argentinian
+33,33,Diego Montiel,ARG,M,1.69,70,22-04-96,Santo Tomé,None,Atlético Rafaela,2014,Argentinian
+1,1,Alejandro Alcayaga,ARG,G,1.85,90,14-04-93,,None,Banfield,2014,Argentinian
+2,2,Nicolás Bianchi Arce,ARG,D,1.88,82,28-01-87,Capital Federal,Pescara,Banfield,2014,Argentinian
+3,3,Nicolás Tagliafico,ARG,D,1.72,65,31-08-92,Rafael Calzada,None,Banfield,2014,Argentinian
+4,4,Gonzalo Bettini,ARG,D,1.71,74,26-09-92,Capital Federal,None,Banfield,2014,Argentinian
+5,5,Nicolás Domingo,ARG,M,1.74,70,08-04-85,Totoras,Deportivo Cuenca,Banfield,2014,Argentinian
+6,6,Fabián Noguera,ARG,D,1.92,97,20-03-93,Ramos Mejía,None,Banfield,2014,Argentinian
+7,7,Santiago Salcedo,PAR,F,1.83,80,06-09-81,Asunción,Cerro Porteño,Banfield,2014,Argentinian
+8,8,Nicolás Bertolo,ARG,M,1.80,75,02-01-86,Córdoba,Cruz Azul,Banfield,2014,Argentinian
+10,10,Walter Erviti,ARG,M,1.72,68,12-01-80,Mar de la Plata,Atlante,Banfield,2014,Argentinian
+11,11,Ricardo Noir,ARG,F,1.76,74,26-02-87,Villa Elisa,Boca Juniors,Banfield,2014,Argentinian
+12,12,Marco Di Menno,ARG,D,1.77,69,06-01-93,Llavallol,None,Banfield,2014,Argentinian
+13,13,César Rigamonti,ARG,G,1.86,78,07-04-87,San Agustín,Belgrano (Córdoba),Banfield,2014,Argentinian
+14,14,Favio Segovia,ARG,D,1.89,81,12-01-89,Lomas de Zamora,None,Banfield,2014,Argentinian
+15,15,Emanuel Cecchini,ARG,M,1.79,77,24-12-96,Ingeniero Huergo,None,Banfield,2014,Argentinian
+16,16,Claudio Villagra,ARG,F,1.67,66,02-01-96,Despeñaderos,None,Banfield,2014,Argentinian
+17,17,Leandro Chetti,ARG,F,1.76,75,23-05-93,Capital Federal,None,Banfield,2014,Argentinian
+18,18,Omar Zarif,ARG,M,1.73,70,02-09-78,Avellaneda,Rosario Central,Banfield,2014,Argentinian
+19,19,Mauricio Asenjo,ARG,F,1.85,88,23-07-94,Mendoza,None,Banfield,2014,Argentinian
+20,20,Jonathan Requena,ARG,M,1.74,76,11-06-96,Córdoba,None,Banfield,2014,Argentinian
+21,21,Juan Ezequiel García,ARG,M,1.77,75,09-10-91,Lomas de Zamora,None,Banfield,2014,Argentinian
+22,22,Nahuel Yeri,ARG,M,1.75,76,25-09-91,Mar del Plata,None,Banfield,2014,Argentinian
+23,23,Gaspar Servio,ARG,G,1.82,79,09-03-92,General Belgrano,River Plate,Banfield,2014,Argentinian
+24,24,Iván Rossi,ARG,M,1.83,75,01-11-93,Capital Federal,None,Banfield,2014,Argentinian
+25,25,Enrique Bologna,ARG,G,1.88,85,13-02-82,Claypole,None,Banfield,2014,Argentinian
+26,26,Gustavo Toledo,ARG,D,1.75,63,19-09-89,Avellaneda,None,Banfield,2014,Argentinian
+27,27,Agustín Farías,ARG,M,1.78,73,25-12-87,Azul,Nueva Chicago,Banfield,2014,Argentinian
+28,28,José Devaca,PAR,D,1.80,76,18-09-82,Asunción,Capiatá,Banfield,2014,Argentinian
+29,29,Eric Remedi,ARG,D,1.80,70,04-06-95,Paraná,None,Banfield,2014,Argentinian
+30,30,Jorge Rodríguez,ARG,D,1.78,84,15-09-95,Mendoza,None,Banfield,2014,Argentinian
+31,31,Emiliano Terzaghi,ARG,F,1.70,66,06-03-93,Almirante Brown,None,Banfield,2014,Argentinian
+32,32,Federico Sarobe,ARG,M,,,18-03-92,,None,Banfield,2014,Argentinian
+33,33,Nicolás Tévez,ARG,D,1.82,69,05-01-96,Capital Federal,None,Banfield,2014,Argentinian
+34,34,Juan Manuel García,ARG,F,1.83,72,14-11-92,Tandil,None,Banfield,2014,Argentinian
+35,35,Juan Cuéllar,ARG,M,1.76,71,05-05-96,,None,Banfield,2014,Argentinian
+36,36,Juan Cazares,ECU,M,1.69,65,03-04-92,Quinindé,River Plate,Banfield,2014,Argentinian
+37,37,Enzo Trinidad,ARG,M,1.79,69,19-09-96,Máximo Paz,None,Banfield,2014,Argentinian
+38,38,Miguel Escobar,ARG,M,1.66,70,24-08-95,Moreno,None,Banfield,2014,Argentinian
+39,39,Agustín Fontana,ARG,F,,,11-06-96,Lomas de Zamora,None,Banfield,2014,Argentinian
+1,1,Juan Carlos Olave,ARG,G,1.84,78,21-02-76,Córdoba,Gimnasia y Esgrima (LP),Belgrano (Córdoba),2014,Argentinian
+2,2,Pier Barrios,ARG,D,1.80,74,01-07-90,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+3,3,Federico Álvarez,ARG,D,1.83,78,07-08-94,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+4,4,Renzo Saravia,ARG,D,1.78,73,16-06-93,Villa de María,None,Belgrano (Córdoba),2014,Argentinian
+5,5,Guillermo Farré,ARG,M,1.77,74,16-03-81,Colón,Central Córdoba,Belgrano (Córdoba),2014,Argentinian
+6,6,Cristian Lema,ARG,D,1.90,88,24-03-90,Puerto Madryn,Quilmes,Belgrano (Córdoba),2014,Argentinian
+7,7,César Pereyra,ARG,F,1.68,71,23-11-81,Villa Ocampo,Unión (Santa Fe),Belgrano (Córdoba),2014,Argentinian
+8,8,Lucas Pittinari,ARG,M,1.79,75,30-11-91,Laborde,None,Belgrano (Córdoba),2014,Argentinian
+9,9,Fernando Márquez,ARG,F,1.87,78,10-04-87,Santa Fe,Crucero del Norte,Belgrano (Córdoba),2014,Argentinian
+10,10,Lucas Zelarrayán,ARG,M,1.72,70,20-06-92,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+11,11,César Mansanelli,ARG,M,1.76,75,29-08-80,Córdoba,Atlético Rafaela,Belgrano (Córdoba),2014,Argentinian
+12,12,Federico Pintos,URU,M,1.80,71,17-11-92,Montevideo,Defensor Sporting,Belgrano (Córdoba),2014,Argentinian
+14,14,Nicolás Ferreyra,ARG,D,1.93,82,30-03-93,Río Cuarto,None,Belgrano (Córdoba),2014,Argentinian
+15,15,Carlos Soto,ARG,D,1.73,68,20-01-84,Clorinda,All Boys,Belgrano (Córdoba),2014,Argentinian
+17,17,Pablo Heredia,ARG,G,1.84,85,11-06-90,Rio Grande,None,Belgrano (Córdoba),2014,Argentinian
+18,18,Nahuel Luján,ARG,F,1.77,70,23-08-95,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+19,19,Jorge Velázquez,ARG,M,1.75,73,07-09-82,Vera,Unión (Santa Fe),Belgrano (Córdoba),2014,Argentinian
+20,20,Julio César Furch,ARG,F,1.79,74,29-07-89,Santa Rosa,Olimpo (BB),Belgrano (Córdoba),2014,Argentinian
+21,21,Germán Cochis,ARG,F,1.71,60,12-01-96,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+22,22,Lucas Parodi,ARG,M,1.86,77,30-11-90,Villa Allende,None,Belgrano (Córdoba),2014,Argentinian
+24,24,Emiliano Rigoni,ARG,M,1.80,70,04-02-93,Colonia Caroya,None,Belgrano (Córdoba),2014,Argentinian
+25,25,Gastón Turus,ARG,D,1.78,77,27-05-80,Colonia Caroya,None,Belgrano (Córdoba),2014,Argentinian
+26,26,Joel Valdemarín,ARG,F,1.83,78,09-05-95,,None,Belgrano (Córdoba),2014,Argentinian
+27,27,Jerry Bengtson,HON,F,1.86,83,08-04-87,Santa Rosa de Aguán,New England Revolution,Belgrano (Córdoba),2014,Argentinian
+28,28,Marcos Rivadero,ARG,M,1.78,74,09-10-92,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+29,29,Gabriel Alanís,ARG,M,1.86,73,16-03-94,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+30,30,Tobías Figueroa,ARG,F,1.91,90,13-04-92,Mar del Plata,None,Belgrano (Córdoba),2014,Argentinian
+32,32,Esteban González,ARG,M,1.86,85,16-09-78,Córdoba,Tigre,Belgrano (Córdoba),2014,Argentinian
+35,35,Lucas Acosta,ARG,G,1.87,82,12-03-95,Córdoba,None,Belgrano (Córdoba),2014,Argentinian
+37,37,Lucas Aveldaño,ARG,D,1.85,83,19-07-85,Rafaela,Racing Club,Belgrano (Córdoba),2014,Argentinian
+1,1,Agustín Orión,ARG,G,1.90,83,26-06-81,Ramos Mejía,Estudiantes (LP),Boca Juniors,2014,Argentinian
+2,2,Cata Díaz,ARG,D,1.82,74,13-03-79,San Fernando del Valle,Atlético Madrid,Boca Juniors,2014,Argentinian
+3,3,Emanuel Insúa,ARG,D,1.80,79,10-04-91,Capital Federal,None,Boca Juniors,2014,Argentinian
+4,4,Hernán Grana,ARG,D,1.78,69,12-04-85,Quilmes,All Boys,Boca Juniors,2014,Argentinian
+5,5,Fernando Gago,ARG,M,1.78,69,10-04-86,Ciudadela,Valencia,Boca Juniors,2014,Argentinian
+6,6,Juan Forlín,ARG,D,1.80,72,10-01-88,Reconquista,Al-Rayyan,Boca Juniors,2014,Argentinian
+7,7,Juan Martínez,ARG,F,1.73,73,21-10-85,Viedma,Corinthians,Boca Juniors,2014,Argentinian
+8,8,Pablo Ledesma,ARG,M,1.75,74,04-02-84,La Falda,Catania,Boca Juniors,2014,Argentinian
+9,9,Emanuel Gigliotti,ARG,F,1.83,78,20-05-87,Buenos Aires,Novara,Boca Juniors,2014,Argentinian
+10,10,Luciano Acosta,ARG,M,1.61,59,01-05-94,Rosario,None,Boca Juniors,2014,Argentinian
+11,11,Federico Carrizo,ARG,M,1.74,70,17-05-91,Villa Giardino,Rosario Central,Boca Juniors,2014,Argentinian
+12,12,Emanuel Trípodi,ARG,G,1.89,91,08-01-81,Comodoro Rivadavia,Quilmes,Boca Juniors,2014,Argentinian
+13,13,Nahuel Zárate,ARG,D,1.80,73,27-01-93,Capital Federal,None,Boca Juniors,2014,Argentinian
+14,14,Claudio Pérez,ARG,D,1.87,82,26-12-85,José C. Paz,Belgrano (Córdoba),Boca Juniors,2014,Argentinian
+15,15,Leandro Marín,ARG,D,1.83,81,22-01-92,Neuquén,None,Boca Juniors,2014,Argentinian
+16,16,Gonzalo Castellani,ARG,M,1.83,75,10-08-87,Capital Federal,Godoy Cruz (Mendoza),Boca Juniors,2014,Argentinian
+17,17,Marcelo Meli,ARG,M,1.75,74,20-06-92,Salto,Colón (Santa Fe),Boca Juniors,2014,Argentinian
+18,18,Nicolás Colazo,ARG,M,1.75,71,08-07-90,Capital Federal,None,Boca Juniors,2014,Argentinian
+19,19,Federico Bravo,ARG,M,1.85,82,05-10-93,Jesús María,None,Boca Juniors,2014,Argentinian
+20,20,Adrián Cubas,ARG,M,1.70,70,22-05-96,Aristóbulo del Valle,None,Boca Juniors,2014,Argentinian
+21,21,Cristian Erbes,ARG,M,1.71,69,06-01-90,Capital Federal,None,Boca Juniors,2014,Argentinian
+22,22,Lisandro Magallán,ARG,D,1.84,77,27-09-93,La Plata,Gimnasia y Esgrima (LP),Boca Juniors,2014,Argentinian
+23,23,Sebastian D'Angelo,ARG,G,1.85,82,14-01-89,Bariloche,None,Boca Juniors,2014,Argentinian
+24,24,Guillermo Burdisso,ARG,D,1.87,86,26-09-88,Altos de Chipión,Arsenal [ARG],Boca Juniors,2014,Argentinian
+25,25,Andrés Chávez,ARG,F,1.85,82,21-03-91,Salto,Banfield,Boca Juniors,2014,Argentinian
+26,26,José Pedro Fuenzalida,CHI,M,1.70,67,22-02-85,Santiago,Colo-Colo,Boca Juniors,2014,Argentinian
+27,27,Jonathan Calleri,ARG,F,1.79,75,23-09-93,Capital Federal,All Boys,Boca Juniors,2014,Argentinian
+28,28,Mariano Echeverría,ARG,D,1.92,83,27-05-81,Mar del Plata,Arsenal [ARG],Boca Juniors,2014,Argentinian
+29,29,Leonardo Suárez,ARG,F,1.67,63,30-03-96,José León Suárez,None,Boca Juniors,2014,Argentinian
+30,30,Iván Colman,ARG,M,1.72,65,06-05-95,San Martín,None,Boca Juniors,2014,Argentinian
+31,31,Manuel Vicentini,ARG,G,1.84,80,19-04-90,Sanford,None,Boca Juniors,2014,Argentinian
+32,32,Franco Cristaldo,ARG,M,1.70,70,15-08-96,Capital Federal,None,Boca Juniors,2014,Argentinian
+33,33,Juan Cruz Komar,ARG,D,1.90,78,18-03-96,Rosario,None,Boca Juniors,2014,Argentinian
+34,34,Joel Acosta,ARG,M,1.74,76,16-01-91,Villa Gobernador Gálvez,None,Boca Juniors,2014,Argentinian
+35,35,Matías Zaragoza,ARG,M,1.70,65,20-09-95,Libertad,None,Boca Juniors,2014,Argentinian
+37,37,Jonathan Chmea,ARG,F,,,23-09-96,Capital Federal,None,Boca Juniors,2014,Argentinian
+1,1,Fernando Pellegrino,ARG,G,1.97,90,31-03-86,Vicente López,Atlanta,Defensa y Justicia,2014,Argentinian
+2,2,Pablo De Miranda,ARG,D,1.85,82,24-02-86,Comodoro Rivadavia,Instituto (Córdoba),Defensa y Justicia,2014,Argentinian
+4,4,Damián Martínez,ARG,D,1.77,72,31-01-90,Capital Federal,San Lorenzo,Defensa y Justicia,2014,Argentinian
+5,5,Nery Leyes,ARG,M,1.79,78,25-01-89,Ushuaia,Talleres (Córdoba),Defensa y Justicia,2014,Argentinian
+6,6,Emir Faccioli,ARG,D,1.85,84,05-08-89,Margarita,Lanús,Defensa y Justicia,2014,Argentinian
+7,7,Brian Fernández,ARG,F,1.70,71,26-09-94,Santa Fe,None,Defensa y Justicia,2014,Argentinian
+8,8,Leandro Becerra,ARG,M,1.75,69,26-01-84,Córdoba,Anorthosis Famagusta,Defensa y Justicia,2014,Argentinian
+9,9,Diego Villar,ARG,M,1.75,71,25-04-82,Mar del Plata,Racing Club,Defensa y Justicia,2014,Argentinian
+10,10,Leandro González,ARG,F,1.85,76,14-10-85,Pihué,San Martín (San Juan),Defensa y Justicia,2014,Argentinian
+11,11,Washington Camacho,URU,M,1.77,71,08-04-86,Montevideo,Godoy Cruz (Mendoza),Defensa y Justicia,2014,Argentinian
+12,12,Ciro  Rius,ARG,F,1.76,72,27-10-88,Capital Federal,Argentinos Juniors,Defensa y Justicia,2014,Argentinian
+13,13,Carlos Casteglione,ARG,D,1.81,80,09-05-80,Avellaneda,All Boys,Defensa y Justicia,2014,Argentinian
+14,14,Leandro Fioravanti,ARG,M,1.78,74,16-03-92,Posadas,Vélez Sarsfield,Defensa y Justicia,2014,Argentinian
+15,15,Federico Maya,ARG,D,1.75,70,06-10-93,Trenque Lauquen,None,Defensa y Justicia,2014,Argentinian
+16,16,Emiliano Tellechea,URU,D,1.70,73,05-07-87,Montevideo,San Lorenzo,Defensa y Justicia,2014,Argentinian
+17,17,Juan Dobboleta,ARG,G,1.85,87,31-01-93,Carcarañá,None,Defensa y Justicia,2014,Argentinian
+18,18,Marcelo Benitez,ARG,D,1.78,74,13-01-91,San Francisco Solano,None,Defensa y Justicia,2014,Argentinian
+19,19,Diego Yacob,ARG,M,1.69,65,13-07-91,Carcarañá,None,Defensa y Justicia,2014,Argentinian
+20,20,Julio Rodríguez,PAR,F,1.83,78,05-12-90,Asunción,Dorados de Sinaloa,Defensa y Justicia,2014,Argentinian
+21,21,Gabriel Arias,ARG,G,1.88,80,13-09-87,Neuquén,Olimpo (BB),Defensa y Justicia,2014,Argentinian
+22,22,Juan Tejera,URU,D,1.89,75,26-07-83,Montevideo,Olimpo (BB),Defensa y Justicia,2014,Argentinian
+23,23,Mariano Barbieri,ARG,F,1.79,76,29-11-90,Chivilcoy,Flandria,Defensa y Justicia,2014,Argentinian
+24,24,Javier Yacuzzi,ARG,D,1.70,70,15-08-79,San Nicolás,Rosario Central,Defensa y Justicia,2014,Argentinian
+25,25,Luciano Vella,ARG,D,1.75,71,13-04-81,Rosario,Unión (Santa Fe),Defensa y Justicia,2014,Argentinian
+26,26,Nicolás Fernández,ARG,F,1.65,66,08-02-96,Santa Fe,None,Defensa y Justicia,2014,Argentinian
+27,27,Nicolás Bertochi,ARG,M,1.89,74,09-06-89,Granadero Baigorria,San Lorenzo,Defensa y Justicia,2014,Argentinian
+28,28,Carlos Matheu,ARG,D,1.86,81,13-05-85,Quilmes,Siena,Defensa y Justicia,2014,Argentinian
+29,29,Diego Venturi,ARG,M,1.69,71,10-04-94,Bariloche,None,Defensa y Justicia,2014,Argentinian
+30,30,Axel Juárez,ARG,M,1.73,70,29-07-90,Bella Vista,Mérida [MEX],Defensa y Justicia,2014,Argentinian
+31,31,Maximiliano Gauto,PAR,F,,,01-01-95,Caaguazú,None,Defensa y Justicia,2014,Argentinian
+32,32,Leonardo Landriel,ARG,M,1.80,70,14-07-94,Florencio Varela,None,Defensa y Justicia,2014,Argentinian
+1,1,Agustín Silva,ARG,G,1.91,93,28-06-89,Baradero,None,Estudiantes (La Plata),2014,Argentinian
+2,2,Leandro Desábato,ARG,D,1.86,84,24-01-79,Cafferatta,Argentinos Juniors,Estudiantes (La Plata),2014,Argentinian
+3,3,Ernesto Goñi,URU,D,1.86,80,13-01-85,Montevideo,Quilmes,Estudiantes (La Plata),2014,Argentinian
+4,4,Mauricio Rosales,ARG,D,1.74,68,10-03-92,La Plata,None,Estudiantes (La Plata),2014,Argentinian
+5,5,Gastón Gil Romero,ARG,M,1.77,79,06-05-93,General Roca,None,Estudiantes (La Plata),2014,Argentinian
+6,6,Román Martínez,ARG,M,1.84,79,27-03-83,Morón,Tigre,Estudiantes (La Plata),2014,Argentinian
+7,7,Carlos Auzqui,ARG,M,1.74,69,16-09-91,Longchams,None,Estudiantes (La Plata),2014,Argentinian
+8,8,Israel Damonte,ARG,M,1.75,72,06-01-82,Salto,Nacional [URU],Estudiantes (La Plata),2014,Argentinian
+9,9,Guido Carrillo,ARG,F,1.90,86,25-05-91,La Plata,None,Estudiantes (La Plata),2014,Argentinian
+10,10,Joaquín Correa,ARG,M,1.88,76,13-08-94,Juan Bautista Alberdi,None,Estudiantes (La Plata),2014,Argentinian
+12,12,Hilario Navarro,ARG,G,1.92,84,14-11-80,Corrientes,Independiente,Estudiantes (La Plata),2014,Argentinian
+13,13,Matías Aguirregaray,URU,D,1.74,78,01-04-89,Porto Alegre,Peñarol,Estudiantes (La Plata),2014,Argentinian
+14,14,Sebastián Prediguer,ARG,M,1.84,80,04-09-86,Crespo,Baniyas,Estudiantes (La Plata),2014,Argentinian
+15,15,Ezequiel Cerutti,ARG,F,1.79,75,17-01-92,Junín,Olimpo (BB),Estudiantes (La Plata),2014,Argentinian
+16,16,Germán Ré,ARG,D,1.77,73,02-11-81,Santa Fé,Newell's Old Boys,Estudiantes (La Plata),2014,Argentinian
+17,17,Mauricio Carrasco,ARG,F,1.73,71,24-09-87,Neuquén,None,Estudiantes (La Plata),2014,Argentinian
+18,18,Leonardo Jara,ARG,M,1.77,75,20-05-91,Corrientes,None,Estudiantes (La Plata),2014,Argentinian
+19,19,Matías Orihuela,ARG,D,1.77,70,17-02-92,Córdoba,Deportivo Móron,Estudiantes (La Plata),2014,Argentinian
+20,20,Diego Vera,URU,F,1.84,74,05-01-85,Montevideo,Atlético Rafaela,Estudiantes (La Plata),2014,Argentinian
+21,21,Jonathan Schunke,ARG,D,1.94,85,22-05-87,25 de Mayo,Ferro Carril Oeste,Estudiantes (La Plata),2014,Argentinian
+22,22,Gabriel Graciani,ARG,M,1.80,75,28-11-92,Bovril,Colón (Santa Fe),Estudiantes (La Plata),2014,Argentinian
+23,23,Leandro Benítez,ARG,M,1.80,80,05-04-81,Ensenada,Quilmes,Estudiantes (La Plata),2014,Argentinian
+24,24,Julián Marchioni,ARG,M,1.81,78,11-03-93,La Plata,None,Estudiantes (La Plata),2014,Argentinian
+25,25,Nahuel Losada,ARG,G,1.85,79,17-04-93,Berisso,None,Estudiantes (La Plata),2014,Argentinian
+26,26,Maximiliano Oliva,ARG,D,1.71,76,04-03-90,Gobernador Crespo,Aris Limassol,Estudiantes (La Plata),2014,Argentinian
+27,27,Matías Presentado,ARG,D,1.87,78,13-08-92,Mar del Plata,None,Estudiantes (La Plata),2014,Argentinian
+28,28,Luciano Vargas,ARG,D,1.86,74,28-01-94,Berazategui,None,Estudiantes (La Plata),2014,Argentinian
+29,29,Gabriel Seijas,ARG,M,1.75,70,24-03-94,Ranelagh,None,Estudiantes (La Plata),2014,Argentinian
+30,30,Leonardo Marinucci,ARG,M,1.75,70,28-02-93,La Plata,Villa Mitre (BB),Estudiantes (La Plata),2014,Argentinian
+31,31,Federico Anselmo,ARG,F,1.86,82,17-04-94,Las Acequias,None,Estudiantes (La Plata),2014,Argentinian
+1,1,Yair Bonnin,ARG,G,1.87,83,20-09-90,Villa Elisa,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+2,2,Osvaldo Barsottini,ARG,D,1.82,80,25-08-81,Tandil,Instituto (Córdoba),Gimnasia y Esgrima (La Plata),2014,Argentinian
+4,4,Facundo Oreja,ARG,D,1.69,73,14-06-82,Mar del Plata,Ferro Carril Oeste,Gimnasia y Esgrima (La Plata),2014,Argentinian
+6,6,Maximiliano Coronel,ARG,D,1.80,80,28-04-89,Morón,River Plate,Gimnasia y Esgrima (La Plata),2014,Argentinian
+7,7,Ignacio Jáuregui,ARG,M,1.72,66,02-08-95,Mercedes,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+8,8,Ignacio Fernández,ARG,M,1.82,77,12-01-90,Castelli,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+9,9,Pablo Vegetti,ARG,F,1.87,86,15-10-88,Santo Domingo,Rangers (Talca),Gimnasia y Esgrima (La Plata),2014,Argentinian
+10,10,Álvaro Fernández,URU,M,1.85,68,11-10-85,Colonia,Chicago Fire,Gimnasia y Esgrima (La Plata),2014,Argentinian
+11,11,Matías García,ARG,M,1.74,71,22-10-91,Lanús,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+15,15,Juan Pablo Pocholo,ARG,M,1.74,71,15-04-94,La Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+16,16,Dardo Miloc,ARG,M,1.77,76,16-10-90,La Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+17,17,David Distéfano,ARG,M,1.77,75,13-09-87,Villa Madero,Pandurii Târgu-Jiu,Gimnasia y Esgrima (La Plata),2014,Argentinian
+18,18,Jorge Rojas,PAR,F,1.68,65,07-01-93,Villa Hayes,Benfica,Gimnasia y Esgrima (La Plata),2014,Argentinian
+19,19,Walter Bou,ARG,F,1.74,70,25-08-93,Concordia,Boca Juniors,Gimnasia y Esgrima (La Plata),2014,Argentinian
+20,20,Juan Quiroga,ARG,D,1.79,78,20-04-82,Monteguay,Belgrano (Córdoba),Gimnasia y Esgrima (La Plata),2014,Argentinian
+21,21,Diego Nicolaievsky,ARG,M,1.76,76,20-04-93,Capital Federal,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+22,22,Ignacio Lachalde,ARG,M,1.67,64,06-05-94,La Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+23,23,Fernando Monetti,ARG,G,1.83,78,21-02-89,La Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+24,24,Facundo Urquiza,ARG,D,1.81,78,10-06-92,La Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+25,25,Lucas Licht,ARG,D,1.74,72,06-04-81,Rosario,Racing Club,Gimnasia y Esgrima (La Plata),2014,Argentinian
+26,26,Oliver Benítez,ARG,D,1.85,76,07-06-91,Puerto Iguazú,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+27,27,Maximiliano Gorgerino,ARG,M,1.78,72,19-02-93,Berazategui,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+28,28,Nery Cardozo,PAR,F,1.80,76,26-05-89,Quiíndy,Rubio Ñú,Gimnasia y Esgrima (La Plata),2014,Argentinian
+29,29,Leandro Contín,ARG,F,1.83,78,07-12-95,Caá Catí,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+30,30,Javier Mendoza,ARG,M,1.71,68,02-09-92,Tartagal,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+31,31,Alexis Martín Arias,ARG,G,1.85,80,04-07-92,Pellegrini,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+32,32,Maximiliano Meza,ARG,M,1.80,74,15-01-92,General Paz,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+36,36,Ezequiel Bonifacio,ARG,D,1.69,70,09-05-94,Mar del Plata,None,Gimnasia y Esgrima (La Plata),2014,Argentinian
+41,41,Omar Pouso,URU,M,1.80,79,28-02-80,Mercedes,Libertad,Gimnasia y Esgrima (La Plata),2014,Argentinian
+1,1,Rodrigo Rey,ARG,G,1.92,78,08-03-91,Las Parejas,Newell's Old Boys,Godoy Cruz (Mendoza),2014,Argentinian
+2,2,Luis Jeréz Silva,ARG,D,1.77,74,20-02-89,La Plata,Defensa y Justicia,Godoy Cruz (Mendoza),2014,Argentinian
+3,3,Juan Alvacete,ARG,D,1.84,73,12-01-91,Mendoza,Tigre,Godoy Cruz (Mendoza),2014,Argentinian
+4,4,Lucas Ceballos,ARG,D,1.78,76,25-11-87,La Rioja,Desamparados (San Juan),Godoy Cruz (Mendoza),2014,Argentinian
+5,5,Federico Lértora,ARG,M,1.85,78,05-07-90,Mercedes,Ferro Carril Oeste,Godoy Cruz (Mendoza),2014,Argentinian
+7,7,Sergio Velázquez,ARG,M,1.79,82,12-09-90,Quilmes,Defensa y Justicia,Godoy Cruz (Mendoza),2014,Argentinian
+8,8,Fernando Zuqui,ARG,M,1.70,64,27-11-91,Luján de Cuyo,None,Godoy Cruz (Mendoza),2014,Argentinian
+9,9,Leandro Fernández,ARG,F,1.78,70,12-03-91,Santa Fe,Defensa y Justicia,Godoy Cruz (Mendoza),2014,Argentinian
+10,10,Jonathan Cháves,ARG,M,1.78,68,08-01-89,La Plata,Cobreloa,Godoy Cruz (Mendoza),2014,Argentinian
+11,11,Armando Cooper,PAN,M,1.75,68,26-11-87,Colón,Árabe Unido,Godoy Cruz (Mendoza),2014,Argentinian
+12,12,Roberto Ramírez,ARG,G,1.87,73,07-07-96,San Martín,None,Godoy Cruz (Mendoza),2014,Argentinian
+13,13,Jaime Ayoví,ECU,F,1.82,61,21-02-88,Atahualpa,Tijuana,Godoy Cruz (Mendoza),2014,Argentinian
+14,14,Santiago Gallucci,ARG,M,1.79,69,08-03-91,Ramallo,River Plate,Godoy Cruz (Mendoza),2014,Argentinian
+15,15,Diego Rodríguez,URU,M,1.70,65,04-09-89,Montevideo,Defensor Sporting,Godoy Cruz (Mendoza),2014,Argentinian
+16,16,Juan Fernando Garro,ARG,F,1.79,68,24-11-92,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+17,17,Daniel González,ARG,M,1.75,70,26-01-91,General Rodríguez,Fénix,Godoy Cruz (Mendoza),2014,Argentinian
+18,18,Rubén Ramírez,ARG,F,1.80,78,17-10-82,Margarita,Audax Italiano,Godoy Cruz (Mendoza),2014,Argentinian
+19,19,José Luis Fernández,ARG,M,1.68,67,26-10-87,Capital Federal,Benfica,Godoy Cruz (Mendoza),2014,Argentinian
+20,20,Gonzalo Cabrera,ARG,D,1.69,63,15-01-89,Capital Federal,AEK Larnaca,Godoy Cruz (Mendoza),2014,Argentinian
+21,21,Fabricio Angeleri,ARG,M,1.88,84,15-03-94,Junin,None,Godoy Cruz (Mendoza),2014,Argentinian
+22,22,Claudio Aquino,ARG,M,1.72,67,24-07-91,Burzaco,Defensa y Justicia,Godoy Cruz (Mendoza),2014,Argentinian
+23,23,Guillermo Cosaro,ARG,D,1.80,72,07-07-89,Laboulaye,Talleres (Córdoba),Godoy Cruz (Mendoza),2014,Argentinian
+24,24,Rolando García,PAR,D,1.85,76,10-02-90,San Estanislao,Lobos de la BUAP,Godoy Cruz (Mendoza),2014,Argentinian
+25,25,Sebastián Moyano,ARG,G,1.88,78,26-08-90,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+26,26,Sebastián Olivares,ARG,D,1.80,82,15-05-92,Tunuyán,None,Godoy Cruz (Mendoza),2014,Argentinian
+27,27,Juan Manuel Barrera,ARG,D,1.70,65,28-06-91,Godoy Cruz,Andes Talleres (Mendoza),Godoy Cruz (Mendoza),2014,Argentinian
+28,28,Gabriel Moyano,ARG,M,1.69,67,28-07-92,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+29,29,Sergio López,ARG,M,1.74,71,04-01-89,Burzaco,Temperley,Godoy Cruz (Mendoza),2014,Argentinian
+30,30,Luis De Faría,ARG,M,1.80,70,21-02-96,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+31,31,Juan Manuel Marital,ARG,D,1.73,68,27-05-93,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+32,32,Joan Juncos,ARG,F,,,23-04-94,,None,Godoy Cruz (Mendoza),2014,Argentinian
+33,33,Emanuel García,ARG,M,1.72,72,08-07-93,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+34,34,Gonzalo Burgoa,ARG,M,1.80,70,02-03-93,Mendoza,None,Godoy Cruz (Mendoza),2014,Argentinian
+37,37,Matías Contreras,ARG,D,1.78,69,18-11-94,Tunuyán,None,Godoy Cruz (Mendoza),2014,Argentinian
+38,38,Alan Aldalla,ARG,G,1.88,70,05-07-94,San Martín,None,Godoy Cruz (Mendoza),2014,Argentinian
+40,40,Esteban Burgos,ARG,D,1.88,84,09-01-92,Salta,Talleres (Córdoba),Godoy Cruz (Mendoza),2014,Argentinian
+41,41,Ángel González,ARG,M,1.75,68,16-05-94,Godoy Cruz,None,Godoy Cruz (Mendoza),2014,Argentinian
+1,1,Diego Rodríguez,ARG,G,1.84,80,25-06-89,Capital Federal,None,Independiente,2014,Argentinian
+2,2,Cristian Tula,ARG,D,1.76,73,28-01-78,Rawson,Atlético Nacional,Independiente,2014,Argentinian
+3,3,Lucas Villalba,ARG,D,1.77,68,19-08-94,Florencio Varela,None,Independiente,2014,Argentinian
+4,4,Néstor Breitenbruch,ARG,D,1.78,76,13-09-95,Posadas,None,Independiente,2014,Argentinian
+5,5,Franco Bellocq,ARG,M,1.75,74,15-10-93,General Levalle,None,Independiente,2014,Argentinian
+6,6,Sergio Ojeda,ARG,D,1.83,85,04-01-92,Río Cuarto,None,Independiente,2014,Argentinian
+7,7,Francisco Pizzini,ARG,M,1.77,74,19-09-93,Bahía Blanca,None,Independiente,2014,Argentinian
+8,8,Jesús Méndez,ARG,M,1.79,73,01-08-84,San Martín,Rosario Central,Independiente,2014,Argentinian
+9,9,Sebastián Penco,ARG,F,1.83,82,22-09-83,Morón,San Martín (San Juan),Independiente,2014,Argentinian
+10,10,Federico Insúa,ARG,M,1.79,79,03-01-80,Capital Federal,Vélez Sarsfield,Independiente,2014,Argentinian
+11,11,Federico Mancuello,ARG,M,1.77,75,26-03-89,Reconquista,None,Independiente,2014,Argentinian
+12,12,Facundo Daffonchio,ARG,G,1.87,77,02-02-90,Junín,None,Independiente,2014,Argentinian
+13,13,Rodrigo Moreira,ARG,D,1.87,91,15-07-96,Villa Constitución,None,Independiente,2014,Argentinian
+14,14,Fabián Monserrat,ARG,M,1.70,64,25-06-92,Rosario,None,Independiente,2014,Argentinian
+15,15,Jorge Figal,ARG,D,1.80,64,03-04-94,América,None,Independiente,2014,Argentinian
+16,16,Iván Pérez,ARG,M,1.75,72,23-05-90,Tandil,None,Independiente,2014,Argentinian
+17,17,Patricio Vidal,ARG,F,1.80,73,08-04-92,San Miguel de Tucumán,None,Independiente,2014,Argentinian
+18,18,Emanuel Aguilera,ARG,D,1.88,76,11-06-89,Guaymallén,Godoy Cruz (Mendoza),Independiente,2014,Argentinian
+19,19,Juan Martín Lucero,ARG,F,1.79,72,30-11-91,Mendoza,Defensa y Justicia,Independiente,2014,Argentinian
+20,20,Cristian Ortiz,ARG,M,1.69,70,20-08-92,Rosario,Racing Club [URU],Independiente,2014,Argentinian
+21,21,Claudio Riaño,ARG,F,1.79,80,16-08-88,Córdoba,Boca Juniors,Independiente,2014,Argentinian
+22,22,Germán Montoya,ARG,G,1.85,75,23-01-83,Córdoba,Colón (Santa Fe),Independiente,2014,Argentinian
+23,23,Daniel Gastón Montenegro,ARG,M,1.72,76,28-03-79,Capital Federal,América,Independiente,2014,Argentinian
+24,24,Marcelo Vidal,ARG,M,1.77,77,15-01-91,Capital Federal,None,Independiente,2014,Argentinian
+25,25,Alexis Zárate,ARG,D,1.79,74,08-05-94,General Deheza,None,Independiente,2014,Argentinian
+26,26,Rodrigo Gómez,ARG,M,1.68,65,02-01-93,Santa Fe,Argentinos Juniors,Independiente,2014,Argentinian
+27,27,Víctor Cuesta,ARG,D,1.87,84,19-11-88,La Plata,Arsenal [ARG],Independiente,2014,Argentinian
+28,28,Gabriel Vallés,ARG,D,1.69,65,31-05-86,Mendoza,Godoy Cruz (Mendoza),Independiente,2014,Argentinian
+29,29,Martín Benítez,ARG,F,1.73,72,17-06-94,Posadas,None,Independiente,2014,Argentinian
+30,30,Alan Depotte,ARG,G,1.83,84,18-05-93,La Plata,None,Independiente,2014,Argentinian
+31,31,Rafael Barrios,ARG,D,1.76,78,23-05-93,Corrientes,None,Independiente,2014,Argentinian
+32,32,Matías Pisano,ARG,F,1.66,61,13-12-91,Capital Federal,Chacarita Juniors,Independiente,2014,Argentinian
+33,33,Leonel Miranda,ARG,M,1.70,70,07-01-94,Avellaneda,None,Independiente,2014,Argentinian
+34,34,Sergio Escudero,ARG,M,1.95,82,12-04-83,Punta Alta,Criciúma,Independiente,2014,Argentinian
+35,35,Maximiliano Herrera,ARG,F,1.81,97,08-01-93,La Rioja,None,Independiente,2014,Argentinian
+36,36,Eloy Rodríguez,ARG,F,1.83,76,03-05-93,Corrientes,None,Independiente,2014,Argentinian
+1,1,Agustin Marchesin,ARG,G,1.88,83,16-03-88,González Chávez,Huracán (Tres Arroyos),Lanús,2014,Argentinian
+2,2,Diego Braghieri,ARG,D,1.84,79,23-02-87,Las Parejas,Arsenal [ARG],Lanús,2014,Argentinian
+4,4,Carlos Araujo,ARG,D,1.77,78,19-11-81,Godoy Cruz,AEK,Lanús,2014,Argentinian
+5,5,Diego González,ARG,M,1.80,78,09-02-88,Lomas de Zamora,None,Lanús,2014,Argentinian
+6,6,Maximiliano Velázquez,ARG,D,1.78,72,14-03-80,Concepción del Uruguay,Independiente,Lanús,2014,Argentinian
+7,7,Lautaro Acosta,ARG,M,1.68,68,14-03-88,Glew,Sevilla,Lanús,2014,Argentinian
+9,9,Santiago Silva,URU,F,1.86,73,09-12-80,Montevideo,Boca Juniors,Lanús,2014,Argentinian
+10,10,Silvio Romero,ARG,F,1.77,76,22-07-88,Córdoba,Instituto (Córdoba),Lanús,2014,Argentinian
+11,11,Jorge Váldez,ARG,M,1.76,72,26-05-94,San Vicente,None,Lanús,2014,Argentinian
+12,12,Matías Ibáñez,ARG,G,1.80,74,16-12-86,Capital Federal,Eibar,Lanús,2014,Argentinian
+13,13,Aín Acosta Luna,ARG,G,1.90,77,09-09-94,Rawson,None,Lanús,2014,Argentinian
+14,14,Gustavo Gómez,PAR,D,1.86,85,06-06-93,Misiones,Libertad,Lanús,2014,Argentinian
+15,15,Leandro Somoza,ARG,M,1.85,77,26-01-81,Capital Federal,Boca Juniors,Lanús,2014,Argentinian
+16,16,Víctor Ayala,PAR,M,1.77,70,01-01-88,Asunción,Libertad,Lanús,2014,Argentinian
+17,17,Marcos Astina,ARG,F,1.70,63,21-01-96,Capital Federal,None,Lanús,2014,Argentinian
+19,19,Luciano Balbi,ARG,D,1.72,72,04-04-89,Rosario,None,Lanús,2014,Argentinian
+20,20,Facundo Monteseirín,ARG,D,1.84,82,12-03-95,Cutral Có,None,Lanús,2014,Argentinian
+21,21,Nicolás Pasquini,ARG,D,1.76,69,02-01-91,Los Surgentes,None,Lanús,2014,Argentinian
+22,22,Jorge Ortíz,ARG,M,1.80,69,20-06-84,Castelar,Arsenal [ARG],Lanús,2014,Argentinian
+23,23,Oscar Benítez,ARG,F,1.83,80,14-01-93,Adrogué,None,Lanús,2014,Argentinian
+24,24,Iván Bella,ARG,M,1.80,72,13-09-89,San Martín,Chiapas,Lanús,2014,Argentinian
+25,25,Walter Gallardo,ARG,M,1.79,69,24-01-93,,None,Lanús,2014,Argentinian
+26,26,Lucas Melano,ARG,F,1.86,72,01-03-93,Hernando,Belgrano (Córdoba),Lanús,2014,Argentinian
+27,27,Matías Martínez,ARG,D,1.82,82,24-03-88,Resistencia,Racing Club,Lanús,2014,Argentinian
+28,28,Nicolás Avellaneda,ARG,G,1.91,81,24-02-93,Río Tercero,None,Lanús,2014,Argentinian
+29,29,Marcos Pinto,ARG,D,1.73,76,25-01-94,Formosa,None,Lanús,2014,Argentinian
+32,32,Maximiliano Cáceres,ARG,M,1.83,76,08-05-95,Mendoza,None,Lanús,2014,Argentinian
+35,35,Ignacio Bailone,ARG,F,1.90,80,20-01-94,Rosario,None,Lanús,2014,Argentinian
+2,2,Leandro Fernández,ARG,D,1.79,80,30-01-83,Rosario,Dynamo Moscow,Newell's Old Boys,2014,Argentinian
+3,3,Claudio Corvalán,ARG,D,1.78,74,23-03-89,Quilmes,Racing Club,Newell's Old Boys,2014,Argentinian
+4,4,Marcos Cáceres,PAR,D,1.85,79,05-05-86,San Lorenzo,Racing Club,Newell's Old Boys,2014,Argentinian
+5,5,Diego Mateo,ARG,M,1.76,65,07-08-78,Roldán,Gimnasia y Esgrima (Jujuy),Newell's Old Boys,2014,Argentinian
+6,6,Victor López,ARG,D,1.81,76,19-12-78,Córdoba,Banfield,Newell's Old Boys,2014,Argentinian
+7,7,Lucas Bernardi,ARG,M,1.72,69,27-09-77,Rosario,Monaco,Newell's Old Boys,2014,Argentinian
+8,8,Nicolás Castro,ARG,M,1.80,67,23-01-84,Mina Clavero,Godoy Cruz (Mendoza),Newell's Old Boys,2014,Argentinian
+11,11,Maxi Rodríguez,ARG,M,1.80,79,02-01-81,Rosario,Liverpool,Newell's Old Boys,2014,Argentinian
+12,12,Ezequiel Unsain,ARG,G,1.88,83,09-03-95,Villa Alcaraz,None,Newell's Old Boys,2014,Argentinian
+13,13,Carlos Torres,ARG,D,1.70,65,20-10-94,Rosario,None,Newell's Old Boys,2014,Argentinian
+14,14,Iván Silva,ARG,M,1.84,83,22-01-94,Villa Gobernador Gálvez,None,Newell's Old Boys,2014,Argentinian
+15,15,Milton Casco,ARG,M,1.77,75,11-04-88,María Grande,Gimnasia y Esgrima (LP),Newell's Old Boys,2014,Argentinian
+16,16,Victor Figueroa,ARG,M,1.70,67,29-09-83,Capital Federal,Al-Nassr,Newell's Old Boys,2014,Argentinian
+17,17,Mauricio Tévez,ARG,F,1.70,69,31-07-96,Rosario,None,Newell's Old Boys,2014,Argentinian
+18,18,Horacio Orzán,ARG,M,1.77,74,14-04-88,Santa Sylvina,Sarmiento de Resistencia,Newell's Old Boys,2014,Argentinian
+21,21,Lucas Hoyos,ARG,G,1.83,76,29-04-89,Guaymallen,None,Newell's Old Boys,2014,Argentinian
+22,22,Ezequiel Ponce,ARG,F,1.76,72,29-03-97,Rosario,None,Newell's Old Boys,2014,Argentinian
+23,23,Óscar Ustari,ARG,G,1.84,82,03-07-86,América,Sunderland,Newell's Old Boys,2014,Argentinian
+24,24,Lorenzo Faravelli,ARG,M,1.71,69,29-03-93,Rosario,None,Newell's Old Boys,2014,Argentinian
+25,25,Eugenio Isnaldo,ARG,M,1.81,78,07-01-94,Rosario,None,Newell's Old Boys,2014,Argentinian
+26,26,Cristian Díaz,ARG,D,1.67,63,26-05-89,Villa Constitución,None,Newell's Old Boys,2014,Argentinian
+28,28,Martín Tonso,ARG,M,1.75,71,19-10-89,Colonia Godeken,None,Newell's Old Boys,2014,Argentinian
+29,29,Juan Vieyra,ARG,M,1.75,69,20-04-92,Arrecifes,None,Newell's Old Boys,2014,Argentinian
+30,30,Maximiliano Pollachi,ARG,D,1.82,75,04-01-95,Rosario,None,Newell's Old Boys,2014,Argentinian
+31,31,Leandro Figueroa,ARG,F,1.76,78,02-05-93,Rosario,None,Newell's Old Boys,2014,Argentinian
+32,32,Ignacio Scocco,ARG,F,1.75,71,29-05-85,Hughes,Sunderland,Newell's Old Boys,2014,Argentinian
+33,33,Raúl Villalba,ARG,M,1.76,74,30-11-89,Rosario,None,Newell's Old Boys,2014,Argentinian
+34,34,Lucas Giovagnoli,ARG,F,1.80,78,04-02-94,Rosario,None,Newell's Old Boys,2014,Argentinian
+35,35,Facundo Bustamante,ARG,M,1.71,72,05-11-95,Gualeguay,None,Newell's Old Boys,2014,Argentinian
+36,36,Franco Escobar,ARG,D,1.80,72,21-02-95,Rosario,None,Newell's Old Boys,2014,Argentinian
+37,37,Francisco Fydriszewski,ARG,F,1.83,82,13-04-93,Rosario,None,Newell's Old Boys,2014,Argentinian
+38,38,Enzo Beloso,ARG,D,1.75,68,20-02-94,Charata,None,Newell's Old Boys,2014,Argentinian
+39,39,Fabián Muñoz,ARG,F,1.75,72,03-11-91,Rufino,None,Newell's Old Boys,2014,Argentinian
+41,42,Guillermo Ortiz,ARG,D,1.83,76,09-08-92,Rosario,None,Newell's Old Boys,2014,Argentinian
+42,43,José Agüero,ARG,M,,,22-02-93,Unquillo,None,Newell's Old Boys,2014,Argentinian
+1,1,Nereo Champagne,ARG,G,1.88,88,20-01-85,Salto,San Lorenzo,Olimpo (Bahía Blanca),2014,Argentinian
+2,2,Iván Furios,ARG,D,1.85,79,20-05-79,Entre Rios,Aldosivi,Olimpo (Bahía Blanca),2014,Argentinian
+3,3,Cristian Villanueva,ARG,D,1.79,68,25-12-83,General Roca,Deportivo Roca,Olimpo (Bahía Blanca),2014,Argentinian
+4,4,Adrián Martínez,ARG,M,1.77,71,13-02-92,Capital Federal,San Lorenzo,Olimpo (Bahía Blanca),2014,Argentinian
+5,5,Juan Cobo Gálvez,ARG,M,1.80,80,26-11-84,Córdoba [ARG],O'Higgins,Olimpo (Bahía Blanca),2014,Argentinian
+6,6,Néstor Moiraghi,ARG,D,1.83,83,19-04-85,Cipoletti,Defensor Sporting,Olimpo (Bahía Blanca),2014,Argentinian
+7,7,Mauricio Cuero,COL,M,1.76,76,28-01-93,Tumaco,La Equidad,Olimpo (Bahía Blanca),2014,Argentinian
+8,8,Leonardo Gil,ARG,M,1.76,68,31-05-91,Río Gallegos,CAI (Comodoro Rivadavia),Olimpo (Bahía Blanca),2014,Argentinian
+9,9,Agustín Vuletich,ARG,F,1.85,79,03-11-91,Arias,Vélez Sarsfield,Olimpo (Bahía Blanca),2014,Argentinian
+11,11,Joaquín Susvielles,ARG,F,,,28-02-91,Santa Rosa,Villa Mitre (BB),Olimpo (Bahía Blanca),2014,Argentinian
+12,12,Ezequiel Viola,ARG,G,1.89,86,01-09-87,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+13,13,Luca Orozco,ARG,D,1.88,90,15-04-95,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+14,14,Emanuel Dambolena,ARG,D,,,02-01-92,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+15,15,José Lincopan,ARG,M,1.84,76,25-08-91,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+16,16,David Vega,ARG,M,1.77,79,17-11-80,Guiñazú,Defensa y Justicia,Olimpo (Bahía Blanca),2014,Argentinian
+17,17,Alejandro Otero,ARG,M,1.83,83,06-07-93,Punta Alta,None,Olimpo (Bahía Blanca),2014,Argentinian
+18,18,Jonathan Blanco,ARG,M,1.84,81,29-04-87,José C. Paz,Aldosivi,Olimpo (Bahía Blanca),2014,Argentinian
+19,19,Miguel Borja,COL,F,1.82,74,26-01-93,Tierra Alta,Livorno,Olimpo (Bahía Blanca),2014,Argentinian
+20,20,David Achucarro,ARG,D,1.78,68,05-01-91,Pontevedra,Boca Juniors,Olimpo (Bahía Blanca),2014,Argentinian
+21,21,Juan Sills,ARG,D,1.80,76,04-05-87,San Antonio de Areco,Universidad de Chile,Olimpo (Bahía Blanca),2014,Argentinian
+22,22,Jacobo Mansilla,ARG,M,1.80,73,15-06-87,Castelli,Colón (Santa Fe),Olimpo (Bahía Blanca),2014,Argentinian
+23,23,Juan Manuel Olivares,ARG,M,1.78,75,14-07-88,Wilde,Crucero del Norte,Olimpo (Bahía Blanca),2014,Argentinian
+24,24,Exequiel Parnisari,ARG,D,1.85,78,01-06-90,San Luis,River Plate,Olimpo (Bahía Blanca),2014,Argentinian
+25,25,Leandro Martorano,ARG,M,1.72,75,03-07-95,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+26,26,Emanuel Bilbao,ARG,G,1.78,74,03-11-89,Pringles,None,Olimpo (Bahía Blanca),2014,Argentinian
+27,27,Domingo Blanco,ARG,M,1.67,63,22-04-95,Punta Alta,None,Olimpo (Bahía Blanca),2014,Argentinian
+28,28,Ignacio Torres,ARG,G,1.84,75,01-11-93,Necochea,None,Olimpo (Bahía Blanca),2014,Argentinian
+29,29,Ezequiel Vidal,ARG,F,1.83,70,02-08-95,Bahía Blanca,None,Olimpo (Bahía Blanca),2014,Argentinian
+30,30,Javier Soñer,ARG,F,1.74,69,19-03-95,Corrientes,All Boys,Olimpo (Bahía Blanca),2014,Argentinian
+31,31,Diego Sosa,ARG,M,1.67,64,24-10-91,Tandil,Tiro Federal (BB),Olimpo (Bahía Blanca),2014,Argentinian
+32,32,Orlando Gaona Lugo,PAR,F,1.77,75,25-07-90,Villa Hayes,Boca Juniors,Olimpo (Bahía Blanca),2014,Argentinian
+1,1,Walter Benítez,ARG,G,1.91,86,19-03-93,Chaco,None,Quilmes,2014,Argentinian
+2,2,Sebastián Martínez,URU,D,1.83,86,11-04-83,Montevideo,Cerro,Quilmes,2014,Argentinian
+3,3,Leonardo Alvarado,ARG,D,1.80,76,28-02-92,Mar del Plata,None,Quilmes,2014,Argentinian
+4,4,Adrián Scifo,ARG,D,1.86,80,10-10-87,Monte Caseros,Nueva Chicago,Quilmes,2014,Argentinian
+5,5,Lucas Pérez Godoy,ARG,M,1.78,75,30-06-93,San Martín,None,Quilmes,2014,Argentinian
+6,6,Joel Carli,ARG,D,1.91,89,19-10-86,Mar del Plata,Aldosivi,Quilmes,2014,Argentinian
+7,7,Jonathan Zacaría,ARG,M,1.77,72,06-02-90,Ramos Mejía,Almirante Brown,Quilmes,2014,Argentinian
+8,8,Nicolás López,ARG,M,1.83,83,18-03-94,Quilmes,None,Quilmes,2014,Argentinian
+9,9,Gonzalo Klusener,ARG,F,1.85,80,21-10-83,Oberá,Talleres (Córdoba),Quilmes,2014,Argentinian
+10,10,Brian Sarmiento,ARG,M,1.65,60,22-04-90,Rosario,Ponte Preta,Quilmes,2014,Argentinian
+11,11,Nicolás Cabrera,ARG,M,1.75,69,05-06-84,La Plata,All Boys,Quilmes,2014,Argentinian
+12,12,Gonzalo Acevedo,ARG,G,1.91,94,17-02-92,Salto,San Lorenzo,Quilmes,2014,Argentinian
+14,14,Federico Fioramonti,ARG,D,1.87,81,25-02-89,Malagueño,Jorge Newbery (Villa Mercedes),Quilmes,2014,Argentinian
+15,15,Santiago Martínez,URU,M,1.73,70,30-07-91,Salto,Montevideo Wanderers,Quilmes,2014,Argentinian
+16,16,Sergio Hipperdinger,ARG,F,1.78,69,14-01-92,Chaco,None,Quilmes,2014,Argentinian
+17,17,Sebastián Romero,ARG,M,1.77,72,27-04-78,Berisso,Banfield,Quilmes,2014,Argentinian
+18,18,Rodrigo Braña,ARG,M,1.67,69,03-07-79,Berazategui,Estudiantes (LP),Quilmes,2014,Argentinian
+19,19,Diego Diellos,ARG,F,1.84,74,24-09-93,Misiones,None,Quilmes,2014,Argentinian
+20,20,Brian Cucco,ARG,D,1.80,75,22-01-89,Rosario,Temperley,Quilmes,2014,Argentinian
+21,21,Miguel Montaño,COL,M,1.80,68,25-06-91,Palmira,Uniautónoma,Quilmes,2014,Argentinian
+22,22,Flavio Ciampichetti,ARG,F,1.83,70,07-03-88,Pergamino,Defensores de Belgrano (VR),Quilmes,2014,Argentinian
+23,23,Genaro Vuanello,ARG,F,1.80,77,02-02-92,San Rafael,Gimnasia y Esgrima (Mendoza),Quilmes,2014,Argentinian
+24,24,Damián Leyes,ARG,D,1.80,77,14-01-86,San Luis,Tigre,Quilmes,2014,Argentinian
+25,25,Silvio Dulcich,ARG,G,1.91,82,01-10-81,Río Cuarto,Aurora,Quilmes,2014,Argentinian
+26,26,Jorge Serrano,ARG,D,1.79,77,13-12-83,San Miguel de Tucumán,San Martín (Tucumán),Quilmes,2014,Argentinian
+27,27,Leonel Bontempo,ARG,D,1.72,68,01-11-92,Capital Federal,San Lorenzo,Quilmes,2014,Argentinian
+29,29,Matías Morales,ARG,M,1.80,67,05-07-91,Quilmes,None,Quilmes,2014,Argentinian
+30,30,Lucas Suárez,ARG,D,1.87,79,17-03-95,Río Cuarto,None,Quilmes,2014,Argentinian
+31,31,Alan Alegre,ARG,D,1.82,80,03-02-91,Quilmes,None,Quilmes,2014,Argentinian
+32,32,Emiliano Carrasco,ARG,M,1.77,71,29-05-92,Mar del Plata,None,Quilmes,2014,Argentinian
+33,33,Lucas Passerini,ARG,F,1.89,88,16-07-94,Formosa,None,Quilmes,2014,Argentinian
+34,34,Franco Caseres,ARG,M,1.71,64,04-03-93,Chivilcoy,None,Quilmes,2014,Argentinian
+35,35,Arnaldo González,ARG,M,1.73,76,13-05-89,Quilmes,None,Quilmes,2014,Argentinian
+36,36,Alejandro Cabral,ARG,D,1.86,80,03-08-93,Río Cuarto,None,Quilmes,2014,Argentinian
+37,37,Adrián Fernández,PAR,F,1.82,78,04-08-92,Asunción,Independiente,Quilmes,2014,Argentinian
+38,38,Francisco Ilarregui,ARG,F,1.80,70,06-05-97,Curuzú Cuatiá,None,Quilmes,2014,Argentinian
+40,40,Marcos Ledesma,ARG,G,1.91,80,15-09-96,Río Cuarto,None,Quilmes,2014,Argentinian
+41,41,Leonel Demelchori,ARG,F,1.67,66,08-12-94,Quilmes,None,Quilmes,2014,Argentinian
+1,1,Sebastián Saja,ARG,G,1.88,84,05-06-79,La Plata,AEK,Racing Club,2014,Argentinian
+2,2,Nicolás Sánchez,ARG,D,1.87,82,04-02-86,Capital Federal,Godoy Cruz (Mendoza),Racing Club,2014,Argentinian
+3,3,Leandro Grimi,ARG,D,1.75,70,09-02-85,San Lorenzo,Godoy Cruz (Mendoza),Racing Club,2014,Argentinian
+4,4,José Luis Gómez,ARG,D,1.73,63,13-09-93,Santiago del Estero,None,Racing Club,2014,Argentinian
+5,5,Francisco Cerro,ARG,M,1.79,70,09-02-88,Santiago del Estero,Vélez Sarsfield,Racing Club,2014,Argentinian
+6,6,Luciano Lollo,ARG,D,1.83,80,29-03-87,Alejo Ledesma,Belgrano (Córdoba),Racing Club,2014,Argentinian
+7,7,Gabriel Hauche,ARG,F,1.68,71,27-11-86,Remedios de Escalada,Argentinos Juniors,Racing Club,2014,Argentinian
+10,10,Ricardo Centurión,ARG,M,1.74,65,19-01-93,Avellaneda,None,Racing Club,2014,Argentinian
+11,11,Luciano Aued,ARG,M,1.78,70,01-03-87,La Plata,Gimnasia y Esgrima (LP),Racing Club,2014,Argentinian
+12,12,Juan Musso,ARG,G,1.91,93,06-05-94,San Nicolás,None,Racing Club,2014,Argentinian
+14,14,Nicolás Oroz,ARG,M,1.73,74,01-04-94,Villa Mercedes,None,Racing Club,2014,Argentinian
+15,15,Ezequiel Videla,ARG,M,1.74,73,15-01-88,Cosquín,Universidad de Chile,Racing Club,2014,Argentinian
+16,16,Facundo Castillón,ARG,F,1.69,68,21-08-86,Rosario,Godoy Cruz (Mendoza),Racing Club,2014,Argentinian
+17,17,Marcos Acuña,ARG,M,1.72,72,28-10-91,Zapala,Ferro Carril Oeste,Racing Club,2014,Argentinian
+18,18,Wason Rentería,COL,F,1.85,83,04-07-85,Quibdó,Millonarios,Racing Club,2014,Argentinian
+19,19,Nelson Acevedo,ARG,M,1.79,78,11-07-88,Resistencia,Defensa y Justicia,Racing Club,2014,Argentinian
+20,20,Iván Pillud,ARG,D,1.77,75,24-04-86,Capitán Bermúdez,Tiro Federal (Rosario),Racing Club,2014,Argentinian
+21,21,Nelson Ibáñez,ARG,G,1.85,86,19-11-81,Mendoza,Godoy Cruz (Mendoza),Racing Club,2014,Argentinian
+22,22,Diego Milito,ARG,F,1.83,78,12-06-79,Bernal,Internazionale,Racing Club,2014,Argentinian
+23,23,Gustavo Bou,ARG,F,1.76,72,18-02-90,Concordia,River Plate,Racing Club,2014,Argentinian
+24,24,Ricardo Gastón Díaz,ARG,D,1.70,63,13-03-88,Ciudadela,Gimnasia y Esgrima (LP),Racing Club,2014,Argentinian
+25,25,Germán Voboril,ARG,D,1.75,73,05-05-87,Lanús,San Lorenzo,Racing Club,2014,Argentinian
+28,28,Mariano Bareiro,ARG,M,1.82,76,08-03-95,Capital Federal,None,Racing Club,2014,Argentinian
+29,29,Facundo Castro,ARG,F,1.71,84,28-02-96,San Miguel del Monte,None,Racing Club,2014,Argentinian
+31,31,Yonathan Cabral,ARG,D,1.88,84,10-05-92,Isidro Casanova,None,Racing Club,2014,Argentinian
+35,35,Esteban Saveljich,ARG,D,1.87,76,02-05-91,Tandil,None,Racing Club,2014,Argentinian
+37,37,Gastón Campi,ARG,D,1.92,80,06-04-91,Lanús,None,Racing Club,2014,Argentinian
+1,1,Marcelo Barovero,ARG,G,1.83,73,18-02-84,Porteña,Vélez Sarsfield,River Plate,2014,Argentinian
+2,2,Jonathan Maidana,ARG,D,1.83,80,29-07-85,Adrogué,Metalist Kharkiv,River Plate,2014,Argentinian
+3,3,Éder Álvarez Balanta,COL,D,1.81,84,28-02-93,Bogotá,None,River Plate,2014,Argentinian
+5,5,Matías Kranevitter,ARG,M,1.78,74,21-05-93,Yerba Buena,None,River Plate,2014,Argentinian
+6,6,Ramiro Funes Mori,ARG,D,1.85,74,03-05-91,Mendoza,None,River Plate,2014,Argentinian
+7,7,Rodrigo Mora,URU,F,1.71,71,29-10-87,Rivera,Benfica,River Plate,2014,Argentinian
+8,8,Carlos Sánchez,URU,M,1.70,66,02-12-84,Montevideo,Godoy Cruz (Mendoza),River Plate,2014,Argentinian
+9,9,Fernando Cavenaghi,ARG,F,1.81,78,21-09-83,O'Brien,Pachuca,River Plate,2014,Argentinian
+11,11,Osmar Daniel Ferreyra,ARG,M,1.76,67,09-01-83,Basavilbaso,Independiente,River Plate,2014,Argentinian
+13,13,Bruno Uribarri,ARG,D,1.68,65,06-11-86,General Campos,Colón (Santa Fe),River Plate,2014,Argentinian
+14,14,Augusto Solari,ARG,M,1.80,80,03-01-92,Rosario,None,River Plate,2014,Argentinian
+15,15,Leonardo Pisculichi,ARG,F,1.78,77,18-01-84,Rafael Castillo,Argentinos Juniors,River Plate,2014,Argentinian
+16,16,Ariel Rojas,ARG,M,1.76,70,16-01-86,Garín,Godoy Cruz (Mendoza),River Plate,2014,Argentinian
+17,17,Martin Aguirre,ARG,M,1.68,68,14-09-84,Bahía Blanca,Godoy Cruz (Mendoza),River Plate,2014,Argentinian
+18,18,Giovanni Simeone,ARG,F,1.89,66,05-07-95,Madrid,None,River Plate,2014,Argentinian
+19,19,Téofilo Gutiérrez,COL,F,1.78,70,27-05-85,Barranquilla,Cruz Azul,River Plate,2014,Argentinian
+20,20,Germán Pezzella,ARG,D,1.86,81,27-06-91,Bahía Blanca,None,River Plate,2014,Argentinian
+21,21,Leonel Vangioni,ARG,M,1.81,70,05-05-87,Villa Constitucion,Newell's Old Boys,River Plate,2014,Argentinian
+23,23,Leonardo Ponzio,ARG,M,1.78,75,29-01-82,Las Rojas,Zaragoza,River Plate,2014,Argentinian
+24,24,Emanuel Mammana,ARG,D,1.85,73,10-02-96,Merlo,None,River Plate,2014,Argentinian
+25,25,Gabriel Mercado,ARG,D,1.80,77,18-03-87,Puerto Madryn,Estudiantes (LP),River Plate,2014,Argentinian
+27,27,Nicolás Rodríguez,ARG,G,1.91,83,12-05-93,Quilmes,None,River Plate,2014,Argentinian
+28,28,Guido Rodríguez,ARG,M,1.85,78,12-04-94,Sáenz Peña,None,River Plate,2014,Argentinian
+29,29,Ezequiel Cirigliano,ARG,M,1.70,65,24-01-92,Caseros,None,River Plate,2014,Argentinian
+30,30,Tomás Martínez,ARG,M,1.71,60,07-03-95,Béccar,None,River Plate,2014,Argentinian
+31,31,Lucas Boyé,ARG,F,1.79,81,28-02-96,San Gregorio,None,River Plate,2014,Argentinian
+32,32,Sebastián Driussi,ARG,F,1.78,77,09-02-96,San Justo,None,River Plate,2014,Argentinian
+33,33,Julio Chiarini,ARG,G,1.85,75,04-03-82,Oliva,Instituto (Córdoba),River Plate,2014,Argentinian
+34,34,Juan Cruz Kaprof,ARG,F,1.79,66,12-03-95,Capital Federal,None,River Plate,2014,Argentinian
+36,36,Víctor Cabrera,ARG,D,1.85,75,07-02-93,Lules,None,River Plate,2014,Argentinian
+41,42,Augusto Batalla,ARG,G,1.85,79,30-04-96,Florencio Varela,None,River Plate,2014,Argentinian
+1,1,Mauricio Caranta,ARG,G,1.84,82,31-07-78,Bell Ville,Lanús,Rosario Central,2014,Argentinian
+2,2,Alejandro Donatti,ARG,D,1.80,75,24-10-86,Rafaela,Boca Unidos,Rosario Central,2014,Argentinian
+3,3,Rafael Delgado,ARG,D,1.78,78,13-01-90,Reconquista,None,Rosario Central,2014,Argentinian
+4,4,Paulo Ferrari,ARG,D,1.69,66,04-01-82,Rosario,River Plate,Rosario Central,2014,Argentinian
+5,5,Damián Musto,ARG,M,1.82,80,09-06-87,Casilda,Olimpo (BB),Rosario Central,2014,Argentinian
+6,6,Nahuel Quiroga,ARG,D,1.81,80,05-08-91,Rojas,Sarmiento (Junín),Rosario Central,2014,Argentinian
+7,7,Hernán Encina,ARG,M,1.63,65,03-11-82,Rosario,Instituto (Córdoba),Rosario Central,2014,Argentinian
+8,8,Fernando Barrientos,ARG,M,1.74,71,17-11-91,Lanús,Lanús,Rosario Central,2014,Argentinian
+10,10,Antonio Medina,ARG,F,1.73,69,18-12-84,Resistencia,Boca Unidos,Rosario Central,2014,Argentinian
+11,11,Pablo Becker,ARG,M,1.72,61,29-04-93,Los Quirquinchos,None,Rosario Central,2014,Argentinian
+12,12,Manuel García,ARG,G,1.88,77,08-07-88,Rosario,None,Rosario Central,2014,Argentinian
+13,13,Sebastián Abreu,URU,F,1.93,84,17-10-76,Minas Lavalleja,Nacional [URU],Rosario Central,2014,Argentinian
+14,14,Lucas Lazo,ARG,M,1.75,73,31-01-89,Rosario,None,Rosario Central,2014,Argentinian
+15,15,Maxi González,ARG,M,1.79,73,12-03-94,San Lorenzo,None,Rosario Central,2014,Argentinian
+16,16,Walter Montoya,ARG,M,1.82,76,21-07-93,Machagai,None,Rosario Central,2014,Argentinian
+17,17,Javier Correa,ARG,F,1.89,81,23-10-92,Córdoba,Ferro Carril Oeste,Rosario Central,2014,Argentinian
+19,19,Fernando Piñero,ARG,D,1.75,65,16-02-93,San José de la Esquina,None,Rosario Central,2014,Argentinian
+20,20,José Adolfo Valencia,COL,F,1.86,74,18-12-91,Bogotá,Portland Timbers,Rosario Central,2014,Argentinian
+21,21,Elías Gómez,ARG,D,1.79,70,09-06-94,Granadero Baigorria,None,Rosario Central,2014,Argentinian
+22,22,Franco Niell,ARG,F,1.62,65,22-05-83,Trelew,Gimnasia y Esgrima (LP),Rosario Central,2014,Argentinian
+23,23,Nery Domínguez,ARG,M,1.84,77,09-04-90,Cañada de Gómez,None,Rosario Central,2014,Argentinian
+24,24,Tomás Berra,ARG,D,1.86,85,19-02-91,Rosario,None,Rosario Central,2014,Argentinian
+25,25,Lucas Acevedo,ARG,D,1.94,97,08-11-91,Justiniano Posse,None,Rosario Central,2014,Argentinian
+26,26,Yeimar Gómez,COL,D,1.87,92,23-10-92,Tado,Tiro Federal (Rosario),Rosario Central,2014,Argentinian
+27,27,Jonás Aguirre,ARG,M,1.70,70,05-03-92,Firmat,None,Rosario Central,2014,Argentinian
+28,28,Walter Acuña,ARG,F,1.77,70,04-04-92,San Nicolás,None,Rosario Central,2014,Argentinian
+29,29,Victor Salazar,ARG,D,1.78,70,26-05-93,Santa Fe,None,Rosario Central,2014,Argentinian
+30,30,Franco Cervi,ARG,M,1.80,69,26-05-94,San Lorenzo,None,Rosario Central,2014,Argentinian
+31,31,Jeremias Ledesma,ARG,G,1.86,85,13-02-93,Rosario,None,Rosario Central,2014,Argentinian
+32,32,Federico Flores,ARG,M,1.76,68,18-05-92,Rosario,None,Rosario Central,2014,Argentinian
+34,34,Giovani Lo Celso,ARG,M,1.70,68,09-04-96,Rosario,None,Rosario Central,2014,Argentinian
+35,35,Nicolás Da Campo,ARG,M,1.79,72,06-08-94,Rosario,None,Rosario Central,2014,Argentinian
+36,36,Rodrigo Migone,ARG,F,1.78,69,06-06-96,Rosario,None,Rosario Central,2014,Argentinian
+37,37,Nicolás Herranz,ARG,D,1.83,77,17-06-94,Rosario,None,Rosario Central,2014,Argentinian
+38,38,Jesús Fared,ARG,M,1.82,79,25-03-94,Rosario,None,Rosario Central,2014,Argentinian
+1,1,Leo Franco,ARG,G,1.88,79,20-05-77,San Nicolás,Zaragoza,San Lorenzo,2014,Argentinian
+2,2,Mauro Cetto,ARG,D,1.82,78,14-04-82,Rosario,Palermo,San Lorenzo,2014,Argentinian
+3,3,Mario Yepes,COL,D,1.87,83,13-01-76,Cali,Atalanta,San Lorenzo,2014,Argentinian
+4,4,Gonzalo Prósperi,ARG,D,1.76,76,28-09-85,Capital Federal,Argentinos Juniors,San Lorenzo,2014,Argentinian
+5,5,Juan Mercier,ARG,M,1.85,72,02-02-80,Campana,Al-Wasl,San Lorenzo,2014,Argentinian
+7,7,Julio Buffarini,ARG,M,1.72,72,18-08-88,General Cabrera,Ferro Carril Oeste,San Lorenzo,2014,Argentinian
+8,8,Enzo Kalinski,ARG,M,1.83,72,10-03-87,Santiago del Estero,Quilmes,San Lorenzo,2014,Argentinian
+9,9,Martín Cauteruccio,URU,F,1.79,76,14-04-87,Montevideo,Quilmes,San Lorenzo,2014,Argentinian
+10,10,Leandro Romagnoli,ARG,M,1.72,61,17-03-81,Capital Federal,Sporting CP,San Lorenzo,2014,Argentinian
+11,11,Pablo Barrientos,ARG,M,1.76,66,17-01-85,Comodoro Rivadavia,Catania,San Lorenzo,2014,Argentinian
+12,12,Sebastián Torrico,ARG,G,1.86,84,22-02-80,Godoy Cruz,Godoy Cruz (Mendoza),San Lorenzo,2014,Argentinian
+13,13,Ramiro Arias,ARG,D,1.70,63,06-01-93,Trelew,None,San Lorenzo,2014,Argentinian
+14,14,Walter Kannemann,ARG,D,1.83,77,14-03-91,Concepción del Uruguay,None,San Lorenzo,2014,Argentinian
+15,15,Héctor Villalba,ARG,F,1.72,67,26-07-94,Capital Federal,None,San Lorenzo,2014,Argentinian
+18,18,Rodrigo Contreras,ARG,F,1.75,70,27-10-95,San Miguel de Tucumán,None,San Lorenzo,2014,Argentinian
+19,19,Leandro Navarro,ARG,M,1.83,73,16-04-92,Mar del Plata,None,San Lorenzo,2014,Argentinian
+20,20,Néstor Ortigoza,PAR,M,1.80,79,07-10-84,San Antonio de Padua,Argentinos Juniors,San Lorenzo,2014,Argentinian
+21,21,Emmanuel Más,ARG,D,1.80,81,15-01-89,San Juan,San Martín (San Juan),San Lorenzo,2014,Argentinian
+22,22,Nicolás Blandi,ARG,F,1.81,79,13-01-90,Capital Federal,Boca Juniors,San Lorenzo,2014,Argentinian
+23,23,José Devecchi,ARG,G,1.87,83,09-07-95,Capital Federal,None,San Lorenzo,2014,Argentinian
+24,24,Juan Ignacio Cavallaro,ARG,M,1.71,68,28-06-94,Paraná,Unión (Santa Fe),San Lorenzo,2014,Argentinian
+26,26,Mauro Matos,ARG,F,1.80,80,06-08-82,Castelli,All Boys,San Lorenzo,2014,Argentinian
+27,27,Matías Catalán,ARG,D,1.72,64,19-08-92,Mar del Plata,None,San Lorenzo,2014,Argentinian
+29,29,Fabricio Fontanini,ARG,D,1.80,80,30-03-90,Rafaela,Atlético Rafaela,San Lorenzo,2014,Argentinian
+30,30,Gonzalo Verón,ARG,M,1.78,70,13-12-85,Capital Federal,Sportivo Italiano,San Lorenzo,2014,Argentinian
+31,31,Facundo Quignon,ARG,M,1.77,73,02-05-93,Capital Federal,River Plate,San Lorenzo,2014,Argentinian
+34,34,Gabriel Esparza,ARG,M,1.68,69,30-01-93,Capital Federal,None,San Lorenzo,2014,Argentinian
+1,1,Javier García,ARG,G,1.80,73,29-01-87,Capital Federal,Boca Juniors,Tigre,2014,Argentinian
+2,2,Erik Godoy,ARG,D,1.84,72,16-08-93,Capital Federal,None,Tigre,2014,Argentinian
+3,3,Juan Blengio,ARG,D,1.85,85,26-06-80,San Fernando,None,Tigre,2014,Argentinian
+4,4,Pablo Cáceres,URU,D,1.81,75,22-04-85,Montevideo,Rangers (Talca),Tigre,2014,Argentinian
+5,5,Joaquín Arzura,ARG,M,1.70,71,18-05-93,Campana,None,Tigre,2014,Argentinian
+6,6,Gabriel Peñalba,ARG,M,1.80,75,23-09-84,Quilmes,Argentinos Juniors,Tigre,2014,Argentinian
+7,7,Carlos Luna,ARG,F,1.78,78,17-01-82,Piquillín,Rosario Central,Tigre,2014,Argentinian
+8,8,Martín Galmarini,ARG,M,1.80,77,28-02-82,San Isidro,Atlante,Tigre,2014,Argentinian
+9,9,Facundo Bertoglio,ARG,M,1.71,66,30-06-90,San José de la Esquina,Dynamo Kyiv,Tigre,2014,Argentinian
+10,10,Lucas Wilchez,ARG,M,1.72,65,31-08-83,La Plata,Colo-Colo,Tigre,2014,Argentinian
+11,11,Kevin Itábel,ARG,F,1.79,75,20-08-93,Florida,None,Tigre,2014,Argentinian
+12,12,Fernando Lugo,ARG,G,1.88,81,07-07-94,Capital Federal,None,Tigre,2014,Argentinian
+13,13,Nicolás Navarro,ARG,G,1.90,87,25-03-85,Capital Federal,Kayserispor,Tigre,2014,Argentinian
+14,14,Emiliano Ellacópulos,ARG,M,1.75,67,14-01-92,Munro,None,Tigre,2014,Argentinian
+15,15,Lucas Janson,ARG,F,1.71,67,16-08-94,Olavarría,None,Tigre,2014,Argentinian
+16,16,Pablo Vitti,ARG,F,1.78,74,09-07-85,Rosario,LQU Quito,Tigre,2014,Argentinian
+17,17,Santiago Izaguirre,ARG,D,1.85,79,30-10-94,Quilmes,None,Tigre,2014,Argentinian
+18,18,Sebastián Rusculleda,ARG,M,1.75,74,28-04-85,Laboulaye,Deportivo Quito,Tigre,2014,Argentinian
+19,19,Sebastián Rincón,COL,F,1.85,80,14-01-94,Cali,Atenas,Tigre,2014,Argentinian
+20,20,Facundo Sánchez,ARG,M,1.75,73,07-03-90,Sa Pereyra,Defensa y Justicia,Tigre,2014,Argentinian
+21,21,Sebastián Silguero,ARG,D,1.82,75,01-01-92,Formosa,River Plate,Tigre,2014,Argentinian
+22,22,Ignacio Canuto,ARG,D,1.76,76,20-02-86,Santa Fe,LDU Quito,Tigre,2014,Argentinian
+23,23,Leandro Garate,ARG,F,1.75,75,02-09-93,Villa Constitución,None,Tigre,2014,Argentinian
+24,24,Ignacio Bonadío,ARG,D,1.74,70,27-07-93,Capital Federal,Boca Juniors,Tigre,2014,Argentinian
+25,25,Nicolás Pantaleone,ARG,D,1.80,75,18-02-93,Capital Federal,River Plate,Tigre,2014,Argentinian
+26,26,Lucas Menossi,ARG,M,1.65,65,20-07-92,Beccar,None,Tigre,2014,Argentinian
+27,27,Walter Acevedo,ARG,M,1.74,75,16-02-86,San Justo,River Plate,Tigre,2014,Argentinian
+28,28,Leandro Leguizamón,ARG,F,1.81,76,04-12-88,Capital Federal,None,Tigre,2014,Argentinian
+1,1,Alan Aguerre,ARG,G,1.81,76,23-08-90,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+3,3,Emiliano Papa,ARG,D,1.69,67,19-04-82,Acébal,Rosario Central,Vélez Sarsfield,2014,Argentinian
+5,5,Fabián Cubero,ARG,D,1.75,72,21-12-78,Mar del Plata,UANL Tigres,Vélez Sarsfield,2014,Argentinian
+6,6,Sebastián Dominguez,ARG,D,1.83,67,29-07-80,Capital Federal,América,Vélez Sarsfield,2014,Argentinian
+7,7,Jorge Correa,ARG,F,1.70,70,04-04-93,San Martín,None,Vélez Sarsfield,2014,Argentinian
+9,9,Milton Caraglio,ARG,F,1.87,89,01-12-88,Rosario,Arsenal [ARG],Vélez Sarsfield,2014,Argentinian
+10,10,Roberto Nanni,ARG,F,1.89,78,20-08-81,Azul,Atlante,Vélez Sarsfield,2014,Argentinian
+11,11,Alejandro Cabral,ARG,M,1.85,76,11-09-87,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+12,12,Lucas Pratto,ARG,F,1.88,87,04-06-88,La Plata,Genoa,Vélez Sarsfield,2014,Argentinian
+13,13,Sebastián Sosa,URU,G,1.80,77,19-08-86,Montevideo,Boca Juniors,Vélez Sarsfield,2014,Argentinian
+14,14,Matías Pérez Acuña,ARG,D,1.76,72,09-02-94,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+15,15,Jairo Vélez,ECU,F,1.68,72,21-04-95,Guayaquil,River Plate [ECU],Vélez Sarsfield,2014,Argentinian
+16,16,Leonardo Villalba,ARG,M,1.83,79,29-11-94,El Colorado,None,Vélez Sarsfield,2014,Argentinian
+17,17,Tiago Flores,ARG,M,,,07-05-95,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+18,18,Lautaro Gianetti,ARG,D,1.84,79,13-11-93,San Nicolás,None,Vélez Sarsfield,2014,Argentinian
+19,19,Yamil Asad,ARG,M,1.79,75,27-07-94,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+20,20,Brian Ferreira,ARG,M,1.73,64,24-05-94,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+21,21,Fausto Grillo,ARG,D,1.80,74,20-02-93,Bariloche,None,Vélez Sarsfield,2014,Argentinian
+22,22,Leonardo Rolón,ARG,M,1.71,65,19-01-95,Rosario,None,Vélez Sarsfield,2014,Argentinian
+23,23,Leandro Desábato,ARG,M,1.78,72,29-03-90,Santa Fe,None,Vélez Sarsfield,2014,Argentinian
+24,24,Federico Vázquez,ARG,F,1.82,81,31-03-93,San Martín,None,Vélez Sarsfield,2014,Argentinian
+25,25,Gonzalo Yordan,ARG,G,1.85,70,20-03-94,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+26,26,Sebastián Martelli,ARG,M,1.70,66,13-03-96,Caseros,None,Vélez Sarsfield,2014,Argentinian
+27,27,Leandro Vera,ARG,M,1.76,69,21-02-94,San Justo,None,Vélez Sarsfield,2014,Argentinian
+28,28,Ramiro Cáseres,ARG,F,1.88,83,09-01-94,Ituzaingó,None,Vélez Sarsfield,2014,Argentinian
+29,29,Lucas Romero,ARG,M,1.72,67,18-04-94,Loma Hermosa,None,Vélez Sarsfield,2014,Argentinian
+30,30,Facundo Cardozo,ARG,D,1.78,77,06-04-95,San Miguel,None,Vélez Sarsfield,2014,Argentinian
+31,31,Emiliano Amor,ARG,D,1.83,80,16-05-95,Capital Federal,None,Vélez Sarsfield,2014,Argentinian
+32,32,Lucio Compagnucci,ARG,M,1.74,68,23-02-96,Capital Federal,None,Vélez Sarsfield,2014,Argentinian

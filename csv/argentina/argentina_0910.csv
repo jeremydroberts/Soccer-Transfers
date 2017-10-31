@@ -1,0 +1,662 @@
+,Number,Name,Nat,Pos,Height,Weight,Date of Birth,Birth Place,Previous Club,Current Club,Year,Country League
+1,1,Sebastián  Torrico,ARG,G,1.86,84,22-02-80,Godoy Cruz,Godoy Cruz (Mendoza),Argentinos Juniors,2009,Argentinian
+2,2,Matías  Caruzzo,ARG,D,1.72,76,15-08-84,Capital  Federal,None,Argentinos Juniors,2009,Argentinian
+3,3,Gonzalo  Prósperi,ARG,D,1.76,76,28-09-85,Capital Federal,Godoy  Cruz (Mendoza),Argentinos Juniors,2009,Argentinian
+4,4,Facundo Alfonso,ARG,D,1.70,71,21-04-88,Capital Federal,None,Argentinos Juniors,2009,Argentinian
+5,5,Néstor  Ortigoza,PAR,M,1.80,79,07-10-84,San  Antonio de Padua,None,Argentinos Juniors,2009,Argentinian
+6,6,Ignacio  Canuto,ARG,D,1.76,76,20-02-86,Santa Fe,Unión (Santa Fe),Argentinos Juniors,2009,Argentinian
+7,7,Gustavo Oberman,ARG,F,1.75,75,25-03-85,Quilmes,CFR Cluj,Argentinos Juniors,2009,Argentinian
+8,8,Juan  Mercier,ARG,M,1.85,72,02-02-80,Campana,Platense,Argentinos Juniors,2009,Argentinian
+9,9,Nicolás Pavlovich,ARG,F,1.87,82,14-02-78,Balcarce,Banfield,Argentinos Juniors,2009,Argentinian
+10,10,Gabriel Hauche,ARG,F,1.68,71,27-11-86,Remedios de Escalada,Temperley,Argentinos Juniors,2009,Argentinian
+11,11,Federico Domínguez,ARG,D,1.74,74,13-08-76,Lanús,Nacional [URU],Argentinos Juniors,2009,Argentinian
+13,13,Nicolás  Berardo,ARG,D,1.77,63,26-07-90,Rio Cuarto,None,Argentinos Juniors,2009,Argentinian
+14,14,Mauro  Bogado,ARG,M,1.70,68,31-05-85,San Martín,None,Argentinos Juniors,2009,Argentinian
+15,15,Andrés Romero,ARG,M,1.78,74,21-12-89,Justiniano Posse,None,Argentinos Juniors,2009,Argentinian
+16,16,Matías Rotondi,ARG,F,1.71,77,29-01-92,Puerto Iguazú,None,Argentinos Juniors,2009,Argentinian
+17,17,Juan  Sabiá,ARG,D,1.76,76,17-12-81,Pergamino,Gimnasia y Esgrima (Jujuy),Argentinos Juniors,2009,Argentinian
+18,18,Ismael  Sosa,ARG,F,1.79,70,18-01-87,San Martín,Independiente,Argentinos Juniors,2009,Argentinian
+19,19,Andrés Scotti,URU,M,1.81,80,14-12-75,Flores,Rubin Kazan,Argentinos Juniors,2009,Argentinian
+20,20,Julián Fernández,ARG,D,1.90,83,18-07-89,El Arañado,Atlético Rafaela,Argentinos Juniors,2009,Argentinian
+21,21,Diego García,ARG,F,1.78,71,21-06-84,La Paz,Quilmes,Argentinos Juniors,2009,Argentinian
+22,22,Nicolás Peric,CHI,G,1.83,85,19-10-78,Talca,Everton (Viña del Mar),Argentinos Juniors,2009,Argentinian
+23,23,Ciro  Rius,ARG,F,1.76,72,27-10-88,Capital Federal,None,Argentinos Juniors,2009,Argentinian
+24,24,Germán Basualdo,ARG,M,1.67,69,07-03-84,Capital Federal,Chacarita Juniors,Argentinos Juniors,2009,Argentinian
+25,25,Santiago  Raymonda,ARG,M,1.69,70,03-04-79,Arteaga,Veracruz,Argentinos Juniors,2009,Argentinian
+26,26,Maximiliano Sola,ARG,D,1.84,80,29-04-86,Sunchales,None,Argentinos Juniors,2009,Argentinian
+27,27,Nicolás  Gianni,ARG,F,1.75,74,27-09-82,Villa Adelina,None,Argentinos Juniors,2009,Argentinian
+28,28,René  Lima,ARG,M,1.78,77,03-01-85,Vicente López,Gimnasia y Esgrima (Jujuy),Argentinos Juniors,2009,Argentinian
+29,29,Facundo  Coria,ARG,F,1.80,73,28-05-87,Capital Federal,Vélez Sarsfield,Argentinos Juniors,2009,Argentinian
+30,30,Hernán  Salazar,ARG,F,1.72,70,02-05-90,Isidro Casanova,None,Argentinos Juniors,2009,Argentinian
+31,31,Franco Quiroga,ARG,M,1.76,77,23-12-86,Cutral Có,Instituto (Córdoba),Argentinos Juniors,2009,Argentinian
+32,32,Gabriel Frandiño,ARG,G,1.91,83,08-11-89,Villa María,None,Argentinos Juniors,2009,Argentinian
+34,34,Sebastián Jaime,ARG,F,1.76,72,30-01-87,La Plata,Defensores de Cambaceres,Argentinos Juniors,2009,Argentinian
+1,1,Ludovico  Paulucci,ARG,G,1.86,83,21-06-89,Bigand,None,Arsenal,2009,Argentinian
+2,2,Mariano  Brau,ARG,D,1.83,79,10-07-82,Avellaneda,None,Arsenal,2009,Argentinian
+3,3,Matías Pérez,URU,D,1.73,65,20-07-85,Cardona,Danubio,Arsenal,2009,Argentinian
+4,4,Darío  Espínola,ARG,D,1.82,74,15-09-73,Garuapé,None,Arsenal,2009,Argentinian
+5,5,Franco Peppino,ARG,D,1.79,68,16-06-82,Córdoba,Racing Club,Arsenal,2009,Argentinian
+6,6,Aníbal  Matellán,ARG,D,1.82,82,08-05-77,General  Villegas,Nàstic,Arsenal,2009,Argentinian
+7,7,Facundo  Pérez Castro,ARG,M,1.78,73,07-08-81,San Miguel de Tucumán,San Martín (Tucumán),Arsenal,2009,Argentinian
+8,8,Sergio  Sena,ARG,M,1.69,69,25-08-82,Capital  Federal,Vélez Sarsfield,Arsenal,2009,Argentinian
+9,9,Alexander Medina,URU,F,1.79,74,08-08-78,Salto,Nacional [URU],Arsenal,2009,Argentinian
+10,10,Jonathan López,ARG,M,1.75,74,19-01-89,Villa del Rosario,Atlético Rafaela,Arsenal,2009,Argentinian
+11,11,Federico Poggi,ARG,M,1.66,65,10-01-81,Capital Federal,Ajaccio,Arsenal,2009,Argentinian
+12,12,Darío  Benedetto,ARG,F,1.75,75,10-01-86,Berazategui,None,Arsenal,2009,Argentinian
+13,13,Mariano Martínez,ARG,F,1.80,80,29-01-79,Capital Federal,Argentinos Juniors,Arsenal,2009,Argentinian
+14,14,Nahuel Sachetto,ARG,M,1.75,75,06-02-88,Campana,None,Arsenal,2009,Argentinian
+15,15,Damián  Pérez,ARG,M,1.90,78,22-12-88,Lanús,None,Arsenal,2009,Argentinian
+16,16,Cristian Tula,ARG,D,1.76,73,28-01-78,Rawson,San Lorenzo,Arsenal,2009,Argentinian
+17,17,Cristian  Campestrini,ARG,G,1.82,82,16-06-80,San Nicolás,Almirante Brown,Arsenal,2009,Argentinian
+18,18,Pablo  Villalba Fretes,PAR,F,1.86,80,17-03-89,Pedro Caballero,None,Arsenal,2009,Argentinian
+19,19,Catriel  Orcellet,ARG,G,1.88,76,10-05-78,Villa  Elisa,Lanús,Arsenal,2009,Argentinian
+20,20,Nicolás  Aguirre,ARG,D,1.80,78,27-06-90,Chabas,None,Arsenal,2009,Argentinian
+21,21,Diego  Galván,ARG,F,1.80,75,19-03-82,General Rodríguez,Estudiantes (LP),Arsenal,2009,Argentinian
+22,22,Juan  Bottaro,ARG,D,1.76,75,20-07-88,Lincoln [ARG],None,Arsenal,2009,Argentinian
+23,23,Cristian  Álvarez,ARG,D,1.83,73,09-01-78,Capital Federal,Córdoba,Arsenal,2009,Argentinian
+24,24,Javier  Yacuzzi,ARG,D,1.70,70,15-08-79,San  Nicolás,Tiro  Federal (Rosario),Arsenal,2009,Argentinian
+25,25,Matías Sierra,ARG,M,1.73,72,19-02-90,Capital  Federal,None,Arsenal,2009,Argentinian
+26,26,Matías Carabajal,ARG,D,1.76,75,03-06-86,Jujuy,None,Arsenal,2009,Argentinian
+27,27,Víctor  Cuesta,ARG,D,1.87,84,19-11-88,La Plata,None,Arsenal,2009,Argentinian
+28,28,Hugo Nervo,ARG,D,1.83,82,06-01-91,San Nicolás,None,Arsenal,2009,Argentinian
+29,29,Franco  Jara,ARG,F,1.82,77,15-07-88,Villa María,None,Arsenal,2009,Argentinian
+30,30,Iván  Marcone,ARG,M,1.78,75,03-06-90,Sarandi,None,Arsenal,2009,Argentinian
+31,31,Facundo  Silva,ARG,M,1.76,64,19-01-91,La Plata,None,Arsenal,2009,Argentinian
+32,32,Claudio  Mosca,ARG,M,1.80,72,02-04-91,Bernal,None,Arsenal,2009,Argentinian
+33,33,Javier Burrai,ARG,G,1.87,81,09-10-90,San Nicolás,None,Arsenal,2009,Argentinian
+34,34,Mauro  Matos,ARG,F,1.80,80,06-08-82,Castelli,Deportivo Armenio,Arsenal,2009,Argentinian
+1,1,Lucas Ischuk,ARG,G,1.86,84,26-04-80,Santa Isabel,Real Arroyo Seco,Atlético Tucumán,2009,Argentinian
+2,2,Facundo  Morales,ARG,D,,,16-06-92,,None,Atlético Tucumán,2009,Argentinian
+3,3,Raúl  Saavedra,ARG,D,1.66,69,08-03-78,San Miguel de Tucumán,San Martín (Tucumán),Atlético Tucumán,2009,Argentinian
+4,4,Andrés Bressán,ARG,D,1.80,77,12-01-77,Corral de Bustos,Tiro Federal (Rosario),Atlético Tucumán,2009,Argentinian
+5,5,Martín  Granero,ARG,M,1.75,70,11-03-83,General  Levalle,Sportivo Patria,Atlético Tucumán,2009,Argentinian
+6,6,Juan  Manuel Azconzábal,ARG,D,1.79,78,08-09-74,Junín,Las Palmas,Atlético Tucumán,2009,Argentinian
+7,7,Luis  Rodríguez,ARG,F,1.68,71,01-01-85,San Miguel de Tucumán,Aldosivi,Atlético Tucumán,2009,Argentinian
+8,8,Diego Erroz,ARG,M,1.78,71,21-09-78,Berrotarán,Tiro Federal (Rosario),Atlético Tucumán,2009,Argentinian
+9,9,Emanuel Gigliotti,ARG,F,1.83,78,20-05-87,Buenos Aires,All Boys,Atlético Tucumán,2009,Argentinian
+10,10,Claudio Sarría,ARG,M,1.72,71,10-08-75,Córdoba,León,Atlético Tucumán,2009,Argentinian
+11,11,César Montiglio,ARG,M,1.70,75,30-01-84,Yerba Buena,None,Atlético Tucumán,2009,Argentinian
+12,12,Iván Benedetti,ARG,G,1.86,84,01-01-91,San Miguel de Tucumán,None,Atlético Tucumán,2009,Argentinian
+13,13,Héctor  Desvaux,ARG,D,1.80,75,04-02-80,Santa  Fe,Gimnasia  y Esgrima (Jujuy),Atlético Tucumán,2009,Argentinian
+14,14,Damián  Musto,ARG,M,1.82,80,09-06-87,Casilda,Quilmes,Atlético Tucumán,2009,Argentinian
+15,15,Pablo Calandria,ARG,F,1.83,74,15-03-82,Ituzantingó,Gimnasia  y Esgrima (Jujuy),Atlético Tucumán,2009,Argentinian
+16,16,Rodrígo  Herrera,ARG,D,1.92,85,06-03-89,San Miguel de Tucumán,None,Atlético Tucumán,2009,Argentinian
+17,17,Deivis Barone,URU,D,1.84,83,28-08-79,San Ramón,Caracas,Atlético Tucumán,2009,Argentinian
+18,18,Matías  Villavicencio,ARG,D,1.81,80,18-09-81,Berazategui,San Martín (Tucumán),Atlético Tucumán,2009,Argentinian
+19,19,Javier Páez,ARG,D,1.86,79,23-09-75,Capital Federal,Olimpo (BB),Atlético Tucumán,2009,Argentinian
+20,20,César More,ARG,D,,,02-07-89,,None,Atlético Tucumán,2009,Argentinian
+21,21,Matías  Escobar,ARG,D,1.81,81,21-04-82,Rosario,Kayserispor,Atlético Tucumán,2009,Argentinian
+22,22,José Saavedra,ARG,M,1.65,65,04-08-87,San Miguel de Tucumán,None,Atlético Tucumán,2009,Argentinian
+23,23,Esteban dei Rossi,ARG,G,1.81,79,14-04-81,Villa Dolores,Racing (Córdoba),Atlético Tucumán,2009,Argentinian
+24,24,Fabio Escobar,PAR,F,1.79,76,15-02-82,Asunción,Nacional [PAR],Atlético Tucumán,2009,Argentinian
+26,26,Jonatan  Blanes,URU,M,1.75,69,10-03-87,Paysandú,Racing Club [URU],Atlético Tucumán,2009,Argentinian
+32,32,Juan  Pablo Pereyra,ARG,M,1.93,96,30-05-84,San Lorenzo,Nacional [URU],Atlético Tucumán,2009,Argentinian
+33,33,Matías García,ARG,M,1.79,71,16-01-83,Mendoza,Monagas,Atlético Tucumán,2009,Argentinian
+35,35,Sebastián Longo,ARG,M,1.78,76,27-05-83,San Rafael,Luján de Cuyo,Atlético Tucumán,2009,Argentinian
+37,37,David Drocco,ARG,M,1.66,67,20-01-89,Córdoba,Boca Juniors,Atlético Tucumán,2009,Argentinian
+1,1,Cristian Lucchetti,ARG,G,1.82,69,26-06-78,Luján de Cuyo,Racing  Club,Banfield,2009,Argentinian
+2,2,Victor  López,ARG,D,1.81,76,19-12-78,Córdoba,Real Sociedad,Banfield,2009,Argentinian
+4,4,Julio  Barraza,ARG,D,1.86,78,04-03-80,Santa  Fe,None,Banfield,2009,Argentinian
+5,5,Maximiliano Bustos,ARG,M,1.70,72,05-01-82,San Luis,Vélez Sarsfield,Banfield,2009,Argentinian
+6,6,Marcelo  Bustamante,ARG,D,1.74,71,17-02-80,Villa Tessei,Vélez Sarsfield,Banfield,2009,Argentinian
+7,7,Maximiliano Laso,ARG,M,1.69,62,17-02-88,Capital Federal,None,Banfield,2009,Argentinian
+8,8,James  Rodríguez,COL,M,1.80,77,12-07-91,Cúcuta,Envigado,Banfield,2009,Argentinian
+9,9,Santiago Silva,URU,F,1.86,73,09-12-80,Montevideo,Vélez Sarsfield,Banfield,2009,Argentinian
+10,10,Walter Erviti,ARG,M,1.72,68,12-01-80,Mar de la Plata,Monterrey,Banfield,2009,Argentinian
+11,11,Guido  Di Vanni,ARG,F,1.77,75,11-06-88,Santa Fe,None,Banfield,2009,Argentinian
+12,12,Cristian García,ARG,M,1.82,78,29-04-88,San Rafael,None,Banfield,2009,Argentinian
+14,14,Favio Segovia,ARG,D,1.89,81,12-01-89,Lomas  de Zamora,None,Banfield,2009,Argentinian
+15,15,Pablo  Vergara,ARG,D,1.74,75,15-09-88,Neuquén,None,Banfield,2009,Argentinian
+16,16,Federico Sardella,ARG,M,1.78,80,16-04-88,Lomas  de Zamora,None,Banfield,2009,Argentinian
+17,17,Sebastián López,ARG,G,1.87,85,14-09-85,San Nicolás,None,Banfield,2009,Argentinian
+18,18,Facundo Ferreyra,ARG,F,1.86,83,14-03-91,Lomas  de Zamora,None,Banfield,2009,Argentinian
+19,19,Daniel Bilos,ARG,M,1.94,86,03-09-80,Pergamino,St-Etienne,Banfield,2009,Argentinian
+20,20,Marcelo  Quinteros,ARG,M,1.74,71,23-12-76,Cañada  de Gómez,San Martín (Tucumán),Banfield,2009,Argentinian
+21,21,José Devaca,PAR,D,1.80,76,18-09-82,Asunción,Godoy Cruz (Mendoza),Banfield,2009,Argentinian
+22,22,Luis  Salmerón,ARG,F,1.82,75,18-03-82,Córdoba,Talleres (Córdoba),Banfield,2009,Argentinian
+23,23,Emanuel  Pío,ARG,M,1.80,76,04-11-88,Baradero,None,Banfield,2009,Argentinian
+24,24,Santiago Ladino,ARG,D,1.75,72,21-10-80,Versalles,Gimnasia y Esgrima (Jujuy),Banfield,2009,Argentinian
+25,25,Sebastián Fernández,URU,F,1.67,69,23-05-85,Montevideo,Defensor Sporting,Banfield,2009,Argentinian
+26,26,Sebastián  Méndez,ARG,D,1.84,73,07-04-77,Buenos  Aires,San Lorenzo,Banfield,2009,Argentinian
+27,27,Mauro Dos Santos,ARG,D,1.80,76,07-07-89,Lomas  de Zamora,None,Banfield,2009,Argentinian
+28,28,Roberto  Battión,ARG,M,1.88,83,01-03-82,Santa Fe,Aris,Banfield,2009,Argentinian
+29,29,Enrique  Bologna,ARG,G,1.88,85,13-02-82,Claypole,None,Banfield,2009,Argentinian
+30,30,Julio Marchant,ARG,M,1.77,70,11-01-80,Santiago del Estero,Defensor Sporting,Banfield,2009,Argentinian
+1,1,Roberto Abbondanzieri,ARG,G,1.86,88,19-08-72,Bouquet,Getafe,Boca Juniors,2009,Argentinian
+2,2,Júlio  César Cáceres,PAR,D,1.81,80,05-10-79,San  Jose de los Aroyos,UANL Tigres,Boca Juniors,2009,Argentinian
+3,3,Claudio Morel Rodríguez,PAR,D,1.75,76,02-02-78,Asunción,San Lorenzo,Boca Juniors,2009,Argentinian
+4,4,Hugo Benjamin Ibarra,ARG,D,1.71,74,01-04-74,El Colorado,FC Porto,Boca Juniors,2009,Argentinian
+5,5,Sebastián  Battaglia,ARG,M,1.80,75,11-08-80,Santa Fe,Villarreal,Boca Juniors,2009,Argentinian
+7,7,Pablo  Mouche,ARG,F,1.75,74,11-10-87,San Martín,None,Boca Juniors,2009,Argentinian
+8,8,Gary Medel,CHI,M,1.72,71,03-08-87,Santiago,Universidad  Católica,Boca Juniors,2009,Argentinian
+9,9,Martín  Palermo,ARG,F,1.87,84,07-11-73,La Plata,Betis,Boca Juniors,2009,Argentinian
+10,10,Juan  Román Riquelme,ARG,M,1.82,75,24-06-78,Capital  Federal,Villarreal,Boca Juniors,2009,Argentinian
+11,11,Federico Insúa,ARG,M,1.79,79,03-01-80,Capital Federal,América,Boca Juniors,2009,Argentinian
+12,12,Javier  García,ARG,G,1.80,73,29-01-87,Capital  Federal,None,Boca Juniors,2009,Argentinian
+14,14,Ricardo Noir,ARG,F,1.76,74,26-02-87,Villa  Elisa,None,Boca Juniors,2009,Argentinian
+15,15,José  María Calvo,ARG,D,1.75,73,15-07-81,Quenumá,None,Boca Juniors,2009,Argentinian
+16,16,Guillermo Marino,ARG,M,1.79,77,02-02-81,Los  Surgentes,Newell's Old Boys,Boca Juniors,2009,Argentinian
+18,18,Fabián  Monzón,ARG,D,1.79,75,13-04-87,Granadero  Baigorria,None,Boca Juniors,2009,Argentinian
+19,19,Ariel Rosada,ARG,M,1.81,80,04-11-78,Campana,Celta Vigo,Boca Juniors,2009,Argentinian
+20,20,Juan Krupoviesa,ARG,D,1.78,78,16-04-79,San Miguel  de Tucumán,Estudiantes (LP),Boca Juniors,2009,Argentinian
+21,21,Cristian Chávez,ARG,M,1.68,69,16-06-86,Pilar,None,Boca Juniors,2009,Argentinian
+22,22,Marcos  Mondaini,ARG,F,1.77,69,14-02-85,Sáenz Peña,None,Boca Juniors,2009,Argentinian
+23,23,Jonathan Philippe,ARG,F,1.83,82,24-01-88,Navarro,None,Boca Juniors,2009,Argentinian
+24,24,Adrián Gunino,URU,D,1.67,64,03-02-89,Montevideo,Danubio,Boca Juniors,2009,Argentinian
+26,26,Gastón  Sauro,ARG,D,1.88,75,23-02-90,Rosario,None,Boca Juniors,2009,Argentinian
+27,27,Lucas Viatri,ARG,F,1.85,82,29-03-87,Capital  Federal,None,Boca Juniors,2009,Argentinian
+28,28,Nicolás Gaitán,ARG,M,1.73,67,23-02-88,San Martín,None,Boca Juniors,2009,Argentinian
+29,29,Gabriel Paletta,ARG,D,1.90,80,15-02-86,Longchamps,Liverpool,Boca Juniors,2009,Argentinian
+30,30,Julio Barroso,ARG,D,1.75,78,16-01-85,San Martín,Argentinos Juniors,Boca Juniors,2009,Argentinian
+31,31,Josué  Ayala,ARG,G,1.83,80,30-05-88,Capital  Federal,None,Boca Juniors,2009,Argentinian
+32,32,Cristian  Erbes,ARG,M,1.71,69,06-01-90,Capital  Federal,None,Boca Juniors,2009,Argentinian
+33,33,Lucas Pratto,ARG,F,1.88,87,04-06-88,La Plata,None,Boca Juniors,2009,Argentinian
+34,34,Nicolás  Colazo,ARG,M,1.75,71,08-07-90,Capital  Federal,None,Boca Juniors,2009,Argentinian
+35,35,Gastón Rossi,ARG,M,1.72,73,31-01-90,General Villegas,None,Boca Juniors,2009,Argentinian
+36,36,Leandro Aguirre,ARG,D,1.67,65,08-02-89,Rosario,None,Boca Juniors,2009,Argentinian
+37,37,Breyner  Bonilla,COL,D,1.86,79,21-07-86,Cúcuta,Atlético Bucaramanga,Boca Juniors,2009,Argentinian
+38,38,David Achucarro,ARG,D,1.78,68,05-01-91,Pontevedra,None,Boca Juniors,2009,Argentinian
+39,39,Gonzalo Cabrera,ARG,D,1.69,63,15-01-89,Capital  Federal,None,Boca Juniors,2009,Argentinian
+40,40,Exequiel Benavídez,ARG,M,1.79,78,05-03-89,Santiago  del Estero,None,Boca Juniors,2009,Argentinian
+41,41,Sergio Araujo,ARG,F,1.80,72,28-01-92,Capital  Federal,None,Boca Juniors,2009,Argentinian
+42,42,Leandro  Marín,ARG,D,1.83,81,22-01-92,Neuquen,None,Boca Juniors,2009,Argentinian
+1,1,Nicolás Tauber,ARG,G,1.82,75,20-08-80,La Plata,Almagro,Chacarita Juniors,2009,Argentinian
+2,2,Mariano  Echeverría,ARG,D,1.92,83,27-05-81,Mar del Plata,Deportivo Maipu,Chacarita Juniors,2009,Argentinian
+3,3,Franco Coria,ARG,D,1.82,70,08-07-88,Los Toldos,None,Chacarita Juniors,2009,Argentinian
+4,4,Fernando Fontana,ARG,D,1.71,75,22-11-78,San Miguel de Tucumán,Unión (Santa Fe),Chacarita Juniors,2009,Argentinian
+5,5,Federico  Vismara,ARG,M,1.85,74,09-05-83,Carcaraña,Aldosivi,Chacarita Juniors,2009,Argentinian
+6,6,Cristian  Grabinski,ARG,D,1.80,80,12-01-80,Llavallol,Emelec,Chacarita Juniors,2009,Argentinian
+7,7,Alejandro Frezzotti,ARG,M,1.75,75,15-02-84,Monte Buey,Gimnasia y Esgrima (Mendoza),Chacarita Juniors,2009,Argentinian
+8,8,Sergio Daniel Ponce,ARG,M,1.69,64,09-01-84,San Martín,None,Chacarita Juniors,2009,Argentinian
+9,9,Juan Manuel Aróstegui,ARG,F,1.84,81,02-12-80,San Francisco [ARG],Vecindario,Chacarita Juniors,2009,Argentinian
+10,10,Cristian Milla,ARG,F,1.74,73,09-06-84,Capital Federal,Universidad de Chile,Chacarita Juniors,2009,Argentinian
+11,11,Matías Alustiza,ARG,F,1.62,60,31-05-84,Azul,Deportivo Santamarina,Chacarita Juniors,2009,Argentinian
+13,13,Pedro Fernández,ARG,G,1.90,84,05-04-87,Garin,None,Chacarita Juniors,2009,Argentinian
+14,14,José Luis Gómez,ARG,M,1.78,76,29-12-82,Capital Federal,Comunicaciones,Chacarita Juniors,2009,Argentinian
+15,15,Emanuel  Centurión,ARG,M,1.76,75,25-08-82,Lomas de  Zamora,Atlas,Chacarita Juniors,2009,Argentinian
+17,17,Lisandro López,ARG,D,1.87,79,01-09-89,Villa  Constitución,None,Chacarita Juniors,2009,Argentinian
+18,18,Federico Iñíguez,ARG,M,,,16-10-85,José C. Paz,None,Chacarita Juniors,2009,Argentinian
+20,20,Diego Morales,ARG,F,1.72,68,29-11-86,Florida,None,Chacarita Juniors,2009,Argentinian
+21,21,Sebastián  Sciorilli,ARG,F,1.69,67,02-05-89,Capital Federal,River Plate,Chacarita Juniors,2009,Argentinian
+23,23,Facundo Parra,ARG,F,1.82,78,15-06-85,Buenos Aires,None,Chacarita Juniors,2009,Argentinian
+24,24,Daniel Pereira,URU,M,1.81,78,05-12-76,Capital Federal,Universidad de Concepción,Chacarita Juniors,2009,Argentinian
+25,25,Sebastián Cejas,ARG,G,1.84,82,21-04-75,Gualeguay,Pisa,Chacarita Juniors,2009,Argentinian
+26,26,Nicolás  Ramirez,ARG,F,1.73,71,18-02-88,Buenos  Aires,Lanús,Chacarita Juniors,2009,Argentinian
+27,27,Matías Pisano,ARG,M,1.66,61,13-12-91,Capital Federal,None,Chacarita Juniors,2009,Argentinian
+28,28,Omar Zarif,ARG,M,1.73,70,02-09-78,Avellaneda,Rosario Central,Chacarita Juniors,2009,Argentinian
+31,31,Jorge Myma,ARG,M,1.77,78,22-03-88,Capital Federal,Real Arroyo Seco,Chacarita Juniors,2009,Argentinian
+32,32,Fernando Crosa,ARG,D,1.85,79,28-02-79,Rosario,Talleres (Córdoba),Chacarita Juniors,2009,Argentinian
+33,33,Diego Crosa,ARG,D,1.80,80,18-04-76,Rosario,Colón (Santa Fe),Chacarita Juniors,2009,Argentinian
+35,35,Jorge Núñez,PAR,D,1.76,78,22-01-78,Asunción,Rosario Central,Chacarita Juniors,2009,Argentinian
+36,36,Germán  Cano,ARG,F,1.76,72,02-02-88,Posadas,Lanús,Chacarita Juniors,2009,Argentinian
+37,37,Emiliano Strappini,ARG,F,1.82,79,04-09-86,Armstrong,Lota Schwager,Chacarita Juniors,2009,Argentinian
+41,,Cristian Gutiérrez,ARG,D,,,06-10-89,Chosmalal,None,Chacarita Juniors,2009,Argentinian
+42,,Franco  Miranda,ARG,D,1.82,77,13-05-85,Comodoro Rivadavia,CAI (Comodoro Rivadavia),Chacarita Juniors,2009,Argentinian
+1,1,Diego  Pozo,ARG,G,1.90,86,16-02-78,Mendoza,Instituto (Córdoba),Colón (Santa Fe),2009,Argentinian
+2,2,Omar  Merlo,ARG,D,1.85,78,12-06-87,Santa  Fe,River Plate,Colón (Santa Fe),2009,Argentinian
+3,3,Salustiano Candia,PAR,D,1.83,82,08-07-83,Asunción,Veracruz,Colón (Santa Fe),2009,Argentinian
+4,4,Ismael  Quilez,ARG,D,1.79,76,02-10-88,Santa  Fe,None,Colón (Santa Fe),2009,Argentinian
+5,5,Ariel Garcé,ARG,D,1.77,71,14-07-79,Tandil,Rosario  Central,Colón (Santa Fe),2009,Argentinian
+6,6,Pablo De Miranda,ARG,D,1.85,82,24-02-86,Comodoro Rivadavia,CAI (Comodoro Rivadavia),Colón (Santa Fe),2009,Argentinian
+7,7,Cristian Pellerano,ARG,M,1.83,75,01-02-82,Capital Federal,Arsenal  [ARG],Colón (Santa Fe),2009,Argentinian
+8,8,Maxi Caire,ARG,D,1.78,73,12-07-88,Villa Elisa,Almagro,Colón (Santa Fe),2009,Argentinian
+9,9,Federico  Nieto,ARG,F,1.90,86,26-08-83,Capital  Federal,Banfield,Colón (Santa Fe),2009,Argentinian
+10,10,Lucas  Acosta,ARG,M,1.78,72,26-01-88,Santa Fe,None,Colón (Santa Fe),2009,Argentinian
+11,11,Ricardo  Gómez,ARG,M,1.72,65,23-10-81,San  Miguel,Gimnasia  y Esgrima (Jujuy),Colón (Santa Fe),2009,Argentinian
+12,12,Andrés  Bailo,ARG,G,1.90,90,06-09-88,Santa Fe,None,Colón (Santa Fe),2009,Argentinian
+13,13,Germán Rivarola,ARG,D,1.83,72,18-04-79,Santa Eufemia,Rosario  Central,Colón (Santa Fe),2009,Argentinian
+14,14,Juan Manuel Lucero,ARG,F,1.76,75,26-05-85,Mendoza,Olimpia,Colón (Santa Fe),2009,Argentinian
+15,15,Cristian Barinaga,ARG,M,1.77,77,30-04-85,La Plata,2 de Mayo,Colón (Santa Fe),2009,Argentinian
+16,16,Johann Abel,ARG,M,1.70,65,07-05-93,Villa Elisa,None,Colón (Santa Fe),2009,Argentinian
+17,17,Santiaga Soto,ARG,M,1.73,73,23-01-90,Diamante,None,Colón (Santa Fe),2009,Argentinian
+18,18,Facundo Bertoglio,ARG,M,1.71,66,30-06-90,San José de la  Esquina,None,Colón (Santa Fe),2009,Argentinian
+19,19,Nicolás  Torres,ARG,M,1.83,83,10-10-83,Concepción  del Uruguay,Tigre,Colón (Santa Fe),2009,Argentinian
+20,20,Esteban  Fuertes,ARG,F,1.82,87,26-12-72,Coronel Dorrego,Universidad Católica,Colón (Santa Fe),2009,Argentinian
+21,21,Marcos Díaz,ARG,G,1.87,84,05-02-86,Santa  Fe,None,Colón (Santa Fe),2009,Argentinian
+22,22,Alejandro  Capurro,ARG,M,1.76,66,31-10-80,San Lorenzo,Sakaryaspor,Colón (Santa Fe),2009,Argentinian
+23,23,Mauro Bellone,ARG,M,1.81,70,03-07-90,San Cristóbal,None,Colón (Santa Fe),2009,Argentinian
+24,24,Facundo Sánchez,ARG,M,1.75,73,07-03-90,Sa Pereyra,None,Colón (Santa Fe),2009,Argentinian
+25,25,Hugo Miranda,ARG,M,1.74,72,01-02-87,Reconquista,None,Colón (Santa Fe),2009,Argentinian
+26,26,Rodrigo Canario,ARG,F,1.88,80,16-09-89,Santa  Fe,None,Colón (Santa Fe),2009,Argentinian
+27,27,Alexis Ferrero,ARG,D,1.81,79,31-03-79,Santa Fe,Botafogo,Colón (Santa Fe),2009,Argentinian
+29,29,Alfredo  Ramírez,ARG,M,1.83,78,28-10-88,Santa Fe,None,Colón (Santa Fe),2009,Argentinian
+30,30,Fabián Castillo,ARG,F,1.75,73,03-05-88,Rosario del Tala,None,Colón (Santa Fe),2009,Argentinian
+31,31,Iván Gorosito,ARG,G,1.88,76,18-01-89,San Justo,None,Colón (Santa Fe),2009,Argentinian
+32,32,Jonatan Bauman,ARG,F,1.78,73,30-03-91,Sunchales,None,Colón (Santa Fe),2009,Argentinian
+33,33,Marcelo  Goux,ARG,D,1.84,81,21-09-75,Lanús,Gimnasia y Esgrima (LP),Colón (Santa Fe),2009,Argentinian
+34,34,Mauricio Mansilla,ARG,D,1.83,80,24-10-88,Reconquista,None,Colón (Santa Fe),2009,Argentinian
+1,1,Roberto  Fernández,PAR,G,1.91,81,29-03-88,Asunción,Cerro Porteño,Estudiantes (La Plata),2009,Argentinian
+2,2,Leandro  Desábato,ARG,D,1.86,84,24-01-79,Cafferatta,Argentinos Juniors,Estudiantes (La Plata),2009,Argentinian
+3,3,Christian  Cellay,ARG,D,1.73,77,05-09-81,Capital  Federal,Huracán,Estudiantes (La Plata),2009,Argentinian
+4,4,Raúl Iberbia,ARG,D,1.75,75,25-12-89,Carmen  de Areco,None,Estudiantes (La Plata),2009,Argentinian
+5,5,Matías  Sánchez,ARG,M,1.73,68,10-08-87,Temperley,Racing Club,Estudiantes (La Plata),2009,Argentinian
+6,6,Agustín  Alayes,ARG,D,1.89,85,22-07-78,La Plata,Quilmes,Estudiantes (La Plata),2009,Argentinian
+7,7,Juan Miguel Salgueiro,URU,F,1.78,78,03-04-83,Montevideo,Necaxa,Estudiantes (La Plata),2009,Argentinian
+8,8,Enzo  Pérez,ARG,M,1.77,71,22-02-86,Mendoza,Godoy  Cruz (Mendoza),Estudiantes (La Plata),2009,Argentinian
+9,9,José  Luis Calderón,ARG,F,1.81,73,24-10-70,La Plata,Arsenal [ARG],Estudiantes (La Plata),2009,Argentinian
+10,10,Marcelo  Carrusca,ARG,M,1.80,73,09-01-83,La Plata,Galatasaray,Estudiantes (La Plata),2009,Argentinian
+11,11,Juan  Sebastián Verón,ARG,M,1.82,79,09-03-75,La  Plata,Chelsea,Estudiantes (La Plata),2009,Argentinian
+12,12,César  Taborda,ARG,G,1.86,84,23-01-84,Villa  Constitución,None,Estudiantes (La Plata),2009,Argentinian
+13,13,Juan Manuel Díaz,URU,D,1.81,80,28-10-87,Montevideo,Liverpool [URU],Estudiantes (La Plata),2009,Argentinian
+14,14,Marcos  Angeleri,ARG,D,1.82,68,07-04-83,La Plata,None,Estudiantes (La Plata),2009,Argentinian
+15,15,Marcos Rojo,ARG,D,1.87,82,20-03-90,La Plata,None,Estudiantes (La Plata),2009,Argentinian
+16,16,Germán Ré,ARG,D,1.77,73,02-11-81,Santa  Fé,Newell's Old Boys,Estudiantes (La Plata),2009,Argentinian
+17,17,Mauro  Boselli,ARG,F,1.83,75,22-05-85,Capital  Federal,Boca Juniors,Estudiantes (La Plata),2009,Argentinian
+18,18,Maximiliano Núñez,ARG,F,1.68,65,17-06-86,La Plata,Temperley,Estudiantes (La Plata),2009,Argentinian
+19,19,Federico Fernández,ARG,D,1.90,83,21-02-89,Tres  Algarrobos,None,Estudiantes (La Plata),2009,Argentinian
+20,20,Leandro González,ARG,F,1.85,76,14-10-85,Pihué,Racing Club,Estudiantes (La Plata),2009,Argentinian
+22,22,Rodrigo Braña,ARG,M,1.67,69,03-07-79,Berazategui,Quilmes,Estudiantes (La Plata),2009,Argentinian
+23,23,Leandro  Benítez,ARG,M,1.80,80,05-04-81,Ensenada,Olimpo  (BB),Estudiantes (La Plata),2009,Argentinian
+24,24,Leonardo  Jara,ARG,M,1.77,75,20-05-91,Corrientes,None,Estudiantes (La Plata),2009,Argentinian
+25,25,Damián  Albil,ARG,G,1.82,76,09-12-79,Bernal,Independiente,Estudiantes (La Plata),2009,Argentinian
+26,26,Juan  Huerta,ARG,M,1.82,75,22-07-80,Isidro Casanova,Nueva Chicago,Estudiantes (La Plata),2009,Argentinian
+27,27,Jerónimo Morales Neumann,ARG,F,1.72,70,03-06-86,Godoy Cruz,Instituto (Córdoba),Estudiantes (La Plata),2009,Argentinian
+28,28,Matías  Sarulyte,ARG,D,1.89,83,13-03-89,Colón,None,Estudiantes (La Plata),2009,Argentinian
+29,29,Roberto  Birge,ARG,M,1.76,70,15-01-89,Tandil,None,Estudiantes (La Plata),2009,Argentinian
+30,30,Clemente Rodríguez,ARG,D,1.67,66,31-07-81,Capital Federal,Spartak Moscow,Estudiantes (La Plata),2009,Argentinian
+31,31,Agustín  Silva,ARG,G,1.91,93,28-06-89,Baradero,None,Estudiantes (La Plata),2009,Argentinian
+32,32,Cristian  Gaitán,ARG,M,1.78,76,05-01-90,Santa Fe,None,Estudiantes (La Plata),2009,Argentinian
+33,33,Iani  Verón,ARG,M,1.84,74,21-06-86,La Plata,None,Estudiantes (La Plata),2009,Argentinian
+34,34,Michael Hoyos,ARG,M,1.72,75,02-08-91,Fountain Valley,None,Estudiantes (La Plata),2009,Argentinian
+35,35,Carlos  Auzqui,ARG,M,1.74,69,16-09-91,Longchams,None,Estudiantes (La Plata),2009,Argentinian
+1,1,Gastón Sessa,ARG,G,1.90,90,15-04-73,La Plata,Barcelona  [ECU],Gimnasia y Esgrima (La Plata),2009,Argentinian
+3,3,Patricio Graff,ARG,D,1.75,75,18-11-75,Rosario,Hércules,Gimnasia y Esgrima (La Plata),2009,Argentinian
+4,4,Álvaro Ormeño,CHI,D,1.73,79,04-04-79,Viña del Mar,Colo Colo,Gimnasia y Esgrima (La Plata),2009,Argentinian
+6,6,Ariel Agüero,ARG,D,1.88,80,18-02-80,San Juan,San Martín (San Juan),Gimnasia y Esgrima (La Plata),2009,Argentinian
+7,7,Juan  Cuevas,ARG,F,1.68,61,04-04-88,Coronel Pringles,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+8,8,Luciano  Aued,ARG,M,1.78,70,01-03-87,La  Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+9,9,Roberto Sosa,ARG,F,1.89,86,24-01-75,Buenos Aires,Napoli,Gimnasia y Esgrima (La Plata),2009,Argentinian
+10,10,Mariano Messera,ARG,M,1.75,70,23-02-78,Posadas,Rosario Central,Gimnasia y Esgrima (La Plata),2009,Argentinian
+11,11,Diego  Villar,ARG,M,1.75,71,25-04-82,Mar del Plata,Arsenal  [ARG],Gimnasia y Esgrima (La Plata),2009,Argentinian
+12,12,Pablo Bangardino,ARG,G,1.86,75,09-01-85,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+13,13,Raúl Albornoz,ARG,D,1.91,,20-03-89,Diamante,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+14,14,Hugo  Iriarte,ARG,D,1.77,73,26-03-82,Alta Gracia,Newell's  Old Boys,Gimnasia y Esgrima (La Plata),2009,Argentinian
+15,15,Milton  Casco,ARG,M,1.77,75,11-04-88,María Grande,Atlético María Grande,Gimnasia y Esgrima (La Plata),2009,Argentinian
+16,16,Lucas  Castro,ARG,M,1.82,79,09-04-89,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+17,17,Sebastián Romero,ARG,M,1.77,72,27-04-78,Berisso,Panathinaikos,Gimnasia y Esgrima (La Plata),2009,Argentinian
+18,18,José Vizcarra,ARG,F,1.75,71,08-08-84,Rosario,Rosario Central,Gimnasia y Esgrima (La Plata),2009,Argentinian
+19,19,Esteban  González,ARG,M,1.86,85,16-09-78,Córdoba,Las Palmas,Gimnasia y Esgrima (La Plata),2009,Argentinian
+20,20,Juan  Neira,ARG,F,1.78,75,21-02-89,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+21,21,Fabián  Rinaudo,ARG,M,1.76,75,15-05-87,Armstrong,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+22,22,Denis  Stracqualursi,ARG,F,1.90,85,20-10-87,Rafaela,Ben Hur (Rafaela),Gimnasia y Esgrima (La Plata),2009,Argentinian
+23,23,Gabriel Martirena,ARG,F,1.82,71,22-01-87,Necochea,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+24,24,Marcelo Cardozo,ARG,D,1.78,75,08-12-87,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+25,25,Sebastián  Ereros,ARG,F,1.68,63,14-04-85,Caseros,Vélez Sarsfield,Gimnasia y Esgrima (La Plata),2009,Argentinian
+26,26,Dardo  Miloc,ARG,M,1.77,76,16-10-90,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+27,27,Fernando  Monetti,ARG,G,1.83,78,21-02-89,La  Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+28,28,Lucas Landa,ARG,D,1.80,79,03-04-86,Chañar Ladeado,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+29,29,Rubén Maldonado,PAR,D,1.80,77,25-04-79,Asunción,Napoli,Gimnasia y Esgrima (La Plata),2009,Argentinian
+30,30,Marco Pérez,COL,F,1.81,74,18-09-90,Quibdó,Boyacá Chicó,Gimnasia y Esgrima (La Plata),2009,Argentinian
+31,31,Israel Roldán,ARG,M,1.73,73,08-10-90,La  Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+32,32,Joel  Carli,ARG,D,1.91,89,19-10-86,Mar del Plata,Aldosivi,Gimnasia y Esgrima (La Plata),2009,Argentinian
+33,33,Federico Quiroga,ARG,D,1.72,,13-10-89,,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+34,34,Miguel Juárez,ARG,D,1.77,77,10-01-87,La Plata,None,Gimnasia y Esgrima (La Plata),2009,Argentinian
+1,1,Nelson  Ibáñez,ARG,G,1.85,86,19-11-81,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+2,2,Leonardo  Sigali,ARG,D,1.84,70,29-05-87,Campana,Villarreal,Godoy Cruz (Mendoza),2009,Argentinian
+3,3,Sebastián Salomón,ARG,M,1.78,75,12-12-78,General  Roca,Lanús,Godoy Cruz (Mendoza),2009,Argentinian
+4,4,Diego Trotta,ARG,D,1.77,84,13-12-78,Bahía  Blanca,Albacete,Godoy Cruz (Mendoza),2009,Argentinian
+5,5,Nicolás Olmedo,ARG,M,1.82,78,10-03-83,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+6,6,Lautaro  Fórmica,ARG,D,1.80,75,27-01-86,Rosario,San Lorenzo,Godoy Cruz (Mendoza),2009,Argentinian
+7,7,Federico  Higuaín,ARG,F,1.72,72,25-10-84,Villa  Celina,Independiente,Godoy Cruz (Mendoza),2009,Argentinian
+8,8,Luis  Lobo,ARG,D,1.77,77,10-09-83,Tigre,Deportivo  Anzoátegui,Godoy Cruz (Mendoza),2009,Argentinian
+9,9,Daniel Vega,ARG,F,1.81,75,19-10-81,Capital Federal,San Martín (Tucumán),Godoy Cruz (Mendoza),2009,Argentinian
+10,10,Cristian Chávez,ARG,F,1.71,70,04-06-87,Lomas de Zamora,San Lorenzo,Godoy Cruz (Mendoza),2009,Argentinian
+11,11,Matías Jara,ARG,F,1.82,81,06-04-87,Capital Federal,CAI (Comodoro Rivadavia),Godoy Cruz (Mendoza),2009,Argentinian
+12,12,Cristian  Aracena,ARG,G,1.78,78,02-08-87,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+14,14,Sebastián Martínez,URU,D,1.83,86,11-04-83,Montevideo,Cerro,Godoy Cruz (Mendoza),2009,Argentinian
+15,15,Francisco  Dutari,ARG,D,1.86,80,03-03-88,Córdoba,Talleres (Córdoba),Godoy Cruz (Mendoza),2009,Argentinian
+16,16,Jesús Vera,ARG,F,1.86,79,10-01-89,Godoy Cruz,None,Godoy Cruz (Mendoza),2009,Argentinian
+17,17,Federico  Villegas,ARG,M,1.72,67,15-09-87,Godoy  Cruz,Once  Caldas,Godoy Cruz (Mendoza),2009,Argentinian
+18,18,Carlos Valencia,COL,D,1.72,62,28-04-89,El Ortigal,Estudiantes (LP),Godoy Cruz (Mendoza),2009,Argentinian
+19,19,Martin Aguirre,ARG,M,1.68,68,14-09-84,Bahía  Blanca,Villa Mitre (BB),Godoy Cruz (Mendoza),2009,Argentinian
+20,20,Leandro  Torres,ARG,M,1.66,68,04-11-88,Rosario,Newell's Old Boys,Godoy Cruz (Mendoza),2009,Argentinian
+21,21,Zelmar García,ARG,D,1.75,73,03-02-87,Tapalque,Deportivo Merlo,Godoy Cruz (Mendoza),2009,Argentinian
+22,22,José  Ramírez,ARG,G,1.81,89,03-02-77,Esquina,Almagro,Godoy Cruz (Mendoza),2009,Argentinian
+23,23,Ariel Rojas,ARG,M,1.76,70,16-01-86,Garín,Vélez Sarsfield,Godoy Cruz (Mendoza),2009,Argentinian
+24,24,Rodrigo Salinas,ARG,F,1.86,77,04-06-86,La  Plata,Villa San Carlos,Godoy Cruz (Mendoza),2009,Argentinian
+25,25,Cristian Cuevas,ARG,D,1.79,70,28-03-88,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+26,26,Jorge Curbelo,URU,D,1.85,81,21-12-81,Montevideo,Defensor Sporting,Godoy Cruz (Mendoza),2009,Argentinian
+27,27,Alejandro Camargo,ARG,M,1.75,69,12-06-89,Guaymallén,None,Godoy Cruz (Mendoza),2009,Argentinian
+28,28,Gabriel Vallés,ARG,M,1.69,65,31-05-86,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+29,29,Nicolás Triviño,ARG,D,1.80,73,17-02-89,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+30,30,Maximiliano  Alaniz,ARG,F,1.74,75,01-05-90,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+33,33,Ernesto  Garín,ARG,M,1.70,67,08-01-86,Mendoza,None,Godoy Cruz (Mendoza),2009,Argentinian
+1,1,César  Vallejos,ARG,G,1.83,74,24-03-83,Corrientes,El Linqueño,Huracán,2009,Argentinian
+2,2,Paolo Goltz,ARG,D,1.84,80,12-05-85,Hasenkamp,None,Huracán,2009,Argentinian
+3,3,Diego Rodríguez,URU,M,1.76,72,08-08-86,Montevideo,Peñarol,Huracán,2009,Argentinian
+4,4,Pablo  Jérez,ARG,D,1.74,72,26-07-83,Morón,Colón (Sante Fe),Huracán,2009,Argentinian
+5,5,Gastón Esmerado,ARG,M,1.82,77,08-02-78,Lanús,Skoda Xanthi,Huracán,2009,Argentinian
+6,6,Ezequiel  Filippetto,ARG,D,1.81,78,09-12-87,Capital  Federal,None,Huracán,2009,Argentinian
+7,7,Rodrigo Díaz,ARG,M,1.79,78,28-08-81,Moreno,Atlético Paranaense,Huracán,2009,Argentinian
+8,8,Leandro  Díaz,ARG,M,1.78,78,26-06-86,Capital Federal,Boca Juniors,Huracán,2009,Argentinian
+9,9,Federico Laurito,ARG,F,1.82,71,18-05-90,Rosario,Udinese,Huracán,2009,Argentinian
+10,10,Alan  Sánchez,ARG,M,1.77,75,23-11-85,Capital Federal,Platense,Huracán,2009,Argentinian
+11,11,Lucas Trecarichi,ARG,F,1.71,62,12-02-91,Béccar,Sevilla B,Huracán,2009,Argentinian
+12,12,Lucas Calviño,ARG,G,1.85,82,08-11-84,Avellaneda,Almagro,Huracán,2009,Argentinian
+13,13,Cristian  Fernández,ARG,D,,,11-06-89,Capital  Federal,None,Huracán,2009,Argentinian
+14,14,Juan  Carlos Carrizo,ARG,M,1.79,72,03-06-87,San  Miguel de Tucumán,Argentinos Juniors,Huracán,2009,Argentinian
+15,15,Kevin  Cura,ARG,D,1.75,74,03-10-90,Capital  Federal,None,Huracán,2009,Argentinian
+16,16,Nicolás  De Bruno,ARG,M,1.83,80,24-02-86,Rosario,José Gálvez,Huracán,2009,Argentinian
+17,17,Rodrigo  Malbernat,ARG,M,1.81,73,06-08-85,Avellaneda,Acasusso,Huracán,2009,Argentinian
+18,18,Patricio  Toranzo,ARG,M,1.78,73,19-03-82,Capital  Federal,Quilmes,Huracán,2009,Argentinian
+19,19,Leandro Benegas,ARG,F,1.79,78,27-08-88,Godoy Cruz,Independiente Rivadavia,Huracán,2009,Argentinian
+20,20,Francisco Hernández,ARG,M,1.65,62,14-08-89,San Nicolás,None,Huracán,2009,Argentinian
+21,21,Gonzalo  García,ARG,D,1.70,64,06-02-87,Capital  Federal,Racing Club,Huracán,2009,Argentinian
+22,22,Gastón  Monzón,ARG,G,1.84,79,13-05-87,Gonzalez  Catán,None,Huracán,2009,Argentinian
+23,23,Luciano Nieto,ARG,F,1.73,75,19-01-91,Tapiales,None,Huracán,2009,Argentinian
+24,24,Nicolás  Trecco,ARG,F,1.70,67,24-08-89,Capital  Federal,El Linqueño,Huracán,2009,Argentinian
+25,25,Eduardo  Domínguez,ARG,D,1.83,82,01-09-78,Lanús,LA Galaxy,Huracán,2009,Argentinian
+26,26,Federico  Ortíz,ARG,F,1.76,75,07-08-89,Olivos,None,Huracán,2009,Argentinian
+27,27,Gino  Clara,ARG,F,1.70,67,26-05-88,Capital  Federal,None,Huracán,2009,Argentinian
+28,28,Mario  Bolatti,ARG,M,1.90,80,17-02-85,La Para,FC  Porto,Huracán,2009,Argentinian
+29,29,Muriel  Orlando,ARG,F,1.85,79,18-03-89,General Conesa,None,Huracán,2009,Argentinian
+30,30,Rodrigo  Lemos,URU,D,1.65,63,05-07-90,Montevideo,None,Huracán,2009,Argentinian
+31,31,Robert  Sales,PAR,M,,,25-04-90,Coronel  Oviedo,None,Huracán,2009,Argentinian
+32,32,Guillermo  Roffes,ARG,F,1.86,86,05-03-91,Córdoba,None,Huracán,2009,Argentinian
+33,33,Gerardo  Maidana,ARG,D,,,,,None,Huracán,2009,Argentinian
+34,34,Daniel  Medina,ARG,M,,,06-05-89,Capital  Federal,None,Huracán,2009,Argentinian
+35,35,Juan Fernández,ARG,D,,,,,None,Huracán,2009,Argentinian
+36,36,Alejandro  Quintana,ARG,F,1.85,77,20-02-92,Capital  Federal,None,Huracán,2009,Argentinian
+2,2,Julián  Velázquez,ARG,D,1.81,83,23-10-90,Corrientes,None,Independiente,2009,Argentinian
+3,3,Lucas  Mareque,ARG,D,1.68,82,12-01-83,Morón,FC Porto,Independiente,2009,Argentinian
+4,4,Luciano  Vella,ARG,D,1.75,71,13-04-81,Rosario,Rapid Bucureşti,Independiente,2009,Argentinian
+5,5,Walter  Acevedo,ARG,M,1.74,75,16-02-86,San Justo,Metalist Kharkiv,Independiente,2009,Argentinian
+6,6,Eduardo Tuzzio,ARG,D,1.82,82,31-07-74,Capital Federal,River Plate,Independiente,2009,Argentinian
+7,7,Walter  Busse,ARG,M,1.70,68,07-02-87,General Guemes,Gimnasia y Esgrima (Jujuy),Independiente,2009,Argentinian
+8,8,Lucas  Pusineri,ARG,M,1.79,74,16-06-76,Capital  Federal,River Plate,Independiente,2009,Argentinian
+9,9,Leonel  Nuñez,ARG,F,1.85,75,13-10-84,Capital  Federal,Olympiakos,Independiente,2009,Argentinian
+10,10,Patricio Rodríguez,ARG,M,1.70,60,04-05-90,Quilmes,None,Independiente,2009,Argentinian
+11,11,Néstor Silvera,ARG,F,1.86,76,14-03-77,Comodoro Rivadavia,San Lorenzo,Independiente,2009,Argentinian
+12,12,Adrián  Gabbarini,ARG,G,1.85,78,10-05-85,Guaymallén,None,Independiente,2009,Argentinian
+13,13,Juan  Manuel Sánchez,ARG,D,1.70,64,13-05-91,Trenque Lauquen,None,Independiente,2009,Argentinian
+14,14,Lucas  Kruspzky,ARG,D,1.75,71,06-04-92,Capital  Federal,None,Independiente,2009,Argentinian
+15,15,Fernando  Godoy,ARG,M,1.72,70,01-05-90,Capital Federal,None,Independiente,2009,Argentinian
+16,16,Ricardo  Moreira,ARG,D,1.78,69,23-02-83,Rosario,Rosario Central,Independiente,2009,Argentinian
+17,17,Federico  González,ARG,F,1.78,79,01-06-87,Entre Ríos,None,Independiente,2009,Argentinian
+18,18,Nicolás Martínez,ARG,M,1.68,68,25-09-87,Viedma,Vélez Sarsfield,Independiente,2009,Argentinian
+19,19,Dario  Gandín,ARG,F,1.79,82,07-12-83,Santa  Fe,Colón (Santa Fe),Independiente,2009,Argentinian
+20,20,Martín  Gómez,ARG,F,1.65,67,26-01-83,Mendoza,Independiente Rivadavia,Independiente,2009,Argentinian
+21,21,Diego  Rodríguez,ARG,G,1.84,80,25-06-89,Capital Federal,None,Independiente,2009,Argentinian
+22,22,Ignacio  Piatti,ARG,M,1.81,75,04-02-85,General  Baldisera,Gimnasia y Esgrima (LP),Independiente,2009,Argentinian
+23,23,David Escalante,ARG,F,1.87,87,21-05-91,Quilmes,None,Independiente,2009,Argentinian
+24,24,Mariano Berriex,ARG,M,1.79,76,29-04-89,Quilmes,None,Independiente,2009,Argentinian
+25,25,Carlos  Matheu,ARG,D,1.83,81,13-05-85,Quilmes,Cagliari,Independiente,2009,Argentinian
+26,26,Samuel  Cáceres,PAR,D,1.86,78,20-03-89,Itacurubí de la Cordillera,None,Independiente,2009,Argentinian
+27,27,Leonel  Galeano,ARG,D,1.83,81,02-08-91,Miramar,None,Independiente,2009,Argentinian
+28,28,Federico  Mancuello,ARG,M,1.77,75,26-03-89,Reconquista,None,Independiente,2009,Argentinian
+29,29,Sergio Vittor,ARG,M,1.89,86,09-06-89,Villa Elisa,None,Independiente,2009,Argentinian
+30,30,Hilario  Navarro,ARG,G,1.92,84,14-11-80,Corrientes,Racing Club,Independiente,2009,Argentinian
+32,32,Brian Nieva,ARG,F,1.77,74,18-04-90,Avellaneda,None,Independiente,2009,Argentinian
+35,35,Gastón Machín,ARG,M,1.74,73,23-02-83,Capital Federal,Argentinos Juniors,Independiente,2009,Argentinian
+1,1,Agustin  Marchesin,ARG,G,1.88,83,16-03-88,González  Chávez,Huracán (Tres Arroyos),Lanús,2009,Argentinian
+2,2,Carlos Quintana,ARG,D,1.91,88,11-02-88,Alejandro  Korn,None,Lanús,2009,Argentinian
+3,3,Maximiliano Velázquez,ARG,D,1.78,72,14-03-80,Concepción del Uruguay,Talleres  (Córdoba),Lanús,2009,Argentinian
+4,4,Hernán  Grana,ARG,D,1.78,69,12-04-85,Quilmes,All Boys,Lanús,2009,Argentinian
+5,5,Matías  Fritzler,ARG,M,1.79,73,23-08-86,Lomas de Zamora,None,Lanús,2009,Argentinian
+6,6,Jádson  Viera,BRA,D,1.92,86,04-08-81,Santana Do  Livramento,Danubio,Lanús,2009,Argentinian
+7,7,Santiago  Biglieri,ARG,F,1.73,66,11-02-86,Misiones,None,Lanús,2009,Argentinian
+8,8,Agustín  Pelletieri,ARG,M,1.77,70,17-05-82,Capital  Federal,None,Lanús,2009,Argentinian
+9,9,Eduardo  Salvio,ARG,F,1.73,76,13-05-90,Avellaneda,None,Lanús,2009,Argentinian
+10,10,Sebastián  Blanco,ARG,M,1.68,64,15-03-88,Lomas  de Zamora,None,Lanús,2009,Argentinian
+11,11,Adrián Peralta,ARG,M,1.71,73,08-05-82,Ezeiza,Newell's Old Boys,Lanús,2009,Argentinian
+12,12,Eduardo  Ledesma,PAR,M,1.80,75,07-08-85,Asunción,Olimpia,Lanús,2009,Argentinian
+13,13,Esteban Andrada,ARG,G,1.93,81,26-01-91,Mendoza,None,Lanús,2009,Argentinian
+14,14,Santiago  Salcedo,PAR,F,1.83,80,06-09-81,Asunción,Newell's Old Boys,Lanús,2009,Argentinian
+15,15,Mauricio  Caranta,ARG,G,1.84,82,31-07-78,Bell Ville,Boca Juniors,Lanús,2009,Argentinian
+16,16,Diego Bielkiewicz,ARG,F,1.82,79,04-01-91,Capital Federal,None,Lanús,2009,Argentinian
+17,17,Santiago  Hoyos,ARG,D,1.82,80,03-06-82,Capital Federal,San  Lorenzo,Lanús,2009,Argentinian
+18,18,Cristian  Menéndez,ARG,F,1.85,86,02-04-88,Mar del Plata,None,Lanús,2009,Argentinian
+19,19,Diego  Lagos,ARG,M,1.76,72,05-03-86,Mar del Plata,None,Lanús,2009,Argentinian
+20,20,Emir Faccioli,ARG,D,1.85,84,05-08-89,Margarita,None,Lanús,2009,Argentinian
+21,21,Marcos Aguirre,ARG,M,1.70,68,30-03-84,Arroyito,None,Lanús,2009,Argentinian
+22,22,Germán  Cano,ARG,F,1.76,72,02-02-88,Posadas,None,Lanús,2009,Argentinian
+23,23,Leonel  Pérez,ARG,D,1.71,,12-12-89,Armstrong,None,Lanús,2009,Argentinian
+24,24,Roberto  Dovetta,ARG,F,1.80,72,24-04-88,Santa  Fe,None,Lanús,2009,Argentinian
+25,25,Carlos  Arce,ARG,D,1.71,67,04-02-85,Lanús,None,Lanús,2009,Argentinian
+26,26,Erick  Aparacio,ARG,F,1.78,,25-01-90,Glew,None,Lanús,2009,Argentinian
+27,27,Iván  Macalik,ARG,D,1.91,82,14-09-87,Caseros,FerroCarril Oeste,Lanús,2009,Argentinian
+28,28,Ariel  Alaracon,ARG,D,1.77,,27-05-90,Palo Santo,Racing (Córdoba),Lanús,2009,Argentinian
+29,29,Jorge  Pucheta,ARG,G,1.84,,09-06-92,Villa Angela,None,Lanús,2009,Argentinian
+30,30,Javier  Arias,ARG,F,1.70,71,01-03-89,Lomas de Zamora,None,Lanús,2009,Argentinian
+31,31,Gonzalo Díaz,ARG,M,1.70,70,01-03-90,Godoy Cruz,Godoy Cruz (Mendoza),Lanús,2009,Argentinian
+32,32,Diego  González,ARG,M,1.80,78,09-02-88,Lomas de Zamora,None,Lanús,2009,Argentinian
+33,33,Luciano Balbi,ARG,D,1.72,72,04-04-89,Rosario,None,Lanús,2009,Argentinian
+34,34,Maximiliano Lugo,ARG,D,1.70,68,04-12-89,Lanús,None,Lanús,2009,Argentinian
+35,35,Mario  Zaninovich,ARG,M,1.78,74,20-03-87,Saenz Peña,None,Lanús,2009,Argentinian
+36,36,Rodrigo  Erramuspe,ARG,D,1.77,72,03-05-90,Mar del Plata,None,Lanús,2009,Argentinian
+37,37,Guido Pizarro,ARG,M,1.86,73,26-02-90,Capital Federal,None,Lanús,2009,Argentinian
+1,1,Germán  Caffa,ARG,G,1.90,88,14-07-80,Concepción del  Uruguay,San Martín (Tucumán),Newell's Old Boys,2009,Argentinian
+2,2,Alexis  Machuca,ARG,D,1.76,81,10-05-90,Rosario,None,Newell's Old Boys,2009,Argentinian
+3,3,Juan Quiroga,ARG,M,1.79,78,20-04-82,Monteguay,Puebla,Newell's Old Boys,2009,Argentinian
+4,4,Pablo  Aguilar,ARG,D,1.66,62,13-09-84,Villa  Mercedes,Chacarita Juniors,Newell's Old Boys,2009,Argentinian
+5,5,Diego Mateo,ARG,M,1.76,65,07-08-78,Roldán,Gimnasia  y Esgrima (Jujuy),Newell's Old Boys,2009,Argentinian
+6,6,Rolando Schiavi,ARG,D,1.91,88,18-01-73,Lincoln [ARG],Grêmio,Newell's Old Boys,2009,Argentinian
+7,7,Lucas Bernardi,ARG,M,1.72,69,27-09-77,Rosario,Monaco,Newell's Old Boys,2009,Argentinian
+8,8,Franco  Dolci,ARG,M,1.76,65,01-01-84,Bell Ville,Chacarita Juniors,Newell's Old Boys,2009,Argentinian
+9,9,Cristian Nuñez,ARG,F,1.85,84,02-08-80,Resistencia,Boca Unidos,Newell's Old Boys,2009,Argentinian
+10,10,Mauro  Formica,ARG,M,1.76,64,04-04-88,Rosario,None,Newell's Old Boys,2009,Argentinian
+11,11,Diego  Torres,ARG,F,1.71,68,03-07-82,Bragado,Quilmes,Newell's Old Boys,2009,Argentinian
+12,12,Lucas  Hoyos,ARG,G,1.83,76,29-04-89,Guaymallen,None,Newell's Old Boys,2009,Argentinian
+13,13,Cristian  Díaz,ARG,M,1.67,63,26-05-89,Villa  Constitución,None,Newell's Old Boys,2009,Argentinian
+14,14,Mauricio Sperduti,ARG,M,1.80,73,16-02-86,Rosario,None,Newell's Old Boys,2009,Argentinian
+15,15,Nahuel  Roselli,ARG,D,1.77,73,14-08-85,Mar del  Plata,Aldovisi,Newell's Old Boys,2009,Argentinian
+16,16,Carlos Vaca,ARG,M,1.85,77,08-05-88,Ledesma,None,Newell's Old Boys,2009,Argentinian
+17,17,Jorge Achucarro,PAR,F,1.74,78,06-01-81,Fernando de la Mora,Atlas,Newell's Old Boys,2009,Argentinian
+18,18,Cristian  Sánchez Prette,ARG,M,1.77,76,10-05-85,Río Cuarto,CFR Cluj,Newell's Old Boys,2009,Argentinian
+19,19,Hugo Barrientos,ARG,M,1.74,65,01-03-77,Comodoro  Rivadavia,Huracán,Newell's Old Boys,2009,Argentinian
+20,20,Alejandro Da Silva,PAR,F,1.74,71,18-05-83,Lambaré,Cerro Porteño,Newell's Old Boys,2009,Argentinian
+21,21,Leonel  Vangioni,ARG,M,1.81,70,05-05-87,Villa  Constitucion,None,Newell's Old Boys,2009,Argentinian
+22,22,Sebastián  Peratta,ARG,G,1.90,77,01-11-76,Capital Federal,Deportivo Morón,Newell's Old Boys,2009,Argentinian
+24,24,Leandro  Benítez,ARG,M,1.75,67,05-03-87,Rosario,Lanús,Newell's Old Boys,2009,Argentinian
+25,25,Federico Falcone,ARG,F,1.88,79,21-02-90,Rosario,None,Newell's Old Boys,2009,Argentinian
+27,27,Hernán  Zanni,ARG,M,,,04-07-88,Rosario,None,Newell's Old Boys,2009,Argentinian
+28,28,Alejandro Cascio,ARG,M,1.68,70,23-06-88,Rosario,None,Newell's Old Boys,2009,Argentinian
+29,29,Juan  Insaurralde,ARG,D,1.88,85,03-10-84,Resistencia,Chacarita Juniors,Newell's Old Boys,2009,Argentinian
+30,30,Marcelo  Blanc,ARG,D,,,04-07-89,Sastre,None,Newell's Old Boys,2009,Argentinian
+31,31,Emanuel Dening,ARG,F,1.76,70,04-07-88,Goya,None,Newell's Old Boys,2009,Argentinian
+34,34,Joaquín Boghossian,URU,F,1.94,80,19-06-87,Montevideo,Cerro,Newell's Old Boys,2009,Argentinian
+38,38,Raúl Villalba,ARG,M,1.76,74,30-11-89,Rosario,None,Newell's Old Boys,2009,Argentinian
+39,39,Ignacio Fideleff,ARG,D,1.88,82,04-07-89,Rosario,None,Newell's Old Boys,2009,Argentinian
+1,1,Pablo  Santillo,ARG,G,1.82,78,07-03-90,Capital Federal,Banfield,Racing Club,2009,Argentinian
+2,2,Diego Menghi,ARG,D,1.84,80,17-05-85,Córdoba,None,Racing Club,2009,Argentinian
+3,3,Nicolás  Sainz,ARG,D,1.83,81,16-06-89,San Martín,None,Racing Club,2009,Argentinian
+4,4,José  Martínez Gullotta,ARG,G,1.86,83,12-01-84,San Rafael,Juv. Antoniana (Salta),Racing Club,2009,Argentinian
+5,5,Claudio  Yacob,ARG,M,1.81,73,18-07-87,Carcarañá,None,Racing Club,2009,Argentinian
+6,6,Lucas  Aveldaño,ARG,D,1.85,83,19-07-85,Rafaela,Atlético Rafaela,Racing Club,2009,Argentinian
+7,7,Pablo  Lugüercio,ARG,F,1.77,79,10-03-82,La  Plata,Estudiantes (LP),Racing Club,2009,Argentinian
+8,8,Martín Wágner,ARG,M,1.77,73,19-09-85,Coronel Suárez,Olimpo (BB),Racing Club,2009,Argentinian
+9,9,Pablo  Caballero,ARG,F,1.91,79,21-07-86,Totoras,None,Racing Club,2009,Argentinian
+10,10,Juan Carlos Falcón,ARG,M,1.70,67,19-11-79,General Villegas,Colón (Santa Fe),Racing Club,2009,Argentinian
+11,11,Sebastián Grazzini,ARG,M,1.80,74,25-01-81,Rosario,Newell's Old Boys,Racing Club,2009,Argentinian
+12,12,Mauro  Dobler,ARG,G,1.82,75,03-01-83,Gualeguychu,Estudiantes (LP),Racing Club,2009,Argentinian
+14,14,Marcos  Brítez Ojeda,ARG,M,1.86,85,22-05-86,Capital  Federal,Los Andes,Racing Club,2009,Argentinian
+15,15,Juan Sánchez  Sotelo,ARG,F,1.80,81,02-10-87,Avellaneda,None,Racing Club,2009,Argentinian
+16,16,Javier  Velázquez,ARG,F,1.87,81,03-02-84,Zárate,Defensores Unidos,Racing Club,2009,Argentinian
+17,17,Cristian  Tavio,ARG,D,1.85,75,22-09-79,Capital Federal,San Martín (San Juan),Racing Club,2009,Argentinian
+18,18,Adrián  Lucero,ARG,M,1.79,71,16-08-84,Las  Heras,Newell's Old Boys,Racing Club,2009,Argentinian
+19,19,Damián  Steinert,ARG,F,1.76,72,25-02-86,Paraná,Newell's Old Boys,Racing Club,2009,Argentinian
+20,20,Rubén Ramírez,ARG,F,1.80,78,17-10-82,Margarita,Colón (Santa Fe),Racing Club,2009,Argentinian
+21,21,Jorge de Olivera,ARG,G,1.94,92,06-05-82,Posadas,Nueva Chicago,Racing Club,2009,Argentinian
+22,22,Gabriel  Mercado,ARG,D,1.80,77,18-03-87,Puerto  Madryn,None,Racing Club,2009,Argentinian
+23,23,Brian  Lluy,ARG,D,1.69,68,25-04-89,Pergamino,None,Racing Club,2009,Argentinian
+24,24,Damián  Ledesma,ARG,D,1.81,79,21-05-82,Rosario,Independiente,Racing Club,2009,Argentinian
+25,25,Sebastián Rosano,URU,M,1.82,78,25-05-87,Rivera,Montevideo Wanderers,Racing Club,2009,Argentinian
+26,26,Lucas  Castromán,ARG,M,1.75,75,10-02-80,Villa  Flandria,América,Racing Club,2009,Argentinian
+27,27,Matías Cahais,ARG,D,1.86,80,24-12-87,Morón,FC Groningen,Racing Club,2009,Argentinian
+28,28,Marcos Cáceres,PAR,D,1.85,79,05-05-86,San Lorenzo,Cerro Porteño,Racing Club,2009,Argentinian
+29,29,Gonzalo  Pérez,ARG,M,1.65,62,24-04-90,Mercedes,None,Racing Club,2009,Argentinian
+30,30,Valentín  Viola,ARG,F,1.80,76,28-08-91,Moreno,None,Racing Club,2009,Argentinian
+31,31,Luis  Fariña,ARG,M,1.77,71,20-04-91,Capital  Federal,None,Racing Club,2009,Argentinian
+32,32,Santiago Malano,ARG,F,1.79,77,29-01-87,Mercedes,None,Racing Club,2009,Argentinian
+34,34,Matías Martínez,ARG,D,1.82,82,24-03-88,Resistencia,None,Racing Club,2009,Argentinian
+1,1,Daniel  Vega,ARG,G,1.89,86,03-06-84,Cutral Có,Nueva Chicago,River Plate,2009,Argentinian
+2,2,Javier  Cohene,PAR,D,1.87,84,03-05-87,Pirayu,Olhanense,River Plate,2009,Argentinian
+3,3,Cristian  Villagra,ARG,D,1.72,72,27-12-85,Morteros,Rosario Central,River Plate,2009,Argentinian
+4,4,Paulo Ferrari,ARG,D,1.69,66,04-01-82,Rosario,Rosario  Central,River Plate,2009,Argentinian
+5,5,Oscar  Ahumada,ARG,M,1.72,70,31-08-82,Zárate,None,River Plate,2009,Argentinian
+6,6,Nicolás  Sánchez,ARG,D,1.87,82,04-02-86,Capital Federal,Nueva Chicago,River Plate,2009,Argentinian
+7,7,Mauro Rosales,ARG,F,1.72,75,24-02-81,Villa María,Ajax,River Plate,2009,Argentinian
+8,8,Rodrigo  Archubi,ARG,M,1.82,80,06-06-85,Lanús,Lanús,River Plate,2009,Argentinian
+10,10,Ariel  Ortega,ARG,F,1.70,64,04-03-74,General San Martín,Newell's Old Boys,River Plate,2009,Argentinian
+11,11,Marcelo Gallardo,ARG,M,1.65,68,18-01-76,Merlo,DC United,River Plate,2009,Argentinian
+12,12,Leandro  Chichizola,ARG,G,1.83,80,27-03-90,San Justo,None,River Plate,2009,Argentinian
+13,13,Germán  Pezzella,ARG,D,1.86,81,27-06-91,Bahía Blanca,None,River Plate,2009,Argentinian
+14,14,Nicolás  Domingo,ARG,M,1.74,70,08-04-85,Totoras,None,River Plate,2009,Argentinian
+15,15,Miguel Paniagua,PAR,M,1.80,80,14-05-87,Ciudad del Este,Guaraní [PAR],River Plate,2009,Argentinian
+16,16,Maximiliano Coronel,ARG,D,1.80,80,28-04-89,Morón,None,River Plate,2009,Argentinian
+17,17,Andrés  Ríos,ARG,F,1.79,78,08-01-89,Capital Federal,None,River Plate,2009,Argentinian
+18,18,Rogelio  Funes Mori,ARG,F,1.85,74,03-05-91,Mendoza,None,River Plate,2009,Argentinian
+19,19,Diego  Barrado,ARG,M,1.77,80,27-02-81,Bragado,Olimpo (BB),River Plate,2009,Argentinian
+21,21,Martín Galmarini,ARG,M,1.80,77,28-02-82,San Isidro,Tigre,River Plate,2009,Argentinian
+22,22,Gustavo  Bou,ARG,M,1.76,72,18-02-90,Concordia,None,River Plate,2009,Argentinian
+23,23,Cristian Fabbiani,ARG,F,1.89,85,03-09-83,Ciudad Evita,CFR Cluj,River Plate,2009,Argentinian
+24,24,Gustavo  Cabral,ARG,D,1.82,81,14-10-85,Isidro Casanova,Racing Club,River Plate,2009,Argentinian
+25,25,Matías  Almeyda,ARG,M,1.73,80,23-12-73,Azul,Fénix,River Plate,2009,Argentinian
+26,26,Fabio  Giménez,ARG,D,1.76,72,13-09-90,Puerto  Madryn,None,River Plate,2009,Argentinian
+27,27,Nicolás  Navarro,ARG,G,1.90,87,25-03-85,Capital Federal,Napoli,River Plate,2009,Argentinian
+29,29,Mauro  Díaz,ARG,M,1.70,62,10-03-91,Concepción del  Uruguay,None,River Plate,2009,Argentinian
+30,30,Diego  Buonanotte,ARG,M,1.60,56,19-04-88,Teodelina,None,River Plate,2009,Argentinian
+31,31,Facundo  Quiroga,ARG,D,1.79,76,10-01-78,San Luis,Wolfsburg,River Plate,2009,Argentinian
+32,32,Gastón  Villarreal,ARG,M,1.77,74,22-01-90,Córdoba,None,River Plate,2009,Argentinian
+33,33,Gustavo  Fernández,ARG,F,1.71,74,04-08-90,Concordia,None,River Plate,2009,Argentinian
+34,34,Daniel  Villalva,ARG,F,1.69,68,06-07-92,Caá Catí,None,River Plate,2009,Argentinian
+35,35,Gonzalo  Gil,ARG,F,1.86,91,08-09-89,Capital Federal,None,River Plate,2009,Argentinian
+36,36,Lucas  Orban,ARG,D,1.84,76,03-02-89,Capital Federal,None,River Plate,2009,Argentinian
+37,37,Roberto  Pereyra,ARG,F,1.87,75,17-01-91,Tucumán,None,River Plate,2009,Argentinian
+38,38,Matías  Abelairas,ARG,M,1.70,69,18-06-85,Olavarría,None,River Plate,2009,Argentinian
+39,39,Erik Lamela,ARG,F,1.83,73,25-03-92,Florida,None,River Plate,2009,Argentinian
+40,40,Juan  Ojeda,ARG,G,1.79,74,11-10-82,Arroyo Seco,Rosario Central,River Plate,2009,Argentinian
+1,1,Jorge  Broun,ARG,G,1.90,90,26-05-86,Rosario,None,Rosario Central,2009,Argentinian
+2,2,Nahuel  Valentini,ARG,D,1.82,79,16-11-88,Rosario,None,Rosario Central,2009,Argentinian
+3,3,Guillermo Burdisso,ARG,D,1.87,86,26-09-88,Altos de  Chipión,None,Rosario Central,2009,Argentinian
+4,4,Alexis  Danelón,ARG,D,1.73,68,06-01-86,Capitán Bermúdez,None,Rosario Central,2009,Argentinian
+5,5,Jesús  Méndez,ARG,M,1.79,73,01-08-84,San  Martín,St Gallen,Rosario Central,2009,Argentinian
+6,6,Diego Braghieri,ARG,D,1.84,79,23-02-87,Las Parejas,None,Rosario Central,2009,Argentinian
+7,7,Andrés Franzoia,ARG,M,1.79,72,21-10-85,San Pedro,Huracán,Rosario Central,2009,Argentinian
+8,8,Diego  Chitzoff,ARG,D,1.79,74,04-04-80,Villa Gobernador Gálvez,Colón (Santa Fe),Rosario Central,2009,Argentinian
+10,10,Jonathan  Gómez,ARG,M,1.71,71,21-12-89,Capitán  Bermudez,None,Rosario Central,2009,Argentinian
+11,11,Gervasio  Núñez,ARG,M,1.78,74,29-01-88,Formosa,None,Rosario Central,2009,Argentinian
+12,12,Hernán  Galíndez,ARG,G,1.85,93,30-03-87,Rosario,None,Rosario Central,2009,Argentinian
+13,13,Mario Vallejo,ARG,D,1.75,75,10-02-87,San Luis,None,Rosario Central,2009,Argentinian
+15,15,Lucas  Moya,ARG,M,1.78,70,01-02-87,San  Fernando del Valle,None,Rosario Central,2009,Argentinian
+16,16,Gonzalo  Choy,MEX,M,1.90,80,10-11-81,Montevideo,Monterrey,Rosario Central,2009,Argentinian
+17,17,Milton  Caraglio,ARG,F,1.87,89,01-12-88,Rosario,None,Rosario Central,2009,Argentinian
+18,18,Martin Astudillo,ARG,F,1.76,69,10-07-77,Mendoza,Alavés,Rosario Central,2009,Argentinian
+19,19,Emilio  Zelaya,ARG,F,1.80,71,30-07-87,San Miguel de Tucumán,None,Rosario Central,2009,Argentinian
+20,20,Matías  Ballini,ARG,M,1.73,75,19-12-88,Campana,None,Rosario Central,2009,Argentinian
+21,21,Gonzalo Castillejos,ARG,F,1.75,70,05-03-86,Leones,None,Rosario Central,2009,Argentinian
+23,23,Darío  Ocampo,ARG,M,1.83,58,21-06-86,Misiones,Vélez Sarsfield,Rosario Central,2009,Argentinian
+24,24,Ignacio Boggino,ARG,D,1.87,79,22-02-86,Rosario,None,Rosario Central,2009,Argentinian
+25,25,Manuel García,ARG,G,1.88,77,08-07-88,Rosario,None,Rosario Central,2009,Argentinian
+26,26,Milton  Zárate,ARG,M,,,05-09-88,Rosario,None,Rosario Central,2009,Argentinian
+27,27,Leandro  Gurrieri,ARG,D,,,15-07-88,San Pedro,None,Rosario Central,2009,Argentinian
+29,29,Mario Paglialunga,ARG,M,1.82,81,29-10-88,Rosario,None,Rosario Central,2009,Argentinian
+30,30,Paúl Ambrosi,ECU,D,1.77,70,14-10-80,Quito,LDU Quito,Rosario Central,2009,Argentinian
+31,31,Martín  Rivero,ARG,M,1.75,72,13-11-89,Rosario,None,Rosario Central,2009,Argentinian
+32,32,Adrian  de León,ARG,F,,,12-05-89,Junín,None,Rosario Central,2009,Argentinian
+33,33,Horacio  Calcaterra,ARG,M,1.79,70,22-02-89,Correa,None,Rosario Central,2009,Argentinian
+34,34,Cristian  Cuffaro Russo,ARG,D,,,18-05-88,Rosario,None,Rosario Central,2009,Argentinian
+35,35,Nicolás  Fernandez,ARG,F,,,,,None,Rosario Central,2009,Argentinian
+1,1,Agustín  Orión,ARG,G,1.90,83,26-06-81,Ramos Mejía,None,San Lorenzo,2009,Argentinian
+2,2,Renato  Civelli,ARG,D,1.93,89,14-10-83,Pehuajó,Marseille,San Lorenzo,2009,Argentinian
+3,3,Germán  Voboril,ARG,D,1.75,73,05-05-87,Lanús,None,San Lorenzo,2009,Argentinian
+4,4,Sebastián  Luna,ARG,D,1.78,78,24-12-87,General Belgrano,Quilmes,San Lorenzo,2009,Argentinian
+5,5,Christian Kily González,ARG,M,1.75,75,04-08-74,Rosario,Rosario Central,San Lorenzo,2009,Argentinian
+6,6,Jonathan  Bottinelli,ARG,D,1.80,79,14-09-84,Capital Federal,Sampdoria,San Lorenzo,2009,Argentinian
+7,7,Juan  Carlos Menseguez,ARG,F,1.74,68,18-02-84,Córdoba,Wolfsburg,San Lorenzo,2009,Argentinian
+8,8,Diego Rivero,ARG,M,1.63,67,11-08-81,Misiones,Cruz  Azul,San Lorenzo,2009,Argentinian
+9,9,Bernardo  Daniel Romeo,ARG,F,1.77,72,10-09-77,Tandil,Osasuna,San Lorenzo,2009,Argentinian
+10,10,Leandro  Romagnoli,ARG,M,1.72,61,17-03-81,Buenos  Aires,Sporting CP,San Lorenzo,2009,Argentinian
+11,11,Aureliano  Torres,PAR,D,1.80,70,16-06-82,Luque,Guaraní [PAR],San Lorenzo,2009,Argentinian
+12,12,Nereo Champagne,ARG,G,1.88,88,20-01-85,Salto,None,San Lorenzo,2009,Argentinian
+13,13,Fernando Meza,ARG,D,1.76,64,21-03-90,San Martín,None,San Lorenzo,2009,Argentinian
+14,14,Fabián  Bordagaray,ARG,F,1.73,72,15-02-87,Avellaneda,None,San Lorenzo,2009,Argentinian
+16,16,Damián Martínez,ARG,D,1.77,72,31-01-90,Capital Federal,None,San Lorenzo,2009,Argentinian
+17,17,Juan  Manuel Torres,ARG,M,1.73,67,20-06-85,Puerto Vilelas,Racing Club,San Lorenzo,2009,Argentinian
+18,18,Cristian  Leiva,ARG,M,1.74,78,26-09-77,Chilecito,Godoy Cruz (Mendoza),San Lorenzo,2009,Argentinian
+19,19,Alejandro  Gómez,ARG,M,1.64,60,15-02-88,Capital  Federal,Arsenal [ARG],San Lorenzo,2009,Argentinian
+20,20,Gastón  Aguirre,ARG,D,1.78,76,11-11-81,Adrogué,Newell's Old Boys,San Lorenzo,2009,Argentinian
+21,21,Pablo Pintos,URU,D,1.82,78,01-07-87,Montevideo,Defensor Sporting,San Lorenzo,2009,Argentinian
+22,22,Pablo  Migliore,ARG,G,1.90,85,27-01-82,Ramos  Mejía,Racing Club,San Lorenzo,2009,Argentinian
+23,23,Salvador  Reynoso,ARG,M,1.82,76,12-10-87,General Rodríguez,None,San Lorenzo,2009,Argentinian
+24,24,Bruno  Centeno,ARG,G,1.81,85,08-08-88,Buenos  Aires,None,San Lorenzo,2009,Argentinian
+25,25,Santiago Prim,ARG,M,1.72,68,11-05-90,Campana,None,San Lorenzo,2009,Argentinian
+26,26,Lionel Rinaldi,ARG,M,1.73,,01-05-87,Capital Federal,None,San Lorenzo,2009,Argentinian
+27,27,José  Luis Palomino,ARG,D,1.86,87,05-01-90,San Miguel de Tucumán,None,San Lorenzo,2009,Argentinian
+28,28,Gonzalo  Bazán,ARG,M,1.75,70,05-05-89,La  Rioja,None,San Lorenzo,2009,Argentinian
+29,29,Felix  Orode,NGA,M,1.78,76,28-07-90,Lagos,Sharks,San Lorenzo,2009,Argentinian
+30,30,Axel Juárez,ARG,M,1.73,70,29-07-90,Bella Vista,None,San Lorenzo,2009,Argentinian
+31,31,Gonzalo  Rovira,ARG,F,1.79,78,07-04-88,Santo  Tomé,None,San Lorenzo,2009,Argentinian
+33,33,Sebastián González,ARG,M,1.60,61,04-03-92,Lomas de Zamora,None,San Lorenzo,2009,Argentinian
+34,34,Emmanuel Torres,ARG,F,1.83,75,24-06-92,Ciudadela,None,San Lorenzo,2009,Argentinian
+35,35,Leandro  Chaparro,ARG,M,1.73,65,07-01-91,La Tablada,None,San Lorenzo,2009,Argentinian
+36,36,Nahuel  Devico,ARG,D,,,15-08-90,Capital Federal,None,San Lorenzo,2009,Argentinian
+37,37,Maximiliano Malemacci,ARG,F,,,28-04-89,Capital Federal,None,San Lorenzo,2009,Argentinian
+38,38,Bruno Camilletti,ARG,M,,,11-05-89,Catriel,None,San Lorenzo,2009,Argentinian
+39,39,Víctor Meza,ARG,F,1.78,76,28-01-87,Capital Federal,Unión San Felipe,San Lorenzo,2009,Argentinian
+1,1,Daniel  Islas,ARG,G,1.83,84,19-02-79,Capital Federal,Huracán (Tres Arroyos),Tigre,2009,Argentinian
+2,2,Damián  Leyes,ARG,D,1.80,77,14-01-86,San Luis,Independiente,Tigre,2009,Argentinian
+3,3,Julio Manzur,PAR,D,1.85,83,22-01-81,Limpio,Libertad,Tigre,2009,Argentinian
+4,4,José  San Román,ARG,D,1.72,70,17-08-88,General San  Martín,River  Plate,Tigre,2009,Argentinian
+5,5,Diego  Castaño,ARG,M,1.91,87,08-06-79,Bragado,Rivadavia (Lincoln),Tigre,2009,Argentinian
+6,6,Rodolfo Arruabarrena,ARG,D,1.78,73,20-07-75,Buenos Aires,AEK,Tigre,2009,Argentinian
+7,7,Carlos  Luna,ARG,F,1.78,78,17-01-82,Piquillín,Elche,Tigre,2009,Argentinian
+8,8,Jonathan  Blanco,ARG,M,1.84,81,29-04-87,José C. Paz,None,Tigre,2009,Argentinian
+9,9,Leandro  Lázzaro,ARG,F,1.88,90,08-03-74,Capital  Federal,Estudiantes (LP),Tigre,2009,Argentinian
+10,10,Martín  Morel,ARG,M,1.74,75,05-11-80,Rosario,Sportivo Las Parejas,Tigre,2009,Argentinian
+11,11,Ramiro  Leone,ARG,M,1.73,70,01-06-77,Rosario,San Martín (Tucumán),Tigre,2009,Argentinian
+12,12,Luis  Ardente,ARG,G,1.88,81,17-09-81,San Isidro,None,Tigre,2009,Argentinian
+13,13,Alberto  Alarcón,ARG,D,1.85,84,31-08-86,San Fernando,Defensores de Belgrano,Tigre,2009,Argentinian
+15,15,Guillermo  Suárez,ARG,F,1.67,63,09-06-85,Lincoln,Dinamo Zagreb,Tigre,2009,Argentinian
+16,16,Lucas Oviedo,ARG,M,1.75,72,19-04-85,San Juan,San Martín (Tucumán),Tigre,2009,Argentinian
+17,17,Matías Giménez,ARG,M,1.80,73,20-02-83,Apóstoles,None,Tigre,2009,Argentinian
+18,18,Julio Aguilar,PAR,F,1.86,80,01-07-86,La Pastora,UANL Tigres,Tigre,2009,Argentinian
+19,19,Cristian  Bardaro,ARG,F,1.67,69,11-08-77,Capital  Federal,Danubio,Tigre,2009,Argentinian
+20,20,Mariano  Pasini,ARG,M,1.76,73,19-10-76,Capital  Federal,Temperley,Tigre,2009,Argentinian
+21,21,Lucas  Abud,ARG,G,1.80,81,08-03-86,Capital Federal,None,Tigre,2009,Argentinian
+23,23,Norberto Paparatto,ARG,D,1.92,82,03-01-84,Adrogué,Tiro Federal (Rosario),Tigre,2009,Argentinian
+24,24,Juan  Pablo Garat,ARG,D,1.87,75,19-04-83,Avellaneda,St Gallen,Tigre,2009,Argentinian
+25,25,José  Montiel,PAR,M,1.75,71,19-03-88,Itauguá,Reggina,Tigre,2009,Argentinian
+28,28,Juan  Miguel Maldonado,ARG,M,1.78,71,06-11-89,Rauch,None,Tigre,2009,Argentinian
+30,30,Carlos Fondacaro,ARG,D,1.65,59,21-05-87,Rosario,Boca Juniors,Tigre,2009,Argentinian
+31,31,Carlos Ricci,ARG,D,,,03-07-89,,None,Tigre,2009,Argentinian
+32,32,Facundo  Pumpido,ARG,F,1.85,82,21-10-88,Capital  Federal,None,Tigre,2009,Argentinian
+33,33,Maximiliano  Oliva,ARG,D,1.71,76,04-03-90,Gobernador Crespo,River Plate,Tigre,2009,Argentinian
+34,34,Emanuel  Cincotta,ARG,D,,,01-10-91,,None,Tigre,2009,Argentinian
+36,36,Walter Sánchez,ARG,M,1.72,71,19-10-89,José C. Paz,None,Tigre,2009,Argentinian
+37,37,Hernán Castría,ARG,D,,,05-07-89,Santa Fe,None,Tigre,2009,Argentinian
+38,38,Ezequiel  Abregú,ARG,M,1.59,61,09-09-89,San Isidro,None,Tigre,2009,Argentinian
+41,41,Néstor  Ayala,PAR,F,1.76,70,18-02-83,Capiatá,Sportivo Luqueño,Tigre,2009,Argentinian
+1,1,Marcelo  Barovero,ARG,G,1.83,73,18-02-84,Porteña,Huracán,Vélez Sarsfield,2009,Argentinian
+2,2,Marco  Torsiglieri,ARG,D,1.90,77,12-01-88,Castelar,None,Vélez Sarsfield,2009,Argentinian
+3,3,Emiliano  Papa,ARG,D,1.69,67,19-04-82,Acébal,Rosario Central,Vélez Sarsfield,2009,Argentinian
+4,4,Ricardo  Gastón  Díaz,ARG,D,1.70,63,13-03-88,Ciudadela,None,Vélez Sarsfield,2009,Argentinian
+5,5,Fabián Cubero,ARG,D,1.75,72,21-12-78,Mar del Plata,UANL Tigres,Vélez Sarsfield,2009,Argentinian
+6,6,Sebastián Dominguez,ARG,D,1.83,67,29-07-80,Capital Federal,América,Vélez Sarsfield,2009,Argentinian
+7,7,Juan  Martínez,ARG,F,1.73,73,21-10-85,Viedma,Al-Shabab,Vélez Sarsfield,2009,Argentinian
+8,8,Nicolás Cabrera,ARG,M,1.75,69,05-06-84,La Plata,Newell's Old Boys,Vélez Sarsfield,2009,Argentinian
+9,9,Rodrigo López,URU,F,1.81,77,21-01-78,Montevideo,América,Vélez Sarsfield,2009,Argentinian
+10,10,Maximiliano  Moralez,ARG,M,1.60,54,27-02-87,Granadero  Baigorria,FC Moscow,Vélez Sarsfield,2009,Argentinian
+11,11,Rolando Zárate,ARG,F,1.80,79,06-08-78,Haedo,Barcelona [ECU],Vélez Sarsfield,2009,Argentinian
+12,12,Ezequiel Cacace,ARG,G,1.83,78,07-01-84,Capital Federal,Talleres (Rem. de Escalada),Vélez Sarsfield,2009,Argentinian
+13,13,Pablo Lima,URU,D,1.78,76,26-03-81,Montevideo,Danubio,Vélez Sarsfield,2009,Argentinian
+14,14,Leandro  Coronel,ARG,M,1.80,78,10-02-88,Capital  Federal,None,Vélez Sarsfield,2009,Argentinian
+15,15,Fernando  Tobio,ARG,D,1.90,78,18-10-89,Ramos  Mejía,None,Vélez Sarsfield,2009,Argentinian
+16,16,Victor  Zapata,ARG,M,1.75,70,20-01-79,San Martín,River Plate,Vélez Sarsfield,2009,Argentinian
+17,17,Franco Razzotti,ARG,M,1.81,78,06-02-85,Capital Federal,None,Vélez Sarsfield,2009,Argentinian
+18,18,Leandro  Somoza,ARG,M,1.85,77,26-01-81,Capital Federal,Villarreal,Vélez Sarsfield,2009,Argentinian
+19,19,Nicolás  Otamendi,ARG,D,1.78,75,12-02-88,Pacheco,None,Vélez Sarsfield,2009,Argentinian
+20,20,Leandro Caruso,ARG,F,1.81,79,14-07-81,Avellaneda,Udinese,Vélez Sarsfield,2009,Argentinian
+21,21,Jonathan  Cristaldo,ARG,F,1.78,70,05-03-89,Ingeniero  Budge,None,Vélez Sarsfield,2009,Argentinian
+22,22,Leandro Velázquez,ARG,M,1.67,62,10-05-89,Capital Federal,None,Vélez Sarsfield,2009,Argentinian
+23,23,Waldo Ponce,CHI,D,1.80,69,04-12-82,Los Andes,Universidad de Chile,Vélez Sarsfield,2009,Argentinian
+24,24,Iván Bella,ARG,M,1.80,72,13-09-89,San  Martín,None,Vélez Sarsfield,2009,Argentinian
+25,25,Germán  Montoya,ARG,G,1.85,75,23-01-83,Córdoba,Belgrano  (Córdoba),Vélez Sarsfield,2009,Argentinian
+26,26,Leonardo Piris,ARG,F,1.70,65,01-04-90,Posadas,None,Vélez Sarsfield,2009,Argentinian
+27,27,Alejandro Cabral,ARG,M,1.85,76,11-09-87,Capital Federal,None,Vélez Sarsfield,2009,Argentinian
+28,28,Mariano Bíttolo,ARG,D,1.74,65,24-04-90,Morón,None,Vélez Sarsfield,2009,Argentinian
+29,29,Ricardo Álvarez,ARG,M,1.88,73,12-04-88,Capital Federal,None,Vélez Sarsfield,2009,Argentinian
+30,30,Guillermo  Pfund,ARG,D,1.85,81,30-05-89,Tornquist,None,Vélez Sarsfield,2009,Argentinian
+32,32,Javier Robles,ARG,M,1.71,72,18-01-85,Capital Federal,None,Vélez Sarsfield,2009,Argentinian
+33,33,Luis Acuña,ARG,M,1.71,64,20-01-89,Moreno,None,Vélez Sarsfield,2009,Argentinian
+34,34,Matías Conti,ARG,F,1.82,78,17-01-90,Reconquista,None,Vélez Sarsfield,2009,Argentinian
