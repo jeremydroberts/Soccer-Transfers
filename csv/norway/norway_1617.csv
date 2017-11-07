@@ -26,56 +26,31 @@
 38,38,Jørgen Hatlehol,NOR,M,1.83,68,18-06-97,Ålesund,None,Aalesund,2016,Norwegian
 39,39,Sigurd Tafjord,NOR,D,1.79,74,30-01-97,Ålesund,None,Aalesund,2016,Norwegian
 40,40,Sondre Brunstad Fet,NOR,M,1.78,74,20-01-97,Ålesund,None,Aalesund,2016,Norwegian
-1,1,Simon Thomas,CAN,G,1.91,84,12-04-90,Victoria,Strømmen,
-Bodø/Glimt,2016,Norwegian
-2,2,Ruben Imingen,NOR,D,1.83,72,04-12-86,Steigen,Fauske/Spirit,
-Bodø/Glimt,2016,Norwegian
-3,3,Emil Jonassen,NOR,D,1.76,78,17-02-93,Skien,Odd,
-Bodø/Glimt,2016,Norwegian
-4,4,Martin Bjørnbak,NOR,D,1.93,90,22-03-92,Mo i Rana,Haugesund,
-Bodø/Glimt,2016,Norwegian
-5,5,Thomas Jacobsen,NOR,D,1.75,74,16-09-83,Bodø,Lyn,
-Bodø/Glimt,2016,Norwegian
-6,6,Sascha Mockenhaupt,GER,D,1.85,80,10-09-91,Kirchen,Kaiserslautern,
-Bodø/Glimt,2016,Norwegian
-7,7,Fitim Azemi,NOR,F,1.80,80,25-06-92,Oslo,Follo,
-Bodø/Glimt,2016,Norwegian
-8,8,Ole Jørgen Halvorsen,NOR,F,1.78,75,02-09-87,Sarpsborg,Odd,
-Bodø/Glimt,2016,Norwegian
-9,9,Alexander Jakobsen,EGY,M,1.80,73,18-03-94,Hvidovre,Falkenbergs FF,
-Bodø/Glimt,2016,Norwegian
-10,10,Ruslan Babenko,UKR,M,1.70,65,08-07-92,Dnipropetrovsk,Stal Dniprodzerzhynsk,
-Bodø/Glimt,2016,Norwegian
-12,12,Jonas Ueland Kolstad,NOR,G,1.86,87,21-09-76,Bodø,Florida Atlantic University,
-Bodø/Glimt,2016,Norwegian
-14,14,Ulrik Saltnes,NOR,M,1.87,78,10-11-92,Brønnøysund,None,
-Bodø/Glimt,2016,Norwegian
-16,16,Morten Konradsen,NOR,M,1.76,73,03-05-96,Bodø,None,
-Bodø/Glimt,2016,Norwegian
-17,17,Mathias Normann,NOR,M,1.79,75,28-05-96,Svolvær,None,
-Bodø/Glimt,2016,Norwegian
-18,18,Brede Moe,NOR,D,1.84,80,15-12-91,Flatanger,Rosenborg,
-Bodø/Glimt,2016,Norwegian
-19,19,Joachim Osvold,NOR,F,1.86,76,23-09-94,Lørenskog,RW Erfurt,
-Bodø/Glimt,2016,Norwegian
-21,21,Daniel Edvardsen,NOR,M,1.82,80,31-08-91,Harstad,Harstad,
-Bodø/Glimt,2016,Norwegian
-22,22,Vadim Manzon,RUS,F,1.94,88,05-12-94,Moscow,Karlsruhe,
-Bodø/Glimt,2016,Norwegian
-23,23,Serhiy Pohorilyy,UKR,G,1.90,85,28-07-86,Kyiv,Metalist Kharkiv,
-Bodø/Glimt,2016,Norwegian
-24,24,Fredrik André Bjørkan,NOR,D,,,21-08-98,,None,
-Bodø/Glimt,2016,Norwegian
-27,27,Patrick Berg,NOR,M,1.75,70,24-11-97,Bodø,None,
-Bodø/Glimt,2016,Norwegian
-28,28,William Hanssen,NOR,F,,,10-05-98,,None,
-Bodø/Glimt,2016,Norwegian
-29,29,Vebjørn Vinje,NOR,D,1.87,83,07-04-95,Nesna,None,
-Bodø/Glimt,2016,Norwegian
-30,30,Trond Olsen,NOR,F,1.73,70,05-02-84,Tromsø,Viking,
-Bodø/Glimt,2016,Norwegian
-31,31,Jens Petter Hauge,NOR,F,,,12-10-99,Bodø,None,
-Bodø/Glimt,2016,Norwegian
+1,1,Simon Thomas,CAN,G,1.91,84,12-04-90,Victoria,Strømmen,Bodø/Glimt,2016,Norwegian
+2,2,Ruben Imingen,NOR,D,1.83,72,04-12-86,Steigen,Fauske/Spirit,Bodø/Glimt,2016,Norwegian
+3,3,Emil Jonassen,NOR,D,1.76,78,17-02-93,Skien,Odd,Bodø/Glimt,2016,Norwegian
+4,4,Martin Bjørnbak,NOR,D,1.93,90,22-03-92,Mo i Rana,Haugesund,Bodø/Glimt,2016,Norwegian
+5,5,Thomas Jacobsen,NOR,D,1.75,74,16-09-83,Bodø,Lyn,Bodø/Glimt,2016,Norwegian
+6,6,Sascha Mockenhaupt,GER,D,1.85,80,10-09-91,Kirchen,Kaiserslautern,Bodø/Glimt,2016,Norwegian
+7,7,Fitim Azemi,NOR,F,1.80,80,25-06-92,Oslo,Follo,Bodø/Glimt,2016,Norwegian
+8,8,Ole Jørgen Halvorsen,NOR,F,1.78,75,02-09-87,Sarpsborg,Odd,Bodø/Glimt,2016,Norwegian
+9,9,Alexander Jakobsen,EGY,M,1.80,73,18-03-94,Hvidovre,Falkenbergs FF,Bodø/Glimt,2016,Norwegian
+10,10,Ruslan Babenko,UKR,M,1.70,65,08-07-92,Dnipropetrovsk,Stal Dniprodzerzhynsk,Bodø/Glimt,2016,Norwegian
+12,12,Jonas Ueland Kolstad,NOR,G,1.86,87,21-09-76,Bodø,Florida Atlantic University,Bodø/Glimt,2016,Norwegian
+14,14,Ulrik Saltnes,NOR,M,1.87,78,10-11-92,Brønnøysund,None,Bodø/Glimt,2016,Norwegian
+16,16,Morten Konradsen,NOR,M,1.76,73,03-05-96,Bodø,None,Bodø/Glimt,2016,Norwegian
+17,17,Mathias Normann,NOR,M,1.79,75,28-05-96,Svolvær,None,Bodø/Glimt,2016,Norwegian
+18,18,Brede Moe,NOR,D,1.84,80,15-12-91,Flatanger,Rosenborg,Bodø/Glimt,2016,Norwegian
+19,19,Joachim Osvold,NOR,F,1.86,76,23-09-94,Lørenskog,RW Erfurt,Bodø/Glimt,2016,Norwegian
+21,21,Daniel Edvardsen,NOR,M,1.82,80,31-08-91,Harstad,Harstad,Bodø/Glimt,2016,Norwegian
+22,22,Vadim Manzon,RUS,F,1.94,88,05-12-94,Moscow,Karlsruhe,Bodø/Glimt,2016,Norwegian
+23,23,Serhiy Pohorilyy,UKR,G,1.90,85,28-07-86,Kyiv,Metalist Kharkiv,Bodø/Glimt,2016,Norwegian
+24,24,Fredrik André Bjørkan,NOR,D,,,21-08-98,,None,Bodø/Glimt,2016,Norwegian
+27,27,Patrick Berg,NOR,M,1.75,70,24-11-97,Bodø,None,Bodø/Glimt,2016,Norwegian
+28,28,William Hanssen,NOR,F,,,10-05-98,,None,Bodø/Glimt,2016,Norwegian
+29,29,Vebjørn Vinje,NOR,D,1.87,83,07-04-95,Nesna,None,Bodø/Glimt,2016,Norwegian
+30,30,Trond Olsen,NOR,F,1.73,70,05-02-84,Tromsø,Viking,Bodø/Glimt,2016,Norwegian
+31,31,Jens Petter Hauge,NOR,F,,,12-10-99,Bodø,None,Bodø/Glimt,2016,Norwegian
 1,1,Alex Horwath,USA,G,1.93,84,27-03-87,Woodbine,Ljungskile SK,Brann,2016,Norwegian
 5,5,Jonas Grønner,NOR,D,1.83,79,11-04-94,Bergen,None,Brann,2016,Norwegian
 6,6,Vladim Demidov,NOR,D,1.85,73,10-10-86,Riga,Anzhi Makhachkala,Brann,2016,Norwegian
