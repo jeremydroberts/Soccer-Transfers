@@ -338,54 +338,30 @@
 43,66,Andreas Hoven,NOR,F,1.84,84,20-02-98,,None,Strømsgodset,2016,Norwegian
 44,69,Kristoffer Hoven,NOR,M,,,10-08-96,,Mjøndalen,Strømsgodset,2016,Norwegian
 45,93,Tokmac Nguen,NOR,F,1.74,60,20-10-93,Kakuma,Drammen,Strømsgodset,2016,Norwegian
-1,1,Gudmund Taksdal Kongshavn,NOR,G,1.88,83,23-01-91,Bergen,Vålerenga,Tromsø
-Bodø/Glimt,2016,Norwegian
-3,3,Kent-Are Antonsen,NOR,D,1.72,70,12-02-95,Storsteinnes,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-4,4,Henrik Gjesdal,NOR,D,1.92,87,19-07-93,Bergen,Brann,Tromsø
-Bodø/Glimt,2016,Norwegian
-5,5,Magnar Ødegaard,NOR,D,1.86,80,11-05-93,Fredrikstad,Molde,Tromsø
-Bodø/Glimt,2016,Norwegian
-6,6,Christian Landu Landu,NOR,D,1.83,78,25-01-92,Stavanger,Viking,Tromsø
-Bodø/Glimt,2016,Norwegian
-7,7,Morten Gamst Pedersen,NOR,M,1.83,74,08-09-81,Vadsø,Rosenborg,Tromsø
-Bodø/Glimt,2016,Norwegian
-8,8,Ulrik Yttergård Jenssen,NOR,M,1.81,70,17-07-96,Tromsø,Lyon,Tromsø
-Bodø/Glimt,2016,Norwegian
-9,9,Sofien Moussa,TUN,F,1.88,88,06-02-88,La Marsa,Petrolul Ploiești,Tromsø
-Bodø/Glimt,2016,Norwegian
-10,10,Thomas Lehne Olsen,NOR,F,1.86,78,29-06-91,Hamar,Strømsgodset,Tromsø
-Bodø/Glimt,2016,Norwegian
-11,11,Jonas Johansen,NOR,D,1.86,78,22-03-85,Tromsø,Tromsdalen,Tromsø
-Bodø/Glimt,2016,Norwegian
-12,12,Filip Lončarić,CRO,G,1.91,86,17-09-86,Zagreb,Zrinjski Mostar,Tromsø
-Bodø/Glimt,2016,Norwegian
-14,14,Hans Norbye,NOR,D,1.76,76,16-01-87,Karasjok,Tromsdalen,Tromsø
-Bodø/Glimt,2016,Norwegian
-15,15,Magnus Andersen,NOR,M,1.79,71,28-05-86,Øksfjord,Alta,Tromsø
-Bodø/Glimt,2016,Norwegian
-17,17,Aron Sigurðarson,ISL,M,1.77,70,08-10-93,,Fjölnir,Tromsø
-Bodø/Glimt,2016,Norwegian
-19,19,William Frantzen,NOR,M,1.82,70,13-06-93,Kvaløysletta,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-20,20,Christer Johnsgard,NOR,F,1.82,68,17-02-87,Silsand,Senja,Tromsø
-Bodø/Glimt,2016,Norwegian
-22,22,Simen Wangberg,NOR,D,1.85,73,06-05-91,Trondheim,Brann,Tromsø
-Bodø/Glimt,2016,Norwegian
-23,23,Gjermund Åsen,NOR,M,1.82,71,22-05-91,Trondheim,Ranheim,Tromsø
-Bodø/Glimt,2016,Norwegian
-24,24,Mikael Ingebrigtsen,NOR,F,1.70,68,21-07-96,Tromsø,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-25,25,Lasse Nilsen,NOR,D,1.78,64,21-02-95,,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-26,26,Jostein Gundersen,NOR,D,1.86,82,02-04-96,,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-27,27,Fredrik Michalsen,NOR,M,1.89,75,15-09-96,Tromsø,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-28,28,Jakob Karlstrøm,NOR,G,2.00,90,09-01-97,,None,Tromsø
-Bodø/Glimt,2016,Norwegian
-30,30,Runar Espejord,NOR,F,1.89,86,26-02-96,Tromsø,None,Tromsø
-Bodø/Glimt,2016,Norwegian
+1,1,Gudmund Taksdal Kongshavn,NOR,G,1.88,83,23-01-91,Bergen,Vålerenga,TromsøBodø/Glimt,2016,Norwegian
+3,3,Kent-Are Antonsen,NOR,D,1.72,70,12-02-95,Storsteinnes,None,TromsøBodø/Glimt,2016,Norwegian
+4,4,Henrik Gjesdal,NOR,D,1.92,87,19-07-93,Bergen,Brann,TromsøBodø/Glimt,2016,Norwegian
+5,5,Magnar Ødegaard,NOR,D,1.86,80,11-05-93,Fredrikstad,Molde,TromsøBodø/Glimt,2016,Norwegian
+6,6,Christian Landu Landu,NOR,D,1.83,78,25-01-92,Stavanger,Viking,TromsøBodø/Glimt,2016,Norwegian
+7,7,Morten Gamst Pedersen,NOR,M,1.83,74,08-09-81,Vadsø,Rosenborg,TromsøBodø/Glimt,2016,Norwegian
+8,8,Ulrik Yttergård Jenssen,NOR,M,1.81,70,17-07-96,Tromsø,Lyon,TromsøBodø/Glimt,2016,Norwegian
+9,9,Sofien Moussa,TUN,F,1.88,88,06-02-88,La Marsa,Petrolul Ploiești,TromsøBodø/Glimt,2016,Norwegian
+10,10,Thomas Lehne Olsen,NOR,F,1.86,78,29-06-91,Hamar,Strømsgodset,TromsøBodø/Glimt,2016,Norwegian
+11,11,Jonas Johansen,NOR,D,1.86,78,22-03-85,Tromsø,Tromsdalen,TromsøBodø/Glimt,2016,Norwegian
+12,12,Filip Lončarić,CRO,G,1.91,86,17-09-86,Zagreb,Zrinjski Mostar,TromsøBodø/Glimt,2016,Norwegian
+14,14,Hans Norbye,NOR,D,1.76,76,16-01-87,Karasjok,Tromsdalen,TromsøBodø/Glimt,2016,Norwegian
+15,15,Magnus Andersen,NOR,M,1.79,71,28-05-86,Øksfjord,Alta,TromsøBodø/Glimt,2016,Norwegian
+17,17,Aron Sigurðarson,ISL,M,1.77,70,08-10-93,,Fjölnir,TromsøBodø/Glimt,2016,Norwegian
+19,19,William Frantzen,NOR,M,1.82,70,13-06-93,Kvaløysletta,None,TromsøBodø/Glimt,2016,Norwegian
+20,20,Christer Johnsgard,NOR,F,1.82,68,17-02-87,Silsand,Senja,TromsøBodø/Glimt,2016,Norwegian
+22,22,Simen Wangberg,NOR,D,1.85,73,06-05-91,Trondheim,Brann,TromsøBodø/Glimt,2016,Norwegian
+23,23,Gjermund Åsen,NOR,M,1.82,71,22-05-91,Trondheim,Ranheim,TromsøBodø/Glimt,2016,Norwegian
+24,24,Mikael Ingebrigtsen,NOR,F,1.70,68,21-07-96,Tromsø,None,TromsøBodø/Glimt,2016,Norwegian
+25,25,Lasse Nilsen,NOR,D,1.78,64,21-02-95,,None,TromsøBodø/Glimt,2016,Norwegian
+26,26,Jostein Gundersen,NOR,D,1.86,82,02-04-96,,None,TromsøBodø/Glimt,2016,Norwegian
+27,27,Fredrik Michalsen,NOR,M,1.89,75,15-09-96,Tromsø,None,TromsøBodø/Glimt,2016,Norwegian
+28,28,Jakob Karlstrøm,NOR,G,2.00,90,09-01-97,,None,TromsøBodø/Glimt,2016,Norwegian
+30,30,Runar Espejord,NOR,F,1.89,86,26-02-96,Tromsø,None,TromsøBodø/Glimt,2016,Norwegian
 1,1,Marcus Sandberg,SWE,G,1.91,79,07-11-90,Rönnäng,IFK Göteborg,Vålerenga,2016,Norwegian
 3,3,Enar Jääger,EST,D,1.76,73,18-11-84,Valga,Flora Tallinn,Vålerenga,2016,Norwegian
 4,4,Jonatan Tollås,NOR,D,1.88,80,01-07-90,Ålesund,Aalesund,Vålerenga,2016,Norwegian
